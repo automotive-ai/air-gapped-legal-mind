@@ -5,7 +5,7 @@
 
 # ⚖️ CORA: Air-Gapped Legal AI (Lite Edition)
 
-Cora is a fully local, privacy-first legal retrieval-augmented generation (RAG) agent. It answers complex regulatory questions—EU vehicle homologation, GDPR, the AI Act—without sending your data or queries to any cloud API.
+CORA is a fully local, privacy-first retrieval-augmented generation (RAG) agent for legal and regulatory analysis. It answers complex regulatory questions in areas such as EU vehicle homologation, GDPR, and the AI Act—without transmitting data or queries to external cloud services.
 
 This **Open-Source Lite Edition** includes a curated dataset of 1,000 European Union directives and regulations.
 
