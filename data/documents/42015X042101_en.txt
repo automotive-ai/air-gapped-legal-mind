@@ -1,0 +1,339 @@
+Introduction
+Regulation No 118 of the Economic Commission for Europe of the United Nations (UNECE) — Uniform technical prescriptions concerning the burning behaviour and/or the capability to repel fuel or lubricant of materials used in the construction of certain categories of motor vehicles [2015/622]
+Incorporating all valid text up to:
+
+Supplement 1 to the 02 series of amendments — Date of entry into force: 3 November 2013
+CONTENTS
+REGULATION
+ 1. Scope
+ 2. Definitions: General
+ 3. Application for approval
+ 4. Approval
+ 5. Part I: Approval of a vehicle type with regard to the burning behaviour of the components used in the interior compartment, the engine compartment and any separate heating compartment and/or the capability to repel fuel or lubricant of insulation materials used in the engine compartment and any separate heating compartment
+ 6. Part II: Approval of a component with regard to its burning behaviour and/or its capability to repel fuel or lubricant
+ 7. Modification of the type and extension of approval
+ 8. Conformity of production
+ 9. Penalties for non-conformity of production
+ 10. Production definitively discontinued
+ 11. Names and addresses of Technical Services responsible for conducting approval tests and of Type-Approval Authorities
+ 12. Transitional provisions
+ANNEXES
+1
+Information document for vehicle
+2
+Information document for component
+3
+Communication (concerning approval of a vehicle type)
+4
+Communication (concerning approval of a component type)
+5
+Arrangements of approval marks
+6
+Test to determine the horizontal burning rate of materials
+7
+Test to determine the melting behaviour of materials
+8
+Test to determine the vertical burning rate of materials
+9
+Test to determine the capability of materials to repel fuel or lubricant
+{{IMAGE:Image_0, Caption:Double-headed arrow symbol indicating the horizontal direction for material installation.}} Text of image
+COMMUNICATION
+(Maximum format: A4 (210 × 297 mm))
+(1) issued by: Name of administration
+Concerning (2): Approval granted
+Approval extended
+Approval refused
+Approval withdrawn
+Production definitively discontinued
+of a vehicle type pursuant to Regulation No 118
+Approval No Extension No
+Reasons for extention: Section I
+General
+1.1. Make (trade name of manufacturer):
+1.2. Type: 1.3. Means of identification of type, if marked on the vehicle/component/ separate technical unit (2) (b):
+1.3.1. Location of that marking: 1.4. Category of vehicle (c):
+1.5. Name and address of manufacturer: 1.6. Location of the approval mark: 1.7. Address(es) of assembly plant(s):
+Section II 1. Additional information (where applicable) 2. Technical Service responsible for carrying out the tests: 3. Date of test report: 4. Number of test report: 5. Remarks (if any): 6. Place: 7. Date: 8. Signature: 9. The index to the information package lodged with the Type-Approval Authority, which may be obtained on request, is attached. (1) Distinguishing number of the country which has granted/extended/refused or withdrawn approval. (2) Strike out what does not apply (there are cases where nothing needs to be deleted, when more than one entry is applicable). (b) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered in this information document, such characters shall be represented in the documentation by the symbol "?" (e.g. ABC??123??). (c) As defined in Annex 7 to the Consolidated Resolution on the Construction of Vehicles (R.E.3) (document TRANS/WP.29/78/Rev.2, para. 2).
+TEST TO DETERMINE THE CAPABILITY OF MATERIALS TO REPEL FUEL OR LUBRICANT
+ANNEX 9
+TEST TO DETERMINE THE CAPABILITY OF MATERIALS TO REPEL FUEL OR LUBRICANT
+1. SCOPE
+This annex lists prescriptions to test the capability of insulation materials used in engine compartments and separate heating compartments.
+
+2. SAMPLING AND PRINCIPLE
+2.1. The test samples shall measure: 140 mm × 140 mm. 2.2. The thickness of the samples shall be 5 mm. If the thickness of the test sample is more than 5 mm, it shall be reduced to 5 mm by a mechanical process applied to the side which does not face the engine compartment or separate heating compartment. 2.3. The test liquid shall be diesel fuel according to standard EN 590:1999 (Market fuels). or alternatively diesel fuel according to Regulation No 83 (Annex 10: Specification of reference fuels). 2.4. Four samples shall undergo the test. 3. APPARATUS (SEE FIGURES 4a AND 4a)
+The apparatus shall consist of: A
+a base plate, with a hardness of at least 70 Shore D;
+B
+an absorbent surface on the baseplate (e.g. paper); C
+a metal cylinder (inner diameter of 120 mm, outer diameter of 130 mm, height of 50 mm), filled with the test liquid; D-D′
+two screws with wing nuts; E
+the test sample; F
+top plate
+4. PROCEDURE
+4.1. The test sample and the apparatus shall be conditioned for at least 24 hours at a temperature of 23 °C ± 2 °C and a relative humidity of 50 ± 5 % and shall be maintained under these conditions until immediately prior to testing. 4.2. The test sample shall be weighed. 4.3. The test sample, with its exposed face uppermost, shall be placed on the base of the apparatus by fixing the metal cylinder in a centred position with sufficient pressure on the screws. No test liquid shall leak. 4.4. Fill the metal cylinder with test liquid to a height of 20 mm and let the system rest for 24 hours. 4.5. Remove the test liquid and the test sample from the apparatus. If residue of the test liquid is found on the test sample it shall be removed without compressing the test sample. 4.6. The test sample shall be weighed. {{IMAGE:Image_21, Caption:Schematic diagram of a test apparatus featuring a cylindrical container clamped to a square base assembly, with indicated dimensions and component labels A through F.}} {{IMAGE:Image_22, Caption:Schematic diagram of a test apparatus assembly, featuring a base structure and clamping mechanism with components labeled A through F.}}
+3. APPLICATION FOR APPROVAL
+3.1. The application for approval of a vehicle or component type with regard to this Regulation shall be submitted by the manufacturer.
+
+3.2. It shall be accompanied by an information document conforming to the model shown in Annex 1 or in Annex 2. 3.3. The following must be submitted to the Technical Service responsible for conducting the type-approval tests: 3.3.1. In the case of approval of a vehicle: a vehicle representative of the type to be approved. 3.3.2. In the case of components already type approved: a list of the type-approval numbers and maker's type designations of the parts concerned, shall be enclosed in the application for the vehicle type-approval; 3.3.3. In the case of components without type-approval: 3.3.3.1. Samples, the number of which is specified in Annexes 6 to 9, of the components used in the vehicles, which are representative of the type to be approved; 3.3.3.2. Furthermore, one sample shall be submitted to the Technical Service for future reference purposes; 3.3.3.3. For devices such as seats, curtains, separation walls, etc., the samples specified in paragraph 3.3.3.1 plus one complete device as mentioned above. 3.3.3.4. The samples shall be clearly and indelibly marked with the applicant's trade name or mark and the type designation.
+7. MODIFICATION OF THE TYPE AND EXTENSION OF APPROVAL
+7.1. Every modification of a vehicle or component type with regard to this Regulation shall be notified to the Type-Approval Authority which approved the vehicle or the component type.
+
+The Authority may then either: 7.1.1. Consider that the modifications made are unlikely to have an appreciable adverse effect and that in any case vehicles or components still comply with the requirements, or
+7.1.2. Require a further test report from the Technical Service responsible for conducting the tests. 7.2. Confirmation or refusal of approval, specifying the alterations shall be communicated by the procedure specified in paragraph 4.3 above to the Contracting Parties to the Agreement applying this Regulation. 7.3. The Type-Approval Authority issuing the extension of approval shall assign a serial number to each communication form drawn up for such an extension and inform thereof the other Parties to the 1958 Agreement applying this Regulation by means of a communication form conforming to the model in Annex 3 or Annex 4 to this Regulation.
+11. NAMES AND ADDRESSES OF TECHNICAL SERVICES RESPONSIBLE FOR CONDUCTING APPROVAL TESTS AND OF TYPE-APPROVAL AUTHORITIES
+The Parties to the 1958 Agreement applying this Regulation shall communicate to the United Nations Secretariat the names and addresses of the Technical Services responsible for conducting approval tests and of the Type-Approval Authorities which grant approval and to which forms certifying approval or extension or refusal or withdrawal of approval, issued in other countries, are to be sent.
+INFORMATION DOCUMENT FOR COMPONENT
+ANNEX 2
+INFORMATION DOCUMENT FOR COMPONENT
+In accordance with paragraph 3.2 of the Regulation relating to the type-approval of a component used in the interior compartment, the engine compartment and any separate heating compartment with regard to its burning behaviour and/or the capability to repel fuel or lubricant of insulation materials used in the engine compartment and any separate heating compartment.
+
+1. General
+1.1. Make (trade name of manufacturer): …
+1.2. Type and general commercial description(s): …
+1.3. Name and address of manufacturer: …
+1.4. In the case of components and separate technical units, location and method of affixing of the approval mark: …
+1.5. Address(es) of assembly plant(s): …
+2. Interior materials
+2.1. Material(s) intended for horizontal/vertical/horizontal and vertical installation (1) 
+Material intended to be installed more than 500 mm above the seat cushion and/or in the roof of the vehicle: yes/not applicable (1) 
+2.2. Base material(s)/designation: …/… …
+2.3. Composite/single (1) material, number of layers (1): …
+2.4. Type of coating (1): …
+2.5. Maximum/minimum thickness … mm
+2.6. Type-approval number, if available: …
+3. Insulation materials
+3.1. Material(s) intended for horizontal/vertical/horizontal and vertical installation (1) 
+3.2. Base material(s)/designation: …/… …
+3.3. Composite/single (1) material, number of layers (1):…
+3.4. Type of coating (1): …
+3.5. Maximum/minimum thickness … mm
+3.6. Type-approval number, if available: …
+4. Electric cables
+4.1. Material(s) used for: …
+4.2. Base material(s)/designation: …/… …
+4.3. Composite/single (1) material, number of layers (1): …
+4.4. Type of coating (1): …
+4.5. Maximum/minimum thickness … mm
+4.6. Type-approval number, if available: …
+(1) Strike out what does not apply.
+TEST TO DETERMINE THE MELTING BEHAVIOUR OF MATERIALS
+ANNEX 7
+TEST TO DETERMINE THE MELTING BEHAVIOUR OF MATERIALS
+1. SAMPLING AND PRINCIPLE
+1.1. Four samples, for both faces (if they are not identical) shall undergo the test.
+
+1.2. A sample is placed in a horizontal position and is exposed to an electric radiator. A receptacle is positioned under the specimen to collect the resultant drops. Some cotton wool is put in this receptacle in order to verify if any drop is flaming. 2. APPARATUS
+The apparatus shall consist of (Figure 1): (a) an electric radiator; (b) a support for the sample with grill; (c) a receptacle (for resultant drops); (d) a support (for the apparatus). 2.1. The source of heat is an electric radiator with a useful output of 500 W. The radiating surface must be made of a transparent quartz plate with a diameter of 100 ± 5 mm. The radiated heat from the apparatus, measured on a surface which is situated parallel to the surface of the radiator at a distance of 30 mm, shall be 3 W/cm2. 2.2. Calibration
+For calibration of the radiator, a heat flux meter (radiometer) of the Gardon (foil) type with a design range not exceeding 10 W/cm2 shall be used. The target receiving radiation, and possibly to a small extent convection, shall be flat, circular, not more than 10 mm in diameter and coated with a durable matt black finish. The target shall be contained within a water cooled body the front face of which shall be of highly polished metal, flat, coinciding with the plane of the target and circular, with a diameter of about 25 mm. Radiation shall not pass through any window before reaching the target. The instrument shall be robust, simple to set up and use, insensitive to draughts, and stable in calibration. The instrument shall have an accuracy of within ± 3 % and a repeatability within 0,5 %. The calibration of the heat flux meter shall be checked whenever a recalibration of the radiator is carried out, by comparison with an instrument held as a reference standard and not used for any other purpose. The reference standard instrument shall be fully calibrated at yearly intervals in accordance with a national standard. 2.2.1. Calibration check
+The irradiance produced by the power input which the initial calibration has shown to correspond to an irradiance of 3 W/cm2 shall be frequently checked (at least once every 50 operating hours) and the apparatus shall be recalibrated if such a check reveals a deviation greater than 0,06 W/cm2. 2.2.2. Calibration procedure
+The apparatus shall be placed in an environment essentially free of air currents (not more than 0,2 m/s). Place the heat flux meter in the apparatus in the specimen position so that the target of the heat flux meter is located centrally within the radiator surface. Switch on the electricity supply and establish the power input of the controller required to produce irradiance at the centre of the radiator surface of 3 W/cm2. Adjustment to the power unit to record 3 W/cm2 should be followed by a five minute period without further adjustment to ensure equilibrium. 2.3. The support for the samples shall be a metallic ring (Figure 1). On top of this support a grill, made of stainless steel-wire, is placed with the following dimensions: (a) Interior diameter: 118 mm,
+(b) Dimension of the holes: 2,10 mm square,
+(c) Diameter of the steel-wire: 0,70 mm. 2.4. The receptacle shall consist of a cylindrical tube with an interior diameter of 118 mm and a depth of 12 mm. The receptacle shall be filled with cotton wool. 2.5. A vertical column shall support the items specified in paragraphs 2.1, 2.3 and 2.4. The radiator is placed on top of the support in a manner such that the radiating surface is horizontal and the radiation is downwards. A lever/pedal shall be provided in the column to lift the support of the radiator slowly. It shall also be provided with a catch in order to ensure that the radiator can be brought back in its normal position. In their normal position, the axes of the radiator, the support for the sample and the receptacle shall coincide. 3. SAMPLES
+The test samples shall measure: 70 mm × 70 mm. Samples shall be taken in the same way from finished products, when the shape of the product permits. When the thickness of the product is more than 13 mm, it shall be reduced to 13 mm by a mechanical process applied to the side which does not face the respective compartment (interior, engine or separate heating compartment). If it is impossible, the test shall be carried out, in accordance with the Technical Service, on the initial width of the material which shall be mentioned in the test report. Composite materials (see paragraph 6.1.3 of the Regulation) shall be tested as if they were of uniform construction. In the case of materials made of superimposed layers of different composition which are not composite materials, all the layers of material included within a depth of 13 mm from the surface facing towards the respective compartment (interior, engine or separate heating compartment) shall be tested individually. The total mass of the sample to be tested shall be at least 2 g. If the mass of one sample is less, a sufficient number of samples shall be added. If the two faces of the material differ, both faces must be tested, which means that eight samples are to be tested. The samples and the cotton wool shall be conditioned for at least 24 hours at a temperature 23 °C ± 2 °C and a relative humidity of 50 ± 5 % and shall be maintained under these conditions until immediately prior to testing. 4. PROCEDURE
+The sample is placed on the support and the latter is so positioned that the distance between the surface of the radiator and the upper side of the sample is 30 mm. The receptacle, including the cotton wool, is placed beneath the grill of the support at a distance of 300 mm. The radiator is put aside, so that it cannot radiate on the sample, and switched on. When it is on full capacity it is positioned above the sample and timing is started. If the material melts or deforms, the height of the radiator is modified to maintain the distance of 30 mm. If the material ignites, the radiator is put aside three seconds afterwards. It is brought back in position when the flame has extinguished and the same procedure is repeated as frequently as necessary during the first five minutes of the test. After the fifth minute of the test: (i) if the sample has extinguished (whether or not it has ignited during the first five minutes of the test) leave the radiator in position even if the sample reignites; (ii) if the material is flaming, await extinction before bringing the radiator into position again. In either case, the test shall be continued for an additional five minutes. 5. RESULTS
+Observed phenomena shall be noted in the test-report, such as: (i) the fall of drops, if any, whether flaming or not; (ii) if ignition of the cotton wool has taken place. {{IMAGE:Image_17, Caption:Schematic diagram of the test apparatus comprising a radiator, sample support, and receptacle, with a detailed view of the metallic support rings.}} Text of image
+Metallic ring (fixed)
+1 = Radiator
+2 = Sample
+3 = Grill (for the support of the sample)
+4 = Cotton wool
+5 = Receptacle
+Detail of the metallic rings for the support of the sample
+Mobile metallic ring
+Grill
+INFORMATION DOCUMENT FOR VEHICLE
+ANNEX 1
+INFORMATION DOCUMENT FOR VEHICLE
+In accordance with paragraph 3.2 of this Regulation relating to the type-approval of a vehicle with regard to the burning behaviour of the components used in the interior compartment, the engine compartment and any separate heating compartment and/or the capability to repel fuel or lubricant of insulation materials used in the engine compartment and any separate heating compartment.
+
+1. General
+1.1. Make (trade name of manufacturer): …
+1.2. Type and general commercial description(s): …
+1.3. Means of identification of type, if marked on the vehicle: …
+1.4. Location of that marking: …
+1.5. Category of vehicle (1): …
+1.6. Name and address of manufacturer: …
+1.7. Address(es) of assembly plant(s): …
+2. General construction characteristics of the vehicle
+2.1. Photographs and/or drawings of a representative vehicle: 3. Bodywork
+Interior fittings and/or insulation materials
+3.1. Seats
+3.1.1. Number: …
+3.2. Material(s) used in the interior compartment, stating for each material
+3.2.1. Component type-approval number, if available: …
+3.2.2. Make: …
+3.2.3. Type designation: …
+3.2.4. Tested according to paragraph 6.2.1, 6.2.2, 6.2.3, 6.2.4 (2): …
+3.2.5. For materials not approved
+3.2.5.1. Base material(s)/designation: …/… …
+3.2.5.2. Composite/single (2) material, number of layers (2): …
+3.2.5.3. Type of coating (2): …
+3.2.5.4. Maximum/minimum thickness … mm
+3.3. Materials used for insulation in the engine compartment and/or separate heating compartment, stating for each material
+3.3.1. Component type-approval number, if available: …
+3.3.2. Make: …
+3.3.3. Type designation: …
+3.3.4. Tested according to paragraph 6.2.1, 6.2.2, 6.2.3, 6.2.4, 6.2.5 (2): …
+3.3.5. For materials not approved
+3.3.5.1. Base material(s)/designation: …/… …
+3.3.5.2. Composite/single (2) material, number of layers (2): …
+3.3.5.3. Type of coating (2): …
+3.3.5.4. Maximum/minimum thickness … mm
+3.4. Electric cables, stating for each type
+3.4.1. Component type-approval number(s) if available: …
+3.4.2. Make: …
+3.4.3. Type designation: …
+3.4.4. For materials not approved
+3.4.4.1. Base material(s)/designation: …/… …
+3.4.4.2. Composite/single (2) material, number of layers (2): …
+3.4.4.3. Type of coating (2): …
+3.4.4.4. Maximum/minimum thickness … mm
+(1) As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), Annex 7 (document TRANS/WP.29/78/Rev.2, para. 2). (2) Strike out what does not apply.
+{{IMAGE:Image_5, Caption:Schematic layout of an approval mark for Regulation No. 118, showing the E-symbol, country code, and approval number with relative dimensional proportions.}} The above approval mark affixed to a vehicle shows that the type concerned was approved in the Netherlands (E4) pursuant to Part I of Regulation No 118 under approval No 021234. The first two digits (02) of the approval number indicate that the approval was granted in accordance with the requirements of the 02 series of amendments to Regulation No 118. {{IMAGE:Image_6, Caption:Diagram of the approval mark arrangement showing the circle with 'E4' and the regulation/approval number '118RII - 021234', including dimensional proportions based on variable 'a'.}} {{IMAGE:Image_7, Caption:Dimensional schematic showing the relative sizes of the 'V' symbol, a directional arrow symbol, and the 'CD' symbol for approval markings.}} The above approval mark affixed to a component shows that the type concerned was approved in the Netherlands (E4) pursuant to Part II of Regulation No 118 under approval number 021234. The first two digits (02) of the approval number indicate that the approval was granted in accordance with the requirements of the 02 series of amendments to Regulation No 118. {{IMAGE:Image_8, Caption:Symbol indicating horizontal and vertical directions for material installation, consisting of intersecting double-headed arrows.}} indicates the direction which the component may be installed. {{IMAGE:Image_9, Caption:Symbol V enclosed in a circle, indicating the vertical direction for material installation.}} indicates that the component fulfils the requirements in paragraph 6.2.2. {{IMAGE:Image_10, Caption:The circle component of a type approval mark, enclosing the letter 'E'.}} indicates an approval as a complete device such as seats, separation walls, etc. The additional symbols are only used if applicable.
+1. SCOPE
+1.1. This Regulation applies to the burning behaviour (ignitibility, burning rate and melting behaviour) and to the capability to repel fuel or lubricants of materials used in vehicles of categories M3, Classes II and III (1).
+
+Type-approvals are granted according to: 1.2. Part I — Approval of a vehicle type with regard to the burning behaviour and/or the capability to repel fuel or lubricant of the components used in the interior compartment, the engine compartment and any separate heating compartment. 1.3. Part II — Approval of a component with regard to its burning behaviour and/or its capability to repel fuel or lubricant installed in the interior compartment, the engine compartment or any separate heating compartment.
+5. PART I: APPROVAL OF A VEHICLE TYPE WITH REGARD TO THE BURNING BEHAVIOUR OF THE COMPONENTS USED IN THE INTERIOR COMPARTMENT, THE ENGINE COMPARTMENT AND ANY SEPARATE HEATING COMPARTMENT AND/OR THE CAPABILITY TO REPEL FUEL OR LUBRICANT OF INSULATION MATERIALS USED IN THE ENGINE COMPARTMENT AND ANY SEPARATE HEATING COMPARTMENT
+8. CONFORMITY OF PRODUCTION
+The conformity of production procedures shall comply with those set out in the Agreement, Appendix 2 (E/ECE/324-E/ECE/TRANS/505/Rev.2), with the following requirements:
+
+8.1. Vehicles/components approved under this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements of the relevant part(s) of this Regulation. 8.2. The Type-Approval Authority that has granted type-approval may at any time verify the conformity control methods applied in each production facility. The normal frequency of these verifications shall be one every two years.
+12. TRANSITIONAL PROVISIONS
+12.1.
+
+As from the official date of entry into force of the 01 series of amendments, no Contracting Party applying this Regulation shall refuse to grant approval under this Regulation as amended by the 01 series of amendment. 12.2. As from 24 months after the official date of entry into force of the 01 series of amendments, Contracting Parties applying this Regulation shall grant approvals only if the vehicle type or component type to be approved meet the requirements of this Regulation as amended by the 01 series of amendments. 12.3. Starting from 60 months after the official date of entry into force of the 01 series of amendments, Contracting Parties applying this Regulation may refuse first national or regional registration (first entry into service) of a vehicle which does not meet the requirements of this Regulation as amended by the 01 series of amendments. 12.4. Even after the date of entry into force of the 01 series of amendments to this Regulation, approvals of the components to the preceding series of amendments to the Regulation shall remain valid and Contracting Parties applying this Regulation shall continue to accept them. 12.5. Contracting Parties applying this Regulation shall not refuse to grant extensions of approval to the 00 series of amendments to this Regulation. 12.6. As from the official date of entry into force of the 02 series of amendments, no Contracting Parties applying this Regulation shall refuse to grant approval under this Regulation as amended by the 02 series of amendment. 12.7. As from 48 months after the official date of entry into force of the 02 series of amendments, Contracting Parties applying this Regulation shall grant approvals only if the component type to be approved meet the requirements of this Regulation as amended by the 02 series of amendments. 12.8. As from 60 months after the official date of entry into force of the 02 series of amendments, Contracting Parties applying this Regulation shall grant approvals only if the vehicle type to be approved meet the requirements of this Regulation as amended by the 02 series of amendments. 12.9. Starting 96 months after the official date of entry into force of the 02 series of amendments, Contracting Parties applying this Regulation may refuse first national registration (first entry into service) of a vehicle which does not meet the requirements of this Regulation as amended by the 02 series of amendments. 12.10. Even after the date of entry into force of the 02 series of amendments, approvals of the components to the preceding series of amendments to the regulation shall remain valid and Contracting Parties applying the Regulation shall continue to accept them. (1) As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), document ECE/TRANS/WP.29/78/Rev.2, para. 2. (2) The distinguishing numbers of the Contracting Parties to the 1958 Agreement are reproduced in Annex 3 to the Consolidated Resolution on the Construction of Vehicles (R.E.3), document ECE/TRANS/WP.29/78/Rev.2/Amend.1. (3) ISO 5658-2:2006 Reaction to fire tests — spread of flame — Part 2: Lateral spread on building and transport products in vertical configuration.
+TEST TO DETERMINE THE VERTICAL BURNING RATE OF MATERIALS
+ANNEX 8
+TEST TO DETERMINE THE VERTICAL BURNING RATE OF MATERIALS
+1. SAMPLING AND PRINCIPLE
+1.1. Three samples shall undergo the test in the case of an isotropic material, or six samples in the case of a non-isotropic material.
+
+1.2. This test consists of exposing samples, held in a vertical position, to a flame and determining the speed of propagation of the flame over the material to be tested. 2. APPARATUS
+The apparatus shall consist of: (a) a specimen holder; (b) a burner; (c) a ventilation system to extract gas and combustion products; (d) a template; (e) marker threads of white mercerised cotton threads having a maximum linear density of 50 tex. 2.1. The specimen holder shall consist of a rectangular frame of 560 mm high and shall have two rigidly connected parallel rods spaced 150 mm apart on which pins shall be fitted for mounting the test specimen which is located in a plane at least 20 mm from the frame. The mounting pins shall be not greater than 2 mm in diameter and at least 27 mm long. The pins shall be located on the parallel rods at locations shown in Figure 1. The frame shall be fitted onto a suitable support to maintain the rods in a vertical orientation during testing (for the purpose of locating the specimen on the pins in a plane away from the frame, spacer stubs 2 mm in diameter may be provided adjacent to the pins). 2.2. The burner is described in Figure 3. The gas supplied to the burner can be either commercial propane gas or commercial butane gas. The burner shall be positioned in front of, but below, the specimen such that it lies in a plane passing through the vertical centreline of the specimen and perpendicular to its face (see Figure 2), such that the longitudinal axis is inclined upwards at 30° to the vertical towards the lower edge of the specimen. The distance between the tip of the burner and the lower edge of the specimen shall be 20 mm. 2.3. The test apparatus may be placed in a fume cupboard assembly provided that the internal volume is at least 20 times, but not more than 110 times, greater than the volume of the test apparatus and provided that: no single height, width, or length dimension of the fume cupboard is greater than 2,5 times either of the other two dimensions. Before the test, the vertical velocity of the air through the fume cupboard shall be measured 100 mm in front of and behind the final position where the test apparatus will be located. It shall be between 0,10 and 0,30 m/s in order to avoid possible discomfort, by combustion products, to the operator. It is possible to use a fume cupboard with natural ventilation and an appropriate air velocity. 2.4. A flat rigid template made of suitable material and of a size corresponding to the size of the specimen shall be used. Holes approximately 2 mm in diameter shall be drilled in the template and positioned so that the distances between the centres of the holes correspond to the distances between the pins on the frames (see Figure 1). The holes shall be located equidistant about the vertical centrelines of the template. 3. SAMPLES
+3.1. The samples dimensions are: 560 × 170 mm. If the dimensions of a material do not permit taking a sample of the given dimensions the test shall be carried out, in accordance with the Technical Service, on the fitted size of the material which shall be mentioned in the test report. 3.2. When the thickness of the sample is more than 13 mm, it shall be reduced to 13 mm by a mechanical process applied to the side which does not face the respective compartment (interior, engine or separate heating compartment). If it is impossible, the test shall be carried out in accordance with the Technical Service the initial thickness of the material, which shall be mentioned in the test report. Composite materials (see paragraph 6.1.3) shall be tested as if they were of uniform construction. In the case of materials made of superimposed layers of different composition which are not composite materials, all the layers of material included within a depth of 13 mm from the surface facing towards the respective compartment shall be tested individually. 3.3. The samples shall be conditioned for at least 24 hours at a temperature of 23 °C ± 2 °C and a relative humidity of 50 ± 5 % and shall be maintained under these conditions until immediately prior to testing. 4. PROCEDURE
+4.1. The test shall be carried out in an atmosphere having a temperature between 10 °C and 30 °C and a relative humidity between 15 % and 80 %. 4.2. The burner shall be preheated for 2 minutes. The flame height shall be adjusted to 40 ± 2 mm measured as the distance between the top of the burner tube and the tip of the yellow part of the flame when the burner is vertically oriented and the flame is viewed in dim light. 4.3. The specimen shall be placed (after the rearward marker threads have been located) on the pins of the test frame, making certain that the pins pass through the points marked off from the template and that the specimen is at least 20 mm removed from the frame. The frame shall be fitted on the support so that the specimen is vertical. 4.4. The marker threads shall be attached horizontally in front of and behind the specimen at the locations shown in Figure 1. At each location, a loop of thread shall be mounted so that the two segments are spaced 1 mm and 5 mm from the front and rear face of the specimen. Each loop shall be attached to a suitable timing device. Sufficient tension shall be imposed to the threads to maintain their position relative to the specimen. 4.5. The flame shall be applied to the specimen for 5 seconds. Ignition shall be deemed to have occurred if flaming of the specimen continues for 5 seconds after removal of the igniting flame. If ignition does not occur, the flame shall be applied for 15 seconds to another conditioned specimen. 4.6. If any result in any set of three specimens exceeds the minimum result by 50 %, another set of three specimens shall be tested for that direction or face. If one or two specimens in any set of three specimens fail to burn to the top marker thread, another set of three specimens shall be tested for that direction or face. 4.7. The following times, in seconds, shall be measured: (a) from the start of the application of the igniting flame to the severance of one of the first marker threads (t1); (b) from the start of the application of the igniting flame to the severance of one the second marker threads (t2); (c) from the start of the application of the igniting flame to the severance of one the third marker threads (t3). 4.8. If the sample does not ignite or does not continue burning after the burner has been extinguished or if the flame extinguishes before the destruction of one of the first marker threads occurred, so that no burning time is measured, the burning rate is considered to be 0 mm/min. 4.9. If the sample does ignite and the flames of the burning sample do reach the height of the third marker threads without destroying the first and second marker threads (e.g. due to material characteristics of thin material sample), the burning rate is considered to be more than 100 mm/min. 5. RESULTS
+The observed phenomena shall be written down in the test-report, to include: (a) the durations of combustion: t1, t2 and t3 in seconds, and
+(b) the corresponding burnt distances: d1, d2 and d3 in mm. The burning rate V1 and the rates V2 and V3, if applicable, shall be calculated (for each sample if the flame reaches at least one of the first marker threads) as follows: Vi = 60 di/ti (mm/min)
+The highest burning rate of V1, V2 and V3 shall be taken into account.
+2. DEFINITIONS: GENERAL
+2.1. 'Manufacturer' means the person or body who is responsible to the Type-Approval Authority for all aspects of the type-approval process and for ensuring conformity of production.
+
+It is not essential that the person or body is directly involved in all stages of the construction of the vehicle or component which is the subject of the approval process. 2.2. 'Interior compartment' means any compartment intended for passengers, drivers and/or crew bounded by the interior facing surface(s) of: (a) the ceiling; (b) the floor; (c) the front, rear and side walls,
+(d) the doors; (e) the outside glazing. 2.3. 'Engine compartment' means the compartment in which the engine is installed and in which a combustion heater may be installed. 2.4. 'Separate heating compartment' means a compartment for a combustion heater located outside the interior compartment and the engine compartment. 2.5. 'Production materials' means products, in the form of bulk materials (e.g. rolls of upholstery) or preformed components, supplied to a manufacturer for incorporation in a vehicle type approved under this Regulation, or to a workshop for use in the business of vehicle maintenance or repair. 2.6. 'Seat' means a structure which may or may not be integral with the vehicle structure, complete with trim, intended to seat one adult person. The term covers both an individual seat or part of a bench seat intended to seat one adult person. 2.7. 'Group of seats' means either a bench-type seat, or seats which are separate but side by side (i.e. with the foremost anchorages of one seat in line with or forward of the rearmost anchorages and in line with or behind the foremost anchorages of another seat) and which accommodate one or more seated adult persons. 2.8. 'Bench seat' means a structure complete with trim, intended to seat more than one adult person. 2.9. 'Material installed in a vertical position' means materials installed in the interior compartment, the engine compartment and any separate heating compartment of the vehicle such that its slope exceeds 15 % from the horizontal when the vehicle is at its mass in running order and it is standing on a smooth and horizontal ground surface.
+5.1. Definition
+For the purpose of Part I of this Regulation,
+5.1.1. 'Vehicle type' means vehicles that do not differ in such essential respects as the manufacturer's type designation.
+10. PRODUCTION DEFINITIVELY DISCONTINUED
+If the holder of the approval completely ceases to manufacture a vehicle type approved in accordance with this Regulation, he shall so inform the Type-Approval Authority which granted the approval.
+
+Upon receiving the relevant communication that Authority shall inform thereof the other Parties to the 1958 Agreement applying this Regulation by means of a communication form conforming to the model in Annex 3 or Annex 4 to this Regulation.
+6.2. Specifications
+6.2.1. The following materials shall undergo the test described in Annex 6 to this Regulation:
+
+(a) material(s) and composite material(s) installed in a horizontal position in the interior compartment and,
+(b) insulation material(s) installed in a horizontal position in the engine compartment and any separate heating compartment. The result of the test shall be considered satisfactory if, taking the worst test results into account, the horizontal burning rate is not more than 100 mm/minute or if the flame extinguishes before reaching the last measuring point. Materials fulfilling the requirements of paragraph 6.2.3 are considered to fulfil the requirements in this paragraph. 6.2.2. The following materials shall undergo the test described in Annex 7 to this Regulation: (a) material(s) and composite material(s) installed more than 500 mm above the seat cushion and in the roof of the vehicle,
+(b) insulation material(s) installed in the engine compartment and any separate heating compartment. The result of the test shall be considered satisfactory if, taking the worst test results into account, no drop is formed which ignites the cotton wool. 6.2.3. The following materials shall undergo the test described in Annex 8 to this Regulation: (a) material(s) and composite material(s) installed in a vertical position in the interior compartment,
+(b) insulation material(s) installed in a vertical position in the engine compartment and any separate heating compartment. The result of the test shall be considered satisfactory if, taking the worst test results into account, the vertical burning rate is not more than 100 mm/minute or if the flame extinguishes before the destruction of one of the first marker threads occurred. 6.2.4. Materials achieving an average CFE (critical heat flux at extinguishment) value greater or equal to 20 kW/m2, when tested according to ISO 5658-2 (3), are deemed to comply with the requirements of paragraphs 6.2.2 and 6.2.3, provided no burning drops are observed when taking the worst test results into account. 6.2.5. All insulation material(s) installed in the engine compartment and any separate heating compartment shall undergo the test described in Annex 9 to this Regulation. The result of the test shall be considered satisfactory if, taking the worst test results into account, the increase of the weight of the test sample does not exceed 1 g. Recesses necessary for technical reasons, e.g. tubes or structural members that need to pass through the material shall be allowed as long as the protection is maintained (e.g. sealant, tape, etc.). 6.2.6. Electric cables shall undergo the resistance to flame propagation test described in ISO standard 6722:2006, paragraph 12. The result of the test shall be considered satisfactory if, taking into account the worst test result, any combustion flame of insulating material shall extinguish within 70 seconds and a minimum of 50 mm insulation at the top of the test sample shall remain unburned. 6.2.7. Materials which are not required to undergo the tests described in Annexes 6 to 8 are: 6.2.7.1. Parts made of metal or glass; 6.2.7.2. Each individual seat accessory with a mass of non-metallic material less than 200 g. If the total mass of these accessories exceeds 400 g of non-metallic material per seat, then each material must be tested; 6.2.7.3. Elements of which the surface area or the volume does not exceed respectively: 6.2.7.3.1. 100 cm2 or 40 cm3 for the elements which are connected to an individual seating place; 6.2.7.3.2. 300 cm2 or 120 cm3 per seat row and, at a maximum, per linear metre of the interior of the interior compartment for these elements which are distributed in the vehicle and which are not connected to an individual seating place; 6.2.7.4. Elements for which it is not possible to extract a sample in the prescribed dimensions as specified in paragraph 3.1 of Annex 6 and paragraph 3 of Annex 7.
+TEST TO DETERMINE THE HORIZONTAL BURNING RATE OF MATERIALS
+ANNEX 6
+TEST TO DETERMINE THE HORIZONTAL BURNING RATE OF MATERIALS
+1. SAMPLING AND PRINCIPLE
+1.1. Five samples shall undergo the test in the case of an isotropic material or ten samples in the case of a non-isotropic material (five for each direction).
+
+1.2. The samples shall be taken from the material under test. In materials having different burning rates in different material directions, each direction has to be tested. The samples are to be taken and placed in the test apparatus so that the highest burning rate will be measured. When the material is supplied in widths, a length of at least 500 mm shall be cut covering the entire width. From this the samples shall be taken so as to be at least 100 mm from the material edge and equidistant from each other. Samples shall be taken in the same way from finished products, when the shape of the product permits. When the thickness of the product is more than 13 mm, it shall be reduced to 13 mm by a mechanical process applied to the side which does not face the respective compartment (interior, engine or separate heating compartment). If it is impossible, the test shall be carried out, in accordance with the Technical Service, on the initial thickness of the material, which shall be mentioned in the test report. Composite materials (see paragraph 6.1.3) shall be tested as if they were of uniform construction. In the case of materials made of superimposed layers of different composition which are not composite materials, all the layers of material included within a depth of 13 mm from the surface facing towards the respective compartment shall be tested individually. 1.3. A sample is held horizontally in a U-shaped holder and is exposed to the action of a defined flame for 15 seconds in a combustion chamber, the flame acting on the free end of the sample. The test determines if and when the flame extinguishes or the time in which the flame passes a measured distance. 2. APPARATUS
+2.1. Combustion chamber (Figure 1), preferably of stainless steel and having the dimensions given in Figure 2. The front of the chamber contains a flame-resistant observation window, which may cover the front and which can be constructed as an access panel. The bottom of the chamber has vent holes, and the top has a vent slot all around. The combustion chamber is placed on four feet, 10 mm high. The chamber may have a hole at one end for the introduction of the sample holder containing the sample; in the opposite end, a hole is provided for the gas line. Melted material is caught in a pan (see Figure 3) which is placed on the bottom of the chamber between vent holes without covering any vent hole area. {{IMAGE:Image_11, Caption:Schematic diagram of a combustion chamber used for flammability testing, illustrating the enclosure, sample holder, and ventilation features.}} {{IMAGE:Image_12, Caption:Technical schematic of a combustion test chamber illustrating front, side, and top views with dimensions. Key components such as the vent slot, sample holder, and gas burner are labeled.}} {{IMAGE:Image_13, Caption:Technical drawing of a rectangular frame component with dimensions 336 mm by 85 mm, showing front and side profile views.}} 2.2. Sample holder, consisting of two U-shaped metal plates or frames of corrosion-proof material. Dimensions are given in Figure 4. The lower plate is equipped with pins, the upper one with corresponding holes in order to ensure a consistent holding of the sample. The pins also serve as the measuring points at the beginning and end of the burning distance. A support shall be provided in the form of 0,25 mm diameter heat resistant wires spanning the frame at 25 mm intervals over the bottom U-shaped frame (see Figure 5). The plane of the lower side of samples shall be 178 mm above the floor plate. The distance of the front edge of the sample holder from the end of the chamber shall be 22 mm; the distance of the longitudinal sides of the sample holder from the sides of the chamber shall be 50 mm (all inside dimensions). {{IMAGE:Image_14, Caption:Technical drawing of a sample holder assembly showing side, top, and cross-sectional views with dimensions and labels for the cover plate and sample.}} {{IMAGE:Image_15, Caption:Schematic diagram of a test sample block detailing groove dimensions, spacing, and orientation.}} Text of image
+Grooves 2 × 2
+(direction sample)
+Length
+Grooves 0,5 × 0,5
+Outer frame side
+2.3. Gas burner
+The small ignition source is provided by a Bunsen burner having an inside diameter of 9,5 ± 0,5 mm. It is located in the test cabinet so that the centre of its nozzle is 19 mm below the centre of the bottom edge of the open end of the sample (see Figure 2). 2.4. Test gas
+The gas supplied to the burner shall have a calorific value near 38 MJ/m3 (for example natural gas). 2.5. Metal comb, at least 110 mm in length, with seven to eight smooth rounded teeth per 25 mm. 2.6. Stop-watch, accurate to 0,5 seconds. 2.7. Fume cupboard. The combustion chamber may be placed in a fume cupboard assembly provided that the internal volume is at least 20 times, but not more than 110 times, greater than the volume of the combustion chamber and provided that no single height, width, or length dimension of the fume cupboard is greater than 2,5 times either of the other two dimensions. Before the test, the vertical velocity of the air through the fume cupboard shall be measured 100 mm in front of and behind the final position where the combustion chamber will be located. It shall be between 0,10 and 0,30 m/s in order to avoid possible discomfort, by combustion products, to the operator. It is possible to use a fume cupboard with natural ventilation and an appropriate air velocity. 3. SAMPLES
+3.1. Shape and dimensions
+3.1.1. The shape and dimensions of samples are given in Figure 6. The thickness of the sample corresponds to the thickness of the product to be tested. It shall not be more than 13 mm. When taking the sample permits, the sample shall have a constant section over its entire length. {{IMAGE:Image_16, Caption:Technical drawing of a rectangular plate (356 x 100 mm) detailing hole positions and dimensions.}} 3.1.2. If the shape and dimensions of a product do not permit taking a sample of the given size, the following minimum dimensions shall be maintained: (a) For samples having a width of 3 to 60 mm, the length shall be 356 mm. In this case the material is tested in the product's width; (b) For samples having a width of 60 to 100 mm, the length shall be at least 138 mm. In this case the potential burning distance corresponds to the length of the sample, the measurement starting at the first measuring point. 3.2. Conditioning
+The samples shall be conditioned for at least 24 hours but not more than 7 days at a temperature of 23 °C ± 2 °C and a relative humidity of 50 ± 5 % and shall be maintained under these conditions until immediately prior to testing. 4. PROCEDURE
+4.1. Place samples with napped or tufted surfaces on a flat surface and comb twice against the nap using the comb (paragraph 2.5). 4.2. Place the sample in the sample holder (paragraph 2.2) so that the exposed side will be downwards to the flame. 4.3. Adjust the gas flame to a height of 38 mm using the mark in the chamber, the air intake of the burner being closed. Before starting the first test, the flame shall burn at least for 1 min for stabilisation. 4.4. Push the sample-holder into the combustion chamber so that the end of the sample is exposed to the flame, and after 15 seconds cut off the gas flow. 4.5. The measurement of the burning time starts at the moment when the foot of the flame passes the first measuring point. Observe the flame propagation on the side burning faster than the other (upper or lower side). 4.6. Measurement of burning time is completed when the flame has come to the last measuring point or when the flame extinguishes before coming to the last measuring point.
+9. PENALTIES FOR NON-CONFORMITY OF PRODUCTION
+9.1.
+
+The approval granted in respect of a vehicle/component type pursuant to this Regulation may be withdrawn if the requirements set forth above are not met. 9.2. If a Contracting Party to the Agreement applying this Regulation withdraws an approval it has previously granted, it shall forthwith so notify the other Contracting Parties applying this Regulation by means of a communication form conforming to the models in Annex 3 or Annex 4 to this Regulation.
+6.1. Definitions
+For the purpose of Part II of this Regulation,
+6.1.1. 'Type of a component' means components which do not differ in such essential respects as:
+
+6.1.1.1. The manufacturer's type designation,
+6.1.1.2. The intended use (seat upholstery, roof lining, insulation, etc.),
+6.1.1.3. The base material(s) (e.g. wool, plastic, rubber, blended materials),
+6.1.1.4. The number of layers in the case of composite materials, and
+6.1.1.5. Other characteristics in so far as they have an appreciable effect on the performance prescribed in this Regulation. 6.1.2. 'Burning rate' means the quotient of the burnt distance measured according to Annex 6 and/or Annex 8 to this Regulation and the time taken to burn this distance. It is expressed in millimetres per minute. 6.1.3. 'Composite material' means a material composed of several layers of similar or different materials intimately held together at their surfaces by cementing, bonding, cladding, welding, etc. When different materials are connected together intermittently (for example, by sewing, high-frequency welding, riveting), such materials shall not be considered as composite materials. 6.1.4. 'Exposed face' means the side of a material which is facing towards the passenger compartment, the engine compartment and any separate heating compartment when the material is mounted in the vehicle. 6.1.5. 'Upholstery' means the combination of interior padding and surface finish material which together constitute the cushioning of the seat frame. 6.1.6. 'Interior lining(s)' means material(s) that (together) constitute(s) the surface finish and substrate of a roof, wall or floor. 6.1.7. 'Insulation material(s)' means material(s) used to reduce heat transfer by conduction, radiation or convection and for sound-proofing in the engine compartment and any separate heating compartment. 6.1.8. 'Capability to repel fuel or lubricant' means the capability of materials to repel fuel or lubricant when measured according to Annex 9 to this Regulation.
+6. PART II: APPROVAL OF A COMPONENT WITH REGARD TO ITS BURNING BEHAVIOUR AND/OR ITS CAPABILITY TO REPEL FUEL OR LUBRICANT
+5.2. Specifications
+5.2.1. The materials inside and no more than 13 mm beyond the interior compartment, materials of the engine compartment and materials of any separate heating compartment used in the vehicle to be type approved shall meet the requirements of Part II of this Regulation.
+
+5.2.2. The materials and/or equipment used in the interior compartment, the engine compartment and any separate heating compartment and/or in devices approved as components shall be so installed as to minimise the risk of flame development and flame propagation. 5.2.3. Such materials and/or equipment shall only be installed in accordance with their intended purposes and the test(s) which they have undergone (see paragraphs 6.2.1, 6.2.2, 6.2.3, 6.2.4, 6.2.5, 6.2.6 and 6.2.7), especially in relation to their burning and melting behaviour (horizontal/vertical direction) and/or their capability to repel fuel or lubricant. 5.2.4. Any adhesive agent used to affix the interior material to its supporting structure shall not, as far as possible, exacerbate the burning behaviour of the material.
+4. APPROVAL
+4.1. If the type submitted for approval to this Regulation meets the requirements of the relevant part(s) of this Regulation, approval of that type shall be granted.
+
+4.2. An approval number shall be assigned to each type approved. Its first two digits (at present 02 corresponding to the 02 series of amendments) shall indicate the series of amendments incorporating the most recent major technical amendments made to the Regulation at the time of issue of the approval. The same Contracting Party shall not assign the same number to another type of vehicle or component as defined in this Regulation. 4.3. Notice of approval or of extension of approval of a type pursuant to this Regulation shall be communicated to the Contracting Parties to the Agreement applying this Regulation, by means of one of the forms conforming to the models in Annexes 3 or 4, as appropriate, to this Regulation. 4.4. There shall be affixed, conspicuously and in a readily accessible location specified on the approval form, to every vehicle conforming to a type approved under this Regulation, an international approval mark consisting of: 4.4.1. A circle surrounding the letter 'E' followed by the distinguishing number of the country which has granted approval (2);
+4.4.2. The number of this Regulation, followed by the letter 'R', 'I' to indicate Part I of this Regulation, a dash and the approval number, to the right of the circle prescribed in paragraph 4.4.1. 
+4.4.3. If the vehicle conforms to a vehicle type approved, under one or more other Regulations annexed to the Agreement, in the country which has granted approval under this Regulation, the symbol prescribed in paragraph 4.4.1 need not be repeated; in such a case, the Regulations under which approval has been granted in the country which has granted approval under this Regulation shall be placed in vertical columns to the right of the symbol prescribed in paragraph 4.4.1. 
+4.4.4. The approval mark shall be clearly legible and be indelible. 4.4.5. The approval mark shall be placed close to or on the vehicle data plate affixed by the manufacturer. 4.5. Production materials do not need to be individually marked. However, the packaging with which they are supplied must be marked with an international approval mark consisting of: 4.5.1. A circle surrounding the letter 'E' followed by the distinguishing number of the country which has granted approval (2);
+4.5.2. The number of this Regulation, followed by the letter 'R', a 'II' to indicate Part II of this Regulation, a dash and the approval number, to the right of the circle prescribed in paragraph 4.4.1. 
+4.5.3. In the vicinity of the circle: 4.5.3.1. Symbols indicating the direction which the material may be installed: {{IMAGE:Image_0, Caption:Double-headed arrow symbol indicating the horizontal direction for material installation.}} For the horizontal direction (see para. 6.2.1); {{IMAGE:Image_1, Caption:Vertical double-headed arrow symbol indicating the orientation for material installation.}} For the vertical direction (see paras. 6.2.3 and 6.2.4); {{IMAGE:Image_2, Caption:Symbol indicating horizontal and vertical directions for material installation, consisting of four arrows pointing up, down, left, and right.}} For the horizontal and vertical directions (see paras. 6.2.1, 6.2.3 and 6.2.4). 4.5.3.2. The symbol 'V' indicating that the material fulfils the requirements in paragraph 6.2.2. 
+4.5.4. The approval mark shall be clearly legible and be indelible. 4.6. Components may be marked with the approval mark prescribed in paragraph 4.5.
+4.6.1. If marked, the marking of complete components such as seats, separation walls, luggage racks, etc., shall include the symbol 'CD' indicating that the component has been approved as a complete device. 4.7. Annex 5 to this Regulation gives examples of arrangements of approval marks.
+{{IMAGE:Image_4, Caption:Model communication form for component type approval pursuant to Regulation No 118, detailing administrative and technical information requirements.}} Text of image
+COMMUNICATION
+(Maximum format: A4 (210 × 297 mm))
+(1) issued by: Name of administration
+concerning (2): Approval granted
+Approval extended
+Approval refused
+Approval withdrawn
+Production definitively discontinued
+of a component type pursuant to Regulation No 118
+Approval No Extension No
+Reasons for extention: Section I
+General
+1.1. Make (trade name of manufacturer):
+1.2. Type: 1.3. Means of identification of type, if marked on the device (b):
+1.3.1. Location of that marking: 1.4. Name and address of manufacturer: 1.5. Location of the approval mark: 1.6. Address(es) of assembly plant(s):
+Section II 1. Additional information (where applicable): see Appendix 1 2. Technical Service responsible for carrying out the tests: 3. Date of test report: 4. Number of test report: 5. Remarks (if any): 6. Place: 7. Date: 8. Signature: 9. The index to the information package lodged with the Type-Approval Authority, which may be obtained on request, is attached. (1) Distinguishing number of the country which has granted/extended/refused or withdrawn approval. (2) Strike out what does not apply (there are cases where nothing needs to be deleted, when more than one entry is applicable). (b) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered in this information document, such characters shall be represented in the documentation by the symbol "?" (e.g. ABC??123??). Appendix 1
+Appendix to type-approval communication form No … concerning the type-approval of a component type pursuant to Regulation No 118
+Appendix 1
+Appendix to type-approval communication form No … concerning the type-approval of a component type pursuant to Regulation No 118
+1. Additional information. 1.1. Interior materials
+1.1.1. The direction which the component may be installed: horizontal/vertical/both horizontal and vertical direction(s) (1). 1.1.2. Fulfils the requirements in paragraph 6.6.2: yes/not applicable (1) 
+1.1.3. Compliance has been checked for components approved as complete devices: yes/no (1) 
+1.1.4. Any restrictions of use and installation requirements:. 1.2. Insulation materials
+1.2.1. The direction which the component may be installed: horizontal/vertical/both horizontal and vertical direction(s) (1). 1.2.2. Compliance has been checked for components approved as complete devices: yes/no (1) 
+1.2.3. Any restrictions of use and installation requirements: 1.3. Electric cables
+1.3.1. Any restrictions of use and installation requirements: …
+2. Remarks: …
+(1) Strike out what does not apply.
+4.6. Measurement of burning time is completed when the flame has come to the last measuring point or when the flame extinguishes before coming to the last measuring point. If the flame does not reach the last measuring point, measure the burnt distance up to the point where the flame extinguished. Burnt distance is the decomposed part of the sample, which is destroyed on its surface or in the interior by burning. 4.7. In so far as the sample does not ignite or does not continue burning after the burner has been extinguished, or when the flame extinguishes before reaching the first measuring point, so that no burning time is measured note in the test report that the burning rate is 0 mm/min. 4.8. When running a series of tests or repeat tests, ensure that the combustion chamber and sample holder have a maximum temperature of 30 °C before starting the next test. 5. CALCULATION
+The burning rate, B (1), in millimetres per minute, is given by the formula: B = 60 s/t
+where: s
+=
+the burnt distance, in millimetres; t
+=
+the time, in seconds, to burn distance s. (1) The burning rate (B) for each sample is only calculated in the case where the flame reaches the last measuring point or the end of the sample.
+{{IMAGE:Image_18, Caption:Technical drawing of a specimen holder for flammability testing, detailing dimensions and component placement including marker threads, mounting pins, and burner.}} {{IMAGE:Image_19, Caption:Schematic diagram of the edge ignition test setup, showing the arrangement of the specimen, frame, pins, and burner with specified dimensions and angles.}} {{IMAGE:Image_20, Caption:Technical drawings illustrating the gas burner arrangement and detailed specifications for its components: the gas jet, flame stabilizer, and burner tube.}} Text of image
+Fitted in during assembly
+Air chamber
+Outlet
+(*) Pitch Circle Diameter: 4,4 mm
+Diffusion zone
+Gas mixing zone
+(d) Burner tube
+(c) Flame stabilizer
+(b) Gas jet
+(a) Gas burner arrangement
+Notch
+Choke tube
+Flame stabilizer
+Burner tube
+Gas jet

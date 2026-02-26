@@ -1,0 +1,64 @@
+recital 4
+(4) The measures provided for in this Directive are in accordance with the opinion of the Committee for Adaptation to Technical Progress established by Directive 70/156/EEC,
+HAS ADOPTED THIS DIRECTIVE:
+recital 2
+(2) Consequently the provisions laid down in Directive 70/156/EEC relating to vehicle systems, components and separate technical units apply to Directive 72/306/EEC.
+citation
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Council Directive 72/306/EEC of 2 August 1972 on the approximation of the laws of the Member States relating to the measures to be taken against the emission of pollutants from diesel engines for use in vehicles (1), and in particular Article 4 thereof,
+Whereas:
+Introduction
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Council Directive 72/306/EEC of 2 August 1972 on the approximation of the laws of the Member States relating to the measures to be taken against the emission of pollutants from diesel engines for use in vehicles (1), and in particular Article 4 thereof,
+Whereas:
+
+(1) Directive 72/306/EEC is one of the separate directives under the type-approval procedure laid down by Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (2). (2) Consequently the provisions laid down in Directive 70/156/EEC relating to vehicle systems, components and separate technical units apply to Directive 72/306/EEC. (3) Article 9(2) of Directive 70/156/EEC, as amended by Directive 92/53/EEC (3), provides for the equivalence between the separate Directives and the corresponding Regulations of the United Nations Economic Commission for Europe (UN-ECE). It is therefore necessary to align the technical requirements relating to the light source of the opacimeter used for the measurement of the opacity of the exhaust with UN-ECE Regulation 24 and international standards. It is also appropriate to align the fuel used for measuring the opacity of the exhaust with the fuel permitted for the measurement of emissions, as given in Council Directive 88/77/EEC (4). (4) The measures provided for in this Directive are in accordance with the opinion of the Committee for Adaptation to Technical Progress established by Directive 70/156/EEC,
+HAS ADOPTED THIS DIRECTIVE:
+Article 4
+This Directive shall enter into force on the third day following its publication in the Official Journal of the Union.
+Article 2
+With effect from 9 March 2006, Member States:
+
+—
+shall no longer grant EC type-approval pursuant to Article 4(1) of Directive 70/156/EEC, and
+—
+may refuse national type-approval,
+for a new type of vehicle on grounds relating to the emission of pollutants from diesel engines if it fails to comply with the provisions of Directive 72/306/EEC, as amended by this Directive. This Directive shall not invalidate any approval previously granted pursuant to Directive 72/306/EEC nor prevent extensions to such approvals under the terms of the Directive under which they were originally granted.
+recital 3
+(3) Article 9(2) of Directive 70/156/EEC, as amended by Directive 92/53/EEC (3), provides for the equivalence between the separate Directives and the corresponding Regulations of the United Nations Economic Commission for Europe (UN-ECE).
+
+It is therefore necessary to align the technical requirements relating to the light source of the opacimeter used for the measurement of the opacity of the exhaust with UN-ECE Regulation 24 and international standards. It is also appropriate to align the fuel used for measuring the opacity of the exhaust with the fuel permitted for the measurement of emissions, as given in Council Directive 88/77/EEC (4).
+recital 1
+(1) Directive 72/306/EEC is one of the separate directives under the type-approval procedure laid down by Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (2).
+AMENDMENTS TO ANNEX I TO DIRECTIVE 72/306/EEC
+ANNEX
+The list of Annexes between the Articles and Annex I is replaced by the following:
+
+'LIST OF ANNEXES
+Annex I: Definitions, application for EC type-approval, granting of EC type-approval, symbol of the corrected absorption coefficient, specifications and tests, modifications of the type, conformity of production
+Appendix 1: Information document
+Appendix 2:
+Type-approval certificate
+Annex II: Example of the symbol of the corrected absorption coefficient
+Annex III: Test at steady speeds over the full load curve
+Annex IV: Test under free acceleration
+Annex V:
+Limit values applicable in the test at steady speeds
+Annex VI: Characteristics of opacimeters
+Annex VII: Installation and use of the opacimeter' AMENDMENTS TO ANNEX I TO DIRECTIVE 72/306/EEC
+ 1. 
+ In section 5.2.2.1, 'Annex VI' is replaced by 'Annex V'. In section 5.3.2, 'Annex VI' is replaced by 'Annex V' In section 5.4, 'Annex VII' is replaced by 'Annex VI'. In section 7.2.1.2, 'Annex VI' is replaced by 'Annex V'. AMENDMENTS TO ANNEX III TO DIRECTIVE 72/306/EEC
+ 2. 
+ Section 3.2 is replaced by the following: '3.2. Fuel
+The reference fuel specified in Annex IV of Directive 88/77/EEC, as last amended, and which is appropriate to the emission limits against which the vehicle or engine is being type-approved, shall be used.'; in section 3.4, 'Annex VII' is replaced by 'Annex VI' and 'Annex VIII' is replaced by 'Annex VII'; in section 4.2, 'Annex VI' is replaced by 'Annex V'. 3. Annex V is deleted. 4. Annex VI becomes Annex V. 5. Annex VII becomes Annex VI. Section 3.3 is replaced by the following: '3.3. Light source
+The light source shall be an incandescent lamp with a colour temperature in the range 2 800 to 3 250 K or a green light emitting diode (LED) with a spectral peak between 550 and 570 nm. The light source shall be protected against sooting by means that do not influence the optical path length beyond the manufacturer's specifications.' 6. Annex VIII becomes Annex VII. In items 2.16, 2.17 and 2.2.3, 'Annex VII' is replaced by 'Annex VI'.
+Article 5
+This Directive is addressed to the Member States.
+Article 3
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 8 March 2006.
+
+They shall forthwith inform the Commission thereof. They shall apply this Directive from 9 March 2006. When Member States adopt those provisions, they shall contain a reference to this Directive or shall be accompanied by such reference at the occasion of their official publication. Member States shall determine how such reference is to be made. 2. Member States shall communicate to the Commission the texts of the main provisions of the national law that they adopt in the field governed by this Directive.
+Article 1
+The Annexes to Directive 72/306/EEC are amended in accordance with the Annex to this Directive.

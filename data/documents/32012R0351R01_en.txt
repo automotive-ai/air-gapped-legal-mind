@@ -1,0 +1,39 @@
+Corrigendum to Commission Regulation (EU) No 351/2012 of 23 April 2012 implementing Regulation (EC) No 661/2009 of the European Parliament and of the Council as regards type-approval requirements for the installation of lane departure warning systems in motor vehicles
+(
+Official Journal of the European Union L 110 of 24 April 2012
+)
+Corrigendum to Commission Regulation (EU) No 351/2012 of 23 April 2012 implementing Regulation (EC) No 661/2009 of the European Parliament and of the Council as regards type-approval requirements for the installation of lane departure warning systems in motor vehicles
+(
+Official Journal of the European Union L 110 of 24 April 2012
+)
+On page 27, the Appendix to Annex II should be replaced by the following:
+
+'Appendix
+Visible lane marking identification 1. For the purpose of the test procedures referred to in points 2.2. and 2.5. of Annex II, the test lane width shall be greater than 3,5 m. 2. The visible lane markings identified in Table 1 are assumed to be white, unless otherwise indicated in this Appendix. 3. Table 1 shall be used for approval in accordance with points 2.2. and 2.5. of Annex II to this Regulation. {{IMAGE:Image_0, Caption:Table detailing identified visible lane markings by country, specifying patterns and widths for left edge, centre line, and right edge markings.}} {{IMAGE:Image_0, Caption:Table detailing identified visible lane markings by country, specifying patterns and widths for left edge, centre line, and right edge markings.}} {{IMAGE:Image_2, Caption:Table specifying the patterns and widths of visible lane markings for Greece, Portugal, Finland, Germany, and France.}} {{IMAGE:Image_3, Caption:A table specifying visible lane marking patterns and widths for highways and other roads in France.}} PATTERN
+COUNTRY
+WIDTH
+Left edge lane marking
+Centre line
+Right edge lane marking
+Left edge lane marking
+Centre line
+Right edge lane marking
+FRANCE
+Highways
+(4 lanes or 2 × 2 lanes)
+22,5 and 37,5 cm
+15 cm
+22,5 cm
+3 m
+3 m
+3,5 m
+10 m
+FRANCE
+(other roads)
+10 or 12 cm
+15 or 18 cm
+3 m
+3 m
+3,5 m
+10 m
+(*) Excepted certain zones (e.g. slip road, lane for slow vehicles, etc.).'

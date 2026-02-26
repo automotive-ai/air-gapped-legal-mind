@@ -1,0 +1,609 @@
+Article 1
+Regulation (EC) No 692/2008 is amended as follows:
+
+(1) In Article 2, the following points 43 and 44 are added: '43. 'base emission strategy' (hereinafter 'BES') means an emission strategy that is active throughout the speed and load operating range of the vehicle unless an auxiliary emission strategy is activated; 44. 'auxiliary emission strategy' (hereinafter 'AES') means an emission strategy that becomes active and replaces or modifies a BES for a specific purpose and in response to a specific set of ambient or operating conditions and only remains operational as long as those conditions exist.'. (2) In Article 3(10) the third paragraph shall be replaced by the following text: 'Until three years after the dates specified in Article 10(4) and four years after the dates specified in Article 10(5) of Regulation (EC) No 715/2007 the following provisions shall apply:'. (3) Article 3(10)(a) shall be replaced by the following text: 'The requirements of point 2.1 of Annex IIIA shall not apply.'. (4) In Article 5, the following paragraphs 11 and 12 are inserted: '11. The manufacturer shall also provide an extended documentation package with the following information: (a) information on the operation of all AES and BES, including a description of the parameters that are modified by any AES and the boundary conditions under which the AES operate, and indication of the AES or BES which are likely to be active under the conditions of the test procedures set out in this Regulation; (b) a description of the fuel system control logic, timing strategies and switch points during all modes of operation. 12. The extended documentation package referred to in paragraph 11 shall remain strictly confidential. It may be kept by the approval authority, or, at the discretion of the approval authority, may be retained by the manufacturer. In the case the manufacturer retains the documentation package, that package shall be identified and dated by the approval authority once reviewed and approved. It shall be made available for inspection by the approval authority at the time of approval or at any time during the validity of the approval.'. (5) Appendix 6 to Annex I is amended as set out in Annex I to this Regulation. (6) Annex IIIA is amended as set out in Annex II to this Regulation.
+recital 1
+(1) Regulation (EC) No 715/2007 is one of the separate regulatory acts under the type-approval procedure laid down by Directive 2007/46/EC of the European Parliament and of the Council (2).
+recital 2
+(2) Regulation (EC) No 715/2007 requires new light-duty vehicles to comply with certain emission limits and lays down additional requirements on access to information.
+
+The specific technical provisions necessary to implement that Regulation were adopted by Commission Regulation (EC) No 692/2008 (3).
+recital 4
+(4) The type-approval emission requirements for motor vehicles have been gradually and significantly tightened through the introduction and subsequent revision of Euro standards.
+
+While vehicles in general have delivered substantial emission reductions across the range of regulated pollutants, this was not the case for NOx emissions from diesel engines, in particular light-duty vehicles. Actions for correcting this situation are therefore needed.
+recital 13
+(13) Finally, recognising the need to control NOx emissions in urban conditions, urgent consideration shall be given to changing the relative weighting of the urban, rural and motorway elements of the RDE test to ensure a low conformity factor can be achieved in practice, creating a further boundary condition relating to driving dynamics in the third regulatory RDE package above which the extended conditions shall be applicable from the step 1 introduction dates.
+recital 14
+(14) The Commission shall keep under review the provisions of the RDE test procedure and adapt those provisions to accommodate new vehicle technologies and to ensure their effectiveness.
+
+Similarly, the Commission shall keep under annual review the appropriate level of the final conformity factor in light of technical progress. It shall in particular review the two alternative methods for evaluating PEMS emission data set out in Appendices 5 and 6 to Annex IIIA to Regulation (EC) No 692/2008 with a view to developing a single method.
+recital 15
+(15) It is therefore appropriate to amend Regulation (EC) No 692/2008 accordingly.
+recital 16
+(16) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee — Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 715/2007 of the European Parliament and of the Council of 20 June 2007 on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information (1), and in particular Article 5(3) thereof,
+Whereas:
+
+(1) Regulation (EC) No 715/2007 is one of the separate regulatory acts under the type-approval procedure laid down by Directive 2007/46/EC of the European Parliament and of the Council (2). (2) Regulation (EC) No 715/2007 requires new light-duty vehicles to comply with certain emission limits and lays down additional requirements on access to information. The specific technical provisions necessary to implement that Regulation were adopted by Commission Regulation (EC) No 692/2008 (3). (3) The Commission has performed a detailed analysis of the procedures, tests and requirements for type-approval that are set out in Regulation (EC) No 692/2008 on the basis of own research and external information and found that emissions generated by real driving of Euro 5/6 vehicles on the road substantially exceed the emissions measured on the regulatory new European driving cycle (NEDC), in particular with respect to NOx emissions of diesel vehicles. (4) The type-approval emission requirements for motor vehicles have been gradually and significantly tightened through the introduction and subsequent revision of Euro standards. While vehicles in general have delivered substantial emission reductions across the range of regulated pollutants, this was not the case for NOx emissions from diesel engines, in particular light-duty vehicles. Actions for correcting this situation are therefore needed. (5) 'Defeat devices' as defined in Article 3(10) of Regulation (EC) No 715/2007 reducing the level of emission control are prohibited. Recent events have highlighted the need to strengthen the enforcement in this respect. Therefore it is appropriate to require a better supervision of the emission control strategy applied by the manufacturer at type-approval, following the principles already applied to heavy-duty vehicles by Euro VI Regulation (EC) No 595/2009 and its implementing measures. (6) Addressing the problem of NOx emissions from diesel vehicles should contribute to decreasing the current sustained high levels of NO2 concentrations in ambient air, which are a major concern regarding human health. (7) The Commission has established in January 2011 a working group involving all interested stakeholders for developing a real driving emission (RDE) test procedure better reflecting emissions measured on the road. For this purpose, and after thorough technical discussions, the option suggested in Regulation (EC) No 715/2007, i.e. the use of portable emission measurement systems (PEMS) and not-to-exceed (NTE) limits, has been followed. (8) As agreed with stakeholders in the CARS 2020 process (4), the RDE test procedures should be introduced in two phases: during a first transitional period the test procedures should only be applied for monitoring purposes, while afterwards they should be applied together with binding quantitative RDE requirements to all new type-approvals and new vehicles. (9) The RDE test procedures were introduced by Commission Regulation (EU) 2016/427 (5). It is now necessary to establish the quantitative RDE requirements in order to limit tailpipe emissions under all normal conditions of use pursuant to the emission limits set out in Regulation (EC) No 715/2007. For that purpose, statistical and technical uncertainties of the measurement procedures should be taken into account. (10) In order to allow manufacturers to gradually adapt to the RDE rules, the final quantitative RDE requirements should be introduced in two subsequent steps. In the first step, which should start applying 4 years after the dates of mandatory application of the Euro 6 standards, a conformity factor of 2,1 should apply. The second step should follow 1 year and 4 months after the first step and should require full compliance with the emission limit value for NOx of 80 mg/km set out in Regulation (EC) No 715/2007 plus a margin taking into account the additional measurement uncertainties related to the application of portable emission measurement systems (PEMS). (11) While it is important that all possible driving situations are potentially covered by RDE testing, it should be avoided that the tested vehicles are driven in a biased manner, i.e. with the intention to generate a passed or failed test not by virtue of the technical performance of the vehicle but due to extreme driving patterns. Therefore, complementary boundary conditions for RDE testing are introduced in order to address such situations. (12) Due to their very nature, driving conditions encountered during individual PEMS trips may not fully correspond to 'normal conditions of use of a vehicle'. The severity of emission control during such trips may therefore vary. As a consequence, and in order to take into account the statistical and technical uncertainties of the measurement procedures, it may be considered in the future to reflect in the NTE emission limits applicable to individual PEMS trips the characteristics of those trips, described by certain measurable parameters, e.g. related to the driving dynamics or workload. If that principle is applied, it should not lead to the weakening of the environmental effect and the effectiveness of the RDE test procedures, which should be demonstrated by a peer-reviewed scientific study. In addition, for the assessment of the severity of emission control during a PEMS trip, only parameters that can be justified by objective scientific reasons and not just by reasons of calibration of the engine or the pollutant control devices or the emission control systems should be taken into account. (13) Finally, recognising the need to control NOx emissions in urban conditions, urgent consideration shall be given to changing the relative weighting of the urban, rural and motorway elements of the RDE test to ensure a low conformity factor can be achieved in practice, creating a further boundary condition relating to driving dynamics in the third regulatory RDE package above which the extended conditions shall be applicable from the step 1 introduction dates. (14) The Commission shall keep under review the provisions of the RDE test procedure and adapt those provisions to accommodate new vehicle technologies and to ensure their effectiveness. Similarly, the Commission shall keep under annual review the appropriate level of the final conformity factor in light of technical progress. It shall in particular review the two alternative methods for evaluating PEMS emission data set out in Appendices 5 and 6 to Annex IIIA to Regulation (EC) No 692/2008 with a view to developing a single method. (15) It is therefore appropriate to amend Regulation (EC) No 692/2008 accordingly. (16) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee — Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+ANNEX II
+ANNEX II
+Annex IIIA to Regulation (EC) No 692/2008 is amended as follows: (1) point 2.1 is replaced by the following: '2.1 Not-to-exceed emission limits
+Throughout the normal life of a vehicle type approved according to Regulation (EC) No 715/2007, its emissions determined in accordance with the requirements of this Annex and emitted at any possible RDE test performed in accordance with the requirements of this Annex, shall not be higher than the following not-to-exceed (NTE) values: NTEpollutant
+ = CFpollutant
+ × TF(p
+1,…, pn
+) × EURO-6
+where EURO-6 is the applicable Euro 6 emission limit laid down in Table 2 of Annex I to Regulation (EC) No 715/2007.'; (2) the following points 2.1.1, 2.1.2 and 2.1.3 are inserted: '2.1.1 Final conformity factors
+The conformity factor CFpollutant
+ for the respective pollutant is specified as follows:
+
+| Pollutant | Mass of oxides of nitrogen (NOx) | Number of particles (PN) | Mass of carbon monoxide (CO) (1) | Mass of total hydrocarbons (THC) | Combined mass of total hydrocarbons and oxides of nitrogen (THC + NOx) |
+|---|---|---|---|---|---|
+| CFpollutant | 1 + margin with margin = 0,5 | to be determined | — | — | — | " 
+ margin
+ " is a parameter taking into account the additional measurement uncertainties introduced by the PEMS equipment, which are subject to an annual review and shall be revised as a result of the improved quality of the PEMS procedure or technical progress. 2.1.2 Temporary conformity factors
+By way of exception to the provisions of point 2.1.1, during a period of 5 years and 4 months following the dates specified in Article 10(4) and (5) of Regulation (EC) No 715/2007 and upon request of the manufacturer, the following temporary conformity factors may apply:
+
+| Pollutant | Mass of oxides of nitrogen (NOx) | Number of particles (PN) | Mass of carbon monoxide (CO) (2) | Mass of total hydrocarbons (THC) | Combined mass of total hydrocarbons and oxides of nitrogen (THC + NOx) |
+|---|---|---|---|---|---|
+| CFpollutant | 21 | to be determined | — | — | — | The application of temporary conformity factors shall be recorded in the certificate of conformity of the vehicle. 2.1.3 Transfer functions
+The transfer function TF(p1,…, pn
+) referred to in point 2.1 is set to 1 for the entire range of parameters pi (i = 1,…,n). If the transfer function TF(p
+1,…, pn
+) is amended, this shall be done in a manner which is not detrimental to the environmental impact and the effectiveness of the RDE test procedures. In particular the following condition shall hold: ∫ TF (p1,…, pn) * Q (p1,…, pn) dp = ∫ Q (p1,…, pn) dp
+Where: —
+dp represents the integral over the entire space of the parameters pi (i = 1,…,n)
+—
+Q(p1,…, pn), is the probability density of an event corresponding to the parameters pi (i = 1,…,n) in real driving.'; (3) the following point 3.1.0 is inserted: '3.1.0
+The requirements of point 2.1 shall be fulfilled for the urban part and the complete PEMS trip. Upon the choice of the manufacturer the conditions of at least one of the two points below shall be fulfilled: 3.1.0.1
+Mgas,d,t
+ ≤ NTEpollutant
+ and Mgas,d,u
+ ≤ NTEpollutant
+ with the definitions of point 2.1 of this Annex and points 6.1 and 6.3 of Appendix 5 and the setting gas = pollutant. 3.1.0.2
+Mw,gas,d
+ ≤ NTEpollutant
+ and Mw,gas,d,U
+ ≤ NTEpollutant
+ with the definitions of point 2.1 of this Annex and point 3.9 of Appendix 6 and the setting gas = pollutant.'; (4) point 5.3 is deleted; (5) point 5.4 is replaced by the following: '5.4. Dynamic conditions
+The dynamic conditions encompass the effect of road grade, head wind and driving dynamics (accelerations, decelerations) and auxiliary systems upon energy consumption and emissions of the test vehicle. The verification of the normality of dynamic conditions shall be done after the test is completed, using the recorded PEMS data. This verification shall be conducted in two steps: 5.4.1
+The overall excess or insufficiency of driving dynamics during the trip shall be checked using the methods described in Appendix 7a to this Annex. 5.4.2
+If the trip results as valid following the verifications according to point 5.4.1, the methods for verifying the normality of the dynamic conditions and laid down in Appendices 5 and 6 to this Annex must be applied. Each method includes a reference for dynamic conditions, ranges around the reference and the minimum coverage requirements to achieve a valid test.'; (6) point 6.8 is replaced by the following: '6.8
+The average speed (including stops) of the urban driving part of the trip should be between 15 and 40 km/h. Stop periods, defined as vehicle speed of less than 1 km/h, shall account for 6-30 % of the time duration of urban operation. Urban operation shall contain several stop periods of 10 s or longer. If a stop period lasts more than 180 s, the emission events during the 180 s following such an excessively long stop period shall be excluded from the evaluation.'; (7) in point 6.11, the following sentence is added: 'In addition, the proportional cumulative positive altitude gain shall be less than 1 200 m/100km) and be determined according to Appendix 7b.'; (8) point 9.5 is replaced by the following: '9.5. If during a particular time interval the ambient conditions are extended in accordance with point 5.2, the emissions during this particular time interval, calculated according to Appendix 4, shall be divided by a value of 1,6 before being evaluated for compliance with the requirements of this Annex.'; (9) Appendix 1 is amended as follows: (a) in point 3.4.6, the following sentence is added: 'It is permitted to power any safety-related illumination of fixtures and installations of PEMS components outside of the vehicle's cabin by the vehicle's battery.'; (b) in point 4.5, the following sentence is added: 'To minimise analyser drift, one should conduct the zero and span calibration of analysers at an ambient temperature that resembles, as closely as possible, the temperature experienced by the test equipment during the RDE trip.'; (10) in Appendix 2, footnote 2 to Table 4 in point 8 is replaced by the following: '(2) This general requirement applies to the speed sensor only; if vehicle speed is used to determine parameters like acceleration, the product of speed and positive acceleration, or RPA, the speed signal shall have an accuracy of 0,1 % above 3 km/h and a sampling frequency of 1 Hz. This accuracy requirement can be met by using the signal of a wheel rotational speed sensor.'; (11) in Appendix 6 point 2 the following definition is deleted: 'ai
+Actual acceleration in time step i, if not other defined in an equation: {{IMAGE:Image_0, Caption:Equation defining the calculation for actual acceleration $a_i$ based on velocity and time differentials.}} , [m/s2]';
+(12) in Appendix 6 point 2 the following definitions are inserted: ' {{IMAGE:Image_1, Caption:Mathematical variable symbol m with overline and subscript gas,U.}} {{IMAGE:Image_2, Caption:Mathematical symbol V with an overline and subscript U.}} Weighted vehicle speed in the wheel power class j, km/h'; (13) in Appendix 6 point 3.1 the first paragraph is replaced by the following text: 'The actual wheel power Pr,i shall be the total power to overcome air resistance, rolling resistance, road gradients, longitudinal inertia of the vehicle and rotational inertia of the wheels.'; (14) in Appendix 6 point 3.2 is replaced by the following text: '3.2 Classification of the moving averages to urban, rural and motorway
+The standard power frequencies are defined for urban driving and for the total trip (see paragraph 3.4) and a separate evaluation of the emissions shall be made for the total trip and for the urban part.
+
+|  | Urban | Rural | Motorway |
+|---|---|---|---|
+| vi [km/h] | 0 to ≤ 60 | > 60 to ≤ 90 | > 90' |
+
+(15) in Appendix 6 point 3.9 is replaced by the following text:
+ANNEX I
+ANNEX I
+In Appendix 6 to Annex I to Regulation (EC) No 692/2008, Table 1 is amended as follows: (1) rows ZD, ZE, ZF are replaced by the following:
+
+| 'ZD | Euro 6c | Euro 6-2 | M, N1 class I | PI, CI | 1.9.2018 | 31.8.2019 |
+|---|---|---|---|---|---|---|
+| ZE | Euro 6c | Euro 6-2 | N1 class II | PI, CI | 1.9.2019 | 31.8.2020 |
+| ZF | Euro 6c | Euro 6-2 | N1 class III, N2 | PI, CI | 1.9.2019 | 31.8.2020' | (2) the following rows are inserted after row ZF:
+
+| 'ZG | Euro 6d-TEMP | Euro 6-2 | M, N1 class I | PI, CI | 1.9.2017 | 1.9.2019 | 31.12.2020 |
+|---|---|---|---|---|---|---|---|
+| ZH | Euro 6d-TEMP | Euro 6-2 | N1 class II | PI, CI | 1.9.2018 | 1.9.2020 | 31.12.2021 |
+| ZI | Euro 6d-TEMP | Euro 6-2 | N1 class III, N2 | PI, CI | 1.9.2018 | 1.9.2020 | 31.12.2021 |
+| ZJ | Euro 6d | Euro 6-2 | M, N1 class I | PI, CI | 1.1.2020 | 1.1.2021 |  |
+| ZK | Euro 6d | Euro 6-2 | N1 class II | PI, CI | 1.1.2021 | 1.1.2022 |  |
+| PLN | Euro 6d | Euro 6-2 | N1 class III, N2 | PI, CI | 1.1.2021 | 1.1.2022' |  |
+
+(3) in the key to the table, the following paragraphs are inserted after the paragraph concerning the 'Euro 6b' emissions standard: '"Euro 6c" emissions standard= Full Euro 6 emission requirements but without quantitative RDE requirements, i.e. Euro 6b emission standard, final particle number standards for PI vehicles, use of E10 and B7 reference fuel (where applicable) assessed on regulatory lab test cycle and RDE testing for monitoring only (no NTE emission limits applied);
+"Euro 6d-TEMP" emissions standard= Full Euro 6 emission requirements, i.e. Euro 6b emission standard, final particle number standards for PI vehicles, use of E10 and B7 reference fuel (where applicable) assessed on regulatory lab test cycle and RDE testing against temporary conformity factors;'; (4) in the key to the table, the paragraph concerning the 'Euro 6c' emissions standard is replaced by the following: '"Euro 6d" emissions standard= Full Euro 6 emission requirements, i.e. Euro 6b emission standard, final particle number standards for PI vehicles, use of E10 and B7 reference fuel (where applicable) assessed on regulatory lab test cycle and RDE testing against final conformity factors;'.
+recital 3
+(3) The Commission has performed a detailed analysis of the procedures, tests and requirements for type-approval that are set out in Regulation (EC) No 692/2008 on the basis of own research and external information and found that emissions generated by real driving of Euro 5/6 vehicles on the road substantially exceed the emissions measured on the regulatory new European driving cycle (NEDC), in particular with respect to NOx emissions of diesel vehicles.
+Article 2
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+recital 5
+(5) 'Defeat devices' as defined in Article 3(10) of Regulation (EC) No 715/2007 reducing the level of emission control are prohibited.
+
+Recent events have highlighted the need to strengthen the enforcement in this respect. Therefore it is appropriate to require a better supervision of the emission control strategy applied by the manufacturer at type-approval, following the principles already applied to heavy-duty vehicles by Euro VI Regulation (EC) No 595/2009 and its implementing measures.
+recital 6
+(6) Addressing the problem of NOx emissions from diesel vehicles should contribute to decreasing the current sustained high levels of NO2 concentrations in ambient air, which are a major concern regarding human health.
+recital 7
+(7) The Commission has established in January 2011 a working group involving all interested stakeholders for developing a real driving emission (RDE) test procedure better reflecting emissions measured on the road.
+
+For this purpose, and after thorough technical discussions, the option suggested in Regulation (EC) No 715/2007, i.e. the use of portable emission measurement systems (PEMS) and not-to-exceed (NTE) limits, has been followed.
+recital 8
+(8) As agreed with stakeholders in the CARS 2020 process (4), the RDE test procedures should be introduced in two phases: during a first transitional period the test procedures should only be applied for monitoring purposes, while afterwards they should be applied together with binding quantitative RDE requirements to all new type-approvals and new vehicles.
+recital 9
+(9) The RDE test procedures were introduced by Commission Regulation (EU) 2016/427 (5).
+
+It is now necessary to establish the quantitative RDE requirements in order to limit tailpipe emissions under all normal conditions of use pursuant to the emission limits set out in Regulation (EC) No 715/2007. For that purpose, statistical and technical uncertainties of the measurement procedures should be taken into account.
+recital 10
+(10) In order to allow manufacturers to gradually adapt to the RDE rules, the final quantitative RDE requirements should be introduced in two subsequent steps.
+
+In the first step, which should start applying 4 years after the dates of mandatory application of the Euro 6 standards, a conformity factor of 2,1 should apply. The second step should follow 1 year and 4 months after the first step and should require full compliance with the emission limit value for NOx of 80 mg/km set out in Regulation (EC) No 715/2007 plus a margin taking into account the additional measurement uncertainties related to the application of portable emission measurement systems (PEMS).
+recital 11
+(11) While it is important that all possible driving situations are potentially covered by RDE testing, it should be avoided that the tested vehicles are driven in a biased manner, i.e. with the intention to generate a passed or failed test not by virtue of the technical performance of the vehicle but due to extreme driving patterns.
+
+Therefore, complementary boundary conditions for RDE testing are introduced in order to address such situations.
+recital 12
+(12) Due to their very nature, driving conditions encountered during individual PEMS trips may not fully correspond to 'normal conditions of use of a vehicle'.
+
+The severity of emission control during such trips may therefore vary. As a consequence, and in order to take into account the statistical and technical uncertainties of the measurement procedures, it may be considered in the future to reflect in the NTE emission limits applicable to individual PEMS trips the characteristics of those trips, described by certain measurable parameters, e.g. related to the driving dynamics or workload. If that principle is applied, it should not lead to the weakening of the environmental effect and the effectiveness of the RDE test procedures, which should be demonstrated by a peer-reviewed scientific study. In addition, for the assessment of the severity of emission control during a PEMS trip, only parameters that can be justified by objective scientific reasons and not just by reasons of calibration of the engine or the pollutant control devices or the emission control systems should be taken into account.
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 715/2007 of the European Parliament and of the Council of 20 June 2007 on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information (1), and in particular Article 5(3) thereof,
+Whereas:
+(15) in Appendix 6 point 3.9 is replaced by the following text: '3.9. Calculation of the weighted distance-specific emission value
+The time-based weighted averages of the emissions in the test shall be converted into distance-based emissions once for the urban data set and once for the total data set as follows: For the total trip: {{IMAGE:Image_3, Caption:Equation defining the parameter M_w,gas,d based on average gas mass flow and velocity.}} For the urban part of the trip: {{IMAGE:Image_4, Caption:Mathematical formula for calculating $M_{w,gas,d,U}$ based on average gas mass flow and velocity.}} Using these formulas, weighted averages shall be calculated for the following pollutants for the total trip and for the urban part of the trip: Mw,NOx,d
+weighted NOx test result in [mg/km]
+Mw,NOx,d,U
+weighted NOx test result in [mg/km]
+Mw,CO,d
+weighted CO test result in [mg/km]
+Mw,CO,d,U
+weighted CO test result in [mg/km]';
+(16) the following Appendices 7a and 7b are inserted: 'Appendix 7a
+Verification of overall trip dynamics 1. INTRODUCTION
+This Appendix describes the calculation procedures to verify the overall trip dynamics, to determine the overall excess or absence of dynamics during urban, rural and motorway driving. 2. SYMBOLS
+RPA
+relative positive acceleration
+'acceleration resolution ares
+'
+minimum acceleration > 0 measured in m/s2
+T4253H
+compound data smoother
+'positive acceleration apos
+'
+acceleration [m/s2] greater than 0,1 m/s2
+Index (i) refers to the time step
+Index (j) refers to the time step of positive acceleration datasets
+Index (k) refers to the category (t = total, u = urban, r = rural, m = motorway)
+Δ
+—
+difference
+>
+—
+larger
+≥
+—
+larger or equal
+%
+—
+per cent
+<
+—
+smaller
+≤
+—
+smaller or equal
+a
+—
+acceleration [m/s2]
+ai
+—
+acceleration in time step i [m/s2]
+apos
+—
+positive acceleration greater than 0,1 m/s2 [m/s2]
+apos,i,k
+—
+positive acceleration greater than 0,1 m/s2 in time step i considering the urban, rural and motorway shares [m/s2]
+ares
+—
+acceleration resolution [m/s2]
+di
+—
+distance covered in time step i [m]
+di,k
+—
+distance covered in time step i considering the urban, rural and motorway shares [m]
+Mk
+—
+number of samples for urban, rural and motorway shares with positive acceleration greater than 0,1 m/s2
+Nk
+—
+total number of samples for the urban, rural and motorway shares and the complete trip
+RPAk
+—
+relative positive acceleration for urban, rural and motorway shares [m/s2 or kWs/(kg × km)]
+tk
+—
+duration of the urban, rural and motorway shares and the complete trip [s]
+v
+—
+vehicle speed [km/h]
+vi
+—
+actual vehicle speed in time step i [km/h]
+vi,k
+—
+actual vehicle speed in time step i considering the urban, rural and motorway shares [km/h]
+(v · a)i
+—
+actual vehicle speed per acceleration in time step i [m2/s3 or W/kg]
+(v · apos)j,k
+—
+actual vehicle speed per positive acceleration greater than 0,1 m/s2 in time step j considering the urban, rural and motorway shares [m2/s3 or W/kg]. {{IMAGE:Image_6, Caption:Mathematical notation showing the symbol V with an overline and subscript k.}} —
+average vehicle speed for urban, rural and motorway shares [km/h] 3. TRIP INDICATORS
+3.1. Calculations
+3.1.1. Data pre-processing
+Dynamic parameters like acceleration, v · apos
+ or RPA shall be determined with a speed signal of an accuracy of 0,1 % above 3 km/h and a sampling frequency of 1 Hz. This accuracy requirement is generally fulfilled by wheel (rotational) speed signals. The speed trace shall be checked for faulty or implausible sections. The vehicle speed trace of such sections is characterised by steps, jumps, terraced speed traces or missing values. Short faulty sections shall be corrected, for example by data interpolation or benchmarking against a secondary speed signal. Alternatively, short trips containing faulty sections could be excluded from the subsequent data analysis. In a second step the acceleration values shall be ranked in ascending order, in order to determine the acceleration resolution ares
+ = (minimum acceleration value > 0). If ares
+ ≤ 0,01 m/s
+2, the vehicle speed measurement is accurate enough. If 0,01 < ares ≤ rmax m/s2, smoothing by using a T4253 Hanning filter. If ares > rmax m/s2, the trip is invalid. The T4253 Hanning filter performs the following calculations: The smoother starts with a running median of 4, which is centred by a running median of 2. It then re-smoothes these values by applying a running median of 5, a running median of 3, and Hanning (running weighted averages). Residuals are computed by subtracting the smoothed series from the original series. This whole process is then repeated on the computed residuals. Finally, the smoothed residuals are computed by subtracting the smoothed values obtained the first time through the process. The correct speed trace builds the basis for further calculations and binning as described in paragraph 3.1.2. 3.1.2. Calculation of distance, acceleration and v · a
+The following calculations shall be performed over the whole time-based speed trace (1 Hz resolution) from second 1 to second tt
+ (last second). The distance increment per data sample shall be calculated as follows: di
+ = vi
+/3,6, i = 1 to
+Nt
+Where: di is the distance covered in time step i [m]
+v
+i is the actual vehicle speed in time step i [km/h]
+N
+t is the total number of samples
+The acceleration shall be calculated as follows: ai
+ = (v
+i + 1 - v
+i - 1)/(2 · 3,6), i = 1 to
+Nt
+Where: ai
+ is the acceleration in time step i [m/s2]. For i = 1: vi - 1 = 0, for i = Nt
+: vi + 1 = 0. The product of vehicle speed per acceleration shall be calculated as follows: (v · a)i
+ = vi
+ · ai
+/3,6, i = 1 to
+Nt
+Where: (v · a)i
+ is the product of the actual vehicle speed per acceleration in time step i [m2/s3 or W/kg]. 3.1.3. Binning of the results
+After the calculation of ai
+ and (v · a)i
+, the values vi
+, di
+, ai
+ and (v · a)i
+ shall be ranked in ascending order of the vehicle speed. All datasets with vi
+ ≤ 60 km/h belong to the 'urban' speed bin, all datasets with 60 km/h < vi
+ ≤ 90 km/h belong to the 'rural' speed bin and all datasets with vi
+ > 90 km/h belong to the 'motorway' speed bin. The number of datasets with acceleration values ai
+ > 0,1 m/s2 shall be bigger or equal to 150 in each speed bin. {{IMAGE:Image_6, Caption:Mathematical notation showing the symbol V with an overline and subscript k.}} shall be calculated as follows: {{IMAGE:Image_7, Caption:Mathematical equation defining the average value $\overline{v}_k$ as the sum of $v_{i,k}$ divided by $N_k$.}} , i = 1 to
+Nk,k = u,r,m
+Where: Nk
+ is the total number of samples of the urban, rural, and motorway shares. 3.1.4. Calculation of v · apos_[95] per speed bin
+The 95th percentile of the v · apos
+ values shall be calculated as follows: The (v · a)i,k
+ values in each speed bin shall be ranked in ascending order for all datasets with ai,k
+ ≥ 0,1 m/s
+2 and the total number of these samples Mk
+ shall be determined. Percentile values are then assigned to the (v · apos)j,k
+ values with ai,k
+ ≥ 0,1 m/s
+2 as follows: The lowest v · apos
+ value gets the percentile 1/Mk
+, the second lowest 2/Mk
+, the third lowest 3/Mk
+ and the highest value Mk/Mk
+ =100 %. (v · apos)k
+_[95] is the (v · apos)j,k
+ value, with j/Mk
+ = 95 %. If j/Mk
+ = 95 % cannot be met, (v · apos)k
+_[95] shall be calculated by linear interpolation between consecutive samples j and j + 1 with j/Mk
+ < 95 % and (j + 1)/Mk
+ > 95 %. The relative positive acceleration per speed bin shall be calculated as follows: RPAk
+ = Σ
+j
+(Δt · (v · apos
+)
+j,k
+)/Σ
+idi,k
+, j = 1 to
+Mk,i = 1 to
+Nk,k = u,r,m
+Where: RPAk is the relative positive acceleration for urban, rural and motorway shares in [m/s2 or kWs/(kg*km)]
+Δt
+time difference equal to 1 second
+Mk
+the sample number for urban, rural and motorway shares with positive acceleration
+Nk
+the total sample number for urban, rural and motorway shares.
+{{IMAGE:Image_8, Caption:Mathematical inequality defining a maximum threshold of 74.6 km/h for the variable $\overline{v}_{k}$.}} {{IMAGE:Image_9, Caption:Mathematical inequality defining a threshold for the 95th percentile of the velocity-acceleration product relative to average velocity.}} is fulfilled, the trip is invalid. {{IMAGE:Image_10, Caption:Mathematical inequality stating average velocity $\overline{v}_k$ exceeds 74.6 km/h.}} {{IMAGE:Image_11, Caption:Mathematical inequality comparing the 95th percentile of the product of velocity and positive acceleration to a threshold based on average velocity.}} is fulfilled, the trip is invalid. {{IMAGE:Image_12, Caption:Mathematical inequality establishing that the variable v̄_k must be less than or equal to 94.05 km/h.}} {{IMAGE:Image_13, Caption:Mathematical inequality defining the upper bound for RPA_k relative to v̄_k.}} is fulfilled, the trip is invalid. {{IMAGE:Image_14, Caption:Mathematical inequality setting a lower limit for average velocity $\bar{v}_k$ at 94.05 km/h.}} and RPAk < 0,025 is fulfilled, the trip is invalid. 'Appendix 7b
+Procedure to determine the cumulative positive elevation gain of a trip 1. INTRODUCTION
+This Appendix describes the procedure to determine the cumulative elevation gain of an RDE trip. 2. SYMBOLS
+d(0) —
+distance at the start of a trip [m]
+d
+—
+cumulative distance travelled at the discrete way point under consideration [m]
+d0
+—
+cumulative distance travelled until the measurement directly before the respective way point d [m]
+d1
+—
+cumulative distance travelled until the measurement directly after the respective way point d [m]
+da
+—
+reference way point at d(0) [m]
+de
+—
+cumulative distance travelled until the last discrete way point [m]
+di
+—
+instantaneous distance [m]
+dtot
+—
+total test distance [m]
+h(0) —
+vehicle altitude after the screening and principle verification of data quality at the start of a trip [m above sea level]
+h(t) —
+vehicle altitude after the screening and principle verification of data quality at point t [m above sea level]
+h(d) —
+vehicle altitude at the way point d [m above sea level]
+h(t-1)
+—
+vehicle altitude after the screening and principle verification of data quality at point t-1 [m above sea level]
+hcorr(0) —
+corrected altitude directly before the respective way point d [m above sea level]
+hcorr(1) —
+corrected altitude directly after the respective way point d [m above sea level]
+hcorr(t) —
+corrected instantaneous vehicle altitude at data point t [m above sea level]
+hcorr(t-1)
+—
+corrected instantaneous vehicle altitude at data point t-1 [m above sea level]
+hGPS,i
+—
+instantaneous vehicle altitude measured with GPS [m above sea level]
+hGPS(t) —
+vehicle altitude measured with GPS at data point t [m above sea level]
+hint(d) —
+interpolated altitude at the discrete way point under consideration d [m above sea level]
+hint,sm,1(d) —
+smoothed interpolated altitude, after the first smoothing run at the discrete way point under consideration d [m above sea level]
+hmap(t) —
+vehicle altitude based on topographic map at data point t [m above sea level]
+Hz
+—
+hertz
+km/h
+—
+kilometre per hour
+m
+—
+metre
+roadgrade,1(d) —
+smoothed road grade at the discrete way point under consideration d after the first smoothing run [m/m]
+roadgrade,2(d) —
+smoothed road grade at the discrete way point under consideration d after the second smoothing run [m/m]
+sin
+—
+trigonometric sine function
+t
+—
+time passed since test start [s]
+t0
+—
+time passed at the measurement directly located before the respective way point d [s]
+vi
+—
+instantaneous vehicle speed [km/h]
+v(t) —
+vehicle speed of data point t [km/h]. 3. GENERAL REQUIREMENTS
+The cumulative positive elevation gain of an RDE trip shall be determined based on three parameters: the instantaneous vehicle altitude hGPS,i
+ [m above sea level] as measured with the GPS, the instantaneous vehicle speed vi
+ [km/h] recorded at a frequency of 1 Hz and the corresponding time t [s] that has passed since test start. 4. CALCULATION OF CUMULATIVE POSITIVE ELEVATION GAIN
+4.1. General
+The cumulative positive elevation gain of an RDE trip shall be calculated as a three-step procedure, consisting of: (i) the screening and principle verification of data quality; (ii) the correction of instantaneous vehicle altitude data; and (iii) the calculation of the cumulative positive elevation gain. 4.2. Screening and principle verification of data quality
+The instantaneous vehicle speed data shall be checked for completeness. Correcting for missing data is permitted if gaps remain within the requirements specified in Point 7 of Appendix 4; else, the test results shall be voided. The instantaneous altitude data shall be checked for completeness. Data gaps shall be completed by data interpolation. The correctness of interpolated data shall be verified by a topographic map. It is recommended to correct interpolated data if the following condition applies: |hGPS(t) - hmap(t)| > 40 m
+The altitude correction shall be applied so that: h(t) = hmap(t) where: h(t) —
+vehicle altitude after the screening and principle verification of data quality at data point t [m above sea level]
+hGPS(t) —
+vehicle altitude measured with GPS at data point t [m above sea level]
+hmap(t) —
+vehicle altitude based on topographic map at data point t [m above sea level]. 4.3. Correction of instantaneous vehicle altitude data
+The altitude h(0) at the start of a trip at d(0) shall be obtained by GPS and verified for correctness with information from a topographic map. The deviation shall not be larger than 40 m. Any instantaneous altitude data h(t) shall be corrected if the following condition applies: |h(t) - h(t - 1)| > (v(t)/3,6 * sin45°)
+The altitude correction shall be applied so that: hcorr(t) = hcorr
+(t-1)
+where: h(t) —
+vehicle altitude after the screening and principle verification of data quality at data point t [m above sea level]
+h(t-1)
+—
+vehicle altitude after the screening and principle verification of data quality at data point t-1 [m above sea level]
+v(t) —
+vehicle speed of data point t [km/h]
+hcorr(t) —
+corrected instantaneous vehicle altitude at data point t [m above sea level]
+hcorr(t-1)
+—
+corrected instantaneous vehicle altitude at data point t-1 [m above sea level]. Upon the completion of the correction procedure, a valid set of altitude data is established. This data set shall be used for the final calculation of the cumulative positive elevation gain as described in point 4.4. 4.4. Final calculation of the cumulative positive elevation gain
+4.4.1. Establishment of a uniform spatial resolution
+The total distance dtot
+ [m] covered by a trip shall be determined as sum of the instantaneous distances di
+. The instantaneous distance di
+ shall be determined as: {{IMAGE:Image_15, Caption:Mathematical equation defining the variable d_i as the quotient of v_i and 3.6.}} Where:
+di
+—
+instantaneous distance [m]
+vi
+—
+instantaneous vehicle speed [km/h]
+The cumulative elevation gain shall be calculated from data of a constant spatial resolution of 1 m starting with the first measurement at the start of a trip d(0). The discrete data points at a resolution of 1 m are referred to as way points, characterised by a specific distance value d (e.g., 0, 1, 2, 3 m…) and their corresponding altitude h(d) [m above sea level]. The altitude of each discrete way point d shall be calculated through interpolation of the instantaneous altitude hcorr(t) as: {{IMAGE:Image_16, Caption:Mathematical equation for linear interpolation of the value h_int(d) based on corrected values h_corr and distance d.}} Where:
+Where: hint(d) —
+interpolated altitude at the discrete way point under consideration d [m above sea level]
+hcorr(0) —
+corrected altitude directly before the respective way point d [m above sea level]
+hcorr(1) —
+corrected altitude directly after the respective way point d [m above sea level]
+d
+—
+cumulative distance travelled until the discrete way point under consideration d [m]
+d0
+—
+cumulative distance travelled until the measurement located directly before the respective way point d [m]
+d1
+—
+cumulative distance travelled until the measurement located directly after the respective way point d [m]. 4.4.2. Additional data smoothing
+The altitude data obtained for each discrete way point shall be smoothed by applying a two-step procedure; da
+ and de
+ denote the first and last data point respectively (Figure 1). The first smoothing run shall be applied as follows: {{IMAGE:Image_17, Caption:Equation defining the calculation for road grade 1 based on interpolated height values over a distance.}} {{IMAGE:Image_18, Caption:Mathematical equation for calculating road grade at a distance d using interpolated height values.}} {{IMAGE:Image_19, Caption:Formula for calculating road grade using interpolated height values over a distance interval.}} for d ≥ (de
+ - 200 m)
+h
+int,sm,1(d) = h
+int,sm,1(d - 1 m) + road
+grade,1(d), d = da
+ + 1 to de
+h
+int,sm,1(da
+) = hint
+(da
+) + road
+grade,1(da
+)
+Where: roadgrade,1(d) —
+smoothed road grade at the discrete way point under consideration after the first smoothing run [m/m]
+hint(d) —
+interpolated altitude at the discrete way point under consideration d [m above sea level]
+hint,sm,1(d) —
+smoothed interpolated altitude, after the first smoothing run at the discrete way point under consideration d [m above sea level]
+d
+—
+cumulative distance travelled at the discrete way point under consideration [m]
+da
+—
+reference way point at a distance of zero metres [m]
+de
+—
+cumulative distance travelled until the last discrete way point [m]. The second smoothing run shall be applied as follows: {{IMAGE:Image_20, Caption:Mathematical formula for calculating the road grade parameter road_grade,2 at a given distance d.}} {{IMAGE:Image_21, Caption:Equation defining the calculation for road grade at a specific distance based on height differences.}} {{IMAGE:Image_22, Caption:Mathematical formula for calculating the second road grade value based on smoothed interpolated height differences over a distance interval.}} for d ≥ (de
+ - 200 m)
+Where: roadgrade,2(d) —
+smoothed road grade at the discrete way point under consideration after the second smoothing run [m/m]
+hint,sm,1(d) —
+smoothed interpolated altitude, after the first smoothing run at the discrete way point under consideration d [m above sea level]
+d
+—
+cumulative distance travelled at the discrete way point under consideration [m]
+da
+—
+reference way point at a distance of zero metres [m]
+de
+—
+cumulative distance travelled until the last discrete way point [m]. {{IMAGE:Image_23, Caption:Figure 1: Illustration of the procedure to smooth interpolated altitude signals, depicting the calculation of road grade based on altitude points at specific distance intervals.}} hint (d - 200m)
+or
+hint,sm,1 (d - 200m)
+hint
+or
+hint,sm,1
+[m above the sea level]
+roadgrade,1 (d) or
+roadgrade,2 (d) hint (d) or
+hint,sm,1 (d) hint (d + 200m)
+or
+hint,sm,1 (d + 200m)
+d [m]
+4.4.3. Calculation of the final result
+The positive cumulative elevation gain of a trip shall be calculated by integrating all positive interpolated and smoothed road grades, i.e. roadgrade,2(d). The result should be normalised by the total test distance dtot
+ and expressed in meters of cumulative elevation gain per 100 kilometres of distance. 5. NUMERICAL EXAMPLE
+Tables 1 and 2 show the steps performed in order to calculate the positive elevation gain on the basis of data recorded during an on-road test performed with PEMS. For the sake of brevity an extract of 800 m and 160 s is presented here. 5.1. Screening and principle verification of data quality
+The screening and principle verification of data quality consists of two steps. First, the completeness of vehicle speed data is checked. No data gaps related to vehicle speed are detected in the present data sample (see Table 1). Second, the altitude data are checked for completeness; in the data sample, altitude data related to seconds 2 and 3 are missing. The gaps are filled by interpolating the GPS signal. In addition, the GPS altitude is verified by a topographic map; this verification includes the altitude h(0) at the start of the trip. Altitude data related to seconds 112-114 are corrected on the basis of the topographic map to satisfy the following condition: hGPS(t) - hmap(t) < - 40 m
+As result of the applied data verification, the data in the fifth column h(t) are obtained. 5.2. Correction of instantaneous vehicle altitude data
+As a next step, the altitude data h(t) of seconds 1 to 4, 111 to 112 and 159 to 160 are corrected assuming the altitude values of seconds 0, 110 and 158 respectively since the following condition applies: |h(t) - h(t - 1)| > (v(t)/3,6 * sin45°)
+As result of the applied data correction, the data in the sixth column hcorr(t) are obtained. The effect of the applied verification and correction steps on the altitude data is depicted in Figure 2. 5.3. Calculation of the cumulative positive elevation gain
+5.3.1. Establishment of a uniform spatial resolution
+The instantaneous distance di
+ is calculated by dividing the instantaneous vehicle speed measured in km/h by 3,6 (Column 7 in Table 1). Recalculating the altitude data to obtain a uniform spatial resolution of 1 m yields the discrete way points d (Column 1 in Table 2) and their corresponding altitude values hint(d) (Column 7 in Table 2). The altitude of each discrete way point d is calculated through interpolation of the measured instantaneous altitude hcorr
+ as: {{IMAGE:Image_24, Caption:Mathematical equation calculating the interpolated value h_int(0).}} {{IMAGE:Image_25, Caption:Mathematical equation calculating the interpolated value h_int(520) using linear interpolation.}} 5.3.2. Additional data smoothing
+In Table 2, the first and last discrete way points are: da
+ = 0 m and de
+ = 799 m, respectively. The altitude data of each discrete way point is smoothed by applying a two-step procedure. The first smoothing run consists of: {{IMAGE:Image_26, Caption:Equation determining the road grade at a specific point using height differences over distance.}} {{IMAGE:Image_27, Caption:Mathematical equation calculating the road gradient at a specific distance point (320) using interpolated height values.}} {{IMAGE:Image_28, Caption:Mathematical equation calculating road grade based on height differentials.}} chosen to demonstrate the smoothing for d ≥ (599 m)
+The smoothed and interpolated altitude is calculated as: h
+int,sm,1(0) = hint
+(0) + road
+grade,1(0) = 120,3 + 0,0033 ≈ 120,3033 m
+h
+int,sm,1(799) = h
+int,sm,1(798) + road
+grade,1(799) = 121,2550 - 0,0220 = 121,2330 m
+Second smoothing run: {{IMAGE:Image_29, Caption:Mathematical equation calculating the road grade parameter based on interpolated smoothed height values over a 200-meter interval.}} {{IMAGE:Image_30, Caption:Mathematical equation determining the road grade value at point 320 based on height differences.}} {{IMAGE:Image_31, Caption:Equation calculating the road grade at point 720 using interpolated height values.}} chosen to demonstrate the smoothing for d ≥ (599 m)
+5.3.3. Calculation of the final result
+The positive cumulative elevation gain of a trip is calculated by integrating all positive interpolated and smoothed road grades, i.e. roadgrade,2(d). For the presented example the total covered distance was dtot
+ = 139,7 km and all positive interpolated and smoothed road grades were of 516 m. Therefore a positive cumulative elevation gain of 516 × 100/139,7 = 370 m/100 km was achieved.
+| Time t [s] | v(t) [km/h] | hGPS(t) [m] | hmap(t) [m] | h(t) [m] | hcorr(t) [m] | di [m] | Cum. d [m] |
+|---|---|---|---|---|---|---|---|
+| 0 | 000 | 1227 | 1290 | 1227 | 1227 | 00 | 00 |
+| 1 | 000 | 1228 | 1290 | 1228 | 1227 | 00 | 00 |
+| 2 | 000 | - | 1291 | 1236 | 1227 | 00 | 00 |
+| 3 | 000 | - | 1292 | 1243 | 1227 | 00 | 00 |
+| 4 | 000 | 1251 | 1290 | 1251 | 1227 | 00 | 00 |
+| … | … | … | … | … | … | … | … |
+| 18 | 000 | 1202 | 1294 | 1202 | 1202 | 00 | 00 |
+| 19 | 032 | 1202 | 1294 | 1202 | 1202 | 01 | 01 |
+| … | … | … | … | … | … | … | … |
+| 37 | 2431 | 1209 | 1327 | 1209 | 1209 | 68 | 1179 |
+| 38 | 2818 | 1212 | 1330 | 1212 | 1212 | 78 | 1257 |
+| … | … | … | … | … | … | … | … |
+| 46 | 1352 | 1214 | 1319 | 1214 | 1214 | 38 | 1934 |
+| 47 | 3848 | 1207 | 1315 | 1207 | 1207 | 107 | 2041 |
+| … | … | … | … | … | … | … | … |
+| 56 | 4267 | 1198 | 1252 | 1198 | 1198 | 119 | 3084 |
+| 57 | 4170 | 1197 | 1248 | 1197 | 1197 | 116 | 3200 |
+| … | … | … | … | … | … | … | … |
+| 110 | 1095 | 1252 | 1322 | 1252 | 1252 | 30 | 5090 |
+| 111 | 1175 | 1008 | 1323 | 1008 | 1252 | 33 | 5122 |
+| 112 | 1352 | 00 | 1324 | 1324 | 1252 | 38 | 5160 |
+| 113 | 1401 | 00 | 1325 | 1325 | 1325 | 39 | 5199 |
+| 114 | 1336 | 2430 | 1326 | 1326 | 1326 | 37 | 5236 |
+| … | … | … | … | … | … | … |  |
+| 149 | 3993 | 1236 | 1296 | 1236 | 1236 | 111 | 7192 |
+| 150 | 3961 | 1234 | 1295 | 1234 | 1234 | 110 | 7302 |
+| … | … | … | … | … | … | … |  |
+| 157 | 1481 | 1213 | 1261 | 1213 | 1213 | 41 | 7921 |
+| 158 | 1419 | 1212 | 1262 | 1212 | 1212 | 39 | 7961 |
+| 159 | 1000 | 1285 | 1261 | 1285 | 1212 | 28 | 7988 |
+| 160 | 410 | 1306 | 1260 | 1306 | 1212 | 12 | 8000 |
+| - denotes data gaps | - denotes data gaps | - denotes data gaps | - denotes data gaps | - denotes data gaps | - denotes data gaps | - denotes data gaps | - denotes data gaps |
+
+| d [m] | t0 [s] | d0 [m] | d1 [m] | h0 [m] | h1 [m] | hint(d) [m] | roadgrade,1(d) [m/m] | hint,sm,1(d) [m] | roadgrade,2(d) [m/m] |
+|---|---|---|---|---|---|---|---|---|---|
+| 0 | 18 | 00 | 01 | 1203 | 1204 | 1203 | 00035 | 1203 | - 0,0015 |
+| … | … | … | … | … | … | … | … | … | … |
+| 120 | 37 | 1179 | 1257 | 1209 | 1212 | 1210 | - 0,0019 | 1202 | 00035 |
+| … | … | … | … | … | … | … | … | … | … |
+| 200 | 46 | 1934 | 2041 | 1214 | 1207 | 1210 | - 0,0040 | 1200 | 00051 |
+| … | … | … | … | … | … | … | … | … | … |
+| 320 | 56 | 3084 | 3200 | 1198 | 1197 | 1197 | 00288 | 1214 | 00088 |
+| … | … | … | … | … | … | … | … | … | … |
+| 520 | 113 | 5199 | 5236 | 1325 | 1326 | 1325 | 00097 | 1237 | 00037 |
+| … | … | … | … | … | … | … | … | … | … |
+| 720 | 149 | 7192 | 7302 | 1236 | 1234 | 1236 | - 0,0405 | 1229 | - 0,0086 |
+| … | … | … | … | … | … | … | … | … | … |
+| 798 | 158 | 7961 | 7988 | 1212 | 1212 | 1212 | - 0,0219 | 1213 | - 0,0151 |
+| 799 | 159 | 7988 | 8000 | 1212 | 1212 | 1212 | - 0,0220 | 1213 | - 0,0152 | {{IMAGE:Image_32, Caption:Line chart illustrating the verification and correction of vehicle altitude data over a 180-second period. The graph compares raw GPS altitude ($h_{GPS}(t)$), topographic map altitude ($h_{map}(t)$), and intermediate processed data ($h(t)$) against the final corrected altitude profile ($h_{corr}(t)$), highlighting the removal of data spikes and inconsistencies.}} {{IMAGE:Image_33, Caption:Line chart illustrating altitude profiles over time, comparing corrected altitude ($h_{corr}(t)$) with smoothed intermediate altitude ($h_{int,sm,1}$). The vertical axis represents altitude in meters above sea level, and the horizontal axis represents time in seconds.}}
+
+| d [m] | t0 [s] | d0 [m] | d1 [m] | h0 [m] | h1 [m] | hint(d) [m] | roadgrade,1(d) [m/m] | hint,sm,1(d) [m] | roadgrade,2(d) [m/m] |
+|---|---|---|---|---|---|---|---|---|---|
+| 0 | 18 | 00 | 01 | 1203 | 1204 | 1203 | 00035 | 1203 | - 0,0015 |
+| … | … | … | … | … | … | … | … | … | … |
+| 120 | 37 | 1179 | 1257 | 1209 | 1212 | 1210 | - 0,0019 | 1202 | 00035 |
+| … | … | … | … | … | … | … | … | … | … |
+| 200 | 46 | 1934 | 2041 | 1214 | 1207 | 1210 | - 0,0040 | 1200 | 00051 |
+| … | … | … | … | … | … | … | … | … | … |
+| 320 | 56 | 3084 | 3200 | 1198 | 1197 | 1197 | 00288 | 1214 | 00088 |
+| … | … | … | … | … | … | … | … | … | … |
+| 520 | 113 | 5199 | 5236 | 1325 | 1326 | 1325 | 00097 | 1237 | 00037 |
+| … | … | … | … | … | … | … | … | … | … |
+| 720 | 149 | 7192 | 7302 | 1236 | 1234 | 1236 | - 0,0405 | 1229 | - 0,0086 |
+| … | … | … | … | … | … | … | … | … | … |
+| 798 | 158 | 7961 | 7988 | 1212 | 1212 | 1212 | - 0,0219 | 1213 | - 0,0151 |
+| 799 | 159 | 7988 | 8000 | 1212 | 1212 | 1212 | - 0,0220 | 1213 | - 0,0152 |
+
+'
+(1) CO emissions shall be measured and recorded at RDE tests. (2) CO emissions shall be measured and recorded at RDE tests.

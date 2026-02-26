@@ -1,0 +1,1296 @@
+7.13.2. ESA type approval limit
+7.13.2.1. If measurements are made using the method described in Annex 19, the limits on AC power lines are those defined in IEC 61000-6-3 and given in Table 14.
+
+Table 14
+Maximum allowed radiofrequency conducted disturbances on AC power lines
+Frequency (MHz)
+Limits and detector
+0.15 to 0.5
+66 to 56 dBμV (quasi-peak)
+56 to 46 dBμV (average)
+(linearly decreasing with logarithm of frequency)
+0.5 to 5
+56 dBμV (quasi-peak)
+46 dBμV (average)
+5 to 30
+60 dBμV (quasi-peak)
+50 dBμV (average)
+7.13.2.2. If measurements are made using the method described in Annex 19, the limits on DC power lines are those defined in IEC 61000-6-3 and given in Table 15. Table 15
+Maximum allowed radiofrequency conducted disturbances on DC power lines
+Frequency (MHz)
+Limits and detector
+0.15 to 0.5
+79 dBμV (quasi-peak)
+66 dBμV (average)
+0.5 to 30
+73 dBμV (quasi-peak)
+60 dBμV (average)
+13.2. Transitional provisions applicable to the 06 series of amendments
+13.2.1. As from the official date of entry into force of the 06 series of amendments, no Contracting Party applying this UN Regulation shall refuse to grant or refuse to accept UN type-approvals under this UN Regulation as amended by the 06 series of amendments. 13.2.2. As from 1 September 2022, Contracting Parties applying this UN Regulation shall not be obliged to accept UN type-approvals to the preceding series of amendments, first issued after 1 September 2022 or extensions thereof. 13.2.3. Notwithstanding paragraph 13.2.2., Contracting Parties applying the UN Regulation shall continue to accept UN type-approvals issued according to the preceding series of amendments to the UN Regulation, for the vehicle type which are not equipped with a coupling system to charge the REESS, or for component or separate technical unit which doesn't include a coupling part to charge the REESS which are not affected by the changes introduced by the 05 or 06 series of amendments
+13.2.4. Contracting Parties applying this UN Regulation shall not refuse to grant UN type-approvals according to any preceding series of amendments to this UN Regulation or extensions thereof.
+11. Production definitively discontinued
+If the holder of an approval permanently ceases to manufacture a type of vehicle or ESA approved in accordance with this Regulation, he shall so inform the Type Approval Authority which granted the approval, which shall in turn notify the other Parties to the 1958 Agreement which apply this Regulation, by means of a communication form conforming to the model in Annexes 3A and 3B to this Regulation.
+10. Penalties for non-conformity of production
+10.1.
+
+The approval granted in respect of a type of vehicle, component or separate technical unit pursuant to this Regulation may be withdrawn if the requirements laid down in paragraph 6. and, if applicable, paragraph 7. above are not complied with or if the selected vehicles fail to pass the tests provided for in paragraph 6. and, if applicable, paragraph 7. above. 10.2. If a Party to the Agreement which applies this Regulation withdraws an approval it has previously granted, it shall forthwith notify the other Contracting Parties applying this Regulation thereof by means of a communication form conforming to the model in Annexes 3A and 3B to this Regulation.
+9. Conformity of production
+The conformity of production procedures shall comply with those set out in the Agreement, Appendix 2 (E/ECE/324-E/ECE/TRANS/505/Rev.2), with the following requirements:
+
+9.1. Vehicles or components or ESAs approved under this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements set forth in paragraph 6. and, if applicable, in paragraph 7. above. 9.2. Conformity of production of the vehicle or component or separate technical unit shall be checked on the basis of the data contained in the communication form(s) for type approval set out in Annex 3A and/or 3B to this Regulation. 9.3. If the Type Approval Authority is not satisfied with the checking procedure of the manufacturer, then paragraphs 9.3.1., 9.3.2. and 9.3.3. below shall apply. 9.3.1. When the conformity of a vehicle, component or ESA taken from the series is being verified, production shall be deemed to conform to the requirements of this Regulation in relation to broadband electromagnetic disturbances and narrowband electromagnetic disturbances if the levels measured do not exceed by more than 4 dB (60 per cent) the reference limits prescribed in paragraphs 6.2.2.1., 6.2.2.2., 6.3.2.1., 6.3.2.2. and, if applicable, paragraphs 7.2.2.1. and 7.2.2.2. for vehicles and paragraphs 6.5.2.1., 6.6.2.1., and, if applicable, paragraph 7.10.2.1. above for ESAs (as appropriate). 9.3.2. When the conformity of a vehicle, component or ESA taken from the series is being verified, production shall be deemed to conform to the requirements of this Regulation in relation to immunity to electromagnetic radiation if the vehicle ESA does not exhibit any degradation relating to the direct control of the vehicle which could be observed by the driver or other road user when the vehicle is in the state defined in Annex 6, paragraph 4., and is subjected to a field strength, expressed in Volts/m, up to 80 per cent of the reference limits prescribed in paragraph 6.4.2.1., and, if applicable, paragraph 7.7.2.1. for vehicles and paragraph 6.8.2.1. and, if applicable, paragraph 7.18.2.1. for ESAs above. 9.3.3. If the conformity of a component, or Separate Technical Unit (STU) taken from the series is being verified, production shall be deemed to conform to the requirements of this Regulation in relation to immunity to conducted disturbances and emission if the component or STU shows no degradation of performance of 'immunity related functions' up to levels given in paragraph 6.9.1. and, if applicable, paragraph 7.19.1., and does not exceed the levels given in paragraph 6.7.1. and, if applicable, paragraph 7.17.1. above.
+7.19.1. Method of testing
+The immunity of ESA representative of its type shall be tested by the method(s) according to ISO 7637-2, as described in Annex 10 with the test levels given in Table 18.
+
+| Test pulse number | Immunity test level | Functional status for systems | Functional status for systems |
+|---|---|---|---|
+| Test pulse number | Immunity test level | Related to immunity related functions | Not related to immunity related functions |
+| 1 | III | C | D |
+| 2a | III | B | D |
+| 2b | III | C | D |
+| 3a/3b | III | A | D |
+7.18. Specifications concerning immunity of ESAs to electromagnetic radiation
+7.16.1. Method of testing
+7.16.1.1.
+
+The immunity to surge conducted along AC / DC power lines of the ESA representative of its type shall be tested by the method described in Annex 22.
+7.15. Specifications concerning the immunity of ESAs to electrical fast transient/burst disturbances conducted along AC and DC power lines.
+METHOD OF TESTING FOR IMMUNITY OF AN ESA TO ELECTRICAL FAST TRANSIENT/BURST DISTURBANCES CONDUCTED ALONG AC AND DC POWER LINES
+ANNEX 21
+Method of testing for immunity of an ESA to Electrical Fast Transient/Burst disturbances conducted along AC and DC power lines
+1. General
+1.1. The test method described in this annex shall only be applied to ESAs. This method applies only to ESA in configuration 'REESS charging mode coupled to the power grid'. 1.2. Test method
+This test is intended to demonstrate the immunity of the ESA. The ESA shall be subject to Electrical Fast Transient/Burst disturbances conducted along AC and DC power lines of the ESA as described in this annex. The ESA shall be monitored during the tests. If not otherwise stated in this annex the test shall be performed according to IEC 61000-4-4. 2. ESA state during tests in configuration 'REESS in charging mode coupled to the power grid' 2.1. Basic ESA conditions
+The paragraph defines minimum test conditions (as far as applicable) and failures criteria for ESA immunity tests.
+
+| 'REESS charging mode' ESA test conditions | Failure criteria |
+|---|---|
+| ESA shall be in configuration 'REESS charging mode coupled to the power grid'. The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole time duration of the measurement (this may lead to the measurement being split into different time slots with the need to discharge the vehicle's traction battery before starting the next time slot). If the current consumption can be adjusted, then the current shall be set to at least 20 per cent of its nominal value. | Incorrect charging condition (e.g. over-current, overvoltage) |
+
+2.2. Only non-perturbing equipment shall be used while monitoring the ESA. The ESA shall be monitored to determine whether the requirements of this annex are met (e.g. by using (a) video camera(s), a microphone, etc.). 3. Test equipment
+3.1. The test equipment is composed of a reference ground plane (a shielded room is not required), a transient / burst generator, Coupling/Decoupling Network (CDN) and capacitive coupling clamp. 3.2. The transient/burst generator shall meet the condition defined in paragraph 6.1. of IEC 61000-4-4. 3.3. The Coupling/Decoupling Network shall meet the condition defined in paragraph 6.2. of IEC 61000-4-4. When the Coupling/Decoupling Network cannot be used on AC or DC power lines, the capacitive coupling clamp defined in paragraph 6.3. of IEC 61000-4-4 can be used. 4. Test set-up
+4.1. The ESA test setup is based on the laboratory type set-up as described in paragraph 7.2. of IEC 61000-4-4. 4.2. The ESA shall be placed directly on the ground plane. 4.3. The Technical Service shall perform the test as specified in paragraph 7.15.2.1. of this Regulation. Alternatively, if the manufacturer provides measurement from a test laboratory accredited to the applicable parts of ISO 17025 and recognized by the Type Approval Authority, the Technical Service may choose not to perform the test to confirm that the ESA meets the requirements of this annex. 5. Generation of required test level
+5.1. Test methodology
+5.1.1. The test method according to IEC 61000-4-4 shall be used to establish the test level requirements. 5.1.2. Test phase
+The ESA shall be positioned on the ground plane. The Electrical Fast Transient/Burst (EFT/B) shall be applied on the ESA on the AC/DC power lines in common modes by using CDN as described in Figure 1 of Appendix 1 to this annex. The test setup shall be noted in the test report.
+7.13.1. Method of measurement
+The emission of radiofrequency conducted disturbances on AC or DC power lines generated by the ESA representative of its type shall be measured using the method described in Annex 19.
+
+The method of measurement shall be defined by the ESA manufacturer in accordance with the Technical Service.
+7.13. Specifications concerning emission of radiofrequency conducted disturbances on AC or DC power lines from ESA
+7.12. Specifications concerning emission of voltage changes, voltage fluctuations and flicker on AC power lines from ESAs
+7.10.2. ESA broadband type approval limits
+7.10.2.1. If measurements are made using the method described in Annex 7, the limits shall be 62 to 52 dBμV/m in the 30 to 75 MHz frequency band, this limit decreasing logarithmically with frequencies above 30 MHz, and 52 to 63 dBμV/m in the 75 to 400 MHz band, this limit increasing logarithmically with frequencies above 75 MHz as shown in Appendix 6.
+
+In the 400 to 1,000 MHz frequency band the limit remains constant at 63 dBμV/m.
+7.10.2.2. On the ESA representative of its type, the measured values, expressed in dBμV/m, shall be below the type approval limits.
+7.9.1. Method of testing
+7.9.1.1.
+
+The immunity to surge conducted along AC/DC power lines of the vehicle representative of its type shall be tested by the method described in Annex 16.
+7.8. Specifications concerning the immunity of vehicles to Electrical Fast Transient/Burst disturbances conducted along AC and DC power lines.
+7.6.2. Vehicle type approval limit
+7.6.2.1. If measurements are made using the method described in Annex 14, the limits on wired network port are those defined in IEC 61000-6-3 and given in Table 9. Table 9
+Maximum allowed radiofrequency conducted disturbances wired network port
+Frequency (MHz)
+Voltage limits (detector)
+Current limits (detector)
+0.15 to 0.5
+84 to 74 dBμV (quasi-peak)
+74 to 64 dBμV (average)
+(linearly decreasing with logarithm of frequency)
+40 to 30 dBμA (quasi-peak)
+30 to 20 dBμA (average)
+(linearly decreasing with logarithm of frequency)
+0.5 to 30
+74 dBμV (quasi-peak)
+64 dBμV (average)
+30 dBμA (quasi-peak)
+20 dBμA (average)
+METHOD(S) OF TESTING FOR EMISSION OF VOLTAGE CHANGES, VOLTAGE FLUCTUATIONS AND FLICKER ON AC POWER LINES FROM VEHICLE
+ANNEX 12
+Method(s) of testing for emission of voltage changes, voltage fluctuations and flicker on AC power lines from vehicle
+1. General
+1.1. The test method described in this annex shall be applied to vehicles in configuration 'REESS charging mode coupled to the power grid'.
+
+1.2. Test method
+This test is intended to measure the level of voltage changes, voltage fluctuations and flicker generated by vehicle in configuration 'REESS charging mode coupled to the power grid' through its AC power lines in order to ensure it is compatible with residential, commercial and light industrial environments. If not otherwise stated in this annex the test shall be performed according to: (a) IEC 61000-3-3 for rated current in 'REESS charging mode' ≤ 16 A per phase and not subjected to conditional connection; (b) IEC 61000-3-11 for rated current in 'REESS charging mode' > 16 A and ≤ 75 A per phase and subjected to conditional connection. 2. Vehicle state during tests
+2.1. The vehicle shall be in configuration 'REESS charging mode coupled to the power grid'. The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole time duration of the measurement (this may lead to the measurement being splitting into different time slots with the need to discharge the vehicle's traction battery before starting the next time slot). If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its nominal value for AC charging. In case of multiple batteries the average state of charge must be considered. The vehicle shall be immobilized, the engine(s) (ICE and / or electrical engine) shall be OFF and in charging mode. All other equipment which can be switched ON by the driver or passengers shall be OFF. 3. Test arrangements
+3.1. The tests for vehicle in configuration 'REESS charging mode coupled to the power grid' with rated current ≤ 16 A per phase and not subjected to conditional connection shall be performed according to paragraph 6. Of IEC 61000-3-3. 3.2. The tests for vehicle in configuration 'REESS charging mode coupled to the power grid' with rated current > 16 A and ≤ 75 A per phase and subjected to conditional connection shall be performed according to paragraph 6. of IEC 61000-3-11. 3.3. The test set-up for vehicle in configuration 'REESS charging mode coupled to the power grid' is shown in Figures 1a to 1d of Appendix 1 to this annex. 4. Test requirements
+4.1. The parameters to be determined in the time-domain are 'short duration flicker value', 'long duration flicker value' and 'voltage relative variation'. 4.2. The limits for vehicle in configuration 'REESS charging mode coupled to the power grid' with input current ≤ 16 A per phase and not subjected to conditional connection are given in paragraph 7.4.2.1. of this Regulation. 4.3. The limits for vehicle in configuration 'REESS charging mode coupled to the power grid' with input current > 16 A and ≤ 75 A per phase and subjected to conditional connection are given in paragraph 7.4.2.2. of this Regulation.
+6.8.2. ESA immunity type approval limits
+6.8.2.1. If tests are made using the methods described in Annex 9, the immunity test levels shall be 60 volts/m root-mean-square (rms) for the 150 mm stripline testing method, 15 volts/m rms for the 800 mm stripline testing method, 75 volts/m rms for the Transverse Electromagnetic Mode (TEM) cell testing method, 60 mA rms for the bulk current injection (BCI) testing method and 30 volts/m rms for the free field testing method in over 90 per cent of the 20 to 2,000 MHz frequency band, and to a minimum of 50 volts/m rms for the 150 mm stripline testing method, 12.5 volts/m rms for the 800 mm stripline testing method, 62.5 volts/m rms, for the TEM cell testing method, 50 mA rms for the bulk current injection (BCI) testing method and 25 volts/m rms for the free field testing method over the whole 20 to 2,000 MHz frequency band.
+
+6.8.2.2. The ESA representative of its type shall be considered as complying with immunity requirements if, during the tests performed in accordance with Annex 9, there shall be no degradation of performance of 'immunity related functions'.
+6.8. Specifications concerning immunity of ESAs to electromagnetic radiation
+6.6.1. Method of measurement
+The electromagnetic radiation generated by the ESA representative of its type shall be measured by the method described in Annex 8.
+6.5. Specification concerning broadband electromagnetic interference generated by ESAs
+6.3.2. Vehicle narrowband type approval limits
+6.3.2.1. If measurements are made using the method described in Annex 5 using a vehicle-to-antenna spacing of 10.0 ± 0.2 m, the limits shall be 28 dB microvolts/m in the 30 to 230 MHz frequency band and 35 dB microvolts/m in the 230 to 1,000 MHz frequency band.
+
+6.3.2.2. If measurements are made using the method described in Annex 5 using a vehicle-to-antenna spacing of 3.0 ± 0.05 m, the limits shall be 38 dB microvolts/m in the 30 to 230 MHz frequency band and 45 dB microvolts/m in the 230 to 1,000 MHz frequency band. 6.3.2.3. On the vehicle representative of its type, the measured values, expressed in dB microvolts/m, shall be below the type approval limit. 6.3.2.4. Notwithstanding the limits defined in paragraphs 6.3.2.1., 6.3.2.2. and 6.3.2.3. of this Regulation, if, during the initial step described in paragraph 1.3. of Annex 5, the signal strength measured at the vehicle broadcast radio antenna is less than 20 dB micro-volts over the frequency range 76 to 108 MHz measured with an average detector, then the vehicle shall be deemed to comply with the limits for narrowband emissions and no further testing will be required.
+6.2.1. Method of measurement
+The electromagnetic radiation generated by the vehicle representative of its type shall be measured using the method described in Annex 4.
+
+The method of measurement shall be defined by the vehicle manufacturer in accordance with the Technical Service.
+5. Markings
+5.1. An approval number shall be assigned to each vehicle or ESA type approved.
+
+The first two digits of this number (at present 06) shall indicate the series of amendments corresponding to the most recent essential technical amendments made to the Regulation at the date of approval. A Contracting Party may not assign the same approval number to another type of vehicle or ESA. 5.2. Presence of markings
+5.2.1. Vehicle
+An approval mark described in paragraph 5.3. below shall be affixed to every vehicle conforming to a type approved under this Regulation. 5.2.2. Sub-assembly
+An approval mark described in paragraph 5.3. below shall be affixed to every ESA conforming to a type approved under this Regulation. No marking is required for electrical/electronic systems built into vehicles which are approved as units. 5.3. An international approval mark shall be affixed, in a conspicuous and easily accessible place specified on the approval communication form, on each vehicle conforming to the type approved under this Regulation. This mark shall comprise: 5.3.1. A circle containing the letter 'E', followed by the distinguishing number of the country granting the approval (2). 5.3.2. The number of this Regulation, followed by the letter 'R', a dash and the approval number to the right of the circle specified in paragraph 5.3.1. above. 5.4. An example of the type approval mark is shown in Annex 1 to this Regulation. 5.5. Markings on ESAs in conformity with paragraph 5.3. above need not be visible when the ESA is installed in the vehicle.
+4. Approval
+7.5.1. Method of measurement
+The emission of radiofrequency conducted disturbances on AC or DC power lines generated by the vehicle representative of its type shall be measured using the method described in Annex 13.
+
+The method of measurement shall be defined by the vehicle manufacturer in accordance with the Technical Service.
+METHOD OF MEASUREMENT OF RADIATED NARROWBAND ELECTROMAGNETIC EMISSIONS FROM ELECTRICAL/ELECTRONIC SUB-ASSEMBLIES
+ANNEX 8
+Method of measurement of radiated narrowband electromagnetic emissions from electrical/electronic sub-assemblies
+1. General
+1.1. The test method described in this annex may be applied to ESAs, which may be subsequently fitted to vehicles, which comply, with Annex 5. This method concerns only ESA other than those involved in 'REESS charging mode coupled to the power grid'. 1.2. Test method
+This test is intended to measure the narrowband electromagnetic emissions such as might emanate from a microprocessor-based system. If not otherwise stated in this annex the test shall be performed according to CISPR 25. 2. ESA state during tests
+The ESA under test shall be in normal operation mode, preferably in maximum load. 3. Test arrangements
+3.1. The test shall be performed according to ALSE method described in paragraph 6.4. of CISPR 25. 3.2. Alternative measuring location
+As an alternative to an absorber lined shielded enclosure (ALSE) an open area test site (OATS) which complies with the requirements of CISPR 16-1-4 may be used (see Figure 1 of the appendix to Annex 7). 3.3. Ambient
+To ensure that there is no extraneous noise or signal of a magnitude sufficient to affect materially the measurement; measurements shall be taken before or after the main test. In this measurement, the extraneous noise or signal shall be at least 6 dB below the limits of interference given in paragraph 6.6.2.1. of this Regulation, except for intentional narrowband ambient transmissions. 4. Test requirements
+4.1. The limits apply throughout the frequency range 30 to 1,000 MHz for measurements performed in an absorber lined shielded enclosure (ALSE) or open area test site (OATS). 4.2. Measurements shall be performed with an average detector. 4.3. The measurements shall be performed with a spectrum analyser or a scanning receiver. The parameters to be used are defined in Tables 1 and 2.
+
+| Frequency range MHz | Peak detector | Peak detector | Average detector | Average detector |
+|---|---|---|---|---|
+| Frequency range MHz | RBW at-3 dB | Minimum scan time | RBW at-3 dB | Minimum scan time |
+| 30 to 1,000 | 100/120 kHz | 100 ms/MHz | 100/120 kHz | 100 ms/MHz |
+
+| Frequency range MHz | Peak detector | Peak detector | Peak detector | Average detector | Average detector | Average detector |
+|---|---|---|---|---|---|---|
+| Frequency range MHz | BW at-6 dB | Step size | Minimum dwell time | BW at-6 dB | Step size | Minimum dwell time |
+| 30 to 1,000 | 120 kHz | 50 kHz | 5 ms | 120 kHz | 50 kHz | 5 ms |
+
+4.4. Measurements
+The Technical Service shall perform the test at the intervals specified in the CISPR 12 standard throughout the frequency range 30 to 1,000 MHz. Alternatively, if the manufacturer provides measurement to data for the whole frequency band from a test laboratory accredited to the applicable parts of ISO 17025 and recognized by the Type Approval Authority, the Technical Service may divide the frequency range in 14 frequency bands 30-34, 34-45, 45-60, 60-80, 80-100, 100-130, 130-170, 170-225, 225-300, 300-400, 400-525, 525-700, 700-850 and 850-1,000 MHz and perform tests at the 14 frequencies giving the highest emission levels within each band to confirm that the ESA meets the requirements of this annex. In the event that the limit is exceeded during the test, investigations shall be made to ensure that this is due to the ESA and not to background radiation including broadband radiation from the ESA. 4.5. Readings
+The maximum of the readings relative to the limit (horizontal/vertical polarisation) in each of the 14 frequency bands shall be taken as the characteristic reading at the frequency at which the measurements were made.
+7.12.2. ESA type approval limit
+7.12.2.1. If measurements are made using the method described in Annex 18, the limits for rated current ≤ 16 A per phase and not subjected to conditional connection are those defined in IEC 61000-3-3, paragraph 5. 
+7.12.2.2. If measurements are made using the method described in Annex 18, the limits for rated current > 16 A and ≤ 75 A per phase and subjected to conditional connection are those defined in IEC 61000-3-11, paragraph 5.
+7.14.2. ESA type approval limit
+7.14.2.1. If measurements are made using the method described in Annex 20, the limits on wired network port are those defined in IEC 61000-6-3 and given in Table 16.
+
+Table 16
+Maximum allowed radiofrequency conducted disturbances on wired network port
+Frequency (MHz)
+Voltage limits (detector)
+Current limits (detector)
+0.15 to 0.5
+84 to 74 dBμV (quasi-peak)
+74 to 64 dBμV (average)
+(linearly decreasing with logarithm of frequency)
+40 to 30 dBμA (quasi-peak)
+30 to 20 dBμA (average)
+(linearly decreasing with logarithm of frequency)
+0.5 to 30
+74 dBμV (quasi-peak)
+64 dBμV (average)
+30 dBμA (quasi-peak)
+20 dBμA (average)
+7.16. Specifications concerning the immunity of ESAs to surge conducted along AC or DC power lines
+2.1. 'Electromagnetic compatibility' means the ability of a vehicle or component(s) or separate technical unit(s) to function satisfactorily in its electromagnetic environment without introducing intolerable electromagnetic disturbances to anything in that environment.
+METHOD(S) OF TESTING FOR EMISSION OF RADIOFREQUENCY CONDUCTED DISTURBANCES ON WIRED NETWORK PORT FROM AN ESA
+ANNEX 20
+Method(s) of testing for emission of radiofrequency conducted disturbances on wired network port from an ESA
+1. General
+1.1. The test method described in this annex shall be applied to ESAs in configuration 'REESS charging mode coupled to the power grid'. 1.2. Test method
+This test is intended to measure the level of radio frequency conducted disturbances generated by ESA in configuration 'REESS charging mode coupled to the power grid' through its wired network port in order to ensure it is compatible with residential, commercial and light industrial environments. If not otherwise stated in this annex the test shall be performed according to CISPR 22
+2. ESA state during tests
+2.1. The ESA shall be in configuration 'REESS charging mode coupled to the power grid'. The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole frequency range measurement (this may lead to split the measurement in different sub-bands with the need to discharge the vehicle's traction battery before starting the next sub-bands). If the test is not performed with a REESS the ESA should be tested at rated current. If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its nominal value for AC charging. If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its nominal value for DC charging unless another value is agreed with the type approval authorities. 3. Test arrangements
+3.1. Local/private communication lines connected to signal/control ports and lines connected to wired network ports shall be applied to the vehicle through AAN(s). The various AAN(s) to be used are defined in Appendix 8, clause 5: —
+Clause 5.1. for signal/control port with symmetric lines; —
+Clause 5.2. for wired network port with PLC on power lines; —
+Clause 5.3. for signal/control port with PLC (technology) on control pilot; and
+—
+Clause 5.4. for signal/control port with control pilot. The AAN(s) shall be mounted directly on the ground plane. The case of the AAN(s) shall be bonded to the ground plane (ALSE) or connected to the protective earth (OTS, e.g. an earth rod). The measuring port of each AAN shall be terminated with a 50 Ω load. If a charging station is used, AAN(s) are not required for the signal/control ports and/or for the wired network ports. The local/private communication lines between the vehicle and the charging station shall be connected to the associated equipment on the charging station side to work as designed. If communication is emulated and if the presence of the AAN prevents proper communication then no AAN should be used
+3.2. Measuring location
+A shielded enclosure or an absorber lined shielded enclosure (ALSE) or an open area test site (OATS) which complies with the requirements of CISPR 16-1-4 may be used. 3.3. The test set-up (floor-standing equipment) for the connection of the ESA in configuration 'REESS charging mode coupled to the power grid' is shown in Figure 1 of Appendix 1 to this annex. 3.4. The measurements shall be performed with a spectrum analyser or a scanning receiver.
+
+| Frequency range MHz | Peak detector | Peak detector | Quasi-peak detector | Quasi-peak detector | Average detector | Average detector |
+|---|---|---|---|---|---|---|
+| Frequency range MHz | RBW at -3 dB | Minimum scan time | RBW at -6 dB | Minimum scan time | RBW at -3 dB | Minimum scan time |
+| 0.15 to 30 | 9/10 kHz | 10 s/MHz | 9 kHz | 200 s/MHz | 9/10 kHz | 10 s/MHz | Note: If a spectrum analyser is used for peak measurements, the video bandwidth shall be at least three times the resolution bandwidth (RBW).
+
+| Frequency range MHz | Peak detector | Peak detector | Peak detector | Quasi-peak detector | Quasi-peak detector | Quasi-peak detector | Average detector | Average detector | Average detector |
+|---|---|---|---|---|---|---|---|---|---|
+| Frequency range MHz | BW at -6 dB | Step size | Minimum dwell time | BW at -6 dB | Step size | Minimum dwell time | BW at -6 dB | Step size | Minimum dwell time |
+| 0.15 to 30 | 9 kHz | 5 kHz | 50 ms | 9 kHz | 5 kHz | 1 s | 9 kHz | 5 kHz | 50 ms |
+
+4. Test requirements
+4.1. The limits apply throughout the frequency range 0.15 to 30 MHz for measurements performed in a shielded enclosure or an absorber lined shielded enclosure (ALSE) or an open area test site (OATS). 4.2. Measurements shall be performed with average and either quasi-peak or peak detectors. The limits are given in Table 16 of paragraph 7.14.2.1. of this Regulation. If peak detectors are used a correction factor of 20 dB as defined in CISPR 12 shall be applied.
+METHOD(S) OF TESTING FOR EMISSION OF HARMONICS GENERATED ON AC POWER LINES FROM VEHICLE
+ANNEX 11
+Method(s) of testing for emission of harmonics generated on AC power lines from vehicle
+1. General
+1.1. The test method described in this annex shall be applied to vehicles in configuration 'REESS charging mode coupled to the power grid'
+
+1.2. Test method
+This test is intended to measure the level of harmonics generated by vehicle in configuration 'REESS charging mode coupled to the power grid' through its AC power lines in order to ensure it is compatible with residential, commercial and light industrial environments. If not otherwise stated in this annex the test shall be performed according to: (a) IEC 61000-3-2 for input current in charging mode ≤ 16 A per phase for class A equipment; (b) IEC 61000-3-12 for input current in charging mode > 16 A and ≤ 75 A per phase. 2. Vehicle state during tests
+2.1. The vehicle shall be in configuration 'REESS charging mode coupled to the power grid'. The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole time duration of the measurement (this may lead to the measurement being splitting into different time slots with the need to discharge the vehicle's traction battery before starting the next time slot). If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its nominal value for AC charging. In case of multiple batteries the average state of charge must be considered. The vehicle shall be immobilized, the engine(s) (ICE and / or electrical engine) shall be OFF and in charging mode. All other equipment which can be switched ON by the driver or passengers shall be OFF. 3. Test arrangements
+3.1. The observation time to be used for the measurements shall be as for quasi-stationary equipment as defined in IEC 61000-3-2, Table 4. 
+3.2. The test set-up for single phase / three-phase vehicle in configuration 'REESS charging mode coupled to the power grid' is shown in Figure 1a to 1d of Appendix 1 to this annex. 4. Test requirements
+4.1. The measurements of even and odd current harmonics shall be performed up to the 40th harmonic. 4.2. The limits for single phase or three-phase 'REESS charging mode coupled to the power grid' with input current ≤ 16 A per phase are given in Table 3 of paragraph 7.3.2.1. of this Regulation. 4.3. The limits for single phase or other than balanced three-phase 'REESS charging mode coupled to the power grid' with input current > 16 A and ≤ 75 A per phase are given in Table 4 of paragraph 7.3.2.2. of this Regulation. 4.4. The limits for balanced three-phase 'REESS charging mode coupled to the power grid' with input current > 16 A and ≤ 75 A per phase are given in Table 5 of paragraph 7.3.2.2. of this Regulation. 4.5. For three-phase 'REESS charging mode coupled to the power grid' with input current > 16 A and ≤ 75 A per phase, when at least one of the three conditions a), b) or c) described in paragraph 5.2. of IEC 61000-3-12 is fulfilled, then the limits given in Table 6 of paragraph 7.3.2.2. of this Regulation can be applied.
+12. Modification and extension of type approval of a vehicle or ESA
+12.1. Every modification of the vehicle or ESA type shall be notified to the Type Approval Authority which granted approval of the vehicle type.
+
+This Authority may then either: 12.1.1. Consider that the modifications made are unlikely to have an appreciable adverse effect and that in any case the vehicle or ESA still meets the requirements; or
+12.1.2. Require a further test report from the Technical Service responsible for conducting the tests. 12.2. Notice of conformation of approval or of refusal of approval, accompanied by particulars of the modifications, shall be communicated by the procedure indicated in paragraph 4. of this Regulation above to the Parties to the Agreement applying this Regulation. 12.3. The Type Approval Authority granting the approval extension shall assign a serial number to the extension and so notify the other Parties to the 1958 Agreement applying this Regulation by means of a communication form conforming to the models in Annexes 3A and 3B to this Regulation.
+14. Names and addresses of Technical Services conducting approval tests and of Type Approval Authorities
+The Parties to the 1958 Agreement applying this Regulation shall communicate to the United Nations Secretariat the names and addresses of the Technical Services conducting approval tests and of the Type Approval Authorities which grant approvals and to which forms certifying approval or extension, refusal or withdrawal of approval, issued in other countries, are to be sent.
+
+(1) As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3), document ECE/TRANS/WP.29/78/Rev.6, para. 2. (2) The distinguishing numbers of the Contracting Parties to the 1958 Agreement are reproduced in Annex 3 to the Consolidated Resolution on the Construction of Vehicles (R.E.3), document ECE/TRANS/WP.29/78/Rev. 6 - http://www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29resolutions.html.
+{{IMAGE:Image_18, Caption:Layout and dimensional specifications for Approval Mark Model A, indicating approval in the Netherlands (E4) under Regulation No. 10, 06 series of amendments.}} a = 6 mm
+The above approval mark affixed to a vehicle or ESA shows that the vehicle type concerned has, with regard to electromagnetic compatibility, been approved in the Netherlands (E 4) pursuant to Regulation No. 10 under approval No. 05 2439. The approval number indicates that the approval was granted according to the requirements of Regulation No. 10 as amended by the 06 series of amendments. {{IMAGE:Image_19, Caption:Model B approval mark diagram showing the E4 symbol for the Netherlands alongside approval numbers for Regulation No. 10 (06 2439) and Regulation No. 33 (00 1628), including dimensional proportions relative to size 'a'.}} a = 6 mm min
+The above approval mark affixed to a vehicle or ESA shows that the vehicle type concerned has, with regard to electromagnetic compatibility, been approved in the Netherlands (E 4) pursuant to Regulations Nos. 10 and 33 (1). The approval numbers indicate that, at the date when the respective approvals were given, Regulation No. 10 included the 06 series of amendments and Regulation No. 33 was still in its original form. (1) The second number is given merely as an example.
+7.2.1. Method of measurement
+The electromagnetic radiation generated by the vehicle representative of its type shall be measured using the method described in Annex 4.
+
+The method of measurement shall be defined by the vehicle manufacturer in accordance with the Technical Service.
+7.19. Specifications concerning the immunity of ESAs to transient disturbances conducted along 12 / 24 V supply lines.
+7.17.1. Method of testing
+The emission of ESA representative of its type shall be tested by the method(s) according to ISO 7637-2, as described in Annex 10 for the levels given in Table 17.
+
+|  | Maximum allowed pulse amplitude for | Maximum allowed pulse amplitude for |
+|---|---|---|
+| Polarity of pulse amplitude | Vehicles with 12 V systems | Vehicles with 24 V systems |
+| Positive | +75 V | +150 V |
+| Negative | -100 V | -450 V |
+METHOD OF TESTING FOR IMMUNITY OF VEHICLES TO ELECTROMAGNETIC RADIATION
+ANNEX 6
+Method of testing for immunity of vehicles to electromagnetic radiation
+1. General
+1.1. The test method described in this annex shall only be applied to vehicles. This method concerns both configurations of vehicle: (a) Other than 'REESS charging mode coupled to the power grid'; (b) 'REESS charging mode coupled to the power grid'. 1.2. Test method
+This test is intended to demonstrate the immunity of the vehicle electronic systems. The vehicle shall be subject to electromagnetic fields as described in this annex. The vehicle shall be monitored during the tests. If not otherwise stated in this annex the test shall be performed according to ISO 11451-2. 1.3. Alternative test methods
+The test may be alternatively performed in an outdoor test site for all vehicles. The test facility shall comply with (national) legal requirements regarding the emission of electromagnetic fields. If a vehicle is longer than 12 m and/or wider than 2.60 m and/or higher than 4.00 m, BCI (bulk current injection) method according to ISO 11451-4 shall be used in the frequency range 20 to 2,000 MHz with levels defined in paragraph 6.8.2.1. of this Regulation. 2. Vehicle state during tests
+2.1. Vehicle in configuration other than 'REESS charging mode coupled to the power grid'. 2.1.1. The vehicle shall be in an unladen condition except for necessary test equipment. 2.1.1.1. The engine shall normally turn the driving wheels at a steady speed of 50 km/h if there is no technical reason due to the vehicle to define a different condition. For vehicles of categories L1 and L2 the steady speed shall normally be turned at 25 km/h. The vehicle shall be on an appropriately loaded dynamometer or alternatively supported on insulated axle stands with minimum ground clearance if no dynamometer is available. Where appropriate, transmission shafts, belts or chains may be disconnected (e.g. trucks, two- and three-wheel vehicles). 2.1.1.2. Basic vehicle conditions
+The paragraph defines minimum test conditions (as far as applicable) and failure criteria for vehicle immunity tests. Other vehicle systems, which can affect immunity related functions, shall be tested in a way to be agreed between manufacturer and Technical Service.
+
+| '50 km/h mode' vehicle test conditions | Failure criteria |
+|---|---|
+| Vehicle speed 50 km/h (respectively 25 km/h for L1, L2 vehicles) ±20 per cent (vehicle driving the rollers). If the vehicle is equipped with a cruise control system, it shall be used to maintain the required constant vehicle speed and maintained without any deactivation. | Speed variation greater than ±10 per cent of the nominal speed. In case of automatic gearbox: change of gear ratio inducing a speed variation greater than ±10 per cent of the nominal speed. |
+| Dipped beams ON (manual mode) | Lighting OFF (front light and rear light) |
+| Specific warning (e.g Rotating/flashing light, signaling bar, siren…) ON | Specific warning OFF |
+| Cluster operate in normal mode | Unexpected warning Inconsistent variation of the odometer |
+| Rear view system | Unexpected movement of rear view mirror Loss or freezing of the display (CMS) |
+| Front wiper ON (manual mode) maximum speed | Complete stop of front wiper |
+| Direction indicator on driver's side ON | Frequency change (lower than 0.75 Hz or greater than 2.25 Hz). Duty cycle change (lower than 25 per cent or greater than 75 per cent). |
+| Adjustable suspension in normal position | Unexpected significant variation |
+| Driver's seat and steering wheel in medium position | Unexpected variation greater than 10 per cent of total range |
+| Alarm unset | Unexpected activation of alarm |
+| Horn OFF | Unexpected activation of horn |
+| Airbag and safety restraint systems operational with inhibited passenger airbag if this function exists | Unexpected activation |
+| Automatic doors closed | Unexpected opening |
+| Adjustable endurance brake lever in normal position | Unexpected activation |
+| Brake pedal not depressed | Unexpected activation of brake and unexpected activation of stop lights |
+| 0 | 1 |
+| 'Brake mode' vehicle test conditions | Failure criteria |
+| Vehicle in a state that allows the braking system to operate normally, parking brake released, vehicle speed 0 km/h. Brake pedal depressed to activate the brake function and the stop lights without any dynamic cycle. | Stop lights inactivated during mode Brake warning light ON with loss of brake function. |
+| Day running light (DRL) ON | DRL inactivated during mode | 2.1.1.3. All equipment which can be switched on permanently by the driver or passenger should be in normal operation. 2.1.1.4. All other systems which affect the driver's control of the vehicle shall be (on) as in normal operation of the vehicle. 2.1.2. If there are vehicle electrical/electronic systems which form an integral part of the immunity related functions, which will not operate under the conditions described in paragraph 2.1., it will be permissible for the manufacturer to provide a report or additional evidence to the Technical Service that the vehicle electrical/electronic system meets the requirements of this Regulation. Such evidence shall be retained in the type approval documentation. 2.1.3. Only non-perturbing equipment shall be used while monitoring the vehicle. The vehicle exterior and the passenger compartment shall be monitored to determine whether the requirements of this annex are met (e.g. by using (a) video camera(s), a microphone, etc.). 2.2. Vehicle in configuration 'REESS charging mode coupled to the power grid'. 2.2.1. The vehicle shall be in an unladen condition except for necessary test equipment. 2.2.1.1. The vehicle shall be immobilized, the engine(s) (ICE and / or electrical engine) shall be OFF and in charging mode. 2.2.1.2. Basic vehicle conditions
+The paragraph defines minimum test conditions (as far as applicable) and failures criteria for vehicle immunity tests. Other vehicle systems, which can affect immunity related functions, shall be tested in a way to be agreed between manufacturer and Technical Service.
+
+| 'REESS charging mode' vehicle test conditions | Failure criteria |
+|---|---|
+| The REESS shall be in charging mode. The REESS State of charge (SOC) shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole frequency range measurement (this may lead to split the measurement in different sub-bands with the need to discharge the vehicle's traction battery before starting the next sub-bands). If the current consumption can be adjusted, then the current shall be set to at least 20 per cent of its nominal value. In case of multiple batteries the average state of charge must be considered. | Vehicle sets in motion. Unexpected release of the parking brake. Loss of Parking position for automatic transmission. |
+
+2.2.1.3. All other equipment which can be switched ON by the driver or passengers shall be OFF. 2.2.2. Only non-perturbing equipment shall be used while monitoring the vehicle. The vehicle exterior and the passenger compartment shall be monitored to determine whether the requirements of this annex are met (e.g. by using (a) video camera(s), a microphone, etc.). 2.2.3. The test set-up for the connection of the vehicle in configuration 'REESS charging mode coupled to the power grid' is shown in Figures 4a to 4h (depending of AC or DC power charging mode, location of charging plug and charging with or without communication) of Appendix 1 to this annex. 2.3. Vehicle in charging mode 1 or mode 2 (AC power charging without communication)
+2.3.1. Charging station / Power mains
+The power mains socket can be placed anywhere in the test site with the following conditions: —
+The socket(s) shall be placed on the ground plane (ALSE) or floor (OTS);
+METHOD(S) OF TESTING FOR IMMUNITY OF ELECTRICAL/ELECTRONIC SUB-ASSEMBLIES TO ELECTROMAGNETIC RADIATION
+ANNEX 9
+Method(s) of testing for immunity of electrical/electronic sub-assemblies to electromagnetic radiation
+1. General
+1.1. The test method(s) described in this annex applies to ESAs.
+
+1.2. Test methods
+This method concerns both kinds of ESA: (a) Other ESAs than involved in 'REESS charging mode coupled to the power grid'; (b) ESAs involved in 'REESS charging mode coupled to the power grid'. 1.2.1. ESAs may comply with the requirements of any combination of the following test methods at the manufacturer's discretion provided that these results in the full frequency range specified in paragraph 3.1. of this annex being covered: (a) Absorber chamber test according to ISO 11452-2; (b) TEM cell testing according to ISO 11452-3; (c) Bulk current injection testing according to ISO 11452-4; (d) Stripline testing according to ISO 11452-5; (e) 800 mm stripline according to paragraph 4.5. of this annex. ESAs in configuration 'REESS charging mode coupled to the power grid' shall comply with the requirements of the combination of the Absorber chamber test according to ISO 11452-2 and Bulk current injection testing according to ISO 11452-4 at the manufacturer's discretion provided that these results in the full frequency range specified in paragraph 3.1. of this annex being covered. (Frequency range and general test conditions shall be based on ISO 11452-1). 2. State of ESA during tests
+2.1. The test conditions shall be according ISO 11452-1. 2.2. The ESA under test shall be switched on and shall be stimulated to be in normal operation condition. It shall be arranged as defined in this annex unless individual test methods dictate otherwise. ESAs involved in 'REESS charging mode coupled to the power grid' shall be in charging mode. The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole frequency range measurement (this may lead to split the measurement in different sub-bands with the need to discharge the vehicle's traction battery before starting the next sub-bands). If the test is not performed with a REESS the ESA should be tested at rated current. If the current consumption can be adjusted, then the current shall be set to at least 20 per cent of its nominal value. 2.3. Any extraneous equipment required to operate the ESA under test shall not be in place during the calibration phase. No extraneous equipment shall be closer than 1 m from the reference point during calibration. 2.4. To ensure reproducible measurement results are obtained when tests and measurements are repeated, the test signal generating equipment and its layout shall be to the same specification as that used during each appropriate calibration phase. 2.5. If the ESA under test consists of more than one unit, the interconnecting cables should ideally be the wiring harnesses as intended for use in the vehicle. If these are not available, the length between the electronic control unit and the AN shall be as defined in the standard. All cables in the wiring harness should be terminated as realistically as possible and preferably with real loads and actuators. 3. General test requirements
+3.1. Frequency range, dwell times
+Measurements shall be made in the 20 to 2,000 MHz frequency range with frequency steps according to ISO 11452-1. The test signal modulation shall be: (a) AM (amplitude modulation), with 1 kHz modulation and 80 per cent modulation depth in the 20 to 800 MHz frequency range; and
+(b) PM (pulse modulation), Ton 577 μs, period 4,600 μs in the 800 to 2,000 MHz frequency range. If not otherwise agreed between Technical Service and ESA manufacturer. Frequency step size and dwell time shall be chosen according to ISO 11452-1. 3.2. The Technical Service shall perform the test at the intervals specified in ISO 11452-1, throughout the frequency range 20 to 2,000 MHz. Alternatively, if the manufacturer provides measurement to data for the whole frequency band from a test laboratory accredited to the applicable parts of ISO 17025, and recognized by the Type Approval Authority, the Technical Service may choose a reduced number of spot frequencies in the range, e.g. 27, 45, 65, 90, 120, 150, 190, 230, 280, 380, 450, 600, 750, 900, 1,300, and 1,800 MHz to confirm that the ESA meets the requirements of this annex. 3.3. If an ESA fails the tests defined in this annex, it shall be verified as having failed under the relevant test conditions and not as a result of the generation of uncontrolled fields. 4. Specific test requirements
+4.1. Absorber chamber test
+4.1.1. Test method
+This test method allows the testing of vehicle electrical/electronic systems by exposing an ESA to electromagnetic radiation generated by an antenna. 4.1.2. Test methodology
+The 'substitution method' shall be used to establish the test field conditions according ISO 11452-2. The test shall be performed with vertical polarization. 4.1.2.1. For ESAs in configuration 'REESS charging mode coupled to the power grid' the test arrangement shall be according to Appendix 3 to this annex. 4.1.2.1.1. The shielding configuration shall be according to the vehicle series configuration. Generally all shielded HV parts shall be properly connected with low impedance to ground (e. g. AN, cables, connectors etc.). ESAs and loads shall be connected to ground. The external HV power supply shall be connected via feed-through-filtering. 4.1.2.1.2. Unless otherwise specified the length of the LV harness and the HV harness parallel to the front edge of the ground plane shall be 1,500 mm (±75 mm). The total length of the test harness including the connector shall be 1,700 mm (+300/-0 mm). The distance between the LV harness and the HV harness shall be 100 mm (+100/-0 mm). 4.1.2.1.3. All of the harnesses shall be placed on a non-conductive, low relative permittivity material (εr ≤ 1,4), at 50 mm (±5 mm) above the ground plane. 4.1.2.1.4. Shielded supply lines for HV+ and HV- line and three phase lines may be coaxial cables or in a common shield depending on the used plug system. The original HV-harness from the vehicle may be used optionally. 4.1.2.1.5. Unless otherwise specified, the ESA case shall be connected to the ground plane either directly or via defined impedance. 4.1.2.1.6. For onboard chargers, the AC/DC power lines shall be placed the furthest from the antenna (behind LV and HV harness). The distance between the AC/DC power lines and the closest harness (LV or HV) shall be 100 mm (+100/-0 mm). 4.1.2.1.7. Unless otherwise specified, the configuration with the LV harness closer to the antenna shall be tested. 4.2. TEM cell testing (see Appendix 2 to this annex)
+4.2.1. Test method
+The TEM (transverse electromagnetic mode) cell generates homogeneous fields between the internal conductor (septum) and housing (ground plane). 4.2.2. Test methodology
+The test shall be performed according ISO 11452-3. Depending on the ESA to be tested the Technical Service shall chose the method of maximum field coupling to the ESA or to the wiring harness inside the TEM-cell. 4.3. Bulk current injection testing
+4.3.1. Test method
+This is a method of carrying out immunity tests by inducing currents directly into a wiring harness using a current injection probe. 4.3.2. Test methodology
+The test shall be performed according to ISO 11452-4 on a test bench with the following characteristics: —
+BCI test method with substitution method and injection probe positioned at 150 mm distance to the ESA; —
+Or BCI test method with closed loop method and injection probe positioned at 900 mm distance to the ESA. As an alternative the ESA may be tested while installed in the vehicle according to ISO 11451-4 with the following characteristics: —
+BCI test method with substitution method and injection probe positioned at 150 mm distance to the ESA.
+1. Scope
+This Regulation applies to:
+
+1.1. Vehicles of categories L, M, N O, T, R and S (1) with regard to electromagnetic compatibility; 1.2. Components and separate technical units intended to be fitted in these vehicles with the limitation given in paragraph 3.2.1. with regard to electromagnetic compatibility. 1.3. It covers: (a) Requirements regarding the immunity to radiated and conducted disturbances for functions related to direct control of the vehicle, related to driver, passenger and other road users' protection, related to disturbances, which would cause confusion to the driver or other road users, related to vehicle data bus functionality, related to disturbances, which would affect vehicle statutory data; (b) Requirements regarding the control of unwanted radiated and conducted emissions to protect the intended use of electrical or electronic equipment at own or adjacent vehicles or nearby, and the control of disturbances from accessories that may be retrofitted to the vehicle; (c) Additional requirements for vehicles and ESAs providing coupling systems for charging the REESS regarding the control of emissions and immunity from this connection between vehicle and power grid.
+3.1. Approval of a vehicle type
+3.1.1. The application for approval of a vehicle type, with regard to its electromagnetic compatibility, shall be submitted by the vehicle manufacturer.
+
+3.1.2. A model of information document is shown in Annex 2A. 3.1.3. The vehicle manufacturer shall draw up a schedule describing all relevant vehicle electrical/electronic systems or ESAs, body styles, variations in body material, general wiring arrangements, engine variations, left-hand/right-hand drive versions and wheelbase versions. Relevant vehicle electrical/electronic systems or ESAs are those which may emit significant broadband or narrowband radiation and/or those which are involved in immunity related functions of the vehicle (see paragraph 2.12.) and those which provide coupling systems for charging the REESS. 3.1.4. A vehicle representative of the type to be approved shall be selected from this schedule by mutual agreement between the manufacturer and the Type Approval Authority. The choice of vehicle shall be based on the electrical/electronic systems offered by the manufacturer. One or more vehicles may be selected from this schedule if it is considered by mutual agreement between the manufacturer and the Type Approval Authority that different electrical/electronic systems are included which are likely to have a significant effect on the vehicle's electromagnetic compatibility compared with the first representative vehicle. 3.1.5. The choice of the vehicle(s) in conformity with paragraph 3.1.4. above shall be limited to vehicle/electrical/electronic system combinations intended for actual production. 3.1.6. The manufacturer may supplement the application with a report on tests which have been carried out. Any such data provided may be used by the Type Approval Authority for the purpose of drawing up the communication form for type approval. 3.1.7. If the Technical Service responsible for the type approval test carries out the test itself, then a vehicle representative of the type to be approved according to paragraph 3.1.4. above shall be provided. 3.1.8. For vehicles of categories L6, L7, M, N, O, T, R and S, the vehicle manufacturer shall provide a statement of frequency bands, power levels, antenna positions and installation provisions for the installation of radio frequency transmitters (RF-transmitters), even if the vehicle is not equipped with an RF transmitter at time of type approval, and this statement shall be noted in the information document (e.g. under item 63, Annex 2A). This should cover all mobile radio services normally used in vehicles. This information shall be made publicly available following the type approval. Vehicle manufacturers shall provide evidence that vehicle performance is not adversely affected by such transmitter installations.
+4.2. Granting of type approval
+4.2.1. Vehicle
+4.2.1.1. If the representative vehicle fulfils the requirements of paragraph 6.
+
+and, if applicable, paragraph 7. of this Regulation, type approval shall be granted. 4.2.1.2. A model of communication form for type approval is contained in Annex 3A. 4.2.2. ESA
+4.2.2.1. If the representative ESA system(s) fulfil(s) the requirements of paragraph 6. and, if applicable, paragraph 7. of this Regulation, type approval shall be granted. 4.2.2.2. A model of communication form for type approval is contained in Annex 3B. 4.2.3. In order to draw up the communication forms referred to in paragraph 4.2.1.2. or 4.2.2.2. above, the Type Approval Authority of the Contracting Party granting the approval may use a report prepared or approved by a recognized laboratory or in accordance with the provisions of this Regulation. 4.2.4. In case of an ESA is (part of) a light source and if the documentation as specified in paragraph 3.2.10. above is missing, approval of this ESA according to Regulation No. 10 shall not be granted.
+6.1. General specifications
+6.1.1. A vehicle and its electrical/electronic system(s) or ESA(s) shall be so designed, constructed and fitted as to enable the vehicle, in normal conditions of use, to comply with the requirements of this Regulation.
+
+6.1.1.1. A vehicle shall be tested for radiated emissions and for immunity to radiated disturbances. No tests for conducted emissions or immunity to conducted disturbances are required for vehicle type approval. 6.1.1.2. ESA(s) shall be tested for radiated and conducted emissions, for immunity to radiated and conducted disturbances. 6.1.2. Before testing, the Technical Service has to prepare a test plan in conjunction with the manufacturer, which contains at least mode of operation, stimulated function(s), monitored function(s), pass/fail criterion(criteria) and intended emissions.
+6.3. Specifications concerning narrowband electromagnetic radiation from vehicles
+6.4.1. Method of testing
+The immunity to electromagnetic radiation of the vehicle representative of its type shall be tested by the method described in Annex 6.
+6.6. Specifications concerning narrowband electromagnetic interference generated by ESAs
+6.7.1. Method of testing
+The emission of ESA representative of its type shall be tested by the method(s) according to ISO 7637-2 as described in Annex 10 for the levels given in Table 1.
+
+|  | Maximum allowed pulse amplitude for | Maximum allowed pulse amplitude for |
+|---|---|---|
+| Polarity of pulse amplitude | Vehicles with 12 V systems | Vehicles with 24 V systems |
+| Positive | +75 V | +150 V |
+| Negative | -100 V | -450 V |
+6.9.1. Method of testing
+The immunity of ESA representative of this type shall be tested by the method(s) according to ISO 7637-2 as described in Annex 10 with the test levels given in Table 2.
+
+| Test pulse number | Immunity test level | Functional status for systems | Functional status for systems |
+|---|---|---|---|
+| Test pulse number | Immunity test level | Related to immunity related functions | Not related to immunity related functions |
+| 1 | III | C | D |
+| 2a | III | B | D |
+| 2b | III | C | D |
+| 3a/3b | III | A | D |
+| 4 | III | B (for ESA which shall be operational during engine start phases) C (for other ESA) | D |
+7.2.2. Vehicle broadband type approval limits
+7.2.2.1. If measurements are made using the method described in Annex 4 using a vehicle-to-antenna spacing of 10.0 ± 0.2 m, the limits shall be 32 dB microvolts/m in the 30 to 75 MHz frequency band and 32 to 43 dB microvolts/m in the 75 to 400 MHz frequency band, this limit increasing logarithmically with frequencies above 75 MHz as shown in Appendix 2.
+
+In the 400 to 1,000 MHz frequency band the limit remains constant at 43 dB microvolts/m.
+7.2.2.2. If measurements are made using the method described in Annex 4 using a vehicle-to-antenna spacing of 3.0 ± 0.05 m, the limits shall be 42 dB microvolts/m in the 30 to 75 MHz frequency band and 42 to 53 dB microvolts/m in the 75 to 400 MHz frequency band, this limit increasing logarithmically with frequencies above 75 MHz as shown in Appendix 3. In the 400 to 1,000 MHz frequency band the limit remains constant at 53 dB microvolts/m.
+On the vehicle representative of its type, the measured values, expressed in dB microvolts/m shall be below the type approval limits.
+7.4. Specifications concerning emission of voltage changes, voltage fluctuations and flicker on AC power lines from vehicles.
+7.5.2. Vehicle type approval limit
+7.5.2.1. If measurements are made using the method described in Annex 13, the limits on AC power lines are those defined in IEC 61000-6-3 and given in Table 7. Table 7
+Maximum allowed radiofrequency conducted disturbances on AC power lines
+Frequency (MHz)
+Limits and detector
+0.15 to 0.5
+66 to 56 dBμV (quasi-peak) 56 to 46 dBμV (average)
+(linearly decreasing with logarithm of frequency)
+0.5 to 5
+56 dBμV (quasi-peak) 46 dBμV (average)
+5 to 30
+60 dBμV (quasi-peak) 50 dBμV (average)
+7.5.2.2. If measurements are made using the method described in Annex 13, the limits on DC power lines are those defined in IEC 61000-6-3 and given in Table 8. Table 8
+Maximum allowed radiofrequency conducted disturbances on DC power lines
+Frequency (MHz)
+Limits and detector
+0.15 to 0.5
+79 dBμV (quasi-peak)
+66 dBμV (average)
+0.5 to 30
+73 dBμV (quasi-peak)
+60 dBμV (average)
+7.17. Specifications concerning the emission of transient conducted disturbances generated by ESAs on 12 / 24 V supply lines
+7.15.2. ESA immunity type approval limits
+7.15.2.1. If tests are made using the methods described in Annex 21, the immunity test levels, for AC or DC power lines, shall be: ± 2 kV test voltage in open circuit, with a rise time (Tr) of 5 ns, and a hold time (Th) of 50 ns and a repetition rate of 5 kHz for at least 1 minute.
+
+7.15.2.2. The ESA representative of its type shall be considered as complying with immunity requirements if, during the tests performed in accordance with Annex 21, there shall be no degradation of performance of 'immunity related functions', according to paragraph 2.2. of Annex 9.
+7.14.1. Method of measurement
+The emission of radiofrequency conducted disturbances on wired network port generated by the ESA representative of its type shall be measured using the method described in Annex 20.
+
+The method of measurement shall be defined by the ESA manufacturer in accordance with the Technical Service.
+7.12.1. Method of measurement
+The emission of voltage changes, voltage fluctuations and flicker on AC power lines generated by the ESA representative of its type shall be measured using the method described in Annex 18.
+
+The method of measurement shall be defined by the ESA manufacturer in accordance with the Technical Service.
+7.11. Specifications concerning emission of harmonics on AC power lines from ESAs
+7.9.2. Vehicle immunity type approval limits
+7.9.2.1. If tests are made using the methods described in Annex 16, the immunity test levels shall be:
+
+(a) For AC power lines: ±2 kV test voltage in open circuit between line and earth and ±1 kV between lines (pulse 1.2 μs / 50 μs), with a rise time (Tr) of 1.2 μs, and a hold time (Th) of 50 μs. Each surge shall be applied five times with a maximum delay of 1 minute between each pulse. This has to be applied for the following phases: 0, 90, 180 and 270o,
+(b) For DC power lines: ±0.5 kV test voltage in open circuit between line and earth and ±0.5 kV between lines (pulse 1.2 μs / 50 μs) with a rise time (Tr) of 1.2 μs, and a hold time (Th) of 50 μs. Each surge shall be applied five times with a maximum delay of 1 minute. 7.9.2.2. The vehicle representative of its type shall be considered as complying with immunity requirements if, during the tests performed in accordance with Annex 16, there shall be no degradation of performance of 'immunity related functions', according to paragraph 2.2. of Annex 6.
+7.8.1. Method of testing
+7.8.1.1.
+
+The immunity to Electrical Fast Transient/Burst disturbances conducted along AC and DC power lines of the vehicle representative of its type shall be tested by the method described in Annex 15.
+7.7. Specifications concerning immunity of vehicles to electromagnetic radiation
+7.18.2. ESA immunity type approval limits
+7.18.2.1. If tests are made using the methods described in Annex 9, the immunity test levels shall be 60 volts/m rms for the 150 mm stripline testing method, 15 volts/m rms for the 800 mm stripline testing method, 75 volts/m rms for the Transverse Electromagnetic Mode (TEM) cell testing method, 60 mA rms for the Bulk Current Injection (BCI) testing method and 30 volts/m rms for the free field testing method in over 90 per cent of the 20 to 2,000 MHz frequency band, and to a minimum of 50 volts/m rms for the 150 mm stripline testing method, 12.5 volts/m rms for the 800 mm stripline testing method, 62.5 volts/m rms, for the TEM cell testing method, 50 mA rms for the bulk current injection (BCI) testing method and 25 volts/m rms for the free field testing method over the whole 20 to 2,000 MHz frequency band.
+
+7.18.2.2. The ESA representative of its type shall be considered as complying with immunity requirements if, during the tests performed in accordance with Annex 9, there shall be no degradation of performance of 'immunity related functions'.
+7.4.1. Method of measurement
+The emission of voltage changes, voltage fluctuations and flicker on AC power lines generated by the vehicle representative of its type shall be measured using the method described in Annex 12.
+
+The method of measurement shall be defined by the vehicle manufacturer in accordance with the Technical Service.
+7.3.1. Method of measurement
+The harmonics emission on AC power lines generated by the vehicle representative of its type shall be measured using the method described in Annex 11.
+
+The method of measurement shall be defined by the vehicle manufacturer in accordance with the Technical Service.
+7.3. Specifications concerning emission of harmonics on AC power lines from vehicles
+7.2. Specifications concerning broadband electromagnetic radiation from vehicles
+7.1. General specifications
+7.1.1. A vehicle and its electrical/electronic system(s) or ESA(s) shall be so designed, constructed and fitted as to enable the vehicle, in configuration 'REESS charging mode coupled to the power grid', to comply with the requirements of this Regulation.
+
+7.1.1.1. A vehicle in configuration 'REESS charging mode coupled to the power grid' shall be tested for radiated emissions, immunity to radiated disturbances, conducted emissions and immunity to conducted disturbances. 7.1.1.2. ESAs in configuration 'REESS charging mode coupled to the power grid' shall be tested for radiated and conducted emissions, for immunity to radiated and conducted disturbances. 7.1.2. Before testing the Technical Service has to prepare a test plan in conjunction with the manufacturer, for the configuration 'REESS charging mode coupled to the power grid' configuration which contains at least mode of operation, stimulated function(s), monitored function(s), pass/fail criterion (criteria) and intended emissions. 7.1.3. A vehicle in configuration 'REESS charging mode coupled to the power grid' should be tested with the charging harness delivered by the manufacturer. In this case, the cable shall be type approved as part of the vehicle. 7.1.4. Artificial networks
+AC Power mains shall be applied to the vehicle / ESA through 50 μH/50 Ω AMN(s) as defined in Appendix 8 clause 4. DC Power mains shall be applied to the vehicle / ESA through 5 μH/50 Ω DC-charging-AN(s) as defined in Appendix 8 clause 3. High voltage power line shall be applied to the ESA through a 5 μH/50 Ω HV-AN(s) as defined in Appendix 8 clause 2.
+7. Additional specifications in the configuration 'REESS charging mode coupled to the power grid'
+6.9. Specifications concerning the immunity of ESAs to transient disturbances conducted along 12/24 V supply lines
+Introduction
+UN Regulation No. 10 - Uniform provisions concerning the approval of vehicles with regard to electromagnetic compatibility [2022/2263]
+Incorporating all valid text up to:
+
+Supplement 1 to the 06 series of amendments - Date of entry into force: 25 September 2020
+CONTENTS
+Regulation
+ 1. Scope
+ 2. Definitions
+ 3. Application for approval
+ 4. Approval
+ 5. Markings
+ 6. Specification in configurations other than REESS charging mode coupled to the power grid
+ 7. Additional specifications in the configuration 'REESS charging mode coupled to the power grid' 8. Amendment or extension of a vehicle type approval following electrical/electronic sub-assembly (ESA) addition or substitution
+ 9. Conformity of production
+ 10. Penalties for non-conformity of production
+ 11. Production definitively discontinued
+ 12. Modification and extension of type approval of a vehicle or ESA
+ 13. Transitional provisions
+ 14. Names and addresses of Technical Services conducting approval tests and of Type Approval Authorities
+Appendix 1 - List of standards referred to in this Regulation
+Appendix 2 - Vehicle broadband reference limits - Antenna-vehicle separation: 10 m
+Appendix 3 - Vehicle broadband reference limits - Antenna-vehicle separation: 3 m
+Appendix 4 - Vehicle narrowband reference limits - Antenna-vehicle separation: 10 m
+Appendix 5 - Vehicle narrowband reference limits - Antenna-vehicle separation: 3 m
+Appendix 6 - Electrical/electronic sub-assembly - Broadband reference limits
+Appendix 7 - Electrical/electronic sub-assembly - Narrowband reference limits
+Appendix 8 - HV artificial network
+Annexes
+ 1. Examples of approval marks
+2A. Information document for type approval of a vehicle with respect to electromagnetic compatibility
+2B. Information document for type approval of an electric/electronic sub-assembly with respect to electromagnetic compatibility
+3A. Communication concerning the approval or extension or refusal or withdrawal of approval or production definitively discontinued of a type of vehicle/component/separate technical unit with regard to Regulation No. 10
+3B. Communication concerning the approval or extension or refusal or withdrawal of approval or production definitively discontinued of a type of electrical/electronic sub-assembly with regard to Regulation No. 10
+ 4. Method of measurement of radiated broadband electromagnetic emissions from vehicles
+Appendix 1
+ 5. Method of measurement of radiated narrowband electromagnetic emissions from vehicles
+Appendix 1
+ 6. Method of testing for immunity of vehicles to electromagnetic radiation
+Appendix 1
+ 7. Method of measurement of radiated broadband electromagnetic emissions from electrical/electronic sub assemblies (ESAs)
+Appendix 1
+ 8. Method of measurement of radiated narrowband electromagnetic emissions from electrical/electronic sub assemblies
+ 9. Method(s) of testing for immunity of electrical/electronic sub-assemblies to electromagnetic radiation
+Appendix 1
+Appendix 2 - Typical TEM cell dimensions
+Appendix 3 - Absorber chamber test
+Appendix 4 - BCI test
+ 10. Method(s) of testing for immunity to and emission of transients of electrical/electronic sub-assemblies
+ 11. Method(s) of testing for emission of harmonics generated on AC power lines from vehicle
+Appendix 1
+ 12. Method(s) of testing for emission of voltage changes, voltage fluctuations and flicker on AC power lines from vehicle
+Appendix 1
+ 13. Method(s) of testing for emission of radiofrequency conducted disturbances on AC or DC power lines from vehicles
+Appendix 1
+ 14. Method(s) of testing for emission of radiofrequency conducted disturbances on network and telecommunication access from vehicles
+Appendix 1
+ 15. Method of testing for immunity of vehicles to Electrical Fast Transient/Burst disturbances conducted along AC and DC power lines
+Appendix 1
+ 16. Method of testing for immunity of vehicles to surges conducted along AC and DC power lines
+Appendix 1 - Vehicle in configuration 'REESS charging mode coupled to the power grid' 17. Method(s) of testing for emission of harmonics generated on AC power lines from an ESA
+Appendix 1
+ 18. Method(s) of testing for emission of voltage changes, voltage fluctuations and flicker on AC power lines from an ESA
+Appendix 1
+ 19. Method(s) of testing for emission of radiofrequency conducted disturbances on AC or DC power lines from an ESA
+Appendix 1
+ 20. Method(s) of testing for emission of radiofrequency conducted disturbances on network and telecommunication access from an ESA
+Appendix 1
+ 21. Method of testing for immunity of an ESA to Electrical Fast Transient/Burst disturbances conducted along AC and DC power lines
+Appendix 1
+ 22. Method of testing for immunity of ESAs to surges conducted along AC and DC power lines
+Appendix 1 - ESA in configuration 'REESS charging mode coupled to the power grid'
+7.7.1. Method of testing
+The immunity to electromagnetic radiation of the vehicle representative of its type shall be tested by the method described in Annex 6.
+METHOD(S) OF TESTING FOR EMISSION OF VOLTAGE CHANGES, VOLTAGE FLUCTUATIONS AND FLICKER ON AC POWER LINES FROM AN ESA
+ANNEX 18
+Method(s) of testing for emission of voltage changes, voltage fluctuations and flicker on AC power lines from an ESA
+1. General
+1.1. The test method described in this annex shall be applied to ESAs in configuration 'REESS charging mode coupled to the power grid'
+
+1.2. Test method
+This test is intended to measure the level of voltage changes, voltage fluctuations and flicker generated by ESA in configuration 'REESS charging mode coupled to the power grid' through its AC power lines in order to ensure it is compatible with residential, commercial and light industrial environments. If not otherwise stated in this annex the test shall be performed according to: (a) IEC 61000-3-3 for rated current in 'REESS charging mode' ≤ 16 A per phase and not subjected to conditional connection; (b) IEC 61000-3-11 for rated current in 'REESS charging mode' > 16 A and ≤ 75 A per phase and subjected to conditional connection
+2. ESA state during tests
+2.1. The ESA shall be in configuration 'REESS charging mode coupled to the power grid' The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole time duration of the measurement (this may lead to the measurement being split into different time slots with the need to discharge the vehicle's traction battery before starting the next time slot). If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its nominal value for AC charging. 3. Test Arrangements
+3.1. The tests for ESA in configuration 'REESS charging mode coupled to the power grid' with rated current ≤ 16 A per phase and not subjected to conditional connection shall be performed according to paragraph 4. Of IEC 61000-3-3. 3.2. The tests for ESA in configuration 'REESS charging mode coupled to the power grid' with rated current > 16 A and ≤ 75 A per phase and subjected to conditional connection shall be performed according to paragraph 6. Of IEC 61000-3-11. 3.3. The test set-up for ESA in configuration 'REESS charging mode coupled to the power grid' is shown in Figures 1a and 1b of Appendix 1 to this annex. 4. Test requirements
+4.1. The parameters to be determined in the time-domain are 'short duration flicker value', 'long duration flicker value' and 'voltage relative variation'. 4.2. The limits for ESA in configuration 'REESS charging mode coupled to the power grid' with input current ≤ 16 A per phase and not subjected to conditional connection are given in paragraph 7.12.2.1. of this Regulation. 4.3. The limits for ESA in configuration 'REESS charging mode coupled to the power grid' with input current > 16 A and ≤ 75 A per phase and subjected to conditional connection are given in paragraph 7.12.2.2. of this Regulation.
+7.8.2. Vehicle immunity type approval limits
+7.8.2.1. If tests are made using the methods described in Annex 15, the immunity test levels, for AC or DC power lines, shall be: ±2 kV test voltage in open circuit, with a rise time (Tr) of 5 ns, and a hold time (Th) of 50 ns and a repetition rate of 5 kHz for at least 1 minute.
+
+7.8.2.2. The vehicle representative of its type shall be considered as complying with immunity requirements if, during the tests performed in accordance with Annex 15, there shall be no degradation of performance of 'immunity related functions', according to paragraph 2.2. of Annex 6.
+7.10. Specifications concerning broadband electromagnetic interference caused by ESAs
+7.11.1. Method of measurement
+The harmonics emission on AC power lines generated by the ESA representative of its type shall be measured using the method described in Annex 17.
+
+The method of measurement shall be defined by the manufacturer in accordance with the Technical Service.
+METHOD(S) OF TESTING FOR IMMUNITY TO AND EMISSION OF TRANSIENTS OF ELECTRICAL/ELECTRONIC SUB-ASSEMBLIES
+ANNEX 10
+Method(s) of testing for immunity to and emission of transients of electrical/electronic sub-assemblies
+1. General
+This test method shall ensure the immunity of ESAs to conducted transients on the vehicle power supply and limit conducted transients from ESAs to the vehicle power supply.
+
+2. Immunity against transient disturbances conducted along 12/24 V supply lines. Apply the test pulses 1, 2a, 2b, 3a, 3b and 4 according to the International Standard ISO 7637-2 to the supply lines as well as to other connections of ESAs which may be operationally connected to supply lines. 3. Emission of transient conducted disturbances generated by ESAs on 12/24 V supply lines. Measurement according to the International Standard ISO 7637-2 on supply lines as well as to other connections of ESAs which may be operationally connected to supply lines.
+METHOD OF TESTING FOR IMMUNITY OF VEHICLES TO ELECTRICAL FAST TRANSIENT/BURST DISTURBANCES CONDUCTED ALONG AC AND DC POWER LINES
+ANNEX 15
+Method of testing for immunity of vehicles to electrical fast transient/burst disturbances conducted along AC and DC power lines
+1. General
+1.1. The test method described in this annex shall only be applied to vehicles. This method concerns only the configuration of the vehicle with 'REESS charging mode coupled to the power grid'. 1.2. Test method
+This test is intended to demonstrate the immunity of the vehicle electronic systems. The vehicle shall be subject to electrical fast transient/burst disturbances conducted along AC and DC power lines of the vehicle as described in this annex. The vehicle shall be monitored during the tests. If not otherwise stated in this annex the test shall be performed according to IEC 61000-4-4. 2. Vehicle state during tests in configuration 'REESS in charging mode coupled to the power grid' 2.1. The vehicle shall be in an unladen condition except for necessary test equipment. 2.1.1. The vehicle shall be immobilized, the engine(s) (ICE and / or electrical engine) shall be OFF and in charging mode. 2.1.2. Basic vehicle conditions
+The paragraph defines minimum test conditions (as far as applicable) and failures criteria for vehicle immunity tests. Other vehicle systems, which can affect immunity related functions, shall be tested in a way to be agreed between manufacturer and Technical Service.
+
+| 'REESS charging mode' vehicle test conditions | Failure criteria |
+|---|---|
+| The REESS shall be in charging mode. The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole time duration of the measurement (this may lead to the measurement being split into different time slots with the need to discharge the vehicle's traction battery before starting the next time slot). If the current consumption can be adjusted, then the current shall be set to at least 20 per cent of its nominal value. In case of multiple batteries the average state of charge must be considered. | Vehicle sets in motion. Unexpected release of the parking brake. Loss of Parking position for automatic transmission. |
+
+2.1.3. All other equipment which can be switched ON by the driver or passengers shall be OFF. 2.2. Only non-perturbing equipment shall be used while monitoring the vehicle. The vehicle exterior and the passenger compartment shall be monitored to determine whether the requirements of this annex are met (e.g. by using (a) video camera(s), a microphone, etc.). 3. Test equipment
+3.1. The test equipment is composed of a reference ground plane (a shielded room is not required), a transient/burst generator, Coupling/Decoupling Network (CDN) and capacitive coupling clamp. 3.2. The transient/burst generator shall meet the condition defined in paragraph 6.1. of IEC 61000-4-4. 3.3. The Coupling/Decoupling Network shall meet the condition defined in paragraph 6.2. of IEC 61000-4-4. When the Coupling/Decoupling Network cannot be used on AC or DC power lines, the capacitive coupling clamp defined in paragraph 6.3. of IEC 61000-4-4 can be used. 4. Test setup
+4.1. The vehicle test setup is based on the laboratory type setup as described in paragraph 7.2. of IEC 61000-4-4. 4.2. The vehicle shall be placed directly on the ground plane. 4.3. The Technical Service shall perform the test as specified in paragraph 7.8.2.1. of this Regulation. Alternatively, if the manufacturer provides measurement from a test laboratory accredited to the applicable parts of ISO 17025 and recognized by the Type Approval Authority, the Technical Service may choose not to perform the test to confirm that the vehicle meets the requirements of this annex. 5. Generation of required test level
+5.1. Test methodology
+5.1.1. The test method according to IEC 61000-4-4 shall be used to establish the test level requirements. 5.1.2. Test phase
+The vehicle shall be positioned on the ground plane. The electrical fast transient/burst (EFT/B) shall be applied on the vehicle on the AC/DC power lines in common modes by using CDN as described in Figure 1a to 1d of Appendix 1 to this annex. The test set-up shall be noted in the test report.
+METHOD(S) OF TESTING FOR EMISSION OF RADIOFREQUENCY CONDUCTED DISTURBANCES ON AC OR DC POWER LINES FROM VEHICLES
+ANNEX 13
+Method(s) of testing for emission of radiofrequency conducted disturbances on AC or DC power lines from vehicles
+1. General
+1.1. The test method described in this annex shall be applied to vehicles in configuration 'REESS charging mode coupled to the power grid'. 1.2. Test method
+This test is intended to measure the level of radio frequency conducted disturbances generated by vehicle in configuration 'REESS charging mode coupled to the power grid' through its AC or DC power lines in order to ensure it is compatible with residential, commercial and light industrial environments. If not otherwise stated in this annex the test shall be performed according to CISPR 16-2-1. 2. Vehicle state during tests
+2.1. The vehicle shall be in configuration 'REESS charging mode coupled to the power grid'. The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole frequency range measurement (this may lead to splitting the measurement in different sub-bands with the need to discharge the vehicle's traction battery before starting the next sub-bands). If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its nominal value for AC charging. If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its nominal value for DC charging unless another value is agreed with the type approval authorities. In case of multiple batteries the average state of charge must be considered. The vehicle shall be immobilized, the engine(s) (ICE and / or electrical engine) shall be OFF and in charging mode. All other equipment which can be switched ON by the driver or passengers shall be OFF. 3. Test arrangements
+3.1. The test shall be performed according to paragraph 7.4.1. of CISPR 16-2-1 as floor-standing equipment. 3.2. Measuring location
+A shielded enclosure or an absorber lined shielded enclosure (ALSE) or an open area test site (OATS) which complies with the requirements of CISPR 16-1-4 may be used. 3.3. The artificial network(s) to be used for the measurement on vehicle are
+(a) The AMN(s) defined in Appendix 8 clause 4 for AC power lines; (b) The DC-charging-AN(s) defined in Appendix 8 clause 3 for DC power lines. Artificial networks
+The AMN(s)/DC-charging-AN(s) shall be mounted directly on the ground plane. The cases of the AMN(s)/DC-charging-AN(s) shall be bonded to the ground plane. The conducted emissions on AC and DC power lines are measured successively on each power line by connecting the measuring receiver on the measuring port of the related AMN/DC-charging-AN. The measuring port of the AMN/DC-charging-AN inserted in the other power line shall be terminated with a 50 Ω load. The AMN(s)/DC-charging-AN(s) shall be placed as defined in Figures 1a to 1d. of Appendix 1 to this annex. 3.4. The test set-up for the connection of the vehicle in configuration 'REESS charging mode coupled to the power grid' is shown in Figure 1a to 1d of Appendix 1 to this annex. 3.5. The measurements shall be performed with a spectrum analyser or a scanning receiver. The parameters to be used are defined in Table 1 and Table 2.
+
+| Frequency range MHz | Peak detector | Peak detector | Quasi-peak detector | Quasi-peak detector | Average detector | Average detector |
+|---|---|---|---|---|---|---|
+| Frequency range MHz | RBW at -3 dB | Minimum scan time | RBW at -6 dB | Minimum scan time | RBW at -3 dB | Minimum scan time |
+| 0.15 to 30 | 9/10 kHz | 10 s/MHz | 9 kHz | 200 s/MHz | 9/10 kHz | 10 s/MHz |
+
+| Frequency range MHz | Peak detector | Peak detector | Peak detector | Quasi-peak detector | Quasi-peak detector | Quasi-peak detector | Average detector | Average detector | Average detector |
+|---|---|---|---|---|---|---|---|---|---|
+| Frequency range MHz | BW at -6 dB | Step size | Minimum dwell time | BW at -6 dB | Step size | Minimum dwell time | BW at -6 dB | Step size | Minimum dwell time |
+| 0.15 to 30 | 9 kHz | 5 kHz | 50 ms | 9 kHz | 5 kHz | 1 s | 9 kHz | 5 kHz | 50 ms |
+
+4. Test requirements
+4.1. The limits apply throughout the frequency range 0.15 to 30 MHz for measurements performed in a shielded enclosure or an absorber lined shielded enclosure (ALSE) or an open area test site (OATS). 4.2. Measurements shall be performed with average and either quasi-peak or peak detectors. The limits are given in paragraph 7.5. of this Regulation. Table 7 for AC lines and Table 8 for DC lines. If peak detectors are used a correction factor of 20 dB as defined in CISPR 12 shall be applied.
+6.7. Specifications concerning the emission of transient conducted disturbances generated by ESAs on 12/24 V supply lines
+13. Transitional provisions
+7.20. Exceptions
+7.20.1. When there is no direct connection to a wired network which includes telecommunication service additional to the charging communication service, Annex 14 and Annex 20 shall not apply. 7.20.2. When wired network port of the vehicle uses power line Transmission (PLT) on its AC/DC power lines, Annex 14 shall not apply. 7.20.3. When wired network port of the ESA uses Power Line Transmission (PLT) on its AC/DC power lines, Annex 20 shall not apply. 7.20.4. Vehicles and / or ESA which are intended to be used in 'REESS charging mode coupled to the power grid' in the configuration connected to a DC-charging station with a length of a DC network cable (cable between the DC charging station and the vehicle plug) shorter than 30 m do not have to fulfil the requirements of paragraphs 7.5., 7.8., 7.9., 7.13., 7.15., 7.16. In this case, the manufacturer shall provide a statement that the vehicle and/or ESA can be used in 'REESS charging mode coupled to the power grid' only with cables shorter than 30 m. This information shall be made publicly available following the type approval. 7.20.5. Vehicles and / or ESA which are intended to be used in 'REESS charging mode coupled to the power grid' in the configuration connected to a local / private DC-charging station without additional participants do not have to fulfil requirements of paragraphs 7.5., 7.8., 7.9., 7.13., 7.15., 7.16. In this case, the manufacturer shall provide a statement that the vehicle and / or ESA can be used in 'REESS charging mode coupled to the power grid' only with a local/private DC charging station without additional participants. This information shall be made publicly available following the type approval.
+METHOD OF MEASUREMENT OF RADIATED NARROWBAND ELECTROMAGNETIC EMISSIONS FROM VEHICLES
+ANNEX 5
+Method of measurement of radiated narrowband electromagnetic emissions from vehicles
+1. General
+1.1. The test method described in this annex shall only be applied to vehicles. This method concerns only the configuration of the vehicle other than 'REESS charging mode coupled to the power grid'. 1.2. Test method
+This test is intended to measure the narrowband electromagnetic emissions that may emanate from microprocessor-based systems or other narrowband source. If not otherwise stated in this annex the test shall be performed according to CISPR 12 or CISPR 25. 1.3. As an initial step the levels of emissions in the Frequency Modulation (FM) band (76 to 108 MHz) shall be measured at the vehicle broadcast radio antenna with an average detector. If the level specified in paragraph 6.3.2.4. of this Regulation is not exceeded, then the vehicle shall be deemed to comply with the requirements of this annex in respect of that frequency band and the full test shall not be carried out. 1.4. As an alternative for vehicles of category L the measurement location can be chosen according to Annex 4, paragraphs 3.1. and 3.2.
+2. Vehicle state during tests
+2.1. The ignition switch shall be switched on. The engine shall not be operating. 2.2. The vehicle's electronic systems shall all be in normal operating mode with the vehicle stationary. 2.3. All equipment which can be switched on permanently by the driver or passenger with internal oscillators > 9 kHz or repetitive signals should be in normal operation. 3. Measuring location
+3.1. Absorber lined shielded enclosures (ALSE) and outdoor test site (OTS) may be used. An ALSE has the advantage of all all-weather testing, a controlled environment and improved repeatability because of the stable chamber electrical characteristics. 4. Test requirements
+4.1. The limits apply throughout the frequency range 30 to 1,000 MHz for measurements performed in an absorber lined shielded enclosure (ALSE) or an outdoor test site (OTS). 4.2. Measurements shall be performed with an average detector. 4.3. The measurements shall be performed with a spectrum analyser or a scanning receiver. The parameters to be used are defined in Table 1 and Table 2.
+
+| Frequency range MHz | Peak detector | Peak detector | Average detector | Average detector |
+|---|---|---|---|---|
+| Frequency range MHz | RBW at -3 dB | Minimum scan time | RBW at -3 dB | Minimum scan time |
+| 30 to 1,000 | 100/120 kHz | 100 ms/MHz | 100/120 kHz | 100 ms/MHz | Note: If a spectrum analyser is used for peak measurements, the video bandwidth shall be at least three times the resolution bandwidth (RBW).
+
+| Frequency range MHz | Peak detector | Peak detector | Peak detector | Average detector | Average detector | Average detector |
+|---|---|---|---|---|---|---|
+| Frequency range MHz | BW at-6 dB | Step size | Minimum scan time | BW at-6 dB | Step size | Minimum scan time |
+| 30 to 1,000 | 120 kHz | 50 kHz | 5 ms | 120 kHz | 50 kHz | 5 ms |
+
+4.4. Measurements
+The Technical Service shall perform the test at the intervals specified in the CISPR 12 standard throughout the frequency range 30 to 1,000 MHz. Alternatively, if the manufacturer provides measurement data for the whole frequency band from a test laboratory accredited to the applicable parts of ISO 17025 and recognized by the Type Approval Authority, the Technical Service may divide the frequency range in 14 frequency bands 30-34, 34-45, 45-60, 60-80, 80-100, 100-130, 130-170, 170-225, 225-300, 300-400, 400-525, 525-700, 700-850 and 850-1,000 MHz and perform tests at the 14 frequencies giving the highest emission levels within each band to confirm that the vehicle meets the requirements of this Annex. In the event that the limit is exceeded during the test, investigations shall be made to ensure that this is due to the vehicle and not to background radiation including broadband radiation from any ESA. 4.5. Readings
+The maximum of the readings relative to the limit (horizontal and vertical polarization and antenna location on the left and right-hand sides of the vehicle) in each of the 14 frequency bands shall be taken as the characteristic reading at the frequency at which the measurements were made. 4.6. Antenna position
+Measurements shall be made on the left and right sides of the vehicle. The horizontal distance is from the reference point of the antenna to the nearest part of the vehicle body. Multiple antenna positions may be required (both for 10 m and 3 m antenna distance) depending on the vehicle length. The same positions shall be used for both horizontal and vertical polarization measurements. The number of antenna positions and the position of the antenna with respect to the vehicle shall be documented in the test report. —
+if the length of the vehicle is smaller than the 3 dB beamwidth of the antenna, only one antenna position is necessary. The antenna shall be aligned with the middle of the total vehicle (see Figure 1)
+—
+If the length of the vehicle is greater than the 3 dB beamwidth of the antenna, multiple antenna positions are necessary in order to cover the total length of the vehicle (see Figure 2). The number of antenna positions shall allow to meet the following condition: {{IMAGE:Image_37, Caption:Mathematical inequality (Equation 1) specifying the condition for the number of antenna positions (N) relative to measurement distance (D), beamwidth (β), and vehicle length (L).}} With:
+N: number of antenna positions. D: measurement distance (3 m or 10 m). {{IMAGE:Image_38, Caption:Mathematical expression 2 · β.}} : 3 dB antenna beamwidth angle in the plane parallel to ground (i.e. the E-plane beamwidth angle when the antenna is used in horizontal polarization, and the H-plane beamwidth angle when the antenna is used in vertical polarization). L: total vehicle length. Depending of the chosen values of N (number of antenna positions) different set-up shall be used: if N=1 (only one antenna position is necessary) and the antenna shall be aligned with the middle of the total vehicle length (see Figure 1). if N>1 (more than one antenna position is necessary) and multiple antenna positions are necessary in order to cover the total length of the vehicle (see Figure 2). The antenna positions shall be symmetric in regard to the vehicle perpendicular axis.
+METHOD OF TESTING FOR IMMUNITY OF ESAS TO SURGES CONDUCTED ALONG AC AND DC POWER LINES
+ANNEX 22
+Method of testing for immunity of ESAs to surges conducted along AC and DC power lines
+1. General
+1.1. The test method described in this annex shall only be applied to ESAs. This method applies only to ESAs in configuration 'REESS charging mode coupled to the power grid'. 1.2. Test method
+This test is intended to demonstrate the immunity of the ESA. The ESA shall be subject to surges conducted along AC and DC power lines of the ESA as described in this annex. The ESA shall be monitored during the tests. If not otherwise stated in this annex the test shall be performed according to IEC 61000-4-5. 2. ESA state during tests in configuration 'REESS in charging mode coupled to the power grid' 2.1. The ESA shall be in charging mode. 2.1.2. Basic ESA conditions
+The paragraph defines minimum test conditions (as far as applicable) and failures criteria for ESA immunity tests.
+
+| 'REESS charging mode' ESA test conditions | Failure criteria |
+|---|---|
+| ESA shall be in configuration 'REESS charging mode coupled to the power grid'. The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole frequency range measurement (this may lead to split the measurement in different sub-bands with the need to discharge the vehicle's traction battery before starting the next sub-bands). If the test is not performed with a REESS the ESA should be tested at rated current. If the current consumption can be adjusted, then the current shall be set to at least 20 per cent of its nominal value. | Incorrect charging condition (e.g. over-current, overvoltage) |
+
+2.2. Only non-perturbing equipment shall be used while monitoring the ESA. The ESA shall be monitored to determine whether the requirements of this annex are met (e.g. by using (a) video camera(s), a microphone, etc.). 3. Test equipment
+3.1. The test equipment is composed of a reference ground plane (a shielded room is not required), a surge generator and a Coupling/Decoupling Network (CDN). 3.2. The surge generator shall meet the condition defined in paragraph 6.1. of IEC 61000-4-5. 3.3. The Coupling/Decoupling Network shall meet the condition defined in paragraph 6.3. of IEC 61000-4-5. 4. Test set-up
+4.1. The ESA test set-up is based on the set-up described in paragraph 7.2. of IEC 61000-4-5. 4.2. The ESA shall be placed directly on the ground plane. 4.3. The Technical Service shall perform the test as specified in paragraph 7.16.2.1. of this Regulation. Alternatively, if the manufacturer provides measurement from a test laboratory accredited to the applicable parts of ISO 17025 and recognized by the Type Approval Authority, the Technical Service may choose not to perform the test to confirm that the ESA meets the requirements of this annex. 5. Generation of required test level
+5.1. Test methodology
+5.1.1. The test method according to IEC 61000-4-5 shall be used to establish the test level requirements. 5.1.2. Test phase
+The ESA shall be positioned on the ground plane. The electrical surge shall be applied on the ESA on the AC/DC power lines between each line and earth and between lines by using CDN as described in Figures 1 to 4 of Appendix 1 to this annex. The test set-up shall be noted in the test report
+METHOD OF MEASUREMENT OF RADIATED BROADBAND ELECTROMAGNETIC EMISSIONS FROM ELECTRICAL/ELECTRONIC SUB-ASSEMBLIES (ESAS)
+ANNEX 7
+Method of measurement of radiated broadband electromagnetic emissions from electrical/electronic sub-assemblies (ESAs)
+1. General
+1.1. The test method described in this annex may be applied to ESAs, which may be subsequently fitted to vehicles, which comply with Annex 4. This method concerns both kinds of ESA: (a) Other ESAs than involved in 'REESS charging mode coupled to the power grid'. (b) ESAs involved in 'REESS charging mode coupled to the power grid'. 1.2. Test method
+This test is intended to measure broadband electromagnetic emissions from ESAs (e.g. ignition systems, electric motor, onboard battery charging unit, etc.). If not otherwise stated in this annex the test shall be performed according CISPR 25. 2. ESA state during tests
+2.1. The ESA under test shall be in normal operation mode, preferably in maximum load. ESAs involved in 'REESS charging mode coupled to the power grid' shall be in charging mode. The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole frequency range measurement (this may lead to split the measurement in different sub-bands with the need to discharge the vehicle's traction battery before starting the next sub-bands). If the test is not performed with a REESS the ESA should be tested at rated current. If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its nominal value for AC charging. If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its nominal value for DC charging unless another value is agreed with the type approval authorities. 3. Test arrangements
+3.1. For ESA other than involved in 'REESS charging mode coupled to the power grid' the test shall be performed according to the ALSE method described in paragraph 6.4. of CISPR 25. 3.2. For ESAs in configuration 'REESS charging mode coupled to the power grid' the test arrangement shall be according to Figure 2 of the appendix to this annex. 3.2.1. The shielding configuration shall be according to the vehicle series configuration. Generally all shielded High Voltage (HV) parts shall be properly connected with low impedance to ground (e.g. AN, cables, connectors etc.). ESAs and loads shall be connected to ground. The external HV power supply shall be connected via feed-through-filtering. 3.2.2. The ESA power supply lead shall be connected to the power supply through an HV-AN (for ESA with DC HV supply) and/or AMN (for ESA with AC supply). DC HV supply shall be applied to the ESA via a 5 μH/50 Ω HV-AN (see Appendix 8 clause 2). AC supply shall be applied to the ESA via a 50 μH/50 Ω AMN (see Appendix 8 clause 4). 3.2.3. Unless otherwise specified the length of the Low Voltage (LV) harness and the HV harness parallel to the front edge of the ground plane shall be 1,500 mm (±75 mm). The total length of the test harness including the connector shall be 1,700 mm (+300/-0 mm). The distance between the LV harness and the HV harness shall be 100 mm (+100/-0 mm). 3.2.4. All of the harnesses shall be placed on a non-conductive, low relative permittivity material (εr ≤ 1.4), at 50 mm (±5 mm) above the ground plane. 3.2.5. Shielded supply lines for HV+ and HV- line and three phase lines may be coaxial cables or in a common shield depending on the used plug system. The original HV-harness from the vehicle may be used optionally. 3.2.6. Unless otherwise specified, the ESA case shall be connected to the ground plane either directly or via defined impedance. 3.2.7. For onboard chargers, the AC/DC power lines shall be placed the furthest from the antenna (behind LV and HV harness). The distance between the AC/DC power lines and the closest harness (LV or HV) shall be 100 mm (+100/-0 mm). 3.3. Alternative measuring location
+As an alternative to an absorber lined shielded enclosure (ALSE) an open area test site (OATS), which complies with the requirements of CISPR 16-1-4 may be used (see Figure 1 of the appendix to this annex). 3.4. Ambient
+To ensure that there is no extraneous noise or signal of a magnitude sufficient to affect materially the measurement, measurements shall be taken before or after the main test. In this measurement, the extraneous noise or signal shall be at least 6 dB below the limits of interference given in paragraph 6.5.2.1. of this Regulation, except for intentional narrowband ambient transmissions. 4. Test requirements
+4.1. The limits apply throughout the frequency range 30 to 1,000 MHz for measurements performed in an absorber lined shielded enclosure (ALSE) or open area test site (OATS). 4.2. Measurements can be performed with either quasi-peak or peak detectors. The limits given in paragraphs 6.5. and 7.10. of this Regulation are for quasi-peak detectors. If peak detectors are used a correction factor of 20 dB as defined in CISPR 12 shall be applied. 4.3. The measurements shall be performed with a spectrum analyser or a scanning receiver. The parameters to be used are defined in Table 1 and Table 2.
+
+| Frequency range MHz | Peak detector | Peak detector | Quasi-peak detector | Quasi-peak detector | Average detector | Average detector |
+|---|---|---|---|---|---|---|
+| Frequency range MHz | RBW at -3 dB | Minimum scan time | RBW at -6 dB | Minimum scan time | RBW at -3 dB | Minimum scan time |
+| 30 to 1,000 | 100/120 kHz | 100 ms/MHz | 120 kHz | 2 s/MHz | 100/120 kHz | 100 ms/MHz | Note: If a spectrum analyser is used for peak measurements, the video bandwidth shall be at least three times the resolution bandwidth (RBW).
+
+| Frequency range MHz | Peak detector | Peak detector | Peak detector | Quasi-peak detector | Quasi-peak detector | Quasi-peak detector | Average detector | Average detector | Average detector |
+|---|---|---|---|---|---|---|---|---|---|
+| Frequency range MHz | BW at -6 dB | Step size (1) | Minimum dwell time | BW at -6 dB | Ste size (1) | Minimum dwell time | BW at -6 dB | Step size (1) | Minimum dwell time |
+| 30 to 1,000 | 120 kHz | 50 kHz | 5 ms | 120 kHz | 50 kHz | 1 s | 120 kHz | 50 kHz | 5 ms |
+
+Note: For emissions generated by brush commutator motors without an electronic control unit, the maximum step size may be increased up to five times the bandwidth. 4.4. Measurements
+Unless otherwise specified the configuration with the LV harness closer to the antenna shall be tested. The phase centre of the antenna shall be in line with the centre of the longitudinal part of the wiring harnesses for frequencies up to 1,000 MHz. The Technical Service shall perform the test at the intervals specified in the CISPR 12 standard throughout the frequency range 30 to 1,000 MHz. Alternatively, if the manufacturer provides measurement to data for the whole frequency band from a test laboratory accredited to the applicable parts of ISO 17025 and recognized by the Type Approval Authority, the Technical Service may divide the frequency range in 14 frequency bands 30-34, 34-45, 45-60, 60-80, 80-100, 100-130, 130-170, 170-225, 225-300, 300-400, 400-525, 525-700, 700-850 and 850- 1,000 MHz and perform tests at the 14 frequencies giving the highest emission levels within each band to confirm that the ESA meets the requirements of this annex. In the event that the limit is exceeded during the test, investigations shall be made to ensure that this is due to the ESA and not to background radiation. 4.5. Readings
+The maximum of the readings relative to the limit (horizontal/vertical polarization) in each of the 14 frequency bands shall be taken as the characteristic reading at the frequency at which the measurements were made. (1) For purely broadband disturbances, the maximum frequency step size may be increased up to a value not greater than the bandwidth value.
+13.1. Transitional provisions applicable to the 05 series of amendments
+13.1.1. As from 9 October 2014, no Contracting Party applying this UN Regulation shall refuse to grant or refuse to accept UN type-approvals under this UN Regulation as amended by the 05 series of amendments. 13.1.2. As from 9 October 2017, Contracting Parties applying this UN Regulation shall not be obliged to accept UN type-approvals to the preceding series of amendments, first issued after 9 October 2017 or extensions thereof. 13.1.3. Notwithstanding paragraph 13.1.2., Contracting Parties applying the UN Regulation shall continue to accept UN type-approvals issued according to the preceding series of amendments to the UN Regulation, for the vehicle type which are not equipped with a coupling system to charge the REESS, or for component or separate technical unit which doesn't include a coupling part to charge the REESS which are not affected by the changes introduced by the 05 series of amendments
+13.1.4. Contracting Parties applying this UN Regulation shall not refuse to grant UN type-approvals according to any preceding series of amendments to this UN Regulation or extensions thereof.
+8. Amendment or extension of a vehicle type approval following electrical/electronic sub-assembly (ESA) addition or substitution
+8.1. Where a vehicle manufacturer has obtained type approval for a vehicle installation and wishes to fit an additional or substitutional electrical/electronic system or ESA which has already received approval under this Regulation, and which will be installed in accordance with any conditions attached thereto, the vehicle approval may be extended without further testing.
+
+The additional or substitutional electrical/electronic system or ESA shall be considered as part of the vehicle for conformity of production purposes. 8.2. Where the additional or substitution part(s) has (have) not received approval pursuant to this Regulation, and if testing is considered necessary, the whole vehicle shall be deemed to conform if the new or revised part(s) can be shown to conform to the relevant requirements of paragraph 6. and, if applicable, of paragraph 7. or if, in a comparative test, the new part can be shown not to be likely to adversely affect the conformity of the vehicle type. 8.3. The addition by a vehicle manufacturer to an approved vehicle of standard domestic or business equipment, other than mobile communication equipment, which conforms to other Regulations, and the installation, substitution or removal of which is according to the recommendations of the equipment and vehicle manufacturers, shall not invalidate the vehicle approval. This shall not preclude vehicle manufacturers fitting communication equipment in accordance with suitable installation guidelines developed by the vehicle manufacturer and/or manufacturer(s) of such communication equipment. The vehicle manufacturer shall provide evidence (if requested by the test authority) that vehicle performance is not adversely affected by such transmitters. This can be a statement that the power levels and installation are such that the immunity levels of this Regulation offer sufficient protection when subject to transmission alone i.e. excluding transmission in conjunction with the tests specified in paragraph 6. This Regulation does not authorize the use of a communication transmitter when other requirements on such equipment or its use apply.
+6.4. Specifications concerning immunity of vehicles to electromagnetic radiation
+6.3.1. Method of measurement
+The electromagnetic radiation generated by the vehicle representative of its type shall be measured using the method described in Annex 5.
+
+These shall be defined by the vehicle manufacturer in accordance with the Technical Service.
+6.2. Specifications concerning broadband electromagnetic radiation from vehicles
+4.3. Approval, or refusal of approval, of a type of vehicle or ESA in accordance with this Regulation shall be notified to the Parties to the Agreement applying this Regulation on a form conforming to the model in Annex 3A or 3B to this Regulation, accompanied by photographs and/or diagrams or drawings on an appropriate scale supplied by the applicant in a format not larger than A4 (210 × 297 mm) or folded to those dimensions.
+3.2. ESA type approval
+3.2.1. Applicability of this Regulation to ESA:
+
+{{IMAGE:Image_0, Caption:Flowchart illustrating the classification process for Electrical/Electronic Sub-Assemblies (ESA) to determine the applicability of Regulation No. 10 based on fitment, function, and connection characteristics.}} 3.2.2. The application for approval of a type of ESA with regard to its electromagnetic compatibility shall be submitted by the vehicle manufacturer or by the manufacturer of the ESA. 3.2.3. A model of information document is shown in Annex 2B. 3.2.4. The manufacturer may supplement the application with a report on tests which have been carried out. Any such data provided may be used by the Type Approval Authority for the purpose of drawing up the communication form for type approval. 3.2.5. If the Technical Service responsible for the type approval test carries out the test itself, then a sample of the ESA system representative of the type to be approved shall be provided, if necessary, after discussion with the manufacturer on, e.g. possible variations in the layout, number of components, number of sensors. If the Technical Service deems it necessary, it may select a further sample. 3.2.6. The sample(s) shall be clearly and indelibly marked with the manufacturer's trade name or mark and the type designation. 3.2.7. Where applicable, any restrictions on use should be identified. Any such restrictions should be included in Annexes 2B and/or 3B. 3.2.8. ESA which are brought to the market as spare parts need no type approval if they are obviously marked as a spare part by an identification number and if they are identical and from the same manufacturer as the corresponding Original Equipment Manufacturer (OEM) part for an already type approved vehicle. 3.2.9. Components sold as aftermarket equipment and intended for the installation in motor vehicles need no type approval if they are not related to immunity related functions (see paragraph 2.12.). In this case a declaration shall be issued by the manufacturer that the ESA fulfils the requirements of this Regulation and in particular the limits defined in paragraphs 6.5., 6.6., 6.7., 6.8. and 6.9. of this Regulation. 3.2.10. In case of an ESA is (part of) a light source, the applicant shall: (a) Specify the approval number according to Regulation No. 37, Regulation No. 99 or Regulation No. 128, granted to this ESA; or
+(b) Provide a test report by a Technical Service designated by the Type Approval Authority, stating that this ESA is not mechanically interchangeable with any light source according to Regulation No. 37, Regulation No. 99 or Regulation No. 128.
+2. Definitions
+For the purposes of this Regulation:
+
+2.1. 'Electromagnetic compatibility' means the ability of a vehicle or component(s) or separate technical unit(s) to function satisfactorily in its electromagnetic environment without introducing intolerable electromagnetic disturbances to anything in that environment. 2.2. 'Electromagnetic disturbance' means any electromagnetic phenomenon which may degrade the performance of a vehicle or component(s) or separate technical unit(s), or of any other device, unit of equipment or system operated in vicinity of a vehicle. An electromagnetic disturbance may be electromagnetic noise, an unwanted signal or a change in the propagation medium itself. 2.3. 'Electromagnetic immunity' means the ability of a vehicle or component(s) or separate technical unit(s) to operate without degradation of performance in the presence of (specified) electromagnetic disturbances which includes wanted radio frequency signals from radio transmitters or radiated in-band emissions of industrial-scientific-medical (ISM) apparatus, internal or external to the vehicle. 2.4. 'Electromagnetic environment' means the totality of electromagnetic phenomena existing at a given location. 2.5. 'Broadband emission' means an emission, which has a bandwidth greater than that of a particular measuring apparatus or receiver (International Special Committee on Radio Interference (CISPR) 25). 2.6. 'Narrowband emission' means an emission which has a bandwidth less than that of a particular measuring apparatus or receiver (CISPR 25). 2.7. 'Electrical/electronic system' means (an) electrical and/or electronic device(s) or set(s) of devices together with any associated electrical connections which form part of a vehicle but which are not intended to be type approved separately from the vehicle. 2.8. 'Electrical/electronic sub-assembly' (ESA) means an electrical and/or electronic device or set(s) of devices intended to be part of a vehicle, together with any associated electrical connections and wiring, which performs one or more specialized functions. An ESA may be approved at the request of a manufacturer or his authorized representative as either a 'component' or a 'separate technical unit (STU)'. 2.9. 'Vehicle type' in relation to electromagnetic compatibility includes all vehicles, which do not differ essentially in such respects as: 2.9.1. The overall size and shape of the engine compartment; 2.9.2. The general arrangement of the electrical and/or electronic components and the general wiring arrangement; 2.9.3. The primary material of which the body or shell of the vehicle is constructed (for example, a steel, aluminium or fiberglass body shell). The presence of panels of different material does not change the vehicle type provided the primary material of the body is unchanged. However, such variations shall be notified. 2.10. An 'ESA type' in relation to electromagnetic compatibility means ESAs, which do not differ in such essential respects as: 2.10.1. The function performed by the ESA; 2.10.2. The general arrangement of the electrical and/or electronic components, if applicable. 2.11. 'Vehicle wiring harness' means supply voltage, bus system (e.g. CAN), signal or active antenna cables, which are installed by the vehicle manufacturer. 2.12. 'Immunity related functions' are the following functions; this list is not exhaustive and shall be adapted to the technical evolution of vehicle/technology: (a) Functions related to the direct control of the vehicle: (i) By degradation or change in: e.g. engine, gear, brake, suspension, active steering, speed limitation devices; (ii) By affecting drivers position: e.g. seat or steering wheel positioning; (iii) By affecting driver's visibility: e.g. dipped beam, windscreen wiper, indirect vision systems, blind spot systems. (b) Functions related to driver, passenger and other road user protection: (i) E.g. airbag and safety restraint systems, emergency calling systems; (c) Functions which, when disturbed, cause confusion to the driver or other road users: (i) Optical disturbances: incorrect operation of e.g. direction indicators, stop lamps, end outline marker lamps, rear position lamp, light bars for emergency system, wrong information from warning indicators, lamps or displays related to functions in subparagraphs (a) or (b) which might be observed in the direct view of the driver; (ii) Acoustical disturbances: incorrect operation of e.g. anti-theft alarm, horn. (d) Functions related to vehicle data bus functionality: (i) By blocking data transmission on vehicle data bus-systems, which are used to transmit data, required to ensure the correct functioning of other immunity related functions. (e) Functions which when disturbed affect vehicle statutory data: e.g. tachograph, odometer; (f) Function related to charging mode when coupled to the power grid: (i) For vehicle test: by leading to unexpected vehicle motion; (ii) For ESA test: by leading to an incorrect charging condition (e.g. over-current, over-voltage). 2.13. 'REESS' means the rechargeable energy storage system that provides electric energy for electric propulsion of the vehicle. 2.14. 'Coupling system for charging the REESS' means the electrical circuit installed in the vehicle used for charging the REESS. 2.15. 'REESS charging mode coupled to the power grid' means the normal charging operation mode of the vehicle and/or charging system. 2.16. 'Mode 1 Charging Mode' means charging mode as defined in IEC 61851-1 sub-clause 6.2.1 where the vehicle is connected directly to AC mains without any communication between the vehicle and the charging station and without any supplementary pilot or auxiliary contacts. In some countries Mode 1 charging may be prohibited or requires special pre-cautions. 2.17. 'Mode 2 Charging Mode' means charging mode as defined in IEC 61851-1 sub-clause 6.2.2 where the vehicle is connected to AC mains using a charging harness including an Electric Vehicle Supply Equipment (EVSE) box providing control pilot signalling between the vehicle and the EVSE box and personal protection against electric shock. In some countries, special restrictions have to be applied for mode 2 charging. There is no communication between the vehicle and the AC supply network (mains). 2.18. 'Mode 3 Charging Mode' means charging mode as defined in IEC 61851-1 sub-clause 6.2.3 where the vehicle is connected to an EVSE (e.g charging station, wallbox) providing AC power to the vehicle with communication between the vehicle and the charging station (through signal/control lines and/or through wired network lines). 2.19. 'Mode 4 Charging Mode' means charging mode as defined in IEC 61851-1 sub-clause 6.2.4 where the vehicle is connected to an EVSE providing DC power to the vehicle (with an off-board charger) with communication between the vehicle and the charging station (through signal/control lines and/or through wired network lines)
+2.20. 'Signal/control port' means port intended for the interconnection of components of an ESA, or between an ESA and local AE (Ancillary Equipment) and used in accordance with relevant functional specifications (for example for the maximum length of cable connected to it). Examples include RS-232, Universal Serial Bus (USB), High-Definition Multimedia Interface (HDMI), IEEE Standard 1394 ('Fire Wire'). For vehicle in charging mode this includes Control Pilot signal, PLC technology used on Control Pilot signal line, CAN. 2.21. 'Wired network port' means port for the connection of voice, data and signaling transfers intended to interconnect widely dispersed systems by direct connection to a single-user or multi-user communication network. Examples of these include CATV, PSTN, ISDN, xDSL, LAN and similar networks. These ports may support screened or unscreened cables and may also carry AC or DC power where this is an integral part of the telecommunication specification. 2.22.
+METHOD OF TESTING FOR IMMUNITY OF VEHICLES TO SURGES CONDUCTED ALONG AC AND DC POWER LINES
+ANNEX 16
+Method of testing for immunity of vehicles to surges conducted along AC and DC power lines
+1. General
+1.1. The test method described in this annex shall only be applied to vehicles. This method concerns only the configuration of the vehicle with 'REESS charging mode coupled to the power grid'. 1.2. Test method
+This test is intended to demonstrate the immunity of the vehicle electronic systems. The vehicle shall be subject to surges conducted along AC and DC power lines of the vehicle as described in this annex. The vehicle shall be monitored during the tests. If not otherwise stated in this annex the test shall be performed according to IEC 61000-4-5 for lightning transients (clause 4.2)
+2. Vehicle state during tests in configuration 'REESS in charging mode coupled to the power grid' 2.1. The vehicle shall be in an unladen condition except for necessary test equipment. 2.1.1. The vehicle shall be immobilized, the engine(s) (ICE and / or electrical engine) shall be OFF and in charging mode. 2.1.2. Basic vehicle conditions
+The paragraph defines minimum test conditions (as far as applicable) and failures criteria for vehicle immunity tests. Other vehicle systems, which can affect immunity related functions, shall be tested in a way to be agreed between manufacturer and Technical Service.
+
+| 'REESS charging mode' vehicle test conditions | Failure criteria |
+|---|---|
+| The REESS shall be in charging mode. The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole time duration of the measurement (this may lead to the measurement being split into different time slots with the need to discharge the vehicle's traction battery before starting the next time slot). If the current consumption can be adjusted, then the current shall be set to at least 20 per cent of its nominal value. In case of multiple batteries the average state of charge must be considered. | Vehicle sets in motion Unexpected release of the parking brake. Loss of Parking position for automatic transmission. |
+
+2.1.3. All other equipment which can be switched ON by the driver or passengers shall be OFF. 2.2. Only non-perturbing equipment shall be used while monitoring the vehicle. The vehicle exterior and the passenger compartment shall be monitored to determine whether the requirements of this annex are met (e.g. by using (a) video camera(s), a microphone, etc.). 3. Test equipment
+3.1. The test equipment is composed of a reference ground plane (a shielded room is not required), a surge generator and a Coupling/Decoupling Network (CDN). 3.2. The surge generator shall meet the condition defined in paragraph 6.1. of IEC 61000-4-5. 3.3. The Coupling/Decoupling Network shall meet the condition defined in paragraph 6.3. of IEC 61000-4-5. 4. Test setup
+4.1. The vehicle test setup is based on the setup described in paragraph 7.2. of IEC 61000-4-5. 4.2. The vehicle shall be placed directly on the ground plane. 4.3. The Technical Service shall perform the test as specified in paragraph 7.9.2.1. of this Regulation. Alternatively, if the manufacturer provides measurement from a test laboratory accredited to the applicable parts of ISO 17025 and recognized by the Type Approval Authority, the Technical Service may choose not to perform the test to confirm that the vehicle meets the requirements of this annex. 5. Generation of required test level
+5.1. Test methodology
+5.1.1. The test method according to IEC 61000-4-5 shall be used to establish the test level requirements. 5.1.2. Test phase
+The vehicle shall be positioned on the ground plane. The electrical surge shall be applied on the vehicle on the AC/DC power lines between each line and earth and between lines by using CDN as described in Figures 1a to 1d of Appendix 1 to this annex,
+The test setup shall be noted in the test report.
+METHOD(S) OF TESTING FOR EMISSION OF RADIOFREQUENCY CONDUCTED DISTURBANCES ON AC OR DC POWER LINES FROM AN ESA
+ANNEX 19
+Method(s) of testing for emission of radiofrequency conducted disturbances on AC or DC power lines from an ESA
+1. General
+1.1. The test method described in this annex shall be applied to ESAs in configuration 'REESS charging mode coupled to the power grid'. 1.2. Test method
+This test is intended to measure the level of radio frequency conducted disturbances generated by ESA in configuration 'REESS charging mode coupled to the power grid' through its AC or DC power lines in order to ensure it is compatible with residential, commercial and light industrial environments. If not otherwise stated in this annex the test shall be performed according to CISPR 16-2-1. 2. ESA state during tests
+2.1. The ESA shall be in configuration 'REESS charging mode coupled to the power grid'. The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole frequency range measurement (this may lead to split the measurement in different sub-bands with the need to discharge the vehicle's traction battery before starting the next sub-bands). If the test is not performed with a REESS the ESA should be tested at rated current. If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its nominal value for AC charging. If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its nominal value for DC charging unless another value is agreed with the type approval authorities. 3. Test arrangements
+3.1. The artificial network(s) to be used for the measurement on vehicle are
+(a) The AMN(s) defined in Appendix 8 clause 4 for AC power lines; (b) The DC-charging-AN(s) defined in Appendix 8 clause 3 for DC power lines. Artificial networks
+The AMN(s)/DC-charging-AN(s) shall be mounted directly on the ground plane. The cases of the AMN(s)/DC-charging-AN(s) shall be bonded to the ground plane. The conducted emissions on AC and DC power lines are measured successively on each power line by connecting the measuring receiver on the measuring port of the related AMN/DC-charging-AN. The measuring port of the AMN/DC-charging-AN inserted in the other power lines shall be terminated with a 50 Ω load. The AMN(s)/DC-charging-AN(s) shall be placed in front, aligned and on the same side of the vehicle power charging plug. 16-1-4 may be used. 3.2. Measuring location
+A shielded enclosure or an absorber lined shielded enclosure (ALSE) or an open area test site (OATS) which complies with the requirements of CISPR 16-1-4 may be used. 3.3. The test set-up (floor-standing equipment) for the connection of the ESAs in configuration 'REESS charging mode coupled to the power grid' is shown in Figure 1 of Appendix 1 to this annex. 3.4. The measurements shall be performed with a spectrum analyser or a scanning receiver.
+
+| Frequency range MHz | Peak detector | Peak detector | Quasi-peak detector | Quasi-peak detector | Average detector | Average detector |
+|---|---|---|---|---|---|---|
+| Frequency range MHz | RBW at -3 dB | Minimum scan time | RBW at -6 dB | Minimum scan time | RBW at -3 dB | Minimum scan time |
+| 0.15 to 30 | 9/10 kHz | 10 s/MHz | 9 kHz | 200 s/MHz | 9/10 kHz | 10 s/MHz |
+
+| Frequency range MHz | Peak detector | Peak detector | Peak detector | Quasi-peak detector | Quasi-peak detector | Quasi-peak detector | Average detector | Average detector | Average detector |
+|---|---|---|---|---|---|---|---|---|---|
+| Frequency range MHz | BW at -6 dB | Step size | Minimum dwell time | BW at -6 dB | Step size | Minimum dwell time | BW at -6 dB | Step size | Minimum dwell time |
+| 0.15 to 30 | 9 kHz | 5 kHz | 50 ms | 9 kHz | 5 kHz | 1 s | 9 kHz | 5 kHz | 50 ms |
+
+4. Test Requirements
+4.1. The limits apply throughout the frequency range 0.15 to 30 MHz for measurements performed in a shielded enclosure or an absorber lined shielded enclosure (ALSE) or an open area test site (OATS). 4.2. Measurements shall be performed with average and either quasi-peak or peak detectors. The limits are given in Table 14 of paragraph 7.13.2.1. of this Regulation for AC lines and in Table 15 of paragraph 7.13.2.2. of this Regulation for DC lines. If peak detectors are used a correction factor of 20 dB as defined in CISPR 12 shall be applied.
+6.5.1. Method of measurement
+The electromagnetic radiation generated by the ESA representative of its type shall be measured by the method described in Annex 7.
+6.4.2. Vehicle immunity type approval limits
+6.4.2.1. If tests are made using the method described in Annex 6, the field strength shall be 30 volts/m rms (root mean squared) in over 90 per cent of the 20 to 2,000 MHz frequency band and a minimum of 25 volts/m rms over the whole 20 to 2,000 MHz frequency band.
+
+6.4.2.2. The vehicle representative of its type shall be considered as complying with immunity requirements if, during the tests performed in accordance with Annex 6, there shall be no degradation of performance of 'immunity related functions', according to paragraph 2.1. of Annex 6.
+6.2.2. Vehicle broadband type approval limits
+6.2.2.1. If measurements are made using the method described in Annex 4 using a vehicle-to-antenna spacing of 10.0 ± 0.2 m, the limits shall be 32 dB microvolts/m in the 30 to 75 MHz frequency band and 32 to 43 dB microvolts/m in the 75 to 400 MHz frequency band, this limit increasing logarithmically with frequencies above 75 MHz as shown in Appendix 2 to this Regulation.
+
+In the 400 to 1,000 MHz frequency band the limit remains constant at 43 dB microvolts/m.
+6.2.2.2. If measurements are made using the method described in Annex 4 using a vehicle-to-antenna spacing of 3.0 ± 0.05 m, the limits shall be 42 dB microvolts/m in the 30 to 75 MHz frequency band and 42 to 53 dB microvolts/m in the 75 to 400 MHz frequency band, this limit increasing logarithmically with frequencies above 75 MHz as shown in Appendix 3 to this Regulation. In the 400 to 1,000 MHz frequency band the limit remains constant at 53 dB microvolts/m.
+6.2.2.3. On the vehicle representative of its type, the measured values, expressed in dB microvolts/m shall be below the type approval limits.
+6. Specification in configurations other than REESS charging mode coupled to the power grid
+4.1. Type approval procedures
+4.1.1. Type approval of a vehicle
+The following alternative procedures for vehicle type approval may be used at the discretion of the vehicle manufacturer.
+
+4.1.1.1. Approval of a vehicle installation
+A vehicle installation may be type approved directly by following the provisions laid down in paragraph 6. and, if applicable, in paragraph 7. of this Regulation. If this procedure is chosen by a vehicle manufacturer, no separate testing of electrical/electronic systems or ESAs is required. 4.1.1.2. Approval of vehicle type by testing of individual ESAs. A vehicle manufacturer may obtain approval for the vehicle by demonstrating to the Type Approval Authority that all the relevant (see para. 3.1.3. of this Regulation) electrical/electronic systems or ESAs have been approved in accordance with this Regulation and have been installed in accordance with any conditions attached thereto. 4.1.1.3. A manufacturer may obtain approval according to this Regulation if the vehicle has no equipment of the type, which is subject to immunity or emission tests. Such approvals do not require testing. 4.1.2. Type approval of an ESA
+Type approval may be granted to an ESA to be fitted either to any vehicle type (component approval) or to a specific vehicle type or types requested by the ESA manufacturer (separate technical unit approval). 4.1.3. ESAs, which are intentional RF transmitters, which have not received type approval in conjunction with a vehicle manufacturer, shall be supplied with suitable installation guidelines.
+3. Application for approval
+METHOD OF MEASUREMENT OF RADIATED BROADBAND ELECTROMAGNETIC EMISSIONS FROM VEHICLES
+ANNEX 4
+Method of measurement of radiated broadband electromagnetic emissions from vehicles
+1. General
+1.1. The test method described in this annex shall only be applied to vehicles.
+
+This method concerns both configurations of the vehicle: (a) Other than 'REESS charging mode coupled to the power grid'; (b) 'REESS charging mode coupled to the power grid'. 1.2. Test method
+This test is intended to measure the broadband emissions generated by electrical or electronic systems fitted to the vehicle (e.g. ignition system or electric motors). If not otherwise stated in this annex the test shall be performed according to CISPR 12. 2. Vehicle state during tests
+2.1. Vehicle in configuration other than 'REESS charging mode coupled to the power grid'. 2.1.1. Engine
+The engine shall be in operation according to CISPR 12. For vehicle with an electric propulsion motor or hybrid propulsion system, if this is not appropriate (e.g. in case of busses, trucks, two- and three wheel vehicles), transmission shafts, belts or chains may be disconnected to achieve the same operation condition for the propulsion. 2.1.2. Other vehicle systems
+All equipment capable of generating broadband emissions which can be switched on permanently by the driver or passenger should be in operation in maximum load, e.g. wiper motors or fans. The horn and electric window motors are excluded because they are not used continuously. 2.2. Vehicle in configuration 'REESS charging mode coupled to the power grid'. The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole frequency range measurement (this may lead to splitting the measurement into different sub-bands with the need to discharge the vehicle's traction battery before starting the next sub-bands). If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its nominal value for AC charging. If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its nominal value for DC charging unless another value is agreed with the type approval authorities. In case of multiple batteries the average state of charge must be considered. The vehicle shall be immobilized, the engine(s) (ICE and / or electrical engine) shall be OFF and in charging mode. All other equipment which can be switched ON by the driver or passengers shall be OFF. The test set-up for the connection of the vehicle in configuration 'REESS charging mode coupled to the power grid' is shown in Figures 3a to 3h (depending of AC or DC power charging mode, location of charging plug and charging with or without communication) of Appendix 1 to this annex. 2.3. Vehicle in charging mode 1 or mode 2 (AC power charging without communication). 2.3.1. Charging station / Power mains
+The power mains socket can be placed anywhere in the test site with the following conditions: —
+The socket(s) shall be placed on the ground plane (ALSE) or floor (OTS); —
+The length of the harness between the power mains socket and the AMN(s) shall be kept as short as possible, but not necessarily aligned with the charging harness; —
+The harness shall be placed as close as possible to the ground plane (ALSE) or floor (OTS). 2.3.2. Artificial network
+Power mains shall be applied to the vehicle through 50 μH/50 Ω artificial networks (AMN(s)) (see appendix 8 clause 4). The AMN(s) shall be mounted directly on the ground plane (ALSE) or floor (OTS). The case of the AMN(s) shall be bonded to the ground plane (ALSE) or connected to the protective earth (OTS, e.g. an earth rod). The measuring port of each AMN shall be terminated with a 50 Ω load. 2.3.3. Power charging harness
+The power charging harness shall be placed in a straight line between the AMN(s) and the vehicle charging plug and shall be routed perpendicularly to the vehicle longitudinal axis (see Figure 3d and Figure 3c). The projected harness length from the side of the AMN(s) to the side of the vehicle shall be 0,8 (+0,2 / -0) m as shown in Figure 3d and Figure 3e. For a longer harness the extraneous length shall be 'Z-folded' in a less than 0,5 m width approximately around the middle of the AMN to vehicle distance. If it is impractical to do so because of harness bulk or stiffness, or because the testing is being done at a user's installation, the disposition of the excess harness shall be precisely noted in the test report. The charging harness at the vehicle side shall hang vertically at a distance of 100 (+200 / -0) mm from the vehicle body. The whole harness shall be placed on a non-conductive, low relative permittivity (dielectric-constant) material (εr ≤ 1,4), at (100 ± 25) mm above the ground plane (ALSE) or floor (OTS). 2.4. Vehicle in charging mode 3 (AC power charging with communication) or mode 4 (DC power charging with communication). 2.4.1. Charging station / Power mains
+The charging station may be placed either in the test site or outside the test site. If the local/private communication between the vehicle and the charging station can be simulated, the charging station may be replaced by a supply from the AC power mains network. In both cases power mains and communication or signal lines socket(s) shall be placed in the test site with the following conditions: —
+The socket(s) shall be placed on the ground plane (ALSE) or floor (OTS); —
+The length of the harness between the power mains / local/private communication socket and the AMN(s) / DC-charging-AN(s) / AAN(s) shall be kept as short as possible, but not necessarily aligned with the charging harness; —
+The harness between the power mains / local/private communication socket and the AMN(s) / DC-charging-AN(s) / AAN(s) shall be placed as close as possible of the ground plane (ALSE) or floor (OTS). If the charging station is placed inside the test site, then the harness between the charging station and the power mains / local/private communication socket shall satisfy the following conditions: —
+The harness at charging station side shall hang vertically down to the ground plane (ALSE) or floor (OTS); —
+The extraneous length shall be placed as close as possible to the ground plane (ALSE) or floor (OTS) and 'Z-folded' if necessary. If it is impractical to do so because of cable bulk or stiffness, or because the testing is being done at a user installation, the disposition of the excess cable shall be precisely noted in the test report. The charging station should be placed outside of the 3 dB beamwidth of the receiving antenna. If this is not technically feasible, the charging station can be placed behind a panel of absorbers but not between the antenna and the vehicle. 2.4.2. Artificial network
+AC power mains shall be applied to the vehicle through 50 μH/50 Ω AMN(s) (see Appendix 8, clause 4). DC power mains shall be applied to the vehicle through 5 μH/50 Ω High Voltage Artificial Networks (DC-charging-AN(s)) (see Appendix 8, clause 3). The AMN(s) / DC-charging-AN(s) shall be mounted directly on the ground plane (ALSE) or floor (OTS). The cases of the AMN(s) / DC-charging-AN(s) shall be bonded to the ground plane (ALSE) or connected to the protective earth (OTS, e.g. an earth rod). The measuring port of each AMN / DC-charging-AN shall be terminated with a 50 Ω load. 2.4.3. Asymmetric artificial network
+Local/private communication lines connected to signal/control ports and lines connected to wired network ports shall be applied to the vehicle through AAN(s). The various AAN(s) to be used are defined in Appendix 8, clause 5: —
+Clause 5.1 for signal/control port with symmetric lines; —
+Clause 5.2 for wired network port with PLC on power lines; —
+Clause 5.3 for signal/control port with PLC (technology) on control pilot; and
+—
+Clause 5.4 for signal/control port with control pilot. The AAN(s) shall be mounted directly on the ground plane.
+7.6. Specifications concerning emission of radiofrequency conducted disturbances on wired network port from vehicles
+7.4.2. Vehicle type approval limit
+7.4.2.1. If measurements are made using the method described in Annex 12, the limits for rated current ≤ 16 A per phase and not subjected to conditional connection are those defined in IEC 61000-3-3, paragraph 5:
+
+—
+The value of Pst shall not be greater than 1.0; —
+The value of Plt shall not be greater than 0.65; —
+The value of d(t) during a voltage change shall not exceed 3.3 per cent for more than 500 ms; —
+The relative steady-state voltage change, dc, shall not exceed 3.3 per cent; —
+The maximum relative voltage change dmax, shall not exceed 6 per cent. 7.4.2.2. If measurements are made using the method described in Annex 12, the limits for rated current > 16 A and ≤ 75 A per phase and subjected to conditional connection are those defined in IEC 61000-3-11, paragraph 5: —
+The value of Pst shall not be greater than 1.0; —
+The value of Plt shall not be greater than 0.65; —
+The value of d(t) during a voltage change shall not exceed 3.3 per cent for more than 500 ms; —
+The relative steady-state voltage change, dc, shall not exceed 3.3 per cent; —
+The maximum relative voltage change dmax, shall not exceed 6 per cent.
+6.5.2. ESA broadband type approval limits
+6.5.2.1. If measurements are made using the method described in Annex 7, the limits shall be 62 to 52 dB microvolts/m in the 30 to 75 MHz frequency band, this limit decreasing logarithmically with frequencies above 30 MHz, and 52 to 63 dB microvolts/m in the 75 to 400 MHz band, this limit increasing logarithmically with frequencies above 75 MHz as shown in Appendix 6 to this Regulation.
+
+In the 400 to 1,000 MHz frequency band the limit remains constant at 63 dB microvolts/m.
+6.5.2.2. On the ESA representative of its type, the measured values, expressed in dB microvolts/m, shall be below the type approval limits.
+6.6.2. ESA narrowband type approval limits
+6.6.2.1. If measurements are made using the method described in Annex 8, the limits shall be 52 to 42 dB microvolts/m in the 30 to 75 MHz frequency band, this limit decreasing logarithmically with frequencies above 30 MHz, and 42 to 53 dB microvolts/m in the 75 to 400 MHz band, this limit increasing logarithmically with frequencies above 75 MHz as shown in Appendix 7.
+
+In the 400 to 1,000 MHz frequency band the limit remains constant at 53 dB microvolts/m.
+6.6.2.2. On the ESA representative of its type, the measured value, expressed in dB microvolts/m shall be below the type approval limits.
+6.8.1. Method(s) of testing
+The immunity to electromagnetic radiation of the ESA representative of its type shall be tested by the method(s) chosen from those described in Annex 9.
+6.10. Exceptions
+6.10.1. Where a vehicle or electrical/electronic system or ESA does not include an electronic oscillator with an operating frequency greater than 9 kHz, it shall be deemed to comply with paragraph 6.3.2. or 6.6.2. and with Annexes 5 and 8. 6.10.2. Vehicles which do not have electrical/electronic systems with 'immunity related functions' need not be tested for immunity to radiated disturbances and shall be deemed to comply with paragraph 6.4. and with Annex 6 to this Regulation. 6.10.3. ESAs with no immunity related functions need not be tested for immunity to radiated disturbances and shall be deemed to comply with paragraph 6.8. and with Annex 9 to this Regulation. 6.10.4. Electrostatic discharge
+For vehicles fitted with tyres, the vehicle body/chassis can be considered to be an electrically isolated structure. Significant electrostatic forces in relation to the vehicle's external environment only occur at the moment of occupant entry into or exit from the vehicle. As the vehicle is stationary at these moments, no type approval test for electrostatic discharge is deemed necessary. 6.10.5. Emission of transient conducted disturbances generated by ESAs on 12/24 V supply lines. ESAs that are not switched, contain no switches or do not include inductive load need not be tested for transient conducted emission and shall be deemed to comply with paragraph 6.7. 
+6.10.6. The loss of function of receivers during the immunity test, when the test signal is within the receiver bandwidth (RF exclusion band) as specified for the specific radio service/product in the harmonized international EMC standard, does not necessarily lead to fail criteria. 6.10.7. RF transmitters shall be tested in the transmit mode. Wanted emissions (e.g. from RF transmitting systems) within the necessary bandwidth and out of band emissions are disregarded for the purpose of this Regulation. Spurious emissions are subject to this Regulation. 6.10.7.1. 'Necessary bandwidth': For a given class of emission, the width of the frequency band which is just sufficient to ensure the transmission of information at the rate and with the quality required under specified conditions (Article 1, No. 1.152 of the International Telecommunication Union (ITU) Radio Regulations). 6.10.7.2. 'Out-of-band Emissions': Emission on a frequency or frequencies immediately outside the necessary bandwidth which results from the modulation process, but excluding spurious emissions (Article 1, No. 1.144 of the ITU Radio Regulations). 6.10.7.3. 'Spurious emission': In every modulation process additional undesired signals exist. They are summarized under the expression 'spurious emissions'. Spurious emissions are emissions on a frequency or frequencies, which are outside the necessary bandwidth and the level of which may be reduced without affecting the corresponding transmission of information. Spurious emissions include harmonic emissions, parasitic emissions, intermodulation products and frequency conversion products, but exclude out-of-band emissions (Article 1 No. 1.145 of the ITU Radio Regulations).
+7.3.2. Vehicle type approval limit
+7.3.2.1. If measurements are made using the method described in Annex 11, the limits for input current ≤ 16 A per phase are those defined in IEC 61000-3-2 and given in Table 3. Table 3
+Maximum allowed harmonics (input current ≤ 16 A per phase)
+Harmonic number n
+Maximum authorized harmonic current A
+Odd harmonics
+3
+2.3
+5
+1.14
+7
+0.77
+9
+0.40
+11
+0.33
+13
+0.21
+15 ≤ n ≤ 39
+0.15×15/n
+Even harmonics
+2
+1.08
+4
+0.43
+6
+0.30
+8 ≤ n ≤ 40
+0.23×8/n
+7.3.2.2. If measurements are made using the method described in Annex 11, the limits for input current > 16 A and ≤ 75 A per phase are those defined in IEC 61000-3-12, and given in given in Table 4, Table 5 and Table 6. Table 4
+Maximum allowed harmonics (input current > 16 A and ≤ 75 A per phase) for single phase or other than balanced three-phase equipment
+Minimum Rsce
+Acceptable individual harmonic current In/I1 %
+Maximum current harmonic ratio %
+I3
+I5
+I7
+I9
+I11
+I13
+THD
+PWHD
+33
+21.6
+10.7
+7.2
+3.8
+3.1
+2
+23
+23
+66
+24
+13
+8
+5
+4
+3
+26
+26
+120
+27
+15
+10
+6
+5
+4
+30
+30
+250
+35
+20
+13
+9
+8
+6
+40
+40
+≥ 350
+41
+24
+15
+12
+10
+8
+47
+47
+Relative values of even harmonics lower or equal to 12 shall be lower than 16/n %.
+
+Even harmonics greater than 12 are taken into account in the Total Harmonic Distorsion (THD) and Partial Weighted Harmonic Distorsion (PWHD) the same way than odd harmonics. Linear interpolation between successive values of Short Circuit Ratio of an Equipment (Rsce) is authorized. Table 5
+Maximum allowed harmonics (input current > 16 A and ≤ 75 A per phase) for balanced three-phase equipment
+Minimum Rsce
+Acceptable individual harmonic current In/I1 %
+Maximum current harmonic ratio %
+I5
+I7
+I11
+I13
+THD
+PWHD
+33
+10.7
+7.2
+3.1
+2
+13
+22
+66
+14
+9
+5
+3
+16
+25
+120
+19
+12
+7
+4
+22
+28
+250
+31
+20
+12
+7
+37
+38
+≥ 350
+40
+25
+15
+10
+48
+46
+Relative values of even harmonics lower or equal to 12 shall be lower than 16/n %. Even harmonics greater than 12 are taken into account in the THD and PWHD the same way than odd harmonics. Linear interpolation between successive values of Rsce is authorized. Table 6
+Maximum allowed harmonics (input current > 16 A and ≤ 75 A per phase) for balanced three-phase equipment under specific conditions
+Minimum Rsce
+Acceptable individual harmonic current In/I1 %
+Maximum current harmonic ratio %
+I5
+I7
+I11
+I13
+THD
+PWHD
+33
+10.7
+7.2
+3.1
+2
+13
+22
+≥ 120
+40
+25
+15
+10
+48
+46
+Relative values of even harmonics lower or equal to 12 shall be lower than 16/n %. Even harmonics greater than 12 are taken into account in the THD and PWHD the same way than odd harmonics
+7.5. Specifications concerning emission of radiofrequency conducted disturbances on AC or DC power lines from vehicles
+7.6.1. Method of measurement
+The emission of radiofrequency conducted disturbances on wired network port generated by the vehicle representative of its type shall be measured using the method described in Annex 14.
+
+The method of measurement shall be defined by the vehicle manufacturer in accordance with the Technical Service.
+7.7.2. Vehicle immunity type approval limits
+7.7.2.1. If tests are made using the method described in Annex 6, the field strength shall be 30 volts/m rms (root mean squared) in over 90 per cent of the 20 to 2,000 MHz frequency band and a minimum of 25 volts/m rms over the whole 20 to 2,000 MHz frequency band.
+
+7.7.2.2. The vehicle representative of its type shall be considered as complying with immunity requirements if, during the tests performed in accordance with Annex 6, there shall be no degradation of performance of 'immunity related functions', according to paragraph 2.2. of Annex 6.
+7.9. Specifications concerning the immunity of vehicles to surge conducted along AC or DC power lines.
+7.10.1. Method of measurement
+The electromagnetic radiation generated by the ESA representative of its type shall be measured by the method described in Annex 7.
+7.11.2. ESA type approval limit
+7.11.2.1. If measurements are made using the method described in Annex 17, the limits for input current ≤ 16 A per phase are those defined in IEC 61000-3-2 and given in Table 10.
+
+Table 10
+Maximum allowed harmonics (input current ≤ 16 A per phase)
+Harmonic number n
+Maximum authorized harmonic current A
+Odd harmonics
+3
+2.3
+5
+1.14
+7
+0.77
+9
+0.40
+11
+0.33
+13
+0.21
+15 ≤ n ≤ 39
+0.15×15/n
+Even harmonics
+2
+1.08
+4
+0.43
+6
+0.30
+8 ≤ n ≤ 40
+0.23×8/n
+7.11.2.2. If measurements are made using the method described in Annex 17, the limits for input current > 16 A and ≤ 75 A per phase are those defined in IEC 61000-3-12 and given in Table 11, Table 12 and Table 13. Table 11
+Maximum allowed harmonics (input current > 16 A and ≤ 75 A per phase) for single phase or other than balanced three-phase equipment
+Minimum Rsce
+Acceptable individual harmonic current In/I1 %
+Maximum current harmonic ratio %
+I3
+I5
+I7
+I9
+I11
+I13
+THD
+PWHD
+33
+21.6
+10.7
+7.2
+3.8
+3.1
+2
+23
+23
+66
+24
+13
+8
+5
+4
+3
+26
+26
+120
+27
+15
+10
+6
+5
+4
+30
+30
+250
+35
+20
+13
+9
+8
+6
+40
+40
+≥ 350
+41
+24
+15
+12
+10
+8
+47
+47
+Relative values of even harmonics lower or equal to 12 shall be lower than 16/n %. Even harmonics greater than 12 are taken into account in the THD and PWHD in the same way than odd harmonics. Linear interpolation between successive values of Rsce is authorized. Table 12
+Maximum allowed harmonics (input current > 16 A and ≤ 75 A per phase) for balanced three-phase equipment
+Minimum Rsce
+Acceptable individual harmonic current In/I1 %
+Maximum current harmonic ratio %
+I5
+I7
+I11
+I13
+THD
+PWHD
+33
+10.7
+7.2
+3.1
+2
+13
+22
+66
+14
+9
+5
+3
+16
+25
+120
+19
+12
+7
+4
+22
+28
+250
+31
+20
+12
+7
+37
+38
+≥ 350
+40
+25
+15
+10
+48
+46
+Relative values of even harmonics lower or equal to 12 shall be lower than 16/n %. Even harmonics greater than 12 are taken into account in the THD and PWHD in the same way as odd harmonics. Linear interpolation between successive values of Rsce is authorized. Table 13
+Maximum allowed harmonics (input current > 16 A and ≤ 75 A per phase) for balanced three-phase equipment under specific conditions
+Minimum Rsce
+Acceptable individual harmonic current In/I1 %
+Maximum current harmonic ratio %
+I5
+I7
+I11
+I13
+THD
+PWHD
+33
+10.7
+7.2
+3.1
+2
+13
+22
+≥ 120
+40
+25
+15
+10
+48
+46
+Relative values of even harmonics lower or equal to 12 shall be lower than 16/n %. Even harmonics greater than 12 are taken into account in the THD and PWHD in the same way as odd harmonics.
+7.14. Specifications concerning emission of radiofrequency conducted disturbances wired network port from ESA
+7.15.1. Method of testing
+7.15.1.1.
+
+The immunity to Electrical Fast Transient/Burst disturbances conducted along AC and DC power lines of the ESA representative of its type shall be tested by the method described in Annex 21.
+7.16.2. ESA immunity type approval limits
+7.16.2.1. If tests are made using the methods described in Annex 22, the immunity test levels shall be:
+
+(a) For AC power lines: ±2 kV test voltage in open circuit between line and earth and ±1 kV between lines (pulse 1.2 μs / 50 μs), with a rise time (Tr) of 1.2 μs, and a hold time (Th) of 50 μs. Each surge shall be applied five times with a maximum delay of 1 minute between each pulse. This has to be applied for the following phases: 0, 90, 180 and 270o,
+(b) For DC power lines: ±0.5 kV test voltage in open circuit between line and earth and ±0.5 kV between lines (pulse 1.2 μs / 50 μs) with a rise time (Tr) of 1.2 μs, and a hold time (Th) of 50 μs. Each surge shall be applied five times with a maximum delay of 1 minute. 7.16.2.2. The ESA representative of its type shall be considered as complying with immunity requirements if, during the tests performed in accordance with Annex 22, there shall be no degradation of performance of 'immunity related functions', according to paragraph 2.2. of Annex 9.
+7.18.1. Method(s) of testing
+The immunity to electromagnetic radiation of the ESA representative of its type shall be tested by the method(s) chosen from those described in Annex 9.
+METHOD(S) OF TESTING FOR EMISSION OF HARMONICS GENERATED ON AC POWER LINES FROM AN ESA
+ANNEX 17
+Method(s) of testing for emission of harmonics generated on AC power lines from an ESA
+1. General
+1.1. The test method described in this annex shall be applied to ESAs in configuration 'REESS charging mode coupled to the power grid'
+
+1.2. Test method
+This test is intended to measure the level of harmonics generated by an ESA in configuration 'REESS charging mode coupled to the power grid' through its AC power lines in order to ensure it is compatible with residential, commercial and light industrial environments. If not otherwise stated in this annex the test shall be performed according to: (a) IEC 61000-3-2 for input current in charging mode ≤ 16 A per phase for class A equipment; (b) IEC 61000-3-12 for input current in charging mode > 16 A and ≤ 75 A per phase. 2. ESA state during tests
+2.1. The ESA shall be in configuration 'REESS charging mode coupled to the power grid'. The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole time duration of the measurement (this may lead to the measurement being split into different time slots with the need to discharge the vehicle's traction battery before starting the next time slot). If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its nominal value for AC charging. 3. Test arrangements
+3.1. The observation time to be used for the measurements shall be as for quasi-stationary equipment as defined in Table 4 of IEC 61000-3-2. 3.2. The test set-up for single phase ESA in configuration 'REESS charging mode coupled to the power grid' is shown in Figure 1 of Appendix 1 to this annex. 3.3. The test set-up for three-phase ESA in configuration 'REESS charging mode coupled to the power grid' is shown in Figure 2 of Appendix 1 to this annex. 4. Test requirements
+4.1. The measurements of even and odd current harmonics shall be performed up to the 40th harmonic. 4.2. The limits for single phase or three-phase ESAs in configuration 'REESS charging mode coupled to the power grid' with input current ≤ 16 A per phase are given in Table 10 of paragraph 7.11.2.1. of this Regulation. 4.3. The limits for single phase or other than balanced three-phase ESAs in configuration 'REESS charging mode coupled to the power grid' with input current > 16 A and ≤ 75 A per phase are given in Table 11 of paragraph 7.11.2.2. of this Regulation. 4.4. The limits for balanced three-phase ESAs in configuration 'REESS charging mode coupled to the power grid' with input current > 16 A and ≤ 75 A per phase are given in paragraph Table 12 of 7.11.2.2. of this Regulation. 4.5. For three-phase ESAs in configuration 'REESS charging mode coupled to the power grid' with input current > 16 A and ≤ 75 A per phase, when at least one of the three conditions a), b) or c) described in paragraph 5.2. of IEC 61000-3-12 is fulfilled, then the limits given in Table 13 of paragraph 7.11.2.2. of this Regulation can be applied.
+METHOD(S) OF TESTING FOR EMISSION OF RADIOFREQUENCY CONDUCTED DISTURBANCES ON WIRED NETWORK PORT FROM VEHICLES
+ANNEX 14
+Method(s) of testing for emission of radiofrequency conducted disturbances on wired network port from vehicles
+1. General
+1.1. The test method described in this annex shall be applied to vehicles in configuration 'REESS charging mode coupled to the power grid'. 1.2. Test method
+This test is intended to measure the level of radio frequency conducted disturbances generated by vehicle in configuration 'REESS charging mode coupled to the power grid' through its wired network port in order to ensure it is compatible with residential, commercial and light industrial environments. If not otherwise stated in this annex the test shall be performed according to CISPR 22. 2. Vehicle/ state during tests
+2.1. The vehicle shall be in configuration 'REESS charging mode coupled to the power grid'. The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole frequency range measurement (this may lead to splitting the measurement in different sub-bands with the need to discharge the vehicle's traction battery before starting the next sub-bands). If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its nominal value for AC charging. If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its nominal value for DC charging unless another value is agreed with the type approval authorities. In case of multiple batteries the average state of charge must be considered. The vehicle shall be immobilized, the engine(s) (ICE and / or electrical engine) shall be OFF and in charging mode. All other equipment which can be switched ON by the driver or passengers shall be OFF. 3. Test arrangements
+3.1. The test set-up shall be performed according to paragraph 5. of CISPR 22 for conducted emissions. 3.2. Measuring location
+A shielded enclosure or an absorber lined shielded enclosure (ALSE) or an open area test site (OATS) which complies with the requirements of CISPR 16-1-4 may be used. 3.3. Local/private communication lines connected to signal/control ports and lines connected to wired network ports shall be applied to the vehicle through AAN(s). The various AAN(s) to be used are defined in Appendix 8, clause 5: —
+Clause 5.1. for signal/control port with symmetric lines; —
+Clause 5.2. for wired network port with PLC on power lines; —
+Clause 5.3. for signal/control port with PLC (technology) on control pilot; and
+—
+Clause 5.4. for signal/control port with control pilot. The AAN(s) shall be mounted directly on the ground plane. The case of the AAN(s) shall be bonded to the ground plane (ALSE) or connected to the protective earth (OTS, e.g. an earth rod). The measuring port of each AAN shall be terminated with a 50 Ω load. If a charging station is used, AAN(s) are not required for the signal/control ports and/or for the wired network ports. The local/private communication lines between the vehicle and the charging station shall be connected to the associated equipment on the charging station side to work as designed. If communication is emulated and if the presence of the AAN prevents proper communication then no AAN should be used. 3.4. The test set-up for the connection of the vehicle in configuration 'REESS charging mode coupled to the power grid' is shown in Figures 1a to 1d of Appendix 1 to this annex. If it is impossible to guarantee the functionality of vehicle, due to introduction of AAN, an alternate method described in CISPR 22 (according to Figures 2a to 2d of Appendix 1 to this annex) shall be applied. 3.5. The measurements shall be performed with a spectrum analyser or a scanning receiver.
+
+| Frequency range MHz | Peak detector | Peak detector | Quasi-peak detector | Quasi-peak detector | Average detector | Average detector |
+|---|---|---|---|---|---|---|
+| Frequency range MHz | RBW at -3 dB | Minimum scan time | RBW at -6 dB | Minimum scan time | RBW at -3 dB | Minimum scan time |
+| 0.15 to 30 | 9/10 kHz | 10 s/MHz | 9 kHz | 200 s/MHz | 9/10 kHz | 10 s/MHz |
+
+| Frequency range MHz | Peak detector | Peak detector | Peak detector | Quasi-peak detector | Quasi-peak detector | Quasi-peak detector | Average detector | Average detector | Average detector |
+|---|---|---|---|---|---|---|---|---|---|
+| Frequency range MHz | BW at -6 dB | Step size | Minimum dwell time | BW at -6 dB | Step size | Minimum dwell time | BW at -6 dB | Step size a | Minimum dwell time |
+| 0.15 to 30 | 9 kHz | 5 kHz | 50 ms | 9 kHz | 5 kHz | 1 s | 9 kHz | 5 kHz | 50 ms |
+
+4. Test requirements
+4.1. The limits apply throughout the frequency range 0.15 to 30 MHz for measurements performed in a shielded enclosure or an absorber lined shielded enclosure (ALSE) or an open area test site (OATS). 4.2. Measurements shall be performed with average and either quasi-peak or peak detectors. The limits are given in Table 9 of paragraph 7.6. If peak detectors are used a correction factor of 20 dB as defined in CISPR 12 shall be applied.
+2.2. 'Electromagnetic disturbance' means any electromagnetic phenomenon which may degrade the performance of a vehicle or component(s) or separate technical unit(s), or of any other device, unit of equipment or system operated in vicinity of a vehicle. An electromagnetic disturbance may be electromagnetic noise, an unwanted signal or a change in the propagation medium itself.
+—
+The socket(s) shall be placed on the ground plane (ALSE) or floor (OTS);
+
+—
+The length of the harness between the power mains socket and the AMN(s) shall be kept as short as possible, but not necessarily aligned with the charging harness; —
+The harness shall be placed as close as possible to the ground plane (ALSE) or floor (OTS). 2.3.2. Artificial network
+Power mains shall be applied to the vehicle through 50 μH/50 Ω artificial networks (AMN(s)) (see appendix 8 clause 4). The AMN(s) shall be mounted directly on the ground plane (ALSE) or floor (OTS). The case of the AMN(s) shall be bonded to the ground plane (ALSE) or connected to the protective earth (OTS, e.g. an earth rod). The measuring port of each AMN shall be terminated with a 50 Ω load. 2.3.3. Power charging harness
+The power charging harness shall be placed in a straight line between the AMN(s) and the vehicle charging plug and shall be routed perpendicularly to the vehicle longitudinal axis (see Figure 3d and Figure 3e). The projected harness length from the side of the AMN(s) to the side of the vehicle shall be 0,8 (+0,2 / -0) m as shown in Figure 3d and Figure 3e. For a longer harness the extraneous length shall be 'Z-folded' in a less than 0,5 m width approximately around the middle of the AMN to vehicle distance. If it is impractical to do so because of harness bulk or stiffness, or because the testing is being done at a user's installation, the disposition of the excess harness shall be precisely noted in the test report. The charging harness at the vehicle side shall hang vertically at a distance of 100 (+200 / -0) mm from the vehicle body. The whole harness shall be placed on a non-conductive, low relative permittivity (dielectric-constant) material (εr ≤ 1,4), at (100 ± 25) mm above the ground plane (ALSE) or floor (OTS). 2.4. Vehicle in charging mode 3 (AC power charging with communication) or mode 4 (DC power charging with communication)
+2.4.1. Charging station / Power mains
+The charging station may be placed either in the test site or outside the test site. If the local/private communication between the vehicle and the charging station can be simulated, the charging station may be replaced by a supply from the AC power mains network. In both cases power mains and communication or signal lines socket(s) shall be placed in the test site with the following conditions: —
+The socket(s) shall be placed on the ground plane (ALSE) or floor (OTS); —
+The length of the harness between the power mains / local/private communication socket and the AMN(s) / DC-charging-AN(s) / AAN(s) shall be kept as short as possible, but not necessarily aligned with the charging harness; —
+The harness between the power mains / local/private communication socket and the AMN(s) / DC-charging-AN(s) / AAN(s) shall be placed as close as possible of the ground plane (ALSE) or floor (OTS). If the charging station is placed inside the test site then the harness between the charging station and the power mains / local/private communication socket shall satisfy the following conditions: —
+The harness at charging station side shall hang vertically down to the ground plane (ALSE) or floor (OTS); —
+The extraneous length shall be placed as close as possible to the ground plane (ALSE) or floor (OTS) and 'Z-folded' if necessary. If it is impractical to do so because of cable bulk or stiffness, or because the testing is being done at a user installation, the disposition of the excess cable shall be precisely noted in the test report; The charging station should be placed outside the beamwidth of the receiving antenna. 2.4.2. Artificial network
+AC power mains shall be applied to the vehicle through 50 μH/50 Ω AMN(s) (see Appendix 8, clause 4). DC power mains shall be applied to the vehicle through 5 μH/50 Ω High Voltage Artificial Networks (DC-charging-AN(s)) (see Appendix 8, clause 3). The AMN(s) / DC-charging-AN(s) shall be mounted directly on the ground plane (ALSE) or floor (OTS). The cases of the AMN(s) / DC-charging-AN(s) shall be bonded to the ground plane (ALSE) or connected to the protective earth (OTS, e.g. an earth rod). The measuring port of each AMN / DC-charging-AN shall be terminated with a 50 Ω load. 2.4.3. Asymmetric artificial network
+Local/private communication lines connected to signal/control ports and lines connected to wired network ports shall be applied to the vehicle through AAN(s). The various AAN(s) to be used are defined in Appendix 8, clause 5: —
+Clause 5.1. for signal/control port with symmetric lines; —
+Clause 5.2. for wired network port with PLC on power lines; —
+Clause 5.3. for signal/control port with PLC (technology) on control pilot; and
+—
+Clause 5.4. for signal/control port with control pilot. The AAN(s) shall be mounted directly on the ground plane. The case of the AAN(s) shall be bonded to the ground plane (ALSE) or connected to the protective earth (OTS, e.g. an earth rod). The measuring port of each AAN shall be terminated with a 50 Ω load. If a charging station is used, AAN(s) are not required for the signal/control ports and/or for the wired network ports. The local/private communication lines between the vehicle and the charging station shall be connected to the associated equipment on the charging station side to work as designed. If communication is emulated and if the presence of the AAN prevents proper communication then no AAN should be used
+2.4.4. Power charging / local/private communication harness
+The power charging local/private communication harness shall be laid out in a straight line between the AMN(s) / DC-charging-AN(s) / AAN(s) and the vehicle charging socket and shall be routed perpendicularly to the vehicle's longitudinal axis (see Figure 3f and Figure 3g). The projected harness length from the side of the AMN(s) to the side of the vehicle shall be 0,8 (+0,2 / - 0) m.
+For a longer harness the extraneous length shall be 'Z-folded' in less than 0,5 m width. If it is impractical to do so because of harness bulk or stiffness, or because the testing is being done at a user installation, the disposition of the excess harness shall be precisely noted in the test report. The power charging local/private communication harness at vehicle side shall hang vertically at a distance of 100 (+200 / -0) mm from the vehicle body. The whole harness shall be placed on a non-conductive, low relative permittivity (dielectric-constant) material (εr ≤ 1,4), at (100 ± 25) mm above the ground plane (ALSE) or floor (OTS). 3. Reference point
+3.1. For the purposes of this annex, the reference point is the point at which the field strength shall be established and shall be defined as follows: 3.2. For categories M, N, O, T, R and S vehicles according to ISO 11451-2. 3.3. For category L vehicles: 3.3.1. At least 2 m horizontally from the antenna phase centre or at least 1 m vertically from the radiating elements of a transmission-line-system (TLS); 3.3.2. On the vehicle's centre line (plane of longitudinal symmetry). 3.3.3. At a height of 1.0 ± 0.05 m above the plane on which the vehicle rests or 2.0 ± 0.05 m if the minimum height of the roof of any vehicle in the model range exceeds 3.0 m.
+3.3.4. Either at 1.0 ± 0.2 m behind the vertical centreline of the vehicle's front wheel (point C in Figure 1 of Appendix 1 to this annex) in the case of three-wheeled vehicles. Or at 0.2 ± 0.2 m behind the vertical centreline of the vehicle's front wheel (point D in Figure 2 of Appendix 1 to this annex) in the case of two-wheeled vehicles. 3.3.5. If it is decided to radiate the rear of the vehicle, the reference point shall be established as in paragraphs 3.3.1. to 3.3.4. above. The vehicle shall then be installed facing away from the antenna and positioned as if it had been horizontally rotated 180o around its centre point, i.e. such that the distance from the antenna to the nearest part of the outer body of the vehicle remains the same. This is illustrated in Figure 3 of Appendix 1 to this annex.
+2.22. 'Asymmetric artificial network (AAN)' means network used to measure (or inject) asymmetric (common mode) voltages on unshielded symmetric signal (e.g. telecommunication) lines while rejecting the symmetric (differential mode) signal. This network is inserted in the communication/signal lines of the vehicle in charging mode to provide a specific load impedance and/or a decoupling (e.g. between communication/signal lines and power mains). AAN is also used in this regulation for symmetric lines
+2.23. 'Direct current charging artificial network (DC-charging-AN)' means network inserted in the high voltage DC lead of vehicle in charging mode which provides, in a given frequency range, a specified load impedance and which may isolate the vehicle from the HV DC charging station in that frequency range. 2.24. 'Artificial mains network (AMN)' means provides a defined impedance to the ESA at radio frequencies, couples the disturbance voltage to the measuring receiver and decouples the test circuit from the supply mains. There are two basic types of AMN, the V-network (V-AMN) that couples the unsymmetrical voltages, and the delta-network that couples the symmetric and the asymmetric voltages separately. The terms line impedance stabilization network (LISN) and V-AMN are used interchangeably. Network inserted in the power mains of the vehicle in charging mode which provides, in a given frequency range, a specified load impedance and which isolates the vehicle from the power mains in that frequency range. 2.25. 'Outdoor Test Site (OTS)' measurement site similar to an open area test site as specified in CISPR 16, however a ground plane is not required and there are dimensional changes.
+—
+BCI test method with substitution method and injection probe positioned at 150 mm distance to the ESA.
+
+4.3.2.1. For ESAs in configuration 'REESS charging mode coupled to the power grid', an example of test arrangement (for substitution method) is given in Appendix 4 to this annex (figure 1 for substitution method and figure 2 for closed loop method). 4.3.2.1.1. The shielding configuration shall be according to the vehicle series configuration. Generally all shielded HV parts shall be properly connected with low impedance to ground (e. g. AN, cables, connectors, etc.). ESAs and loads shall be connected to ground. The external HV power supply shall be connected via feed-through-filtering. 4.3.2.1.2. When using substitution method, unless otherwise specified the length of the LV harness and the HV harness shall be 1,700 mm (+300/-0 mm). The distance between the LV harness and the HV harness shall be 100 mm (+100/-0 mm). The HV/LV wiring harness shall be straight over at least 1,400 mm starting at the ESA for all test methods defined in part 4 of ISO 11452 except for the BCI test method using the closed-loop method with power limitation. When using closed loop method, unless otherwise specified the length of the LV harness and the HV harness shall be 1,000 mm (+200/-0 mm). The distance between the LV harness and the HV harness shall be 100 mm (+100/-0 mm). The HV/LV wiring harness shall be straight over its entire length for the BCI test method using the closed-loop method with power limitation. 4.3.2.1.3. All of the harnesses shall be placed on a non-conductive, low relative permittivity material (εr≤1.4), at (50 ± 5) mm above the ground plane. 4.3.2.1.4. Shielded supply lines for HV+ and HV- line and three phase lines may be coaxial cables or in a common shield depending on the used plug system. The original HV-harness from the vehicle may be used optionally. 4.3.2.1.5. Unless otherwise specified, the ESA case shall be connected to the ground plane either directly or via defined impedance. 4.3.2.1.6. Unless otherwise specified the test shall be performed with the injection probe placed around each of the following harnesses: (a) Low voltage harness; (b) High voltage harness; (c) AC power lines if applicable; (d) DC power lines if applicable. 4.4. Stripline testing
+4.4.1. Test method
+This test method consists of subjecting the wiring harness connecting the components in an ESA to specified field strengths. 4.4.2. Test methodology
+The test shall be performed according to ISO 11452-5. 4.5. 800 mm stripling testing
+4.5.1. Test method
+The stripline consists of two parallel metallic plates separated by 800 mm. Equipment under test is positioned centrally between the plates and subjected to an electromagnetic field (see Appendix 1 to this annex). This method can test complete electronic systems including sensors and actuators as well as the controller and wiring loom. It is suitable for apparatus whose largest dimension is less than one-third of the plate separation. 4.5.2. Test methodology
+4.5.2.1. Positioning of stripline
+The stripline shall be housed in a screened room (to prevent external emissions) and positioned 2 m away from walls and any metallic enclosure to prevent electromagnetic reflections. RF absorber material may be used to damp these reflections. The stripline shall be placed on non-conducting supports at least 0.4 m above the floor. 4.5.2.2. Calibration of the stripline
+A field-measuring probe shall be positioned within the central one-third of the longitudinal, vertical and transverse dimensions of the space between the parallel plates with the system under test absent. The associated measuring equipment shall be sited outside the screen room. At each desired test frequency, a level of power shall be fed into the stripline to produce the required field strength at the antenna. This level of forward power, or another parameter directly related to the forward power required to define the field, shall be used for type approval tests unless changes occur in the facilities or equipment, which necessitate this procedure being repeated. 4.5.2.3. Installation of the ESA under test
+The main control unit shall be positioned within the central one third of the longitudinal, vertical and transverse dimensions of the space between the parallel plates. It shall be supported on a stand made from non-conducting material. 4.5.2.4. Main wiring loom and sensor/actuator cables
+The main wiring loom and any sensor/actuator cables shall rise vertically from the control unit to the top ground plate (this helps to maximize coupling with the electromagnetic field). Then they shall follow the underside of the plate to one of its free edges where they shall loop over and follow the top of the ground plate as far as the connections to the stripline feed. The cables shall then be routed to the associated equipment, which shall be sited in an area outside the influence of the electromagnetic field, e.g. on the floor of the screened room 1 m longitudinally away from the stripline.
+The AAN(s) shall be mounted directly on the ground plane. The case of the AAN(s) shall be bonded to the ground plane (ALSE) or connected to the protective earth (OTS, e.g. an earth rod). The measuring port of each AAN shall be terminated with a 50 Ω load. If a charging station is used, AAN(s) are not required for the signal/control ports and/or for the wired network ports. The local/private communication lines between the vehicle and the charging station shall be connected to the associated equipment on the charging station side to work as designed. If communication is emulated and if the presence of the AAN prevents proper communication then no AAN should be used
+2.4.4. Power charging / local/private communication harness
+The power charging local/private communication harness shall be laid out in a straight line between the AMN(s) / DC-charging-AN(s) / AAN(s) and the vehicle charging socket and shall be routed perpendicularly to the vehicle's longitudinal axis (see Figure 3f and Figure 3g). The projected harness length from the side of the AMN(s) to the side of the vehicle shall be 0,8 (+0,2 / -0) m.
+For a longer harness the extraneous length shall be 'Z-folded' in less than 0,5 m width. If it is impractical to do so because of harness bulk or stiffness, or because the testing is being done at a user installation, the disposition of the excess harness shall be precisely noted in the test report. The power charging local/private communication harness at vehicle side shall hang vertically at a distance of 100 (+200 / -0) mm from the vehicle body. The whole harness shall be placed on a non-conductive, low relative permittivity (dielectric-constant) material (εr ≤ 1,4), at (100 ± 25) mm above the ground plane (ALSE) or floor (OTS). 3. Measuring location
+3.1. As an alternative to the requirements of CISPR 12 for vehicles of category L, the test surface may be any location that fulfils the conditions shown in the Figure of the appendix to this annex. In this case the measuring equipment shall lie outside the part shown in Figure 1 of Appendix 1 to this annex. 3.2. Absorber lined shielded enclosures (ALSE) and outdoor test site (OTS) may be used. An ALSE has the advantage of all all-weather testing, a controlled environment and improved repeatability because of the stable chamber electrical characteristics. 4. Test requirements
+4.1. The limits apply throughout the frequency range 30 to 1,000 MHz for measurements performed in an absorber lined shielded enclosure (ALSE) or an outdoor test site (OTS). 4.2. Measurements can be performed with either quasi-peak or peak detectors. The limits given in paragraphs 6.2. and 7.2. of this Regulation are for quasi-peak detectors. If peak detectors are used a correction factor of 20 dB as defined in CISPR 12 shall be applied. 4.3. The measurements shall be performed with a spectrum analyser or a scanning receiver. The parameters to be used are defined in Table 1 and Table 2.
+
+| Frequency range MHz | Peak detector | Peak detector | Quasi-peak detector | Quasi-peak detector | Average detector | Average detector |
+|---|---|---|---|---|---|---|
+| Frequency range MHz | RBW at- 3 dB | Minimum scan time | RBW at -6 dB | Minimum scan time | RBW at -3 dB | Minimum scan time |
+| 30 to 1,000 | 100/120 kHz | 100 ms/MHz | 120 kHz | 20 s/MHz | 100/120 kHz | 100 ms/MHz | Note: If a spectrum analyser is used for peak measurements, the video bandwidth shall be at least three times the resolution bandwidth (RBW).
+
+| Frequency range MHz | Peak detector | Peak detector | Peak detector | Quasi-peak detector | Quasi-peak detector | Quasi-peak detector | Average detector | Average detector | Average detector |
+|---|---|---|---|---|---|---|---|---|---|
+| Frequency range MHz | BW at-6 dB | Step size (1) | Minimum scan time | BW at -6 dB | Step size (1) | Minimum Dwell time | BW at-6 dB | Step size (1) | Minimum scan time |
+| 30 to 1,000 | 120 kHz | 50 kHz | 5 ms | 120 kHz | 50 kHz | 1 s | 120 kHz | 50 kHz | 5 ms |
+
+4.4. Measurements
+The Technical Service shall perform the test at the intervals specified in the CISPR 12 standard throughout the frequency range 30 to 1,000 MHz. Alternatively, if the manufacturer provides measurement data for the whole frequency band from a test laboratory accredited to the applicable parts of ISO 17025 and recognized by the Type Approval Authority, the Technical Service may divide the frequency range in 14 frequency bands 30-34, 34-45, 45-60, 60-80, 80-100, 100-130, 130-170, 170-225, 225-300, 300-400, 400-525, 525-700, 700-850 and 850-1,000 MHz and perform tests at the 14 frequencies giving the highest emission levels within each band to confirm that the vehicle meets the requirements of this annex. In the event that the limit is exceeded during the test, investigations shall be made to ensure that this is due to the vehicle and not to background radiation. 4.5. Readings
+The maximum of the readings relative to the limit (horizontal and vertical polarization and antenna location on the left and right-hand sides of the vehicle) in each of the 14 frequency bands shall be taken as the characteristic reading at the frequency at which the measurements were made. 4.6. Antenna position
+Measurements shall be made on the left and right sides of the vehicle. The horizontal distance is from the reference point of the antenna to the nearest part of the vehicle body. Multiple antenna positions may be required (both for 10 m and 3 m antenna distance) depending on the vehicle length. The same positions shall be used for both horizontal and vertical polarization measurements. The number of antenna positions and the position of the antenna with respect to the vehicle shall be documented in the test report. —
+If the length of the vehicle is smaller than the 3 dB beamwidth of the antenna, only one antenna position is necessary. The antenna shall be aligned with the middle of the total vehicle (see Figure 4); —
+If the length of the vehicle is greater than the 3 dB beamwidth of the antenna, multiple antenna positions are necessary in order to cover the total length of the vehicle (see Figure 5). The number of antenna positions shall allow to meet the following condition: {{IMAGE:Image_37, Caption:Mathematical inequality (Equation 1) specifying the condition for the number of antenna positions (N) relative to measurement distance (D), beamwidth (β), and vehicle length (L).}} With:
+N: Number of antenna positions; D: Measurement distance (3 m or 10 m); {{IMAGE:Image_38, Caption:Mathematical expression 2 · β.}} : 3 dB antenna beamwidth angle in the plane parallel to ground (i.e. the E-plane beamwidth angle when the antenna is used in horizontal polarization, and the H-plane beamwidth angle when the antenna is used in vertical polarization); L: Total vehicle length; Depending of the chosen values of N (number of antenna positions) different set-up shall be used: if N=1 (only one antenna position is necessary) and the antenna shall be aligned with the middle of the total vehicle length (see Figure 4). if N>1 (more than one antenna position is necessary) and multiple antenna positions are necessary in order to cover the total length of the vehicle (see Figure 5). The antenna positions shall be symmetric in regard to the vehicle perpendicular axis. (1) For purely broadband disturbances, the maximum frequency step size may be increased up to a value not greater than the bandwidth value.
+2.3. 'Electromagnetic immunity' means the ability of a vehicle or component(s) or separate technical unit(s) to operate without degradation of performance in the presence of (specified) electromagnetic disturbances which includes wanted radio frequency signals from radio transmitters or radiated in-band emissions of industrial-scientific-medical (ISM) apparatus, internal or external to the vehicle.
+This is illustrated in Figure 3 of Appendix 1 to this annex. 4. Test requirements
+4.1. Frequency range, dwell times, polarization. The vehicle shall be exposed to electromagnetic radiation in the 20 to 2,000 MHz frequency ranges in vertical polarization. The test signal modulation shall be: (a) AM (amplitude modulation), with 1 kHz modulation and 80 per cent modulation depth in the 20 to 800 MHz frequency range; and
+(b) PM (pulse modulation), Ton 577 μs, period 4,600 μs in the 800 to 2,000 MHz frequency range. If not otherwise agreed between Technical Service and vehicle manufacturer. Frequency step size and dwell time shall be chosen according to ISO 11451-1. 4.1.1. The Technical Service shall perform the test at the intervals specified in ISO 11451-1 throughout the frequency range 20 to 2,000 MHz. Alternatively, if the manufacturer provides measurement to data for the whole frequency band from a test laboratory accredited to the applicable parts of ISO 17025 and recognized by the Type Approval Authority, the Technical Service may choose a reduced number of spot frequencies in the range, e.g. 27, 45, 65, 90, 120, 150, 190, 230, 280, 380, 450, 600, 750, 900, 1,300 and 1,800 MHz to confirm that the vehicle meets the requirements of this annex. If a vehicle fails the test defined in this annex, it shall be verified as having failed under the relevant test conditions and not as a result of the generation of uncontrolled fields. 5. Generation of required field strength
+5.1. Test methodology
+5.1.1. The substitution method according to ISO 11451-1, shall be used to establish the test field conditions. 5.1.2. Calibration
+For TLS one field probe at the vehicle reference point shall be used. For antennas four field probes at the vehicle reference line shall be used. 5.1.3. Test phase
+The vehicle shall be positioned with the centre line of the vehicle on the vehicle reference point or line. The vehicle shall normally face a fixed antenna. However, where electronic control units with immunity related functions and the associated wiring harness are predominantly in the rear half of the vehicle, the test should normally be carried out with the vehicle facing away from the antenna and positioned as if it had been horizontally rotated 180o around its centre point, i.e. such that the distance from the antenna to the nearest part of the outer body of the vehicle remains the same. In the case of long vehicles (i.e. excluding vehicles of categories L, M1 and N1), which have electronic control units with immunity related functions and associated wiring harness predominantly towards the middle of the vehicle, a reference point may be established based on either the right side surface or the left side surface of the vehicle. This reference point shall be at the midpoint of the vehicle's length or at one point along the side of the vehicle chosen by the manufacturer in conjunction with the Type Approval Authority after considering the distribution of electronic systems and the layout of any wiring harness. Such testing may only take place if the physical construction of the chamber permits. The antenna location shall be noted in the test report.
+2.4. 'Electromagnetic environment' means the totality of electromagnetic phenomena existing at a given location.
+2.5. 'Broadband emission' means an emission, which has a bandwidth greater than that of a particular measuring apparatus or receiver (International Special Committee on Radio Interference (CISPR) 25).
+2.6. 'Narrowband emission' means an emission which has a bandwidth less than that of a particular measuring apparatus or receiver (CISPR 25).
+2.7. 'Electrical/electronic system' means (an) electrical and/or electronic device(s) or set(s) of devices together with any associated electrical connections which form part of a vehicle but which are not intended to be type approved separately from the vehicle.
+2.8. 'Electrical/electronic sub-assembly' (ESA) means an electrical and/or electronic device or set(s) of devices intended to be part of a vehicle, together with any associated electrical connections and wiring, which performs one or more specialized functions. An ESA may be approved at the request of a manufacturer or his authorized representative as either a 'component' or a 'separate technical unit (STU)'.
+2.9. 'Vehicle type' in relation to electromagnetic compatibility includes all vehicles, which do not differ essentially in such respects as:
+2.10. An 'ESA type' in relation to electromagnetic compatibility means ESAs, which do not differ in such essential respects as:
+2.11. 'Vehicle wiring harness' means supply voltage, bus system (e.g. CAN), signal or active antenna cables, which are installed by the vehicle manufacturer.
+2.12. 'Immunity related functions' are the following functions; this list is not exhaustive and shall be adapted to the technical evolution of vehicle/technology: (a) Functions related to the direct control of the vehicle: (i) By degradation or change in: e.g. engine, gear, brake, suspension, active steering, speed limitation devices; (ii) By affecting drivers position: e.g. seat or steering wheel positioning; (iii) By affecting driver's visibility: e.g. dipped beam, windscreen wiper, indirect vision systems, blind spot systems. (b) Functions related to driver, passenger and other road user protection: (i) E.g. airbag and safety restraint systems, emergency calling systems; (c) Functions which, when disturbed, cause confusion to the driver or other road users: (i) Optical disturbances: incorrect operation of e.g. direction indicators, stop lamps, end outline marker lamps, rear position lamp, light bars for emergency system, wrong information from warning indicators, lamps or displays related to functions in subparagraphs (a) or (b) which might be observed in the direct view of the driver; (ii) Acoustical disturbances: incorrect operation of e.g. anti-theft alarm, horn. (d) Functions related to vehicle data bus functionality: (i) By blocking data transmission on vehicle data bus-systems, which are used to transmit data, required to ensure the correct functioning of other immunity related functions. (e) Functions which when disturbed affect vehicle statutory data: e.g. tachograph, odometer; (f) Function related to charging mode when coupled to the power grid: (i) For vehicle test: by leading to unexpected vehicle motion; (ii) For ESA test: by leading to an incorrect charging condition (e.g. over-current, over-voltage).
+2.13. 'REESS' means the rechargeable energy storage system that provides electric energy for electric propulsion of the vehicle.
+2.14. 'Coupling system for charging the REESS' means the electrical circuit installed in the vehicle used for charging the REESS.
+2.15. 'REESS charging mode coupled to the power grid' means the normal charging operation mode of the vehicle and/or charging system.
+2.16. 'Mode 1 Charging Mode' means charging mode as defined in IEC
+2.17. 'Mode 2 Charging Mode' means charging mode as defined in IEC
+2.18. 'Mode 3 Charging Mode' means charging mode as defined in IEC
+2.19. 'Mode 4 Charging Mode' means charging mode as defined in IEC
+2.20. 'Signal/control port' means port intended for the interconnection of components of an ESA, or between an ESA and local AE (Ancillary Equipment) and used in accordance with relevant functional specifications (for example for the maximum length of cable connected to it). Examples include RS-232, Universal Serial Bus (USB), High-Definition Multimedia Interface (HDMI), IEEE Standard 1394 ('Fire Wire'). For vehicle in charging mode this includes Control Pilot signal, PLC technology used on Control Pilot signal line, CAN.
+2.21. 'Wired network port' means port for the connection of voice, data and signaling transfers intended to interconnect widely dispersed systems by direct connection to a single-user or multi-user communication network. Examples of these include CATV, PSTN, ISDN, xDSL, LAN and similar networks. These ports may support screened or unscreened cables and may also carry AC or DC power where this is an integral part of the telecommunication specification.
+2.22. 'Asymmetric artificial network (AAN)' means network used to measure (or inject) asymmetric (common mode) voltages on unshielded symmetric signal (e.g. telecommunication) lines while rejecting the symmetric (differential mode) signal. This network is inserted in the communication/signal lines of the vehicle in charging mode to provide a specific load impedance and/or a decoupling (e.g. between communication/signal lines and power mains). AAN is also used in this regulation for symmetric lines
+2.23. 'Direct current charging artificial network (DC-charging-AN)' means network inserted in the high voltage DC lead of vehicle in charging mode which provides, in a given frequency range, a specified load impedance and which may isolate the vehicle from the HV DC charging station in that frequency range.
+2.24. 'Artificial mains network (AMN)' means provides a defined impedance to the ESA at radio frequencies, couples the disturbance voltage to the measuring receiver and decouples the test circuit from the supply mains. There are two basic types of AMN, the V-network (V-AMN) that couples the unsymmetrical voltages, and the delta-network that couples the symmetric and the asymmetric voltages separately. The terms line impedance stabilization network (LISN) and V-AMN are used interchangeably. Network inserted in the power mains of the vehicle in charging mode which provides, in a given frequency range, a specified load impedance and which isolates the vehicle from the power mains in that frequency range.
+2.25. 'Outdoor Test Site (OTS)' measurement site similar to an open area test site as specified in CISPR 16, however a ground plane is not required and there are dimensional changes.

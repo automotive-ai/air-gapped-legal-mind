@@ -1,0 +1,248 @@
+Article 5
+This Directive is addressed to the Member States.
+Article 3
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 30 April 2010 at the latest.
+
+They shall forthwith communicate to the Commission the text of those provisions. When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made. 2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+recital 1
+(1) Directive 97/24/EC of the European Parliament and of the Council of 17 June 1997 on certain components and characteristics of two or three-wheel motor vehicles (2) is one of the separate Directives for the purposes of the two and three-wheel motor vehicles EC type-approval procedure laid down by Directive 2002/24/EC.
+Article 4
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+recital 2
+(2) In order to take into account the specific behaviour of hybrid vehicles, the type-approval test procedure used for measuring gaseous pollutants from two and three-wheel vehicles should be adapted.
+
+For this purpose, it is appropriate to adopt a procedure similar to the one used in UNECE Regulation No 83 on Emission of pollutants according to engine fuel requirements.
+Article 1
+Directive 97/24/EC is amended as follows:
+
+1. Annex II of Chapter 5 of Directive 97/24/EC is amended in accordance with Annex I to this Directive; 2. Annex III of Chapter 9 of Directive 97/24/EC is amended in accordance with Annex II to this Directive; 3. Annex IV of Chapter 9 of Directive 97/24/EC is amended in accordance with Annex III to this Directive.
+AMENDMENT TO ANNEX II OF CHAPTER 5 OF DIRECTIVE 97/24/CE
+ANNEX I
+AMENDMENT TO ANNEX II OF CHAPTER 5 OF DIRECTIVE 97/24/CE
+Annex II of Chapter 5 of Directive 97/24/EC is amended as follows: 1. The following point 1.10 is added: '1.10. "Hybrid electric vehicle (HEV)" means a motorcycle, tricycle or quadricycle that, for the purpose of mechanical propulsion, draws energy from both of the following on-vehicle sources of stored energy: (a) a consumable fuel
+(b) an electrical energy storage device' 2. The following point 2.2.1.3 is inserted: '2.2.1.3. In the case of Hybrid electric vehicle Appendix 3 applies'. 3. The following Appendix 3 is added: 'Appendix 3
+Emissions test procedure for hybrid electric motorcycles, motor tricycles and quadricycles 1. SCOPE
+This annex lays down the specific provisions regarding type-approval of a hybrid electric vehicle.
+
+| Vehicle charging | Off-Vehicle Charging (1) (OVC) | Off-Vehicle Charging (1) (OVC) | Not Off-Vehicle Charging (2) (NOVC) | Not Off-Vehicle Charging (2) (NOVC) |
+|---|---|---|---|---|
+| Operating mode switch | Without | With | Without | With |
+
+3. TYPE I TEST METHODS
+For the Type I test, hybrid electric motorcycles or motor tricycles shall be tested according to the applicable test procedure (Appendix 1 or Appendix 1a) as prescribed in point 2.2.1.1.5 of Annex II. For each of test condition, the emission test result shall comply with the limits specified in point 2.2.1.1.5 of Annex II. 3.1. Externally chargeable (OVC HEV) without an operating mode switch
+3.1.1. Two tests shall be performed under the following conditions: Condition A: test shall be carried out with a fully charged electrical energy storage device. Condition B: test shall be carried out with an electrical energy storage device in minimum state of charge (maximum discharge of capacity). The profile of the state of charge (SOC) of the electrical energy storage device during different stages of the Type I test is given in Sub-appendix 3. 3.1.2. Condition A
+3.1.2.1. The procedure shall start with the discharge while the vehicle driving: (a) at a steady speed of 50 km/h until the fuel consuming engine of the HEV starts up; or
+(b) if a vehicle cannot reach a steady speed of 50 km/h without starting up the fuel consuming engine, the speed shall be reduced until the vehicle can run a lower steady speed where the fuel consuming engine does not start up for a defined time/distance (to be specified between technical service and manufacturer); or
+(c) with recommendation from the manufacturer. The fuel consuming engine shall be stopped within 10 seconds of it being automatically started. 3.1.2.2. Conditioning of vehicle
+3.1.2.2.1. Before testing, the vehicle shall be kept in a room in which the temperature remains relatively constant between 293 and 303 K (20 °C and 30 °C). This conditioning shall be carried out for at least six hours and continue until the engine oil temperature and coolant, if any, are within ± 2 K of the temperature of the room, and the electrical energy storage device is fully charged as a result of the charging referred to in point 3.1.2.2.2. 3.1.2.2.2. During soak, the electrical energy storage device shall be charged using the normal overnight charging procedure as described in point 4.1.2 of Sub-appendix 2. 3.1.2.3. Test procedure
+3.1.2.3.1. The vehicle shall be started up by the means provided for normal use to the driver. The first cycle starts on the initiation of the vehicle start-up procedure. 3.1.2.3.2. The test procedures defined in either point 3.1.2.3.2.1 or point 3.1.2.3.2.2 may be used. 3.1.2.3.2.1. Sampling shall begin (BS) before or at the initiation of the vehicle start up procedure and end as defined in the applicable test procedure (Appendix 1 or Appendix 1a) (end of sampling (ES)). 3.1.2.3.2.2. Sampling shall begin (BS) before or at the initiation of the vehicle start up procedure and continue over a number of repeat test cycles. It shall end on conclusion of the final idling period where the electrical energy storage device has reached the minimum state of charge according to the criterion defined below (end of sampling (ES)). The electricity balance Q [Ah], measured using the procedure specified in Sub-appendix 1, is used to determine when the minimum state of charge of the electrical energy storage device has been reached. The minimum state of charge of the electrical energy storage device is considered to have been reached in test cycle N if the electricity balance during test cycle N + 1 is not more than a 3 % discharge, expressed as a percentage of the nominal capacity of the energy storage (in Ah) in its maximum state of charge. At the request of the manufacturer additional test cycles may be run and their results included in the calculations described in points 3.1.2.3.5 and 3.1.2.3.6 provided that the electricity balance for each additional test cycle shows less discharge of the electrical energy storage device than over the previous cycle. In between each of the cycles a hot soak period of up to 10 minutes is allowed. 3.1.2.3.3. The vehicle shall be driven according to the applicable test procedure (Appendix 1 or Appendix 1a). 3.1.2.3.4. The exhaust gases shall be analysed according to the applicable test procedure (Appendix 1 or Appendix 1a). 3.1.2.3.5. The results on the combined cycle for Condition A shall be recorded in m1. In the case of testing according to point 3.1.2.3.2.1, m1 is simply the results in grams of the single cycle run. In the case of testing according to point 3.1.2.3.2.2, m1 is the sum in grams of the results of the N cycles run. {{IMAGE:Image_1, Caption:Mathematical formula defining m1 as the summation of m_i from 1 to N.}} 3.1.2.3.6. The average mass emission in g/km of each pollutant for Condition A shall be calculated (M1),
+M1 = m1/Dtest1
+with Dtest1 the total actual driven distances in the test performed under condition A.
+3.1.3. Condition B
+3.1.3.1. Conditioning of vehicle
+3.1.3.1.1. The electrical energy storage device of the vehicle shall be discharged according to point 3.1.2.1. 3.1.3.1.2. Before testing, the vehicle shall be kept in a room in which the temperature remains relatively constant between 293 and 303 K (20 °C and 30 °C). This conditioning shall be carried out for at least six hours and continue until the engine oil temperature and coolant, if any, are within ± 2 K of the temperature of the room. 3.1.3.2. Test procedure
+3.1.3.2.1. The vehicle shall be started up by the means provided for normal use to the driver. The first cycle starts on the initiation of the vehicle start-up procedure. 3.1.3.2.2. Sampling shall begin (BS) before or at the initiation of the vehicle start up procedure and end as defined in the applicable test procedure (Appendix 1 or Appendix 1a) (end of sampling (ES)). 3.1.3.2.3. The vehicle shall be driven according to the applicable test procedure (Appendix 1 or Appendix 1a). 3.1.3.2.4. The exhaust gases shall be analysed according to the applicable test procedure (Appendix 1 or Appendix 1a). 3.1.3.2.5. The results on the combined cycle for Condition B shall be recorded in m2. 3.1.3.2.6. The average emission in g/km of each pollutant for Condition B shall be calculated (M2)
+M2 = m2/Dtest2
+with Dtest2 the total actual driven distances in the test performed under condition B.
+3.1.4. Test results
+3.1.4.1. In the case of testing according to point 3.1.2.3.2.1 the weighted values shall be calculated as below: M = (De · M1 + Dav · M2)/(De + Dav)
+Where:
+Article 2
+1. With effect from 1 May 2010, Member States shall not, on grounds relating to measures to counter air pollution or noise emissions, refuse to grant EC type-approval or prohibit the registration, sale or entry into service of two or three-wheel vehicles which comply with Directive 97/24/EC as amended by this Directive.
+
+2. With effect from 1 May 2010, Member States shall refuse, on grounds relating to measures to counter air pollution or noise emissions, to grant EC type-approval to any new type of two or three-wheel motor vehicle which does not comply with Directive 97/24/EC as amended by this Directive.
+AMENDMENT TO ANNEX IV OF CHAPTER 9 OF DIRECTIVE 97/24/EC
+ANNEX III
+AMENDMENT TO ANNEX IV OF CHAPTER 9 OF DIRECTIVE 97/24/EC
+Annex IV of Chapter 9 of Directive 97/24/EC is amended as follows:
+
+1. The following point 1.5 is added: 1.5. 
+ "Hybrid electric vehicle (HEV)" means a vehicle that, for the purpose of mechanical propulsion, draws energy from both of the following on-vehicle sources of stored energy: (a) a consumable fuel; (b) an electrical energy storage device (e.g.: battery, capacitor, flywheel/generator etc.)….' 2. The following point 2.2.4.5 is inserted: 2.2.4.5. In case of Hybrid vehicle the tests have to be performed 2 times: (a) Condition A: Batteries shall be at their maximum state of charge; if more than one "hybrid mode" is available, the most electric hybrid mode shall be selected for the test
+(b) Condition B: Batteries shall be at their minimum state of charge; if more than one "hybrid mode" is available, the most fuel consuming hybrid mode shall be selected for the test' 3. The following point 2.2.5.5 is inserted: 2.2.5.5. If the average of four results of Condition A and if thes average of four results of Condition B do not exceed the maximum permissible level for the category to which the vehicle being tested belongs, the limits laid down in point 2.2.1 shall be deemed as being complied with. The highest average value shall constitute the result of the test.'
+citation
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Directive 2002/24/EC of the European Parliament and of the Council of 18 March 2002 relating to the type-approval of two and three-wheel motor vehicles and repealing Council Directive 92/61/EEC (1), and in particular Article 17 thereof,
+Whereas:
+recital 3
+(3) To ensure that hybrid vehicles comply with the noise limits set out in Directive 97/24/EC in all their running modes it is also necessary to adapt the type-approval test procedure used for noise measurement set out in Directive 97/24/EC.
+recital 4
+(4) Directive 97/24/EC should therefore be amended accordingly.
+recital 5
+(5) The measures provided for this Directive are in accordance with the opinion of the Committee for Adaptation to Technical Progress,
+HAS ADOPTED THIS DIRECTIVE:
+Introduction
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Directive 2002/24/EC of the European Parliament and of the Council of 18 March 2002 relating to the type-approval of two and three-wheel motor vehicles and repealing Council Directive 92/61/EEC (1), and in particular Article 17 thereof,
+Whereas:
+
+(1) Directive 97/24/EC of the European Parliament and of the Council of 17 June 1997 on certain components and characteristics of two or three-wheel motor vehicles (2) is one of the separate Directives for the purposes of the two and three-wheel motor vehicles EC type-approval procedure laid down by Directive 2002/24/EC. (2) In order to take into account the specific behaviour of hybrid vehicles, the type-approval test procedure used for measuring gaseous pollutants from two and three-wheel vehicles should be adapted. For this purpose, it is appropriate to adopt a procedure similar to the one used in UNECE Regulation No 83 on Emission of pollutants according to engine fuel requirements. (3) To ensure that hybrid vehicles comply with the noise limits set out in Directive 97/24/EC in all their running modes it is also necessary to adapt the type-approval test procedure used for noise measurement set out in Directive 97/24/EC. (4) Directive 97/24/EC should therefore be amended accordingly. (5) The measures provided for this Directive are in accordance with the opinion of the Committee for Adaptation to Technical Progress,
+HAS ADOPTED THIS DIRECTIVE:
+AMENDMENT TO ANNEX III OF CHAPTER 9 OF DIRECTIVE 97/24/EC
+ANNEX II
+AMENDMENT TO ANNEX III OF CHAPTER 9 OF DIRECTIVE 97/24/EC
+Annex III of Chapter 9 of Directive 97/24/EC is amended as follows:
+
+1. The following point 1.5 is added: 1.5. 
+ "Hybrid electric vehicle (HEV)" means a vehicle that, for the purpose of mechanical propulsion, draws energy from both of the following on-vehicle sources of stored energy: (a) a consumable fuel; (b) an electrical energy storage device (e.g.: battery, capacitor, flywheel/generator etc.) ….'
+ 2. The following point 2.1.4.4 is inserted: 2.1.4.4. In case of Hybrid vehicle the tests have to be performed 2 times: (a) Condition A: Batteries shall be at their maximum state of charge; if more than one "hybrid mode" is available, the most electric hybrid mode shall be selected for the test; (b) Condition B: Batteries shall be at their minimum state of charge; if more than one "hybrid mode" is available, the most fuel consuming hybrid mode shall be selected for the test' 3. The following point 2.1.5.5 is inserted: 2.1.5.5. If the average of four results of Condition A and if the average of four results of Condition B do not exceed the maximum permissible level for the category to which the vehicle being tested belongs, the limits laid down in point 2.1.1 shall be deemed as being complied with. The highest average value shall constitute the result of the test.'
+M = (De · M1 + Dav · M2)/(De + Dav)
+Where: M
+=
+mass emission of the pollutant in grams per kilometre
+M1
+=
+average mass emission of the pollutant in grams per kilometre with a fully charged electrical energy storage device
+M2
+=
+average mass emission of the pollutant in grams per kilometre with an electrical energy storage device in minimum state of charge (maximum discharge of capacity)
+De
+=
+vehicle electric range according to the procedure described in Sub-appendix 2
+Dav
+=
+assumed average distance of the vehicle used in condition B in the time period between two recharges of the energy storage device: —
+4 km for Category 1 motorcycle (Engine capacity < 150 cc),
+—
+6 km for Category 2 motorcycle (Engine capacity ≥ 150 cc, Vmax < 130 km/h),
+—
+10 km for Category 3 motorcycle (Engine capacity ≥ 150 cc, Vmax > 130 km/h),
+3.1.4.2. In the case of testing according to point 3.1.2.3.2.2 the weighted values shall be calculated as below: M = (Dovc · M1 + Dav · M2)/(Dovc + Dav)
+Where: M
+=
+mass emission of pollutant in grams per kilometre
+M1
+=
+average mass emission of pollutant grams per kilometre with a fully charged electrical energy storage device
+M2
+=
+average mass emission of pollutant in grams per kilometre with an electrical energy storage device in minimum state of charge (maximum discharge of capacity)
+Dovc
+=
+vehicle OVC range according to the procedure described in Sub-appendix 2
+Dav
+=
+assumed average distance of the vehicle used in condition B in the time period between two recharges of the energy storage device: —
+4 km for Category 1 motorcycle (Engine capacity < 150 cc),
+—
+6 km for Category 2 motorcycle (Engine capacity ≥ 150 cc, Vmax < 130 km/h),
+—
+10 km for Category 3 motorcycle (Engine capacity ≥ 150 cc, Vmax > 130 km/h),
+3.2. Externally chargeable (OVC) with an operating mode switch
+3.2.1. Two tests shall be performed under the following conditions: 3.2.1.1. Condition A: test shall be carried out with a fully charged electrical energy storage device. 3.2.1.2. Condition B: test shall be carried out with an electrical energy storage device in minimum state of charge (maximum discharge of capacity)
+3.2.1.3. The operating mode switch shall be positioned according the following table:
+
+| Operating modes available | — Pure electric — Hybrid ( 3 ) | — Pure fuel consuming — Hybrid ( 3 ) | — Pure electric — Pure fuel consuming — Hybrid ( 3 ) | — Hybrid mode n … — Hybrid mode m |
+|---|---|---|---|---|
+| Position of the operating mode switch in condition A (maximum state of charge) | Hybrid (3) | Hybrid (3) | Hybrid (3) | Most electric hybrid mode (4) |
+| Position of the operating mode switch in condition B (minimum state of charge) | Hybrid (3) | Fuel consuming | Fuel consuming | Most fuel consuming hybrid mode (5) |
+
+3.2.2. Condition A
+3.2.2.1. If the pure electric range of the vehicle is higher than one complete cycle, on the request of the manufacturer, the Type I test may be carried out in pure electric mode, after agreement of the technical service. In this case, the value of m1 in point 3.2.2.4.5 is equal to 0. 3.2.2.2. The procedure shall start with the discharge of the electrical energy storage device of the vehicle. 3.2.2.2.1. If the vehicle is equipped with a pure electric mode, the discharge of the electrical energy storage device shall be achieved by driving the vehicle with the switch in pure electric position (on the test track, on a chassis dynamometer, etc.) at a steady speed corresponding to 70 % ± 5 % of the maximum speed indicated by manufacturer. Stopping the discharge occurs in any of the following situations: (a) when the vehicle is not able to run at 65 % of the maximum speed; (b) when an indication to stop the vehicle is given to the driver by the standard on-board instrumentation; (c) after covering distance of 100 kilometres. 3.2.2.2.2. If the vehicle is not equipped with a pure electric mode, the discharge of the electrical energy storage device shall be achieved by driving the vehicle: (a) at a steady speed of 50 km/h or the maximum vehicle speed in pure electric vehicle mode until the fuel consuming engine of the HEV starts up; or
+(b) if a vehicle cannot reach a steady speed of 50 km/h without starting up the fuel consuming engine, the speed shall be reduced until the vehicle can run a lower steady speed where the fuel consuming engine does not start up for a defined time/distance (to be specified between technical service and manufacturer); or
+(c) with recommendation from the manufacturer. The fuel consuming engine shall be stopped within 10 seconds of it being automatically started. 3.2.2.3. Conditioning of vehicle
+3.2.2.3.1. Before testing, the vehicle shall be kept in a room in which the temperature remains relatively constant between 293 and 303 K (20 °C and 30 °C). This conditioning shall be carried out for at least six hours and continue until the engine oil temperature and coolant, if any, are within ± 2 K of the temperature of the room, and the electrical energy storage device is fully charged as a result of the charging prescribed in point 3.2.2.3.2. 3.2.2.3.2. During soak, the electrical energy storage device shall be charged, using the normal overnight charging procedure as defined in point 4.1.2 Sub-appendix 2. 3.2.2.4. Test procedure
+3.2.2.4.1. The vehicle shall be started up by the means provided for normal use to the driver. The first cycle starts on the initiation of the vehicle start-up procedure. 3.2.2.4.2. The test procedures defined in either point 3.2.2.4.2.1 or point 3.2.2.4.2.2 may be used. 3.2.2.4.2.1. Sampling shall begin (BS) before or at the initiation of the vehicle start up procedure and end as defined in the applicable test procedure (Appendix 1 or Appendix 1a (end of sampling (ES)). 3.2.2.4.2.2. Sampling shall begin (BS) before or at the initiation of the vehicle start up procedure and continue over a number of repeat test cycles. It shall end on conclusion of the final idling period where the electrical energy storage device has reached the minimum state of charge according to the criterion defined below (end of sampling (ES)). The electricity balance Q [Ah], measured using the procedure specified in Sub-appendix 1 to this appendix, is used to determine when the minimum state of charge of the electrical energy storage device has been reached. The minimum state of charge of the electrical energy storage device is considered to have been reached in test cycle N if the electricity balance during test cycle N + 1 is not more than a 3 % discharge, expressed as a percentage of the nominal capacity of the electrical energy storage device (in Ah) in its maximum state of charge. At the manufacturer's request additional test cycles may be run and their results included in the calculations in points 3.2.2.4.5 and 3.2.2.4.6 provided that the electricity balance for each additional test cycle shows less discharge of the electrical energy storage device than over the previous cycle. In between each of the cycles a hot soak period of up to 10 minutes is allowed. 3.2.2.4.3. The vehicle shall be driven according to the applicable test procedure (Appendix 1 or Appendix 1a). 3.2.2.4.4. The exhaust gases shall be analysed according to the applicable test procedure (Appendix 1 or Appendix 1a). 3.2.2.4.5. The results on the combined cycle for Condition A shall be recorded in m1. In the case of testing according to point 3.2.2.4.2.1, m1 is simply the results in grams of the single cycle run. In the case of testing according to point 3.2.2.4.2.2, m1 is the sum in grams of the results of the N cycles run. {{IMAGE:Image_1, Caption:Mathematical formula defining m1 as the summation of m_i from 1 to N.}} 3.2.2.4.6.
+3.2.2.4.6. The average mass emission in g/km of each pollutant for Condition A shall be calculated (M1),
+M1 = m1/Dtest1
+with Dtest1 the total actual driven distances in the test performed under condition A
+3.2.3. Condition B
+3.2.3.1. In case the vehicle has the possibility to work on different hybrid modes (For instance: sport, economic, urban, extra-urban, etc.), the switch shall be set in such a way that vehicle is running on most fuel consuming hybrid mode (see point 3.2.1.3 above, note 3)
+3.2.3.2. Conditioning of vehicle
+3.2.3.2.1. The electrical energy storage device of the vehicle shall be discharged according to point 3.2.2.2. 3.2.3.2.2. Before testing, the vehicle shall be kept in a room in which the temperature remains relatively constant between 293 and 303 K (20 °C and 30 °C). This conditioning shall be carried out for at least six hours and continue until the engine oil temperature and coolant, if any, are within ± 2 K of the temperature of the room. 3.2.3.3. Test procedure
+3.2.3.3.1. The vehicle shall be started up by the means provided for normal use to the driver. The first cycle starts on the initiation of the vehicle start-up procedure. 3.2.3.3.2. Sampling shall begin (BS) before or at the initiation of the vehicle start up procedure and end as defined in the applicable test procedure (Appendix 1 or Appendix 1a) (end of sampling (ES)). 3.2.3.3.3. The vehicle shall be driven according to the applicable test procedure (Appendix 1 or Appendix 1a). 3.2.3.3.4. The exhaust gases shall be analysed according to the applicable test procedure (Appendix 1 or Appendix 1a). 3.2.3.3.5. The results on the combined cycle for Condition B shall be recorded in m2. 3.2.3.3.6. The average emission in g/km of each pollutant for Condition B shall be calculated (M2)
+M2 = m2/Dtest2
+with Dtest2 the total actual driven distances in the test performed under condition B.
+3.2.4. Test results
+3.2.4.1. In the case of testing according to point 3.2.2.4.2.1, the weighted values shall be calculated as follows: M = (De · M1 + Dav · M2)/(De + Dav)
+Where: M
+=
+mass emission of the pollutant in grams per kilometre
+M1
+=
+average mass emission of the pollutant in grams per kilometre with a fully charged electrical energy storage device. M2
+=
+average mass emission of the pollutant in grams per kilometre with an electrical energy storage device in minimum state of charge (maximum discharge of capacity). De
+=
+vehicle electric range according to the procedure described in Sub-appendix 2
+Dav
+=
+assumed average distance of the vehicle used in condition B in the time period between two recharges of the electric energy storage device: —
+4 km for Category 1 motorcycle (Engine capacity < 150 cc),
+—
+6 km for Category 2 motorcycle (Engine capacity ≥ 150 cc, Vmax < 130 km/h),
+—
+10 km for Category 3 motorcycle (Engine capacity ≥ 150cc, Vmax > 130 km/h),
+3.2.4.2. In the case of testing according to point 3.2.2.4.2.2, the weighted values shall be calculated as follows: M = (Dovc · M1 + Dav · M2)/(Dovc + Dav)
+Where
+M
+=
+mass emission of pollutant in grams per kilometre
+M1
+=
+average mass emission of pollutant grams per kilometre with a fully charged electrical energy storage device calculated in point 3.1.2.3.6. M2
+=
+average mass emission of pollutant in grams per kilometre with an electrical energy storage device in minimum state of charge (maximum discharge of capacity) calculated in point 3.2.3.3.6. Dovc
+=
+vehicle OVC range according to the procedure described in Sub-appendix 2
+Dav
+=
+assumed average distance of the vehicle used in condition B in the time period between two recharges of the electric energy storage device: —
+4 km for Category 1 motorcycle (Engine capacity < 150 cc),
+—
+6 km for Category 2 motorcycle (Engine capacity ≥ 150 cc, Vmax < 130 km/h),
+—
+10 km for Category 3 motorcycle (Engine capacity ≥ 150 cc, Vmax > 130 km/h),
+3.3. Not externally chargeable (NOVC HEV) without an operating mode switch
+3.3.1. Not externally chargeable (NOVC HEV) without an operating mode switch vehicles, in hybrid mode, shall be tested according to Annex I to Chapter 5. 3.3.2. The vehicle shall be driven according to the applicable test procedure (Appendix 1 or Appendix 1a). 3.4. Not externally chargeable (NOVC HEV) with an operating mode switch
+3.4.1. Not externally chargeable (NOVC HEV) with an operating mode switch vehicles, in hybrid mode, are tested according to Annex I to Chapter 5. If several modes are available, the test shall be carried out in the mode that is automatically set after turn on of the ignition key (normal mode). On the basis of information provided by the manufacturer, the Technical Service will make sure that the limit values are met in all hybrid modes. 3.4.2. The vehicle shall be driven according to the applicable test procedure (Appendix 1 or Appendix 1a). 4. TYPE II TEST METHODS
+4.1. The vehicles shall be tested according to the test procedure described in Appendix 2. 'Sub-appendix 1
+Method for measuring the electricity balance of the battery of OVC and NOVC HEVS 1. Purpose
+1.1. The purpose of this sub-appendix is to describe the method and required instrumentation for measuring the electricity balance of Off Vehicle Charging Hybrid Electric Vehicles (OVC HEV) and Not Off Vehicle Charging Hybrid Electric Vehicles (NOVC HEV). 2. Measurement equipment and instrumentation
+2.1. During the tests as described in points 3.1 to 3.4 the battery current shall be measured using a current transducer of the clamp-on type or the closed type. The current transducer (i.e. the current sensor without data acquisition equipment) shall have a minimum accuracy of 0,5 % of the measured value or 0,1 % of the maximum value of the scale. OEM diagnostic testers are not to be used for the purpose of this test. 2.1.1. The current transducer shall be fitted on one of the wires directly connected to the battery. In order to easily measure battery current using external measuring equipment, manufacturers shall, if possible, integrate appropriate, safe and accessible connection points in the vehicle. If that is not feasible, the manufacturer is obliged to support the Technical Service by providing the means to connect a current transducer to the wires connected to the battery in the above described manner. 2.1.2. The output of the current transducer shall be sampled with a minimum sample frequency of 5 Hz. The measured current shall be integrated over time, yielding the measured value of Q, expressed in Ampere hours (Ah). 2.1.3. The temperature at the location of the sensor shall be measured and sampled with the same sample frequency as the current, so that this value can be used for possible compensation of the drift of current transducers and, if applicable, the voltage transducer used to convert the output of the current transducer. 2.2. A list of the instrumentation (manufacturer, model no., serial no.) used by the manufacturer for determining when the minimum state of charge of the battery as been reached during the test procedure defined in points 3.1 and 3.2 and the last calibration dates of the instruments (where applicable) shall be provided to the Technical Service. 3. Measurement procedure
+3.1. Measurement of the battery current shall start at the same time as the test starts and shall end immediately after the vehicle has driven the complete driving cycle. 'Sub-appendix 2
+Method of measuring the electric range of vehicles powered by a hybrid electric power train and the OVC range of vehicles powered by a hybrid electric powertrain 1. MEASUREMENT OF THE ELECTRIC RANGE
+The test method described in this sub-appendix permits to measure the electric range, expressed in km, of vehicles powered by a hybrid electric power train with off-vehicle charging (OVC-HEV). 2. PARAMETERS, UNITS AND ACCURACY OF MEASUREMENTS
+Parameters, units and accuracy of measurements shall be as follows:
+
+| Parameter | Unit | Accuracy | Resolution |
+|---|---|---|---|
+| Time | s | +/- 0,1 s | 0,1 s |
+| Parameter | Unit | Accuracy | Resolution |
+|---|---|---|---|
+| Time | s | +/- 0,1 s | 0,1 s |
+| Distance | m | +/- 0,1 % | 1 m |
+| Temperature | °C | +/- 1 °C | 1 °C |
+| Speed | km/h | +/- 1 % | 0,2 km/h |
+| Mass | kg | +/- 0,5 % | 1 kg |
+| Electricity balance | Ah | +/- 0,5 % | 0,3 % |
+
+3. TEST CONDITIONS
+3.1. Condition of the vehicle
+3.1.1. The vehicle tyres shall be inflated to the pressure specified by the vehicle manufacturer when the tyres are at the ambient temperature. 3.1.2. The viscosity of the oils for the mechanical moving parts shall conform to the specifications of the vehicle manufacturer. 3.1.3. The lighting and light-signalling and auxiliary devices shall be off, except those required for testing and usual daytime operation of the vehicle. 3.1.4. All energy storage systems available for other than traction purposes shall be charged up to their maximum level specified by the manufacturer. 3.1.5. If the batteries are operated above the ambient temperature, the operator shall follow the procedure recommended by the vehicle manufacturer in order to keep the temperature of the battery in the normal operating range. The manufacturer's agent shall be in a position to attest that the thermal management system of the battery is neither disabled nor reduced. 3.1.6. The vehicle must have undergone at least 300 km during the seven days before the test with those batteries that are installed in the test vehicle. 3.2. Climatic conditions
+For testing performed outdoors, the ambient temperature shall be between 5 °C and 32 °C. The indoors testing shall be performed at a temperature between 20 °C and 30 °C. 4. OPERATION MODES
+The test method includes the following steps: (a) Initial charge of the battery; (b) Application of the cycle and measurement of the electric range. Between the steps, if the vehicle shall move, it shall be pushed to the following test area (without regenerative recharging). 4.1. Initial charge of the battery
+Charging the battery consists of the following procedures: Note: "Initial charge of the battery" applies to the first charge of the battery, at the reception of the vehicle. In case of several combined tests or measurements, carried out consecutively, the first charge carried out shall be an "initial charge of the battery" and the following may be done in accordance with the "normal overnight charge" (described in point 4.1.2.1) procedure. 4.1.1. Discharge of the battery
+4.1.1.1. For externally chargeable hybrid electric vehicle (OVC HEV) without an operating mode switch, the manufacturer shall provide the means for performing the measurement with the vehicle running in pure electric operating state. The procedure shall start with the discharge of the electrical energy storage device of the vehicle while driving: (a) at a steady speed of 50 km/h until the fuel consuming engine of the HEV starts up,
+(b) or, if a vehicle can not reach a steady speed of 50 km/h without starting up the fuel consuming engine, the speed shall be reduced until the vehicle can run at a lower steady speed where the fuel consuming engine just does not start up for a defined time/distance (to be specified between technical service and manufacturer),
+(c) or with recommendation from the manufacturer. The fuel consuming engine shall be stopped within 10 seconds of it being automatically started. 4.1.1.2. For externally chargeable hybrid electric vehicle (OVC HEV) with an operating mode: 4.1.1.2.1. If the vehicle is equipped with a pure electric operating state, the procedure shall start with the discharge of the electrical energy storage device of the vehicle while driving with the switch in pure electric position at a steady speed of 70 % +/- 5 % of the maximum thirty minutes speed of the vehicle. Stopping the discharge occurs in any of the following situations: (a) when the vehicle is not able to run at 65 % of the maximum thirty minutes speed; or
+(b) when an indication to stop the vehicle is given to the driver by the standard onboard instrumentation, or
+(c) after covering the distance of 100 km. 4.1.1.2.2. If the vehicle is not equipped with a pure electric operating state, the manufacturer shall provide the means for performing the measurement with the vehicle running in pure electric operating state. The discharge of the electrical energy storage device shall be achieved by driving the vehicle: (a) at a steady speed of 50 km/h until the fuel consuming engine of the HEV starts up, or
+(b) if a vehicle can not reach a steady speed of 50 km/h without starting up the fuel consuming engine, the speed shall be reduced until the vehicle can run a lower steady speed where the fuel consuming engine just does not start up for a defined time/distance (to be specified between technical service and manufacturer), or
+(c) with recommendation from the manufacturer. The fuel consuming engine shall be stopped within 10 seconds of it being automatically started. 4.1.2. Application of a normal overnight charge
+For an OVC HEV, the electrical energy storage device shall be charged according to the following procedure. 4.1.2.1. Normal overnight charge procedure
+The charging is carried out: (a) with the on board charger if fitted; or
+(b) with an external charger recommended by the manufacturer using the charging pattern prescribed for normal charging; (c) in an ambient temperature comprised between 20 °C and 30 °C.
+This procedure excludes all types of special charges that could be automatically or manually initiated like, for instance, the equalisation charges or the servicing charges. The manufacturer shall declare that during the test, a special charge procedure has not occurred. 4.1.2.2. End of charge criteria
+The end of charge criteria corresponds to a charging time of 12 hours, except if a clear indication is given to the driver by the standard instrumentation that the electrical energy storage device is not yet fully charged. In this case, the maximum time is = 3 · claimed battery capacity (Wh)/mains power supply (W)
+4.2. Application of the cycle and measurement of the range
+4.2.1. To determine the electric range of a hybrid electric vehicle
+4.2.1.1. The applicable test sequence as described in point 2 of Annex II to Chapter 5 and accompanying gear shift prescription is applied on a chassis dynamometer adjusted as described in Appendix 1 to Annex II to Chapter 5, until the end of the test criteria is reached. 4.2.1.2. At a speed over 50 km/h or maximum speed in pure electric mode, as declared by manufacturer, when the vehicle does not reach the required acceleration or speed of the test cycle, the accelerator handle shall remain in WOT position until the reference curve has been reached again. 4.2.1.3. To measure the electric driving range the end of the test criteria is reached when the vehicle is not able to meet the target curve, up to 50 km/h, or the maximum speed in pure electric mode, as declared by manufacturer, or when an indication from the standard on-board instrumentation is given to the driver to stop the vehicle or when the electrical energy storage device has reached its minimum level of charge. Then the vehicle shall be slowed down to 5 km/h by releasing the accelerator handle, without touching the brake and then stopped by braking. 4.2.1.4. To respect human needs, up to three interruptions are permitted between test sequences, of no more than 15 minutes in total. 4.2.1.5. At the end, the measure De of the distance covered using the electrical motor only in km is the electric range of the hybrid electric vehicle. It shall be rounded to the nearest whole number. Where the vehicle operates both in electric and hybrid modes during the test, the periods of electric only operation will be determined by measuring current to the injectors or ignition. 4.2.2. To determine the OVC range of a hybrid electric vehicle
+4.2.2.1.
+4.2.2. To determine the OVC range of a hybrid electric vehicle
+4.2.2.1.
+
+The applicable test sequence as defined in point 2 of Annex II to Chapter 5, and accompanying gear shift prescription is applied on a chassis dynamometer adjusted as described in Appendix 1 or Appendix 1a to Annex II to Chapter 5, until the end of the test criteria is reached. 4.2.2.2. To measure the OVC range the end of the test criteria is reached when the battery has reached its minimum state of charge according to the criteria defined in Sub-appendix 1. Driving is continued until the final idling period is reached. 4.2.2.3. To respect human needs, up to three interruptions are permitted between test sequences, of no more than 15 minutes in total. 4.2.2.4. At the end, the total distance driven in km, rounded to the nearest whole number, is the OVC range (Dovc) of the hybrid electric vehicle. {{IMAGE:Image_0, Caption:Mathematical formula defining m1 as the summation of m_i from 1 to N.}} {{IMAGE:Image_3, Caption:Chart illustrating the State of Charge (SOC) profile for an OVC HEV during Condition A of the Type I test, depicting SOC behavior across four sequential phases labeled (1) through (4).}} '
+(1) also known as "externally chargeable" (2) also known as "not externally chargeable" (3) In case of more than one "hybrid mode" is available, the procedure of the last right column shall be used
+(4) Most electric hybrid mode: The hybrid mode which can be proven to have the highest electricity consumption of all selectable hybrid modes when tested in accordance with Condition A, to be established based on information provided by the manufacturer and in agreement with the technical service. (5) Most fuel consuming hybrid mode: The hybrid mode which can be proven to have the highest fuel consumption of all selectable hybrid modes when tested in accordance with Condition B, to be established based on information provided by the manufacturer and in agreement with the technical service.

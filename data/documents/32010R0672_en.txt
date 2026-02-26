@@ -1,0 +1,266 @@
+recital 3
+(3) The scope of this Regulation is in line with that of Directive 78/317/EEC and thus limited to vehicles of category M1.
+recital 4
+(4) Regulation (EC) No 661/2009 lays down fundamental provisions on requirements for the type-approval of motor vehicles with regard to windscreen defrosting and demisting systems.
+
+Therefore, it is necessary to also set out the specific procedures, tests and requirements for such type-approval.
+ADMINISTRATIVE DOCUMENTS FOR EC TYPE-APPROVAL OF MOTOR VEHICLES WITH REGARD TO WINDSCREEN DEFROSTING AND DEMISTING SYSTEMS
+ANNEX I
+Administrative documents for EC type-approval of motor vehicles with regard to windscreen defrosting and demisting systems
+PART 1
+Information document
+MODEL
+Information document No … relating to the EC type-approval of a motor vehicle with regard to windscreen defrosting and demisting systems. The following information shall be supplied in triplicate and include a list of contents. Any drawings shall be supplied in appropriate scale and in sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, shall show sufficient detail. If the systems, components or separate technical units referred to in this annex have electronic controls, information concerning their performance shall be supplied. 0. GENERAL
+0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.2.1. Commercial name(s) (if available): …
+0.3. Means of identification of type, if marked on the vehicle (b): …
+0.3.1. Location of that marking: …
+0.4. Category of vehicle (c): …
+0.5. Name and address of manufacturer: …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+1. GENERAL CONSTRUCTION CHARACTERISTICS OF THE VEHICLE
+1.1. Photographs and/or drawings of a representative vehicle: …
+1.6. Position and arrangement of the engine: …
+1.8. Hand of drive: left/right (1). 3. POWER PLANT (k) 
+3.1. Manufacturer of the engine: …
+3.1.1. Manufacturer's engine code (as marked on the engine or other means of identification): …
+3.2. Internal combustion engine
+3.2.1. Specific engine information
+3.2.1.1. Working principle: positive ignition/compression ignition (1) Cycle: four stroke/two stroke/rotary (1) 
+3.2.1.2. Number and arrangement of cylinders: …
+3.2.1.3. Engine capacity (m): …cm3
+3.2.1.6. Normal engine idling speed (2): … min-1
+3.2.1.8. Maximum net power (n): …kW at … min-1 (manufacturer's declared value)
+3.2.2. Fuel
+3.2.2.1. Light-duty vehicles: Diesel/Petrol/LPG/NG or Biomethane/Ethanol (E85)/Biodiesel/Hydrogen (1) (6) 
+3.2.5. Electrical system
+3.2.5.1. Rated voltage: … V, positive/negative ground (1) 
+3.2.5.2. Generator
+3.2.5.2.1. Type: …
+3.2.5.2.2. Nominal output: …VA
+3.2.7. Cooling system: liquid/air (1) 
+3.2.7.1. Nominal setting of the engine temperature control mechanism: …
+3.2.7.2. Liquid
+3.2.7.2.1. Nature of liquid: …
+3.2.7.2.2. Circulating pump(s): yes/no (1) 
+3.2.7.2.3. Characteristics: … or
+3.2.7.2.3.1. Make(s): …
+3.2.7.2.3.2. Type(s): …
+3.2.7.2.4. Drive ratio(s): …
+3.2.7.2.5. Description of the fan and its drive mechanism: …
+3.2.7.3. Air
+3.2.7.3.1. Fan: yes/no (1) 
+3.2.7.3.2. Characteristics: … or
+3.2.7.3.2.1. Make(s): …
+3.2.7.3.2.2. Type(s): …
+3.3. Electric motor
+3.3.1. Type (winding, excitation) …
+3.3.1.1. Maximum hourly output: … kW
+3.3.1.2. Operating voltage: … V
+3.3.2. Battery
+3.3.2.1. Number of cells: …
+3.3.2.2. Mass: … kg
+3.3.2.3. Capacity: … Ah (Amp-hours)
+3.3.2.4. Position: …
+3.4. Engine or motor combination
+3.4.1. Hybrid electric vehicle: yes/no (1) 
+3.4.2. Category of hybrid electric vehicle: off-vehicle charging/not off-vehicle charging: (1) 
+3.4.3. Operating mode switch: with/without (1) 
+3.4.3.1. Selectable modes
+3.4.3.1.1. Pure electric: yes/no (1) 
+3.4.3.1.2. Pure fuel consuming: yes/no (1) 
+3.4.3.1.3. Hybrid modes: yes/no (1) (if yes, short description): …
+3.4.4. Description of the energy storage device: (battery, capacitor, flywheel/generator)
+3.4.4.1. Make(s): …
+3.4.4.2. Type(s): …
+3.4.4.3. Identification number: …
+3.4.4.4. Kind of electrochemical couple: …
+3.4.4.5. Energy: … (for battery: voltage and capacity Ah in 2 h, for capacitor: J, …)
+3.4.4.6. Charger: on board/external/without (1) 
+3.6. Temperatures permitted by the manufacturer
+3.6.1. Cooling system
+3.6.1.1. Liquid cooling, maximum temperature at outlet: … K
+3.6.1.2. Aircooling
+3.6.1.2.1. Reference point: …
+3.6.1.2.2. Maximum temperature at reference point: … K
+3.6.2. Maximum outlet temperature of the inlet intercooler: … K
+3.6.3. Maximum exhaust temperature at the point in the exhaust pipe(s) adjacent to the outer flange(s) of the exhaust manifold or turbocharger: … K
+9. BODYWORK
+9.1. Type of bodywork using the codes defined in Part C of Annex II of Directive 2007/46/EC: …
+9.2. Materials used and methods of construction: …
+9.3. Occupant doors, latches and hinges
+9.3.1. Door configuration and number of doors: …
+9.4. Field of vision
+9.4.1. Particulars of the primary reference marks in sufficient detail to enable them to be readily identified and the position of each in relation to the others and to the R-point to be verified: …
+9.4.2. Drawing(s) or photograph(s) showing the location of component parts within the 180° forward field of vision: …
+9.5. Windscreen and other windows
+9.5.1. Windscreen
+9.5.1.1. Materials used: …
+9.5.1.2. Method of mounting: …
+9.5.1.3. Angle of inclination: …
+9.5.1.4. Type-approval number(s): …
+9.5.1.5. Windscreen accessories and the position in which they are fitted together with a brief description of any electrical/electronic components involved: …
+9.6. Windscreen wiper(s)
+9.6.1. Detailed technical description (including photographs or drawings): …
+9.7. Windscreen washer
+9.7.1. Detailed technical description (including photographs or drawings) or, if approved as separate technical unit, type-approval number: …
+9.8. Defrosting and demisting
+9.8.1. Detailed technical description (including photographs or drawings): …
+9.8.2. Maximum electrical consumption: …kW
+9.10. Interior arrangement
+9.10.1. Interior protection for occupants
+9.10.1.1. Layout drawing or photographs showing the position of the attached sections or views: …
+9.10.1.3. Photographs, drawings and/or an exploded view of the interior fittings, showing the parts in the passenger compartment and the materials used (with the exception of interior rear view mirrors), arrangement of controls, roof and opening roof, backrest, seats and the rear part of seats: …
+9.10.3. Seats
+9.10.3.1. Number of seating positions (s): …
+9.10.3.1.1. Location and arrangement: …
+9.10.3.5. Coordinates or drawing of the R-point
+9.10.3.5.1. Driver's seat: …
+9.10.3.6. Design torso angle
+9.10.3.6.1. Driver's seat: …
+Explanatory notes
+PART 2
+EC type-approval certificate
+MODEL
+Format: A4 (210 × 297 mm)
+EC TYPE-APPROVAL CERTIFICATE
+Stamp of type-approval authority
+Communication concerning:
+
+| — EC type-approval ( 3 ) — extension of EC type-approval ( 3 ) — refusal of EC type-approval ( 3 ) — withdrawal of EC type-approval ( 3 ) | of a type of vehicle with regard to windscreen defrosting and demisting systems |
+|---|---|
+| with regard to Regulation (EU) No 672/2010, as last amended by Regulation (EU) No …/… (3) | with regard to Regulation (EU) No 672/2010, as last amended by Regulation (EU) No …/… (3) |
+| EC type-approval number: … | EC type-approval number: … |
+| Reason for extension: … | Reason for extension: … |
+
+SECTION I
+0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.2.1. Commercial name(s) (if available): …
+0.3. Means of identification of type, if marked on the vehicle (4): …
+0.3.1. Location of that marking: …
+0.4. Category of vehicle (5): …
+0.5. Name and address of manufacturer: …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+SECTION II
+1. Additional information: see Addendum. 2. Technical service responsible for carrying out the tests: …
+3. Date of test report: …
+4. Number of test report: …
+5. Remarks (if any): see Addendum. 6. Place: …
+7. Date: …
+8. Signature: …
+Attachments
+:
+Information package
+Test report
+(b) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??).
+REQUIREMENTS FOR WINDSCREEN DEFROSTING AND DEMISTING SYSTEMS
+ANNEX II
+Requirements for windscreen defrosting and demisting systems
+1.
+
+SPECIFIC REQUIREMENTS
+1.1. Windscreen defrosting
+1.1.1. Every vehicle shall be equipped with a system for removing frost and ice from the exterior glazed surface of the windscreen. The windscreen defrosting system shall be effective enough to ensure adequate visibility through the windscreen in cold weather. 1.1.2. The efficiency of the system shall be verified by determining the defrosted area of the windscreen periodically after starting, the vehicle having been kept in a cold chamber for a certain amount of time. 1.1.3. The requirements of paragraphs 1.1.1 and 1.1.2 shall be checked using the method set out in paragraph 2.1 of this Annex. 1.1.4. The following requirements shall be satisfied: 1.1.4.1. 20 minutes after the start of the test period, vision area A, as determined in accordance with Appendix 3 to Annex II, shall be 80 % defrosted; 1.1.4.2. 25 minutes after the start of the test period, the defrosted area of the windscreen on the passenger side shall be comparable to that specified in paragraph 1.1.4.1 for the driver's side; 1.1.4.3. 40 minutes after the start of the test period, vision area B, as determined in accordance with Appendix 3 to Annex II, shall be 95 % defrosted. 1.2. Windscreen demisting
+1.2.1. Every vehicle shall be equipped with a system for removing mist from the interior glazed surface of the windscreen. 1.2.2. The demisting system shall be effective enough to restore visibility through the windscreen in case it is fogged up with mist. Its efficiency shall be verified by the procedure described in paragraph 2.2 of this Annex. 1.2.3. The following requirements shall be satisfied: 1.2.3.1. Vision area A, as determined in accordance with Appendix 3 to Annex II, shall be 90 % demisted in 10 minutes; 1.2.3.2. Vision area B, as determined in accordance with Appendix 3 to Annex II, shall be 80 % demisted in 10 minutes. 2. TEST PROCEDURE
+2.1. Windscreen defrosting
+2.1.1. The test shall be carried out at a temperature of - 8 ± 2 °C or - 18 ± 3 °C, as selected by the manufacturer. 2.1.2. The test shall be carried out in a cold chamber large enough to contain the complete vehicle and equipped to maintain one of the temperatures mentioned in paragraph 2.1.1 in the chamber throughout the test and to circulate cold air. The cold chamber shall be maintained at or below the specified test temperature for not less than 24 hours before the start of the period during which the vehicle is exposed to cold. 2.1.3. Before the test, the inner and outer surfaces of the windscreen shall be thoroughly degreased by means of methylated spirit or an equivalent degreasing agent. After drying, a solution of ammonia of not less than 3 % and not more than 10 % shall be applied. The surface shall be allowed to dry again and then be wiped with a dry cotton cloth. 2.1.4. The vehicle shall be switched off and shall be kept at the test temperature for not less than 10 hours prior to commencement of the test. 2.1.4.1. If it is possible to check whether the vehicle's engine coolant and lubricant are stabilized at the test temperature, this period may be shortened. 2.1.5. Following the exposure period prescribed in paragraph 2.1.4, an even layer of ice of 0,044 g/cm2 shall be applied over the entire outside surface of the windscreen by means of a water spray gun working at 3,5 ± 0,2 bar operating pressure. 2.1.5.1. The spray nozzle, adjusted to full fan pattern and maximum flow, shall be held perpendicular to and at a distance of between 200 and 250 mm from the glazed surface, and so directed as to form an even layer of ice right across the windscreen from one side to the other. 2.1.5.1.1. A spray gun having a nozzle of 1,7 mm diameter and a liquid flow rate of 0,395 l/min, and capable of producing a fan pattern of 300 mm diameter on the glazed surface at a distance 200 mm from that surface, may be used to satisfy the requirements of paragraph 2.1.5. Any other device by which the requirements can be satisfied shall also be permitted. 2.1.6. After the ice has been formed on the windscreen, the vehicle shall be kept in the cold chamber for an additional period of not less than 30 minutes and not more than 40 minutes. 2.1.7. After the period prescribed in paragraph 2.1.6 has elapsed, one or two observers shall enter the vehicle, subsequently the vehicle master operation control may be switched to the on position and any engine can be started, if necessary by some external means. The test period shall commence as soon as the vehicle master control switch has been activated. 2.1.7.1. If the vehicle is fitted with an engine, the engine speeds may be adjusted according to manufacturer's specification recommended for warming up when starting in cold weather, during the first five minutes of the test period. 2.1.7.2. During the final 35 minutes of the test period (or during the entire test period if the five-minute warming-up procedure is not followed): 2.1.7.2.1. The engine, if fitted, shall run at a speed not exceeding 50 % of the speed corresponding to its maximum power output. However, if this is proven not to be practicable due to specific engine control strategies, for instance in the case of electric hybrid vehicles, a realistic worst case scenario shall be determined. The scenario shall take into account the engine speeds, periodical absence or complete absence of a running engine during normal driving conditions at an ambient temperature of - 8 °C or - 18 °C, whichever has been selected by the manufacturer as the designated test temperature. If the system can meet the defrosting requirements without a running engine, the engine does not have to run at all. 2.1.7.3. All batteries shall be fully charged at the start of the test. 2.1.7.4. During the test, the voltage at the terminals of the defrosting device may be not more than 20 % above the nominal rating of the system. 2.1.7.5. The temperature in the test chamber shall be measured at the level of the centre of the windscreen, at a point not significantly affected by heat from the vehicle under test. 2.1.7.6. The horizontal component of the speed of the air cooling the chamber, measured immediately prior to the test, in the median plane of the vehicle at a point 300 mm forward of the base of the windscreen and at a level half-way between the base and the top of the windscreen, shall be as low as possible and in any event less than 8 km/h. 2.1.7.7. If fitted, the engine bonnet, roof, all doors, windows and vents, except the intakes and outlets of the heating and ventilating system, shall be closed; one or two windows may be opened for a total vertical distance of 25 mm if the vehicle manufacturer so requests. 2.1.7.8. The vehicle's defrosting system controls shall be set as recommended by the vehicle manufacturer for the test temperature. 2.1.7.9. The windscreen wipers may be used during the test, but this shall be done without any manual assistance apart from the operation of any controls in the interior of the vehicle. 2.1.8. The observer(s) shall outline the defrosted area on the inside surface of the windscreen, at five-minute intervals from the start of the test period. 2.1.9. On completion of the test, the pattern of the defrosted area outlined on the inner face of the windscreen as required by paragraph 2.1.8 shall be noted and marked to identify windscreen vision areas A and B.
+2.2. Windscreen demisting
+2.2.1. Before the test, the inside surface of the windscreen shall be thoroughly degreased by means of methylated spirit, or an equivalent degreasing agent. After drying, a solution of ammonia of not less than 3 % and not more than 10 % shall be applied. The surface shall be allowed to dry again and then be wiped with a dry cotton cloth.
+recital 5
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee — Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+1. 'vehicle type with regard to the windscreen defrosting and demisting systems' means vehicles which do not differ in such essential respects as: — the characteristics of the defrosting and demisting systems, — the external and internal forms and arrangements within the 180° forward field of vision area of the driver which may affect visibility, — the shape, size, thickness and characteristics of the windscreen and its mounting, — the maximum number of seating positions;
+Article 2 - Definitions
+For the purposes of this Regulation, the following definitions shall apply:
+
+1. 'vehicle type with regard to the windscreen defrosting and demisting systems' means vehicles which do not differ in such essential respects as: —
+the characteristics of the defrosting and demisting systems,
+—
+the external and internal forms and arrangements within the 180° forward field of vision area of the driver which may affect visibility,
+—
+the shape, size, thickness and characteristics of the windscreen and its mounting,
+—
+the maximum number of seating positions; 2. 'engine' means a combustion engine running on either liquid or gaseous fuel; 3. 'defrosting system' means the system intended to eliminate frost or ice on the outside surface of the windscreen; 4. 'defrosted area' means the area of the windscreen having a dry outside surface or an outside surface covered with melted or partially melted wet frost which can be removed by the vehicle's windscreen wiper system; 5. 'demisting system' means the system intended to remove mist on the inside surface of the windscreen; 6. 'mist' means a film of condensate on the inside face of the glazed surface of the windscreen; 7. 'demisted area' means the area of the windscreen having a dry inside surface, without any drops or traces of water, after previously being covered by mist; 8. 'vision area A' means test area A as defined in paragraph 2.2 of Annex 18 of UN-ECE Regulation 43 (4); 9. 'vision area B' means reduced test area B as defined in paragraph 2.4 of Annex 18 of UN-ECE Regulation 43, without the exclusion of the area defined in paragraph 2.4.1 thereof; 10. 'design torso angle' means the angle measured between a vertical line through the R-point or seating reference point and the torso line in a position which corresponds to the design position of the seat-back as declared by the vehicle manufacturer; 11. 'R-point' or seating reference point means the design point defined by the vehicle manufacturer for each seating position with respect to the three-dimensional reference system; 12. 'three-dimensional reference system' means a reference grid which consists of a vertical longitudinal plane X-Z, a horizontal plane X-Y and a vertical transverse plane Y-Z in accordance with the provisions of Appendix 2 of Annex II; 13. 'primary reference marks' means holes, surfaces, marks or other identification signs on the vehicle body or chassis of which the X, Y and Z coordinates within the three-dimensional reference grid are specified by the vehicle manufacturer; 14. 'vehicle master control switch' means the device by which the vehicle's on-board electronics system is brought from being switched off, as is the case when a vehicle is parked without the driver being present, to normal operation mode.
+Article 1 - Scope
+This Regulation applies to motor vehicles of category M1, as defined in Annex II to Directive 2007/46/EC, which are fitted with a windscreen.
+recital 2
+(2) Regulation (EC) No 661/2009 repeals Council Directive 78/317/EEC of 21 December 1977 on the approximation of the laws of the Member States relating to the defrosting and demisting systems of glazed surfaces of motor vehicles (3).
+
+The requirements set out in that Directive should be carried over to this Regulation and, where necessary, amended in order to adapt them to the development of scientific and technical knowledge, in particular to take into account the specific characteristics of hybrid and electrical vehicles.
+Article 3 - Provisions for EC type-approval of a vehicle with regard to windscreen defrosting and demisting systems
+1.
+
+The manufacturer or his representative shall submit to the type-approval authority the application for EC type-approval of a vehicle with regard to windscreen defrosting and demisting systems. 2. The application shall be drawn up in accordance with the model of the information document set out in Part 1 of Annex I. 3. If the relevant requirements set out in Annex II are met, the approval authority shall grant an EC type-approval and issue a type-approval number in accordance with the numbering system set out in Annex VII to Directive 2007/46/EC. A Member State may not assign the same number to another vehicle type. 4. For the purposes of paragraph 3, the type-approval authority shall deliver an EC type-approval certificate established in accordance with the model set out in Part 2 of Annex I.
+Article 4 - Validity and extension of approvals granted under Directive 78/317/EEC
+National authorities shall permit the sale and entry into service of vehicles type-approved before the date referred to in Article 13, paragraph 2 of Regulation (EC) No 661/2009 and continue to grant extension of approvals to those vehicles under the terms of Directive 78/317/EEC.
+recital 1
+(1) Regulation (EC) No 661/2009 is a separate Regulation for the purposes of the type-approval procedure provided for by Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (2).
+Article 5 - Entry into force
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor (1), and in particular Article 14(1)(a) thereof,
+Whereas:
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor (1), and in particular Article 14(1)(a) thereof,
+Whereas:
+
+(1) Regulation (EC) No 661/2009 is a separate Regulation for the purposes of the type-approval procedure provided for by Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (2). (2) Regulation (EC) No 661/2009 repeals Council Directive 78/317/EEC of 21 December 1977 on the approximation of the laws of the Member States relating to the defrosting and demisting systems of glazed surfaces of motor vehicles (3). The requirements set out in that Directive should be carried over to this Regulation and, where necessary, amended in order to adapt them to the development of scientific and technical knowledge, in particular to take into account the specific characteristics of hybrid and electrical vehicles. (3) The scope of this Regulation is in line with that of Directive 78/317/EEC and thus limited to vehicles of category M1. (4) Regulation (EC) No 661/2009 lays down fundamental provisions on requirements for the type-approval of motor vehicles with regard to windscreen defrosting and demisting systems. Therefore, it is necessary to also set out the specific procedures, tests and requirements for such type-approval. (5) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee — Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+The surface shall be allowed to dry again and then be wiped with a dry cotton cloth. 2.2.2. The test shall be carried out in an environmental chamber large enough to take the complete vehicle and capable of producing and maintaining a test temperature of - 3 ± 1 °C throughout the test period. 2.2.2.1. The temperature in the test chamber shall be measured at the level of the centre of the windscreen, at a point not significantly affected by heat from the vehicle under test. 2.2.2.2. The horizontal component of the speed of the air cooling the chamber, measured immediately prior to the test, in the median plane of the vehicle at a point 300 mm forward of the base of the windscreen and at a level half-way between the base and the top of the windscreen, shall be as low as possible and in any event less than 8 km/h. 2.2.2.3. If fitted, the engine bonnet, roof, all doors, windows and vents, except the intakes and outlets of the heating and ventilation system, shall be closed; one or two windows may be opened from the beginning of the demisting test for a total vertical distance of 25 mm if the vehicle manufacturer so requests. 2.2.3. The mist shall be produced by means of the steam generator described in Appendix 4 of Annex II. The generator shall contain enough water to generate at least 70 ± 5 g/h of steam for each seating position designated by the manufacturer, in an ambient temperature of - 3 °C.
+2.2.4. The inside surface of the windscreen shall be cleaned as prescribed in paragraph 2.2.1 after the vehicle is placed in the environmental chamber. The ambient air temperature shall be lowered and stabilized at - 3 ± 1 °C. The vehicle shall be switched off and shall be kept at the test temperature for not less than 10 hours prior to commencement of the test. If it is possible to check whether the vehicle's engine coolant and lubricant are stabilized at the test temperature, this period may be shortened. 2.2.5. The steam generator shall be placed with its outlets in the median longitudinal plane of the vehicle at a height of 580 ± 80 mm above the R-point or seating reference point of the driver's seat. It shall normally be placed immediately behind the front seat backrests, with the seats in the manufacturer's declared design positions and the seat-backs set in accordance with design torso angles. Where the design of the vehicle precludes this, the generator shall be placed in front of the backrests, in the nearest convenient position to that mentioned above. 2.2.6. After the generator has been operating for five minutes inside the vehicle, one or two observers shall quickly enter the vehicle, opening any access doors for a total duration not exceeding 8 seconds, and be seated on the front seating position(s), the output of the generator being then reduced by 70 ± 5 g/h for each observer. 2.2.7. One minute after the observer(s) have entered the vehicle, the vehicle master operation control may be switched to the on position and any engine can be started, if necessary by some external means. The test period shall commence as soon as the vehicle master control switch has been activated. 2.2.7.1. If the vehicle is fitted with an engine, it shall run at a speed not exceeding 50 % of the speed corresponding to its maximum power output. However, if this is proven not to be practicable due to specific engine control strategies, for instance in the case of electric hybrid vehicles, a realistic worst case scenario shall be determined. The scenario shall take into account the engine speeds, periodical absence or complete absence of a running engine during normal driving conditions at an ambient temperature of - 1 °C. If the system can meet the demisting requirements without a running engine, the engine does not have to run at all. 2.2.7.2. The vehicle's demisting system controls shall be set as recommended by the vehicle manufacturer for the test temperature. 2.2.7.3. All batteries shall be fully charged at the start of the test. 2.2.7.4. The voltage at the terminals of the demisting device may be not more than 20 % above the nominal rating of the system. 2.2.8. At the end of the test, the demist pattern shall be recorded, noted and marked to identify windscreen vision areas A and B.
+Appendix 1
+Procedure for verification of the R-point or seating reference point
+Appendix 1
+Procedure for verification of the R-point or seating reference point
+The R-point or seating reference point is established in accordance with the provisions laid down in Annex 3 of UN-ECE Regulation 17 (1). (1) OJ L 373, 27.12.2006, p. 1. Appendix 2
+Procedure for determining primary reference marks in the three-dimensional reference system
+Appendix 2
+Procedure for determining primary reference marks in the three-dimensional reference system
+The dimensional relationships between primary reference marks on drawings and their position on the actual vehicle are established in accordance with the provisions laid down in Annex 4 of UN-ECE Regulation 125 (1). (1) Hasn't been published yet. Will be published by August 2010. Appendix 3
+Procedure for determining vision areas on windscreens of vehicles
+Appendix 3
+Procedure for determining vision areas on windscreens of vehicles
+The vision areas A and B are established in accordance with the provisions laid down in Annex 18 of UN-ECE Regulation 43. Appendix 4
+Requirements for the steam generator
+Appendix 4
+Requirements for the steam generator
+1. CHARACTERISTICS
+1.1. The steam generator used for the test shall have the following general characteristics: 1.1.1. The water container shall have a capacity of at least 2,25 litres. 1.1.2. The heat loss at boiling point shall not exceed 75 W in an ambient temperature of - 3 ± 1 °C.
+1.1.3. The fan shall have a capacity of 0,07 to 0,10 m3/min at 0,5 mbar static pressure. 1.1.4. Six steam outlet holes shall be positioned at the top of the generator, around the perimeter spaced at equal distances (see Figure 1):
+1.1.5. The generator shall be calibrated at - 3 ± 1 °C to give reading for each 70 ± 5 g/h output up to a maximum of n times this figure, where n is the maximum number of seating positions designated by the manufacturer. {{IMAGE:Image_0, Caption:Figure 1: Diagram of a steam generator showing the assembly of the centrifugal fan, dispersion chamber, nozzle, and insulated container with internal heating element.}} 1.2. The specified parts shall have the following dimensional and material characteristics: 1.2.1. Nozzle
+1.2.1.1. Dimensions: 1.2.1.1.1. Length 100 mm.
+1.2.1.1.2. Inside diameter 15 mm. 1.2.1.2. Material: 1.2.1.2.1. Brass. 1.2.2. Dispersion chamber
+1.2.2.1. Dimensions: 1.2.2.1.1. Pipe outside diameter 75 mm. 1.2.2.1.2. Wall thickness 0,38 mm.
+1.2.2.1.3. Length 115 mm.
+1.2.2.1.4. Six evenly spaced holes of 6,3 mm in diameter, 25 mm above the bottom of the dispersion chamber. 1.2.2.2. Material: 1.2.2.2.1. Brass.
+2. 'engine' means a combustion engine running on either liquid or gaseous fuel;
+6. Place: …
+7. Date: …
+8. Signature: …
+Attachments
+:
+Information package
+Test report
+(b) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??).
+
+(c) Classified according to the definitions set out in Directive 2007/46/EC Part A of Annex II. (1) Delete where not applicable. (k) In the case of a vehicle that can run either on petrol, diesel, etc., or also in combination with another fuel, items shall be repeated. In the case of non-conventional engines and systems, particulars equivalent to those referred to here shall be supplied by the manufacturer. (m) This value shall be calculated (π = 3,1416) and rounded off to the nearest cm3. (2) Specify the tolerance. (n) Determined in accordance with the requirements of Council Directive 80/1269/EEC (OJ L 375, 31.12.1980, p. 46). (6) Vehicles can be fuelled with both petrol and a gaseous fuel but, where the petrol system is fitted for emergency purposes or starting only and of which the petrol tank cannot contain more than 15 litres of petrol, will be regarded for the test as vehicles which can only run a gaseous fuel. (s) The number of seating positions to be mentioned shall be the one when the vehicle is in motion. A range can be specified in case of modular arrangement. (3) Delete where not applicable. (4) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??). (5) As defined in Directive 2007/46/EC, Annex II, Section A.
+3. 'defrosting system' means the system intended to eliminate frost or ice on the outside surface of the windscreen;
+4. 'defrosted area' means the area of the windscreen having a dry outside surface or an outside surface covered with melted or partially melted wet frost which can be removed by the vehicle's windscreen wiper system;
+5. 'demisting system' means the system intended to remove mist on the inside surface of the windscreen;
+6. 'mist' means a film of condensate on the inside face of the glazed surface of the windscreen;
+7. 'demisted area' means the area of the windscreen having a dry inside surface, without any drops or traces of water, after previously being covered by mist;
+8. 'vision area A' means test area A as defined in paragraph
+9. 'vision area B' means reduced test area B as defined in paragraph
+10. 'design torso angle' means the angle measured between a vertical line through the R-point or seating reference point and the torso line in a position which corresponds to the design position of the seat-back as declared by the vehicle manufacturer;
+11. 'R-point' or seating reference point means the design point defined by the vehicle manufacturer for each seating position with respect to the three-dimensional reference system;
+12. 'three-dimensional reference system' means a reference grid which consists of a vertical longitudinal plane X-Z, a horizontal plane X-Y and a vertical transverse plane Y-Z in accordance with the provisions of Appendix 2 of Annex II;
+13. 'primary reference marks' means holes, surfaces, marks or other identification signs on the vehicle body or chassis of which the X, Y and Z coordinates within the three-dimensional reference grid are specified by the vehicle manufacturer;
+14. 'vehicle master control switch' means the device by which the vehicle's on-board electronics system is brought from being switched off, as is the case when a vehicle is parked without the driver being present, to normal operation mode.

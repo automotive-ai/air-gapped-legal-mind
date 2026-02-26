@@ -1,0 +1,92 @@
+recital 5
+(5) UNECE WP.29, during the 188th session of the World Forum to be held from 14 to 16 November 2022, may adopt: proposals for modifications to UN regulations Nos 0, 13, 24, 34, 43, 48, 67, 83, 90, 118, 125, 127, 129, 149, 151, 158, 159, 161, 162 and 163; a proposal for a new UN regulation on vulnerable road users in front and side close proximity; a proposal for a new UN regulation on the approval of motor vehicles with regard to their direct vision;
+
+and a proposal for an amendment to UN mutual resolution No 1.
+recital 4
+(4) Pursuant to Article 1 of the Revised 1958 Agreement and Article 6 of the Parallel Agreement, the UNECE World Forum for Harmonization of Vehicle Regulations ('UNECE WP.29') may adopt proposals for modifications to UN regulations, UN global technical regulations ('UN GTRs') and UN resolutions, and proposals for new UN regulations, UN GTRs and UN resolutions on the approval of vehicles.
+
+Moreover, pursuant to those provisions, UNECE WP.29 may adopt proposals for authorisations to develop amendments to UN GTRs or to develop new UN GTRs, and may adopt proposals for the extension of mandates for UN GTRs.
+recital 3
+(3) Regulation (EU) 2018/858 of the European Parliament and of the Council (3) lays down the administrative provisions and technical requirements for type-approval and the placing on the market of all new vehicles, systems, components and separate technical units.
+
+That Regulation incorporates regulations adopted under the Revised 1958 Agreement ('UN regulations') in the EU type-approval system, either as requirements for type-approval or as alternatives to Union legislation.
+recital 2
+(2) By Council Decision 2000/125/EC (2), the Union acceded to the Agreement concerning the establishing of global technical regulations for wheeled vehicles, equipment and parts which can be fitted and/or be used on wheeled vehicles (the 'Parallel Agreement').
+
+The Parallel Agreement entered into force on 15 February 2000.
+recital 1
+(1) By Council Decision 97/836/EC (1), the Union acceded to the Agreement of the United Nations Economic Commission for Europe ('UNECE') concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions (the 'Revised 1958 Agreement').
+
+The Revised 1958 Agreement entered into force on 24 March 1998.
+citation
+THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114, in conjunction with Article 218(9) thereof,
+Having regard to the proposal from the European Commission,
+Whereas:
+Introduction
+THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114, in conjunction with Article 218(9) thereof,
+Having regard to the proposal from the European Commission,
+Whereas:
+
+(1) By Council Decision 97/836/EC (1), the Union acceded to the Agreement of the United Nations Economic Commission for Europe ('UNECE') concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions (the 'Revised 1958 Agreement'). The Revised 1958 Agreement entered into force on 24 March 1998. (2) By Council Decision 2000/125/EC (2), the Union acceded to the Agreement concerning the establishing of global technical regulations for wheeled vehicles, equipment and parts which can be fitted and/or be used on wheeled vehicles (the 'Parallel Agreement'). The Parallel Agreement entered into force on 15 February 2000. (3) Regulation (EU) 2018/858 of the European Parliament and of the Council (3) lays down the administrative provisions and technical requirements for type-approval and the placing on the market of all new vehicles, systems, components and separate technical units. That Regulation incorporates regulations adopted under the Revised 1958 Agreement ('UN regulations') in the EU type-approval system, either as requirements for type-approval or as alternatives to Union legislation. (4) Pursuant to Article 1 of the Revised 1958 Agreement and Article 6 of the Parallel Agreement, the UNECE World Forum for Harmonization of Vehicle Regulations ('UNECE WP.29') may adopt proposals for modifications to UN regulations, UN global technical regulations ('UN GTRs') and UN resolutions, and proposals for new UN regulations, UN GTRs and UN resolutions on the approval of vehicles. Moreover, pursuant to those provisions, UNECE WP.29 may adopt proposals for authorisations to develop amendments to UN GTRs or to develop new UN GTRs, and may adopt proposals for the extension of mandates for UN GTRs. (5) UNECE WP.29, during the 188th session of the World Forum to be held from 14 to 16 November 2022, may adopt: proposals for modifications to UN regulations Nos 0, 13, 24, 34, 43, 48, 67, 83, 90, 118, 125, 127, 129, 149, 151, 158, 159, 161, 162 and 163; a proposal for a new UN regulation on vulnerable road users in front and side close proximity; a proposal for a new UN regulation on the approval of motor vehicles with regard to their direct vision; and a proposal for an amendment to UN mutual resolution No 1. (6) The UN regulations will be binding on the Union. Together with the UN resolution, they will decisively influence the content of Union law in the field of vehicle type-approval. Therefore, it is appropriate to establish the position to be taken on the Union's behalf in UNECE WP.29 on the adoption of those proposals. (7) To reflect experience and technical developments, the requirements for certain aspects or features covered by UN regulations Nos 0, 13, 24, 34, 43, 48, 67, 83, 90, 118, 125, 127, 129, 149, 151, 158, 159, 161, 162, 163 and UN mutual resolution No 1 need to be amended or supplemented. (8) To reflect technical progress, improve vehicle safety and reduce the vulnerability of road users, a new UN regulation on vulnerable road users in front and side close proximity and a new UN regulation on the approval of motor vehicles with regard to their direct vision need to be adopted,
+HAS ADOPTED THIS DECISION:
+recital 8
+(8) To reflect technical progress, improve vehicle safety and reduce the vulnerability of road users, a new UN regulation on vulnerable road users in front and side close proximity and a new UN regulation on the approval of motor vehicles with regard to their direct vision need to be adopted,
+HAS ADOPTED THIS DECISION:
+recital 7
+(7) To reflect experience and technical developments, the requirements for certain aspects or features covered by UN regulations Nos 0, 13, 24, 34, 43, 48, 67, 83, 90, 118, 125, 127, 129, 149, 151, 158, 159, 161, 162, 163 and UN mutual resolution No 1 need to be amended or supplemented.
+Article 2
+This Decision shall enter into force on the date of its adoption.
+recital 6
+(6) The UN regulations will be binding on the Union.
+
+Together with the UN resolution, they will decisively influence the content of Union law in the field of vehicle type-approval. Therefore, it is appropriate to establish the position to be taken on the Union's behalf in UNECE WP.29 on the adoption of those proposals.
+| Regulation No | Agenda item title | Document reference (1) |
+|---|---|---|
+| 0 | Proposal for the 05 Series of amendments to UN Regulation No 0 (International Whole Vehicle Type Approval) (ECE/TRANS/WP.29/1166, para. 107, based on WP.29-187-20) | ECE/TRANS/WP.29/2022/111 |
+| 13 | Proposal for Supplement 20 to the 11 series of amendments to UN Regulation No 13 (Heavy Vehicle Braking) (ECE/TRANS/WP.29/GRVA/13, based on ECE/TRANS/WP.29/GRVA/2022/11, as amended by GRVA-13-22/Rev.1) | ECE/TRANS/WP.29/2022/137 |
+| 13 | Proposal for Supplement 2 to the 12 series of amendments to UN Regulation No 13 (Heavy Vehicle Braking) (ECE/TRANS/WP.29/GRVA/13, based on ECE/TRANS/WP.29/GRVA/2022/11, as amended by GRVA-13-22/Rev.1) | ECE/TRANS/WP.29/2022/138 |
+| 24 | Proposal for Supplement 9 to the 03 series of amendments to UN Regulation No 24 (Visible pollutants, measurement of power of C.I. engines (Diesel smoke)) (ECE/TRANS/WP.29/GRPE/86/Rev.1, para. 41, based on ECE/TRANS/WP.29/GRPE/2022/22, as amended during the session by Annex VII) | ECE/TRANS/WP.29/2022/133/Rev.1 |
+| 34 | Proposal for the 04 series of amendments to UN Regulation No 34 (Prevention of fire risk) (ECE/TRANS/WP.29/GRSG/102, para. 33, based on ECE/TRANS/WP.29/GRSG/2021/19/Rev.1, as amended by para. 33 of the report) | ECE/TRANS/WP.29/2022/116 |
+| 34 | Proposal for Supplement 3 to the 03 series of amendments to UN Regulation No 34 (Prevention of fire risk) (ECE/TRANS/WP.29/GRSG/102, para. 32, based on ECE/TRANS/WP.29/GRSG/2022/19, not amended) | ECE/TRANS/WP.29/2022/117 |
+| 43 | Proposal for Supplement 10 to the 01 series of amendments to UN Regulation No 43 (Safety glazing) (ECE/TRANS/WP.29/GRSG/102, para. 12, based on ECE/TRANS/WP.29/GRSG/2022/3 and ECE/TRANS/WP.29/GRSG/2022/4, not amended) | ECE/TRANS/WP.29/2022/118 |
+| 48 | Proposal for Supplement 17 to the 06 series of amendments to UN Regulation No 48 (Installation of lighting and light-signalling devices) (ECE/TRANS/WP.29/GRE/86, para. 18, based on ECE/TRANS/WP.29/GRE/2022/5, as amended by GRE-86-05-Rev.2) | ECE/TRANS/WP.29/2022/112 |
+| 48 | Proposal for Supplement 4 to the 07 series of amendments to UN Regulation No 48 (Installation of lighting and light-signalling devices) (ECE/TRANS/WP.29/GRE/86, para. 18, based on ECE/TRANS/WP.29/GRE/2022/5, as amended by GRE-86-05-Rev.2) | ECE/TRANS/WP.29/2022/113 |
+| 48 | Proposal for Supplement 2 to the 08 series of amendments to UN Regulation No 48 (Installation of lighting and light-signalling devices) (ECE/TRANS/WP.29/GRE/86, para. 18, based on ECE/TRANS/WP.29/GRE/2022/5, as amended by GRE-86-05-Rev.2) | ECE/TRANS/WP.29/2022/114 |
+| 67 | Proposal for Supplement 2 to the 03 series of amendments to UN Regulation No 67 (LPG vehicles) (ECE/TRANS/WP.29/GRSG/102, para. 35, based on ECE/TRANS/WP.29/GRSG/2022/11, not amended) | ECE/TRANS/WP.29/2022/119 |
+| 67 | Proposal for Supplement 1 to the 04 series of amendments to UN Regulation No 67 (LPG vehicles) (ECE/TRANS/WP.29/GRSG/102, para. 35, based on ECE/TRANS/WP.29/GRSG/2022/11, not amended) | ECE/TRANS/WP.29/2022/120 |
+| 83 | Proposal for Supplement 16 to the 05 series of amendments to UN Regulation No 83 (Emissions of M1 and N1 vehicles) (ECE/TRANS/WP.29/GRPE/86/Rev.1, para. 21, based on ECE/TRANS/WP.29/GRPE/2022/10 and ECE/TRANS/WP.29/GRPE/2022/13 and GRPE-86-12, as amended by Annex IV) | ECE/TRANS/WP.29/2022/134 |
+| 83 | Proposal for Supplement 18 to the 06 series of amendments to UN Regulation No 83 (Emissions of M1 and N1 vehicles) (ECE/TRANS/WP.29/GRPE/86/Rev.1, para. 22, based on ECE/TRANS/WP.29/GRPE/2022/10 and ECE/TRANS/WP.29/GRPE/2022/13, GRPE86-12 and GRPE-86-24-Rev.1, as amended by Annex V) | ECE/TRANS/WP.29/2022/135 |
+| 83 | Proposal for Supplement 15 to the 07 series of amendments to UN Regulation No 83 (Emissions of M1 and N1 vehicles) (ECE/TRANS/WP.29/GRPE/86/Rev.1, para. 23, based on ECE/TRANS/WP.29/GRPE/2022/10 and ECE/TRANS/WP.29/GRPE/2022/13, GRPE86-12 and GRPE-86-24-Rev.1, as amended by Annex VI) | ECE/TRANS/WP.29/2022/136 |
+| 90 | Proposal for Supplement 10 to the 02 series of amendments to UN Regulation No 90 (Replacement braking parts) (based on GRVA-14-17) | ECE/TRANS/WP.29/2022/148 |
+| 118 | Proposal for Supplement 1 to the 04 series of amendments to UN Regulation No 118 (Burning behaviour of materials) (ECE/TRANS/WP.29/GRSG/102, para. 8, based on ECE/TRANS/WP.29/GRSG/2022/2, not amended) | ECE/TRANS/WP.29/2022/121 |
+| 125 | Proposal for Supplement 2 to the 02 series of amendments to UN Regulation No 125 (Forward field of vision of drivers) (ECE/TRANS/WP.29/GRSG/102, para. 49, based on GRSG-123-05) | ECE/TRANS/WP.29/2022/122 |
+| 127 | Proposal for the 04 series of amendments to UN Regulation No 127 (Pedestrian safety) (ECE/TRANS/WP.29/GRSP/71, para. 22, based on ECE/TRANS/WP.29/GRSP/2022/4, as amended by Annex II to the report) | ECE/TRANS/WP.29/2022/129 |
+| 127 | Proposal for Supplement 1 to the 03 series of amendments to UN Regulation No 127 (Pedestrian safety) (ECE/TRANS/WP.29/GRSP/71, para. 21, based on GRSP-71-04, as reproduced in Annex II to the report) | ECE/TRANS/WP.29/2022/130 |
+| 129 | Proposal for Supplement 8 to the 03 series of amendments to UN Regulation No 129 (Enhanced Child Restraint systems) (ECE/TRANS/WP.29/GRSP/71, para. 25, based on ECE/TRANS/WP.29/GRSP/2022/7, as amended by Annex III to the report, ECE/TRANS/WP.29/GRSP/2022/8 and ECE/TRANS/WP.29/GRSP/2022/9, both not amended) | ECE/TRANS/WP.29/2022/128 |
+| 129 | Proposal for Supplement 9 to the 01 series of amendments to UN Regulation No 129 (Enhanced Child Restraint systems) (ECE/TRANS/WP.29/GRSP/71, para. 25, based on ECE/TRANS/WP.29/GRSP/2022/5, not amended) | ECE/TRANS/WP.29/2022/131 |
+| 129 | Proposal for Supplement 8 to the 02 series of amendments to UN Regulation No 129 (Enhanced Child Restraint systems) (ECE/TRANS/WP.29/GRSP/71, para. 25, based on ECE/TRANS/WP.29/GRSP/2022/6, not amended) | ECE/TRANS/WP.29/2022/132 |
+| 149 | Proposal for Supplement 6 to the 00 series of amendments to UN Regulation No 149 (Road illumination devices) (ECE/TRANS/WP.29/GRE/86, para. 12, based on ECE/TRANS/WP.29/GRE/2022/8) | ECE/TRANS/WP.29/2022/115 |
+| 151 | Proposal for Supplement 4 to the original version of UN Regulation No 151 (Blind Spot Information Systems) (ECE/TRANS/WP.29/GRSG/102, para. 18, based on GRSG-2022-9, as amended by Annex III to the report) | ECE/TRANS/WP.29/2022/147 |
+| 158 | Proposal for Supplement 2 to the original version of UN Regulation No 158 (Reversing motion) (ECE/TRANS/WP.29/GRSG/102, para. 20, based on ECE/TRANS/WP.29/GRSG/2022/10, as amended by Annex IV to the report) | ECE/TRANS/WP.29/2022/123/Rev. 1 |
+| 159 | Proposal for part I of Supplement 2 to the original version of UN Regulation No 159 (Moving off information system) (ECE/TRANS/WP.29/GRSG/102, para. 23, based on GRSG-123-11-Rev.1, as reproduced in Annex V to the report) | ECE/TRANS/WP.29/2022/124 |
+| 159 | Proposal for part II of Supplement 2 to the original version of UN Regulation No 159 (Moving off information system) (ECE/TRANS/WP.29/GRSG/102, para. 23, based on GRSG-123-32, as reproduced in Annex V to the report) | ECE/TRANS/WP.29/2022/125 |
+| 161 | Proposal for Supplement 3 to the original version of UN Regulation No 161 (Devices against Unauthorized Use) (ECE/TRANS/WP.29/GRSG/102, para. 43, based on GRSG-2022-14, as amended by para. 43) | ECE/TRANS/WP.29/2022/146 |
+| 162 | Proposal for Supplement 4 to the original version of UN Regulation No 162 (Immobilizers) (ECE/TRANS/WP.29/GRSG/102, para. 46, based on ECE/TRANS/WP.29/GRSG/2022/15, not amended) | ECE/TRANS/WP.29/2022/126/Rev.1 |
+| 163 | Proposal for Supplement 2 to the original version of UN Regulation No 163 (Vehicle Alarm Systems) (ECE/TRANS/WP.29/GRSG/102, para. 48, based on ECE/TRANS/WP.29/GRSG/2022/16, not amended) | ECE/TRANS/WP.29/2022/127 |
+Article 1
+The position to be taken on the Union's behalf in the 188th session of the UNECE World Forum for Harmonization of Vehicle Regulations to be held from 14 to 16 November 2022 shall be to vote in favour of the proposals listed in the Annex to this Decision.
+| Regulation No | Agenda item title | Document reference (1) |
+|---|---|---|
+| 163 | Proposal for Supplement 2 to the original version of UN Regulation No 163 (Vehicle Alarm Systems) (ECE/TRANS/WP.29/GRSG/102, para. 48, based on ECE/TRANS/WP.29/GRSG/2022/16, not amended) | ECE/TRANS/WP.29/2022/127 |
+| New Regulation | Proposal for new UN Regulation on Vulnerable Road Users in Front and Side Close Proximity (ECE/TRANS/WP.29/GRSG/102, para. 25, based on ECE/TRANS/WP.29/GRSG/2022/6, as amended by Annex VI to the report) | ECE/TRANS/WP.29/2022/139 |
+| New Regulation | Proposal for new UN Regulation on the Approval of Motor Vehicles with Regard to their Direct Vision (ECE/TRANS/WP.29/GRSG/102, para. 28, based on ECE/TRANS/WP.29/GRSG/2022/7, as amended by Annex VII to the report and ECE/TRANS/WP.29/GRSG/2022/30) | ECE/TRANS/WP.29/2022/140/Rev.1 |
+| 0 | 1 | 2 |
+| Miscellaneous | Agenda item title | Document reference |
+| Mutual Resolution | Proposal for Amendment 3, Addendum 1 to Mutual Resolution No 1 (M.R.1) (ECE/TRANS/WP.29/GRSP/71, para. 33, based on ECE/TRANS/WP.29/GRSP/2022/10, not amended) | ECE/TRANS/WP.29/2022/141 |
+| Technical regulations to be listed in the Compendium of Candidates for UN GTRs | Listing Number 11: United States of America Environmental Protection Agency and the Department of Transportation Programmes for Light-duty Vehicle Greenhouse Gas Emission Standards and Corporate Average Fuel Economy Standards | ECE/TRANS/WP.29/2022/142 |
+| Technical regulations to be listed in the Compendium of Candidates for UN GTRs | Listing Number 12: United States of America Environmental Protection Agency and National Highway Traffic Safety Administration, Department of Transportation Programmes for Greenhouse Gas Emission Standards and Fuel Efficiency Standards for Medium and Heavy-Duty Engines and Vehicles | ECE/TRANS/WP.29/2022/143 |
+| Technical regulations to be listed in the Compendium of Candidates for UN GTRs | Listing Number 13: United States of America Environmental Protection Agency and National Highway Traffic Safety Administration, Department of Transportation, Program for Revisions and Additions to the Motor Vehicle Fuel Economy Label: New Fuel Economy and Environment Labels for a New Generation of Vehicles | ECE/TRANS/WP.29/2022/144 |
+
+(1) All documents referred to in the table are available at: (WP.29) World Forum for the Harmonization of Regulations (188th session) | UNECE.

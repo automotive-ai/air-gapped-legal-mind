@@ -1,0 +1,56 @@
+recital 3
+(3) To that end, it is necessary to specify that the masses of exchangeable superstructures for quadricycles of categories L6e and L7e, intended for transportation of goods, have to be considered as part of the payload rather than included in the unladen mass.
+Article 5
+This Directive is addressed to the Member States.
+Article 4
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+Article 3
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 31 December 2004 at the latest.
+
+They shall forthwith communicate to the Commission the text of those provisions and a correlation table between those provisions and this Directive. When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made. 2. Member States shall communicate to the Commission the main provisions of national law which they adopt in the field covered by this Directive.
+Article 2
+1. With effect from 1 January 2005, in the case of two or three-wheel motor vehicles whose masses and dimensions comply with the requirements of Directive 93/93/EEC, as amended by this Directive, Member States shall not, on grounds relating to the masses and dimensions:
+
+(a) refuse, in respect of such a vehicle to grant EC type-approval or national type-approval; or
+(b) prohibit the registration, sale or entry into service of such a vehicle. 2. With effect from 1 July 2005, if the requirements of Directive 93/93/EEC, as amended by this Directive, are not fulfilled for any new type of two or three-wheel motor vehicle, by reason of its masses or dimensions, Member States shall refuse to grant EC type-approval.
+Article 1
+The Annex to Directive 93/93/EEC is amended in accordance with the Annex to this Directive.
+ANNEX
+ANNEX
+Point 1.5 of the Annex to Directive 93/93/EEC is replaced by the following:
+
+1.5. 
+ "unladen mass" means the mass of vehicle ready for normal use and equipped as follows: —
+additional equipment required solely for the normal use under consideration,
+—
+complete electrical equipment, including the lighting and light-signalling devices supplied by the manufacturer,
+—
+instruments and devices required by the laws under which the unladen mass of the vehicle has been measured,
+—
+the appropriate amounts of liquids in order to ensure the proper operation of all parts of the vehicle. 1.5.1. In the case of vehicles of categories L6e and L7e intended for carrying goods and designed to be equipped with exchangeable superstructures, the total mass of these superstructures shall not be taken into account for the calculation of the unladen mass and shall be considered to be part of the payload. In this case, the following additional conditions shall be fulfilled: (a) the basic type of vehicle (chassis cab), on which the abovementioned superstructures are designed to be fitted, shall fulfil all the prescriptions established for category L6e and L7e quadricycles for transportation of goods, (including the limit of 350 kg unladen mass for category L6e vehicles and the limit of 550 kg unladen mass for category L7e vehicles); (b) a superstructure is considered to be exchangeable if it can be easily removed from the chassis cab without the use of tools; (c) as far as the superstructure is concerned, the vehicle manufacturer shall provide in the information document, a model of which is set out in Annex II to Directive 2002/24/EC, the maximum permitted dimensions, the mass, the limits for the position of the centre of gravity and a drawing with the position of fixing devices. NB: the fuel and the fuel/oil mixture are not included in the measurement, but components such as the battery acid, the hydraulic fluid, the coolant and the engine oil must be included.'.
+Introduction
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Council Directive 93/93/EEC of 29 October 1993 on the masses and dimensions of two or three-wheel motor vehicles (1), and in particular Article 3 thereof,
+Having regard to Directive 2002/24/EC of the European Parliament and of the Council of 18 March 2002 relating to the type-approval of two or three-wheel motor vehicles and repealing Council Directive 92/61/EEC (2), and in particular Article 17 thereof,
+Whereas:
+
+(1) Directive 93/93/EEC is one of the separate directives in the context of the Community type-approval procedure according to Directive 2002/24/EC. The provisions of Directive 2002/24/EC relating to systems, components and separate technical units for vehicles therefore apply to Directive 93/93/EEC. (2) In order to enable the full type-approval system to function properly, it is necessary to clarify and supplement certain requirements in Directive 93/93/EEC. (3) To that end, it is necessary to specify that the masses of exchangeable superstructures for quadricycles of categories L6e and L7e, intended for transportation of goods, have to be considered as part of the payload rather than included in the unladen mass. (4) Directive 93/93/EEC should therefore be amended accordingly. (5) The measures provided for in this Directive are in accordance with the opinion of the Committee for Adaptation to Technical Progress set up pursuant to Article 13 of Council Directive 70/156/EEC (3),
+HAS ADOPTED THIS DIRECTIVE:
+recital 5
+(5) The measures provided for in this Directive are in accordance with the opinion of the Committee for Adaptation to Technical Progress set up pursuant to Article 13 of Council Directive 70/156/EEC (3),
+HAS ADOPTED THIS DIRECTIVE:
+recital 4
+(4) Directive 93/93/EEC should therefore be amended accordingly.
+recital 2
+(2) In order to enable the full type-approval system to function properly, it is necessary to clarify and supplement certain requirements in Directive 93/93/EEC.
+recital 1
+(1) Directive 93/93/EEC is one of the separate directives in the context of the Community type-approval procedure according to Directive 2002/24/EC.
+
+The provisions of Directive 2002/24/EC relating to systems, components and separate technical units for vehicles therefore apply to Directive 93/93/EEC.
+citation
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Council Directive 93/93/EEC of 29 October 1993 on the masses and dimensions of two or three-wheel motor vehicles (1), and in particular Article 3 thereof,
+Having regard to Directive 2002/24/EC of the European Parliament and of the Council of 18 March 2002 relating to the type-approval of two or three-wheel motor vehicles and repealing Council Directive 92/61/EEC (2), and in particular Article 17 thereof,
+Whereas:

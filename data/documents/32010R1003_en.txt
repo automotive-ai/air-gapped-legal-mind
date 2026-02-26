@@ -1,0 +1,176 @@
+recital 1
+(1) Regulation (EC) No 661/2009 is a separate Regulation for the purposes of the type-approval procedure provided for by Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (2).
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor (1), and in particular Article 14 (1)(a) thereof,
+Whereas:
+COMMISSION REGULATION (EU) No 1003/2010
+of 8 November 2010
+concerning type-approval requirements for the space for mounting and the fixing of rear registration plates on motor vehicles and their trailers and implementing Regulation (EC) No 661/2009 of the European Parliament and of the Council concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor
+Consolidated TEXT: 32010R1003 — EN — 06.07.2022
+Top
+02010R1003 — EN — 06.07.2022 — 002.001
+This text is meant purely as a documentation tool and has no legal effect.
+
+The Union's institutions do not assume any liability for its contents. The authentic versions of the relevant acts, including their preambles, are those published in the Official Journal of the European Union and available in EUR-Lex. Those official texts are directly accessible through the links embedded in this document
+►B
+COMMISSION REGULATION (EU) No 1003/2010
+of 8 November 2010
+concerning type-approval requirements for the space for mounting and the fixing of rear registration plates on motor vehicles and their trailers and implementing Regulation (EC) No 661/2009 of the European Parliament and of the Council concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor
+(Text with EEA relevance)
+(OJ L 291, 9.11.2010, p.22)
+Repealed by: Official Journal
+No
+page
+date
+Regulation (EU) 2019/2144 of the European Parliament and of the Council of 27 November 2019
+L 325
+1
+16.12.2019
+The final consolidated version before repeal is available at: http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02010R1003-20150224
+recital 2
+(2) Regulation (EC) No 661/2009 repeals Council Directive 70/222/EEC of 20 March 1970 on the approximation of the laws of the Member States relating to the space for mounting and the fixing of rear registration plates on motor vehicles and their trailers (3).
+
+The requirements set out in that Directive should be carried over to this Regulation and, where necessary, amended in order to adapt them to the development of scientific and technical knowledge.
+recital 3
+(3) Regulation (EC) No 661/2009 lays down fundamental provisions on requirements for the type-approval of motor vehicles and their trailers with regard to the space for mounting and the fixing of rear registration plates.
+
+Therefore, it is necessary to also set out the specific procedures, tests and requirements for such type-approval.
+recital 4
+(4) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee - Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor (1), and in particular Article 14 (1)(a) thereof,
+Whereas:
+
+(1) Regulation (EC) No 661/2009 is a separate Regulation for the purposes of the type-approval procedure provided for by Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (2). (2) Regulation (EC) No 661/2009 repeals Council Directive 70/222/EEC of 20 March 1970 on the approximation of the laws of the Member States relating to the space for mounting and the fixing of rear registration plates on motor vehicles and their trailers (3). The requirements set out in that Directive should be carried over to this Regulation and, where necessary, amended in order to adapt them to the development of scientific and technical knowledge. (3) Regulation (EC) No 661/2009 lays down fundamental provisions on requirements for the type-approval of motor vehicles and their trailers with regard to the space for mounting and the fixing of rear registration plates. Therefore, it is necessary to also set out the specific procedures, tests and requirements for such type-approval. (4) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee - Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+REQUIREMENTS FOR THE SPACE FOR MOUNTING AND THE FIXING OF REAR REGISTRATION PLATES
+ANNEX II
+Requirements for the space for mounting and the fixing of rear registration plates
+1. REQUIREMENTS
+1.1. Shape and dimensions of the space for mounting a rear registration plate.
+
+1.1.1. The space for mounting shall comprise of a flat or virtually flat rectangular surface with the following minimum dimensions: either
+width
+:
+520 mm
+height
+: 120 mm
+or
+width
+: 340 mm
+height
+: 240 mm
+1.1.2. The surface to be covered by the registration plate may have holes or gaps. 1.1.2.1. In case of vehicles of category M1 the width of the hole or gap shall not exceed 40 mm without having to take into account its length. 1.1.3. The surface to be covered by the registration plate may have protrusions, provided that these do not project more than 5,0 mm in relation to the nominal surface. Patches of very soft materials, such as foam or felt for the purpose of the elimination of vibration of the registration plate, shall not be taken into account. 1.2. Mounting and fixing of a rear registration plate. 1.2.1. The space for mounting shall be such that the registration plate, after fixing according to the manufacturer's instructions, shall have the following characteristics: 1.2.1.1. Position of the plate in relation to the longitudinal median plane of the vehicle: 1.2.1.1.1. The centre point of the plate shall not be situated to the right of the longitudinal median plane of the vehicle. 1.2.1.2. Position of the plate in relation to the vertical longitudinal plane of the vehicle: 1.2.1.2.1. The plate shall be perpendicular to the longitudinal plane of the vehicle. 1.2.1.2.2. The left-hand edge of the plate may not be situated to the left of the vertical plane which is parallel to the longitudinal median plane of the vehicle and touches the extreme outer edge of the vehicle. 1.2.1.3. Position of the plate in relation to the vertical transverse plane: 1.2.1.3.1. The plate may be inclined to the vertical: 1.2.1.3.1.1. At not less than - 5° and not more than 30°, provided that the height of the upper edge of the plate is not more than 1,20 m from the ground surface; 1.2.1.3.1.2. At not less than - 15° and not more than 5°, provided that the height of the upper edge of the plate is more than 1,20 m from the ground surface. 1.2.1.4. Height of the plate from the ground surface: 1.2.1.4.1. The height of the lower edge of the plate from the ground surface shall not be less than 0,30 m.
+1.2.1.4.2. The height of the upper edge of the plate from the ground surface shall not exceed 1,20 m. However, where it is not practicable to comply with the height provision due to the construction of the vehicle, the maximum height may exceed 1,20 m, provided that it is as close to that limit as the constructional characteristics of the vehicle allow, and shall in no case exceed 2,00 m.
+1.2.1.5. Geometrical visibility: 1.2.1.5.1. If the height of the upper edge of the plate from the ground surface does not exceed 1,20 m, the plate shall be visible in the whole space included within the following four planes: —
+the two vertical planes touching the two lateral edges of the plate and forming an angle measured outwards of 30° in relation to the longitudinal median plane of the vehicle,
+—
+the plane touching the upper edge of the plate and forming an angle measured upwards of 15° with the horizontal,
+—
+the horizontal plane through the lower edge of the plate. 1.2.1.5.2. If the height of the upper edge of the plate from the ground surface exceeds 1,20 m, the plate shall be visible in the whole space included within the following four planes: —
+the two vertical planes touching the two lateral edges of the plate and forming an angle measured outwards of 30° in relation to the longitudinal median plane of the vehicle,
+—
+the plane touching the upper edge of the plate and forming an angle measured upwards of 15° with the horizontal,
+—
+the plane touching the lower edge of the plate and forming an angle measured downwards of 15° with the horizontal. 1.2.1.6. The space between the edges of the mounted and fixed registration plate and the actual surface of the registration plate space shall not exceed 5,0 mm along the complete outline of the registration plate. 1.2.1.6.1. The prescribed maximum space may locally be exceeded in the case it is measured at a hole or gap within the surface of patterned mesh or between the parallel bars of the surface of grille. 1.2.2. The actual position and shape of the mounted and fixed registration plate as determined in accordance with paragraph 1,2, in particular its resulting radius of curvature, shall be taken into account for the purpose of rear registration plate lighting device requirements. 1.2.3. If the space for mounting the rear registration plate is obscured within the planes of geometrical visibility, because of installation of any mechanical coupling device, this shall be noted in the test report and stated on the EC-type approval certificate. 2. TEST PROCEDURE
+2.1. Determination of the vertical inclination and height of the registration plate from the ground surface
+2.1.1. The vehicle is placed on a smooth ground surface with the vehicle's mass adjusted to that of the manufacturer's declared mass in running order, but without the driver, before the measurements are made. 2.1.2. If the vehicle is equipped with hydropneumatic, hydraulic or pneumatic suspension or a device for automatic levelling according to load, it shall be tested with the suspension or device in the normal running condition, as specified by the manufacturer. 2.1.3. If the registration plate is facing downwards, the measurement result concerning the inclination is expressed in minus. 2.2. Projection measurements shall be made perpendicularly and directly towards the nominal surface to be covered by the registration plate. 2.3. Measurement of the space between the edge of the mounted and fixed registration plate and the actual surface shall be made perpendicularly and directly towards the actual surface to be covered by the registration plate. 2.4. The registration plate used for checking conformity shall have one of the two sizes as specified in paragraph 1.1.1.
+ADMINISTRATIVE DOCUMENTS FOR EC TYPE-APPROVAL OF MOTOR VEHICLES AND THEIR TRAILERS WITH REGARD TO THE SPACE FOR MOUNTING AND THE FIXING OF REAR REGISTRATION PLATES
+ANNEX I
+Administrative documents for EC type-approval of motor vehicles and their trailers with regard to the space for mounting and the fixing of rear registration plates
+PART 1
+Information document
+MODEL
+Information document No … relating to the EC type-approval of a motor vehicle or a trailer with regard to the space for mounting and the fixing of rear registration plates. The following information shall be supplied in triplicate and include a list of contents. Any drawings shall be supplied in appropriate scale and in sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, shall show sufficient detail. If the systems, components or separate technical units referred to in this information document have electronic controls, information concerning their performance shall be supplied. 0. GENERAL
+0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.2.1. Commercial name(s) (if available): …
+0.3. Means of identification of type, if marked on the vehicle (b): …
+0.3.1. Location of that marking: …
+0.4. Category of vehicle (c): …
+0.5. Name and address of manufacturer: …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+1. GENERAL CONSTRUCTION CHARACTERISTICS OF THE VEHICLE
+1.1. Photographs and/or drawings of a representative vehicle: …
+2. MASSES AND DIMENSIONS (f) (g) 
+2.4. Range of vehicle dimensions (overall)
+2.4.2. For chassis with bodywork
+2.4.2.3. Height (in running order) (1) (for suspensions adjustable for height, indicate normal running position): …
+2.6. Mass in running order
+Mass of the vehicle with bodywork and, in the case of a towing vehicle of category other than M1, with coupling device, if fitted by the manufacturer, in running order, or mass of the chassis or chassis with cab, without bodywork and/or coupling device if the manufacturer does not fit the bodywork and/or coupling device (including liquids, tools, spare wheel, if fitted, and driver and, for buses and coaches, a crew member if there is a crew seat in the vehicle) (h) (maximum and minimum for each variant): …
+9. BODYWORK
+9.14. Space for mounting rear registration plates (give range where appropriate, drawings may be used where applicable): …
+9.14.1. Height above road surface, upper edge: …
+9.14.2. Height above road surface, lower edge: …
+9.14.3. Distance of the centre line from the longitudinal median plane of the vehicle: …
+9.14.4. Distance from the left vehicle edge: …
+9.14.5. Dimensions (length × width): …
+9.14.6. Inclination of the plane to the vertical: …
+9.14.7. Angle of visibility in the horizontal plane: …
+Explanatory notes
+PART 2
+EC type-approval certificate
+MODEL
+Format: A4 (210 × 297 mm)
+EC TYPE-APPROVAL CERTIFICATE
+Stamp of type-approval authority
+Communication concerning:
+
+| — EC type-approval ( 1 ) — extension of EC type-approval ( 1 ) — refusal of EC type-approval ( 1 ) — withdrawal of EC type-approval ( 1 ) | of a type of motor vehicle or trailer with regard to the space for mounting and the fixing of rear registration plates |
+|---|---|
+| with regard to Regulation (EU) No 1003/2010, as last amended by Regulation (EU) No …/… (1) | with regard to Regulation (EU) No 1003/2010, as last amended by Regulation (EU) No …/… (1) |
+| EC type-approval number: … | EC type-approval number: … |
+| Reason for extension: … | Reason for extension: … |
+
+SECTION I
+0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.2.1. Commercial name(s) (if available): …
+0.3. Means of identification of type, if marked on the vehicle (2): …
+0.3.1. Location of that marking: …
+0.4. Category of vehicle (3): …
+0.5. Name and address of manufacturer: …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+SECTION II
+1. Additional information: see Addendum. 2. Technical service responsible for carrying out the tests: …
+3. Date of test report: …
+4. Number of test report: …
+5. Remarks (if any): see Addendum. 6. Place: …
+7. Date: …
+8. Signature: …
+Attachments
+:
+Information package
+Test report
+(b) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??). (c) Classified according to the definitions set out in Directive 2007/46/EC Part A of Annex II. (f) Where there is one version with a normal cab and another with a sleeper cab, both sets of masses and dimensions are to be stated. (g) Standard ISO 612: 1978 - Road vehicles - Dimensions of motor vehicles and towed vehicles - terms and definitions. (1) 
+(g8)
+Term No 6.3. (h) The mass of the driver and, if applicable, of the crew member is assessed at 75 kg (subdivided into 68 kg occupant mass and 7 kg luggage mass according to ISO Standard 2416 - 1992), the fuel tank is filled to 90 % and the other liquid containing systems (except those for used water) to 100 % of the capacity specified by the manufacturer. (1) Delete where not applicable. (2) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??). (3) As defined in Directive 2007/46/EC, Annex II, Section A.
+Article 1 - Definitions
+For the purposes of this Regulation, the following definitions shall apply:
+
+(1) 'vehicle type with regard to the space for mounting and the fixing of rear registration plates' means vehicles which do not differ in such essential respects as: —
+the dimensions of the space for mounting and fixing of the rear registration plate; —
+the location of the space for mounting and fixing of the rear registration plate; —
+the shape of the surface for mounting and fixing of the rear registration plate. (2) 'virtually flat surface' means a surface of solid material, which may also consist of patterned mesh or grille, with a radius of curvature of at least 5 000 mm. (3) 'surface of patterned mesh' means a surface consisting of an evenly spread pattern of shapes such as round, oval, diamond, rectangular or square holes spread evenly at intervals not exceeding 15 mm. (4) 'surface of grille' means a surface consisting of parallel bars which are spread evenly and have a mutual distance of not exceeding 15 mm. (5) 'nominal surface' means the theoretical geometrically perfect surface without taking into account surface irregularities such as protrusions or indentations. (6) 'longitudinal median plane of the vehicle' means the plane of symmetry of the vehicle or, if the vehicle is not symmetrical, the vertical longitudinal plane passing through the middle of the vehicle axles. (7) 'inclination' means the degree of the angular deviation in relation to a vertical plane;
+Article 2 - Provisions for EC type-approval of a motor vehicle or a trailer with regard to the space for mounting and the fixing of rear registration plates
+1. The manufacturer or his representative shall submit to the type-approval authority the application for EC type-approval of a vehicle with regard to the space for mounting and the fixing of rear registration plates on motor vehicles and their trailers.
+
+2. The application shall be drawn up in accordance with the model of the information document set out in Part 1 of Annex I. 3. If the relevant requirements set out in Annex II to this Regulation are met, the approval authority shall grant an EC type-approval and issue a type-approval number in accordance with the numbering system set out in Annex VII to Directive 2007/46/EC. A Member State may not assign the same number to another vehicle type. 4. For the purposes of paragraph 3, the type-approval authority shall deliver an EC type-approval certificate established in accordance with the model set out in Part 2 of Annex I.
+Article 3 - Validity and extension of approvals granted under Directive 70/222/EEC
+National authorities shall permit the sale and entry into service of vehicles type-approved before the date referred to in Article 13(2) of Regulation (EC) No 661/2009 and continue to grant extension of approvals to those vehicles under the terms of Directive 70/222/EEC.
+Article 4 - Entry into force
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+(1) 'vehicle type with regard to the space for mounting and the fixing of rear registration plates' means vehicles which do not differ in such essential respects as: — the dimensions of the space for mounting and fixing of the rear registration plate; — the location of the space for mounting and fixing of the rear registration plate; — the shape of the surface for mounting and fixing of the rear registration plate.
+(2) 'virtually flat surface' means a surface of solid material, which may also consist of patterned mesh or grille, with a radius of curvature of at least 5 000 mm.
+(3) 'surface of patterned mesh' means a surface consisting of an evenly spread pattern of shapes such as round, oval, diamond, rectangular or square holes spread evenly at intervals not exceeding 15 mm.
+(4) 'surface of grille' means a surface consisting of parallel bars which are spread evenly and have a mutual distance of not exceeding 15 mm.
+(5) 'nominal surface' means the theoretical geometrically perfect surface without taking into account surface irregularities such as protrusions or indentations.
+(6) 'longitudinal median plane of the vehicle' means the plane of symmetry of the vehicle or, if the vehicle is not symmetrical, the vertical longitudinal plane passing through the middle of the vehicle axles.
+(7) 'inclination' means the degree of the angular deviation in relation to a vertical plane;

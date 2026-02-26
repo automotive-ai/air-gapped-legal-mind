@@ -1,0 +1,602 @@
+recital 8
+(8) Regulation (EU) No 582/2011 sets out requirements related to the measures that need to be introduced by vehicle manufacturers in order to prevent tampering with emission control systems.
+
+Those requirements should effectively address the most common means of tampering without imposing an excessive burden on the industry.
+recital 9
+(9) References to international standards in Regulation (EU) No 582/2011 should be updated.
+recital 13
+(13) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee — Motor vehicles,
+HAS ADOPTED THIS REGULATION:
+ANNEX IV
+ANNEX IV
+Annex XI to Regulation (EU) No 582/2011 is amended as follows: (1) point 4.3.2.4 is replaced by the following: '4.3.2.4. Durability of emissions performance
+The exhaust after-treatment system tested in accordance with point 4.3.2.2 and incorporating the replacement pollution control device shall be subjected to the durability procedures described in Appendix 3.'; (2) the following point 4.3.5 is inserted: '4.3.5. Fuels
+In the case described in point 1.1.2 of Annex I, the test procedure laid down in points 4.3.1 to 4.3.2.7 of this Annex shall be conducted with the fuels declared by the manufacturer of the original engine system. However, in agreement with the type-approval authority, the durability procedure set out in Appendix 3 and referred to in point 4.3.2.4 may be performed only with the fuel which represents the worst case in terms of ageing.'; (3) the following points 4.6 to 4.6.5 are inserted: '4.6. Requirements regarding compatibility with the NOx control measures (applicable only to replacement pollution control devices to be fitted to vehicles equipped with sensors directly measuring NOx concentration in the exhaust)
+4.6.1. NOx control measures compatibility demonstration is required only when the original pollution control device was monitored in the original configuration. 4.6.2. The compatibility of the replacement pollution control device with the NOx control measures shall be demonstrated by using the procedures described in Annex XIII to this Regulation, for replacement pollution control devices intended to be fitted to engines or vehicles type-approved in accordance with Regulation (EC) No 595/2009 and this Regulation. 4.6.3. The provisions in UN/ECE Regulation No 49 applicable to components other than pollution control devices shall not apply. 4.6.4. The replacement pollution control device manufacturer may use the same preconditioning and test procedure as used during the original type-approval. In that case, the approval authority which granted original type-approval of an engine of a vehicle shall provide, on request and on a non-discriminatory basis, an information document presented as an appendix to the Information Document provided for in Appendix 4 to Annex I, which contains the number and type of preconditioning cycles and the type of test cycle used by the original equipment manufacturer for NOx control measures testing of the pollution control device. 4.6.5. Point 4.5.5 shall apply to NOx control measures monitored by the OBD system.'; (4) Appendix 3 is replaced by the following: 'Appendix 3
+Durability procedure for evaluation of emissions performance of a replacement pollution control device 1. This Appendix sets out the durability procedure referred to in point 4.3.2.4 of Annex XI, for the purpose of evaluating the emissions performance of a replacement pollution control device. 2. DESCRIPTION OF THE DURABILITY PROCEDURE
+2.1. The durability procedure shall consist of a data collection phase and a service accumulation schedule. 2.2. Data collection phase
+2.2.1. The selected engine, equipped with the complete exhaust after-treatment system incorporating the replacement pollution control device, shall be cooled down to ambient temperature and run one cold start WHTC test-cycle in accordance with paragraphs 7.6.1 and 7.6.2 of Annex 4 to UN/ECE Regulation No 49. 2.2.2. Immediately after the cold start WHTC test-cycle, the engine shall be run for nine consecutive hot start WHTC test-cycles in accordance with paragraph 7.6.4 of Annex 4 to UN/ECE Regulation No 49. 2.2.3. The test sequence set out in points 2.2.1 and 2.2.2 shall be carried out in accordance with the instructions laid down in paragraph 7.6.5 of Annex 4 to UN/ECE Regulation No 49. 2.2.4. Alternatively, the relevant data can be collected by driving a fully loaded vehicle equipped with the selected exhaust after-treatment system incorporating the replacement pollution control device. The test can be carried out either on the road following the trip requirements of points 4.5 to 4.5.5 of Annex II to this Regulation with comprehensive recording of the driving data, or on a suitable chassis dynamometer. If an on-road test is chosen, the vehicle shall be driven over a cold test-cycle, as set out in Appendix 5 to this Annex, followed by nine hot test-cycles, identical to the cold one, in a way that the work developed by the engine is the same as the one achieved under points 2.2.1 and 2.2.2. If a chassis dynamometer is chosen, the simulated road gradient of the test-cycle in Appendix 5 shall be adapted to match the work developed by the engine over the WHTC. 2.2.5. The type-approval authority shall refuse the temperature data obtained under point 2.2.4 if it deems those data to be unrealistic and shall request either the repetition of the test, or the carrying out of a test pursuant to points 2.2.1, 2.2.2 and 2.2.3. 2.2.6. Temperatures in the replacement pollution control device shall be recorded during the whole test sequence, at the location with the highest temperature. 2.2.7. In cases where the location with the highest temperature varies over time, or where that location is difficult to define, multiple bed temperatures should be recorded at suitable locations. 2.2.8. The number and locations of the temperature measurements shall be selected by the manufacturer, in agreement with the type-approval authority, based on best engineering judgement. 2.2.9. With the agreement of the type-approval authority, a single catalyst bed temperature or the catalyst inlet temperature may be used if measuring multiple bed temperatures is proven to be unfeasible or too difficult. {{IMAGE:Image_6, Caption:Schematic diagram illustrating the longitudinal and transverse cross-sections of a cylindrical component, detailing the arrangement of measurement points relative to the flow direction and inlet.}} {{IMAGE:Image_7, Caption:Schematic diagram illustrating example temperature sensor locations for a Diesel Particulate Filter (DPF). The longitudinal view (left) displays the flow direction, inlet and outlet points, and axial sensor placement, while the cross-sectional view (right) details the radial distribution of sensors at plane A.}} Inlet
+Outlet
+Radial Outlet
+2.2.10. The temperatures shall be measured and recorded at a minimum rate of once every second (1 Hz) during the test sequence. 2.2.11. The measured temperatures shall be tabulated into a histogram with temperature bins no larger than 10 °C. In the case mentioned in point 2.2.7, the highest temperature each second shall be the one recorded in the histogram. Each bar of the histogram shall represent the cumulated frequency in seconds of the measured temperatures falling in the specific bin. 2.2.12. The time in hours corresponding to each temperature bin must be determined and then extrapolated to the useful life of the replacement pollution control device, in accordance with the values specified in Table 1. The extrapolation shall be based on the assumption that one WHTC cycle corresponds to 20 km driving.
+
+| Vehicle category | Mileage (km) | Equivalent number of WHTC test-cycles | Equivalent number of hours |
+|---|---|---|---|
+| Engine systems fitted to vehicles of category M1, N1 and N2 | 114 286 | 5 714 | 2 857 |
+| Engine systems fitted to vehicles of category N2, N3 with a maximum technically permissible mass not exceeding 16 tonnes and M3 Class I, Class II and Class A, and Class B with a maximum technically permissible mass exceeding 7,5 tonnes | 214 286 | 10 714 | 5 357 |
+| Engine systems fitted to vehicles of category N3 with a maximum technically permissible mass exceeding 16 tonnes, and M3, Class III and Class B with a maximum technically permissible mass exceeding 7,5 tonnes | 500 000 | 25 000 | 12 500 |
+
+2.2.13. It is allowed to perform the data collection phase for different devices at the same time. 2.2.14.
+Article 1
+Regulation (EU) No 582/2011 is amended as follows:
+
+(1) in Article 14, paragraph 3 is deleted; (2) in Article 15, paragraph 5 is deleted; (3) the following Article 17a is inserted: 'Article 17a
+Transitional provisions for certain type-approvals and certificates of conformity 1. With effect from 1 September 2018, national authorities shall refuse, on grounds relating to emissions, to grant EC type-approval or national type-approval in respect of new types of vehicles or engines tested using procedures which do not comply with points 4.2.2.2 and 4.2.2.2.1 and 4.2.2.2.2 and 4.3.1.2 and 4.3.1.2.1 and 4.3.1.2.2 of Appendix 1 to Annex II. 2. With effect from 1 September 2019, national authorities shall, in the case of new vehicles which do not comply with points 4.2.2.2 and 4.2.2.2.1 and 4.2.2.2.2 and 4.3.1.2 and 4.3.1.2.1 and 4.3.1.2.2 of Appendix 1 to Annex II, consider certificates of conformity issued in respect of those vehicles to be no longer valid for the purposes of Article 26 of Directive 2007/46/EC and shall, on grounds relating to emissions, prohibit the registration, sale and entry into service of such vehicles. With effect from 1 September 2019 and except in the case of replacement engines for in-service vehicles, national authorities shall prohibit the sale or use of new engines which do not comply with points 4.2.2.2 and 4.2.2.2.1 and 4.3.1.2 and 4.3.1.2.1 of Appendix 1 to Annex II.'; (4) Annex I is amended in accordance with Annex I to this Regulation; (5) Annex II is amended in accordance with Annex II to this Regulation; (6) Annex VI is amended in accordance with Annex III to this Regulation; (7) Annex XI is amended in accordance with Annex IV to this Regulation; (8) Annex XIII is amended in accordance with Annex V to this Regulation; (9) Annex XIV is amended in accordance with Annex VI to this Regulation.
+ANNEX III
+ANNEX III
+Annex VI to Regulation (EU) No 582/2011 is amended as follows:
+
+(1) point 8 is replaced by the following: '8. DOCUMENTATION
+Paragraph 11 of Annex 10 to UNECE Regulation No 49 shall be understood as follows: The Approval Authority shall require that the manufacturer provides a documentation package. This should describe any element of design and emission control strategy of the engine system and the means by which it controls its output variables, whether that control is direct or indirect. The information shall include a full description of the emission control strategy. In addition, this shall include information on the operation of all AES and BES, including a description of the parameters that are modified by any AES and the boundary conditions under which the AES operate, and indication of which AES and BES are likely to be active under the conditions of the test procedures in this Annex. This documentation package shall be provided in accordance with the provisions of Section 8 of Annex I to this Regulation.' (2) Appendix 1 is amended as follows: (a) the following point 2.3 is inserted
+'2.3. Manufacturers shall ensure that vehicles can be tested with PEMS by an independent party on public roads by making available suitable adapters for exhaust pipes, granting access to ECU signals and making the necessary administrative arrangements. The manufacturer may charge a reasonable fee as set out in Article 7(1) of Regulation (EC) No 715/2007.'; (b) point 3.1 is replaced by the following: '3.1. Vehicle payload
+For the purpose of the PEMS demonstration test, the payload may be reproduced and an artificial load may be used. The vehicle payload shall be 50-60 % of the maximum vehicle payload. The additional requirements set out in Annex II shall apply.'.
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 595/2009 of the European Parliament and of the Council of 18 June 2009 on type-approval of motor vehicles and engines with respect to emissions from heavy-duty vehicles (Euro VI) and on access to vehicle repair and maintenance information and amending Regulation (EC) No 715/2007 and Directive 2007/46/EC and repealing Directives 80/1269/EEC, 2005/55/EC and 2005/78/EC (1), and in particular Article 4(3), Article 5(4) and Article 12 thereof,
+Whereas:
+
+(1) In-service conformity testing represents one of the building blocks of the type-approval procedure and allows for the verification of the performance of emission control systems during the useful lifetime of vehicles. In accordance with Commission Regulation (EU) No 582/2011 (2), the tests are performed by means of portable emission measurement systems (PEMS) which assess the emissions in the normal operations of use. The PEMS approach is equally applied to verify off-cycle emissions during the type-approval certification. (2) Regulation (EU) No 582/2011 states that any additional requirements with respect to the off-cycle in-use emissions testing procedure should be introduced after the assessment of the test procedure specified in that Regulation. (3) The Commission has therefore performed an in-depth analysis of the testing procedure. That analysis has identified a number of shortfalls which undermine the efficiency of the European type-approval legislation and need to be remedied in order to ensure the appropriate level of environmental protection. (4) Emission performance of vehicles in a warm-up period is currently not assessed under the type-approval demonstration test or under the in-service conformity test. In order to address the existing knowledge gap and to prepare a new testing procedure for cold start operations, a monitoring phase during which data from type-approval and in-service conformity tests will be collected should be launched. (5) In accordance with Regulation (EU) No 582/2011, replacement pollution control devices are to be type-approved in accordance with Euro VI emission requirements once the specific durability testing requirements are introduced in that Regulation. (6) It is therefore necessary to lay down a procedure which will properly assess the durability of those replacement parts entering the Union market and to ensure that they meet environmental requirements compatible with those set for similar systems produced as original vehicles' parts. (7) A test procedure based on the accelerated ageing of replacement pollution control devices due to thermal and lubricant consumption effects meets the objective of addressing durability of replacement pollution control devices in an accurate and objective manner and is not excessively burdensome for the industry. (8) Regulation (EU) No 582/2011 sets out requirements related to the measures that need to be introduced by vehicle manufacturers in order to prevent tampering with emission control systems. Those requirements should effectively address the most common means of tampering without imposing an excessive burden on the industry. (9) References to international standards in Regulation (EU) No 582/2011 should be updated. (10) In order to ensure a sufficient lead time for the vehicle manufacturers to modify their products in accordance with the new requirement on the power threshold, that requirement should take effect on 1 September 2018 for new types and on 1 September 2019 for all new vehicles. (11) It is appropriate that the new requirements for the in-service testing do not apply retroactively to engines and vehicles which have not been approved in accordance with those requirements. Therefore, the new provisions set out in Annex II shall only apply to the in-service conformity testing of new types of engines and vehicles which have been approved in accordance with the amended version of the Regulation (EU) No 582/2011. (12) Regulation (EU) No 582/2011 should therefore be amended accordingly. (13) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee — Motor vehicles,
+HAS ADOPTED THIS REGULATION:
+recital 10
+(10) In order to ensure a sufficient lead time for the vehicle manufacturers to modify their products in accordance with the new requirement on the power threshold, that requirement should take effect on 1 September 2018 for new types and on 1 September 2019 for all new vehicles.
+ANNEX VI
+ANNEX VI
+Annex XIV to Regulation (EU) No 582/2011 is amended as follows:
+
+(1) point 2.2.1 is replaced by the following: '2.2.1. For positive-ignition engines fuelled with petrol or E85, paragraph 5.2.3.1 of UN/ECE Regulation No 85 shall be understood as follows: "The fuel used shall be the one available on the market. In any case of dispute the fuel shall be the appropriate reference fuel specified in Annex IX to Regulation (EU) No 582/2011." '; (2) point 2.2.4 is replaced by the following: '2.2.4. For compression-ignition engines, paragraph 5.2.3.4 of UN/ECE Regulation 85 shall be understood as follows: "The fuel used shall be the one available on the market. In any case of dispute the fuel shall be the appropriate reference fuel specified in Annex IX to Regulation (EU) No 582/2011." '.
+ANNEX II
+ANNEX II
+Annex II to Regulation (EU) No 582/2011 is amended as follows:
+
+(1) point 2.1 is replaced by the following: '2.1. The conformity of in-service vehicles or engines of an engine family shall be demonstrated by testing vehicles on the road operated over their normal driving patterns, conditions and payloads. The in-service conformity test shall be representative for vehicles operated on their real driving routes, with their normal payload and with the usual professional driver of the vehicle. When the vehicle is operated by a driver other than the usual professional driver of the particular vehicle, the alternative driver shall be skilled and trained to operate vehicles of the category subject to be tested.'; (2) point 2.3 is replaced by the following: '2.3. The manufacturer shall demonstrate to the approval authority that the chosen vehicle, driving patterns and conditions are representative for the engine family. The requirements as specified in point 4.5 shall be used to determine whether the driving patterns are acceptable for in-service conformity testing.'; (3) point 4.1 is replaced by the following: '4.1. Vehicle payload
+Normal payload is a payload between 10 and 100 % of the maximum payload. The maximum payload is the difference between technically permissible maximum laden mass of the vehicle and the mass of the vehicle in running order as specified in accordance to Annex I to Directive 2007/46/EC. For the purpose of in-service conformity testing, the payload may be reproduced and an artificial load may be used. Approval authorities may request to test the vehicle with any payload between 10 and 100 % of the maximum vehicle payload. In case the mass of the PEMS equipment needed for operation exceeds 10 % of the maximum vehicle payload this mass may be considered as minimum payload. Vehicles of category N3 shall be tested, when applicable, with a semi-trailer.'; (4) points 4.4.1 to 4.5.5 are replaced by the following: 4.4.1. The test lubricating oil shall be market oil and must comply with the specifications of the engine manufacturer. Oil samples shall be taken. 4.4.2. Fuel
+The test fuel shall be market fuel covered by Directive 98/70/EC and relevant CEN standards or reference fuel as specified in Annex IX to this Regulation. Fuel samples shall be taken. A manufacturer may request not to sample the fuel from a gas engine. 4.4.2.1. If the manufacturer has, in accordance with Section 1 of Annex I to this Regulation, declared the capability to meet the requirements of this Regulation on market fuels declared in point 3.2.2.2.1 of the Information Document as set out in Appendix 4 to Annex I to this Regulation, at least one test shall be conducted on each of the declared market fuels. 4.4.3. For exhaust after-treatment systems that use a reagent to reduce emissions, the reagent shall be market reagent and must comply with the specifications of the engine manufacturer. A sample of the reagent shall be taken. The reagent shall not be frozen. 4.5. Trip requirements
+The shares of operation shall be expressed as a percentage of the total trip duration. The trip shall consist of urban driving followed by rural and motorway driving according to the shares specified in points 4.5.1 to 4.5.4. Where another testing order is justified for practical reasons and after the agreement of the approval authority another order may be used, however, the test shall always start with the urban driving. For the purpose of this Section, 'approximately' shall mean the target value ± 5 %. Urban, rural and motorway parts can be determined either on the basis of: —
+geographical coordinates (by means of a map), or
+—
+first acceleration method. In case the trip composition is determined on the basis of geographical coordinates, the vehicle should not exceed, for a cumulative period longer than 5 % of the total duration of each part of the trip, the following speed: —
+50 km/h in the urban part,
+—
+75 km/h in the rural part (90 km/h in the case of vehicles of categories M1 and N1)
+In case the trip composition is determined by means of the first acceleration method, the first acceleration above 55 km/h (70 km/h in the case of vehicles of categories M1 and N1) shall indicate the beginning of the rural part and the first acceleration above 75 km/h (90 km/h in the case of vehicles of categories M1 and N1) shall indicate the beginning of the motorway part. The criteria for differentiation between urban, rural and motorway operation shall be agreed with the approval authority prior to the beginning of the test. Average speed in urban operation shall be between 15 and 30 km/h. Average speed in rural operation shall be between 45 and 70 km/h (60 and 90 km/h in the case of vehicles of categories M1 and N1). Average speed in motorway operation shall be above 70 km/h (90 km/h in the case of vehicles of categories M1 and N1). 4.5.1. For M1 and N1 vehicles the trip shall consist of approximately 34 % urban, 33 % rural and 33 % motorway operation. 4.5.2. For N2, M2 and M3 vehicles the trip shall consist of approximately 45 % urban, 25 % rural and 30 % motorway operation. M2 and M3 vehicles of Class I, II or Class A as defined in UN/ECE Regulation 107 shall be tested in approximately 70 % urban and 30 % rural operation. 4.5.3. For N3 vehicles the trip shall consist of approximately 20 % urban, 25 % rural and 55 % motorway operation. 4.5.4. For the purpose of the assessment of the trip composition, the duration of the share shall be calculated from the moment when the coolant temperature has reached 343 K (70 °C) for the first time or after the coolant temperature is stabilised within +/- 2 K over a period of 5 minutes whichever comes first but no later than 15 minutes after engine start. In accordance with paragraph 4.5 the period elapsed to reach the coolant temperature of 343 K (70 °C) shall be operated under urban driving conditions. Artificial warming-up of the emission control systems prior to the test is prohibited. 4.5.5. The following distribution of the characteristic trip values from the WHDC database may serve as additional guidance for the evaluation of the trip: (a) accelerating: 26,9 % of the time; (b) decelerating: 22,6 % of the time; (c) cruising: 38,1 % of the time; (d) stop (vehicle speed = 0): 12,4 % of the time.'; (5) point 4.6.5 is replaced by the following: '4.6.5. The test duration shall be long enough to complete between four and seven times the work performed during the WHTC or produce between four and seven times the CO2 reference mass in kg/cycle from the WHTC as applicable.'; (6) point 4.6.10 is replaced by the following: '4.6.10. If the particle exhaust after-treatment system undergoes a non-continuous regeneration event during the trip or an OBD class A or B malfunction occurs during the test, the manufacturer can request the trip to be voided.'; (7) point 5.1.2.2 is replaced by the following: '5.1.2.2. The conformity of the ECU torque signal is considered to be sufficient if the calculated torque remains within the full load torque tolerance specified in point 5.2.5 of Annex I.'; (8) Appendix 1 is amended as follows: (a) point 1 is replaced by the following: '1. INTRODUCTION
+This Appendix describes the procedure to determine gaseous emissions from on-vehicle on-road measurements using portable emissions measurement systems (hereinafter 'PEMS'). The pollutant emissions to be measured from the exhaust of the engine include the following components: carbon monoxide, total hydrocarbons and nitrogen oxides for compression ignition engines and carbon monoxide, non-methane hydrocarbons, methane and nitrogen oxides for positive ignition engines. Additionally, carbon dioxide shall be measured to enable the calculation procedures described in Sections 4 and 5.
+Article 2
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+With the exception of point 8(c), which shall apply to all vehicles as from the entry into force of this Regulation, Annex II shall apply from 1 January 2017 to new vehicle types.
+recital 2
+(2) Regulation (EU) No 582/2011 states that any additional requirements with respect to the off-cycle in-use emissions testing procedure should be introduced after the assessment of the test procedure specified in that Regulation.
+recital 12
+(12) Regulation (EU) No 582/2011 should therefore be amended accordingly.
+recital 6
+(6) It is therefore necessary to lay down a procedure which will properly assess the durability of those replacement parts entering the Union market and to ensure that they meet environmental requirements compatible with those set for similar systems produced as original vehicles' parts.
+ANNEX I
+ANNEX I
+Annex I to Regulation (EU) No 582/2011 is amended as follows: (1) point 1.1.2 is replaced by the following: '1.1.2. If the manufacturer permits the engine family to run on market fuels that do not comply neither with Directive 98/70/EC of the European Parliament and of the Council (*1) nor with CEN standard EN 228:2012 (in the case of unleaded petrol) or CEN standard EN 590:2013 (in the case of diesel), such as running on B100 (EN 14214), the manufacturer shall, in addition to the requirements in point 1.1.1, comply with the following requirements: (a) declare the fuels the engine family is capable of running on in point 3.2.2.2.1 of the Information Document as set out in Part 1 of Appendix 4., either by reference to an official standard or to a production specification of a brand specific market fuel not meeting any official standard such as those mentioned in point 1.1.2. The manufacturer shall also declare that the functionality of the OBD system is not affected by the use of the declared fuel; (b) demonstrate that the parent engine meets the requirements specified in Annex III and in Appendix 1 of Annex VI to this Regulation on the fuels declared; the approval authority may request that the demonstration requirements be further extended to those laid down in Annex VII and Annex X; (c) be liable to meet the requirements of in-service conformity specified in Annex II on the fuels declared including any blend between the declared fuels and the market fuels included in Directive 98/70/EC and the relevant CEN standards. At the request of the manufacturer, the requirements set out in this point shall be applied to fuels used for military purposes. For the purposes of point (a) of the first subparagraph where the emission tests are performed for demonstrating compliance with the requirements of this Regulation, a fuel analysis report of the test fuel shall be attached to the test report and shall comprise at least the parameters specified in the official specification of the fuel manufacturer. (*1) Directive 98/70/EC of the European Parliament and of the Council of 13 October 1998 relating to the quality of petrol and diesel fuels and amending Council Directive 93/12/EEC (OJ L 350, 28.12.1998, p. 58).';" (2) point 1.1.5 is replaced by the following: '1.1.5. In the case of natural gas/biomethane engines, the ratio of the emission results "r" shall be determined for each pollutant as follows: {{IMAGE:Image_0, Caption:Formula defining the emission ratio 'r' as the emission result on reference fuel 2 divided by the emission result on reference fuel 1.}} {{IMAGE:Image_1, Caption:Formula defining the emission ratio r_a as the quotient of emission results on reference fuel 2 and reference fuel 3.}} {{IMAGE:Image_2, Caption:Formula for calculating the emission ratio $r_b$ for natural gas/biomethane engines, based on reference fuels 1 and 3.}} ';
+(3) point 3.1 is replaced by the following: '3.1. In the case of an engine type-approved as a separate technical unit or a vehicle type-approved with regard to emissions and access to vehicle repair and maintenance information, the engine shall bear: (a) the trademark or trade name of the manufacturer of the engine; (b) the manufacturer's commercial description of the engine.'; (4) the following points 3.2.1.1 to 3.2.1.6 are inserted: '3.2.1.1. In case of a natural gas/biomethane engine one of the following markings to be placed after the EC type-approval mark: (a) H in case of the engine being approved and calibrated for the H-range of gases; (b) L in case of the engine being approved and calibrated for the L-range of gases; (c) HL in case of the engine being approved and calibrated for both the H-range and L-range of gases; (d) Ht in case of the engine being approved and calibrated for a specific gas composition in the H-range of gases and transformable to another specific gas in the H-range of gases by fine tuning of the engine fuelling; (e) Lt in case of the engine being approved and calibrated for a specific gas composition in the L-range of gases and transformable to another specific gas in the L-range of gases after fine tuning of the engine fuelling; (f) HLt in the case of the engine being approved and calibrated for a specific gas composition in either the H-range or the L- range of gases and transformable to another specific gas in either the H-range or the L-range of gases by fine tuning of the engine fuelling; (g) CNGfr in all other cases where the engine is fuelled with CNG/biomethane and designed for operation on one restricted gas fuel range composition; (h) LNGfr in the cases where the engine is fuelled with LNG and designed for operation on one restricted gas fuel range composition; (i) LPGfr in the cases where the engine is fuelled with LPG and designed for operation on one restricted gas fuel range composition; (j) LNG20 in case of the engine being approved and calibrated for a specific LNG composition resulting in a λ-shift factor not differing by more than 3 per cent the λ-shift factor of the G20 gas specified in Annex IX, and the ethane content of which does not exceed 1,5 per cent; (k) LNG in case of the engine being approved and calibrated for any other LNG composition; 3.2.1.2. For dual-fuel engines, the approval mark shall contain a series of digits after the national symbol, the purpose of which is to distinguish for which dual-fuel engine type and with which range of gases the approval has been granted. The series of digits will be constituted of two digits identifying the dual-fuel engine type as defined in Article 2, followed by the letter or letters specified in point 3.2.1.1 corresponding to the natural gas/biomethane composition used by the engine. The two digits identifying the dual- fuel engine types as defined in Article 2 are the following: (a) 1A for dual-fuel engines of Type 1A; (b) 1B for dual-fuel engines of Type 1B; (c) 2A for dual-fuel engines of Type 2A; (d) 2B for dual-fuel engines of Type 2B; (e) 3B for dual-fuel engines of Type 3B; 3.2.1.3. For diesel-fuelled CI engines, the approval mark shall contain the letter 'D' after the national symbol; 3.2.1.4. For ethanol (ED95)-fuelled CI engines the approval mark shall contain the letters 'ED' after the national symbol; 3.2.1.5. For ethanol (E85)-fuelled PI engines the approval mark shall contain 'E85' after the national symbol; 3.2.1.6. for petrol-fuelled PI engines the approval mark shall contain the letter 'P' after the national symbol.'; (5) in point 4.2, point (b) is replaced by the following: '(b) as regards the compliance of the system ensuring the correct operation of NOx control measures, the installation shall, according to Appendix 4 of Annex 11 to UN/ECE Regulation No 49, meet the manufacturer's installation requirements as specified in Part 1 of Annex 1 to that Regulation.'; (6) in Appendix 4, the ninth, tenth and eleventh paragraphs are replaced by the following: 'In the case of application for EC type-approval of an engine or engine family as a separate technical unit the general part and Parts 1 and 3 shall be filled in. In the case of application for EC type-approval of vehicle with an approved engine with regard to emissions and access to vehicle repair and maintenance information the general part and Part 2 shall be filled in. In the case of application for EC type-approval of a vehicle with regard to emissions and access to vehicle repair and maintenance information the general part and Parts 1, 2 and 3 shall be filled in.'; (7) Appendix 9 is replaced by the following: 'Appendix 9
+EC Type-Approval Certification Numbering System
+Section 3 of the EC type-approval number issued according to Articles 6(1), 8(1) and 10(1) shall be composed by the number of the implementing regulatory act or the latest amending regulatory act applicable to the EC type-approval.
+recital 11
+(11) It is appropriate that the new requirements for the in-service testing do not apply retroactively to engines and vehicles which have not been approved in accordance with those requirements.
+
+Therefore, the new provisions set out in Annex II shall only apply to the in-service conformity testing of new types of engines and vehicles which have been approved in accordance with the amended version of the Regulation (EU) No 582/2011.
+recital 1
+(1) In-service conformity testing represents one of the building blocks of the type-approval procedure and allows for the verification of the performance of emission control systems during the useful lifetime of vehicles.
+
+In accordance with Commission Regulation (EU) No 582/2011 (2), the tests are performed by means of portable emission measurement systems (PEMS) which assess the emissions in the normal operations of use. The PEMS approach is equally applied to verify off-cycle emissions during the type-approval certification.
+ANNEX V
+ANNEX V
+Annex XIII to Regulation (EU) No 582/2011 is amended as follows:
+
+(1) points 2.1.2.2.1 and 2.1.2.2.2 are replaced by the following: '2.1.2.2.1. The provisions on reagent quality monitoring set out in points 7 to 7.1.3 of this Annex shall apply, instead of points 4.1 and 4.2 of Annex XVI to Regulation (EC) No 692/2008. 2.1.2.2.2. The provisions on reagent consumption monitoring and dosing activity set out in points 8, 8.1 and 8.1.1 of this Annex shall apply, instead of points 5 to 5.5 of Annex XVI to Regulation (EC) No 692/2008.'; (2) points 8 and 8.1 are replaced by the following: '8. REAGENT CONSUMPTION AND DOSING ACTIVITY
+8.1. The measures regarding reagent consumption monitoring and dosing activity shall be those set out in paragraph 8 of Annex 11 to UN/ECE Regulation No 49.'.
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 595/2009 of the European Parliament and of the Council of 18 June 2009 on type-approval of motor vehicles and engines with respect to emissions from heavy-duty vehicles (Euro VI) and on access to vehicle repair and maintenance information and amending Regulation (EC) No 715/2007 and Directive 2007/46/EC and repealing Directives 80/1269/EEC, 2005/55/EC and 2005/78/EC (1), and in particular Article 4(3), Article 5(4) and Article 12 thereof,
+Whereas:
+recital 3
+(3) The Commission has therefore performed an in-depth analysis of the testing procedure.
+
+That analysis has identified a number of shortfalls which undermine the efficiency of the European type-approval legislation and need to be remedied in order to ensure the appropriate level of environmental protection.
+recital 4
+(4) Emission performance of vehicles in a warm-up period is currently not assessed under the type-approval demonstration test or under the in-service conformity test.
+
+In order to address the existing knowledge gap and to prepare a new testing procedure for cold start operations, a monitoring phase during which data from type-approval and in-service conformity tests will be collected should be launched.
+recital 5
+(5) In accordance with Regulation (EU) No 582/2011, replacement pollution control devices are to be type-approved in accordance with Euro VI emission requirements once the specific durability testing requirements are introduced in that Regulation.
+recital 7
+(7) A test procedure based on the accelerated ageing of replacement pollution control devices due to thermal and lubricant consumption effects meets the objective of addressing durability of replacement pollution control devices in an accurate and objective manner and is not excessively burdensome for the industry.
+Additionally, carbon dioxide shall be measured to enable the calculation procedures described in Sections 4 and 5. For engines fuelled with natural gas, the manufacturer, technical service or approval authority may choose to measure the total hydrocarbon (THC) emissions only instead of measuring the methane and non-methane hydrocarbon emissions. In that case, the emission limit for the total hydrocarbon emissions is the same as the one specified in Annex I to Regulation (EC) No 595/2009 for methane emissions. For the purposes of the calculation of the conformity factors pursuant to points 4.2.3 and 4.3.2, the applicable limit shall in that case be the methane emission limit only. For engines fuelled with gases other than natural gas, the manufacturer, technical service or approval authority may choose to measure the total hydrocarbon (THC) emissions instead of measuring the non-methane hydrocarbon emissions. In that case, the emission limit for the total hydrocarbon emissions is the same as the one specified in Annex I to Regulation (EC) No 595/2009 for non-methane hydrocarbon emissions. For the purposes of the calculation of the conformity factors pursuant to points 4.2.3 and 4.3.2, the applicable limit shall in that case be the non-methane emission limit.'; (b) in point 2.2., the sentence 'The parameters summarised in Table 1 shall be measured and recorded:' is replaced by the following: 'The parameters as specified in Table 1 shall be measured and recorded at a constant frequency of 1,0 Hz or higher. The original raw data shall be kept by the manufacturer and shall be made available, upon request, to the approval authority and the Commission.'; (c) the following point 2.2.1 is inserted: '2.2.1. Data reporting format
+Emission values as well as any other relevant parameters shall be reported and exchanged as csv-formatted data file. Parameter values shall be separated by a comma, ASCII-Code #h2C. The decimal marker of numerical values shall be a point, ASCII-Code #h2E. Lines shall be terminated by carriage return, ASCII-Code #h0D. No thousands separators shall be used.'; (d) points 2.6.1 and 2.6.2 are replaced by the following: '2.6.1. 
+Test start
+Emissions sampling, measurement of the exhaust parameters and recording of the engine and ambient data shall commence prior to starting the engine. The coolant temperature shall not exceed 303 K (30 °C) at the beginning of the test. In case ambient temperature exceeds 303 K (30 °C) at the beginning of the test, the coolant temperature shall not exceed the ambient temperature by more than 2 °C. The data evaluation shall start after the coolant temperature has reached 343 K (70 °C) for the first time or after the coolant temperature is stabilised within +/- 2 K over a period of 5 minutes whichever comes first but no later than 15 minutes after engine start. 2.6.2. Test run
+Emission sampling, measurement of the exhaust parameters and recording of the engine and ambient data shall continue throughout the normal in-use operation of the engine. The engine may be stopped and started, but emissions sampling shall continue throughout the entire test. Periodic zero-checks of the PEMS gas analysers may be conducted every 2 hours and the results may be used to perform a zero drift correction. The data recorded during the checks shall be flagged and shall not be used for the emission calculations. In case of interrupted GPS signal the GPS data may be calculated based on the ECU vehicle speed and a map, for a consecutive period of less than 60 s. If the cumulative loss of GPS signal exceeds 3 % of the total trip duration, the trip should be declared void.'; (e) point 3.2.1 is replaced by the following: '3.2.1. Analysers and EFM data
+The consistency of the data (exhaust mass flow measured by the EFM and gas concentrations) shall be verified using a correlation between the measured fuel flow from the ECU and the fuel flow calculated using the formula in paragraph 8.4.1.7 of Annex 4 to UN/ECE Regulation No 49. A linear regression shall be performed for the measured and calculated fuel rate values. The method of least squares shall be used with the best fit equation having the form: y = mx + b
+where: —
+y is the calculated fuel flow [g/s]
+—
+m is the slope of the regression line
+—
+x is the measured fuel flow [g/s]
+—
+b is the y intercept of the regression line
+The slope (m) and the coefficient of determination (r2) shall be calculated for each regression line. It is recommended to perform this analysis in the range from 15 % of the maximum value to the maximum value and at a frequency greater or equal to 1 Hz. For a test to be considered valid, the following two criteria shall be evaluated:
+
+| Slope of the regression line, m | 0,9 to 1,1 — Recommended |
+|---|---|
+| Coefficient of determination r2 | min. 0,90 — Mandatory'; |
+
+(f) point 4.1 is replaced by the following: '4.1. Averaging window principle
+The emissions shall be integrated using a moving averaging window method, based on the reference CO2 mass or the reference work. The principle of the calculation is as follows: The mass emissions are not calculated for the complete data set, but for sub-sets of the complete data set, the length of these sub-sets being determined so as to match the engine CO2 mass or work measured over the reference laboratory transient cycle. The moving average calculations are conducted with a time increment Δt equal to the data sampling period. These sub-sets used to average the emissions data are referred to as "averaging windows" in the following points. Any invalidated data shall not be considered for the calculation of the work or CO2 mass and the emissions of the averaging window. The following data shall be considered as not valid data: (a) zero drift check of the instruments; (b) the data outside the conditions specified in points 4.2 and 4.3 of Annex II. The mass emissions (mg/window) shall be determined as described in paragraph 8.4.2.3 of Annex 4 to UN/ECE Regulation No 49. {{IMAGE:Image_3, Caption:Chart illustrating vehicle speed and averaged emissions over time, highlighting the duration and initial value of the first averaging window.}} Averaging window emissions
+Time
+Duration of the first window
+Vehicle speed
+Emissions of the first window
+ '; (g) point 4.2.2 is replaced by the following: '4.2.2. Selection of valid windows
+4.2.2.1. Before the dates referred to in Article 17a, points 4.2.2.1.1 to 4.2.2.1.4 shall apply. 4.2.2.1.1. The valid windows are the windows whose average power exceeds the power threshold of 20 % of the maximum engine power. The percentage of valid windows shall be equal or greater than 50 %. 4.2.2.1.2. If the percentage of valid windows is less than 50 %, the data evaluation shall be repeated using lower power thresholds. The power threshold shall be reduced in steps of 1 % until the percentage of valid windows is equal to or greater than 50 %. 4.2.2.1.3. In any case, the lower threshold shall not be lower than 15 %. 4.2.2.1.4. The test shall be void if the percentage of valid windows is less than 50 % at a power threshold of 15 %.
+4.2.2.2. From the dates referred to in Article 17a, points 4.2.2.2.1 and 4.2.2.2.2 shall apply. 4.2.2.2.1. The valid windows are the windows whose average power exceeds the power threshold of 10 % of the maximum engine power. 4.2.2.2.2. The test shall be void if the percentage of valid windows is less than 50 % or if there are no valid windows left in urban only operations after the 90 percentile rule has been applied.'; (h) point 4.3.1 is replaced by the following: '4.3.1. Selection of valid windows
+4.3.1.1. Before the dates referred to in Article 17a, points 4.3.1.1.1 to 4.3.1.1.4 shall apply. 4.3.1.1.1. The valid windows shall be the windows whose duration does not exceed the maximum duration calculated from: {{IMAGE:Image_4, Caption:Mathematical formula defining D_max as a function of reference work (W_ref) and maximum power (P_max).}} where:
+| Character | NOx OTL (1) | PM OTL (2) | CO OTL (6) | IUPR (13) | Reagent quality | Additional OBD monitors (12) | Power threshold requirements (14) | Implementation dates: new types | Implementation dates: all vehicles | Last date of registration |
+|---|---|---|---|---|---|---|---|---|---|---|
+| A (9) (10) B (10) | Row "phase-in period" of Tables 1 or Table 2 | Performance. Monitoring (3) |  | Phase-in (7) | Phase-in (4) |  | 20 % | 31.12.2012 | 31.12.2013 | 31.8.2015 (9) 30.12.2016 (10) |
+| B (11) | Row "phase-in period" of Tables 1 and 2 |  | Row "phase-in period" of Table 2 |  | Phase-in (4) |  | 20 % | 1.9.2014 | 1.9.2015 | 30.12.2016 |
+| C | Row "general requirements" of Tables 1 or Table 2 | Row "general requirements" of Table 1 | Row "general requirements" of Table 2 | General (8) | General (5) | Yes | 20 % | 31.12.2015 | 31.12.2016 | 31.12.2018 |
+| D | Row "general requirements" of Tables 1 or Table 2 | Row "general requirements" of Table 1 | Row "general requirements" of Table 2 | General (8) | General (5) | Yes | 10 % | 1.9.2018 | 1.9.2019 |  |
+| N/A Not applicable.'. | N/A Not applicable.'. | N/A Not applicable.'. | N/A Not applicable.'. | N/A Not applicable.'. | N/A Not applicable.'. | N/A Not applicable.'. | N/A Not applicable.'. | N/A Not applicable.'. | N/A Not applicable.'. | N/A Not applicable.'. |
+
+(*1) Directive 98/70/EC of the European Parliament and of the Council of 13 October 1998 relating to the quality of petrol and diesel fuels and amending Council Directive 93/12/EEC (OJ L 350, 28.12.1998, p. 58).';'
+(1) 
+ "NOx OTL" monitoring requirements as set out in Table 1 of Annex X for compression ignition and dual-fuel engines and vehicles and Table 2 of Annex X for positive ignition engines and vehicles. (2) 
+ "PM OTL" monitoring requirements as set out in Table 1 of Annex X for compression ignition and dual-fuel engines and vehicles. (3) 
+ "Performance monitoring" requirements as set out in point 2.1.1 of Annex X. (4) Reagent quality "phase-in" requirements as set out in point 7.1 of Annex XIII. (5) Reagent quality "general" requirements as set out in point 7.1.1 of Annex XIII. (6) 
+ "CO OTL" monitoring requirements as set out in Table 2 of Annex X for positive ignition engines and vehicles. (7) IUPR "Phase-in" requirements as set out in Section 6 of Annex X. (8) IUPR "General" requirements as set out in Section 6 of Annex X. (9) For positive-ignition engines and vehicles equipped with such engines. (10) For compression-ignition and dual-fuel engines and vehicles equipped with such engines. (11) Only applicable to positive-ignition engines and vehicles equipped with such engines. (12) Additional provisions concerning monitoring requirements as set out in paragraph 2.3.1.2 of Annex 9A to UNECE Regulation No 49. (13) IUPR specifications are set out in Annex X. Positive Ignition engines and vehicles equipped with such engines are not subjected to IUPR. (14) ISC requirement set out in Appendix 1 to Annex II.
+2.2.14. In the case of systems operating in the presence of active regeneration, the number, length and temperatures of the regenerations occurring during the test sequence defined in points 2.2.1 and 2.2.2 shall be recorded. If no active regeneration has occurred, the hot sequence defined in point 2.2.2 shall be extended in order to include at least two active regenerations. 2.2.15. The total lubricant consumed during the data collection period, in g/h, shall be recorded, using any suitable method, as for example the drain and weigh procedure described in Appendix 6. For this purpose, the engine shall be run during 24 hours, performing consecutive WHTC test-cycles. In cases where an accurate measurement of oil consumption cannot be obtained, the manufacturer, in agreement with the type-approval authority, may use the following options for the determination of the lubricant consumption: (a) a default value of 30 g/h; (b) a value requested by the manufacturer, based on sound data and information, and agreed with the type-approval authority. 2.3. Calculation of the equivalent ageing time corresponding to a reference temperature
+2.3.1. The temperatures recorded pursuant to points 2.2 to 2.2.15 shall be reduced to a reference temperature Tr
+, requested by the manufacturer in agreement with the type-approval authority, within the range of the temperatures recorded during the data collection phase. 2.3.2. In the case specified in point 2.2.13, the value of Tr
+ for each one of the devices may vary. 2.3.3. The equivalent ageing time corresponding to the reference temperature shall be calculated, for each bin referred to in 2.2.11, in accordance with the following equation: Equation 1: {{IMAGE:Image_8, Caption:Mathematical equation defining the equivalent time $t_e^i$ based on bin time $t_{bin}^i$ and temperature parameters.}} Where: R
+= thermal reactivity of the replacement pollution control device. The following values shall be used: —
+Diesel oxidation catalyst (DOC): 18 050
+—
+Catalysed DPF: 18 050
+—
+SCR or ammonia oxidation catalyst (AMOX) based on iron-zeolite (Fe-Z): 5 175
+—
+SCR copper-zeolite (Cu-Z): 11 550
+—
+SCR Vanadium (V): 5 175
+—
+LNT (lean-NOx trap): 18 050
+Tr
+= reference temperature, in K. {{IMAGE:Image_27, Caption:Mathematical notation T with superscript i and subscript bin.}} = mid-point temperature, in K, of the temperature bin i to which the replacement pollution control device is exposed during the data collection phase, registered in the temperature histogram. {{IMAGE:Image_28, Caption:Mathematical variable t with superscript i and subscript bin.}} {{IMAGE:Image_27, Caption:Mathematical notation T with superscript i and subscript bin.}} {{IMAGE:Image_12, Caption:A mathematical expression showing the division of 4000 by 5, equal to 800.}} . {{IMAGE:Image_24, Caption:Mathematical symbol $t_e^i$ consisting of the letter t with subscript e and superscript i.}} {{IMAGE:Image_27, Caption:Mathematical notation T with superscript i and subscript bin.}} {{IMAGE:Image_28, Caption:Mathematical variable t with superscript i and subscript bin.}} .
+i
+= bin number, where 1 is number for the bin with the lowest temperature and n the value for the bin with the highest temperature. 2.3.4. The total equivalent ageing time shall be calculated in accordance with the following equation: Equation 2: {{IMAGE:Image_16, Caption:Mathematical formula defining the variable AT as the summation of the term $t_e^i$ from $i=1$ to $n$.}} Where: {{IMAGE:Image_27, Caption:Mathematical notation T with superscript i and subscript bin.}} {{IMAGE:Image_28, Caption:Mathematical variable t with superscript i and subscript bin.}} of each one of the i bins registered in the histogram. {{IMAGE:Image_24, Caption:Mathematical symbol $t_e^i$ consisting of the letter t with subscript e and superscript i.}} {{IMAGE:Image_27, Caption:Mathematical notation T with superscript i and subscript bin.}} {{IMAGE:Image_28, Caption:Mathematical variable t with superscript i and subscript bin.}} .
+i
+= bin number, where 1 is number for the bin with the lowest temperature and n the value for the bin with the highest temperature. n
+= Total number of temperature bins. 2.3.5. In the case referred to in point 2.2.13, AT shall be calculated for each device. 2.4. Service accumulation schedule
+2.4.1. General requirements
+2.4.1.1. The service accumulation schedule shall allow acceleration of the ageing of the replacement pollution control device, using the information gathered during the data collection phase set out in point 2.2. 2.4.1.2. The service accumulation schedule shall consist of a thermal accumulation schedule and a lubricant consumption accumulation schedule in accordance with point 2.4.4.6. The manufacturer, in agreement with the type-approval authority, may not have to carry out a lubricant consumption accumulation schedule in case the replacement pollution control devices are placed downstream of an after-treatment filter component (e.g. diesel particulate filter). Both the thermal accumulation schedule and the lubricant consumption accumulation schedule shall consist of a repetition of, respectively, a series of thermal and lubricant consumption sequences. 2.4.1.3. In the case of replacement pollution control devices operating in the presence of active regeneration, the thermal sequence shall be complemented with an active regeneration mode. 2.4.1.4. For service accumulation schedules consisting of both thermal and lubricant consumption accumulation schedules, their respective sequences shall be alternated, so that for each thermal sequence that has to be performed, the following sequence corresponds to lubricant consumption. 2.4.1.5. It is allowed to perform the service accumulation schedule at the same time for different devices. In that case, a single service accumulation schedule shall be set for all the devices. 2.4.2. Thermal accumulation schedule
+2.4.2.1. The thermal accumulation schedule shall simulate the effect of thermal ageing on the performance of a replacement pollution control device until the end of its lifetime. 2.4.2.2. The engine used for the performance of the service accumulation schedule, fitted with the exhaust after-treatment system incorporating the replacement pollution control device, is operated for a minimum of three consecutive thermal sequences, as set out in Appendix 4. 2.4.2.3. The temperatures shall be recorded over a minimum of two thermal sequences. The first sequence, conducted for warming up, shall not be taken into account for the purpose of temperature gathering. 2.4.2.4. The temperatures shall be recorded at suitable locations, chosen in accordance with points 2.2.6 to 2.2.9, at a minimum rate of once every second (1 Hz). 2.4.2.5. The effective ageing time corresponding to the thermal sequences referred to in point 2.4.2.3, shall be calculated in accordance with the following equations: Equation 3: {{IMAGE:Image_22, Caption:Mathematical equation defining the variable $t_e^i$ as an average of exponential temperature-dependent terms.}} Equation 4: {{IMAGE:Image_23, Caption:Mathematical formula defining the variable AE as the summation of the term t_e^i from i=1 to p.}} Where: {{IMAGE:Image_24, Caption:Mathematical symbol $t_e^i$ consisting of the letter t with subscript e and superscript i.}} = the effective ageing time, in hours, needed to achieve, by exposing the replacement pollution control device at the temperature Tr
+, the same amount of ageing as the one that would result from exposure of the replacement pollution control device at the temperature Ti
+ during the second i. Ti
+= the temperature, in K, measured in the second i, in each one of the thermal sequences. R
+= thermal reactivity of the replacement pollution control device. The manufacturer shall agree with the type-approval authority on the R value to be used. It will also be possible, as alternative, to use the following default values: —
+Diesel oxidation catalyst (DOC): 18 050.
+where: —
+D max is the maximum window duration, s,
+—
+P max is the maximum engine power, kW. 4.3.1.1.2. If the percentage of valid windows is less than 50 %, the data evaluation shall be repeated using longer window durations. This is achieved by decreasing the value of 0,2 in the formula given in point 4.3.1 by steps of 0,01 until the percentage of valid windows is equal to or greater than 50 %. 4.3.1.1.3. In any case, the lowered value in above formula shall not be lower than 0,15. 4.3.1.1.4. The test shall be void if the percentage of valid windows is less than 50 % at a maximum window duration calculated in accordance with points 4.3.1.1, 4.3.1.1.2 and 4.3.1.1.3. 4.3.1.2. From the dates referred to in Article 17a, points 4.3.1.2.1 and 4.3.1.2.2 shall apply. 4.3.1.2.1. The valid windows shall be the windows whose duration does not exceed the maximum duration calculated from: {{IMAGE:Image_5, Caption:Mathematical formula for calculating D_max based on reference work and maximum power.}} where: —
+D max is the maximum window duration, s,
+—
+P max is the maximum engine power, kW. 4.3.1.2.2. The test shall be void if the percentage of valid windows is less than 50 %.';
+(9) in Appendix 2, point 3.1 is replaced by the following: '3.1. Exhaust gas flow meter (EFM) tailpipe connection
+The installation of the EFM shall not increase the backpressure by more than the value recommended by the engine manufacturer, nor increase the length of the tailpipe by more than 2 m. As for the all the components of the PEMS equipment, the installation of the EFM shall comply with the locally applicable road safety regulations and insurance requirements.'.
+—
+Diesel oxidation catalyst (DOC): 18 050.
+
+—
+Catalysed DPF: 18 050
+—
+SCR or ammonia oxidation catalyst (AMOX) based on iron-zeolite (Fe-Z): 5 175
+—
+SCR copper-zeolite (Cu-Z): 11 550
+—
+SCR Vanadium (V): 5 175
+—
+LNT (lean-NOx trap): 18 050
+Tr
+= reference temperature, in K, being the same value as in equation 1. AE
+= Effective ageing time, in hours, needed to achieve, by exposing the replacement pollution control device at the temperature Tr
+, the same amount of ageing as the one that would result from exposure of the replacement pollution control device during the duration of the thermal sequence. {{IMAGE:Image_27, Caption:Mathematical notation T with superscript i and subscript bin.}} {{IMAGE:Image_28, Caption:Mathematical variable t with superscript i and subscript bin.}} of each one of the i bins registered in the histogram. i
+= number of temperature measurement. p
+= total number of temperature measurements. nc
+= thermal sequence number, of those conducted for the purpose of temperature gathering, in accordance with point 2.4.2.3. C
+= total number of thermal sequences conducted for the purpose of temperature gathering. 2.4.2.6. The total number of thermal sequences to be included in the service accumulation schedule shall be determined by applying the following equation: Equation 5: NTS = AT/AE
+Where: {{IMAGE:Image_27, Caption:Mathematical notation T with superscript i and subscript bin.}} {{IMAGE:Image_28, Caption:Mathematical variable t with superscript i and subscript bin.}} of each one of the i bins registered in the histogram. AE
+= Effective ageing time, in hours, needed to achieve, by exposing the replacement pollution control device at the temperature Tr
+, the same amount of ageing as the one that would result from exposure of the replacement pollution control device during the duration of the thermal sequence. 2.4.2.7. It is allowed to reduce NTS
+ and, consequently the service accumulation schedule, by increasing the temperatures at which each device is exposed at each mode of the ageing cycle through the application of one or several of the following measures: (a) insulating the exhaust pipe; (b) moving the replacement pollution control device closer to the exhaust manifold; (c) artificially heating up the temperature of the exhaust; (d) optimising the engine settings without substantially changing the emission behaviour of the engine. 2.4.2.8. When applying the measures referred to in points 2.4.4.6 and 2.4.4.7, the total ageing time calculated from NTS
+ shall not be less than 10 % of the useful life listed in Table 1, e.g. the vehicle category N1
+ shall not have an NTS
+ of less than 286 thermal sequences, assuming that each sequence is 1 hour long. 2.4.2.9. It is allowed to increase NTS
+ and, consequently, the duration of the service accumulation schedule, by lowering the temperatures at each mode of the ageing cycle through the application of one or several of the following measures: (a) moving the replacement pollution control device further away from the exhaust manifold; (b) artificially cooling down the temperature of the exhaust; (c) optimising the engine settings. 2.4.2.10. In the case referred to in point 2.4.1.5, the following shall apply: 2.4.2.10.1. NTS
+ shall be the same for each device, so that a single service accumulation schedule can be set up. 2.4.2.10.2. In order to achieve the same NTS
+ for each device, a first NTS
+ value shall be calculated for each device, with its own AT and AE values. 2.4.2.10.3. If the calculated NTS
+ values are different, one or more of the measures set out in points 2.4.2.7 to 2.4.2.10 may be applied on the device or devices for which NTS
+ needs to be modified, over the thermal sequences referred to in point 2.4.2.3, in order to influence the measured Ti
+ and therefore conveniently speed up or slow down the artificial ageing of the targeted device or devices. 2.4.2.10.4. The new NTS
+ values corresponding to the new temperatures Ti
+ obtained in point 2.4.2.10.3 shall be calculated. 2.4.2.10.5. The steps set out in points 2.4.2.10.3 and 2.4.2.10.4 shall be repeated until the NTS
+ values obtained for each device in the system match. 2.4.2.10.6. The Tr values used for obtaining the different NTS
+ in points 2.4.2.10.4 and 2.4.2.10.5 shall be the same ones as those used in points 2.3.2 and 2.3.5 for calculating AT for each device. 2.4.2.11. In the case of an assembly of replacement pollution control devices constituting a system within the meaning of Article 3(25) of Directive 2007/46/EC, one of the following two options may be considered for the thermal ageing of the devices: 2.4.2.11.1. The devices within the assembly may be either separately or jointly aged, in accordance with point 2.4.2.10. 2.4.2.11.2. If the assembly is built in such a way that it is not possible to decouple the devices (e.g. DOC + SCR in a can), the thermal ageing of the assembly shall be carried out with the highest NTS
+. 2.4.3. Modified thermal accumulation schedule for devices operating in the presence of active regeneration
+2.4.3.1. The modified thermal accumulation schedule for devices operating in the presence of active regeneration shall simulate the effect of ageing due to both thermal load and active regeneration on a replacement pollution control device at the end of its lifetime. 2.4.3.2. The engine used for the service accumulation schedule, fitted with the exhaust after-treatment system incorporating the replacement pollution control device, is operated for a minimum of three modified thermal sequences, consisting each sequence of a thermal sequence as set out in Appendix 4, followed by a complete active regeneration, during which the peak temperature reached in the after-treatment system should be not lower than the peak temperature recorded in the data collection phase. 2.4.3.3. The temperatures shall be recorded over a minimum of two modified thermal sequences. The first sequence, conducted for warming up, shall not be taken into account for the purpose of temperature gathering. 2.4.3.4. In order to minimise the time elapsed between the thermal sequence as set out in Appendix 4 and the subsequent active regeneration, the manufacturer may artificially trigger the active regeneration by running, after each thermal sequence as set out in Appendix 4, the engine at a steady mode that enables a high production of soot by the engine. In that case, the steady mode shall also be considered as part of the modified thermal sequence set out in point 2.4.3.2. 2.4.3.5. The effective ageing time corresponding to each modified thermal sequence shall be calculated using equations 3 and 4. 2.4.3.6. The total number of modified thermal sequences to be conducted during the service accumulation schedule shall be calculated using equation 5. 2.4.3.7. It is allowed to reduce NTS
+, and consequently the duration of the service accumulation schedule, by increasing the temperatures at each mode of the modified thermal sequence, applying one or several of the measures set out in point 2.4.2.7. 2.4.3.8. In addition to the measures referred to in point 2.4.3.7, NTS
+ can also be reduced by increasing the peak temperature of the active regeneration within the modified thermal sequence, without exceeding a bed temperature of 800 °C under any circumstances. 2.4.3.9. 
+ NTS
+ shall never be less than 50 % of the number of active regenerations to which the replacement pollution control device is subjected during its useful life, calculated in accordance with the following equation: Equation 5: {{IMAGE:Image_29, Caption:Mathematical formula for calculating the value N_AR using the time variables t_WHTC, t_AR, and t_BAR.}} Where: NAR
+= number of active regeneration sequences over the useful life of the replacement pollution control device. tWHTC
+= equivalent number of hours corresponding to the vehicle category for which the replacement pollution control device is intended, obtained from Table 1. tAR
+= duration, in hours, of an active regeneration.
+tWHTC
+= equivalent number of hours corresponding to the vehicle category for which the replacement pollution control device is intended, obtained from Table 1. tAR
+= duration, in hours, of an active regeneration.
+
+tBAR
+= time, in hours, between two consecutive active regenerations. 2.4.3.10. If, as consequence of the application of the minimum number of modified thermal sequences as set out in point 2.4.3.9, AE × NTS
+ calculated using equation 4 exceeds the AT calculated using equation 2, the time of each mode of the thermal sequence set out in Appendix 4, and embedded in the modified thermal sequence as set out in point 2.4.3.2, may be reduced in the same proportion, in order to make AE × NTS = AT. 2.4.3.11. It is allowed to increase NTS
+ and consequently the duration of the service accumulation schedule, by lowering the temperatures at each mode of the thermal-active regeneration sequence by applying one or several of the measures set out in point 2.4.2.9. 2.4.3.12. In the case referred to in point 2.4.1.5, points 2.4.2.10 and 2.4.2.11 shall apply
+2.4.4. Lubricant consumption accumulation schedule
+2.4.4.1. The lubricant consumption accumulation schedule shall simulate the effect of ageing due to chemical poisoning or deposit formation as a result of lubricant consumption, on the performance of a replacement pollution control device at the end of its lifetime. 2.4.4.2. The lubricant consumed, in g/h, shall be determined over a minimum of 24 thermal sequences or a corresponding number of modified thermal sequences, using any suitable method, as for example the drain and weigh procedure described in Appendix 6. Fresh lubricant shall be used. 2.4.4.3. The engine shall be equipped with a constant volume oil sump in order to avoid the need of "top-offs", since oil level influences the oil consumption rate. Any suitable method, as for example the one described in the ASTM standard D7156-09, may be used. 2.4.4.4. The theoretical time, in hours, that the thermal accumulation schedule or modified thermal accumulation schedule, as it corresponds, would have to be conducted, in order to obtain the same lubricant consumption as the one corresponding to the useful life of the replacement control device, shall be calculated by applying the following equation: Equation 6: {{IMAGE:Image_30, Caption:Equation defining the calculation of the time parameter t_TAS based on Load Cycle Ratios (LCR) and time values for WHTC and TAS cycles.}} Where:
+tTAS
+= theoretical duration, in hours, of the service accumulation schedule required to obtain the same lubricant consumption as the one corresponding to the useful life of the replacement pollution control device, provided that the service accumulation schedule is only made up of a series of consecutive thermal sequences or consecutive modified thermal sequences. LCRWHTC
+= lubricant consumption rate, in g/h determined as set out in point 2.2.15. tWHTC
+= equivalent number of hours corresponding to the vehicle category for which the replacement pollution control device is intended, obtained from Table 1. LCRTAS
+= lubricant consumption rate, in g/h, determined as set out in point 2.4.4.2. 2.4.4.5. The number of thermal sequences or modified thermal sequences corresponding to tTAS
+ shall be calculated by applying the following ratio: Equation 7: {{IMAGE:Image_31, Caption:Equation defining N as the ratio of t_TAS to T_TS.}} Where: N
+= number of thermal sequences or modified thermal sequences corresponding to tTAS
+. tTAS
+= theoretical duration, in hours, of the service accumulation schedule required to obtain the same lubricant consumption as the one corresponding to the useful life of the replacement pollution control device, provided that the service accumulation schedule was only made up of a series of consecutive thermal sequences or consecutive modified thermal sequences. tTS
+= duration, in hours, of a single thermal sequence or modified thermal sequence. 2.4.4.6. The value of N shall be compared to the value of NTS
+ calculated in accordance with point 2.4.2.6 or, for devices operating in the presence of active regeneration, in accordance with point 2.4.3.5. If N ≤ NTS
+, it is not necessary to add a lubricant consumption accumulation schedule to the thermal accumulation schedule. If N > NTS
+, a lubricant consumption accumulation schedule shall be added to the thermal accumulation schedule. 2.4.4.7. A lubricant consumption accumulation schedule may not have to be added if, by increasing the lubricant consumption as described in point 2.4.4.8.4, the needed lubricant consumption is already achieved with the conduction of the corresponding thermal accumulation schedule consisting of the performance of NTS
+ thermal sequences or modified thermal sequences. 2.4.4.8. Development of the lubricant consumption accumulation schedule
+2.4.4.8.1. The lubricant consumption accumulation schedule shall consist of a number of lubricant consumption sequences repeated several times, each lubricant consumption sequence being alternated with each thermal sequence or each modified thermal sequence. 2.4.4.8.2. Each lubricant consumption sequence shall consist of a steady mode at constant load and speed, the load and the speed being selected in such a way that the lubricant consumption is maximised and effective thermal aging is minimised. The mode shall be determined by the manufacturer in agreement with the type-approval authority, based on best engineering judgement. 2.4.4.8.3. The duration of each lubricant consumption sequence shall be determined as follows: 2.4.4.8.3.1. The engine shall be run for an appropriate period of time at the load and speed determined by the manufacturer in accordance with point 2.4.4.8.2 and the lubricant consumed, in g/h, shall be determined using any suitable method, as for example the drain and weigh procedure described in Appendix 6. Lubricant changes are to be completed at the recommended intervals. 2.4.4.8.3.2. The duration of each lubricant consumption sequence shall be calculated by applying the following equation: Equation 8: {{IMAGE:Image_32, Caption:Equation defining the variable t_LS using LCR and time parameters.}} Where:
+tLS
+= the duration, in hours, of a single lubricant consumption sequence
+LCRWHTC
+= lubricant consumption rate, in g/h determined as set out in point 2.2.15. tWHTC
+= equivalent number of hours corresponding to the vehicle category for which the replacement pollution control device is intended, obtained from Table 1. LCRTAS
+= lubricant consumption rate, in g/h, determined as set out in point 2.4.4.2. LCRLAS
+= lubricant consumption rate, in g/h, determined as set out in point 2.4.4.8.3.1. tTS
+= duration, in hours, of a single thermal sequence, as set out in Appendix 4, or modified thermal sequence, as set out in point 2.4.3.2. NTS
+= total number of thermal sequences or modified thermal sequences to be carried out during the service accumulation schedule. 2.4.4.8.4. The lubricant consumption rate shall always remain below 0,5 % of the engine fuel consumption rate in order to avoid excessive ash accumulation on the front face of the replacement pollution control device. 2.4.4.8.5. It is allowed to add the thermal ageing due to the conduction of the lubricant consumption sequence to the AE calculated in equation 4. 2.4.5. Development of the complete service accumulation schedule
+2.4.5.1. The service accumulation schedule shall be built up alternating a thermal or a modified thermal sequence, as appropriate, with a lubricant consumption sequence. The aforementioned pattern shall be repeated NTS
+ times, being the NTS
+ value the one calculated either in accordance with Section 2.4.2 or with Section 2.4.3, as appropriate. An example of a complete service accumulation schedule is given in Appendix 7. A flowchart describing the development of a complete service accumulation schedule is given in Appendix 8. 2.4.6. Operation of the service accumulation schedule
+2.4.6.1.
+An example of a complete service accumulation schedule is given in Appendix 7. A flowchart describing the development of a complete service accumulation schedule is given in Appendix 8. 2.4.6. Operation of the service accumulation schedule
+2.4.6.1. The engine, fitted with the exhaust after-treatment system incorporating the replacement pollution control device, shall run the service accumulation schedule set out in point 2.4.5.1. 2.4.6.2. The engine used for the performance of the service accumulation schedule may be different to the engine used in the data collection phase, being the latter always the one for which the replacement pollution control device to be type-approved has been designed, and the one to be tested for emissions under point 2.4.3.2. 2.4.6.3. If the engine used for the performance of the service accumulation schedule features a larger displacement by 20 % or more than the engine used in the data collection phase, the exhaust system of the former should be equipped with a by-pass in order to replicate as closely as possible the exhaust flow rate of the latter at the ageing conditions selected. 2.4.6.4. In the case referred to in point 2.4.6.2, the engine used for the performance of the service accumulation schedule shall be type-approved under Regulation (EC) No 595/2009. In addition, if the device or devices under test are intended for being fitted in an engine system with exhaust gas recirculation (EGR), the engine system used for the service accumulation schedule shall also be fitted with an EGR. If the device or devices under test are intended for not being fitted in an engine system with EGR, the engine system used for the service accumulation schedule shall also not be fitted with an EGR. 2.4.6.5. The lubricant and the fuel used in the service accumulation schedule shall be as similar as possible to those used during the data collection phase set out in point 2.2. The lubricant must be in line with the recommendation of the engine manufacturer for which the pollution control device is designed. The fuels used should be market fuels fulfilling the corresponding requirements of Directive 98/70/EC. On the request of the manufacturer also reference fuels in accordance with this Regulation can be used. 2.4.6.6. The lubricant shall be changed for maintenance, at the intervals scheduled by the manufacturer of the engine used in the data collection phase. 2.4.6.7. In the case of an SCR, the urea injection shall be performed in accordance with the strategy defined by the manufacturer of the replacement pollution control device.'; (5) the following Appendices 4 to 8 are added:
+
+| Mode | Speed (% of high idle) | Load (% for a given speed) | Time (s) |
+|---|---|---|---|
+| 1 | 292 | 058 | 626 |
+| 2 | 4572 | 158 | 418 |
+| 3 | 3887 | 337 | 300 |
+| 4 | 2023 | 1136 | 102 |
+| 5 | 1137 | 1490 | 62 |
+| 6 | 3278 | 1852 | 370 |
+| 7 | 5312 | 2019 | 410 |
+| 8 | 5953 | 3473 | 780 |
+| 9 | 7824 | 5438 | 132 |
+| 10 | 3907 | 6285 | 212 |
+| 11 | 4782 | 6294 | 188 |
+| Regeneration mode (if applicable) | To be defined (see point 2.4.3.4) | To be defined (see point 2.4.3.4) | To be defined (see point 2.4.3.4) |
+| Lubricant consumption mode (if applicable) | To be defined according to point 2.4.4.8.2 | To be defined according to point 2.4.4.8.2 | To be defined according to point 2.4.4.8.3 | Note: The sequence of the modes 1 to 11 has been arranged by ascending load in order to maximise the temperature of the exhaust gas in the high load modes. With the agreement of the type-approval authority, this order can be modified in order to optimise the temperature of the exhaust gas if this can help in reducing the actual aging time.
+
+| Time | Speed | Time | Speed | Time | Speed | Time | Speed | Time | Speed | Time | Speed | Time | Speed |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| s | km/h | s | km/h | s | km/h | s | km/h | s | km/h | s | km/h | s | km/h |
+| 1 | 0 | 261 | 2238 | 521 | 3546 | 781 | 1833 | 1 041 | 3988 | 1 301 | 6639 | 1 561 | 8688 |
+| 2 | 0 | 262 | 2475 | 522 | 3681 | 782 | 1831 | 1 042 | 4125 | 1 302 | 6674 | 1 562 | 867 |
+| 3 | 0 | 263 | 2555 | 523 | 3798 | 783 | 1805 | 1 043 | 4207 | 1 303 | 6743 | 1 563 | 8681 |
+| 4 | 0 | 264 | 2518 | 524 | 3884 | 784 | 1739 | 1 044 | 4303 | 1 304 | 6844 | 1 564 | 8681 |
+| 5 | 0 | 265 | 2394 | 525 | 3943 | 785 | 1635 | 1 045 | 444 | 1 305 | 6952 | 1 565 | 8681 |
+| 6 | 0 | 266 | 2235 | 526 | 3973 | 786 | 1471 | 1 046 | 4514 | 1 306 | 7053 | 1 566 | 8681 |
+| 7 | 235 | 267 | 2128 | 527 | 398 | 787 | 1171 | 1 047 | 4544 | 1 307 | 7147 | 1 567 | 8699 |
+| 8 | 557 | 268 | 2086 | 528 | 3969 | 788 | 781 | 1 048 | 4613 | 1 308 | 7232 | 1 568 | 8703 |
+| 9 | 818 | 269 | 2065 | 529 | 3929 | 789 | 525 | 1 049 | 4679 | 1 309 | 7289 | 1 569 | 8692 |
+| 10 | 937 | 270 | 2018 | 530 | 3859 | 790 | 462 | 1 050 | 4745 | 1 310 | 7307 | 1 570 | 871 |
+| 11 | 986 | 271 | 1933 | 531 | 3763 | 791 | 562 | 1 051 | 4868 | 1 311 | 7303 | 1 571 | 8685 |
+| 12 | 1018 | 272 | 1823 | 532 | 3622 | 792 | 824 | 1 052 | 5013 | 1 312 | 7294 | 1 572 | 8714 |
+| 13 | 1038 | 273 | 1699 | 533 | 3411 | 793 | 1098 | 1 053 | 5116 | 1 313 | 7301 | 1 573 | 8696 |
+| 14 | 1057 | 274 | 1556 | 534 | 3116 | 794 | 1315 | 1 054 | 5137 | 1 314 | 7344 | 1 574 | 8685 |
+| 15 | 1095 | 275 | 1376 | 535 | 2749 | 795 | 1547 | 1 055 | 513 | 1 315 | 7419 | 1 575 | 8677 |
+| 16 | 1156 | 276 | 115 | 536 | 2363 | 796 | 1819 | 1 056 | 5115 | 1 316 | 7481 | 1 576 | 8681 |
+| 17 | 1222 | 277 | 868 | 537 | 2016 | 797 | 2079 | 1 057 | 5088 | 1 317 | 7501 | 1 577 | 8685 |
+| 18 | 1297 | 278 | 52 | 538 | 1727 | 798 | 225 | 1 058 | 5063 | 1 318 | 7499 | 1 578 | 8674 |
+| 19 | 1433 | 279 | 199 | 539 | 1481 | 799 | 2319 | 1 059 | 502 | 1 319 | 7479 | 1 579 | 8681 |
+| 20 | 1638 | 280 | 0 | 540 | 1259 | 800 | 2354 | 1 060 | 4912 | 1 320 | 7441 | 1 580 | 867 |
+| 21 | 184 | 281 | 0 | 541 | 1047 | 801 | 242 | 1 061 | 4802 | 1 321 | 7407 | 1 581 | 8652 |
+| 22 | 1986 | 282 | 0 | 542 | 885 | 802 | 2517 | 1 062 | 477 | 1 322 | 7377 | 1 582 | 867 |
+| 23 | 2085 | 283 | 05 | 543 | 816 | 803 | 2628 | 1 063 | 4793 | 1 323 | 7338 | 1 583 | 8674 |
+| 24 | 2152 | 284 | 057 | 544 | 895 | 804 | 2769 | 1 064 | 4857 | 1 324 | 7279 | 1 584 | 8681 |
+| 25 | 2189 | 285 | 06 | 545 | 113 | 805 | 2972 | 1 065 | 4888 | 1 325 | 7195 | 1 585 | 8685 |
+| 26 | 2198 | 286 | 058 | 546 | 1411 | 806 | 3217 | 1 066 | 4903 | 1 326 | 7106 | 1 586 | 8692 |
+| 27 | 2191 | 287 | 0 | 547 | 1591 | 807 | 3422 | 1 067 | 4894 | 1 327 | 7045 | 1 587 | 8688 |
+| 28 | 2168 | 288 | 0 | 548 | 1657 | 808 | 3531 | 1 068 | 4832 | 1 328 | 7023 | 1 588 | 8685 |
+| 29 | 2121 | 289 | 0 | 549 | 1673 | 809 | 3574 | 1 069 | 4797 | 1 329 | 7024 | 1 589 | 871 |
+| 30 | 2044 | 290 | 0 | 550 | 1724 | 810 | 3623 | 1 070 | 4792 | 1 330 | 7032 | 1 590 | 8681 |
+| 31 | 1924 | 291 | 0 | 551 | 1845 | 811 | 3734 | 1 071 | 4754 | 1 331 | 703 | 1 591 | 8699 |
+| 32 | 1757 | 292 | 0 | 552 | 2009 | 812 | 3905 | 1 072 | 4679 | 1 332 | 7005 | 1 592 | 8681 |
+| 33 | 1553 | 293 | 0 | 553 | 2163 | 813 | 4076 | 1 073 | 4613 | 1 333 | 6966 | 1 593 | 8714 |
+| 34 | 1377 | 294 | 0 | 554 | 2278 | 814 | 4182 | 1 074 | 4573 | 1 334 | 6926 | 1 594 | 8681 |
+| 35 | 1295 | 295 | 0 | 555 | 2359 | 815 | 4212 | 1 075 | 4517 | 1 335 | 6873 | 1 595 | 8685 |
+| 36 | 1295 | 296 | 0 | 556 | 2423 | 816 | 4208 | 1 076 | 4443 | 1 336 | 6788 | 1 596 | 8703 |
+| 37 | 1335 | 297 | 0 | 557 | 249 | 817 | 4227 | 1 077 | 4359 | 1 337 | 6668 | 1 597 | 8692 |
+| 38 | 1375 | 298 | 0 | 558 | 2572 | 818 | 4303 | 1 078 | 4268 | 1 338 | 6529 | 1 598 | 8714 |
+| 39 | 1382 | 299 | 0 | 559 | 2677 | 819 | 4414 | 1 079 | 4189 | 1 339 | 6395 | 1 599 | 8692 |
+| 40 | 1341 | 300 | 0 | 560 | 2801 | 820 | 4513 | 1 080 | 4109 | 1 340 | 6284 | 1 600 | 8703 |
+| 41 | 1226 | 301 | 0 | 561 | 2923 | 821 | 4584 | 1 081 | 4038 | 1 341 | 6221 | 1 601 | 8699 |
+| 42 | 982 | 302 | 0 | 562 | 3006 | 822 | 464 | 1 082 | 3999 | 1 342 | 6204 | 1 602 | 8696 |
+| Time | Speed | Time | Speed | Time | Speed | Time | Speed | Time | Speed | Time | Speed | Time | Speed |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 42 | 982 | 302 | 0 | 562 | 3006 | 822 | 464 | 1 082 | 3999 | 1 342 | 6204 | 1 602 | 8696 |
+| 43 | 596 | 303 | 0 | 563 | 3031 | 823 | 4689 | 1 083 | 3984 | 1 343 | 6226 | 1 603 | 8703 |
+| 44 | 22 | 304 | 0 | 564 | 3029 | 824 | 4734 | 1 084 | 3946 | 1 344 | 6287 | 1 604 | 8685 |
+| 45 | 0 | 305 | 0 | 565 | 3005 | 825 | 4766 | 1 085 | 3915 | 1 345 | 6355 | 1 605 | 871 |
+| 46 | 0 | 306 | 0 | 566 | 2944 | 826 | 4777 | 1 086 | 389 | 1 346 | 6412 | 1 606 | 8681 |
+| 47 | 0 | 307 | 0 | 567 | 286 | 827 | 4778 | 1 087 | 3867 | 1 347 | 6473 | 1 607 | 8703 |
+| 48 | 0 | 308 | 0 | 568 | 2763 | 828 | 4764 | 1 088 | 3903 | 1 348 | 6545 | 1 608 | 8677 |
+| 49 | 0 | 309 | 0 | 569 | 2666 | 829 | 4723 | 1 089 | 4037 | 1 349 | 6618 | 1 609 | 8699 |
+| 50 | 187 | 310 | 0 | 570 | 2603 | 830 | 4666 | 1 090 | 4103 | 1 350 | 6697 | 1 610 | 8696 |
+| 51 | 497 | 311 | 0 | 571 | 2585 | 831 | 4608 | 1 091 | 4076 | 1 351 | 6785 | 1 611 | 8696 |
+| 52 | 84 | 312 | 0 | 572 | 2614 | 832 | 4545 | 1 092 | 4002 | 1 352 | 6874 | 1 612 | 8707 |
+| 53 | 99 | 313 | 0 | 573 | 2708 | 833 | 4469 | 1 093 | 396 | 1 353 | 6945 | 1 613 | 8696 |
+| 54 | 1142 | 314 | 0 | 574 | 2842 | 834 | 4373 | 1 094 | 3937 | 1 354 | 6992 | 1 614 | 8692 |
+| 55 | 1511 | 315 | 0 | 575 | 2961 | 835 | 4255 | 1 095 | 3884 | 1 355 | 7024 | 1 615 | 8707 |
+| 56 | 1846 | 316 | 0 | 576 | 3046 | 836 | 4114 | 1 096 | 3793 | 1 356 | 7049 | 1 616 | 8692 |
+| 57 | 2021 | 317 | 0 | 577 | 3099 | 837 | 3956 | 1 097 | 3719 | 1 357 | 7063 | 1 617 | 8714 |
+| 58 | 2213 | 318 | 0 | 578 | 3133 | 838 | 3793 | 1 098 | 3621 | 1 358 | 7068 | 1 618 | 8696 |
+| 59 | 2417 | 319 | 0 | 579 | 3165 | 839 | 3669 | 1 099 | 3532 | 1 359 | 7065 | 1 619 | 8703 |
+| 60 | 2556 | 320 | 0 | 580 | 3202 | 840 | 3627 | 1 100 | 3556 | 1 360 | 7049 | 1 620 | 8685 |
+| 61 | 2697 | 321 | 0 | 581 | 3239 | 841 | 3642 | 1 101 | 3696 | 1 361 | 7009 | 1 621 | 8677 |
+| 62 | 2883 | 322 | 0 | 582 | 3268 | 842 | 3714 | 1 102 | 3812 | 1 362 | 6935 | 1 622 | 871 |
+| 63 | 3105 | 323 | 0 | 583 | 3284 | 843 | 3813 | 1 103 | 3871 | 1 363 | 6827 | 1 623 | 8692 |
+| 64 | 3372 | 324 | 301 | 584 | 3293 | 844 | 3855 | 1 104 | 3926 | 1 364 | 6709 | 1 624 | 8707 |
+| 65 | 36 | 325 | 814 | 585 | 3322 | 845 | 3842 | 1 105 | 4064 | 1 365 | 6596 | 1 625 | 8685 |
+| 66 | 3791 | 326 | 1388 | 586 | 3389 | 846 | 3789 | 1 106 | 4309 | 1 366 | 6487 | 1 626 | 8681 |
+| 67 | 3965 | 327 | 1808 | 587 | 3496 | 847 | 3689 | 1 107 | 4483 | 1 367 | 6379 | 1 627 | 8714 |
+| 68 | 4123 | 328 | 2001 | 588 | 3628 | 848 | 3553 | 1 108 | 4533 | 1 368 | 6282 | 1 628 | 8677 |
+| 69 | 4285 | 329 | 203 | 589 | 3758 | 849 | 3401 | 1 109 | 4524 | 1 369 | 6303 | 1 629 | 8703 |
+| 70 | 441 | 330 | 1953 | 590 | 3858 | 850 | 3288 | 1 110 | 4514 | 1 370 | 6362 | 1 630 | 8696 |
+| 71 | 4437 | 331 | 1792 | 591 | 391 | 851 | 3252 | 1 111 | 4506 | 1 371 | 648 | 1 631 | 871 |
+| 72 | 443 | 332 | 1617 | 592 | 3922 | 852 | 327 | 1 112 | 4482 | 1 372 | 655 | 1 632 | 8699 |
+| 73 | 4417 | 333 | 1455 | 593 | 3911 | 853 | 3348 | 1 113 | 4453 | 1 373 | 6533 | 1 633 | 8692 |
+| 74 | 4413 | 334 | 1292 | 594 | 388 | 854 | 3497 | 1 114 | 4477 | 1 374 | 6383 | 1 634 | 871 |
+| 75 | 4417 | 335 | 1107 | 595 | 3831 | 855 | 3678 | 1 115 | 456 | 1 375 | 6244 | 1 635 | 8685 |
+| 76 | 4451 | 336 | 854 | 596 | 3773 | 856 | 3864 | 1 116 | 4628 | 1 376 | 612 | 1 636 | 8692 |
+| 77 | 4516 | 337 | 515 | 597 | 3724 | 857 | 4048 | 1 117 | 4718 | 1 377 | 5958 | 1 637 | 8677 |
+| 78 | 4564 | 338 | 196 | 598 | 3706 | 858 | 4234 | 1 118 | 4849 | 1 378 | 5768 | 1 638 | 8688 |
+| 79 | 4616 | 339 | 0 | 599 | 371 | 859 | 4416 | 1 119 | 4942 | 1 379 | 564 | 1 639 | 8663 |
+| 80 | 4699 | 340 | 0 | 600 | 3742 | 860 | 459 | 1 120 | 4956 | 1 380 | 5482 | 1 640 | 8685 |
+| 81 | 4819 | 341 | 0 | 601 | 3817 | 861 | 4755 | 1 121 | 4947 | 1 381 | 5277 | 1 641 | 8663 |
+| 82 | 4932 | 342 | 0 | 602 | 3919 | 862 | 4909 | 1 122 | 4928 | 1 382 | 5222 | 1 642 | 8677 |
+| 83 | 497 | 343 | 0 | 603 | 4031 | 863 | 5042 | 1 123 | 4858 | 1 383 | 5248 | 1 643 | 8677 |
+| 84 | 495 | 344 | 0 | 604 | 4146 | 864 | 5149 | 1 124 | 4803 | 1 384 | 5274 | 1 644 | 8655 |
+| 85 | 4898 | 345 | 0 | 605 | 4244 | 865 | 5223 | 1 125 | 482 | 1 385 | 5314 | 1 645 | 8659 |
+| 86 | 4865 | 346 | 0 | 606 | 4295 | 866 | 5258 | 1 126 | 4872 | 1 386 | 5303 | 1 646 | 8655 |
+| 87 | 4865 | 347 | 0 | 607 | 429 | 867 | 5263 | 1 127 | 4891 | 1 387 | 5255 | 1 647 | 867 |
+| 88 | 4887 | 348 | 0 | 608 | 4243 | 868 | 5249 | 1 128 | 4893 | 1 388 | 5219 | 1 648 | 8644 |
+| 89 | 4897 | 349 | 0 | 609 | 4174 | 869 | 5219 | 1 129 | 4905 | 1 389 | 5109 | 1 649 | 867 |
+| 90 | 4896 | 350 | 0 | 610 | 4104 | 870 | 5182 | 1 130 | 4923 | 1 390 | 4988 | 1 650 | 8655 |
+| 91 | 4915 | 351 | 0 | 611 | 4049 | 871 | 5143 | 1 131 | 4928 | 1 391 | 4937 | 1 651 | 8633 |
+| 92 | 4951 | 352 | 0 | 612 | 408 | 872 | 5102 | 1 132 | 4884 | 1 392 | 4926 | 1 652 | 8648 |
+| 93 | 4974 | 353 | 0 | 613 | 4166 | 873 | 5061 | 1 133 | 4812 | 1 393 | 4937 | 1 653 | 8619 |
+| 94 | 5031 | 354 | 09 | 614 | 4248 | 874 | 5026 | 1 134 | 478 | 1 394 | 4988 | 1 654 | 8637 |
+| 95 | 5078 | 355 | 2 | 615 | 4278 | 875 | 5006 | 1 135 | 4742 | 1 395 | 5025 | 1 655 | 8659 |
+| 96 | 5075 | 356 | 408 | 616 | 4239 | 876 | 4997 | 1 136 | 4598 | 1 396 | 5017 | 1 656 | 8655 |
+| 97 | 5078 | 357 | 707 | 617 | 4078 | 877 | 4967 | 1 137 | 4296 | 1 397 | 505 | 1 657 | 867 |
+| 98 | 5121 | 358 | 1025 | 618 | 3772 | 878 | 4886 | 1 138 | 3938 | 1 398 | 5083 | 1 658 | 8663 |
+| 99 | 516 | 359 | 1277 | 619 | 3329 | 879 | 4753 | 1 139 | 3582 | 1 399 | 5123 | 1 659 | 8655 |
+| 100 | 5189 | 360 | 1444 | 620 | 2766 | 880 | 4582 | 1 140 | 3185 | 1 400 | 5167 | 1 660 | 8659 |
+| 101 | 5204 | 361 | 1573 | 621 | 2143 | 881 | 4366 | 1 141 | 2687 | 1 401 | 5153 | 1 661 | 8655 |
+| 102 | 5199 | 362 | 1723 | 622 | 1562 | 882 | 4091 | 1 142 | 2141 | 1 402 | 5017 | 1 662 | 867 |
+| 103 | 5199 | 363 | 1904 | 623 | 1151 | 883 | 3778 | 1 143 | 1641 | 1 403 | 4999 | 1 663 | 8655 |
+| 104 | 5236 | 364 | 2096 | 624 | 969 | 884 | 3489 | 1 144 | 1256 | 1 404 | 5032 | 1 664 | 867 |
+| 105 | 5258 | 365 | 2294 | 625 | 946 | 885 | 3269 | 1 145 | 1041 | 1 405 | 5105 | 1 665 | 8652 |
+| 106 | 5247 | 366 | 2505 | 626 | 1021 | 886 | 3099 | 1 146 | 907 | 1 406 | 5145 | 1 666 | 8685 |
+| 107 | 5203 | 367 | 2731 | 627 | 1178 | 887 | 2931 | 1 147 | 769 | 1 407 | 52 | 1 667 | 8655 |
+| 108 | 5146 | 368 | 2954 | 628 | 136 | 888 | 2729 | 1 148 | 628 | 1 408 | 523 | 1 668 | 8681 |
+| 109 | 5131 | 369 | 3152 | 629 | 1533 | 889 | 2479 | 1 149 | 508 | 1 409 | 5222 | 1 669 | 8674 |
+| 110 | 5145 | 370 | 3319 | 630 | 1712 | 890 | 2178 | 1 150 | 432 | 1 410 | 5266 | 1 670 | 8663 |
+| 111 | 5148 | 371 | 3467 | 631 | 1898 | 891 | 1851 | 1 151 | 332 | 1 411 | 5318 | 1 671 | 8677 |
+| 112 | 5129 | 372 | 3613 | 632 | 2073 | 892 | 151 | 1 152 | 192 | 1 412 | 538 | 1 672 | 8703 |
+| 113 | 5112 | 373 | 3763 | 633 | 2217 | 893 | 1106 | 1 153 | 107 | 1 413 | 5453 | 1 673 | 8707 |
+| 114 | 5096 | 374 | 3907 | 634 | 2329 | 894 | 628 | 1 154 | 066 | 1 414 | 5537 | 1 674 | 8692 |
+| 115 | 5081 | 375 | 4008 | 635 | 2419 | 895 | 224 | 1 155 | 0 | 1 415 | 5629 | 1 675 | 8707 |
+| 116 | 5086 | 376 | 4044 | 636 | 2497 | 896 | 0 | 1 156 | 0 | 1 416 | 5731 | 1 676 | 8718 |
+| 117 | 5134 | 377 | 4026 | 637 | 256 | 897 | 0 | 1 157 | 0 | 1 417 | 5794 | 1 677 | 8732 |
+| 118 | 5168 | 378 | 3929 | 638 | 2596 | 898 | 0 | 1 158 | 0 | 1 418 | 5786 | 1 678 | 8736 |
+| 119 | 5158 | 379 | 3723 | 639 | 2586 | 899 | 0 | 1 159 | 0 | 1 419 | 5775 | 1 679 | 8729 |
+| 120 | 5136 | 380 | 3414 | 640 | 2469 | 900 | 0 | 1 160 | 0 | 1 420 | 5867 | 1 680 | 8758 |
+| 121 | 5139 | 381 | 3018 | 641 | 2185 | 901 | 0 | 1 161 | 0 | 1 421 | 594 | 1 681 | 8761 |
+| 122 | 5098 | 382 | 2571 | 642 | 1745 | 902 | 256 | 1 162 | 0 | 1 422 | 5969 | 1 682 | 8776 |
+| 123 | 4863 | 383 | 2158 | 643 | 1234 | 903 | 481 | 1 163 | 0 | 1 423 | 6002 | 1 683 | 8765 |
+| Time | Speed | Time | Speed | Time | Speed | Time | Speed | Time | Speed | Time | Speed | Time | Speed |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 123 | 4863 | 383 | 2158 | 643 | 1234 | 903 | 481 | 1 163 | 0 | 1 423 | 6002 | 1 683 | 8765 |
+| 124 | 4483 | 384 | 185 | 644 | 759 | 904 | 638 | 1 164 | 0 | 1 424 | 6021 | 1 684 | 8761 |
+| 125 | 403 | 385 | 1656 | 645 | 4 | 905 | 862 | 1 165 | 0 | 1 425 | 6083 | 1 685 | 8765 |
+| 126 | 3565 | 386 | 1539 | 646 | 176 | 906 | 1037 | 1 166 | 0 | 1 426 | 6116 | 1 686 | 8765 |
+| 127 | 3023 | 387 | 1477 | 647 | 0 | 907 | 1117 | 1 167 | 0 | 1 427 | 616 | 1 687 | 8776 |
+| 128 | 2408 | 388 | 1458 | 648 | 0 | 908 | 1332 | 1 168 | 0 | 1 428 | 6215 | 1 688 | 8776 |
+| 129 | 1896 | 389 | 1472 | 649 | 0 | 909 | 1594 | 1 169 | 0 | 1 429 | 627 | 1 689 | 878 |
+| 130 | 1419 | 390 | 1544 | 650 | 0 | 910 | 1689 | 1 170 | 0 | 1 430 | 6365 | 1 690 | 8772 |
+| 131 | 872 | 391 | 1692 | 651 | 0 | 911 | 1713 | 1 171 | 0 | 1 431 | 6427 | 1 691 | 8769 |
+| 132 | 341 | 392 | 1869 | 652 | 0 | 912 | 1804 | 1 172 | 0 | 1 432 | 6431 | 1 692 | 8754 |
+| 133 | 064 | 393 | 2026 | 653 | 0 | 913 | 1996 | 1 173 | 0 | 1 433 | 6413 | 1 693 | 8776 |
+| 134 | 0 | 394 | 2163 | 654 | 0 | 914 | 2205 | 1 174 | 0 | 1 434 | 6427 | 1 694 | 875 |
+| 135 | 0 | 395 | 2291 | 655 | 0 | 915 | 2365 | 1 175 | 0 | 1 435 | 6522 | 1 695 | 8743 |
+| 136 | 0 | 396 | 2413 | 656 | 0 | 916 | 2572 | 1 176 | 0 | 1 436 | 6625 | 1 696 | 8747 |
+| 137 | 0 | 397 | 2518 | 657 | 0 | 917 | 2862 | 1 177 | 0 | 1 437 | 6709 | 1 697 | 875 |
+| 138 | 0 | 398 | 2616 | 658 | 296 | 918 | 3199 | 1 178 | 0 | 1 438 | 6837 | 1 698 | 875 |
+| 139 | 0 | 399 | 2741 | 659 | 79 | 919 | 3507 | 1 179 | 0 | 1 439 | 6936 | 1 699 | 8718 |
+| 140 | 0 | 400 | 2918 | 660 | 1349 | 920 | 3742 | 1 180 | 0 | 1 440 | 7057 | 1 700 | 8736 |
+| 141 | 0 | 401 | 3136 | 661 | 1836 | 921 | 3965 | 1 181 | 0 | 1 441 | 7189 | 1 701 | 8729 |
+| 142 | 063 | 402 | 3351 | 662 | 2259 | 922 | 4178 | 1 182 | 0 | 1 442 | 7335 | 1 702 | 8718 |
+| 143 | 156 | 403 | 3533 | 663 | 2626 | 923 | 4304 | 1 183 | 0 | 1 443 | 7464 | 1 703 | 8692 |
+| 144 | 299 | 404 | 3694 | 664 | 294 | 924 | 4355 | 1 184 | 0 | 1 444 | 7581 | 1 704 | 8736 |
+| 145 | 45 | 405 | 386 | 665 | 3223 | 925 | 4297 | 1 185 | 0 | 1 445 | 7724 | 1 705 | 8703 |
+| 146 | 539 | 406 | 4044 | 666 | 3491 | 926 | 4108 | 1 186 | 0 | 1 446 | 7863 | 1 706 | 8707 |
+| 147 | 559 | 407 | 4229 | 667 | 3739 | 927 | 4038 | 1 187 | 0 | 1 447 | 7932 | 1 707 | 8729 |
+| 148 | 545 | 408 | 4373 | 668 | 3961 | 928 | 4043 | 1 188 | 0 | 1 448 | 802 | 1 708 | 8699 |
+| 149 | 52 | 409 | 4447 | 669 | 4161 | 929 | 404 | 1 189 | 0 | 1 449 | 8167 | 1 709 | 8725 |
+| 150 | 498 | 410 | 4462 | 670 | 4351 | 930 | 4025 | 1 190 | 0 | 1 450 | 8211 | 1 710 | 8714 |
+| 151 | 461 | 411 | 4441 | 671 | 4536 | 931 | 4032 | 1 191 | 0 | 1 451 | 8291 | 1 711 | 8696 |
+| 152 | 389 | 412 | 4396 | 672 | 4717 | 932 | 408 | 1 192 | 0 | 1 452 | 8343 | 1 712 | 8714 |
+| 153 | 321 | 413 | 4341 | 673 | 4895 | 933 | 4171 | 1 193 | 0 | 1 453 | 8379 | 1 713 | 8707 |
+| 154 | 298 | 414 | 4283 | 674 | 5073 | 934 | 4316 | 1 194 | 0 | 1 454 | 835 | 1 714 | 8692 |
+| 155 | 331 | 415 | 4215 | 675 | 5236 | 935 | 4484 | 1 195 | 0 | 1 455 | 8401 | 1 715 | 8688 |
+| 156 | 418 | 416 | 4128 | 676 | 5374 | 936 | 4642 | 1 196 | 154 | 1 456 | 8343 | 1 716 | 8685 |
+| 157 | 507 | 417 | 4017 | 677 | 5502 | 937 | 4791 | 1 197 | 485 | 1 457 | 8299 | 1 717 | 8692 |
+| 158 | 552 | 418 | 389 | 678 | 5624 | 938 | 4908 | 1 198 | 906 | 1 458 | 8277 | 1 718 | 8681 |
+| 159 | 573 | 419 | 3759 | 679 | 5729 | 939 | 4966 | 1 199 | 118 | 1 459 | 8233 | 1 719 | 8688 |
+| 160 | 606 | 420 | 3639 | 680 | 5818 | 940 | 5015 | 1 200 | 1242 | 1 460 | 8178 | 1 720 | 8666 |
+| 161 | 676 | 421 | 3533 | 681 | 5895 | 941 | 5094 | 1 201 | 1207 | 1 461 | 8181 | 1 721 | 8692 |
+| 162 | 77 | 422 | 343 | 682 | 5949 | 942 | 5169 | 1 202 | 1164 | 1 462 | 8105 | 1 722 | 8648 |
+| 163 | 834 | 423 | 3307 | 683 | 5986 | 943 | 535 | 1 203 | 1169 | 1 463 | 8072 | 1 723 | 8666 |
+| 164 | 851 | 424 | 3141 | 684 | 603 | 944 | 559 | 1 204 | 1291 | 1 464 | 8061 | 1 724 | 8674 |
+| 165 | 822 | 425 | 2918 | 685 | 6101 | 945 | 5711 | 1 205 | 1558 | 1 465 | 8046 | 1 725 | 8637 |
+| 166 | 722 | 426 | 2641 | 686 | 6196 | 946 | 5788 | 1 206 | 1869 | 1 466 | 8042 | 1 726 | 8648 |
+| 167 | 582 | 427 | 234 | 687 | 6305 | 947 | 5863 | 1 207 | 2104 | 1 467 | 8042 | 1 727 | 8633 |
+| 168 | 475 | 428 | 209 | 688 | 6416 | 948 | 5875 | 1 208 | 2262 | 1 468 | 8024 | 1 728 | 863 |
+| 169 | 424 | 429 | 1959 | 689 | 6514 | 949 | 5826 | 1 209 | 2434 | 1 469 | 8013 | 1 729 | 8644 |
+| 170 | 405 | 430 | 1936 | 690 | 6585 | 950 | 5803 | 1 210 | 2674 | 1 470 | 8039 | 1 730 | 8633 |
+| 171 | 398 | 431 | 1979 | 691 | 6622 | 951 | 5828 | 1 211 | 2962 | 1 471 | 8072 | 1 731 | 86 |
+| 172 | 391 | 432 | 2043 | 692 | 6612 | 952 | 5867 | 1 212 | 3265 | 1 472 | 8101 | 1 732 | 8633 |
+| 173 | 386 | 433 | 2071 | 693 | 6501 | 953 | 5876 | 1 213 | 3557 | 1 473 | 8152 | 1 733 | 8622 |
+| 174 | 417 | 434 | 2056 | 694 | 6222 | 954 | 5882 | 1 214 | 3807 | 1 474 | 824 | 1 734 | 8608 |
+| 175 | 532 | 435 | 1996 | 695 | 5744 | 955 | 5909 | 1 215 | 3971 | 1 475 | 8321 | 1 735 | 8622 |
+| 176 | 753 | 436 | 2022 | 696 | 5147 | 956 | 5938 | 1 216 | 4036 | 1 476 | 8405 | 1 736 | 8633 |
+| 177 | 1089 | 437 | 2148 | 697 | 4598 | 957 | 5972 | 1 217 | 406 | 1 477 | 8485 | 1 737 | 8633 |
+| 178 | 1481 | 438 | 2367 | 698 | 4172 | 958 | 6004 | 1 218 | 4115 | 1 478 | 8542 | 1 738 | 8626 |
+| 179 | 1756 | 439 | 2609 | 699 | 3822 | 959 | 6013 | 1 219 | 4223 | 1 479 | 8618 | 1 739 | 8648 |
+| 180 | 1838 | 440 | 2816 | 700 | 3465 | 960 | 5933 | 1 220 | 4361 | 1 480 | 8645 | 1 740 | 8648 |
+| 181 | 1749 | 441 | 2975 | 701 | 3065 | 961 | 5852 | 1 221 | 4508 | 1 481 | 8664 | 1 741 | 8655 |
+| 182 | 1518 | 442 | 3097 | 702 | 2646 | 962 | 5782 | 1 222 | 4658 | 1 482 | 8657 | 1 742 | 8666 |
+| 183 | 1308 | 443 | 3199 | 703 | 2232 | 963 | 5668 | 1 223 | 4813 | 1 483 | 8643 | 1 743 | 8666 |
+| 184 | 1223 | 444 | 3284 | 704 | 1815 | 964 | 5536 | 1 224 | 497 | 1 484 | 8658 | 1 744 | 8659 |
+| 185 | 1203 | 445 | 3333 | 705 | 1379 | 965 | 5463 | 1 225 | 5127 | 1 485 | 868 | 1 745 | 8655 |
+| 186 | 1172 | 446 | 3345 | 706 | 929 | 966 | 5404 | 1 226 | 528 | 1 486 | 8665 | 1 746 | 8674 |
+| 187 | 1069 | 447 | 3327 | 707 | 498 | 967 | 5315 | 1 227 | 543 | 1 487 | 8614 | 1 747 | 8621 |
+| 188 | 868 | 448 | 3266 | 708 | 171 | 968 | 5202 | 1 228 | 558 | 1 488 | 8636 | 1 748 | 8596 |
+| 189 | 62 | 449 | 3173 | 709 | 0 | 969 | 5137 | 1 229 | 5729 | 1 489 | 8632 | 1 749 | 855 |
+| 190 | 407 | 450 | 3058 | 710 | 0 | 970 | 5141 | 1 230 | 5873 | 1 490 | 8625 | 1 750 | 8477 |
+| 191 | 265 | 451 | 292 | 711 | 0 | 971 | 522 | 1 231 | 6012 | 1 491 | 8592 | 1 751 | 8465 |
+| 192 | 192 | 452 | 2756 | 712 | 0 | 972 | 5352 | 1 232 | 615 | 1 492 | 8614 | 1 752 | 841 |
+| 193 | 169 | 453 | 2571 | 713 | 0 | 973 | 5434 | 1 233 | 6294 | 1 493 | 8636 | 1 753 | 8346 |
+| 194 | 168 | 454 | 2376 | 714 | 0 | 974 | 5459 | 1 234 | 6439 | 1 494 | 8625 | 1 754 | 8277 |
+| 195 | 166 | 455 | 2187 | 715 | 0 | 975 | 5492 | 1 235 | 6552 | 1 495 | 865 | 1 755 | 8178 |
+| 196 | 153 | 456 | 2015 | 716 | 0 | 976 | 5569 | 1 236 | 6607 | 1 496 | 8614 | 1 756 | 8116 |
+| 197 | 13 | 457 | 1838 | 717 | 0 | 977 | 5651 | 1 237 | 6619 | 1 497 | 8629 | 1 757 | 8042 |
+| 198 | 1 | 458 | 1593 | 718 | 0 | 978 | 5673 | 1 238 | 6619 | 1 498 | 864 | 1 758 | 7921 |
+| 199 | 077 | 459 | 1233 | 719 | 0 | 979 | 5633 | 1 239 | 6643 | 1 499 | 8636 | 1 759 | 7848 |
+| 200 | 063 | 460 | 799 | 720 | 0 | 980 | 5538 | 1 240 | 6707 | 1 500 | 8563 | 1 760 | 7749 |
+| 201 | 059 | 461 | 419 | 721 | 0 | 981 | 5499 | 1 241 | 6804 | 1 501 | 8603 | 1 761 | 7669 |
+| 202 | 059 | 462 | 177 | 722 | 0 | 982 | 5475 | 1 242 | 6912 | 1 502 | 8592 | 1 762 | 7592 |
+| 203 | 057 | 463 | 069 | 723 | 0 | 983 | 5411 | 1 243 | 7008 | 1 503 | 8614 | 1 763 | 7508 |
+| 204 | 053 | 464 | 113 | 724 | 0 | 984 | 5332 | 1 244 | 7091 | 1 504 | 8632 | 1 764 | 7387 |
+| Time | Speed | Time | Speed | Time | Speed | Time | Speed | Time | Speed | Time | Speed | Time | Speed |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 204 | 053 | 464 | 113 | 724 | 0 | 984 | 5332 | 1 244 | 7091 | 1 504 | 8632 | 1 764 | 7387 |
+| 205 | 05 | 465 | 22 | 725 | 0 | 985 | 5241 | 1 245 | 7173 | 1 505 | 8592 | 1 765 | 7215 |
+| 206 | 0 | 466 | 359 | 726 | 0 | 986 | 5145 | 1 246 | 7266 | 1 506 | 8611 | 1 766 | 6969 |
+| 207 | 0 | 467 | 488 | 727 | 0 | 987 | 5086 | 1 247 | 7367 | 1 507 | 8591 | 1 767 | 6717 |
+| 208 | 0 | 468 | 585 | 728 | 0 | 988 | 5048 | 1 248 | 7455 | 1 508 | 8583 | 1 768 | 6475 |
+| 209 | 0 | 469 | 672 | 729 | 0 | 989 | 496 | 1 249 | 7518 | 1 509 | 8586 | 1 769 | 6255 |
+| 210 | 0 | 470 | 802 | 730 | 0 | 990 | 4855 | 1 250 | 7559 | 1 510 | 855 | 1 770 | 6032 |
+| 211 | 0 | 471 | 1002 | 731 | 0 | 991 | 4787 | 1 251 | 7582 | 1 511 | 8497 | 1 771 | 5845 |
+| 212 | 0 | 472 | 1259 | 732 | 0 | 992 | 4742 | 1 252 | 759 | 1 512 | 848 | 1 772 | 5643 |
+| 213 | 0 | 473 | 1543 | 733 | 0 | 993 | 4686 | 1 253 | 7592 | 1 513 | 842 | 1 773 | 5435 |
+| 214 | 0 | 474 | 1832 | 734 | 0 | 994 | 4608 | 1 254 | 7587 | 1 514 | 8326 | 1 774 | 5222 |
+| 215 | 0 | 475 | 2119 | 735 | 0 | 995 | 4507 | 1 255 | 7568 | 1 515 | 8277 | 1 775 | 5025 |
+| 216 | 0 | 476 | 24 | 736 | 0 | 996 | 4358 | 1 256 | 7537 | 1 516 | 8178 | 1 776 | 4823 |
+| 217 | 0 | 477 | 2675 | 737 | 0 | 997 | 4104 | 1 257 | 7501 | 1 517 | 8116 | 1 777 | 4651 |
+| 218 | 0 | 478 | 2953 | 738 | 0 | 998 | 3839 | 1 258 | 7455 | 1 518 | 8042 | 1 778 | 4435 |
+| 219 | 0 | 479 | 3231 | 739 | 0 | 999 | 3569 | 1 259 | 738 | 1 519 | 7921 | 1 779 | 4197 |
+| 220 | 0 | 480 | 348 | 740 | 0 | 1 000 | 3268 | 1 260 | 7271 | 1 520 | 7883 | 1 780 | 3933 |
+| 221 | 0 | 481 | 3673 | 741 | 0 | 1 001 | 2982 | 1 261 | 7139 | 1 521 | 7852 | 1 781 | 3648 |
+| 222 | 0 | 482 | 3808 | 742 | 0 | 1 002 | 2697 | 1 262 | 7002 | 1 522 | 7852 | 1 782 | 338 |
+| 223 | 0 | 483 | 3911 | 743 | 0 | 1 003 | 2403 | 1 263 | 6871 | 1 523 | 7881 | 1 783 | 3109 |
+| 224 | 0 | 484 | 4016 | 744 | 0 | 1 004 | 2167 | 1 264 | 6752 | 1 524 | 7926 | 1 784 | 2824 |
+| 225 | 0 | 485 | 4118 | 745 | 0 | 1 005 | 2034 | 1 265 | 6644 | 1 525 | 7961 | 1 785 | 2681 |
+| 226 | 073 | 486 | 4175 | 746 | 0 | 1 006 | 189 | 1 266 | 6545 | 1 526 | 8015 | 1 786 | 2333 |
+| 227 | 073 | 487 | 4187 | 747 | 0 | 1 007 | 1621 | 1 267 | 6449 | 1 527 | 8039 | 1 787 | 1901 |
+| 228 | 0 | 488 | 4143 | 748 | 0 | 1 008 | 1384 | 1 268 | 6354 | 1 528 | 8072 | 1 788 | 1505 |
+| 229 | 0 | 489 | 3999 | 749 | 0 | 1 009 | 1225 | 1 269 | 626 | 1 529 | 8101 | 1 789 | 1209 |
+| 230 | 0 | 490 | 3771 | 750 | 0 | 1 010 | 104 | 1 270 | 6167 | 1 530 | 8152 | 1 790 | 949 |
+| 231 | 0 | 491 | 3493 | 751 | 0 | 1 011 | 794 | 1 271 | 6069 | 1 531 | 824 | 1 791 | 681 |
+| 232 | 0 | 492 | 3179 | 752 | 0 | 1 012 | 605 | 1 272 | 5964 | 1 532 | 8321 | 1 792 | 428 |
+| 233 | 0 | 493 | 2865 | 753 | 0 | 1 013 | 567 | 1 273 | 586 | 1 533 | 8405 | 1 793 | 209 |
+| 234 | 0 | 494 | 2592 | 754 | 0 | 1 014 | 603 | 1 274 | 5764 | 1 534 | 8515 | 1 794 | 088 |
+| 235 | 0 | 495 | 2391 | 755 | 0 | 1 015 | 768 | 1 275 | 5679 | 1 535 | 8592 | 1 795 | 088 |
+| 236 | 0 | 496 | 2281 | 756 | 0 | 1 016 | 1097 | 1 276 | 5595 | 1 536 | 8698 | 1 796 | 0 |
+| 237 | 0 | 497 | 2253 | 757 | 0 | 1 017 | 1472 | 1 277 | 5509 | 1 537 | 8745 | 1 797 | 0 |
+| 238 | 0 | 498 | 2262 | 758 | 0 | 1 018 | 1732 | 1 278 | 542 | 1 538 | 8754 | 1 798 | 0 |
+| 239 | 0 | 499 | 2295 | 759 | 0 | 1 019 | 1859 | 1 279 | 5333 | 1 539 | 8725 | 1 799 | 0 |
+| 240 | 0 | 500 | 2351 | 760 | 0 | 1 020 | 1935 | 1 280 | 5252 | 1 540 | 8704 | 1 800 | 0 |
+| 241 | 0 | 501 | 2404 | 761 | 0 | 1 021 | 2054 | 1 281 | 5175 | 1 541 | 8698 |  |  |
+| 242 | 0 | 502 | 2445 | 762 | 0 | 1 022 | 2133 | 1 282 | 5092 | 1 542 | 8705 |  |  |
+| 243 | 0 | 503 | 2481 | 763 | 0 | 1 023 | 2206 | 1 283 | 499 | 1 543 | 871 |  |  |
+| 244 | 0 | 504 | 2529 | 764 | 0 | 1 024 | 2339 | 1 284 | 4868 | 1 544 | 8725 |  |  |
+| 245 | 0 | 505 | 2599 | 765 | 0 | 1 025 | 2552 | 1 285 | 4741 | 1 545 | 8725 |  |  |
+| 246 | 0 | 506 | 2683 | 766 | 0 | 1 026 | 2828 | 1 286 | 465 | 1 546 | 8707 |  |  |
+| 247 | 0 | 507 | 276 | 767 | 0 | 1 027 | 3038 | 1 287 | 4622 | 1 547 | 8729 |  |  |
+| 248 | 0 | 508 | 2817 | 768 | 0 | 1 028 | 3122 | 1 288 | 4644 | 1 548 | 8714 |  |  |
+| 249 | 0 | 509 | 2863 | 769 | 0 | 1 029 | 3222 | 1 289 | 4735 | 1 549 | 8703 |  |  |
+| 250 | 0 | 510 | 2904 | 770 | 0 | 1 030 | 3378 | 1 290 | 4901 | 1 550 | 8725 |  |  |
+| 251 | 0 | 511 | 2943 | 771 | 0 | 1 031 | 3508 | 1 291 | 5093 | 1 551 | 8703 |  |  |
+| 252 | 0 | 512 | 2978 | 772 | 16 | 1 032 | 3591 | 1 292 | 5279 | 1 552 | 8703 |  |  |
+| 253 | 151 | 513 | 3013 | 773 | 503 | 1 033 | 3606 | 1 293 | 5466 | 1 553 | 8707 |  |  |
+| 254 | 412 | 514 | 3057 | 774 | 949 | 1 034 | 355 | 1 294 | 566 | 1 554 | 8681 |  |  |
+| 255 | 702 | 515 | 311 | 775 | 13 | 1 035 | 3476 | 1 295 | 5855 | 1 555 | 8692 |  |  |
+| 256 | 945 | 516 | 3165 | 776 | 1465 | 1 036 | 347 | 1 296 | 6047 | 1 556 | 8666 |  |  |
+| 257 | 1186 | 517 | 3214 | 777 | 1515 | 1 037 | 3541 | 1 297 | 6228 | 1 557 | 8692 |  |  |
+| 258 | 1452 | 518 | 3262 | 778 | 1567 | 1 038 | 3665 | 1 298 | 639 | 1 558 | 8659 |  |  |
+| 259 | 1701 | 519 | 3325 | 779 | 1676 | 1 039 | 3757 | 1 299 | 652 | 1 559 | 8692 |  |  |
+| 260 | 1948 | 520 | 342 | 780 | 1788 | 1 040 | 3851 | 1 300 | 6602 | 1 560 | 8659 |  |  |
+
+'Appendix 6
+Drain and weigh procedure 1. The engine shall be filled with new oil. If a constant volume oil sump system (as described in ASTM standard D7156-09) is used, the oil pump shall be turned on while filling the engine. Enough oil charge shall be added to fill up both the engine and external sump. 2. The engine shall be started and operated over the desired test cycle (see points 2.2.15 and 2.4.4.8.3.1) for a minimum of 1 hour. 3. Once the cycle is complete, oil temperature shall be allowed to stabilise at a steady-state engine condition before shutting the engine down. 4. A clean, empty oil drain pan shall be weighed. 5. Any clean supplies that are to be used during the oil drain (e.g. rags) shall be weighed. 6. The oil shall be drained for 10 minutes with the external oil pump (if equipped) powered on followed by an additional ten minutes with the pump powered off. If a constant volume sump system is not used, the oil shall be drained from the engine for a total of 20 minutes. 7. The drained oil shall be weighed. 8. The weight determined in accordance with step 7 shall be subtracted from the weight determined in accordance with step 4. The difference corresponds to the total weight of the oil removed from the engine and collected in the drain pan. 9. The oil shall be carefully returned to the engine. 10. The empty drain pan shall be weighted. 11. The weight determined in accordance with step 10 shall be subtracted from the weight determined in accordance with step 4. The result corresponds to the weight of the residual oil in the drain pan that was not returned to the engine. 12. Any dirty supplies which have previously been weighed pursuant to step 5 shall be weighed. 13. The weight determined in accordance with step 12 shall be subtracted from the weight determined in accordance with step 5. The result corresponds to the weight of the residual oil which remained on the dirty supplies that was not returned to the engine. 14. The residual oil weights calculated in accordance with steps 11 and 13 shall be subtracted from the total weight of the oil removed, calculated in accordance with step 8. The difference between those weights corresponds to the total weight of the oil returned to the engine. 15. The engine shall be operated under the desired test cycle(s) (see points 2.2.15 and 2.4.4.8.3.1). 16. Steps 3-8 shall be repeated. 17. The weight of the oil drained pursuant to step 16 shall be subtracted from the weight obtained in accordance with step 14. The difference between those weights corresponds to the total weight of the oil consumed. 18.
+18. The total weight of the oil consumed calculated pursuant to step 14 shall be divided by the duration, in hours, of the test cycles carried out in accordance with step 15. The result is the lubricant consumption rate. {{IMAGE:Image_33, Caption:Graph depicting an example service accumulation cycle, plotting engine speed, load, and DPF inlet temperature over time across four distinct operational modes: Thermal Sequence, Soot Accumulation, Active Regeneration, and Lubricant Consumption.}} {{IMAGE:Image_34, Caption:Flowchart detailing the methodology for constructing a service accumulation schedule, including decision points for active regeneration and lubricant consumption requirements.}} Construction of the service accumulation schedule with NTS thermal or modified thermal sequences + NTS lubricant consumption sequences
+Construction of the service accumulation schedule with NTS thermal or modified thermal sequences
+Calculation of the duration of each lubricant consumption sequence
+Lubricant consumption during useful life achieved with NTS sequences
+Lubricant consumption sequence needed
+Lubricant consumption sequence not needed
+no
+yes
+Calculation NTS
+Calculation NTS
+Thermal sequence (Appendix 4)
+Presence of active regeneration
+no
+yes
+Modified thermal sequence (Appendix 4 + active regeneration)
+Construction of one ageing sequence (thermal ageing + lubricant consumption ageing)
+Start
+'.

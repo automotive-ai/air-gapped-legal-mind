@@ -1,0 +1,80 @@
+Article 1
+For the purposes of this Directive, 'vehicle' means any motor vehicle in categories N2 and N3 and trailer in categories 03 and 04, as defined in Annex 1 to Directive 70/156/EEC, designed for use on the road, with or without bodywork and with a maximum design speed exceeding 25 km/h.
+Article 2
+1. No Member State may, on grounds relating to lateral protection, refuse to grant EEC type-approval or national type-approval in respect of a vehicle if such vehicle meets the requirements set out in the Annex.
+
+2. No Member State may, on grounds relating to lateral protection, refuse or prohibit the sale, registration, entry into service or use of a vehicle if such a vehicle meets the requirements set out in the Annex.
+Article 3
+A Member State which has granted EEC type-approval shall take the measures necessary to ensure that it is informed of any modification to a part or characteristic referred to in the Annex.
+
+The competent authorities of that Member State shall determine whether fresh tests should be carried out on the modified type and a fresh report drawn up. Where such tests reveal that the requirements of this Directive have not been complied with, the modification shall not be authorized.
+Article 5
+The amendments necessary in order to adapt the requirements of the Annex so as to take account of technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 70/156/EEC.
+Article 7
+This Directive is addressed to the Member States.
+
+Done at Luxembourg, 13 April 1989. For the Council
+The President
+P. SOLBES
+(1) OJ No C 265, 5. 10. 1987, p. 21. (2) OJ No C 94, 11. 4. 1988, p. 23. (3) OJ No C 80, 28. 3. 1988, p. 17. (4) OJ No L 42, 23. 2. 1970, p. 1. (5) OJ No L 220, 8. 8. 1987, p. 44.
+TECHNICAL REQUIREMENTS FOR LATERAL PROTECTION
+ANNEX
+TECHNICAL REQUIREMENTS FOR LATERAL PROTECTION
+1. General prescriptions and definitions
+1.1. Every vehicle of categories N2, N3, O3 and O4 shall be so constructed and /or equipped as to offer, when a complete entity, effective protection to unprotected road users (pedestrians, cyclists, motorcyclists) against the risk of falling under the sides of the vehicle and being caught under the wheels (1).
+
+The Directive does not apply to: —
+tractors for semi-trailers,
+—
+trailers specially designed and constructed for the carriage of very long loads of indivisible length, such as timber, steel bars, etc.,
+—
+vehicles designed and constructed for special purposes where it is not possible, for practical reasons, to fit such lateral protection. 1.2. A vehicle shall be deemed to satisfy the requirement set out in point 1.1 if its side parts provide protection conforming to the provisions of the paragraphs below. 1.3. Definitions
+1.3.1. Vehicle type for the purposes of lateral protection
+The term 'vehicle type for the purposes of lateral protection' means vehicles which do not differ with respect to the following main characteristics: width of the rear axle, structure, dimensions, shape and materials of the bodywork and chassis, characteristics of the suspension of the vehicle in so far as they have a bearing on the requirements of point 2. 
+1.3.2. 'Unladen mass' means the weight of the vehicle in running order, unoccupied and unladen but complete with fuel coolant, lubricant tools and spare wheel, if supplied by the vehicle manufacturer as standard equipment. 1.4. Positioning of the vehicle
+When tested for compliance with the technical specifications set out in point 2, the position of the vehicle shall be as fallows: —
+on a horizontal and flat surface,
+—
+the steered wheels shall be in a straight-ahead position,
+—
+the vehicle shall be unladen,
+—
+semi-trailers shall be positioned on their supports with the loading survace horizontal. 2. Lateral protection provided by a specific device (side guard)
+2.1. The device shall not increase the overall width of the vehicle and the main part of its outer surface shall not be more than 120 mm inboard from the outermost plane (maximum width) of the vehicle. Its forward end may be turned inwards on some vehicles in accordance with points 2.4.2 and 2.4.3. Its rearward end shall not be more than 30 mm inboard from the outermost edge of the rear tyres (excluding any bulging of the tyres close to the ground) over at least the rearmost 250 mm. 2.2. The outer surface of the device shall be smooth, substantially flat or horizontally corrugated and so far as possible continuous from front to rear; adjacent parts may however overlap, provided that the overlapping edge faces rearwards or downwards, or a gap of not more than 25 mm measured longitudinally may be left, provided that the rearward part does not protrude outboard of the forward part; domed heads of bolts or rivets may protrude beyond the surface to a distance not exceeding 10 mm and other parts may protrude to the same extent provided that they are smooth and similarly rounded; all external edges and corners shall be rounded with a radius not less than 2,5 mm (tested as prescribed in Directive 74/483/EEC (2)). 2.3. The device may consist of a continuous flat surface, or of one or more horizontal rails, or a combination of surface and rails; when rails are used, they shall be not more than 300 mm apart and not less than: —
+50 mm high in the case of category N2 and O3 vehicles,
+—
+100 mm high and essentially flat in the case of N3 and O4 vehicles. Combinations of surfaces and rails shall form a continuous side guard subject, however, to the provisions of point 2.2. 
+2.4. The forward edge of the side guard shall be constructed as follows: 2.4.1. Its position shall be: 2.4.1.1. on a motor vehicle: not more than 300 mm to the rear of the transverse vertical plane tangential to the rearmost part of the tyre on the wheel immediately forward of the guard; 2.4.1.2. on a drawbar trailer: not more than 500 mm to the rear of the plane defined in point 2.4.1.1;
+2.4.1.3. on a semi-trailer: not more than 250 mm to the rear of the transverse median plane of the support legs, if support legs are fitted, but in any case the distance of the front edge to the transverse plane passing through the centre of the kingpin in its rearmost position may not exceed 2,7 m.
+2.4.2. Where the forward edge lies in otherwise open space, the edge shall consist of a continuous vertical member extending over the whole height of the guard; the outer and forward faces of this member shall measure at least 50 mm rearward and be turned 100 mm inwards in the case of N2 and O3 and at least 100 mm rearwards and be turned 100 mm inwards in the case of N3 and O4. 2.4.3. On a motor vehicle where the 300 mm-dimension referred to in point 2.4.1.1 falls within the cab, the guard shall be so constructed as to meet the cab panels and if necessary be turned in through an angle not exceeding 45o. A longitudinal gap of 100 mm shall be permitted between the forward edge and the cab panels in the case of suspended or tilt cabs. In this case, the provisions of point 2.4.2 are not applicable. 2.4.4. On a motor vehicle where the 300 mm dimension referred to in point 2.4.1.1 falls behind the cab and the side guard is extended forward as indicated in point 2.4.3. as an option to the manufacturer, the provisions of point 2.4.3 must be met. 2.5. The rearward edge of the side guard shall not be more than 300 mm forward of the transverse vertical plane tangential to the foremost part of the tyre on the wheel immediately to the rear; a continuous vertical member is not required on the rear edge. 2.6. The lower edge of the side guard shall at no point be more than 550 mm above the ground. 2.7. The upper edge of the guard shall not be more than 350 mm below that part of the structure of the vehicle, cut or contacted by a vertical plane tangential to the outer surface of the tyres, excluding any bulging close to the ground, except in the following cases: 2.7.1. where the plane in point 2.7 does not cut the structure of the vehicle, the upper edge shall be level with the surface of the load-carrying platform, of 950 mm from the ground, whichever is the less; 2.7.2. where the plane in point 2.7 cuts the structure of the vehicle at a level more than 1.3 m above the ground, then the upper edge of the side guard shall not be less than 950 mm above the ground; 2.7.3. on a vehicle specially designed and constructed, and not merely adapted, for the carriage of a container or demountable body, the upper edge of the guard may be determined in accordance with points 2.7.1 and 2.7.2, the container or body being considered as part of the vehicle. 2.8. Side guards shall be essentially rigid, securely mounted (they shall not be liable to loosening due to vibration in normal use of the vehicle) and, except as regards the parts listed in point 2.9, made of metal or any other suitable material. The side guard shall be considered suitable if it is capable of withstanding a horizontal static force of 1 kN applied perpendicularly to any part of its external surface by the centre of a ram the face of which is circular and flat, with a diameter of 220 mm ± 10 mm, and if the deflection of the guard under load is then not more than: —
+30 mm over the rearmost 250 mm of the guard, and
+—
+150 mm over the remainder of the guard. 2.8.1. The above requirement may be checked by means of calculations. 2.9. Components permanently fixed to the vehicle, e.g. battery box, air tanks, fuel tanks, lamps, reflectors, spare wheels and tool boxes, may be incorporated in the side guard, provided that they meet the dimensional requirements of the Directive. As regards gaps, the requirements set out in point 2.2 shall apply. 2.10. The side guard may not be used for the attachment of brake, air or hydraulic pipes.
+Article 4
+1. With effect from 1 June 1990 Member States:
+
+—
+may no longer issue the document provided for in Article 10 (1), third indent, of Directive 70/156/EEC in respect of a type of vehicle of which the lateral protection devices do not meet the requirements of this Directive,
+—
+may refuse to grant national type-approval in respect of a type of vehicle of which the lateral protection devices do not comply with the provisions of this Directive. 2. With effect from 1 May 1991 Member States may prohibit the first entry into service of vehicles of which the lateral protection devices do not comply with the provisions of this Directive.
+Article 6
+1. Member States shall bring into force the provisions necessary in order to comply with this Directive by 30 October 1989.
+
+They shall forthwith inform the Commission thereof. 2. Member States shall communicate the main provisions of national law which they adopt in the field covered by this Directive to the Commission.
+Introduction
+COUNCIL DIRECTIVE
+of 13 April 1989
+on the approximation of the laws of the Member States relating to the lateral protection (side guards) of certain motor vehicles and their trailers
+(89/297/EEC)
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100a thereof,
+Having regard to the proposal from the Commission (1),
+In cooperation with the European Parliament (2),
+Having regard to the opinion of the Economic and Social Committee (3),
+Whereas it is important to adopt measures with the aim of progressively establishing the internal market over a period expiring on 31 December 1992;
+
+whereas the internal market shall comprise an area without internal frontiers in which the free movement of goods, persons, services and capital is ensured; Whereas the technical requirements which vehicles must satisfy pursuant to national laws relate inter alia to the side guards of motor vehicles and their trailers; Whereas these requirements differ from one Member State to another; whereas it is therefore necessary that all Member States adopt the same requirements, either in addition to, or in place of, their existing rules in order, in particular, to allow the EEC type-approval procedure which was the subject of Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (4), as last amended by Directive 87/403 /EEC (5), to be introduced in respect of each type of vehicle; Whereas, in order to increase road safety, it is necessary to fit side guards to all vehicles in higher weight categories in order to offer unprotected road users (pedestrians, cyclists, motorcyclists) efficient protection against the risk of falling under the sides of such vehicles; Whereas, for practical reasons, it is felt necessary to provide for different periods of application for new type-approvals and for all new vehicles; Whereas the approximation of the national laws relating to motor vehicles includes the mutual recognition by the Member States of the checks carried out by each of them on the basis of common requirements,
+HAS ADOPTED THIS DIRECTIVE:
+The side guard may not be used for the attachment of brake, air or hydraulic pipes. 3. By derogation from the above provisions, vehicles of the following types need comply only as indicated in each case: 3.1. An extendible trailer shall comply with all of the requirements of point 2, when closed to its minimum length; when the trailer is extended, the side guards shall comply with points 2.6, 2.7 and 2.8, and with either 2.4 or 2.5 but not necessarily both; extension of the trailer shall not produce gaps in the length of the side guards; 3.2. a tank-vehicle that is a vehicle designed solely for the carriage of fluid substance in a closed tank permanently fitted to the vehicle and provided with hose or pipe connections for loading or unloading, shall be fitted with side guards which comply so far as is practicable with all the requirements of point 2; strict compliance may be waived only where operational requirements make this necessary; 3.3. On a vehicle fitted with extendible legs to provide additional stability during loading, unloading or other operations for which the vehicle is designed, the side guard may be arranged with additional gaps where these are necessary to permit extension of the legs. 3.4. On a vehicle equipped with anchorage points for ro-ro transport, gaps shall be permitted within the side guard to accept the passage and tensioning of fixing lashings. 4. If the sides of the vehicle are so designed and/or equipped that by their shape and characteristics their component parts together meet the requirements of point 2, they may be regarded as replacing the side guards. 5. Application for EEC type-approval
+5.1. The application for EEC type-approval of a vehicle type with respect to lateral protection shall be submitted by the vehicle manufacturer or his authorized representative. 5.2. It must be accompanied by the undermentioned documents in triplicate and the following information: 5.2.1. a description of the vehicle from the standpoint of the criteria referred to in point 1.4.1, together with dimensional drawings and either photographs or exploded views of the sides of the vehicle. The numbers and/or symbols identifying the vehicle type must be quoted; 5.2.2. a technical description of the parts providing lateral protection together with sufficiently detailed information. 5.3. a vehicle representative of the type to be approved must be submitted to the technical service responsible for the type-approval tests. 6. EEC type-approval
+6.1. The EEC type-approval certificate for the vehicle type must be accompanied by an Annex drawn up in conformity with the model shown in the Appendix. (1) This Directive does not prevent any country from having additional requirements for the vehicle parts forward of the front wheels and rearward of the rear wheels. (2) OJ No L 266, 2. 10. 1974, p. 4. {{IMAGE:Image_0, Caption:Model form for the Annex to the EEC Type-Approval Certificate regarding the lateral protection of a vehicle type.}}

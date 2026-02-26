@@ -1,0 +1,52 @@
+recital 4
+(4) Directive 74/483/EEC should therefore be amended accordingly.
+recital 3
+(3) Annex IV, Part II of Directive 70/156/EEC provides a listing of United Nations Economic Commission for Europe (UN/ECE) Regulations which may be accepted as alternatives to type-approval Directives.
+
+It is therefore necessary, when adapting to technical progress the Annex I to Directive 74/483/EEC, to align the requirements of that Directive and its equivalent UN/ECE Regulation 26.
+citation
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (1), and in particular the second indent of Article 13(2) thereof,
+Having regard to Council Directive 74/483/EEC of 17 September 1974 on the approximation of the laws of the Member States relating to the external projections of motor vehicles and their trailers (2), and in particular Article 5 thereof,
+Whereas:
+Article 4
+This Directive shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.
+recital 1
+(1) Directive 74/483/EEC is one of the separate Directives for the purposes of the EC type-approval procedure laid down by Directive 70/156/EEC.
+
+The provisions of Directive 70/156/EEC relating to systems, components and separate technical units for vehicles therefore apply to Directive 74/483/EEC.
+Article 5
+This Directive is addressed to the Member States.
+Article 1
+Annex I to Directive 74/483/EEC is amended in accordance with the Annex to this Directive.
+recital 5
+(5) The measures provided for in this Directive are in accordance with the opinion of the Committee for Adaptation to Technical Progress set up under Article 13(1) of Directive 70/156/EEC,
+HAS ADOPTED THIS DIRECTIVE:
+ANNEX
+ANNEX
+Point 6.5.2. of Annex I to Directive 74/483/EEC is replaced by the following:
+
+'6.5.2. If the line of the bumper, front or rear, corresponding to the outline contour of the vehicle, from a vertical projection, is on a rigid surface, that surface shall have a minimum radius of curvature of 5 mm for all points lying between the contour line and lines, above and below the contour line, which are the traces of points 20 mm inside, and measured normal to, the contour line at any point. A minimum surface radius of curvature of 2,5 mm shall apply to all other areas of the bumpers. This provision applies to that part of the bumper lying between tangential points of contact of the contour line with two vertical planes each set at an angle of 15 degrees with the vertical longitudinal plane of symmetry of the vehicle (see Figure 1). {{IMAGE:Image_0, Caption:Diagram illustrating the specific area of a vehicle bumper subject to a minimum 5 mm radius of curvature requirement. The shaded zone is defined by a 20 mm depth from the contour line and bounded by a vertical plane at a 15-degree angle to the vehicle's longitudinal plane.}} Text of image
+20 mm
+Vertical longitudinal plane of vehicle
+20 mm
+Shaded area is the area of the bumper where the radius requirement is 5 mm minimum. Vertical Plane
+15 °
+Article 3
+1. Member States shall adopt and publish, by 4 April 2008 at the latest, the laws, regulations and administrative provisions necessary to comply with this Directive.
+
+They shall forthwith communicate to the Commission the text of those provisions and a correlation table between those provisions and this Directive. They shall apply those provisions from 5 April 2008. When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made. 2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+recital 2
+(2) In view of technical progress, and in the interest of providing clarity in the technical requirements, it is appropriate to adjust the requirements with respect to the vehicle bumpers.
+Introduction
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (1), and in particular the second indent of Article 13(2) thereof,
+Having regard to Council Directive 74/483/EEC of 17 September 1974 on the approximation of the laws of the Member States relating to the external projections of motor vehicles and their trailers (2), and in particular Article 5 thereof,
+Whereas:
+
+(1) Directive 74/483/EEC is one of the separate Directives for the purposes of the EC type-approval procedure laid down by Directive 70/156/EEC. The provisions of Directive 70/156/EEC relating to systems, components and separate technical units for vehicles therefore apply to Directive 74/483/EEC. (2) In view of technical progress, and in the interest of providing clarity in the technical requirements, it is appropriate to adjust the requirements with respect to the vehicle bumpers. (3) Annex IV, Part II of Directive 70/156/EEC provides a listing of United Nations Economic Commission for Europe (UN/ECE) Regulations which may be accepted as alternatives to type-approval Directives. It is therefore necessary, when adapting to technical progress the Annex I to Directive 74/483/EEC, to align the requirements of that Directive and its equivalent UN/ECE Regulation 26. (4) Directive 74/483/EEC should therefore be amended accordingly. (5) The measures provided for in this Directive are in accordance with the opinion of the Committee for Adaptation to Technical Progress set up under Article 13(1) of Directive 70/156/EEC,
+HAS ADOPTED THIS DIRECTIVE:
+Article 2
+With effect from 4 April 2009, a Member State, on grounds related to external projections, shall refuse to grant EC type-approval or national type-approval of a type of vehicle if the requirements laid down in Directive 74/483/EEC, as amended by this Directive, are not complied with.

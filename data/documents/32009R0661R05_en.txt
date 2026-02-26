@@ -1,0 +1,25 @@
+Corrigendum to Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor
+(
+Official Journal of the European Union L 200 of 31 July 2009
+)
+Corrigendum to Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor
+(
+Official Journal of the European Union L 200 of 31 July 2009
+)
+On page 19, Annex III, point 1(a)(i) concerning the table of Part I of Annex IV to Directive 2007/46/EC:
+
+for:
+'(i) points 3 to 10, 12 to 38, 42 to 45 and 47 to 57 shall be deleted;',
+read: '(i) points 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 42, 43, 44, 45, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56 and 57 shall be deleted;'; on page 19, Annex III, point 1(b)(i) concerning the Appendix of Part I of Annex IV to Directive 2007/46/EC: for:
+'(i) points 3 to 10, 12 to 37, 44, 45 and 50 to 54 of the table shall be deleted;',
+read: '(i) points 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 44, 45, 50, 51, 52, 53 and 54 of the table shall be deleted;'; on page 20, Annex III, point 3(a)(i) concerning the table of Appendix 1 of Annex XI to Directive 2007/46/EC: for:
+'(i) points 3 to 10, 12 to 38, 44, 45 and 47 to 54 shall be deleted;',
+read: '(i) points 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 44, 45, 47, 48, 49, 50, 51, 52, 53 and 54 shall be deleted;'; on page 20, Annex III, point 3(b)(i) concerning the table of Appendix 2 of Annex XI to Directive 2007/46/EC: for:
+'(i) points 3 to 10, 12 to 38, 42 to 45 and 47 to 57 shall be deleted;',
+read: '(i) points 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 42, 43, 44, 45, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56 and 57 shall be deleted;'; on page 20, Annex III, point 3(c)(i) concerning the table of Appendix 3 of Annex XI to Directive 2007/46/EC: for:
+'(i) points 3 to 10, 12 to 37, 44, 45 and 50 to 54 shall be deleted;',
+read: '(i) points 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 44, 45, 50, 51, 52, 53 and 54 shall be deleted;'; on page 20, Annex III, point 3(d)(i) concerning the table of Appendix 4 of Annex XI to Directive 2007/46/EC: for:
+'(i) points 3 to 10, 13 to 36, 42 to 45 and 47 to 57 shall be deleted;',
+read: '(i) points 3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 42, 43, 44, 45, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56 and 57 shall be deleted;'; on page 21, Annex III, point 3(e)(i) concerning the table of Appendix 5 of Annex XI to Directive 2007/46/EC: for:
+'(i) points 3 to 10, 12 to 36, 42 to 45 and 47 to 57 shall be deleted;',
+read: '(i) points 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 42, 43, 44, 45, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56 and 57 shall be deleted;'.

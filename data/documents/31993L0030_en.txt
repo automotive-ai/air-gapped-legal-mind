@@ -1,0 +1,96 @@
+Article 1
+This Directive applies to audible warning devices for all types of vehicle as defined in Article 1 of Directive 92/61/EEC.
+Article 5
+1. Member States shall adopt and publish the provisions necessary to comply with this Directive not later than 14 December 1994.
+
+They shall forthwith inform the Commission thereof. When the Member States adopt these provisions, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. The methods of making such a reference shall be laid down by the Member States. From the date mentioned in the first subparagraph Member States may not, for reasons connected with audible warning devices, prohibit the initial entry into service of vehicles which conform to this Directive. They shall apply the provisions referred to in the first subparagraph as from 14 June 1995. 2. Member States shall communicate to the Commission the texts of the provisions of national law which they adopt in the covered by this Directive.
+Article 3
+In accordance with the provisions of Article 11 of Directive 92/61/EEC, equivalence between the requirements laid down in this Directive and those laid down in UN/ECE Regulation No 28 (E/ECEATRANS/505 — Rev. 1 /Add. 27) is hereby acknowledged.
+
+The authorities of the Member States which grant component type-approval shall accept approvals granted in accordance with the requirements of the abovementioned Regulation No 28 as well as component type-approval marks as an alternative to the corresponding approvals granted in accordance with the requirements of this Directive.
+Article 6
+This Directive is adressed to the Member States.
+
+Done at Luxembourg, 14 June 1993. For the Council
+The President
+J. TRØJBORG
+(1) OJ No L 225, 10. 8. 1992, p. 72. (2) OJ No C 293, 9. 11. 1992, p. 15. (3) OJ No C 337, 21. 12. 1992, p. 103 and OJ No C 150, 31. 5. 1993. (4) OJ No C 73, 15. 3. 1993, p. 22. (5) OJ No L 42, 23. 2. 1970, p. 1. Directive as last amended by Directive 92/53/EEC (OJ No L 225, 10. 8. 1992, p. 1).
+Introduction
+COUNCIL DIRECTIVE 93/30/EEC
+of 14 June 1993
+on audible warning devices for two- or three-wheel motor vehicles
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100a thereof,
+Having regard to Council Directive 92/61/EEC of 30 June 1992 relating to the type-approval of two- or three-wheel motor vehicles (1),
+Having regard to the proposal from the Commission (2),
+In cooperation with the European Parliament (3),
+Having regard to the opinion of the Economic and Social Committee (4),
+Whereas the internal market comprises an area without internal frontiers in which the free movement of goods, persons, services and capital is ensured; whereas the measures required for that purpose need to be adopted;
+
+Whereas, with regard to audible warning devices, in each Member State two- or three-wheel motor vehicles must display certain technical characteristics laid down by mandatory provisions which differ from one Member State to another; whereas as a result of their differences, such provisions constitute a barrier to trade within the Community; Whereas these obstacles to the operation of the internal market may be removed if the same requirements are adopted by all Member States in place of their national rules; Whereas it is necessary to draw up harmonized requirements concerning audible warning devices for two-or three-wheel motor vehicles in order to enable the type-approval and component type-approval procedures laid down in Directive 92/61/EEC to be applied for each type of such vehicle. Whereas, given the scale and impact of the action proposed in the sector in question, the Community measures covered by this Directive are necessary, indeed essential, to achieve the aim in view, which is to establish Community vehicle type-approval; whereas that aim cannot be adequately achieved by the Member States individually; Whereas in order to facilitate access to the markets of non-Community countries it would seem necessary to establish equivalence between the requirements of this Directive and those of Regulation No 28 of the United Nations Economic Commission for Europe,
+HAS ADOPTED THIS DIRECTIVE:
+REQUIREMENTS APPLYING TO THE COMPONENT TYPE-APPROVAL OF AUDIBLE WARNING DEVICES
+ANNEX I
+REQUIREMENTS APPLYING TO THE COMPONENT TYPE-APPROVAL OF AUDIBLE WARNING DEVICES
+2. REQUIREMENTS
+2.1. Audible warning devices must emit a continuous, uniform sound and their sound spectrum shall not vary perceptibly during operation.
+
+In the case of warning devices supplied with an alternating current this requirement applies solely at constant generator speed, that speed lying within the range specified in 3.3.2. 
+2.2. Warning devices must display sound characteristics (spectral distribution of the sound energy, sound pressure level) and mechanical characteristics such that, in the order stated, they pass the tests specified in sections 3 and 4. 3. SOUND LEVEL MEASUREMENTS
+3.1. Audible warning devices must preferably be tested in an anechoic environment. They may alternatively be tested in a semi-anechoic chamber or in a cleared outside space. In this case, precautions must be taken in order to avoid reflections off the ground in the measuring area, e.g. by providing a number of absorbent screens. It must be checked that the spherical distortion is no more than 1 dB within a hemisphere having a radius of at least 5 m up to the maximum frequency to be measured, this mainly being in the direction of measurement and at the height of the device and microphone. The ambient noise must be at least 10 dB lower than the sound pressure levels to be measured. The device submitted for testing and the microphone must be at the same height. That height must lie between 1.15 and 1.25 m. The line of maximum sensitivity of the microphone must coincide with the direction in which the sound level of the warning device is at its highest level. The microphone must be positioned such that its diaphragm is at a distance of 2 ± 0,01 m from the exit plane of the sound emitted by the device. That same distance from devices having several exits must be determined in relation to the exit plane closest to the microphone. 3.2. The measurements of the sound pressure level must involve the use of a class-1 precision sound level meter meeting the requirements of IEC publication No 651, first edition (1979). All measurements must be carried out using the 'rapid' time constant. The (A) weighting curve must be used to measure the overall sound pressure levels. The Fourier transform of the sound signal must be used in measuring the emitted-sound spectrum. Alternatively, third octave filters meeting the requirements set out in IEC publication No 225, first edition (1966) may be used. In that instance the sound pressure level within the 2 500 Hz centre octave frequency band is determined by adding the quadratic means of the sound pressures in the third-octave bands of centre frequencies of 2 000, 2 500 and 3 150 Hz. In all cases only the Fourier transform method may be considered to be a reference method. 3.3. The audible warning device must be supplied with one of the following voltages, as appropriate: 3.3.1. in the case of audible warning devices receiving direct current a test voltage of 6,5, 13 or 26 volts, measured at the output side of the eletricity source and corresponding to a nominal voltage of 6, 12 or 24 volts respectively; 3.3.2. where audible warning devices receive direct current that must be supplied by an electrical generator of the type normally used with this type of device. The acoustic characteristics of that type of warning device must be recorded at alternator speeds corresponding to 50, 75 and 100 % of the maximum speed stated by the manufacturer of the alternator for continuous operation. The alternator must be subject to no other electrical load during the test. The durability test described in section 4 must be carried out at a speed stated by the manufacturer of the equipment and selected from the range referred to above. 3.4. If a rectified current is used for the test on an audible warning device receiving direct current, the unsmoothed component of the voltage at its terminals, measured from peak to peak during operation of the warning devices, must not exceed 0,1 volts. 3.5. The resistance of the electrical conductor for audible warning devices receiving direct current, including the resistance of the terminals and contacts, must lie as closely as possible to: —
+0,05 Ohms for a nominal voltage of 6 V,
+—
+0,10 Ohms for a nominal voltage of 12 V,
+—
+0,20 Ohms for a nominal voltage of 24 V.
+3.6. The audible warning device must be rigidly mounted, using the part or parts intended for that purpose by its manufacturer on a support, the mass of which is at least 10 times greater than that of the warning device to be tested and at least 30 kg. Moreover, the support must be arranged in such a way that the reflections off its walls and the vibrations have no significant effect on the results of the measurements. 3.7. Under the conditions set out above the A-weighted sound level must not exceed the following values: (a) 115 dB(A) for audible warning devices intended mainly for mopeds, motorcycles and tricycles developing a power of not more than 7 kW; (b) 118 dB(A) for audible warning devices intended mainly for motorcycles and tricycles developing a power of more than 7 kW. 3.7.1. Moreover the sound pressure level within the 1 800—3 550 Hz frequency band must be higher than that of any frequency component above 3 550 Hz, and in any case be at least: (a) 90 dB(A) in the case of audible warning devices intended mainly for mopeds; (b) 95 dB(A) for audible warning devices intended mainly for motorcycles and tricycles developing a power of not more than 7 kW; (c) 105 dB(A) for audible warning devices intended mainly for motorcycles and tricycles developing a power of more than 7 kW. 3.7.2. Audible warning devices displaying the characteristics described in 3.7.1 (c) may be used on the vehicles described in 3.7.1 (a) and (b) while audible warning devices displaying the sound characteristics described in 3.7.1 (b) may be used on mopeds. 3.8. The characteristics set out above must also be displayed by any audible warning device that has been subjected to the durability test provided for in section 4. The variation in voltage must be either between 115 and 95 % of the rated value for audible warning devices receiving direct current or between 50 and 100 % of the maximum alternator speed stated by the manufacturer of the alternator for continuous operation in the case of audible warning devices receiving alternating current. 3.9. The time lag between actuation and the moment when the sound reaches the minimum value required by section 3.7 must not exceed 0,2 seconds measured at an ambient temperature of 20 ± 5 oC. This requirement applies, in particular, to pneumatic or electro-pneumatic warning devices. 3.10. Under the power supply conditions laid down by their manufacturers pneumatic or electro-pneumatic warning devices must yield the same acoustic performance as those required for electric audible warning devices. 3.11. The minimum values quoted above must be obtained for each of the individual components of any multi-tone device each component part of which may emit sound independently. The maximum overall sound level must be achieved with all of the component parts operating at the same time. 4. DURABILITY TEST
+4.1. The audible warning device must be supplied with the nominal voltage at the conductor resistance specified in sections 3.3 to 3.5 and be operated: —
+10 000 times in the case of warning devices intended mainly for mopeds, motorcycles and tricycles developing a power not exceeding 7 kW,
+—
+50 000 times in the case of warning devices intended mainly for motorcycles and tricycles developing a power of more than 7 kW respectively,
+at a rate of one second on followed by four seconds off.
+REQUIREMENTS APPLYING TO THE FITTING OF AUDIBLE WARNING DEVICES TO TWO- OR THREE-WHEEL MOTOR VEHICLES
+ANNEX II
+REQUIREMENTS APPLYING TO THE FITTING OF AUDIBLE WARNING DEVICES TO TWO- OR THREE-WHEEL MOTOR VEHICLES
+2. REQUIREMENTS
+2.1. All vehicles must be fitted with an audible warning device that has been component type-approved pursuant to this Directive or to Council Directive 70/388/EEC on the approximation of the laws of the Member States relating to audible warning devices for motor vehicles (1); however, mopeds equipped with an engine of no more than 0,5 kW, whose maximum design speed does not exceed 25 km/h, may be fitted either with an approved audible warning device or an unapproved mechanical warning device.
+
+In the latter case, the manufacturer must declare that such mechanical device complies with the requirement for that type of device in the Member State in which the low-performance moped is to be marketed. 2.2. The test voltage must be as laid down in section 3.3 in Annex I. 2.3. The sound pressure levels must be measured under the conditions laid down in section 3.2 in Annex I. 2.4. The A-weighted sound pressure level emitted by the device(s) fitted to the vehicle must be measured 7 m ahead of the vehicle, which must have been placed on a clear space, the ground being as smooth as possible and, in the case of direct-current audible warning devices, the engine of the vehicle being shut down. 2.5. The microphone for the measuring device must be located roughly in the median longitudinal plane of the vehicle. 2.6. The pressure level of the ambient noise and of the noise generated by the wind must be at least 10 dB(A) lower than the sound level to be measured. 2.7. The maximum sound pressure level must be sought within a segment lying between 0,5 and 1,5 m above ground level. 2.8. When measured under the conditions specified in sections 2.2 to 2.7 the maximum sound level value (section 2.7) of the audible warning under test must be at least: (a) 75 dB(A) and at the most 112 dB(A) for mopeds; (b) 80 dB(A) and at the most 112 dB(A) for motorcycles and tricycles developing a power of not more than 7 kW; (c) 93 dB(A) and at the most 112 dB(A) for motorcycles and tricycles developing a power of more than 7 kW. (1) OJ No L 176, 10. 8. 1970, p. 12. Directive last amended by Directive 87/354/EEC (OJ L 192, 11. 7. 1987, p. 43). Appendix 1
+Information document in respect of the installation of an audible warning device on a type of two- or three-wheel motor vehicle
+(to be attached to the application for component type-approval where this is submitted separately from the application for vehicle type-approval)
+Order No (assigned by the applicant): ...
+The application for component type-approval in respect of the installation of an audible warning device on a type of two- or three-wheel motor vehicle must contain the information set out under the following points in Annex II to Council Directive 92/61/EEC, Part A, sections: —
+0.1
+—
+0.2
+—
+0.4 to 0.6
+—
+3.2.5 to 3.2.5.2.2
+—
+9.5.5. {{IMAGE:Image_1, Caption:Model component type-approval certificate for the installation of an audible warning device on two- or three-wheel motor vehicles.}}
+1.1. 'audible warning device' means a device emitting an acoustic signal the operation of which is intended to give warning of the presence of or a manoeuvre by a vehicle in a dangerous road traffic situation;
+Article 4
+This Directive may be amended in accordance with Article 13 of Directive 70/156/EEC (5) in order to:
+
+—
+take into account any amendments to the ECE Regulation referred to in Article 3,
+—
+adapt the Annex to technical progress.
+Article 2
+The procedures for the granting of component type-approval in respect of audible warning devices for a type of two- or three-wheel motor vehicle, the component type-approval of an audible warning device in the form of a component and the conditions governing the free movement of such vehicles and the unimpeded placing on the market of audible warning devices shall be as laid down in Chapters II and III of Directive 92/61/EEC.
+—
+10 000 times in the case of warning devices intended mainly for mopeds, motorcycles and tricycles developing a power not exceeding 7 kW,
+—
+50 000 times in the case of warning devices intended mainly for motorcycles and tricycles developing a power of more than 7 kW respectively,
+at a rate of one second on followed by four seconds off.
+
+During the test the audible warning device must be exposed to a forced draught having a speed of rougly 10 m/sec.
+4.2. If a test is conducted within an insulated chamber that chamber must be of sufficient volume to ensure normal dissipation of the heat given off by the warning device during the durability test. 4.3. The ambient temperature within the test chamber must lie between + 15 and + 30 oC. 4.4. If, after half the required number of operations, the characteristics of the sound level have altered as compared with before the test the audible warning device may be reset. When the total number of operations required have been completed the audible warning device must successfully complete the test described in section 3, where necessary after being further reset. 4.5. Electro-pneumatic audible warning devices may be lubricated with the oil recommended by their manufacturer every 10 000 operations. 5. COMPONENT TYPE-APPROVAL MARK
+5.1. All audible warning devices conforming to the type that has been component type-approved must bear a component type-approval mark meeting the requirements set out in Annex V to Council Directive 92/61/EEC. Appendix 1
+Information document in respect of a type of audible warning device intended for two- or three-wheel motor vehicles
+(to be attached to the application for component type-approval where this is submitted separately from the application for vehicle type-approval)
+Order No (assigned by the applicant): ...
+The application for component type-approval in respect of a type of audible warning device intended for two or three-wheel motor vehicles must contain the information set out in Annex II to Council Directive 92/61/EEC, Part A, sections 9.5.1 to 9.5.4. {{IMAGE:Image_0, Caption:Model component type-approval certificate for audible warning devices intended for two- or three-wheel motor vehicles.}}
+1.2. 'type of audible warning device' means audible warning devices not essentially differing among themselves, particularly in respect of the following aspects:
+1.1. 'type of vehicle' means vehicles not differing essentially among themselves, where any such differences may relate to:

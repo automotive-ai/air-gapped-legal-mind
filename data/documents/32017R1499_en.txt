@@ -1,0 +1,84 @@
+ANNEX
+ANNEX
+Annex I and II to Regulation (EU) No 510/2011 are amended as follows: (1) in Annex I, the following points 3, 4 and 5 are added: '3. The specific emission reference target for a manufacturer in 2021 shall be calculated as follows: {{IMAGE:Image_0, Caption:Equation for calculating the WLTP specific emission reference target based on WLTP CO2 and NEDC values.}} Where: {{IMAGE:Image_5, Caption:The notation WLTP with subscript CO2.}} is the average specific emissions of CO2 in 2020 determined in accordance with Annex XXI to Commission Regulation (EU) 2017/1151 (*1) without including CO2 savings resulting from the application of Article 12 of this Regulation; {{IMAGE:Image_7, Caption:The variable NEDC CO2, representing specific emissions determined under the New European Driving Cycle.}} is the average specific emissions of CO2 in 2020 determined in accordance with Commission Implementing Regulation (EU) 2017/1152 (*2), without including CO2 savings resulting from the application of Article 12 of this Regulation; NEDC2020target
+is the 2020 specific emission target calculated in accordance with point 1(c) of this Annex. 4. Starting from 2021, the specific emission target for a manufacturer shall be calculated as follows: Specific emission target = WLTPreference target + a [(Mø - M0) - (Mø2020 - M0,2020)]
+Where:
+WLTPreference target
+is the 2021 specific emission reference target calculated in accordance with point 3;
+a
+is a as defined in point 1(c);
+Mø
+is the average of the mass (M) as defined in point 1 of the new registered light commercial vehicles in the relevant target year in kilograms (kg);
+M0
+is M0 as defined in point 1(c);
+Mø2020
+is the average of the mass (M) as defined in point 1 of the new registered light commercial vehicles in 2020 in kilograms (kg);
+M0,2020
+is the M0 value applicable in the reference year 2020. 5. For a manufacturer that has been granted a derogation with regard to a specific NEDC based emission target in 2021, the WLTP based derogation target shall be calculated as follows: {{IMAGE:Image_3, Caption:Formula for calculating the 2021 derogation target based on WLTP and NEDC CO2 values.}} Where: {{IMAGE:Image_5, Caption:The notation WLTP with subscript CO2.}} {{IMAGE:Image_5, Caption:The notation WLTP with subscript CO2.}} as defined in point 3; {{IMAGE:Image_7, Caption:The variable NEDC CO2, representing specific emissions determined under the New European Driving Cycle.}} {{IMAGE:Image_7, Caption:The variable NEDC CO2, representing specific emissions determined under the New European Driving Cycle.}} as defined in point 3; NEDC2021target
+is the 2021 specific emission target granted by the Commission pursuant to Article 11 of this Regulation. (*1) Commission Regulation (EU) 2017/1151 of 1 June 2017 supplementing Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information, amending Directive 2007/46/EC of the European Parliament and of the Council, Commission Regulation (EC) No 692/2008 and Commission Regulation (EU) No 1230/2012 and repealing Regulation (EC) No 692/2008 (OJ L 175, 7.7.2017, p. 1)."
+(*2) Commission Implementing Regulation (EU) 2017/1152 of 2 June 2017 setting out a methodology for determining the correlation parameters necessary for reflecting the change in the regulatory test procedure with regard to light commercial vehicles and amending Implementing Regulation (EU) No 293/2012 (OJ L 175, 7.7.2017, p. 644).';"
+(2) Annex II is amended as follows: (a) in Part A, point 1.1 is amended as follows: (i) the first subparagraph is amended as follows: —
+in points (g) and (n), the following words are added: '(NEDC and WLTP)'; —
+the following points are added: '(p) WLTP test mass; (q) Deviation and verification factors referred to in point 3.2.8 of Annex I to Implementing Regulation (EU) 2017/1152; (r) Vehicle family identification number determined in accordance with point 5.0 of Annex XXI to Regulation (EU) 2017/1151.';
+(ii) the following subparagraph is added: 'For the calendar year 2017, the data referred to in point (g), as regards WLTP CO2 emissions values, and in point (n), as regards WLTP eco-innovation savings, as well as the data referred to in points (p) and (r) may be reported on a voluntary basis. Starting from calendar year 2018, Member States shall make available to the Commission, in accordance with Article 8, all parameters listed in this point as specified in the format in Section 2 of Part C of this Annex.'; (b) in Part C, in Section 2,, the table with the heading 'Detailed monitoring data — one vehicle record' is amended as follows: (i) entry (g) is replaced by the following:
+
+| '(g) | Specific CO2 emissions (combined) NEDC value |
+|---|---|
+| '(g) | Specific CO2 emissions (combined) WLTP value (from 2018)'; | (ii) entry (n) is replaced by the following:
+
+| '(n) | Code of the eco-innovation(s) |
+|---|---|
+| '(n) | Total NEDC CO2 emissions savings due to the eco-innovation(s) |
+| '(n) | Total WLTP CO2 emissions savings due to the eco-innovation(s) (from 2018)'; | (iii) the following entries (p), (q) and (r), are inserted after entry (o):
+
+| '(p) | WLTP test mass |
+|---|---|
+| (q) | Deviation factor De (where available) |
+| (q) | Verification factor (where available) |
+| (r) | Vehicle family identification number'; |
+
+(iv) in note 1, the second sentence is deleted. (*1) Commission Regulation (EU) 2017/1151 of 1 June 2017 supplementing Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information, amending Directive 2007/46/EC of the European Parliament and of the Council, Commission Regulation (EC) No 692/2008 and Commission Regulation (EU) No 1230/2012 and repealing Regulation (EC) No 692/2008 (OJ L 175, 7.7.2017, p. 1). (*2) Commission Implementing Regulation (EU) 2017/1152 of 2 June 2017 setting out a methodology for determining the correlation parameters necessary for reflecting the change in the regulatory test procedure with regard to light commercial vehicles and amending Implementing Regulation (EU) No 293/2012 (OJ L 175, 7.7.2017, p. 644).';'
+recital 5
+(5) For the purpose of setting a manufacturer's specific emission target in 2021, the average WLTP CO2 emissions of the new light commercial vehicles registered in 2020 should be used as reference value.
+
+The specific emission target should be determined by either increasing or decreasing that reference value proportionally to the manufacturer's performance in meeting its NEDC based target in 2020.
+recital 1
+(1) A new regulatory test procedure for measuring CO2 emissions and fuel consumption from light duty vehicles, the World Harmonised Light Vehicles Test Procedure (WLTP), set out in Commission Regulation (EU) 2017/1151 (2), will replace the New European Test Cycle (NEDC), which is currently used pursuant to Commission Regulation (EC) No 692/2008 (3), with effect starting from 1 September 2017.
+
+The WLTP is expected to provide CO2 emission and fuel consumption values that are more representative of real driving conditions.
+recital 8
+(8) Annexes I and II to Regulation (EU) No 510/2011 should therefore be amended accordingly,
+HAS ADOPTED THIS REGULATION:
+recital 4
+(4) In 2020 the CO2 emissions of all new vehicles registered is to be determined on the basis of both the NEDC and the WLTP in accordance with the correlation methodology.
+
+By monitoring both those CO2 values, robust datasets should be available for comparing the level of emissions resulting from the two test procedures. Those datasets should allow for the determination of WLTP based specific emission targets that are of a stringency comparable to those determined by reference to NEDC measurements in accordance with the requirement set out in Article 13(6) of Regulation (EU) No 510/2011.
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) No 510/2011 of the European Parliament and of the Council of 11 May 2011 setting emission performance standards for new light commercial vehicles as part of the Union's integrated approach to reduce CO2 emissions from light-duty vehicles (1), and in particular the second subparagraph of Article 8(9) and the fourth subparagraph of Article 13(6) thereof,
+Whereas:
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) No 510/2011 of the European Parliament and of the Council of 11 May 2011 setting emission performance standards for new light commercial vehicles as part of the Union's integrated approach to reduce CO2 emissions from light-duty vehicles (1), and in particular the second subparagraph of Article 8(9) and the fourth subparagraph of Article 13(6) thereof,
+Whereas:
+
+(1) A new regulatory test procedure for measuring CO2 emissions and fuel consumption from light duty vehicles, the World Harmonised Light Vehicles Test Procedure (WLTP), set out in Commission Regulation (EU) 2017/1151 (2), will replace the New European Test Cycle (NEDC), which is currently used pursuant to Commission Regulation (EC) No 692/2008 (3), with effect starting from 1 September 2017. The WLTP is expected to provide CO2 emission and fuel consumption values that are more representative of real driving conditions. (2) In order to take into account the difference in the level of CO2 emissions measured under the existing NEDC and the new WLTP procedures, a methodology for correlating those values has been put in place pursuant to Commission Implementing Regulation (EU) 2017/1153 (4). (3) The correlation methodology is to be used during the phasing-in of the WLTP until end of 2020 to ensure that manufacturers' compliance with the CO2 emission targets can be verified on the basis of the NEDC emission values during that period. As a consequence, WLTP based specific CO2 emission targets should be applied with effect from the calendar year 2021. (4) In 2020 the CO2 emissions of all new vehicles registered is to be determined on the basis of both the NEDC and the WLTP in accordance with the correlation methodology. By monitoring both those CO2 values, robust datasets should be available for comparing the level of emissions resulting from the two test procedures. Those datasets should allow for the determination of WLTP based specific emission targets that are of a stringency comparable to those determined by reference to NEDC measurements in accordance with the requirement set out in Article 13(6) of Regulation (EU) No 510/2011. (5) For the purpose of setting a manufacturer's specific emission target in 2021, the average WLTP CO2 emissions of the new light commercial vehicles registered in 2020 should be used as reference value. The specific emission target should be determined by either increasing or decreasing that reference value proportionally to the manufacturer's performance in meeting its NEDC based target in 2020. (6) In order to ensure that the WLTP based specific emission targets remain comparable over time, account should be taken of annual changes in the average mass of the manufacturer's fleet. (7) A number of new parameters should be added to the detailed data that is to be monitored following the introduction of the WLTP. Under the WLTP the CO2 emission values are to be calculated taking into account the specific configuration of each individual vehicle. In order to ensure that the vehicles can be identified and the data effectively verified by manufacturers as well as by the Commission, it is appropriate to base the monitoring on vehicle identification numbers. (8) Annexes I and II to Regulation (EU) No 510/2011 should therefore be amended accordingly,
+HAS ADOPTED THIS REGULATION:
+recital 6
+(6) In order to ensure that the WLTP based specific emission targets remain comparable over time, account should be taken of annual changes in the average mass of the manufacturer's fleet.
+recital 2
+(2) In order to take into account the difference in the level of CO2 emissions measured under the existing NEDC and the new WLTP procedures, a methodology for correlating those values has been put in place pursuant to Commission Implementing Regulation (EU) 2017/1153 (4).
+Article 1
+Annexes I and II to Regulation (EU) No 510/2011 are amended in accordance with the Annex to this Regulation.
+recital 7
+(7) A number of new parameters should be added to the detailed data that is to be monitored following the introduction of the WLTP.
+
+Under the WLTP the CO2 emission values are to be calculated taking into account the specific configuration of each individual vehicle. In order to ensure that the vehicles can be identified and the data effectively verified by manufacturers as well as by the Commission, it is appropriate to base the monitoring on vehicle identification numbers.
+recital 3
+(3) The correlation methodology is to be used during the phasing-in of the WLTP until end of 2020 to ensure that manufacturers' compliance with the CO2 emission targets can be verified on the basis of the NEDC emission values during that period.
+
+As a consequence, WLTP based specific CO2 emission targets should be applied with effect from the calendar year 2021.
+Article 2
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.

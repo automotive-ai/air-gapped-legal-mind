@@ -1,0 +1,680 @@
+{{IMAGE:Image_3, Caption:Diagram of an approval mark arrangement for UN Regulation No. 152, displaying the E6 country code within a circle and the approval number 152R-02185-CPB, accompanied by dimensional specifications relative to size 'a'.}} a = min. 8 mm
+Das oben dargestellte, an einem Fahrzeug angebrachte Genehmigungszeichen besagt, dass der betreffende Fahrzeugtyp hinsichtlich Notbremsassistenzsystemen (AEBS) in Belgien (E 6) nach der UN-Regelung Nr. 152 genehmigt worden ist (Buchstabe „C" für „Pkw gegen Pkw", Buchstabe „P" für „Pkw gegen Fußgänger", Buchtstabe „B" für „Pkw gegen Fahrrad"). Die beiden ersten Ziffern der Genehmigungsnummer geben an, dass die Genehmigung entsprechend den Vorschriften der UN-Regelung Nr. 152 in der durch die Änderungsserie 02 geänderten Fassung erteilt wurde.
+Einleitung
+UN-Regelung Nr. 152 — Einheitliche Bedingungen für die Genehmigung von Kraftfahrzeugen hinsichtlich des Notbremsassistenzsystems (AEBS) in Fahrzeugen der Klassen M1 und N1 [2024/2497]
+Einschließlich des gesamten gültigen Textes bis:
+
+Ergänzung 3 zur Änderungsserie 02 — Datum des Inkrafttretens: 24. September 2023
+Dieses Dokument ist lediglich eine Dokumentationsquelle. Die rechtsverbindlichen Originaltexte sind: ECE/TRANS/WP.29/2020/69
+ECE/TRANS/WP.29/2021/16
+ECE/TRANS/WP.29/2021/18
+ECE/TRANS/WP.29/2021/142
+ECE/TRANS/WP.29/2022/20 (geändert durch Absatz 81 des Berichts ECE/TRANS/WP.29/1164)
+ECE/TRANS/WP.29/2023/16 (geändert durch Absatz 90 des Berichts ECE/TRANS/WP.29/1171)
+INHALTSVERZEICHNIS
+Regelung
+ 1. Anwendungsbereich
+ 2. Begriffsbestimmungen
+ 3. Antrag auf Genehmigung
+ 4. Genehmigung
+ 5. Vorschriften
+ 6. Prüfverfahren
+ 7. Änderungen des Fahrzeugtyps und Erweiterung der Genehmigung
+ 8. Übereinstimmung der Produktion
+ 9. Maßnahmen bei Abweichungen in der Produktion
+ 10. Endgültige Einstellung der Produktion
+ 11. Namen und Anschriften der technischen Dienste, die die Prüfungen für die Genehmigung durchführen, und der Typgenehmigungsbehörden
+ 12. Übergangsvorschriften
+Anhänge
+1
+Mitteilung
+2
+Anordnungen der Genehmigungszeichen
+3
+Spezielle Vorschriften für die Sicherheitsaspekte elektronischer Steuersysteme
+Anlage 1 — Musterbewertungsformular für elektronische Systeme
+Anlage 2 — Fehlreaktionsszenarien
+SPEZIELLE VORSCHRIFTEN FÜR DIE SICHERHEITSASPEKTE ELEKTRONISCHER STEUERSYSTEME
+ANHANG 3
+Spezielle Vorschriften für die Sicherheitsaspekte elektronischer Steuersysteme
+1. Allgemeines
+In diesem Anhang sind die speziellen Vorschriften für die Dokumentation, die Fehlerstrategie und die Verifikation hinsichtlich der Sicherheitsaspekte komplexer elektronischer Fahrzeugsteuersysteme (Absatz 2.4) für die Zwecke dieser Regelung festgelegt.
+
+Dieser Anhang gilt auch für in dieser Regelung genannte sicherheitsrelevante Funktionen, die über ein elektronisches System (Absatz 2.3) gesteuert werden, sofern diese Regelung betroffen ist. In diesem Anhang sind nicht die Wirkungskriterien des Systems festgelegt, sondern es werden die Vorgehensweise bei der Systementwicklung und die Angaben behandelt, die dem technischen Dienst im Hinblick auf die Typgenehmigung zu übermitteln sind. Aus diesen Angaben muss hervorgehen, dass bei dem System unter normalen und Störungsbedingungen alle Anforderungen an die Bremswirkung, die in dieser Regelung an anderer Stelle aufgeführt sind, eingehalten werden, und dass es so ausgelegt ist, dass es im Betrieb keine sicherheitskritischen Risiken nach sich zieht. 3. Dokumentation
+3.1. Anforderungen
+Der Hersteller muss ein Dokumentationspaket zur Verfügung stellen, das Angaben über die Grundkonstruktion des Systems und die Mittel zur Verbindung mit anderen Fahrzeugsystemen oder zur direkten Steuerung von Ausgangsgrößen enthält. Die Funktionen des Systems und das Sicherheitskonzept müssen darin nach den Festlegungen des Herstellers erläutert sein. Die Dokumentation muss kurz und knapp sein, jedoch ausreichen, um nachzuweisen, dass bei der Entwicklung des Systems mit dem erforderlichen Expertenwissen aus allen betreffenden Systembereichen vorgegangen wurde. Für Zwecke der periodischen technischen Überwachung ist anzugeben, wie geprüft werden kann, ob das System im funktionsfähigen Zustand ist. Der technische Dienst prüft die Dokumentation, um nachzuweisen, dass das System: a)
+so ausgelegt ist, dass es unter normalen und Störungsbedingungen im Betrieb keine sicherheitskritischen Risiken nach sich zieht; b)
+unter normalen und Störungsbedingungen alle zutreffenden Leistungsanforderungen einhält, die in dieser Regelung an anderer Stelle aufgeführt sind und c)
+im Einklang mit den vom Hersteller angegebenen Entwicklungsverfahren/-methoden entwickelt wurde. 3.1.1. Die Dokumentation muss zwei Teile umfassen: a)
+die formale Dokumentation für die Genehmigung mit den in Absatz 3 genannten Angaben (außer den Angaben nach Absatz 3.4.4), die dem technischen Dienst vorzulegen ist, wenn der Antrag auf Erteilung der Typgenehmigung gestellt wird. Diese Dokumentation dient dem technischen Dienst als Grundlage für die Verifikation nach Absatz 4 dieses Anhangs. Der technische Dienst stellt sicher, dass diese Unterlagen für einen mit der Genehmigungsbehörde vereinbarten Zeitraum verfügbar bleiben. Dieser Zeitraum, gerechnet von dem Zeitpunkt, an dem die Herstellung des Fahrzeugs endgültig eingestellt wird, muss mindestens 10 Jahre dauern. b)
+Zusätzliches Material und Analysedaten nach Absatz 3.4.4, die vom Hersteller aufzubewahren, zum Zeitpunkt der Typgenehmigung aber zur Prüfung offen zu legen sind. Der Hersteller stellt sicher, dass dieses Material und diese Analysedaten für einen Zeitraum von 10 Jahren, gerechnet von dem Zeitpunkt, an dem die Herstellung des Fahrzeugs endgültig eingestellt wird, verfügbar bleiben. 3.2. Beschreibung der Funktionen des Systems
+Es ist eine Beschreibung mit einer einfachen Erläuterung aller Steuerfunktionen des Systems und der zur Erreichung der Zielgrößen angewandten Verfahren, einschließlich einer Beschreibung des Steuerungsmechanismus (der Steuerungsmechanismen), vorzulegen. Alle beschriebenen Funktionen, die übersteuert werden können, sind zu nennen, und es ist eine genauere Beschreibung der veränderten Konzeption des Betriebs der Funktion zur Verfügung zu stellen. 3.2.1. Es ist eine Liste aller Eingangsgrößen und abgetasteten Größen mit Angabe des Betriebsbereichs vorzulegen. 3.2.2. Es ist eine Liste aller vom System gesteuerten Ausgangsgrößen vorzulegen und jeweils anzugeben, ob die Steuerung direkt oder über ein anderes Fahrzeugsystem erfolgt. Der Steuerungsbereich (Absatz 2.8) ist für jede dieser Größen anzugeben. 3.2.3. Die Systemgrenzen (Absatz 2.9) sind anzugeben, wenn sie für die Wirkung des Systems relevant sind. 3.3. Systemplan und Schaltbilder
+3.3.1. Liste der Bauteile
+Es ist eine Liste vorzulegen, in der alle Baueinheiten des Systems zusammengestellt und die anderen Fahrzeugsysteme aufgeführt sind, die für die betreffende Steuerfunktion erforderlich sind. Es ist eine Umrisszeichnung vorzulegen, aus der hervorgeht, wie diese Baueinheiten kombiniert sind, außerdem müssen sowohl die räumliche Verteilung der Bauteile als auch die Verbindungen deutlich zu erkennen sein. 3.3.2. Funktionen der Baueinheiten
+Die Funktion jeder Baueinheit des Systems ist darzustellen, und die Signale, die sie mit anderen Baueinheiten oder anderen Fahrzeugsystemen verbinden, sind anzugeben. Dazu kann ein beschriftetes Blockschaltbild, ein anderes Schaltbild oder eine Beschreibung mit Schaltbild verwendet werden. 3.3.3. Verbindungen
+Verbindungen innerhalb des Systems sind wie folgt darzustellen: elektrische Übertragungsverbindungen in einem Schaltbild, pneumatische oder hydraulische Übertragungseinrichtungen in einem Rohrleitungsplan und mechanische Verbindungen in einer vereinfachten schematischen Darstellung. Die Übertragungsverbindungen sowohl zu als auch von anderen Systemen sind ebenfalls darzustellen. 3.3.4. Signalfluss, Betriebsdaten und Prioritäten
+Zwischen diesen Übertragungsverbindungen und den zwischen den Baueinheiten übermittelten Signalen und/oder Betriebsdaten muss eine deutliche Entsprechung bestehen. Die Prioritäten von Signalen und/oder Betriebsdaten auf Multiplexdatenbussen sind immer dann anzugeben, wenn sie bei der Anwendung dieser Regelung einen Einfluss auf die Wirkung oder die Sicherheit haben können. 3.3.5. Kennzeichnung von Baueinheiten
+Jede Baueinheit muss deutlich und eindeutig gekennzeichnet sein (z. B. durch Beschriftung bei Hardware und Kennzeichnung oder einen Softwarecode bei Software), damit die Entsprechung zwischen der Hardware und der Dokumentation überprüft werden kann. Sind Funktionen innerhalb einer einzelnen Baueinheit oder innerhalb eines einzelnen Computers kombiniert, aber im Blockschaltbild der Deutlichkeit und der Einfachheit halber in Mehrfachblöcken dargestellt, so ist nur eine einzige Hardware-Kennzeichnung zu verwenden. Der Hersteller muss unter Angabe dieses Kennzeichens bestätigen, dass das gelieferte Gerät den Unterlagen entspricht. 3.3.5.1. Das Kennzeichen steht für eine bestimmte Hardware- und Softwareversion, und wenn die letztgenannte so geändert wird, dass sich dadurch auch die in dieser Regelung definierte Funktion der Baueinheit verändert, muss dieses Kennzeichen ebenfalls geändert werden. 3.4. Sicherheitskonzept des Herstellers
+3.4.1. Der Hersteller muss bestätigen, dass die zur Erreichung der Zielgrößen des Systems gewählte Strategie im fehlerfreien Zustand den sicheren Betrieb des Fahrzeugs nicht beeinträchtigt. 3.4.2. In Bezug auf die bei dem System verwendete Software ist die Grundarchitektur zu erläutern, und die bei der Entwicklung angewandten Verfahren und Hilfsmittel sind anzugeben. Der Hersteller muss nachweisen, wie bei der Entwicklung vorgegangen wurde, um die Systemlogik umzusetzen. 3.4.3. Der Hersteller muss dem technischen Dienst eine Beschreibung der Konzepte vorlegen, die bei der Entwicklung des Systems vorgesehen wurden, um den sicheren Betrieb im Fehlerfall zu gewährleisten. Bei einem Fehlerfall im System können zum Beispiel folgende Konzepte genutzt werden: a)
+Rückfall auf ein Teilsystem, b)
+Übergang auf ein getrenntes Backup-System, c)
+Wegschalten der übergeordneten Funktion.
+| (1) | ausgestellt von: | (Bezeichnung der Behörde) … … … |
+|---|---|---|
+| 0 | 1 |
+| über die (2): | Erteilung der Genehmigung Erweiterung der Genehmigung Versagung der Genehmigung Rücknahme der Genehmigung Endgültige Einstellung der Produktion |
+
+für einen Fahrzeugtyp hinsichtlich der Notbremsassistenzsysteme nach der UN-Regelung Nr. 152
+Nummer der Genehmigung: .…
+ 1. Handelsmarke: …
+ 2. Typ und Handelsmarke(n): …
+ 3. Name und Anschrift des Herstellers: …
+ 4. Ggf. Name und Anschrift des Bevollmächtigten des Herstellers: …
+ 5. Kurze Beschreibung des Fahrzeugs: …
+ 6. Fahrzeug zur Genehmigung vorgeführt am: …
+ 7. Technischer Dienst, der die Prüfungen für die Genehmigung durchführt: …
+ 8. Datum des Prüfberichts des technischen Dienstes: …
+ 9. Nummer des Prüfberichts des technischen Dienstes: …
+ 10. Genehmigung
+10.1. für das Szenario „Pkw gegen Pkw" erteilt/erweitert/versagt/zurückgenommen:2
+10.2. für das Szenario „Pkw gegen Fußgänger" erteilt/erweitert/versagt/zurückgenommen:2
+10.3. für das Szenario „Pkw gegen Fahrrad" erteilt/erweitert/versagt/zurückgenommen:2
+ 11. Ort: …
+ 12. Datum: …
+ 13. Unterschrift: …
+ 14. Folgende Unterlagen, die die Nummer der Genehmigung tragen, sind dieser Mitteilung beigefügt: …
+ 15. Bemerkungen: …
+(1) Kennzahl des Landes, das die Genehmigung erteilt/erweitert/versagt/zurückgenommen hat (siehe die Vorschriften über die Genehmigung in der Regelung). (2) Nichtzutreffendes streichen.
+1. Anwendungsbereich
+Diese Regelung gilt für die Genehmigung von Fahrzeugen der Klassen M1 und N1
+(1) (2) hinsichtlich eines bordeigenen Systems zur
+ a)
+Verhinderung oder Abmilderung eines Auffahrunfalls mit einem Personenkraftwagen in derselben Fahrspur,
+ b)
+Verhinderung oder Abmilderung eines Aufpralls auf einen Fußgänger.
+4. Genehmigung
+4.1. Entspricht der zur Genehmigung nach dieser Regelung vorgeführte Fahrzeugtyp den Vorschriften von Absatz 5, so ist die Genehmigung für diesen Fahrzeugtyp zu erteilen.
+
+4.2. Jedem genehmigten Typ ist eine Genehmigungsnummer zuzuteilen. Ihre ersten beiden Ziffern (derzeit 00 entsprechend der Änderungsserie 00) geben die entsprechende Änderungsserie mit den neuesten, wichtigsten technischen Änderungen an, die zum Zeitpunkt der Erteilung der Genehmigung in die Regelung aufgenommen sind. Dieselbe Vertragspartei darf diese Nummer nicht demselben Fahrzeugtyp mit einem AEBS eines anderen Typs oder einem anderen Fahrzeugtyp zuteilen. 4.3. Über die Erteilung oder Versagung oder Rücknahme einer Genehmigung für einen Fahrzeugtyp nach dieser Regelung sind die Vertragsparteien des Übereinkommens, die diese Regelung anwenden, mit einem Mitteilungsblatt zu unterrichten, das dem Muster in Anhang 1 dieser Regelung entspricht. Diesem Mitteilungsblatt sind Unterlagen in geeignetem Maßstab oder elektronischem Format beizufügen, die vom Antragsteller zur Verfügung zu stellen sind und deren Format nicht größer als A4 (210 mm × 297 mm) ist oder die auf dieses Format gefaltet sind. 4.4. An jedem Fahrzeug, das einem nach dieser Regelung genehmigten Fahrzeugtyp entspricht, ist sichtbar und an gut zugänglicher Stelle, die im Mitteilungsblatt anzugeben ist, ein internationales Genehmigungszeichen nach dem Muster in Anhang 2 anzubringen, bestehend aus: 4.4.1. einem Kreis, in dem sich der Buchstabe „E" und die Kennzahl des Landes befinden, das die Genehmigung erteilt hat; (3) 
+4.4.2. der Nummer dieser Regelung, mit dem nachgestellten Buchstaben „R", einem Bindestrich und der Genehmigungsnummer rechts neben dem Kreis nach Absatz 4.4.1. 
+4.5. Entspricht das Fahrzeug einem Fahrzeugtyp, der nach einer oder mehreren anderen Regelungen zum Übereinkommen in dem Land genehmigt wurde, das die Genehmigung nach dieser Regelung erteilt hat, dann braucht das Zeichen nach Absatz 4.4.1 nicht wiederholt zu werden; in diesem Fall sind die Regelungs- und Genehmigungsnummern und die zusätzlichen Zeichen aller Regelungen, aufgrund derer die Genehmigung erteilt wurde, untereinander rechts neben dem Zeichen gemäß Absatz 4.4.1 anzuordnen. 4.6. Das Genehmigungszeichen muss deutlich lesbar und dauerhaft sein. 4.7. Das Genehmigungszeichen ist in der Nähe des Typenschilds oder auf diesem selbst anzubringen.
+5. Vorschriften
+5.1. Allgemeine Anforderungen
+5.1.1. Jedes Fahrzeug, das mit einem der Definition in Absatz 2.1 entsprechenden AEBS ausgerüstet ist, muss bei Aktivierung und Betrieb innerhalb der vorgeschriebenen Geschwindigkeitsbereiche folgende Leistungsanforderungen erfüllen:
+
+5.1.1.1. Absätze 5.1 und 5.3 bis 5.6 dieser Regelung: alle Fahrzeuge. 5.1.1.2. Absatz 5.2.1 dieser Regelung: Fahrzeuge, die zur Genehmigung für das Szenario „Pkw gegen Pkw" vorgeführt werden. 5.1.1.3. Absatz 5.2.2 dieser Regelung: Fahrzeuge, die zur Genehmigung für das Szenario „Pkw gegen Fußgänger" vorgeführt werden. 5.1.1.4. Absatz 5.2.3 dieser Regelung: Fahrzeuge, die zur Genehmigung für das Szenario „Pkw gegen Fahrrad" vorgeführt werden. 5.1.2. Die Wirksamkeit des AEBS darf durch magnetische oder elektrische Felder nicht beeinträchtigt werden. Dies ist durch Erfüllung der technischen Anforderungen und durch Einhaltung der Übergangsbestimmungen der Änderungsserie 06 zu UN-Regelung Nr. 10 nachzuweisen. 5.1.3. Die Übereinstimmung der elektronischen Fahrzeugsteuersysteme mit den Sicherheitsaspekten ist anhand der Vorschriften in Anhang 3 nachzuweisen. 5.1.4. Warnungen und Informationen
+Zusätzlich zu den in den Absätzen 5.2.1.1 und 5.2.2.1 beschriebenen Kollisionswarnungen muss das System dem Fahrer die folgenden geeigneten Warnungen geben: 5.1.4.1. eine Fehlerwarnung bei einer Störung des AEBS, die die Erfüllung der Anforderungen dieser Regelung verhindert; die Warnung muss den Vorgaben in Absatz 5.5.4 entsprechen; 5.1.4.1.1. es darf zu keiner nennenswerten Zeitverzögerung zwischen den einzelnen Selbstprüfungen durch das AEBS kommen, und somit darf es auch keine Verzögerung beim Aufleuchten des Warnsignals geben, wenn es sich um eine elektrisch feststellbare Störung handelt; 5.1.4.1.2. bei Erkennung einer nicht elektrischen Störung (z. B. Blindheit des Sensors oder Fehlausrichtung des Sensors) muss das Warnsignal nach Absatz 5.1.4.1 leuchten. 5.1.4.2. wurde das System nach einer kumulativen Fahrzeit von 15 Sekunden mit einer Geschwindigkeit von mehr als 10 km/h nicht initialisiert, so ist dem Fahrer dieser Status anzuzeigen; die Anzeige dieser Informationen muss so lange andauern, bis das System erfolgreich initialisiert ist; 5.1.4.3. wenn das Fahrzeug mit einer Vorrichtung zur Deaktivierung des AEBS ausgestattet ist, muss eine Deaktivierungswarnung erfolgen, wenn das System deaktiviert wird; die Warnung muss den Vorgaben in Absatz 5.4.3 entsprechen. 5.1.5. Notbremsung
+Vorbehaltlich der Vorschriften der Absätze 5.3.1 und 5.3.2 muss das System die in den Absätzen 5.2.1.2, 5.2.2.2 und 5.2.3.2 beschriebenen Notbremsungen auslösen, um die Geschwindigkeit des Prüffahrzeugs erheblich zu senken. 5.1.6. Vermeidung von Fehlreaktionen
+Das System muss so ausgelegt sein, dass die Erzeugung von Kollisionswarnsignalen minimiert und Notbremsungen in Situationen, in denen keine Gefahr eines unmittelbar bevorstehenden Zusammenstoßes besteht, vermieden werden. Dies ist bei der Bewertung gemäß Anhang 3 nachzuweisen, und die Bewertung muss die in Anhang 3 Anlage 2 aufgeführten Szenarien beinhalten. 5.1.7. Alle Fahrzeuge, die mit einem AEBS ausgerüstet sind, müssen die Leistungsanforderungen der UN-Regelung Nr. 13-H in ihrer Änderungsserie 01 für Fahrzeuge der Klassen M1 und N1 oder der UN-Regelung Nr. 13 in ihrer Änderungsserie 11 für Fahrzeuge der Klasse N1 erfüllen und mit einer Antiblockierfunktion gemäß den Leistungsanforderungen des Anhangs 6 der UN-Regelung Nr. 13-H in ihrer Änderungsserie 01 oder des Anhangs 13 der UN-Regelung Nr. 13 in ihrer Änderungsserie 11 ausgestattet sein. 5.2. Besondere Anforderungen
+5.2.1. Szenario „Pkw gegen Pkw" 5.2.1.1. Kollisionswarnung
+Wenn eine unmittelbar bevorstehende Kollision mit einem in derselben Fahrspur vorausfahrenden Fahrzeug der Klasse M1 mit einer relativen Geschwindigkeit oberhalb der Geschwindigkeit, bis zu der das Prüffahrzeug den Zusammenstoß vermeiden kann, (im Rahmen der Bedingungen nach Absatz 5.2.1.4) erkannt wird, so muss die Kollisionswarnung nach Absatz 5.5.1 erfolgen und spätestens 0,8 Sekunden vor dem Beginn der Notbremsung ausgelöst werden. Kann die Kollision jedoch nicht rechtzeitig erkannt werden, um eine Kollisionswarnung 0,8 Sekunden vor der Notbremsung auszulösen, so muss eine Kollisionswarnung gemäß Absatz 5.5.1 und spätestens zu Beginn des Notbremseingriffs erfolgen. Die Kollisionswarnung kann abgebrochen werden, wenn die Voraussetzungen für einen Zusammenstoß nicht mehr gegeben sind. Dies ist nach den Vorschriften der Absätze 6.4 und 6.5 zu prüfen. 5.2.1.2. Notbremsung
+Wenn das System die Möglichkeit eines unmittelbar bevorstehenden Zusammenstoßes erkannt hat, muss eine Bremsanforderung von mindestens 5,0 m/s2 an das Betriebsbremssystem des Fahrzeugs gerichtet werden. Dies schließt höhere Abbremsanforderungswerte als 5 m/s2 für sehr kurze Zeiträume während der Kollisionswarnung nicht aus, z. B. als haptische Warnung, um die Aufmerksamkeit des Fahrers zu erregen. Die Notbremsung kann abgebrochen werden oder (ggf.) die Bremsanforderung unter den vorstehend genannten Schwellenwert gesenkt werden, wenn die Bedingungen für einen Zusammenstoß nicht mehr gegeben sind oder die Gefahr eines Zusammenstoßes zurückgegangen ist. Dies wird gemäß den Absätzen 6.4 und 6.5 dieser Regelung geprüft. 5.2.1.3. Geschwindigkeitsbereich
+Das System muss mindestens in einem Fahrzeuggeschwindigkeitsbereich zwischen 10 km/h und 60 km/h und bei allen Beladungszuständen des Fahrzeugs aktiv sein, sofern es nicht gemäß Absatz 5.4 deaktiviert wird. 5.2.1.4. Verringerung der Geschwindigkeit durch Bremsanforderung
+Ohne Eingabe des Fahrers, die zu einer Unterbrechung nach Absatz 5.3.2 führen würde, muss das AEBS in der Lage sein, eine Aufprallgeschwindigkeit zu erreichen, die kleiner oder gleich der maximalen Aufprallgeschwindigkeit gemäß der folgenden Tabelle ist, sofern Folgendes erfüllt ist: a)
+Die äußeren Einflüsse gestatten die erforderliche Verzögerung, d. h.: i)
+Die Fahrbahn ist eben, horizontal, trocken und bietet gute Haftung; ii)
+Die Witterungsbedingungen wirken sich nicht auf die dynamische Leistung des Fahrzeugs aus (z. B. kein Sturm, nicht unter 0 °C); b)
+Der Zustand des Fahrzeugs selbst ermöglicht die erforderliche Verzögerung, z. B.: i)
+Die Reifen sind in geeignetem Zustand und ordnungsgemäß aufgepumpt; ii)
+Die Bremsen sind ordnungsgemäß funktionsfähig (Temperatur der Bremsen, Bremsklötze usw.);
+iii)
+Die Last ist nicht stark ungleichmäßig verteilt; iv)
+An das Kraftfahrzeug ist kein Anhänger angekuppelt und die Masse des Kraftfahrzeugs liegt zwischen Höchstmasse und Masse in fahrbereitem Zustand; c)
+Es herrschen keine äußeren Einflüsse, die sich auf die physikalischen Sensorfähigkeiten auswirken, d. h.: i)
+Die Umgebungsbeleuchtung beträgt mindestens 1 000 Lux und es liegt keine extreme Blendung der Sensoren vor (z. B. durch direktes blendendes Sonnenlicht oder eine stark RADAR-reflektierende Umgebung);
+ii)
+Das Aufprallzielfahrzeug ist in Bezug auf den Radarquerschnitt (RQS) oder die Form/Silhouette nicht extrem (z. B. unter dem fünften Perzentil des RQS aller Fahrzeuge der Klasse M1);
+iii)
+Es herrschen keine signifikanten Wetterbedingungen, die die Sensorfähigkeiten des Fahrzeugs beeinträchtigen würden (z. B. schwere Regenfälle, dichter Nebel, Schnee, Schmutz);
+iv)
+Es befinden sich keine Hindernisse unmittelbar über dem Fahrzeug; d)
+Die Situation ist eindeutig, d. h.: i)
+Das vorausfahrende Fahrzeug ist ein Fahrzeug der Klasse M1, unverdeckt, deutlich von anderen Gegenständen auf der Fahrspur getrennt und fährt mit konstanter Geschwindigkeit oder ist stationär; ii)
+Die Längsmittelebenen des Fahrzeugs ist um nicht mehr als 0,2 m verschoben; iii)
+Die Fahrtrichtung verläuft gerade und ohne Kurve, das Fahrzeug biegt nicht an einer Kreuzung ab und folgt seiner Fahrspur. Weichen die Bedingungen von den oben aufgeführten ab, darf das System die Steuerstrategie nicht deaktivieren oder in unangemessener Weise ändern.
+3. Antrag auf Genehmigung
+3.1. Der Antrag auf Genehmigung eines Fahrzeugtyps hinsichtlich des AEBS ist vom Fahrzeughersteller oder seinem bevollmächtigten Vertreter zu stellen.
+
+3.2. Dem Antrag ist in dreifacher Ausfertigung Folgendes beizufügen: 3.2.1. eine Beschreibung des Fahrzeugtyps im Hinblick auf die in Absatz 2.4 genannten Punkte sowie ein Dokumentationspaket, das Angaben über die Grundkonstruktion des AEBS und die Mittel zur Verbindung mit anderen Fahrzeugsystemen oder zur direkten Steuerung von Ausgangsgrößen enthält. Die Zahlen und/oder Symbole, die den Fahrzeugtyp festlegen, sind zu spezifizieren. 3.3. Ein Fahrzeug, das dem zu genehmigenden Typ entspricht, ist dem technischen Dienst zur Verfügung zu stellen, der die Prüfungen für die Genehmigung durchführt.
+Einleitung
+Zweck dieser Regelung ist die Festlegung einheitlicher Vorschriften für Notbremsassistenzsysteme (AEBS), eingebaut in Kraftfahrzeuge der Klassen M1 und N1, die überwiegend im Stadtverkehr eingesetzt werden.
+
+Das System muss eine unmittelbar bevorstehende Vorwärtskollision selbstständig erkennen, dem Fahrer eine geeignete Warnung geben und das Bremssystem des Fahrzeugs aktivieren, wodurch das Abbremsen des Fahrzeugs veranlasst wird, um einen Zusammenstoß zu verhindern oder abzumildern, falls der Fahrer nicht auf die Warnung reagiert. Im Falle eines Versagens des Systems wird der sichere Betrieb des Fahrzeugs nicht gefährdet. Bei allen Maßnahmen des Systems kann der Fahrer jederzeit mit einer bewussten Aktion, z. B. einer Lenkmaßnahme oder dem Betätigen des Gaspedals, die Kontrolle übernehmen und sich über das System hinwegsetzen. Diese Regelung kann nicht alle Verkehrsbedingungen und Infrastrukturmerkmale im Typgenehmigungsverfahren berücksichtigen; in dieser Regelung wird anerkannt, dass die in dieser Regelung geforderten Leistungen nicht unter allen Bedingungen erreicht werden können (Fahrzeugzustand, Haftung der Fahrbahn, Wetterbedingungen, verschlechterte Straßeninfrastruktur und Verkehrsszenarien usw. können sich auf die Leistungsfähigkeit des Systems auswirken). Die in der Realität vorhandenen Bedingungen und Merkmale sollten nicht in einem Maße zu Fehlwarnungen oder Fehlbremsungen führen, das den Fahrer dazu bewegen könnte, das System abzuschalten. Die Regelung enthält die Anforderungen für die Genehmigung eines AEBS, das zur Verhinderung von Zusammenstößen mit Fahrzeugen und/oder Fußgängern ausgelegt ist. Diese Regelung gilt für bereits eingebaute AEBS. Sie hindert Vertragsparteien jedoch nicht daran, den Einbau eines gemäß dieser Regelung genehmigten AEBS, das zur Verhinderung von Zusammenstößen mit Fahrzeugen und/oder Fußgängern ausgelegt ist, vorzuschreiben.
+12. Übergangsvorschriften
+12.1.
+
+Übergangsbestimmungen zur Änderungsserie 01
+12.1.1. Ab dem offiziellen Datum des Inkrafttretens der Änderungsserie 01 darf keine Vertragspartei, die diese Regelung anwendet, die Erteilung oder Anerkennung einer Typgenehmigung nach dieser Regelung in der Fassung der Änderungsserie 01 verweigern. 12.1.2. Ab dem 1. Mai 2024 sind Vertragsparteien, die diese Regelung anwenden, nicht verpflichtet, Typgenehmigungen nach der ursprünglichen Fassung dieser Regelung, die erstmals nach dem 1. Mai 2024 erteilt wurden, zu akzeptieren. 12.1.3. Bis 1. Mai 2026 sind Vertragsparteien, die diese Regelung anwenden, verpflichtet, Typgenehmigungen nach der ursprünglichen Fassung dieser Regelung, die erstmals vor dem 1. Mai 2024 erteilt wurden, zu akzeptieren. 12.1.4. Ab dem 1. Mai 2026 sind Vertragsparteien, die diese Regelung anwenden, nicht mehr verpflichtet, Typgenehmigungen nach der ursprünglichen Fassung dieser Regelung zu akzeptieren. 12.1.5. Ungeachtet des Absatzes 12.1.4 akzeptieren Vertragsparteien, die diese Regelung anwenden, bei Fahrzeugen, die nicht von den durch die Änderungsserie 01 eingeführten Änderungen betroffen sind, weiterhin Typgenehmigungen, die nach der ursprünglichen Fassung dieser Regelung erteilt wurden. 12.2. Übergangsbestimmungen zur Änderungsserie 02
+12.2.1. Ab dem offiziellen Datum des Inkrafttretens der Änderungsserie 02 darf keine Vertragspartei, die diese Regelung anwendet, die Erteilung oder Anerkennung einer Typgenehmigung nach dieser Regelung in der Fassung der Änderungsserie 02 verweigern. 12.2.2. Ab dem 1. Mai 2024 sind Vertragsparteien, die diese Regelung anwenden, nicht verpflichtet, Typgenehmigungen nach der vorhergehenden Änderungsserie zu dieser Regelung, die erstmals nach dem 1. Mai 2024 erteilt wurden, zu akzeptieren. 12.2.3. Bis 1. Juli 2026 sind Vertragsparteien, die diese Regelung anwenden, verpflichtet, Typgenehmigungen nach der vorhergehenden Änderungsserie zu dieser Regelung, die erstmals vor dem 1. Mai 2024 erteilt wurden, zu akzeptieren. 12.2.4. Ab dem 1. Juli 2026 sind Vertragsparteien, die diese Regelung anwenden, nicht mehr verpflichtet, Typgenehmigungen nach der vorhergehenden Änderungsserie zu dieser Regelung zu akzeptieren. 12.2.5. Ungeachtet des Absatzes 12.2.4 erkennen Vertragsparteien, die die vorliegende Regelung anwenden, bei Fahrzeugen, die nicht von den durch die Änderungsserie 02 eingeführten Änderungen dieser Regelung betroffen sind, Typgenehmigungen, die gemäß der vorhergehenden Änderungsserie zu der Regelung ausgestellt wurden, weiterhin an (d. h. Genehmigungen für „Pkw gegen Pkw" und/oder „Pkw gegen Fußgänger" sind von dieser neuen Serie 02 nicht betroffen). 12.3. Allgemeine Übergangsbestimmungen
+12.3.1. Vertragsparteien, die diese Regelung anwenden, dürfen Typgenehmigungen oder Erweiterungen von Typgenehmigungen nach den vorhergehenden Änderungsserien zu dieser Regelung erteilen. 12.3.2. Vertragsparteien, die diese Regelung anwenden, erteilen weiterhin Erweiterungen von Genehmigungen nach einer der vorhergehenden Änderungsserien zu dieser Regelung. (1) Entsprechend den Definitionen in der Gesamtresolution über Fahrzeugtechnik (R.E.3), Dokument ECE/TRANS/WP.29/78/Rev.6, Absatz 2 — https://unece.org/transport/standards/transport/vehicle-regulations-wp29/resolutions. (2) Diese Regelung bietet auch eine zu den Anforderungen der UN-Regelung Nr. 131 alternative Reihe von Anforderungen für Fahrzeuge der Klasse M2 und für Fahrzeuge der Klassen M3/N2 mit einem Höchstgewicht weniger als oder gleich 8 Tonnen, die mit hydraulischen Bremssystemen ausgerüstet sind. Für die vorstehend beschriebenen Fahrzeuge erkennen Vertragsparteien, die sowohl die UN-Regelung Nr. 131 als auch die vorliegende Regelung anwenden, Genehmigungen nach beiden Regelungen als gleichermaßen gültig an. (3) Die Kennzahlen der Vertragsparteien des Übereinkommens von 1958 finden sich in Anhang 3 der Gesamtresolution über Fahrzeugtechnik (R.E.3), Dokument ECE/TRANS/WP.29/78/Rev.6., Anhang 3 —https://unece.org/transport/standards/transport/vehicle-regulations-wp29/resolutions. (4) Für relative Geschwindigkeiten zwischen den aufgeführten Werten (z. B. 53 km/h) gilt die maximale relative Aufprallgeschwindigkeit (d. h. 30/30 km/h), die der nächsthöheren relativen Geschwindigkeit (d. h. 55 km/h) zugeordnet ist. Für größere Massen als die Masse in fahrbereitem Zustand gilt die der Gesamtmasse zugeordnete maximale relative Aufprallgeschwindigkeit. (5) Für relative Geschwindigkeiten zwischen den aufgeführten Werten (z. B. 53 km/h) gilt die maximale relative Aufprallgeschwindigkeit (d. h. 35/30 km/h), die der nächsthöheren relativen Geschwindigkeit (d. h. 55 km/h) zugeordnet ist. Für größere Massen als die Masse in fahrbereitem Zustand gilt die der Gesamtmasse zugeordnete maximale relative Aufprallgeschwindigkeit. (6) Für relative Geschwindigkeiten zwischen den aufgeführten Werten (z. B. 53 km/h) gilt die maximale relative Aufprallgeschwindigkeit (d. h. 30/30 km/h), die der nächsthöheren relativen Geschwindigkeit (d. h. 55 km/h) zugeordnet ist. Für größere Massen als die Masse in fahrbereitem Zustand gilt die der Gesamtmasse zugeordnete maximale relative Aufprallgeschwindigkeit. (7) Für Geschwindigkeiten des Prüffahrzeugs zwischen den aufgeführten Werten (z. B. 53 km/h) gilt die maximale Aufprallgeschwindigkeit (d. h. 35/30 km/h), die der nächsthöheren Geschwindigkeit des Prüffahrzeugs (d. h. 55 km/h) zugeordnet ist. Für größere Massen als die Masse in fahrbereitem Zustand gilt die der Gesamtmasse zugeordnete maximale relative Aufprallgeschwindigkeit. (8) Für Prüffahrzeuggeschwindigkeiten zwischen den aufgeführten Werten (z. B. 53 km/h) gilt die maximale relative Aufprallgeschwindigkeit (d. h. 35/35 km/h), die der nächsthöheren relativen Geschwindigkeit (d. h. 55 km/h) zugeordnet ist. Für größere Massen als die Masse in fahrbereitem Zustand gilt die der Gesamtmasse zugeordnete maximale relative Aufprallgeschwindigkeit. (9) Für Prüffahrzeuggeschwindigkeiten zwischen den aufgeführten Werten (z. B. 53 km/h) gilt die maximale relative Aufprallgeschwindigkeit (d. h. 40/35 km/h), die der nächsthöheren relativen Geschwindigkeit (d. h. 55 km/h) zugeordnet ist. Für größere Massen als die Masse in fahrbereitem Zustand gilt die der Gesamtmasse zugeordnete maximale relative Aufprallgeschwindigkeit. (10) Die UNECE-Sekretariate stellen die Online-Plattform („/343 Application") für den Austausch solcher Informationen mit dem Sekretariat bereit: https://www.unece.org/trans/main/wp29/datasharing.html.
+6. Prüfverfahren
+6.1. Prüfbedingungen
+6.1.1. Prüfoberfläche:
+
+6.1.1.1. Die Prüfung ist auf einer Fahrbahn mit ebener und trockener Beton- oder Asphaltoberfläche, die gute Haftung bietet, durchzuführen. 6.1.1.2. Die Prüfstrecke muss eine gleichförmige Neigung zwischen null und 1 Prozent haben. 6.1.2. Die Umgebungstemperatur muss zwischen 0 °C und 45 °C liegen. 6.1.3. Die horizontale Sichtweite muss die Beobachtung des Aufprallziels während der gesamten Prüfung ermöglichen. 6.1.4
+Die Prüfungen dürfen nur stattfinden, wenn die Ergebnisse nicht vom Wind beeinflusst werden. 6.1.5. Die natürliche Umgebungsbeleuchtung muss im Prüfbereich homogen sein und beim Szenario „Pkw gegen Pkw" gemäß Absatz 5.2.1 mehr als 1 000 Lux, beim Szenario „Pkw gegen Fußgänger" gemäß Absatz 5.2.2 mehr als 2 000 Lux und bei Szenario „Pkw gegen Fußgänger" gemäß Absatz 5.2.3 mehr als 2 000 Lux betragen. Es sollte sichergestellt sein, dass bei Fahrt in Richtung tief stehender Sonne oder in der der tief stehenden Sonne entgegengesetzten Richtung keine Prüfungen durchgeführt werden. 6.1.6. Auf Antrag des Herstellers und mit Zustimmung des technischen Dienstes können Prüfungen unter abweichenden Prüfbedingungen durchgeführt werden (weniger optimale Bedingungen, z. B. auf einer nicht trockenen Oberfläche, unterhalb der angegebenen Mindestumgebungstemperatur), wobei die Leistungsanforderungen weiterhin erfüllt werden müssen. 6.2. Fahrzeugbedingungen
+6.2.1. Prüfmasse
+Das Fahrzeug wird wie folgt geprüft: a)
+bei der Masse in fahrbereitem Zustand: mit einer zusätzlichen Masse von höchstens 125 kg, wenn diese zusätzliche Masse die Messausrüstung sowie eine mögliche zweite Person, die für die Aufzeichnung der Ergebnisse zum Nachweis der Einhaltung der Anforderungen in Bezug auf die Masse in fahrbereitem Zustand verantwortlich ist, umfasst und b)
+bei der Höchstmasse: Die Lastverteilung muss den Empfehlungen des Herstellers entsprechen und dem Prüfbericht beigefügt werden. Nach Beginn der Prüfung dürfen keine Änderungen mehr vorgenommen werden. Während der Prüfläufe kann der Kraftstoffstand sinken, darf aber nie unter 50 % fallen. 6.2.2. Konditionierung vor der Prüfung
+6.2.2.1. Auf Antrag des Herstellers: a)
+Das Fahrzeug kann bis zu 100 km abwechselnd auf Stadt- und Landstraßen mit öffentlichem Verkehr und den vorhandenen Elementen der Straßenausstattung gefahren werden, um das Sensorsystem zu initialisieren. b)
+Das Fahrzeug kann einer Reihe von Bremsbetätigungen unterzogen werden, um sicherzustellen, dass das Betriebsbremssystem vor der Prüfung eingefahren ist. c)
+Die Durchschnittstemperatur der Betriebsbremsen an der wärmsten Achse des Fahrzeugs, die an der Innenseite der Bremsbeläge oder an der Bremsbahn der Scheibe oder Trommel gemessen wird, beträgt vor jedem Prüflauf zwischen 65 °C und 100 °C.
+6.2.2.2. Die vom Fahrzeughersteller gewählte Strategie für die Konditionierung vor der Prüfung muss identifiziert und in den Unterlagen für die Typgenehmigung des Fahrzeugs festgehalten werden. 6.2.3. Die montierten Reifen sind zu identifizieren und in den Unterlagen für die Typgenehmigung des Fahrzeugs festzuhalten. 6.2.4. Das Fahrzeug kann mit einer Schutzausrüstung, die die Prüfergebnisse nicht beeinflusst, ausgestattet werden. 6.3. Prüfaufprallziele
+6.3.1. Das für die Prüfungen der Fahrzeugerkennung verwendete Aufprallziel muss ein regulärer, in hoher Stückzahl in Serienproduktion hergestellter Personenkraftwagen der Klasse M1 sein; alternativ kann es sich auch um ein „weiches Aufprallziel" handeln, das einem solchen Personenkraftwagen hinsichtlich seiner Identifikationsmerkmale in Bezug auf das gemäß ISO 19206-3:2021 zu prüfende AEBS-Sensorsystem entspricht. Der Bezugspunkt für die Lage des Fahrzeugs muss der hinterste Punkt auf der Mittellinie des Fahrzeugs sein. 6.3.2. Bei dem für die Prüfungen der Fußgängererkennung verwendeten Aufprallziel muss es sich um ein für ein Kind repräsentatives „mit Gelenken versehenes weiches Aufprallziel" handeln, das die menschlichen Merkmale repräsentiert, die für das gemäß ISO 19206-2:2018 zu prüfende AEBS-Sensorsystem gelten. 6.3.3. Bei den für die Prüfungen der Fahrraderkennung verwendeten Aufprallzielen muss es sich um ein „weiches Aufprallziel" handeln, das die Merkmale eines erwachsenen Fahrradfahrers repräsentiert, die für das gemäß ISO 19206-4:2020 zu prüfende AEBS-Sensorsystem gelten. 6.3.4. Einzelheiten, anhand derer die Aufprallziele identifiziert und nachgebaut werden können, müssen in den Typgenehmigungsunterlagen aufgeführt werden. 6.4. Warn- und Aktivierungsprüfung mit stationärem Fahrzeugaufprallziel
+Das Prüffahrzeug muss vor dem funktionellen Teil der Prüfung mindestens zwei Sekunden lang in gerader Linie auf das stationäre Aufprallziel zufahren, wobei der Versatz zwischen Prüffahrzeug und Aufprallzielmittellinie nicht mehr als 0,2 m betragen darf. Die Prüfungen sind mit einem Fahrzeug durchzuführen, das mit den in den nachstehenden Tabellen für die Klassen M1 bzw. N1 angegebenen Geschwindigkeiten fährt. Wenn dies als gerechtfertigt erachtet wird, kann der technische Dienst bei allen anderen in den Tabellen in Absatz 5.2.1.4 aufgeführten Geschwindigkeiten innerhalb des in Absatz 5.2.1.3 festgelegten Geschwindigkeitsbereichs prüfen. Prüfgeschwindigkeit des Prüffahrzeugs (Klasse M1) im Szenario „stationärem Aufprallziel"
+Gesamtmasse
+Masse in fahrbereitem Zustand
+Toleranz
+20
+20
++2/- 0
+40
+42
++ 0/- 2
+60
+60
++ 0/- 2
+Alle Werte in km/h
+Prüfgeschwindigkeit des Prüffahrzeugs (Klasse N1) im Szenario „stationärem Aufprallziel" Gesamtmasse
+Masse in fahrbereitem Zustand
+Toleranz
+20
+20
++2/- 0
+38
+42
++ 0/- 2
+60
+60
++ 0/- 2
+Alle Werte in km/h
+Der funktionelle Teil der Prüfung beginnt, wenn a)
+das Prüffahrzeug mit der erforderlichen Prüfgeschwindigkeit innerhalb der Toleranzen und des seitlichen Versatzes, die in diesem Absatz vorgeschrieben sind, fährt und b)
+der Abstand einer TTC von mindestens 4 Sekunden bis zum Aufprallziel entspricht. Die Toleranzen müssen vom Beginn des funktionellen Teils der Prüfung bis zum Eingriff durch das System eingehalten werden. 6.5. Warn- und Aktivierungsprüfung mit Fahrzeugaufprallziel in Bewegung
+Das Prüffahrzeug und das sich bewegende Aufprallziel müssen sich vor dem funktionellen Teil der Prüfung mindestens zwei Sekunden lang in gerader Linie in gleicher Richtung bewegen, wobei der Versatz zwischen Prüffahrzeug und Aufprallzielmittellinie nicht mehr als 0,2 m betragen darf. Die Prüfungen sind mit einem Fahrzeug durchzuführen, das mit den in der nachstehenden Tabelle für Fahrzeuge der Klasse M1 bzw. N1 angegebenen Geschwindigkeiten fährt, und mit einem Aufprallziel, das sich mit einer Geschwindigkeit von 20 km/h bewegt (mit einer Toleranz von + 0/- 2 km/h für Aufprallzielfahrzeuge). Wenn dies als gerechtfertigt erachtet wird, kann der technische Dienst das Prüffahrzeug und das Aufprallzielfahrzeug bei allen anderen Geschwindigkeiten innerhalb des in Absatz 5.2.1.3 festgelegten Geschwindigkeitsbereichs prüfen. Prüfgeschwindigkeit des Prüffahrzeugs (Klasse M1) im Szenario „bewegliches Aufprallziel"
+Gesamtmasse
+Masse in fahrbereitem Zustand
+Toleranz
+30
+30
++2/- 0
+60
+60
++ 0/- 2
+Alle Werte in km/h
+Prüfgeschwindigkeit des Prüffahrzeugs (Klasse N1) im Szenario „bewegliches Aufprallziel" Gesamtmasse
+Masse in fahrbereitem Zustand
+Toleranz
+30
+30
++2/- 0
+58
+60
++ 0/- 2
+Alle Werte in km/h
+Der funktionelle Teil der Prüfung beginnt, wenn a)
+das Prüffahrzeug mit der erforderlichen Prüfgeschwindigkeit innerhalb der Toleranzen und des seitlichen Versatzes, die in diesem Absatz vorgeschrieben sind, fährt und b)
+der Abstand einer TTC von mindestens 4 Sekunden bis zum Aufprallziel entspricht. Die Toleranzen müssen vom Beginn des funktionellen Teils der Prüfung bis zum Eingriff durch das System eingehalten werden.
+7. Änderungen des Fahrzeugtyps und Erweiterung der Genehmigung
+7.1. Jede Änderung eines Fahrzeugtyps im Sinne von Absatz 2.4 ist der Typgenehmigungsbehörde mitzuteilen, die die Genehmigung für den Fahrzeugtyp erteilt hat.
+
+Die Typgenehmigungsbehörde kann dann
+7.1.1. entweder zu dem Schluss gelangen, dass die vorgenommenen Änderungen keine nennenswerten nachteiligen Wirkungen haben und der Fahrzeugtyp weiterhin die Voraussetzungen für die Genehmigung erfüllt, und die Genehmigung erweitern,
+7.1.2. oder zu dem Schluss gelangen, dass der Fahrzeugtyp die Voraussetzungen für die Genehmigung nicht mehr erfüllt und vor der Erweiterung der Genehmigung weitere Prüfungen erforderlich sind. 7.2. Die Bestätigung oder Versagung der Genehmigung ist den Vertragsparteien des Übereinkommens, die diese Regelung anwenden, unter Angabe der Änderungen nach dem Verfahren gemäß Absatz 4.3 mitzuteilen. 7.3. Die Typgenehmigungsbehörde unterrichtet die anderen Vertragsparteien mit dem Mitteilungsblatt in Anhang 1 dieser Regelung über die Erweiterung der Genehmigung. Sie teilt jeder Erweiterung eine laufende Nummer zu, die sogenannte Erweiterungsnummer.
+8. Übereinstimmung der Produktion
+8.1. Die Verfahren zur Kontrolle der Übereinstimmung der Produktion müssen den in Anlage 1 zum Übereinkommen von 1958 (E/ECE/TRANS/505/Rev.3) beschriebenen Verfahren entsprechen, wobei folgende Vorschriften eingehalten sein müssen:
+
+8.2. Jedes Fahrzeug, das nach dieser Regelung genehmigt wurde, muss hinsichtlich der Herstellung dem genehmigten Fahrzeugtyp entsprechen und die Anforderungen gemäß Absatz 5 erfüllen. 8.3. Die Typgenehmigungsbehörde, die die Genehmigung erteilt hat, kann jederzeit die Übereinstimmung der Kontrollmethoden für jede Produktionseinheit überprüfen. Diese Überprüfungen werden normalerweise einmal alle zwei Jahre durchgeführt.
+9. Maßnahmen bei Abweichungen in der Produktion
+9.1. Die für einen Fahrzeugtyp nach dieser Regelung erteilte Genehmigung kann zurückgenommen werden, wenn die Anforderungen von Absatz 8 nicht erfüllt werden.
+
+9.2. Nimmt eine Vertragspartei des Übereinkommens eine von ihr erteilte Genehmigung zurück, so hat sie davon unverzüglich die anderen Vertragsparteien, die diese Regelung anwenden, mit einem Mitteilungsblatt zu unterrichten, das dem Muster in Anhang 1 dieser Regelung entspricht.
+10. Endgültige Einstellung der Produktion
+Stellt der Inhaber der Genehmigung die Produktion eines nach dieser Regelung genehmigten Fahrzeugtyps endgültig ein, so hat er hierüber die Typgenehmigungsbehörde, die die Genehmigung erteilt hat, zu unterrichten.
+
+Diese benachrichtigt ihrerseits die anderen Vertragsparteien des Übereinkommens, die diese Regelung anwenden, mit einem Mitteilungsblatt, das dem Muster in Anhang 1 dieser Reglung entspricht.
+11. Namen und Anschriften der technischen Dienste, die die Prüfungen für die Genehmigung durchführen, und der Typgenehmigungsbehörden
+Die Vertragsparteien des Übereinkommens, die diese Regelung anwenden, übermitteln dem Sekretariat der Vereinten Nationen (10) die Namen und Anschriften der technischen Dienste, die die Prüfungen für die Genehmigung durchführen, und der Typgenehmigungsbehörden, die die Genehmigung erteilen und denen die in anderen Ländern ausgestellten Mitteilungsblätter über die Erteilung oder Erweiterung oder Versagung oder Rücknahme der Genehmigung zu übersenden sind.
+2.1. „Notbremsassistenzsystem" oder „AEBS" bezeichnet ein System, das eine unmittelbar bevorstehende Vorwärtskollision selbstständig erkennen und das Abbremsen des Fahrzeugs veranlassen kann, um einen Zusammenstoß zu verhindern oder abzumildern.
+2. Begriffsbestimmungen
+Für die Zwecke dieser Regelung gelten folgende Begriffsbestimmungen:
+
+2.1. „Notbremsassistenzsystem" oder „AEBS" bezeichnet ein System, das eine unmittelbar bevorstehende Vorwärtskollision selbstständig erkennen und das Abbremsen des Fahrzeugs veranlassen kann, um einen Zusammenstoß zu verhindern oder abzumildern. 2.2. „Notbremsung" bezeichnet eine Bremsanforderung, die vom AEBS an das Betriebsbremssystem des Fahrzeugs gerichtet wird. 2.3. „Kollisionswarnung" bezeichnet eine Warnung, die vom AEBS an den Fahrer gerichtet wird, wenn das AEBS eine unmittelbar bevorstehende Vorwärtskollision festgestellt hat. 2.4. „Fahrzeugtyp hinsichtlich des Notbremsassistenzsystems" bezeichnet Fahrzeuge, die sich in wesentlichen Punkten wie den folgenden nicht voneinander unterscheiden: a)
+Fahrzeugmerkmale, die die Leistung des AEBS erheblich beeinflussen; b)
+Typ und Bauart des AEBS. 2.5. „Prüffahrzeug" bezeichnet das Fahrzeug, das geprüft wird. 2.6. „Weiches Aufprallziel" bezeichnet ein Aufprallziel, das im Falle eines Zusammenstoßes möglichst geringe Schäden davonträgt und möglichst geringe Schäden am Prüffahrzeug hervorruft. 2.7. „Fahrzeugaufprallziel" bezeichnet ein Aufprallziel, das ein Fahrzeug darstellt. 2.8. „Fußgängeraufprallziel" bezeichnet ein weiches Aufprallziel, das einen Fußgänger darstellt. 2.9. „Fahrradaufprallziel" bezeichnet ein weiches Aufprallziel, das ein Fahrrad mit Fahrradfahrer darstellt. 2.10. „Gemeinsames Feld" bezeichnet einen Bereich, in dem zwei oder mehr Zustandsinformationen (z. B. Symbole) — allerdings nicht gleichzeitig — angezeigt werden können. 2.11. „Selbstprüfung" bezeichnet eine integrierte Funktion, die, zumindest während das System aktiv ist, kontinuierlich nach einer Systemstörung sucht. 2.12. „Zeit bis zum Zusammenstoß" oder „TTC" (Time to Collision) bezeichnet den Zeitwert, der sich ergibt, wenn der Längsabstand (in Fahrtrichtung des Prüffahrzeugs) zwischen dem Prüffahrzeug und dem Aufprallziel zu einem bestimmten Zeitpunkt durch die relative Geschwindigkeit des Prüffahrzeugs in Längsrichtung und des Aufprallziels geteilt wird. 2.13. „Trockene Fahrbahn, die gute Haftung bietet" bezeichnet eine Fahrbahn mit einem ausreichenden nominalen maximalen Bremskoeffizienten (PBC), sodass Folgendes möglich ist: a)
+eine mittlere Vollverzögerung von mindestens 9 m/s2 oder b)
+die bauartbedingte maximale Verzögerung des betreffenden Fahrzeugs
+je nachdem, welcher Wert niedriger ist. 2.14. „Ausreichender nominaler maximaler Bremskoeffizient" oder „ausreichender nominaler PBC" (Peak Braking Coefficient) bezeichnet einen Reibungskoeffizienten der Fahrbahnoberfläche von a)
+0,9, wenn gemessen mit dem Standard-Referenzreifen der American Society for Testing and Materials (ASTM) E1136-19 nach der ASTM-Methode E1337-19 bei einer Geschwindigkeit von 40 mph, b)
+1,017, wenn gemessen nach einem der folgenden Verfahren: i)
+entweder mit dem Standard-Referenzreifen der American Society for Testing and Materials (ASTM) F2493-20 nach der ASTM-Methode E1337-19 bei einer Geschwindigkeit von 40 mph oder
+ii)
+nach der in Anhang 6 Anlage 2 der UN-Regelung Nr. 13-H spezifizierten k-Test-Methode. c)
+erforderlichen Wert, um die bauartbedingte maximale Verzögerung des betreffenden Fahrzeugs zu ermöglichen, wenn er nach der k-Test-Methode in Anhang 13 Anlage 2 der UN-Regelung Nr. 13 gemessen wird. 2.15. „Initialisierung" bezeichnet den Prozess des Inbetriebsetzens des Systems nach dem Einschalten des Fahrzeugs, bis es voll funktionsfähig ist. 2.16. „Masse eines Fahrzeugs in fahrbereitem Zustand" bezeichnet die Masse eines unbeladenen Fahrzeugs mit Aufbau, einschließlich Kühlflüssigkeit, Ölen, mindestens 90 % des Kraftstoffs, 100 % der sonstigen Flüssigkeiten, Fahrer (75 kg), jedoch mit Ausnahme von Brauchwasser, Werkzeugen, Ersatzrad. 2.17. „Höchstmasse" bezeichnet die vom Fahrzeughersteller angegebene technisch zulässige Masse (diese Masse kann höher sein als die von der nationalen Behörde festgelegte „zulässige Gesamtmasse"). 2.18. Die mittlere Vollverzögerung (dm) wird als Mittelwert der Verzögerung, bezogen auf den im Intervall vb bis ve zurückgelegten Weg, nach folgender Formel berechnet: {{IMAGE:Image_1, Caption:Formula for calculating mean fully developed deceleration ($d_m$).}} Dabei gilt: vo
+=
+Ausgangsgeschwindigkeit des Fahrzeugs in km/h,
+vb
+=
+Fahrzeuggeschwindigkeit bei 0,8 vo in km/h,
+ve
+=
+Fahrzeuggeschwindigkeit bei 0,1 vo in km/h,
+sb
+=
+zurückgelegter Weg zwischen vo und vb in Metern,
+se
+=
+zurückgelegter Weg zwischen vo und vb in Metern,
+Die Geschwindigkeit und der Weg sind mit Messgeräten zu ermitteln, die im Bereich der vorgeschriebenen Prüfgeschwindigkeit eine Genauigkeit von ± 1 % aufweisen. Der Wert für dm kann außer durch Messung von Geschwindigkeit und Strecke auch mithilfe anderer Verfahren bestimmt werden; in diesem Fall muss die Genauigkeit von dm innerhalb von ± 3 % liegen.
+2.2. „Notbremsung" bezeichnet eine Bremsanforderung, die vom AEBS an das Betriebsbremssystem des Fahrzeugs gerichtet wird.
+Bei einem Fehlerfall im System können zum Beispiel folgende Konzepte genutzt werden: a)
+Rückfall auf ein Teilsystem, b)
+Übergang auf ein getrenntes Backup-System, c)
+Wegschalten der übergeordneten Funktion.
+
+Im Fehlerfall wird der Fahrer z. B. durch ein Warnsignal oder durch eine Nachrichtenanzeige gewarnt. Wenn das System nicht vom Fahrer dadurch deaktiviert worden ist, dass z. B. der Zündschalter (Anlassschalter) in die Aus-Stellung gebracht oder die betreffende Funktion ausgeschaltet wurde, wenn dafür ein besonderer Schalter vorhanden ist, muss die Warnung erfolgen, solange der Fehlerzustand anhält. 3.4.3.1. Wenn bei dem gewählten Konzept bei bestimmten Fehlerzuständen der Rückfall auf ein Teilsystem ausgewählt wird, sind diese Zustände und die daraus resultierenden Funktionseinschränkungen anzugeben. 3.4.3.2. Wenn bei dem gewählten Konzept ein zweites Werkzeug (Backup-Werkzeug) zur Erreichung der Zielgrößen des Fahrzeugsteuersystems ausgewählt wird, sind die Prinzipien des Übergangsmechanismus, die Logik, die Redundanz und alle vorgesehenen Backup-Überwachungsmerkmale darzustellen und die daraus resultierenden Funktionseinschränkungen anzugeben. 3.4.3.3. Wenn bei dem gewählten Konzept das Wegschalten der übergeordneten Funktion ausgewählt wird, müssen alle entsprechenden Ausgangssteuersignale, die mit dieser Funktion zusammenhängen, gesperrt werden, damit das Ausmaß der vorübergehenden Störung begrenzt wird. 3.4.4. Die Dokumentation muss durch eine Analyse ergänzt werden, in der in allgemeinen Worten dargestellt ist, wie das System sich beim Auftreten einer einzelnen Gefahr oder eines einzelnen Fehlers verhält, die eine Auswirkung auf die Fahrzeugsteuerung oder die Fahrzeugsicherheit haben. Die gewählten analytischen Ansätze sind vom Hersteller festzulegen und zu aktualisieren und zum Zeitpunkt der Typgenehmigung zur Prüfung durch den technischen Dienst offen zu legen. Der technische Dienst führt eine Bewertung der Anwendung der analytischen Ansätze durch. Die Prüfung umfasst Folgendes: a)
+Prüfung des Sicherheitsansatzes auf Ebene des Konzepts (Fahrzeugs) einschließlich der Bestätigung, dass Interaktionen mit anderen Fahrzeugsystemen berücksichtigt sind. Dieser Ansatz stützt sich auf eine für Systemsicherheit geeignete Gefahren-/Risikoanalyse. b)
+Prüfung des Sicherheitsansatzes auf Ebene des Systems. Dieser Ansatz stützt sich auf Ergebnisse einer Fehler-Möglichkeits- und -Einfluss-Analyse (FMEA), einer Fehlerbaumanalyse (FTA) oder eines vergleichbaren, zur Untersuchung der Systemsicherheit geeigneten Analyseverfahrens. c)
+Prüfung der Validierungspläne und -ergebnisse. Für diese Validierung ist beispielsweise eine Prüfung nach dem Hardware-in-the-Loop-Verfahren (HiL), eine Betriebsprüfung des Fahrzeugs auf der Straße oder jedes für die Validierung geeignete Mittel zu verwenden. Die Bewertung besteht aus Kontrollen von Gefahren und Fehlern, die vom technischen Dienst ausgewählt werden, um festzustellen, dass die Erklärung des Sicherheitskonzepts durch den Hersteller verständlich und logisch ist und dass die Validierungspläne geeignet sind und ausgefüllt wurden. Der technische Dienst kann Prüfungen durchführen oder verlangen, dass Prüfungen wie in Absatz 4 dargelegt durchgeführt werden, um das Sicherheitskonzept zu überprüfen. 3.4.4.1. In dieser Dokumentation sind die überwachten Parameter aufzulisten, und für jeden Fehlerzustand nach Absatz 3.4.4 dieses Anhangs ist das Warnsignal anzugeben, das dem Fahrer und/oder Wartungspersonal/Prüfer zu geben ist. 3.4.4.2. In dieser Dokumentation sind die Maßnahmen zu beschreiben, die ergriffen wurden, um sicherzustellen, dass das System den sicheren Betrieb des Fahrzeugs nicht behindert, wenn die Leistung des Systems durch Umweltbedingungen (z. B. Klima, Temperatur, Eindringen von Staub oder Wasser, Eis) beeinträchtigt ist. 4. Verifikation und Prüfung
+4.1. Die Arbeitsweise des Systems, die in der Dokumentation nach Absatz 3 dargestellt ist, ist wie folgt zu prüfen: 4.1.1. Verifikation der Arbeitsweise des Systems
+Der technische Dienst prüft das System unter normalen Bedingungen, indem er eine Reihe von Funktionen prüft, die er aus der vom Hersteller nach Absatz 3.2 angegebenen Liste auswählt. Bei komplexen elektronischen Systemen müssen diese Prüfungen Szenarien umfassen, bei denen eine angegebene Funktion übersteuert wird. 4.1.2. Verifikation des Sicherheitskonzepts nach Absatz 3.4
+Die Reaktion des Systems ist unter dem Einfluss einer Störung in jeder einzelnen Baueinheit zu prüfen, indem entsprechende Ausgangssignale an elektrische Baueinheiten oder mechanische Teile übertragen werden, um die Auswirkungen interner Fehler innerhalb der Baueinheit zu simulieren. Der technische Dienst führt diese Prüfung für mindestens eine einzelne Baueinheit durch, prüft jedoch nicht die Reaktion des Systems auf mehrere gleichzeitige Fehlfunktionen einzelner Baueinheiten. Der technische Dienst überprüft, dass bei diesen Prüfungen Aspekte abgedeckt werden, die sich auf die Steuerbarkeit sowie Nutzerinformationen (Mensch-Maschine-Schnittstelle) auswirken. 4.1.2.1. Die Ergebnisse der Verifikation müssen mit der dokumentierten Zusammenfassung der Fehleranalyse übereinstimmen, sodass aufgrund der Gesamtwirkung das Sicherheitskonzept und die Ausführung als ausreichend bestätigt werden können. 5. Berichterstattung durch den technischen Dienst
+Die Berichterstattung über die Bewertung durch den technischen Dienst wird auf eine Weise durchgeführt, die ihre Nachverfolgbarkeit gewährleistet, z. B. werden die Fassungen der kontrollierten Unterlagen codiert und in den Aufzeichnungen des technischen Diensts aufgeführt. Ein Beispiel für eine mögliche Gestaltung des Bewertungsformulars, das vom technischen Dienst an die Typgenehmigungsbehörde übermittelt wird, wird in Anlage 1 zu diesem Anhang gegeben.
+Weichen die Bedingungen von den oben aufgeführten ab, darf das System die Steuerstrategie nicht deaktivieren oder in unangemessener Weise ändern. Dies ist vom Hersteller gemäß Anhang 3 der vorliegenden Regelung nachzuweisen; falls dies als gerechtfertigt erachtet wird, kann der technische Dienst in der Folge Prüfungen unter Bedingungen durchführen, die von den vorstehend genannten oder den in Absatz 6 aufgeführten Bedingungen abweichen. Begründung und Ergebnisse der Überprüfung sind dem Prüfbericht beizufügen. Maximale relative Aufprallgeschwindigkeit (km/h) für ein Fahrzeug der Klasse M1
+ (4) Relative Geschwindigkeit (km/h)
+Stationär/Fahrend
+Gesamtmasse
+Masse in fahrbereitem Zustand
+10
+0,00
+0,00
+15
+0,00
+0,00
+20
+0,00
+0,00
+25
+0,00
+0,00
+30
+0,00
+0,00
+35
+0,00
+0,00
+40
+0,00
+0,00
+42
+10,00
+0,00
+45
+15,00
+15,00
+50
+25,00
+25,00
+55
+30,00
+30,00
+60
+35,00
+35,00
+Maximale relative Aufprallgeschwindigkeit (km/h) für Fahrzeuge der Klasse N1
+ (5) Relative Geschwindigkeit (km/h)
+Stationär/Fahrend
+Gesamtmasse
+Masse in fahrbereitem Zustand
+10
+0,00
+0,00
+15
+0,00
+0,00
+20
+0,00
+0,00
+25
+0,00
+0,00
+30
+0,00
+0,00
+32
+0,00
+0,00
+35
+0,00
+0,00
+38
+0,00
+0,00
+40
+10,00
+0,00
+42
+15,00
+0,00
+45
+20,00
+15,00
+50
+30,00
+25,00
+55
+35,00
+30,00
+60
+40,00
+35,00
+Alle Werte in km/h
+5.2.2. Szenario „Pkw gegen Fußgänger"
+5.2.2.1. Kollisionswarnung
+Wenn das AEBS die Möglichkeit eines Zusammenstoßes mit einem Fußgänger, der die Straße mit einer konstanten Geschwindigkeit von 5 km/h überquert, (im Rahmen der Bedingungen nach Absatz 5.2.2.4) erkannt hat, muss eine Kollisionswarnung gemäß Absatz 5.5.1 und spätestens zu Beginn des Notbremseingriffs erfolgen. Die Kollisionswarnung kann abgebrochen werden, wenn die Voraussetzungen für einen Zusammenstoß nicht mehr gegeben sind. 5.2.2.2. Notbremsung
+Wenn das System die Möglichkeit eines unmittelbar bevorstehenden Zusammenstoßes erkannt hat, muss eine Bremsanforderung von mindestens 5,0 m/s2 an das Betriebsbremssystem des Fahrzeugs gerichtet werden. Dies schließt höhere Abbremsanforderungswerte als 5 m/s2 für sehr kurze Zeiträume während der Kollisionswarnung nicht aus, z. B. als haptische Warnung, um die Aufmerksamkeit des Fahrers zu erregen. Die Notbremsung kann abgebrochen werden oder (ggf.) die Bremsanforderung unter den vorstehend genannten Schwellenwert gesenkt werden, wenn die Bedingungen für einen Zusammenstoß nicht mehr gegeben sind oder die Gefahr eines Zusammenstoßes zurückgegangen ist. Dies ist gemäß Absatz 6.6 dieser Regelung zu prüfen. 5.2.2.3. Geschwindigkeitsbereich
+Das System muss mindestens in einem Fahrzeuggeschwindigkeitsbereich zwischen 20 km/h und 60 km/h und bei allen Beladungszuständen des Fahrzeugs aktiv sein, sofern es nicht gemäß Absatz 5.4 deaktiviert wird. 5.2.2.4. Verringerung der Geschwindigkeit durch Bremsanforderung
+Ohne Eingabe des Fahrers, die zu einer Unterbrechung nach Absatz 5.3.2 führen würde, muss das AEBS in der Lage sein, eine Aufprallgeschwindigkeit zu erreichen, die kleiner oder gleich der maximalen relativen Aufprallgeschwindigkeit gemäß der folgenden Tabelle ist, sofern Folgendes erfüllt ist: a)
+Die Fußgänger sind unverdeckt und queren rechtwinklig mit einer seitlichen Geschwindigkeitskomponente von nicht mehr als 5 km/h; b)
+Die äußeren Einflüsse gestatten die erforderliche Verzögerung, d. h.: i)
+Die Fahrbahn ist eben, horizontal, trocken und bietet gute Haftung; ii)
+Die Witterungsbedingungen wirken sich nicht auf die dynamische Leistung des Fahrzeugs aus (z. B. kein Sturm, nicht unter 0 °C); c)
+Der Zustand des Fahrzeugs selbst ermöglicht die erforderliche Verzögerung, z. B.: i)
+Die Reifen sind in geeignetem Zustand und ordnungsgemäß aufgepumpt; ii)
+Die Bremsen sind ordnungsgemäß funktionsfähig (Temperatur der Bremsen, Bremsklötze usw.);
+iii)
+Die Last ist nicht stark ungleichmäßig verteilt; iv)
+An das Kraftfahrzeug ist kein Anhänger angekuppelt und die Masse des Kraftfahrzeugs liegt zwischen Höchstmasse und Masse in fahrbereitem Zustand; d)
+Es herrschen keine äußeren Einflüsse, die sich auf die physikalischen Sensorfähigkeiten auswirken, d. h.: i)
+Die Umgebungsbeleuchtung beträgt mindestens 2 000 Lux und es liegt keine extreme Blendung der Sensoren vor (z. B. durch direktes blendendes Sonnenlicht oder eine stark RADAR-reflektierende Umgebung);
+ii)
+Es herrschen keine signifikanten Wetterbedingungen, die die Sensorfähigkeiten des Fahrzeugs beeinträchtigen würden (z. B. schwere Regenfälle, dichter Nebel, Schnee, Schmutz);
+iii)
+Es befinden sich keine Hindernisse unmittelbar über dem Fahrzeug; e)
+Die Situation ist eindeutig, d. h.: i)
+Vor dem Fahrzeug queren nicht mehrere Fußgänger die Fahrbahn. ii)
+Die Silhouette des Fußgängers und die Art der Bewegung entsprechen der eines Menschen. iii)
+Der voraussichtliche Aufprallpunkt ist um nicht mehr als 0,2 m gegenüber der Längsmittelebene des Fahrzeugs verschoben. iv)
+Die Fahrtrichtung verläuft gerade und ohne Kurve, das Fahrzeug biegt nicht an einer Kreuzung ab und folgt seiner Fahrspur. v)
+In der Nähe des Fußgängers befinden sich nicht mehrere Objekte und eine eindeutige Objekttrennung ist gegeben. Weichen die Bedingungen von den oben aufgeführten ab, darf das System die Steuerstrategie nicht deaktivieren oder in unangemessener Weise ändern. Dies ist vom Hersteller gemäß Anhang 3 der vorliegenden Regelung nachzuweisen; falls dies als gerechtfertigt erachtet wird, kann der technische Dienst in der Folge Prüfungen unter Bedingungen durchführen, die von den vorstehend genannten oder den in Absatz 6 aufgeführten Bedingungen abweichen. Begründung und Ergebnisse der Überprüfung sind dem Prüfbericht beizufügen. Maximale Aufprallgeschwindigkeit (km/h) für Fahrzeuge der Klasse M1
+ (6) Geschwindigkeit des Prüffahrzeugs (km/h)
+Gesamtmasse
+Masse in fahrbereitem Zustand
+20
+0,00
+0,00
+25
+0,00
+0,00
+30
+0,00
+0,00
+35
+0,00
+0,00
+40
+0,00
+0,00
+42
+10,00
+0,00
+45
+15,00
+15,00
+50
+25,00
+25,00
+55
+30,00
+30,00
+60
+35,00
+35,00
+Alle Werte in km/h
+Maximale Aufprallgeschwindigkeit (km/h) für Fahrzeuge der Klasse N1
+ (7) Geschwindigkeit des Prüffahrzeugs (km/h)
+Gesamtmasse
+Masse in fahrbereitem Zustand
+20
+0,00
+0,00
+25
+0,00
+0,00
+30
+0,00
+0,00
+35
+0,00
+0,00
+38
+0,00
+0,00
+40
+10,00
+0,00
+42
+15,00
+0,00
+45
+20,00
+15,00
+50
+30,00
+25,00
+55
+35,00
+30,00
+60
+40,00
+35,00
+Alle Werte in km/h
+5.2.3. Szenario „Pkw gegen Fahrrad" 5.2.3.1. Kollisionswarnung
+Wenn das AEBS die Möglichkeit eines Zusammenstoßes mit einem Fahrrad, das die Straße mit einer konstanten Geschwindigkeit von 15 km/h überquert, (im Rahmen der Bedingungen nach Absatz 5.2.3.4) erkannt hat, muss eine Kollisionswarnung gemäß Absatz 5.5.1 und spätestens zu Beginn des Notbremseingriffs erfolgen. Die Kollisionswarnung kann abgebrochen werden, wenn die Voraussetzungen für einen Zusammenstoß nicht mehr gegeben sind. 5.2.3.2. Notbremsung
+Wenn das System die Möglichkeit eines unmittelbar bevorstehenden Zusammenstoßes erkannt hat, muss eine Bremsanforderung von mindestens 5,0 m/s2 an das Betriebsbremssystem des Fahrzeugs gerichtet werden. Dies schließt höhere Abbremsanforderungswerte als 5 m/s2 für sehr kurze Zeiträume während der Kollisionswarnung nicht aus, z. B. als haptische Warnung, um die Aufmerksamkeit des Fahrers zu erregen. Die Notbremsung kann abgebrochen werden oder (ggf.) die Bremsanforderung unter den vorstehend genannten Schwellenwert gesenkt werden, wenn die Bedingungen für einen Zusammenstoß nicht mehr gegeben sind oder die Gefahr eines Zusammenstoßes zurückgegangen ist. Dies ist gemäß Absatz 6.7 dieser Regelung zu prüfen. 5.2.3.3. Geschwindigkeitsbereich
+Das System muss mindestens in einem Fahrzeuggeschwindigkeitsbereich zwischen 20 km/h und 60 km/h und bei allen Beladungszuständen des Fahrzeugs aktiv sein, sofern es nicht gemäß Absatz 5.4 deaktiviert wird.
+Die Toleranzen müssen vom Beginn des funktionellen Teils der Prüfung bis zum Eingriff durch das System eingehalten werden. 6.6. Warn- und Aktivierungsprüfung mit Fußgängeraufprallziel
+6.6.1. Das Prüffahrzeug muss vor dem funktionellen Teil der Prüfung mindestens zwei Sekunden lang in gerader Linie auf den Aufprallpunkt des Fußgängeraufprallziels zufahren, wobei der voraussichtliche Versatz zwischen Prüffahrzeug und Mittellinie des Aufprallpunkts nicht mehr als 0,1 m betragen darf. Der funktionelle Teil der Prüfung beginnt, wenn a)
+das Prüffahrzeug mit der erforderlichen Prüfgeschwindigkeit innerhalb der Toleranzen und des seitlichen Versatzes, die in diesem Absatz vorgeschrieben sind, fährt und b)
+der Abstand einer TTC von mindestens 4 Sekunden bis zum Aufprallziel entspricht. Die Toleranzen müssen vom Beginn des funktionellen Teils der Prüfung bis zum Eingriff durch das System eingehalten werden. Das Fußgängeraufprallziel muss sich senkrecht zur Fahrtrichtung des Prüffahrzeugs mit einer konstanten Geschwindigkeit von 5 km/h ± 0,2 km/h bewegen, wobei die Bewegung nicht vor Beginn des funktionellen Teils der Prüfung beginnen darf. Die Position des Fußgängeraufprallziels ist mit dem Prüffahrzeug so abzustimmen, dass der Aufschlagpunkt des Fußgängeraufprallziels auf der Vorderseite des Prüffahrzeugs auf der Längsmittellinie des Prüffahrzeugs liegt, wobei eine Toleranz von höchstens 0,1 m gilt, wenn das Prüffahrzeug während des gesamten funktionellen Teils der Prüfung die vorgeschriebene Prüfgeschwindigkeit einhält und nicht abbremst. Die Prüfungen sind mit einem Fahrzeug durchzuführen, das mit den in den nachstehenden Tabellen für die Klassen M1 bzw. N1 angegebenen Geschwindigkeiten fährt. Wenn dies als gerechtfertigt erachtet wird, kann der technische Dienst bei allen anderen in der Tabelle in Absatz 5.2.2.4 aufgeführten Geschwindigkeiten innerhalb des in Absatz 5.2.2.3 festgelegten Geschwindigkeitsbereichs prüfen. Prüfgeschwindigkeit des Prüffahrzeugs (Klasse M1) im Szenario „Fußgängeraufprallziel"
+Gesamtmasse
+Masse in fahrbereitem Zustand
+Toleranz
+20
+20
++2/- 0
+40
+42
++ 0/- 2
+60
+60
++ 0/- 2
+Alle Werte in km/h
+Prüfgeschwindigkeit des Prüffahrzeugs (Klasse N1) im Szenario „Fußgängeraufprallziel" Gesamtmasse
+Masse in fahrbereitem Zustand
+Toleranz
+20
+20
++2/- 0
+38
+42
++ 0/- 2
+60
+60
++ 0/- 2
+Alle Werte in km/h
+Die oben vorgeschriebene Prüfung ist mit einem „weichen Aufprallziel" gemäß Absatz 6.3.2 durchzuführen, das einem zu Fuß gehenden Kind entspricht. 6.6.2. Die Bewertung der Aufprallgeschwindigkeit erfolgt auf der Grundlage des tatsächlichen Kontaktpunkts zwischen dem Aufprallziel und dem Fahrzeug, wobei die Fahrzeugform ohne die gemäß Absatz 6.2.4 zulässige zusätzliche Schutzausrüstung zu berücksichtigen ist. 6.7. Warn- und Aktivierungsprüfung mit Fahrradaufprallziel
+6.7.1. Das Prüffahrzeug muss vor dem funktionellen Teil der Prüfung mindestens zwei Sekunden lang in gerader Linie auf den Aufprallpunkt des Fahrradaufprallziels zufahren, wobei der voraussichtliche Versatz zwischen Prüffahrzeug und Mittellinie des Aufprallpunkts der Tretlagerwelle des Fahrrads nicht mehr als 0,1 m betragen darf. Der funktionelle Teil der Prüfung beginnt, wenn das Prüffahrzeug eine konstante Geschwindigkeit erreicht hat und sich in einem Abstand vom Aufprallpunkt befindet, der einem TTC-Zeitwert (Zeit bis zum Zusammenstoß) von mindestens 4 Sekunden entspricht. Das Fahrradaufprallziel muss sich senkrecht zur Fahrtrichtung des Prüffahrzeugs mit einer konstanten Geschwindigkeit von 15 km/h + 0/- 1 km/h bewegen, wobei die Bewegung nicht vor Beginn des funktionellen Teils der Prüfung beginnen darf. Während der Beschleunigungsphase des Fahrrads vor dem funktionellen Teil der Prüfung muss das Fahrradaufprallziel verdeckt sein. Die Position des Fahrradaufprallziels ist mit dem Prüffahrzeug so abzustimmen, dass der Aufschlagpunkt des Fahrradaufprallziels auf der Vorderseite des Prüffahrzeugs auf der Längsmittellinie des Prüffahrzeugs liegt, wobei eine Toleranz von höchstens 0,1 m gilt, wenn das Prüffahrzeug während des gesamten funktionellen Teils der Prüfung die vorgeschriebene Prüfgeschwindigkeit einhält und nicht abbremst. Die Prüfungen sind mit einem Fahrzeug durchzuführen, das mit den in den nachstehenden Tabellen für die Klassen M1 bzw. N1 angegebenen Geschwindigkeiten fährt. Wenn dies als gerechtfertigt erachtet wird, kann der technische Dienst bei allen anderen in der Tabelle in Absatz 5.2.3.4 aufgeführten Geschwindigkeiten innerhalb des in Absatz 5.2.3.3 festgelegten Geschwindigkeitsbereichs prüfen. Prüfgeschwindigkeit des Prüffahrzeugs (Klasse M1) im Szenario „Fahrradaufprallziel" Gesamtmasse
+Masse in fahrbereitem Zustand
+Toleranz
+20
+20
++2/- 0
+38
+40
++ 0/- 2
+60
+60
++ 0/- 2
+Alle Werte in km/h
+Prüfgeschwindigkeit des Prüffahrzeugs (Klasse N1) im Szenario „Fahrradaufprallziel"
+Gesamtmasse
+Masse in fahrbereitem Zustand
+Toleranz
+20
+20
++2/- 0
+36
+40
++ 0/- 2
+60
+60
++ 0/- 2
+Alle Werte in km/h
+Der funktionelle Teil der Prüfung beginnt, wenn a)
+das Prüffahrzeug mit der erforderlichen Prüfgeschwindigkeit innerhalb der Toleranzen und des seitlichen Versatzes, die in diesem Absatz vorgeschrieben sind, fährt, b)
+das Fahrradaufprallziel mit der erforderlichen Prüfgeschwindigkeit innerhalb der in diesem Absatz angegebenen Toleranzen fährt und c)
+der Abstand einer TTC von mindestens 4 Sekunden bis zum Aufprallziel entspricht. Die Toleranzen müssen vom Beginn des funktionellen Teils der Prüfung bis zum Eingriff durch das System eingehalten werden. 6.7.2. Die Bewertung der Aufprallgeschwindigkeit erfolgt auf der Grundlage des tatsächlichen Kontaktpunkts zwischen dem Aufprallziel und dem Fahrzeug, wobei die Fahrzeugform zu berücksichtigen ist. 6.8. Prüfung der Fehlererkennung
+6.8.1. Simulation einer elektrischen Störung, z. B. durch Abschalten der Stromversorgung einer AEBS-Komponente oder Abschalten einer elektrischen Verbindung zwischen AEBS-Komponenten. Bei der Simulation einer AEBS-Störung dürfen weder die elektrischen Verbindungen für das Warnsignal für den Fahrer nach Absatz 5.5.4 noch die optionale manuelle Deaktivierungssteuerung des AEBS nach Absatz 5.4.1 abgeschaltet werden. 6.8.2. Das Fehlerwarnsignal nach Absatz 5.5.4 muss aktiviert werden und höchstens 10 Sekunden lang, nachdem das Fahrzeug mit einer Geschwindigkeit von mehr als 10 km/h gefahren worden ist, aktiviert bleiben und unmittelbar nach einem anschließenden Ausschalten und Einschalten der Zündung reaktiviert werden, wobei das Fahrzeug steht, solange die simulierte Störung existiert. 6.9. Deaktivierungsprüfung
+6.9.1. Bei Fahrzeugen mit der Möglichkeit, das AEBS manuell zu deaktivieren, muss der Zündschalter (Anlassschalter) auf „ein" gestellt und das AEBS deaktiviert werden. Das Warnsignal gemäß Absatz 5.4.3 muss aktiviert werden. Dann den Zündschalter (Anlassschalter) wieder auf „aus" stellen. Den Zündschalter (Anlassschalter) anschließend wieder auf „ein" stellen und sicherstellen, dass das zuvor aktivierte Warnsignal nicht reaktiviert wird; dadurch wird angezeigt, dass das AEBS gemäß Absatz 5.4.1 wieder in Kraft gesetzt worden ist. Wird die Zündanlage mit einem Schlüssel betätigt, ist die obige Anforderung ohne Entfernen des Schlüssels zu erfüllen. 6.10. Robustheit des Systems
+6.10.1. Jedes der oben genannten Prüfszenarien, in denen ein Szenario eine Prüfanordnung bei einer bestimmten Prüfgeschwindigkeit eines Prüffahrzeugs und mit einer bestimmten Lastbedingung einer Kategorie (Pkw gegen Pkw, Pkw gegen Fußgänger, Pkw gegen Fahrrad) beschreibt, ist zweimal durchzuführen. Entspricht eine der beiden Prüffahrten nicht der geforderten Leistung, so kann die Prüfung einmal wiederholt werden. Ein Prüfszenario gilt als bestanden, wenn die geforderte Leistung in zwei Prüffahrten erreicht wird.
+5.2.3.3. Geschwindigkeitsbereich
+Das System muss mindestens in einem Fahrzeuggeschwindigkeitsbereich zwischen 20 km/h und 60 km/h und bei allen Beladungszuständen des Fahrzeugs aktiv sein, sofern es nicht gemäß Absatz 5.4 deaktiviert wird.
+
+5.2.3.4. Verringerung der Geschwindigkeit durch Bremsanforderung
+Ohne Eingabe des Fahrers, die zu einer Unterbrechung nach Absatz 5.3.2 führen würde, muss das AEBS in der Lage sein, eine Aufprallgeschwindigkeit zu erreichen, die kleiner oder gleich der maximalen relativen Aufprallgeschwindigkeit gemäß der folgenden Tabelle ist, sofern Folgendes erfüllt ist: a)
+Die Fahrradfahrer sind unverdeckt und queren rechtwinklig mit einer konstanten Geschwindigkeit zwischen 10 und 15 km/h; b)
+Die äußeren Einflüsse gestatten die erforderliche Verzögerung, d. h.: i)
+Die Fahrbahn ist eben, horizontal, trocken und bietet gute Haftung; ii)
+Die Witterungsbedingungen wirken sich nicht auf die dynamische Leistung des Fahrzeugs aus (z. B. kein Sturm, nicht unter 0 °C); c)
+Der Zustand des Fahrzeugs selbst ermöglicht die erforderliche Verzögerung, z. B.: i)
+Die Reifen sind in geeignetem Zustand und ordnungsgemäß aufgepumpt; ii)
+Die Bremsen sind ordnungsgemäß funktionsfähig (Temperatur der Bremsen, Bremsklötze usw.);
+iii)
+Die Last ist nicht stark ungleichmäßig verteilt; iv)
+An das Kraftfahrzeug ist kein Anhänger angekuppelt und die Masse des Kraftfahrzeugs liegt zwischen Höchstmasse und Masse in fahrbereitem Zustand; d)
+Es herrschen keine äußeren Einflüsse, die sich auf die physikalischen Sensorfähigkeiten auswirken, d. h.: i)
+Die Umgebungsbeleuchtung beträgt mindestens 2 000 Lux und es liegt keine extreme Blendung der Sensoren vor (z. B. durch direktes blendendes Sonnenlicht oder eine stark RADAR-reflektierende Umgebung);
+ii)
+Es herrschen keine signifikanten Wetterbedingungen, die die Sensorfähigkeiten des Fahrzeugs beeinträchtigen würden (z. B. schwere Regenfälle, dichter Nebel, Schnee, Schmutz);
+iii)
+Es befinden sich keine Hindernisse unmittelbar über dem Fahrzeug; e)
+Die Situation ist eindeutig, d. h.: i)
+Vor dem Fahrzeug queren nicht mehrere Fahrradfahrer die Fahrbahn. ii)
+Die Silhouette des Fahrradfahrers und die Art der Bewegung entsprechen der eines Menschen. iii)
+Der voraussichtliche Aufprallpunkt der Tretlagerwelle des Fahrrads ist um nicht mehr als 0,2 m gegenüber der Längsmittelebene des Fahrzeugs verschoben. iv)
+Die Fahrtrichtung verläuft gerade und ohne Kurve, das Fahrzeug biegt nicht an einer Kreuzung ab und folgt seiner Fahrspur. v)
+In der Nähe des Fahrradfahrers befinden sich nicht mehrere Objekte und eine eindeutige Objekttrennung ist gegeben. Weichen die Bedingungen von den oben aufgeführten ab, darf das System die Steuerstrategie nicht deaktivieren oder in unangemessener Weise ändern. Dies ist vom Hersteller gemäß Anhang 3 der vorliegenden Regelung nachzuweisen; falls dies als gerechtfertigt erachtet wird, kann der technische Dienst in der Folge Prüfungen unter Bedingungen durchführen, die von den vorstehend genannten oder den in Absatz 6 aufgeführten Bedingungen abweichen. Begründung und Ergebnisse der Überprüfung sind dem Prüfbericht beizufügen. Maximale Aufprallgeschwindigkeit (km/h) für Fahrzeuge der Klasse M1
+ (8) Geschwindigkeit des Prüffahrzeugs (km/h)
+Gesamtmasse
+Masse in fahrbereitem Zustand
+20
+0,00
+0,00
+25
+0,00
+0,00
+30
+0,00
+0,00
+35
+0,00
+0,00
+38
+0,00
+0,00
+40
+10,00
+0,00
+45
+25,00
+25,00
+50
+30,00
+30,00
+55
+35,00
+35,00
+60
+40,00
+40,00
+Alle Werte in km/h
+Maximale Aufprallgeschwindigkeit (km/h) für Klasse N1
+ (9) Geschwindigkeit des Prüffahrzeugs (km/h)
+Gesamtmasse
+Masse in fahrbereitem Zustand
+20
+0,00
+0,00
+25
+0,00
+0,00
+30
+0,00
+0,00
+35
+0,00
+0,00
+36
+0,00
+0,00
+38
+15,00
+0,00
+40
+25,00
+0,00
+45
+30,00
+25,00
+50
+35,00
+30,00
+55
+40,00
+35,00
+60
+45,00
+40,00
+Alle Werte in km/h
+5.3. Abbruch durch den Fahrer
+5.3.1. Das AEBS muss dem Fahrer die Möglichkeit bieten, die Kollisionswarnphase und die Notbremsung abzubrechen. 5.3.2. In den beiden oben genannten Fällen kann der Abbruch durch eine positive Aktion ausgelöst werden (z. B. Betätigen des Gaspedals, Betätigen des Fahrtrichtungsanzeigers), um zu zeigen, dass der Fahrer die Gefahrensituation erkannt hat. Der Fahrzeughersteller muss dem technischen Dienst zum Zeitpunkt der Typgenehmigung eine Liste dieser positiven Aktionen zur Verfügung stellen, und diese wird dem Prüfbericht als Anhang beigefügt. 5.4. Deaktivierung
+5.4.1. Wenn ein Fahrzeug mit einer Vorrichtung zur manuellen Deaktivierung der AEBS-Funktion ausgerüstet ist, gelten erforderlichenfalls folgende Bedingungen: 5.4.1.1. Die AEBS-Funktion muss bei Beginn jedes neuen Motorstarts (oder ggf. Zyklus) automatisch wieder in Kraft gesetzt werden. Diese Anforderung gilt nicht, wenn ein neuer Motorstart (oder ggf. Zyklus) automatisch erfolgt, z. B. beim Betrieb eines Stopp-/Start-Systems. 5.4.1.2. Die AEBS-Steuerung muss so ausgelegt sein, dass eine manuelle Deaktivierung mit weniger als zwei bewussten Betätigungen durch den Fahrzeugführer nicht möglich ist. 5.4.1.3. Die AEBS-Steuerung muss so eingebaut sein, dass sie den einschlägigen Anforderungen und Übergangsbestimmungen der UN-Regelung Nr. 121 in ihrer Änderungsserie 01 oder einer späteren Änderungsserie entspricht. 5.4.1.4. Es darf nicht möglich sein, das AEBS bei einer Geschwindigkeit über 10 km/h manuell zu deaktivieren. 5.4.2. Ist das Fahrzeug mit einer Vorrichtung zur automatischen Deaktivierung der AEBS-Funktion ausgerüstet, z. B. für Situationen wie Geländebetrieb, Betrieb als abzuschleppendes Fahrzeug, Betrieb auf einem Rollenprüfstand, Betrieb in einer Waschanlage, gelten ggf. folgende Bedingungen: 5.4.2.1. Der Fahrzeughersteller muss dem technischen Dienst zum Zeitpunkt der Typgenehmigung eine Aufstellung von Situationen, in denen die AEBS-Funktion automatisch deaktiviert wird, und der entsprechenden Kriterien zur Verfügung stellen, und diese ist dem Prüfbericht als Anhang beizufügen. 5.4.2.2. Die AEBS-Funktion muss sich wieder automatisch aktivieren, sobald die Bedingungen, die zur automatischen Deaktivierung geführt haben, nicht mehr gegeben sind. 5.4.2.3. Ist die automatische Deaktivierung der Funktion des AEBS eine Folge des manuellen Abschaltens der ESC-Funktion des Fahrzeugs durch den Fahrer, so müssen für diese Deaktivierung des AEBS mindestens zwei bewusste Handlungen des Fahrers erforderlich sein. 5.4.3. Ein konstantes optisches Warnsignal muss den Fahrer darüber informieren, dass das AEBS deaktiviert worden ist. Dazu kann das gelbe Warnsignal nach Absatz 5.5.4 verwendet werden. 5.4.4. Solange automatisierte Fahrfunktionen das Fahrzeug in Längsrichtung kontrollieren (z. B. bei aktivem ALKS), kann die AEBS-Funktion ausgesetzt oder ihre Steuerstrategien (d. h. Bremsanforderung, Warnzeit) angepasst werden, ohne dass diese dem Fahrer angezeigt wird, solange sichergestellt ist, dass das Fahrzeug mindestens die gleichen Fähigkeiten zur Kollisionsvermeidung besitzt wie die AEBS-Funktion bei manuellem Betrieb. 5.5. Warnanzeige
+5.5.1. Die in den Absätzen 5.2.1.1, 5.2.2.1 und 5.2.3.1 genannte Kollisionswarnung muss in mindestens zwei der drei zur Wahl stehenden Modi akustisch, haptisch oder optisch erfolgen. 5.5.2. Eine Beschreibung der Warnanzeige und der Reihenfolge, in der der Fahrer die Kollisionswarnsignale erhält, muss vom Fahrzeughersteller zum Zeitpunkt der Typgenehmigung vorgelegt und in den Prüfbericht aufgenommen werden. 5.5.3. Wird ein optisches Signal als Teil der Kollisionswarnung verwendet, so kann dieses das Blinken der Fehlerwarnanzeige nach Absatz 5.5.4 sein.
+5.5.4. Die Fehlerwarnung nach Absatz 5.1.4.1 muss ein konstantes gelbes optisches Warnsignal sein. 5.5.5. Die einzelnen optischen Warnsignale des AEBS müssen entweder aktiviert werden, indem der Zündschalter (Anlassschalter) auf „ein" gestellt wird oder indem der Zündschalter (Anlassschalter) auf eine Position zwischen „ein"- und „Start"-Position gestellt wird, die vom Hersteller als Prüfstellung gedacht ist (System starten (Zündung an)).
+2.3. „Kollisionswarnung" bezeichnet eine Warnung, die vom AEBS an den Fahrer gerichtet wird, wenn das AEBS eine unmittelbar bevorstehende Vorwärtskollision festgestellt hat.
+Ein Prüfszenario gilt als bestanden, wenn die geforderte Leistung in zwei Prüffahrten erreicht wird. Die Zahl der nicht bestandenen Prüffahrten in einer Kategorie darf folgende Werte nicht überschreiten: a)
+10,0 % der durchgeführten Prüffahrten für die Prüfkategorie Pkw gegen Pkw; b)
+10,0 % der durchgeführten Prüffahrten für die Prüfkategorie Pkw gegen Fußgänger und c)
+20,0 % der durchgeführten Prüffahrten für die Prüfkategorie Pkw gegen Fahrrad. 6.10.2. Die Ursache einer nicht bestandenen Prüffahrt ist zusammen mit dem technischen Dienst zu analysieren und dem Prüfbericht beizufügen. Wenn die Ursache nicht auf eine Abweichung in der Prüfanordnung zurückzuführen ist, kann der technische Dienst alle anderen Geschwindigkeiten innerhalb des in den Absätzen 5.2.1.3, 5.2.1.4, 5.2.2.3, 5.2.2.4, 5.2.3.3 oder 5.2.3.4 jeweils definierten Geschwindigkeitsbereichs prüfen. 6.10.3. Bei der Bewertung nach Anhang 3 muss der Hersteller anhand geeigneter Unterlagen nachweisen, dass das System in der Lage ist, die geforderten Leistungen zuverlässig zu erbringen.
+2.4. „Fahrzeugtyp hinsichtlich des Notbremsassistenzsystems" bezeichnet Fahrzeuge, die sich in wesentlichen Punkten wie den folgenden nicht voneinander unterscheiden: a) Fahrzeugmerkmale, die die Leistung des AEBS erheblich beeinflussen; b) Typ und Bauart des AEBS.
+5.5.5. Die einzelnen optischen Warnsignale des AEBS müssen entweder aktiviert werden, indem der Zündschalter (Anlassschalter) auf „ein" gestellt wird oder indem der Zündschalter (Anlassschalter) auf eine Position zwischen „ein"- und „Start"-Position gestellt wird, die vom Hersteller als Prüfstellung gedacht ist (System starten (Zündung an)). Diese Anforderung gilt nicht, wenn Warnleuchten in einem gemeinsamen Feld angeordnet sind. 5.5.6. Die optischen Warnsignale müssen auch bei Tageslicht sichtbar sein; der Fahrer muss von seinem Sitz aus das einwandfreie Funktionieren der Signale leicht nachprüfen können. 5.5.7. Wenn dem Fahrer ein optisches Warnsignal angezeigt wird, das ihm zeigt, dass das AEBS vorübergehend nicht verfügbar ist, etwa aufgrund ungünstiger Wetterbedingungen, so muss das Signal konstant sein. Dazu kann das Fehlerwarnsignal nach Absatz 5.5.4 verwendet werden. 5.6. Vorschriften für die regelmäßige technische Überwachung
+5.6.1. Bei einer regelmäßigen technischen Überprüfung muss der korrekte Betriebszustand des AEBS nach Einschalten der Zündung und einer Überprüfung der Glühbirnen anhand einer sichtbaren Beobachtung des Fehlerwarnsignals bestätigt werden können. Ist das Fehlerwarnsignal in einem gemeinsamen Feld angeordnet, muss vor der Prüfung des Status des Fehlerwarnsignals zunächst geprüft werden, ob das gemeinsame Feld funktionsfähig ist. 5.6.2. Zum Zeitpunkt der Typgenehmigung sind die Mittel, die zum Schutz gegen eine einfache, unbefugte Veränderung des Betriebs des vom Hersteller gewählten Fehlerwarnsignals angewendet werden, in einer vertraulichen Unterlage zu beschreiben. Diese Schutzvorschrift ist auch eingehalten, wenn eine zweite Möglichkeit zur Überprüfung des einwandfreien Funktionierens des AEBS zur Verfügung steht.
+2.5. „Prüffahrzeug" bezeichnet das Fahrzeug, das geprüft wird.
+2.6. „Weiches Aufprallziel" bezeichnet ein Aufprallziel, das im Falle eines Zusammenstoßes möglichst geringe Schäden davonträgt und möglichst geringe Schäden am Prüffahrzeug hervorruft.
+2.7. „Fahrzeugaufprallziel" bezeichnet ein Aufprallziel, das ein Fahrzeug darstellt.
+2.8. „Fußgängeraufprallziel" bezeichnet ein weiches Aufprallziel, das einen Fußgänger darstellt.
+2.9. „Fahrradaufprallziel" bezeichnet ein weiches Aufprallziel, das ein Fahrrad mit Fahrradfahrer darstellt.
+2.10. „Gemeinsames Feld" bezeichnet einen Bereich, in dem zwei oder mehr Zustandsinformationen (z. B. Symbole) — allerdings nicht gleichzeitig — angezeigt werden können.
+2.11. „Selbstprüfung" bezeichnet eine integrierte Funktion, die, zumindest während das System aktiv ist, kontinuierlich nach einer Systemstörung sucht.
+2.12. „Zeit bis zum Zusammenstoß" oder „TTC" (Time to Collision) bezeichnet den Zeitwert, der sich ergibt, wenn der Längsabstand (in Fahrtrichtung des Prüffahrzeugs) zwischen dem Prüffahrzeug und dem Aufprallziel zu einem bestimmten Zeitpunkt durch die relative Geschwindigkeit des Prüffahrzeugs in Längsrichtung und des Aufprallziels geteilt wird.
+2.13. „Trockene Fahrbahn, die gute Haftung bietet" bezeichnet eine Fahrbahn mit einem ausreichenden nominalen maximalen Bremskoeffizienten (PBC), sodass Folgendes möglich ist: a) eine mittlere Vollverzögerung von mindestens 9 m/s2 oder b) die bauartbedingte maximale Verzögerung des betreffenden Fahrzeugs je nachdem, welcher Wert niedriger ist.
+2.14. „Ausreichender nominaler maximaler Bremskoeffizient" oder „ausreichender nominaler PBC" (Peak Braking Coefficient) bezeichnet einen Reibungskoeffizienten der Fahrbahnoberfläche von a) 0,9, wenn gemessen mit dem Standard-Referenzreifen der American Society for Testing and Materials (ASTM) E
+2.15. „Initialisierung" bezeichnet den Prozess des Inbetriebsetzens des Systems nach dem Einschalten des Fahrzeugs, bis es voll funktionsfähig ist.
+2.16. „Masse eines Fahrzeugs in fahrbereitem Zustand" bezeichnet die Masse eines unbeladenen Fahrzeugs mit Aufbau, einschließlich Kühlflüssigkeit, Ölen, mindestens 90 % des Kraftstoffs, 100 % der sonstigen Flüssigkeiten, Fahrer (75 kg), jedoch mit Ausnahme von Brauchwasser, Werkzeugen, Ersatzrad.
+2.17. „Höchstmasse" bezeichnet die vom Fahrzeughersteller angegebene technisch zulässige Masse (diese Masse kann höher sein als die von der nationalen Behörde festgelegte „zulässige Gesamtmasse").
+2.18. Die mittlere Vollverzögerung (dm) wird als Mittelwert der Verzögerung, bezogen auf den im Intervall vb bis ve zurückgelegten Weg, nach folgender Formel berechnet: 
+[[IMAGE_1]].
+ Dabei gilt: vo = Ausgangsgeschwindigkeit des Fahrzeugs in km/h, vb = Fahrzeuggeschwindigkeit bei 0,8 vo in km/h, ve = Fahrzeuggeschwindigkeit bei 0,1 vo in km/h, sb = zurückgelegter Weg zwischen vo und vb in Metern, se = zurückgelegter Weg zwischen vo und vb in Metern, Die Geschwindigkeit und der Weg sind mit Messgeräten zu ermitteln, die im Bereich der vorgeschriebenen Prüfgeschwindigkeit eine Genauigkeit von ± 1 % aufweisen. Der Wert für dm kann außer durch Messung von Geschwindigkeit und Strecke auch mithilfe anderer Verfahren bestimmt werden; in diesem Fall muss die Genauigkeit von dm innerhalb von ± 3 % liegen.
+2.1. „System" bezeichnet ein elektronisches Steuersystem oder komplexes elektronisches Steuersystem, das die Steuer-Übertragungseinrichtung einer Funktion, für die diese Regelung gilt, bereitstellt oder einen Teil davon bildet. Dies schließt auch jedes andere System ein, das in den Anwendungsbereich dieser Regelung fällt, sowie Übertragungsverbindungen zu oder von anderen Systemen, die nicht in den Anwendungsbereich dieser Regelung fallen, und die eine Funktion betreffen, für die diese Regelung gilt.
+2.2. „Sicherheitskonzept" bezeichnet eine Beschreibung der Maßnahmen, die in das System (z. B. in die elektronischen Baueinheiten) integriert sind, um die Zuverlässigkeit und damit den sicheren Betrieb unter normalen und unter Störungsbedingungen, auch bei einer elektrischen Störung, zu gewährleisten. Die Möglichkeit des Rückfalls auf ein Teilsystem oder sogar ein Backup-System bei wichtigen Fahrzeugfunktionen kann Teil des Sicherheitskonzepts sein.
+2.3. „Elektronisches Steuersystem" bezeichnet eine Kombination von Baueinheiten, die bei der genannten Fahrzeugsteuerfunktion mithilfe der elektronischen Datenverarbeitung zusammenwirken sollen. Diese Systeme, die oft durch Software gesteuert sind, bestehen aus diskreten Funktionsbauteilen, wie Sensoren, elektronischen Steuergeräten und Stellgliedern, und sind durch Übertragungsverbindungen miteinander verbunden. Sie können mechanische, elektropneumatische oder elektrohydraulische Bauelemente umfassen.
+2.4. „Komplexe elektronische Fahrzeugsteuersysteme" bezeichnet elektronische Steuersysteme, bei denen eine durch ein elektronisches System oder den Fahrer gesteuerte Funktion durch ein übergeordnetes elektronisches Steuersystem/eine übergeordnete elektronische Steuerfunktion übersteuert werden kann. Eine Funktion, die übersteuert wird, wird Teil des komplexen Systems, ebenso wie alle übersteuernden Systeme/Funktionen, die in den Anwendungsbereich dieser Regelung fallen. Die Übertragungsverbindungen zu oder von übergeordneten Systemen/Funktionen außerhalb des Anwendungsbereichs dieser Regelung sind ebenfalls einzubeziehen.
+2.5. „Übergeordnete Steuersysteme/-funktionen" bezeichnet Systeme bzw. Funktionen, bei denen mit zusätzlichen Verarbeitungs- und/oder Abtastvorgängen das Fahrzeugverhalten durch Veränderungen bei den Funktionen des Fahrzeugsteuersystems verändert wird. Dadurch können komplexe Systeme ihre Zielgrößen automatisch verändern, wobei die Priorität von den abgetasteten Größen abhängt.
+2.6. „Baueinheiten" bezeichnet die kleinsten Teile von Systembestandteilen, die in diesem Anhang behandelt werden, da diese Kombinationen von Bauteilen bei der Kennzeichnung, der Auswertung oder dem Austausch als einzelne Einheiten betrachtet werden.
+2.7. „Übertragungsverbindungen" bezeichnet die Mittel, mit denen verteilte Einheiten für die Übertragung von Signalen, Betriebsdaten oder die Energieversorgung miteinander verbunden werden. Dabei handelt es sich im Allgemeinen um eine elektrische Anlage, in einigen Teilen kann sie aber auch mechanisch, pneumatisch oder hydraulisch sein.
+2.8. „Steuerungsbereich" bezeichnet den Bereich, in dem das System die Steuerung für eine bestimmte Ausgangsgröße sicherstellen sollte.
+2.9. „Systemgrenzen" bezeichnet die Grenzen der externen physikalischen Faktoren, in denen das System die Steuerung aufrechterhalten kann.
+2.10. „Sicherheitsrelevante Funktion" bezeichnet eine Funktion des Systems, die das dynamische Verhalten des Fahrzeugs verändern kann. Das System kann in der Lage sein, mehr als eine sicherheitsrelevante Funktion auszuführen.

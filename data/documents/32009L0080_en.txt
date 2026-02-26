@@ -1,0 +1,152 @@
+Article 2
+The procedure for the granting of EC component type-approval in respect of the identification of controls, tell-tales and indicators for a type of two or three-wheel motor vehicle and the conditions governing the free movement of such vehicles shall be as laid down in Chapters II and III of Directive 2002/24/EC.
+recital 3
+(3) In order to facilitate access to the markets of non-Community countries an equivalence should exist between the requirements of this Directive and those of Regulation No 60 of the United Nations Economic Commission for Europe (6) (UNECE).
+recital 4
+(4) This Directive should be without prejudice to the obligations of the Member States relating to the time limits for transposition into national law and application of the Directives set out in Annex III, Part B,
+HAVE ADOPTED THIS DIRECTIVE:
+Article 1
+This Directive applies to the identification of controls, tell-tales and indicators for all types of vehicles as referred to in Article 1 of Directive 2002/24/EC.
+Article 3
+1. In accordance with the provisions of Article 11 of Directive 2002/24/EC, equivalence between the requirements laid down in this Directive and those laid down in UNECE Regulation No 60 is hereby acknowledged.
+
+2. The authorities of the Member States which grant EC component type-approval shall accept approvals granted in accordance with the requirements of the UNECE Regulation referred to in paragraph 1 as well as component type-approval marks as an alternative to the corresponding approvals granted in accordance with the requirements of this Directive.
+Article 4
+This Directive may be amended in accordance with the procedure referred to in Article 18(2) of Directive 2002/24/EC in order to:
+
+(a) take into account any amendments to the UNECE Regulation referred to in Article 3; (b) adapt Annexes I and II to technical progress.
+Article 5
+1. Member States shall not, on grounds relating to the identification of controls, tell-tales and indicators:
+
+—
+refuse to grant EC type-approval for a type of two or three-wheel motor vehicle, or,
+—
+prohibit the registration, sale or entry into service of two or three-wheel motor vehicles,
+if the identification of controls, tell-tales and indicators complies with the requirements of this Directive. 2. Member States shall refuse to grant EC type-approval for any new type of two or three-wheel motor vehicle on grounds relating to the identification of controls, tell-tales and indicators if the requirements of this Directive are not fulfilled. 3. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+Article 6
+Directive 93/29/EEC, as amended by the Directive listed in Annex III, Part A, is repealed without prejudice to the obligations of the Member States relating to the time limits for transposition into national law and application of the Directives set out in Annex III, Part B.
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table set out in Annex IV.
+Article 7
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2010.
+Article 8
+This Directive is addressed to the Member States.
+citation
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,
+Having regard to the proposal from the Commission,
+Having regard to the opinion of the European Economic and Social Committee (1),
+Acting in accordance with the procedure laid down in Article 251 of the Treaty (2),
+Whereas:
+recital 1
+(1) Council Directive 93/29/EEC of 14 June 1993 on the identification of controls, tell-tales and indicators for two- or three-wheel motor vehicles (3) has been substantially amended (4).
+
+In the interests of clarity and rationality the said Directive should be codified.
+recital 2
+(2) Directive 93/29/EEC is one of the separate Directives of the EC type-approval system provided for in Council Directive 92/61/EEC of 30 June 1992 relating to the type-approval of two or three-wheel motor vehicles as replaced by Directive 2002/24/EC of the European Parliament and of the Council of 18 March 2002 relating to the type-approval of two or three-wheel motor vehicles (5) and lays down technical prescriptions concerning the design and construction of two or three-wheel motor vehicles as regards the identification of controls, tell-tales and indicators.
+
+These technical prescriptions concern the approximation of the laws of the Member States to allow for the EC type-approval procedure provided for in Directive 2002/24/EC to be applied in respect of each type of vehicle. Consequently the provisions laid down in Directive 2002/24/EC relating to vehicle systems, components and separate technical units apply to this Directive.
+ANNEX II
+ANNEX II
+Appendix 1
+Information document in respect of the identification of controls, tell-tales and indicators for a type of two or three-wheel motor vehicle
+(to be attached to the application for EC component type-approval if this is submitted separately from the application for an EC vehicle type-approval)
+Order number (assigned by the applicant):
+The application for an EC component type-approval in respect of the identification of controls, tell-tales and indicators of a type of two or three-wheel motor vehicle shall contain the information set out under the following points in Part 1, Section A of Annex II to Directive 2002/24/EC: —
+0.1,
+—
+0.2,
+—
+0,4 to 0.6,
+—
+9.2.1.
+
+EC component type-approval certificate in respect of the identification of controls, tell-tales and indicators for a type of two or three-wheel motor vehicle
+MODEL
+Report No … by technical service … Date: …
+EC component type-approval No: … Extension No: … 1. Make of vehicle: … 2. Type of vehicle and any versions and variants: … 3. Manufacturer's name and address: … 4. Name and address of manufacturer's representative (if any): …
+… 5. Date vehicle submitted for test: … 6. EC component type-approval granted/refused (1) 7. Place: … 8. Date: … 9. Signature: …
+(1) Delete as appropriate.
+| Directive 93/29/EEC | Directive 2000/74/EC | This Directive |
+| Articles 1 and 2 |  | Articles 1 and 2 |
+| Article 3, first paragraph |  | Article 3(1) |
+| Article 3, second paragraph |  | Article 3(2) |
+|---|---|---|
+| Article 4, introductory wording |  | Article 4, introductory wording |
+| Article 4, first indent |  | Article 4 point (a) |
+| Article 4, second indent |  | Article 4 point (b) |
+| Article 5(1) |  | — |
+|  | Article 2(1) | Article 5(1) |
+|  | Article 2(2) | Article 5(2) |
+| Article 5(2) |  | Article 5(3) |
+| — |  | Articles 6 and 7 |
+| Article 6 |  | Article 8 |
+| Annexes I and II |  | Annexes I and II |
+| — |  | Annex III |
+| — |  | Annex IV |
+| Council Directive 93/29/EEC | (OJ L 188, 29.7.1993, p. 1) |
+|---|---|
+| Commission Directive 2000/74/EC | (OJ L 300, 29.11.2000, p. 24) |
+
+| Directive | Time limit for transposition | Date of application |
+|---|---|---|
+| 93/29/EEC | 14 December 1994 | 14 June 1995 (*1) |
+| 2000/74/EC | 31 December 2001 | 1 January 2002 (*2) |
+
+(*1) In conformity with Article 5(1), third subparagraph of Directive 93/29/EEC: 'From the date mentioned in the first subparagraph Member States may not, for reasons connected with the identification of controls, tell-tales and indicators, prohibit the initial entry into service of vehicles which conform to this Directive.' The said date is 14 December 1994; see first subparagraph of Article 5(1) of Directive 93/29/EEC. (*2) In conformity with Article 2 of Directive 2000/74/EC: '1. With effect from 1 January 2002, Member States may not, on grounds relating to the identification of controls, tell-tales and indicators: —
+refuse to grant EC type-approval for a type of two- or three-wheel motor vehicle, or,
+—
+prohibit the registration, sale or entry into service of two- or three-wheel motor vehicles,
+if the identification of controls, tell-tales and indicators complies with the requirements of Directive 93/29/EEC, as amended by this Directive. 2. With effect from 1 July 2002, Member States shall refuse to grant EC type-approval for any new type of two- or three-wheel motor vehicle on grounds relating to the identification of controls, tell-tales and indicators if the requirements of Directive 93/29/EEC, as amended by this Directive, are not fulfilled.'.
+Introduction
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,
+Having regard to the proposal from the Commission,
+Having regard to the opinion of the European Economic and Social Committee (1),
+Acting in accordance with the procedure laid down in Article 251 of the Treaty (2),
+Whereas:
+
+(1) Council Directive 93/29/EEC of 14 June 1993 on the identification of controls, tell-tales and indicators for two- or three-wheel motor vehicles (3) has been substantially amended (4). In the interests of clarity and rationality the said Directive should be codified. (2) Directive 93/29/EEC is one of the separate Directives of the EC type-approval system provided for in Council Directive 92/61/EEC of 30 June 1992 relating to the type-approval of two or three-wheel motor vehicles as replaced by Directive 2002/24/EC of the European Parliament and of the Council of 18 March 2002 relating to the type-approval of two or three-wheel motor vehicles (5) and lays down technical prescriptions concerning the design and construction of two or three-wheel motor vehicles as regards the identification of controls, tell-tales and indicators. These technical prescriptions concern the approximation of the laws of the Member States to allow for the EC type-approval procedure provided for in Directive 2002/24/EC to be applied in respect of each type of vehicle. Consequently the provisions laid down in Directive 2002/24/EC relating to vehicle systems, components and separate technical units apply to this Directive. (3) In order to facilitate access to the markets of non-Community countries an equivalence should exist between the requirements of this Directive and those of Regulation No 60 of the United Nations Economic Commission for Europe (6) (UNECE). (4) This Directive should be without prejudice to the obligations of the Member States relating to the time limits for transposition into national law and application of the Directives set out in Annex III, Part B,
+HAVE ADOPTED THIS DIRECTIVE:
+REQUIREMENTS CONCERNING THE EC COMPONENT TYPE-APPROVAL OF TWO OR THREE-WHEEL VEHICLES IN RESPECT OF THE IDENTIFICATION OF THEIR CONTROLS, TELL-TALES AND INDICATORS
+ANNEX I
+REQUIREMENTS CONCERNING THE EC COMPONENT TYPE-APPROVAL OF TWO OR THREE-WHEEL VEHICLES IN RESPECT OF THE IDENTIFICATION OF THEIR CONTROLS, TELL-TALES AND INDICATORS
+2. REQUIREMENTS
+2.1. Identification
+The controls, tell-tales and indicators referred to in point 2.1.5 shall be identified in accordance with the following requirements when they are fitted to a vehicle.
+
+2.1.1. The symbols shall stand out clearly against the background. 2.1.2. The symbols shall be placed on the control or control tell-tale to be identified or in immediate proximity thereof. Where this is not possible the symbol and control, or tell-tale, shall be joined by a continuous dash that is as short as possible. 2.1.3. Main-beam headlights shall be represented by parallel horizontal rays of light and dipped-beam headlamps by parallel rays of light angled downwards. 2.1.4. When used for optical tell-tales the following colours listed below shall have the meanings indicated: — red: danger,
+— amber: caution,
+— green: safety. Blue shall be reserved exclusively for the main beam headlamp tell-tales. 2.1.5. Designation and identification of symbols
+Figure 1
+Headlamp control — Main-beam headlamp
+Tell-tale colour: blue. {{IMAGE:Image_0, Caption:Technical diagram illustrating the Main-beam headlamp control symbol on a proportional grid with dimension 'a'.}} Figure 2
+Headlamp control — Dipped-beam headlamp
+Tell-tale colour: green. {{IMAGE:Image_1, Caption:Technical diagram of the dipped-beam headlamp control symbol, overlaid on a construction grid with height dimension 'a'.}} Figure 3
+Direction indicator
+Note: if there are separate tell-tales for the left and right direction indicators, the two arrows may also be used separately. Tell-tale colour: green. {{IMAGE:Image_2, Caption:Technical diagram of the direction indicator symbol showing two opposing arrows on a grid layout with vertical dimension 'a'.}} Figure 4
+Hazard warning device
+Two possibilities: {{IMAGE:Image_3, Caption:Technical drawing of the hazard warning signal symbol, depicted as a triangle within a triangle on a proportional grid with dimension 'a'.}} Figure 5
+Manual choke
+Tell-tale colour: amber. {{IMAGE:Image_4, Caption:Technical specification diagram for the manual choke symbol, displayed on a grid to define geometric proportions with height 'a'.}} {{IMAGE:Image_5, Caption:Technical diagram of the audible warning device symbol, displayed on a construction grid with dimension 'a'.}} Figure 7
+Fuel level
+Tell-tale colour: amber. {{IMAGE:Image_0, Caption:Technical diagram illustrating the Main-beam headlamp control symbol on a proportional grid with dimension 'a'.}} Figure 8
+Engine coolant temperature
+Tell-tale colour: red. {{IMAGE:Image_7, Caption:Standardized symbol for engine coolant temperature, depicted on a construction grid with dimension 'a'.}} Figure 9
+Battery charge
+Tell-tale colour: red. {{IMAGE:Image_8, Caption:Technical construction diagram for the battery charge tell-tale symbol, displaying a rectangular battery outline with positive and negative polarity signs overlaid on a grid with a vertical dimension labeled 'a'.}} Figure 10
+Engine oil
+Tell-tale colour: red. {{IMAGE:Image_9, Caption:Technical drawing of the engine oil tell-tale symbol, overlaid on a grid to define its geometric proportions.}} Figure 11
+Front fog lamp (3) Tell-tale colour: green. {{IMAGE:Image_10, Caption:Technical diagram illustrating the standard symbol for a front fog lamp, overlaid on a construction grid with dimension 'a'.}} Figure 12
+Rear fog lamp (3) Tell-tale colour: amber. {{IMAGE:Image_11, Caption:Technical diagram illustrating the construction and proportions of the rear fog lamp symbol on a grid, with reference dimension 'a'.}} {{IMAGE:Image_12, Caption:Symbol for engine ignition or cut-off control in the 'out of use' position, depicted on a proportional grid with dimension 'a'.}} {{IMAGE:Image_13, Caption:Technical diagram illustrating the symbol for engine ignition or cut-off control in the 'operating' position, displayed on a proportional grid with dimension 'a'.}} Figure 15
+Lighting switch
+Tell-tale colour: green. {{IMAGE:Image_14, Caption:Technical diagram of the lighting switch symbol overlaid on a proportional grid, with a vertical dimension labeled 'a' and a central reference '(1)'.}} Figure 16
+Position (side) lamps
+Note: if the control is not separate, it may be identified by the symbol shown in figure 15. Tell-tale colour: green. {{IMAGE:Image_15, Caption:Standardized graphical symbol for position (side) lamps displayed on a proportional grid with dimension 'a'.}} Figure 17
+'Gear box in neutral' indicator
+Tell-tale colour: green. {{IMAGE:Image_16, Caption:Technical illustration of the 'Gear box in neutral' tell-tale symbol, showing the letter 'N' on a construction grid with height dimension 'a'.}} {{IMAGE:Image_17, Caption:Standardized symbol for an electric starter, featuring a lightning bolt within a circular arrow on a proportional grid with dimension 'a'.}} Notes: (1) The framed areas may be solid. (2) The dark part of this symbol may be replaced by its silhouette; the white part in this diagram shall then be entirely in a dark colour. (3) If a single control is used for the front and rear fog lamps the symbol used shall be that for 'front fog lamp'. {{IMAGE:Image_18, Caption:Technical diagram of the model base structure for symbols, featuring a square grid with superimposed geometric shapes labeled 1 through 8 and a nominal dimension 'a'.}} The model base consists of: 1. a base 50 mm square, this dimension being equal to nominal dimension 'a' in the original; 2. a base circle 56 mm in diameter having approximately the same area as the base square (1); 3. a second 50 mm-diameter circle is drawn within the base square (1); 4. a second square the tips of which lie on the base circle (2) and the sides of which are parallel to those of the base square (1); 5. and 6. two rectangles having the same area as the base square (1), their sides being at right angles to each other and each of them devised so as to divide the opposite sides of the base square into symmetrical points; 7. a third square the sides of which pass through the points of intersection of the base square (1) and the base circle (2) and are inclined at 45°, thus providing the greatest horizontal and vertical dimensions of the model base; 8. an irregular octagon formed by lines inclined at 30° to the sides of the square (7). The base model is laid upon a grid the lower side of which measures 12,5 mm and coincides with the base square (1).
+1.1. 'control' means any part of the vehicle or component directly actuated by the driver which causes a change in the state or operation of the vehicle or one of the parts thereof;
+1.2. 'tell-tale' means a signal indicating the triggering of a device, an operation or a suspect or faulty state or an absence of operation;
+1.3. 'indicator' means a device providing information on the proper functioning or state of a system or part of a system such as the level of a fluid;
+1.4. 'symbol' means an outline enabling a control, tell-tale or indicator to be identified.

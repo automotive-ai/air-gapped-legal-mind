@@ -1,0 +1,307 @@
+recital 7
+(7) In order to facilitate the recording of identified deficiencies by the inspectors, the inspection report should contain a complete list of items on its reverse side.
+Article 4
+This Directive is addressed to the Member States.
+recital 2
+(2) Standards and methods laid down in Directive 2000/30/EC should be adapted in accordance with technical progress, resulting in improved technical roadside inspections in the European Union.
+recital 3
+(3) With a view to minimising the costs and delays for drivers and operators, inspections should not exceed a reasonable length of time.
+recital 4
+(4) To ensure the correlation between test results, defects and the specific characteristics of each vehicle inspected, a more detailed standardised inspection report as referred to in Article 5(1) should be issued.
+recital 5
+(5) The technical requirements differ between vehicle categories as defined in the type-approval legislation (2).
+
+The inspection report should accordingly be amended to reflect these vehicle categories.
+recital 6
+(6) In order to make vehicle identification more reliable, the inspection report should contain, in addition to the vehicle registration number, the vehicle identification number (VIN).
+recital 10
+(10) The measures provided for in this Directive are in accordance with the opinion of the committee on the adaptation to technical progress of the Directive on roadworthiness tests for motor vehicles and their trailers instituted by Article 7 of Directive 2009/40/EC,
+HAS ADOPTED THIS DIRECTIVE:
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Directive 2000/30/EC of the European Parliament and of the Council of 6 June 2000 on the technical roadside inspection of the roadworthiness of commercial vehicles circulating in the Community (1), and in particular the first paragraph of Article 8 thereof,
+Whereas:
+recital 8
+(8) In order to further improve roadside technical inspections in light of technical progress, inspection methods should be introduced in relation to each of the items listed in Annex II.
+ANNEX
+ANNEX
+Annexes I and II to Directive 2000/30/EC are amended as follows: 1. Annex I is replaced by the following: 'ANNEX I
+(front side)
+SPECIMEN TECHNICAL ROADSIDE INSPECTION REPORT INCORPORATING A CHECK-LIST 1. Place of check … 2. Date … 3. Time … 4. Vehicle nationality mark and registration number … 5. Vehicle identification/VIN number …
+
+ N2(a) (3,5 to 12 t)
+
+ N3(a) (more than 12 t)
+
+ O3(a) (3,5 to 10 t)
+
+ O4(a) (more than 10 t)
+
+ M2(a) (> 9 seats(b) to 5 t)
+
+ M3(a) (> 9 seats(b) more than 5 t)
+
+ Other vehicle category (Article 1(3)) 6. Category of vehicle
+(a) (b) (c) (d) (e) (f) (g) 7. Undertaking carrying out transport
+(a) Name and address …
+…
+(b) Number of the Community licence(c) (Regulation (EC) No 1072/2009) … 8. Nationality (driver) … 9. Driver name … 10.
+
+|  | Checked(d) | Not checked | Failed(e) |
+|---|---|---|---|
+| (0) identification (f) |  |  |  |
+| (1) braking equipment |  |  |  |
+| (2) steering (f) |  |  |  |
+| (3) visibility (f) |  |  |  |
+| (4) lighting equipment and electric system (f) |  |  |  |
+| (5) axles, wheels, tyres, suspension (f) |  |  |  |
+| (6) chassis and chassis attachments (f) |  |  |  |
+| (7) other equipment including tachograph (f) and speed limitation device |  |  |  |
+| (8) nuisance including emissions and spillage of fuel and/or oil |  |  |  | 11. Result of inspection: Ban on using the vehicle, which has dangerous defects
+  12. Miscellaneous/remarks: … 13. Authority/officer or inspector having carried out the inspection
+Signature of:
+
+Notes: (a) Vehicle category according to Annex II to Directive 2007/46/EC (OJ L 263, 9.10.2007, p. 1). (b) Number of seats including the driver's seat (item S.1 of registration certificate). (c) If available. (d) 'Checked' means that at least one or more of the inspection items listed in Annex II to Directive 2009/40/EC as amended by Directive 2010/48/EU of this group have been checked. (e) Defects indicated on the rear side. (f) Methods for testing and guidelines for assessment of defects according to Annex II to Directive 2009/40/EC as amended by Directive 2010/48/EU. (reverse side) 0. IDENTIFICATION OF THE VEHICLE
+0.1. Registration number plates
+0.2. Vehicle identification/chassis/serial number 1. BRAKING EQUIPMENT
+1.1. Mechanical condition and operation
+1.1.1. Service brake pedal pivot
+1.1.2. Pedal condition and travel of brake operating device
+1.1.3. Vacuum pump or compressor and reservoirs
+1.1.4. Low pressure warning gauge or indicator
+1.1.5. Hand-operated brake control valve
+1.1.6. Parking brake activator, lever control, parking brake ratchet
+1.1.7. Braking valves (foot valves, un-loaders, governors)
+1.1.8. Couplings for trailer brakes (electrical and pneumatic)
+1.1.9. Energy storage reservoir pressure tank
+1.1.10. Brake servo units, master cylinder (hydraulic systems)
+1.1.11. Rigid brake pipes
+1.1.12. Flexible brake hoses
+1.1.13. Brake linings and pads
+1.1.14. Brake drums, brake discs
+1.1.15. Brake cables, rods, levers, linkages
+1.1.16. Brake actuators (including spring brakes or hydraulic cylinders)
+1.1.17. Load sensing valve
+1.1.18. Slack adjusters and indicators
+1.1.19. Endurance braking system (where fitted or required)
+1.1.20. Automatic operation of trailer brakes
+1.1.21. Complete braking system
+1.1.22. Test connections
+1.2. Service braking performance and efficiency
+1.2.1. Performance
+1.2.2. Efficiency
+1.3. Secondary (emergency) braking performance and efficiency
+1.3.1. Performance
+1.3.2. Efficiency
+1.4. Parking braking performance and efficiency
+1.4.1. Performance
+1.4.2. Efficiency
+1.5. Endurance braking system performance
+1.6. Anti-lock braking system 2. STEERING
+2.1. Mechanical condition
+2.1.1. Steering gear condition
+2.1.2. Steering gear casing attachment
+2.1.3. Steering linkage condition
+2.1.4. Steering linkage operation
+2.1.5. Power steering
+2.2. Steering wheel and column
+2.2.1. Steering wheel condition
+2.2.2. Steering column
+2.3. Steering play
+2.4. Wheel alignment
+2.5. Trailer steered axle turntable 3. VISIBILITY
+3.1. Field of vision
+3.2. Condition of glass
+3.3. Rear-view mirrors
+3.4. Windscreen wipers
+3.5. Windscreen washers
+3.6. Demisting system 4. LAMPS, REFLECTORS, ELECTRICAL EQUIPMENT
+4.1. Headlamps
+4.1.1. Condition and operation
+4.1.2. Alignment
+4.1.3. Switching
+4.1.4. Compliance with requirements
+4.1.5. Levelling devices
+4.1.6. Headlamp cleaning device
+4.2. Front and rear position lamps, side marker lamps and end outline marker lamps
+4.2.1. Condition and operation
+4.2.2. Switching
+4.2.3. Compliance with requirements
+4.3. Stop lamps
+4.3.1. Condition and operation
+4.3.2. Switching
+4.3.3. Compliance with requirements
+4.4. Direction indicator and hazard warning lamps
+4.4.1. Condition and operation
+4.4.2. Switching
+4.4.3. Compliance with requirements
+4.4.4. Flashing frequency
+4.5. Front and rear fog lamps
+4.5.1. Condition and operation
+4.5.2. Alignment
+4.5.3. Switching
+4.5.4. Compliance with requirements
+4.6. Reversing lamps
+4.6.1. Condition and operation
+4.6.2. Switching
+4.6.3. Compliance with requirements
+4.7. Rear registration plate lamp
+4.7.1. Condition and operation
+4.7.2. Compliance with requirements
+4.8. Retro-reflectors, conspicuity markings and rear marker plates
+4.8.1. Condition
+4.8.2. Compliance with requirements
+4.9. Tell-tales mandatory for lighting equipment
+4.9.1. Condition and operation
+4.9.2. Compliance with requirements
+4.10. Electrical connections between towing vehicle and trailer or semi-trailer
+4.11. Electrical wiring
+4.12. Non-obligatory lamps and reflectors
+4.13. Battery 5. AXLES, WHEELS, TYRES AND SUSPENSION
+5.1. Axles
+5.1.1. Axles
+5.1.2. Stub axles
+5.1.3. Wheel bearings
+5.2. Wheels and tyres
+5.2.1. Road wheel hub
+5.2.2. Wheels
+5.2.3. Tyres
+5.3. Suspension system
+5.3.1. Springs and stabilisers
+5.3.2. Shock absorbers
+5.3.3. Torque tubes, radius arms, wishbones and suspension arms
+5.3.4. Suspension joints
+5.3.5. Air suspension 6. CHASSIS AND CHASSIS ATTACHMENTS
+6.1. Chassis or frame and attachments
+6.1.1. General condition
+6.1.2. Exhaust pipes and silencers
+6.1.3. Fuel tank and pipes (including heating fuel tank and pipes)
+6.1.4. Bumpers, lateral protection and rear under-run devices
+6.1.5. Spare wheel carrier
+6.1.6. Coupling mechanisms and towing equipment
+6.1.7. Transmission
+6.1.8. Engine mountings
+6.1.9. Engine performance
+6.2. Cab and bodywork
+6.2.1. Condition
+6.2.2. Mounting
+6.2.3. Doors and door catches
+6.2.4. Floor
+6.2.5. Driver's seat
+6.2.6. Other seats
+6.2.7. Driving controls
+6.2.8. Cab steps
+6.2.9. Other interior and exterior fittings and equipment
+6.2.10. Mudguards (wings), spray suppression devices 7. OTHER EQUIPMENT
+7.1. Safety belts/buckles
+7.1.1. Security of mounting
+7.1.2. Condition
+7.1.3. Safety belt load-limiter
+7.1.4. Safety belt pre-tensioners
+7.1.5. Airbag
+7.1.6. SRS systems
+7.2. Fire extinguisher
+7.3. Locks and anti-theft device
+7.4. Warning triangle
+7.5. First aid kit
+7.6. Wheel chocks (wedges)
+7.7. Audible warning device
+7.8. Speedometer
+7.9. Tachograph
+7.10. Speed limitation device
+7.11. Odometer
+7.12. Electronic stability control (ESC) 8. NOISE
+8.1. 8.1 Noise suppression system
+8.2. Exhaust emissions
+8.2.1. Petrol engine emissions
+8.2.1.1. Exhaust emission control equipment
+8.2.1.2. Gaseous emissions
+8.2.2. Diesel engine emissions
+8.2.2.1. Exhaust emission control equipment
+8.2.2.2. Opacity
+8.3. Electromagnetic interference suppression
+8.4. Other items related to the environment
+8.4.1. Visible smoke
+8.4.2. Fluid leaks' 2. Annex II is replaced by the following: 'ANNEX II
+TABLE OF CONTENTS 1. INTRODUCTION 2. INSPECTION REQUIREMENTS 1. Braking equipment 8. Nuisance 1. INTRODUCTION
+This Annex lays down the rules for testing and/or checking braking systems and exhaust emissions during a technical roadside inspection. The use of equipment is not mandatory during roadside inspections. However, it will enhance the quality of inspections and, where possible, it is recommended. Items that may only be checked by the use of equipment have been marked with an (E).
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Directive 2000/30/EC of the European Parliament and of the Council of 6 June 2000 on the technical roadside inspection of the roadworthiness of commercial vehicles circulating in the Community (1), and in particular the first paragraph of Article 8 thereof,
+Whereas:
+
+(1) In the interests of road safety, environmental protection and fair competition it is important to ensure that commercial vehicles in operation are properly maintained and inspected, in order to maintain their safe traffic performance when circulating within the European Union. (2) Standards and methods laid down in Directive 2000/30/EC should be adapted in accordance with technical progress, resulting in improved technical roadside inspections in the European Union. (3) With a view to minimising the costs and delays for drivers and operators, inspections should not exceed a reasonable length of time. (4) To ensure the correlation between test results, defects and the specific characteristics of each vehicle inspected, a more detailed standardised inspection report as referred to in Article 5(1) should be issued. (5) The technical requirements differ between vehicle categories as defined in the type-approval legislation (2). The inspection report should accordingly be amended to reflect these vehicle categories. (6) In order to make vehicle identification more reliable, the inspection report should contain, in addition to the vehicle registration number, the vehicle identification number (VIN). (7) In order to facilitate the recording of identified deficiencies by the inspectors, the inspection report should contain a complete list of items on its reverse side. (8) In order to further improve roadside technical inspections in light of technical progress, inspection methods should be introduced in relation to each of the items listed in Annex II. (9) In addition to the items related to safety, security and environmental protection, the inspection also needs to cover identification of the vehicle in order to ensure that the correct inspections and standards are applied, to enable the results of the inspection to be recorded and to enable enforcement of other legal requirements. (10) The measures provided for in this Directive are in accordance with the opinion of the committee on the adaptation to technical progress of the Directive on roadworthiness tests for motor vehicles and their trailers instituted by Article 7 of Directive 2009/40/EC,
+HAS ADOPTED THIS DIRECTIVE:
+recital 9
+(9) In addition to the items related to safety, security and environmental protection, the inspection also needs to cover identification of the vehicle in order to ensure that the correct inspections and standards are applied, to enable the results of the inspection to be recorded and to enable enforcement of other legal requirements.
+recital 1
+(1) In the interests of road safety, environmental protection and fair competition it is important to ensure that commercial vehicles in operation are properly maintained and inspected, in order to maintain their safe traffic performance when circulating within the European Union.
+Article 3
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+Article 2
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 1 January 2012 at the latest.
+
+They shall forthwith inform the Commission thereof. When Member States adopt those provisions, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. Member States shall determine how such reference is to be made. 2. Member States shall communicate to the Commission the texts of the provisions of national law which they adopt in the field covered by this Directive.
+Article 1
+Annex I and Annex II to Directive 2000/30/EC are amended in accordance with the Annex to this Directive.
+Items that may only be checked by the use of equipment have been marked with an (E). Where a method of inspection is given as visual, it means that in addition to looking at the items, the inspector should, if appropriate, also handle them, evaluate noise or use any other appropriate means of inspection without the use of equipment. 2. INSPECTION REQUIREMENTS
+Roadside technical inspections may cover items and use the methods listed below. Deficiencies are examples of defects that can be detected.
+
+| Item | Method | Deficiencies |
+|---|---|---|
+| 1. BRAKING EQUIPMENT | 1. BRAKING EQUIPMENT | 1. BRAKING EQUIPMENT |
+| 1.1. Mechanical condition and operation | 1.1. Mechanical condition and operation | 1.1. Mechanical condition and operation |
+| 1.1.1. Service brake pedal pivot | Visual inspection of the components while the braking system is operated. Note: Vehicles with power-assisted braking systems should be inspected with the engine switched off. | (a) Pivot too tight. (b) Excessive wear or play. |
+| 1.1.2. Pedal condition and travel of the brake operating device | Visual inspection of the components while the braking system is operated. Note: Vehicles with power-assisted braking systems should be inspected with the engine switched off. | (a) Excessive or insufficient reserve travel. (b) Brake control not releasing correctly. (c) Anti-slip provision on brake pedal missing, loose or worn smooth. |
+| 1.1.3. Vacuum pump or compressor and reservoirs | Visual inspection of the components at normal working pressure. Check time required for vacuum or air pressure to reach safe working value and function of warning device, multi-circuit protection valve and pressure relief valve. | (a) Insufficient pressure/vacuum to give assistance for at least two brake applications after the warning device has operated (or gauge shows an unsafe reading). (b) Time taken to build up air pressure/vacuum to safe working value not in accordance with the requirements ( 1 ) . (c) Multi-circuit protection valve or pressure relief valve not working. (d) Air leak causing a noticeable drop in pressure or audible air leaks. (e) External damage likely to affect the function of the braking system. |
+| 1.1.4. Low pressure warning gauge or indicator | Functional check | Malfunctioning or defective gauge or indicator. |
+| 1.1.5. Hand-operated brake control valve | Visual inspection of the components while the braking system is operated. | (a) Control cracked, damaged or excessively worn. (b) Control insecure on valve or valve insecure. (c) Loose connections or leaks in system. (d) Unsatisfactory operation. |
+| 1.1.6. Parking brake activator, lever control, parking brake ratchet | Visual inspection of the components while the braking system is operated. | (a) Ratchet not holding correctly. (b) Excessive wear at lever pivot or in ratchet mechanism. (c) Excessive movement of lever indicating incorrect adjustment. (d) Activator missing, damaged or inoperative. (e) Incorrect functioning, warning indicator shows malfunction. |
+| 1.1.7. Braking valves (foot valves, un-loaders, governors) | Visual inspection of the components while the braking system is operated. | (a) Valve damaged or excessive air leak. (b) Excessive oil discharge from compressor. (c) Valve insecure or inadequately mounted. (d) Hydraulic fluid discharge or leak. |
+| 1.1.8. Couplings for trailer brakes (electrical and pneumatic) | Disconnect and reconnect all braking system couplings between towing vehicle and trailer. | (a) Tap or self-sealing valve defective. (b) Tap or valve insecure or inadequately mounted. (c) Excessive leaks. (d) Incorrectly or not connected where required. (e) Not functioning correctly. |
+| 1.1.9. Energy storage reservoir pressure tank | Visual inspection. | (a) Tank damaged, corroded or leaking. (b) Drain device inoperative. (c) Tank insecure or inadequately mounted. |
+| 1.1.10. Brake servo units, master cylinder (hydraulic systems) | Visual inspection of the components while the braking system is operated. | (a) Defective or ineffective servo unit. (b) Master cylinder defective or leaking. (c) Master cylinder insecure. (d) Insufficient brake fluid. (e) Master cylinder reservoir cap missing. (f) Brake fluid warning light illuminated or defective. (g) Incorrect functioning of brake fluid level warning device. |
+| 1.1.11. Rigid brake pipes | Visual inspection of the components while the braking system is operated. | (a) Eminent risk of failure or fracture. (b) Pipes or connections leaking. (c) Pipes damaged or excessively corroded. (d) Pipes misplaced. |
+| 1.1.12. Flexible brake hoses | Visual inspection of the components while the braking system is operated. | (a) Eminent risk of failure or fracture. (b) Hoses damaged, chafing, twisted or too short. (c) Hoses or connections leaking. (d) Hoses bulging under pressure. (e) Hoses porous. |
+| 1.1.13. Brake linings and pads | Visual inspection. | (a) Lining or pad excessively worn. (b) Lining or pad contaminated (oil, grease etc.). (c) Lining or pad missing. |
+| 1.1.14. Brake drums, brake discs | Visual inspection. | (a) Drum or disc excessively worn, corroded or scored or cracked, insecure or fractured. (b) Drum or disc contaminated (oil, grease, etc.). (c) Drum or disc missing. (d) Back plate insecure. |
+| 1.1.15. Brake cables, rods, levers, linkages | Visual inspection of the components while the braking system is operated. | (a) Cable damaged or knotted. (b) Component excessively worn or corroded. (c) Cable, rod or joint insecure. (d) Cable guide defective. (e) Restriction to free movement of the braking system. (f) Abnormal movement of the levers/linkage indicating maladjustment or excessive wear. |
+| 1.1.16. Brake actuators (including spring brakes or hydraulic cylinders) | Visual inspection of the components while the braking system is operated. | (a) Actuator cracked or damaged. (b) Actuator leaking. (c) Actuator insecure or inadequately mounted. (d) Actuator excessively corroded. (e) Insufficient or excessive travel of operating piston or diaphragm mechanism. (f) Dust cover missing or excessively damaged. |
+| 1.1.17. Load sensing valve | Visual inspection of the components while the braking system is operated. | (a) Defective linkage. (b) Linkage incorrectly adjusted. (c) Valve seized or inoperative. (d) Valve missing. (e) Missing data plate. (f) Data illegible or not in accordance with requirements ( 1 ) |
+| 1.1.18. Slack adjusters and indicators | Visual inspection. | (a) Adjuster damaged, seized or having abnormal movement, excessive wear or incorrect adjustment. (b) Adjuster defective. (c) Incorrectly installed or replaced. |
+| 1.1.19. Endurance braking system (where fitted or required) | Visual inspection. | (a) Insecure connectors or mountings. (b) System obviously defective or missing. |
+| 1.1.20. Automatic operation of trailer brakes | Disconnect brake coupling between towing vehicle and trailer. | Trailer brake does not apply automatically when coupling disconnected. |
+| 1.1.21. Complete braking system | Visual inspection. | (a) Other system devices (e.g. anti-freeze pump, air dryer, etc.) damaged externally or excessively corroded in a way that adversely affects the braking system. (b) Excessive leakage of air or anti-freeze. (c) Any component insecure or inadequately mounted. (d) Inappropriate repair or modification to any component. |
+| 1.1.22. Test connections (where fitted or required) | Visual inspection. | (a) Missing. (b) Damaged, unusable or leaking. |
+| 1.2. Service braking performance and efficiency | 1.2. Service braking performance and efficiency | 1.2. Service braking performance and efficiency |
+| Item | Method | Deficiencies |
+|---|---|---|
+| 1.2. Service braking performance and efficiency | 1.2. Service braking performance and efficiency | 1.2. Service braking performance and efficiency |
+| 1.2.1 Performance (E) | Test on a static brake testing machine; apply the brakes progressively up to maximum effort. | (a) Inadequate braking effort on one or more wheels. (b) Braking effort from any wheel is less than 70 % of maximum effort recorded from the other wheel on the same axle. (c) No gradual variation in brake effort (grabbing). (d) Abnormal lag in brake operation of any wheel. (e) Excessive fluctuation of brake force during each complete wheel revolution. |
+| 1.2.2 Efficiency (E) | Test on a static brake testing machine at the presented weight. | (a) Does not give at least the minimum figure as follows: (b) Category M1, M2 and M3 - 50 % ( 1 ) (c) Category N1 - 45 % (d) Category N2 and N3 - 43 % ( 2 ) (e) Category O2, O3 and O4 - 40 % ( 3 ) |
+| 1.3. Secondary (emergency) braking performance and efficiency (if met by separate system) | 1.3. Secondary (emergency) braking performance and efficiency (if met by separate system) | 1.3. Secondary (emergency) braking performance and efficiency (if met by separate system) |
+| 1.3.1. Performance (E) | If the secondary braking system is separate from the service braking system, use the method specified in 1.2.1. | (a) Inadequate braking effort on one or more wheels. (b) Braking effort from any wheel is less than 70 % of maximum effort recorded from another wheel on the same axle specified. (c) No gradual variation in brake effort (grabbing). |
+| 1.3.2. Efficiency (E) | If the secondary braking system is separate from the service braking system, use the method specified in 1.2.2. | Braking effort less than 50 % (4) of the service brake performance defined in section 1.2.2 in relation to the maximum authorised mass or, in the case of semi-trailers, to the sum of the authorised axle loads. |
+| 1.4. Parking braking performance and efficiency | 1.4. Parking braking performance and efficiency | 1.4. Parking braking performance and efficiency |
+| 1.4.1. Performance (E) | Apply the brake on a static brake testing machine. | Brake inoperative on one or more wheels. |
+| 1.4.2. Efficiency (E) | Test on a static brake testing machine at the presented weight. | Does not give at least for all vehicles a braking ratio of 16 % in relation to the maximum authorised mass, or, for motor vehicles, of 12 % in relation to the maximum authorised combination mass of the vehicle, whichever is the greater. |
+| 1.5. Endurance braking system performance | Visual inspection and, where possible test whether the system functions. | (a) No gradual variation of efficiency (not applicable to exhaust brake systems). (b) System not functioning. |
+| 1.6. Anti-lock braking system | Visual inspection of warning device. | (a) Warning device malfunctioning. (b) Warning device shows system malfunction. |
+| 8. NUISANCE | 8. NUISANCE | 8. NUISANCE |
+| 8.2. Exhaust emissions | 8.2. Exhaust emissions | 8.2. Exhaust emissions |
+| 8.2.1 Petrol engine emissions | 8.2.1 Petrol engine emissions | 8.2.1 Petrol engine emissions |
+| 8.2.1.1. Exhaust emission control equipment | Visual inspection. | (a) Emission control equipment fitted by the manufacturer absent or obviously defective. (b) Leaks which could significantly affect emission measurements. |
+| 8.2.1.2. Gaseous emissions (E) | Measurement using an exhaust gas analyser in accordance with the requirements (1). Alternatively, for vehicles equipped with suitable on-board diagnostic systems, the proper functioning of the emission system can be checked by appropriate reading of the OBD device and checks on the proper functioning of the OBD system in place of emission measurements at engine idle in accordance with the manufacturer's conditioning recommendations and other requirements (1) and taking account of appropriate tolerances. Alternatively, measurement using remote sensing equipment and confirmed by standard test methods. | (a) Either, gaseous emissions exceed the specific levels given by the manufacturer; (b) or, if this information is not available, the CO emissions exceed, 1. for vehicles not controlled by an advanced emission control system, — 4,5 %, or — 3,5 %, according to the date of first registration or use specified in requirements ( 1 ) 2. for vehicles controlled by an advanced emission control system, — at engine idle: 0,5 %, — at high idle: 0,3 %, or — at engine idle: 0,3 % ( 5 ) — at high idle: 0,2 %, according to the date of first registration or use specified in requirements ( 1 ) . (c) Lambda outside the range 1 ± 0,03 or not in accordance with the manufacturer's specification. (d) OBD read out indicating significant malfunction. (e) Remote sensing measurement showing significant non-compliance. |
+| 8.2.2 Diesel engine emissions | 8.2.2 Diesel engine emissions | 8.2.2 Diesel engine emissions |
+| 8.2.2.1. Exhaust emission control equipment | Visual inspection. | (a) Emission control equipment fitted by the manufacturer absent or obviously defective. (b) Leaks which could significantly affect emission measurements. |
+| Item | Method | Deficiencies |
+|---|---|---|
+| 8.2.2.1. Exhaust emission control equipment | Visual inspection. | (a) Emission control equipment fitted by the manufacturer absent or obviously defective. (b) Leaks which could significantly affect emission measurements. |
+| 8.2.2.2. Opacity (E) | (a) Exhaust gas opacity to be measured during free acceleration (no load from idle up to cut-off speed) with gear lever in neutral and clutch engaged. (b) Vehicle preconditioning: 1. Vehicles may be tested without preconditioning although for safety reasons checks should be made that the engine is warm and in a satisfactory mechanical condition. 2. Precondition requirements: (i) Engine shall be fully warm, for instance the engine oil temperature measured by a probe in the oil level dipstick tube to be at least 80 °C, or normal operating temperature if lower, or the engine block temperature measured by the level of infrared radiation to be at least an equivalent temperature. If, owing to vehicle configuration, this measurement is impractical, the establishment of the engine's normal operating temperature may be made by other means, for example by the operation of the engine cooling fan. (ii) Exhaust system shall be purged by at least three free acceleration cycles or by an equivalent method. (c) Test procedure: 1. Engine and any turbocharger fitted, to be at idle before the start of each free acceleration cycle. For heavy-duty diesels, this means waiting for at least 10 seconds after the release of the throttle. 2. To initiate each free acceleration cycle, the throttle pedal must be fully depressed quickly and continuously (in less than one second) but not violently, so as to obtain maximum delivery from the injection pump. 3. During each free acceleration cycle, the engine shall reach cut-off speed or, for vehicles with automatic transmissions, the speed specified by the manufacturer or if this data is not available then two thirds of the cut-off speed, before the throttle is released. This could be checked, for instance, by monitoring engine speed or by allowing a sufficient time to elapse between initial throttle depression and release, which in the case of vehicles M2, M3, N2 or N3 should be at least two seconds. 4. Vehicles shall only be failed if the arithmetic means of at least the last three free acceleration cycles are in excess of the limit value. This may be calculated by ignoring any measurement that departs significantly from the measured mean, or the result of any other statistical calculation that takes account of the scattering of the measurements. Member States may limit the number of test cycles. 5. To avoid unnecessary testing, Member States may fail vehicles which have measured values significantly in excess of the limit values after less than three free acceleration cycles or after the purging cycles. Equally to avoid unnecessary testing, Member States may pass vehicles which have measured values significantly below the limits after less than three free acceleration cycles or after the purging cycles and taking account of appropriate tolerances. Alternatively, measurement using remote sensing equipment and confirmed by standard test methods. | (a) For vehicles registered or put into service for the first time after the date specified in requirements ( 1 ) , opacity exceeds the level recorded on the manufacturer's plate on the vehicle; (b) where this information is not available or requirements ( 1 ) do not allow the use of reference values, — for naturally aspirated engines: 2,5 m -1 , — for turbo-charged engines: 3,0 m -1 , or, for vehicles identified in requirements ( 1 ) or first registered or put into service for the first time after the date specified in requirements ( 1 ) , — 1,5 m -1 ( 6 ) . (c) Remote sensing measurement showing significant non-compliance. |
+| NOTES: | NOTES: | NOTES: |
+
+(1) 48 % for vehicles not fitted with ABS or type approved before 1 October 1991. (2) 45 % for vehicles registered after 1988 or from the date specified in requirements (1) whichever is the later. (3) 43 % for semi-trailers and draw-bar trailers registered after 1988 or from the date in requirements (1) whichever is the later. (4) 2,2 m/s2 for N1, N2 and N3 vehicles. (5) Type-approved according to limits in row A or B section 5.3.1.4 of Annex I to Directive 70/220/EEC as amended by Directive 98/69/EC or later or first registered or put into service after 1 July 2002. (6) Type-approved according to limits in row B section 5.3.1.4 of Annex I to Directive 70/220/EEC as amended by Directive 98/69/EC or later; row B1, B2 or C section 6.2.1 of Annex I to Directive 88/77/EEC as amended by Directive 1999/96/EC or later or first registered or put into service after 1 July 2008
+(1) 
+ "Requirements" are laid down by type-approval requirements at the date of first registration or first entry into service as well as retrofitting obligations or national legislation of the country of registration.'

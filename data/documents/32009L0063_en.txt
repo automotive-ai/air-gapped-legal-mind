@@ -1,0 +1,189 @@
+recital 1
+(1) Council Directive 74/151/EEC of 4 March 1974 on the approximation of the laws of the Member States relating to certain parts and characteristics of wheeled agricultural or forestry tractors (3) has been substantially amended several times (4).
+
+In the interests of clarity and rationality the said Directive should be codified.
+recital 2
+(2) Directive 74/151/EEC is one of the separate Directives of the EC type-approval system provided for in Council Directive 74/150/EEC of 4 March 1974 on the approximation of the laws of the Member States relating to type-approval of wheeled agricultural or forestry tractors, as replaced by Directive 2003/37/EC of the European Parliament and of the Council of 26 May 2003 on type-approval of agricultural or forestry tractors, their trailers and interchangeable towed machinery, together with their systems, components and separate technical units (5) and lays down technical prescriptions concerning the design and construction of agricultural or forestry tractors with regard, inter alia, to their maximum permissible laden mass, the location and fixing of rear registration plates, tanks for liquid fuel, ballast weights, audible warning devices, permissible sound levels and the exhaust system (silencer).
+
+Those technical prescriptions seek to approximate the laws of the Member States to enable the EC type-approval procedure provided for in Directive 2003/37/EC to be applied in respect of each type of tractor. Consequently, the provisions laid down in Directive 2003/37/EC relating to agricultural and forestry tractors, their trailers, and their interchangeable towed machinery, together with their systems, components and separate technical units, apply to this Directive.
+citation
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,
+Having regard to the proposal from the Commission,
+Having regard to the opinion of the European Economic and Social Committee (1),
+Acting in accordance with the procedure laid down in Article 251 of the Treaty (2),
+Whereas:
+AUDIBLE WARNING DEVICE
+ANNEX V
+AUDIBLE WARNING DEVICE
+1. The warning device must bear the EC approval mark prescribed by Council Directive 70/388/EEC of 27 July 1970 on the approximation of the laws of Member States relating to audible warning devices for motor vehicles (1).
+
+2. Characteristics of the audible warning device when fitted to the tractor
+2.1. Acoustic tests
+When a tractor is type approved, the characteristics of the warning device fitted to that type of tractor shall be tested as follows: 2.1.1. The sound pressure level of the device when fitted to the tractor shall be measured at a point 7 metres in front of the tractor, at a site which is open and as level as possible. The engine of the tractor shall be stopped. The effective voltage shall be that laid down in point 1.2.1. of Annex I to Directive 70/388/EEC. 2.1.2. Measurements shall be made on the 'A' weighting scale of the IEC (International Electrotechnical Commission) standard. 2.1.3. The maximum sound pressure level shall be determined at a height between 0,5 and 1,5 metres above ground level. 2.1.4. The maximum value for the sound-pressure level must be at least 93 dB(A) and at the most 112 dB(A). (1) OJ L 176, 10.8.1970, p. 12.
+TANKS FOR LIQUID FUEL
+ANNEX III
+TANKS FOR LIQUID FUEL
+ 1. Fuel tanks must be made so as to be corrosion resistant.
+
+They must satisfy the leakage tests carried out by the manufacturer at a pressure equal to double the working pressure but in any event not less than 0,3 bar. Any excess pressure or any pressure exceeding the working pressure must be automatically compensated by suitable devices (vents, safety valves etc.). The vents must be designed in such a way as to prevent any fire risk. The fuel must not escape through the fuel-tank cap or through the devices provided to compensate excess pressure even if the tank is completely overturned: a drip shall be tolerated. 2. Fuel tanks must be installed in such a way as to be protected from the consequences of an impact to the front or to the rear of the tractor; there shall be no protruding parts, sharp edges etc. near the tanks. The fuel supply pipework and the filler orifice must be installed outside the cab.
+Article 3
+No Member State may refuse registration, or prohibit the sale, entry into service or use of tractors on grounds relating to the parts and characteristics listed in Article 2(1) if these satisfy the requirements set out in Annexes I to VI.
+Article 7
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2010.
+| Directive 74/151/EEC | Directive 2006/26/EC | This Directive |
+| Article 1 |  | Article 1 |
+| Article 2(1) |  | Article 2(1) |
+|  | Article 5(2) | Article 2(2) |
+|---|---|---|
+|  | Article 5(3) | Article 2(3) |
+| Article 3 |  | Article 3 |
+| Article 4 |  | Article 4 |
+| Article 5(1) |  | — |
+| Article 5(2) |  | Article 5 |
+| — |  | Article 6 |
+| — |  | Article 7 |
+| Article 6 |  | Article 8 |
+| Annex I to VI |  | Annex I to VI |
+| — |  | Annex VII |
+| — |  | Annex VIII |
+Article 1
+1. 'Tractor' (agricultural or forestry) means any motor vehicle, fitted with wheels or endless tracks and having at least two axles, the main function of which lies in its tractive power and which is specially designed to tow, push, carry or power certain tools, machinery or trailers intended for agricultural or forestry use.
+
+It may be equipped to carry a load and passengers. 2. This Directive shall apply only to tractors defined in paragraph 1 which are equipped with pneumatic tyres and have a maximum design speed of between 6 and 40 km/h.
+Article 2
+1. No Member State may refuse to grant EC type-approval or national type-approval in respect of a type of tractor on grounds relating to the following parts and characteristics, if these satisfy the requirements set out in Annexes I to VI:
+
+—
+the maximum permissible laden mass,
+—
+the location and fitting of the rear registration plates,
+—
+fuel tanks,
+—
+ballast weights,
+—
+audible warning devices,
+—
+the permissible sound level and exhaust system (silencer),
+ 2. With respect to vehicles which do not comply with the requirements laid down in this Directive, and on grounds relating to the subject-matter of this Directive, Member States: —
+shall no longer grant EC type-approval,
+—
+may refuse to grant national type-approval,
+ 3. With respect to new vehicles which do not comply with the requirements laid down in this Directive, and on grounds relating to the subject-matter of this Directive, Member States: —
+shall consider certificates of conformity which accompany those new vehicles in accordance with the provisions of Directive 2003/37/EC to be no longer valid for the purposes of Article 7(1) of that Directive,
+—
+may refuse the registration, sale or entry into service of those new vehicles.
+Article 6
+Directive 74/151/EEC, as amended by the Directives listed in Part A of Annex VII, is repealed, without prejudice to the obligations of the Member States concerning the time-limits for transposition into national law and application of the Directives listed in Annex VII, Part B.
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex VIII.
+1. PERMISSIBLE SOUND LEVELS
+ANNEX VI
+1. PERMISSIBLE SOUND LEVELS
+1.1. Limits
+The sound level of the tractors referred to in Article 1 of this Directive, when measured under the conditions set out in this Annex, may not exceed the following levels:
+
+—
+89 dB (A) for tractors with an unladen weight exceeding 1,5 metric tons,
+—
+85 dB (A) for tractors with an unladen weight not exceeding 1,5 metric tons. 1.2. Measuring instruments
+The noise emitted by tractors shall be measured by means of a sound-level meter of the type described in Publication 179, 1st Edition (1965) of the International Electrotechnical Commission. 1.3. Conditions of measurement
+Measurements shall be made on unladen tractors in a sufficiently silent and open area (ambient noise and wind noise at least 10 dB (A) below the noise being measured). This area may take the form, for instance, of an open space of 50 metres radius having a central part of at least 20 metres radius which is practically level; it may be surfaced with concrete, asphalt, or similar material and may not be covered with powdery snow, tall grass, loose soil or ashes. The surface of the test track shall be such as not to cause excessive tyre noise. This condition applies only to measurement of the noise made by tractors in motion. Measurement shall be carried out in fine weather with little wind. No person other than the observer taking the readings from the apparatus may remain near the tractor or the microphone, as the presence of spectators near either the tractor or the microphone may considerably affect the readings from the apparatus. Marked fluctuations of the pointer which appear to be unrelated to the characteristics of the general sound level shall be ignored in taking readings. 1.4. Method of measurement
+1.4.1. Measurement of noise of tractors in motion (for type-approval). At least two measurements shall be made on each side of the tractor. Preliminary measurements may be made for adjustment purposes but shall be disregarded. The microphone shall be situated 1,2 metres above ground level at a distance of 7,5 metres from the path of the tractor's centre line, CC, measured along the perpendicular PP' to that line (figure 1). Two lines AA' and BB', parallel to line PP' and situated respectively 10 metres forward and 10 metres rearward of the line, shall be marked out on the test track. Tractors shall approach line AA' at a steady speed, as specified below. The throttle shall then be fully opened as rapidly as practicable and held in the fully opened position until the rear of the tractor (1) crosses line BB'; the throttle shall then be closed again as rapidly as possible. The maximum sound level recorded shall constitute the result of the measurement. 1.4.1.1. The test speed shall be three-quarters of the maximum speed which can be attained in the highest gear used for road movement. 1.4.1.2. Interpretation of results
+1.4.1.2.1. To take account of inaccuracies in the measuring instruments, the result obtained from each measurement shall be determined by deducting 1 dB (A) from the meter reading. 1.4.1.2.2. Measurements shall be considered valid if the difference between two consecutive measurements on the same side of the tractor does not exceed 2 dB (A). 1.4.1.2.3. The highest sound level measured shall constitute the test result. Should that result exceed by 1 dB (A) the maximum permissible sound level for the category of tractor tested, two further measurements shall be made. Three of the four measurements thus obtained must fall within the prescribed limits. {{IMAGE:Image_0, Caption:Schematic diagram illustrating the measuring positions for tractors in motion, detailing microphone placement 7.5 meters from the centerline within a 20-meter test zone.}} Figure 1
+1.4.2. Measurement of noise with tractor stationary (not for type-approval, but must be recorded). 1.4.2.1. Position of sound-level meter
+Measurements shall be made at point X (shown in figure 2) at a distance of 7 metres from the nearest surface of the tractor. The microphone shall be situated 1,2 metres above ground level. 1.4.2.2. Number of measurements
+At least two measurements shall be made. 1.4.2.3. Tractor test conditions
+The engine of a tractor without a speed governor shall be run at three-quarters of the rpm speed at which, according to the tractor manufacturer, it develops its maximum power. The rpm speed of the engine shall be measured by means of an independent instrument, e.g. a roller bed and a tachometer. If the engine is fitted with a governor preventing the engine from exceeding the speed at which it develops its maximum power, it shall be run at the maximum speed permitted by the governor. Before taking any measurements, the engine shall be brought to its normal running temperature. 1.4.2.4. Interpretation of results
+All sound-level readings recorded shall be given in the report. The method used to calculate the engine power shall also be shown where possible. The state of loading of the tractor must also be given. The measurements shall be considered valid if the difference between two consecutive measurements on the same side of the tractor does not exceed 2 dB (A). The maximum figure recorded shall constitute the result of the measurement. {{IMAGE:Image_1, Caption:Diagram illustrating the sound measurement position for a stationary tractor, located 7.0 meters perpendicular to the vehicle centerline at point X.}} Figure 2
+2. EXHAUST SYSTEM (SILENCER)
+2.1. If the tractor is fitted with a device designed to reduce the exhaust noise (silencer), the requirements of this Item 2 shall apply. If the inlet of the engine is fitted with an air filter which is necessary in order to ensure compliance with the permissible sound level, the filter shall be considered to be part of the silencer, and the requirements of this Item 2 shall also apply to that filter. The exhaust tailpipe must be positioned in such a way that the exhaust gases cannot penetrate inside the cab. 2.2. A drawing of the exhaust system must be annexed to the tractor type-approval certificate. 2.3. The silencer must be marked with a reference to its make and type which is clearly legible and indelible. 2.4. The use of fibrous absorbent material is permitted in the construction of silencers only if the following conditions are fulfilled: 2.4.1. the fibrous absorbent material may not be placed in those parts of the silencer through which gases pass; 2.4.2. suitable devices must ensure that the fibrous absorbent material is kept in place for the whole time that the silencer is being used; 2.4.3. the fibrous absorbent material must be resistant to a temperature at least 20 % higher than the operating temperature (degrees C) which may occur in the region of the silencer where those fibrous absorbent materials are situated. (1) If the tractor includes a trailer, this shall not be taken into account in determining when line BB' is crossed.
+Article 4
+The amendments necessary to adapt to technical progress the requirements of Annexes I to VI, apart from those set out at points 1.1 and 1.4.1.2 of Annex VI, shall be adopted in accordance with the procedure referred to in Article 20(3) of Directive 2003/37/EC.
+recital 3
+(3) This Directive should be without prejudice to the obligations of the Member States concerning the time-limits for transposition into national law and application of the Directives set out in Annex VII, Part B,
+HAVE ADOPTED THIS DIRECTIVE:
+Article 5
+Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+Article 8
+This Directive is addressed to the Member States.
+| Council Directive 74/151/EEC (OJ L 84, 28.3.1974, p. 25). |  |
+|---|---|
+| Council Directive 82/890/EEC (OJ L 378, 31.12.1982, p. 45). | Only as regards the references to Directive 74/151/EEC in Article 1(1) |
+| Commission Directive 88/410/EEC (OJ L 200, 26.7.1988, p. 27). |  |
+| Directive 97/54/EC of the European Parliament and of the Council (OJ L 277, 10.10.1997, p. 24). | Only the references to Directive 74/151/EEC in the first indent of Article 1 |
+| Commission Directive 98/38/EC (OJ L 170, 16.6.1998, p. 13). |  |
+| Commission Directive 2006/26/EC (OJ L 65, 7.3.2006, p. 22). | Only Article 1 |
+
+| Directive | Time-limit for transposition | Date of application |
+|---|---|---|
+| 74/151/EEC | 8 September 1975 | — |
+| 82/890/EEC | 22 June 1984 | — |
+| 88/410/EEC | 30 September 1988 (1) | — |
+| 97/54/EC | 22 September 1998 | 23 September 1998 |
+| 98/38/EC | 30 April 1999 (2) | — |
+| 2006/26/EC | 31 December 2006 (3) | — |
+
+(1) Pursuant to Article 2 of Directive 88/410/EEC: '1. From 1 October 1988, no Member State may: —
+refuse, in respect of a type of tractor, to grant EEC type approval, to issue the document referred to in Article 10(1), final indent of Directive 74/150/EEC, or to grant national type approval, or,
+—
+prohibit the entry into service of tractors,
+if the liquid-fuel tanks, ballast weights and permissible sound levels of that type of tractor or tractors comply with the provisions of this Directive. 2. From 1 October 1989, Member States: —
+may no longer issue the document referred to in Article 10(1), final indent, of Directive 74/150/EEC for a type of tractor of which the liquid-fuel tanks, ballast weights and permissible sound levels do not comply with the provisions of this Directive,
+—
+may refuse to grant national type-approval in respect of a type of tractor of which the fuel tanks, ballast weights and permissible sound levels do not comply with the provisions of this Directive.'. (2) Pursuant to Article 2 of Directive 98/38/EC: '1. From 1 May 1999 no Member State may: —
+refuse, in respect of a type of tractor, to grant EC type-approval, to issue the document referred to in Article 10(1), final indent, of Directive 74/150/EEC, or to grant national type-approval, or,
+—
+prohibit the entry into service of tractors,
+if these tractors meet the requirements of Directive 74/151/EEC, as amended by this Directive. 2. From 1 October 1999, Member States: —
+may no longer issue the document referred to in Article 10(1), final indent, of Directive 74/150/EEC for a type of tractor that does not meet the requirements of Directive 74/151/EEC as amended by this Directive,
+—
+may refuse to grant national type approval in respect of a type of tractor if this does not meet the requirements of Directive 74/151/EEC as amended by this Directive.'. (3) Pursuant to Article 5 of Directive 2006/26/EC: '1. With effect from 1 January 2007, with respect to vehicles which comply with the requirements laid down respectively in Directives 74/151/EEC, 78/933/EEC, 77/311/EEC and 89/173/EEC as amended by this Directive, Member States shall not, on grounds relating to the subject-matter of the Directive concerned: (a) refuse to grant EC type-approval or to grant national type-approval; (b) prohibit the registration, sale or entry into service of such a vehicle. 2. With effect from 1 July 2007, with respect to vehicles which do not comply with the requirements laid down respectively in Directives 74/151/EEC, 78/933/EEC, 77/311/EEC and 89/173/EEC as amended by this Directive, and on grounds relating to the subject-matter of the Directive concerned, Member States: (a) shall no longer grant EC type-approval; (b) may refuse to grant national type-approval. 3. With effect from 1 July 2009, with respect to vehicles which do not comply with the requirements laid down respectively in Directives 74/151/EEC, 78/933/EEC, 77/311/EEC and 89/173/EEC as amended by this Directive, and on grounds relating to the subject-matter of the Directive concerned, Member States: (a) shall consider certificates of conformity which accompany new vehicles in accordance with the provisions of Directive 2003/37/EC to be no longer valid for the purposes of Article 7(1); (b) may refuse the registration, sale or entry into service of those new vehicles.'.
+Introduction
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,
+Having regard to the proposal from the Commission,
+Having regard to the opinion of the European Economic and Social Committee (1),
+Acting in accordance with the procedure laid down in Article 251 of the Treaty (2),
+Whereas:
+
+(1) Council Directive 74/151/EEC of 4 March 1974 on the approximation of the laws of the Member States relating to certain parts and characteristics of wheeled agricultural or forestry tractors (3) has been substantially amended several times (4). In the interests of clarity and rationality the said Directive should be codified. (2) Directive 74/151/EEC is one of the separate Directives of the EC type-approval system provided for in Council Directive 74/150/EEC of 4 March 1974 on the approximation of the laws of the Member States relating to type-approval of wheeled agricultural or forestry tractors, as replaced by Directive 2003/37/EC of the European Parliament and of the Council of 26 May 2003 on type-approval of agricultural or forestry tractors, their trailers and interchangeable towed machinery, together with their systems, components and separate technical units (5) and lays down technical prescriptions concerning the design and construction of agricultural or forestry tractors with regard, inter alia, to their maximum permissible laden mass, the location and fixing of rear registration plates, tanks for liquid fuel, ballast weights, audible warning devices, permissible sound levels and the exhaust system (silencer). Those technical prescriptions seek to approximate the laws of the Member States to enable the EC type-approval procedure provided for in Directive 2003/37/EC to be applied in respect of each type of tractor. Consequently, the provisions laid down in Directive 2003/37/EC relating to agricultural and forestry tractors, their trailers, and their interchangeable towed machinery, together with their systems, components and separate technical units, apply to this Directive. (3) This Directive should be without prejudice to the obligations of the Member States concerning the time-limits for transposition into national law and application of the Directives set out in Annex VII, Part B,
+HAVE ADOPTED THIS DIRECTIVE:
+MAXIMUM PERMISSIBLE LADEN MASS
+ANNEX I
+MAXIMUM PERMISSIBLE LADEN MASS
+ 1. The technically permissible maximum laden mass as stated by the manufacturer shall be accepted by the competent administration as the maximum permissible laden mass provided that: 1.1. the results of any tests which that administration makes, in particular those in respect of braking and steering, are satisfactory;
+
+| Vehicle category | Number of axles | Maximum permissible mass (t) | Maximum permissible mass per axle | Maximum permissible mass per axle |
+|---|---|---|---|---|
+| Vehicle category | Number of axles | Maximum permissible mass (t) | Driven axle (t) | Non-driven axle (t) |
+| T1, T2, T4.1 | 2 | 18 (laden) | 115 | 10 |
+| T1, T2, T4.1 | 3 | 24 (laden) | 115 | 10 |
+| T3 | 2 or 3 | 0,6 (unladen) | (1) | (1) |
+| T4.3 | 2, 3 or 4 | 10 (laden) | (1) | (1) |
+
+2. Whatever the state of loading of the tractor, the mass transmitted to the road by the wheels on the forward axle must not be less than 20 % of the unladen mass of that tractor. (1) It is not necessary to establish an axle limit for vehicle categories T3 and T4,3, as they have by definition limitations on the maximum permissible laden and/or unladen mass.
+BALLAST WEIGHTS
+ANNEX IV
+BALLAST WEIGHTS
+If the tractor is to be fitted with ballast weights in order to meet the other requirements of EC approval, those ballast weights must be supplied by the manufacturer of the tractor, be intended for fitting, and bear the manufacturer's mark and a statement of their mass in kilograms to an accuracy of ± 5 %.
+
+Front ballast weights that have been designed for frequent removal/fitting must leave a safety clearance of at least 25 mm for the grab handles. The method of locating the ballast weights must be such that any inadvertent separation is avoided (e.g. in the event of tractor rollover).
+1. SHAPE AND DIMENSIONS OF THE SPACE FOR MOUNTING REAR REGISTRATION PLATES
+ANNEX II
+1. SHAPE AND DIMENSIONS OF THE SPACE FOR MOUNTING REAR REGISTRATION PLATES
+The space for mounting shall comprise an even or virtually even rectangular surface with the following minimum dimensions:
+
+—
+length: 255 or 520 mm,
+—
+width: 165 or 120 mm,
+The choice must take account of the dimensions in force in the Member States of destination. 2. LOCATION OF THE SPACE FOR MOUNTING AND THE FIXING OF THE PLATES
+The space for mounting shall be such that, after correct fixing, the plates shall have the following characteristics: 2.1. Lateral position of the plate
+The centre of the plate may not be further to the right than the plane of symmetry of the tractor. The left lateral edge of the plate may not be further to the left than the vertical plane parallel to the plane of symmetry of the tractor and tangent to the point where the cross section of the tractor is at its widest. 2.2. Position of the plate in relation to the longitudinal plane of symmetry of the tractor
+The plate shall be perpendicular or practically perpendicular to the plane of symmetry of the tractor. 2.3. Position of the plate in relation to the vertical plane
+The plate shall be vertical within a tolerance of 5°. However, where the shape of the tractor so requires, it may be inclined to the vertical: 2.3.1. at not more than 30° when the surface bearing the registration number is inclined upwards, provided that the height of the upper edge of the plate is not more than 1,2 metres from the ground. 2.3.2. at not more than 15° when the surface bearing the registration number is inclined downwards, provided that the height of the upper edge of the plate is more than 1,2 metres from the ground. 2.4. Height of the plate from the ground
+The height of the lower edge of the plate above ground may not be less than 0,3 metres; the height of the upper edge of the plate above ground must not exceed 4 metres. 2.5. Determination of the height of the plate from the ground
+The heights given in points 2.3 and 2.4 shall be measured with the tractor unladen.

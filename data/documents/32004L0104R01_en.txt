@@ -1,0 +1,29 @@
+Corrigendum to Commission Directive 2004/104/EC of 14 October 2004 adapting to technical progress Council Directive 72/245/EEC relating to the radio interference (electromagnetic compatibility) of vehicles and amending Directive 70/156/EEC on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers
+(
+Official Journal of the European Union L 337 of 13 November 2004
+)
+Corrigendum to Commission Directive 2004/104/EC of 14 October 2004 adapting to technical progress Council Directive 72/245/EEC relating to the radio interference (electromagnetic compatibility) of vehicles and amending Directive 70/156/EEC on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers
+(
+Official Journal of the European Union L 337 of 13 November 2004
+)
+ 1. Delete the Directive number and subsequent rule in the titles of the graphs in Annex I:
+
+—
+appendix 2 (page 28),
+—
+appendix 3 (page 29),
+—
+appendix 4 (page 30),
+—
+appendix 5 (page 31),
+—
+appendix 6 (page 32),
+—
+appendix 7 (page 33). 2. On page 35, in Annex II A, in the title: for: 'Commission Directive 2004/78/EC',
+read: 'Directive 2004/104/EC'. 3. On page 38, in Annex II B, in the title: for: 'Commission Directive 95/54/EC',
+read: 'Directive 2004/104/EC'. 4. On page 40, in Annex III A, in the title: for: 'Commission Directive 95/54/EC',
+read: 'Directive 2004/104/EC'. 5. On page 42, in Annex III B, in the title: for: 'Commission Directive 95/54/EC',
+read: 'Directive 2004/104/EC'. 6. On page 43, in Annex III C, sixth line: for: 'Directive 2004/XX/EC',
+read: 'Directive 2004/104/EC'. 7. On page 45, insert the following paragraph 1.3:
+'1.3
+As an initial step the levels of emissions in the FM frequency band (76 o 108 MHz) shall be measured at the vehicle broadcast radio antenna with an average detector. If the level specified in paragraph 6.3.2.4 of Annex I is not exceeded, then the vehicle shall be deemed to comply with the requirements of this Annex in respect of that frequency band and the full test shall not be carried out.'

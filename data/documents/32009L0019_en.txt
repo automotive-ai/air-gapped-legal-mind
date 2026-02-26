@@ -1,0 +1,41 @@
+Introduction
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (1), and in particular Article 39(2) thereof,
+Whereas:
+
+(1) Council Directive 72/245/EEC of 20 June 1972 relating to the radio interference (electromagnetic compatibility) of vehicles (2) is one of the separate Directives in the context of the EC type-approval procedure established under Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (3). The provisions of Directive 70/156/EEC relating to systems, components and separate technical units for vehicles therefore apply to Directive 72/245/EEC. (2) According to point 3.2.9 of Annex I to Directive 72/245/EEC components sold as aftermarket equipment and intended for the installation in motor vehicles do not need type-approval if they are not related to immunity related functions. A transition period of four years starting on 3 December 2004, is provided for, during which a technical service has to determine if the component to be placed on the market is immunity related or not and has to issue an attestation as according to the example shown in Annex III C. Member States are required to report any cases of refusals on safety grounds to the European Commission. That provision requires the Commission to decide, based on the practical experience with that requirement and based on the reports submitted by Member States, before the end of the transition period, if that attestation should still be required in addition to the Declaration of Conformity. (3) As foreseen in point 3.2.9 of Annex I to Directive 72/245/EEC and having regard to the fact that the European Commission has not received any reports from Member States concerning cases of refusal of attestation, it is now proposed to abolish the involvement of the technical service in the case of components sold as aftermarket equipment and intended for installation in motor vehicles, if they are not related to immunity related functions, and to no longer require the attestation in accordance to the example given in Annex III C, as set out in point 3.2.9 of Annex I. (4) Directive 72/245/EEC should therefore be amended accordingly. (5) The measures provided for in this Directive are in accordance with the opinion of the Technical Committee — Motor Vehicles,
+HAS ADOPTED THIS DIRECTIVE:
+Article 1
+Directive 72/245/EEC is amended as follows:
+
+1. In the list of Annexes the following reference to Annex III C is deleted: 'ANNEX III C
+Model of attestation with regard to Annex I, 3.2.9.' 2. In Annex I, in point 3.2.9, the second subparagraph is deleted. 3. Annex III C is deleted.
+Article 4
+This Directive is addressed to the Member States.
+Article 2
+1. Member States shall adopt and publish, by 1 October 2009, at the latest, the laws, regulations and administrative provisions necessary to comply with this Directive.
+
+They shall forthwith communicate to the Commission the text of those provisions. They shall apply those provisions from 2 October 2009. When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made. 2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+citation
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (1), and in particular Article 39(2) thereof,
+Whereas:
+recital 1
+(1) Council Directive 72/245/EEC of 20 June 1972 relating to the radio interference (electromagnetic compatibility) of vehicles (2) is one of the separate Directives in the context of the EC type-approval procedure established under Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (3).
+
+The provisions of Directive 70/156/EEC relating to systems, components and separate technical units for vehicles therefore apply to Directive 72/245/EEC.
+recital 2
+(2) According to point 3.2.9 of Annex I to Directive 72/245/EEC components sold as aftermarket equipment and intended for the installation in motor vehicles do not need type-approval if they are not related to immunity related functions.
+
+A transition period of four years starting on 3 December 2004, is provided for, during which a technical service has to determine if the component to be placed on the market is immunity related or not and has to issue an attestation as according to the example shown in Annex III C. Member States are required to report any cases of refusals on safety grounds to the European Commission. That provision requires the Commission to decide, based on the practical experience with that requirement and based on the reports submitted by Member States, before the end of the transition period, if that attestation should still be required in addition to the Declaration of Conformity.
+recital 3
+(3) As foreseen in point 3.2.9 of Annex I to Directive 72/245/EEC and having regard to the fact that the European Commission has not received any reports from Member States concerning cases of refusal of attestation, it is now proposed to abolish the involvement of the technical service in the case of components sold as aftermarket equipment and intended for installation in motor vehicles, if they are not related to immunity related functions, and to no longer require the attestation in accordance to the example given in Annex III C, as set out in point 3.2.9 of Annex I.
+recital 4
+(4) Directive 72/245/EEC should therefore be amended accordingly.
+recital 5
+(5) The measures provided for in this Directive are in accordance with the opinion of the Technical Committee — Motor Vehicles,
+HAS ADOPTED THIS DIRECTIVE:
+Article 3
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.

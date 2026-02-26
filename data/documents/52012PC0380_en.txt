@@ -1,0 +1,2480 @@
+ANNEX_ to the Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on periodic roadworthiness tests for motor vehicles and their trailers and repealing Directive 2009/40/EC /* COM/2012/0380 final */
+EXPLANATORY MEMORANDUM
+1. CONTEXT OF THE PROPOSAL
+· 
+Grounds for and objectives of the proposal
+The objective of the proposal is to lay
+down updated harmonised rules on the roadworthiness testing of motor vehicles
+and their trailers with a view to enhance road safety and environmental
+protection.
+
+The proposal aims at contributing to reach
+the target of a reduction of road fatalities by half until 2020 as laid down in
+the Policy Orientations on Road Safety 2011-2020[1]. It will also contribute to the reduction of emissions in road transport linked
+to poor maintenance of vehicles. · 
+General context
+Before a vehicle is allowed to be put on
+the market, it has to fulfil all the relevant type or individual approval
+requirements guaranteeing an optimal level of safety and environmental
+standards. Every Member State has the obligation to register for the first time
+any vehicle that got the European type-approval on the basis of the
+"Certificate of Conformity" issued by the vehicle manufacturer. This
+registration is the official authorisation for the use on public roads and
+enforces the different introduction dates of different vehicles' requirements. Following this approval, cars on the road
+have be regularly submitted to periodic roadworthiness tests. The aim of these tests
+is to ensure that cars on the road remain roadworthy, safe and do not pose any
+danger to the driver and other road users. Cars are therefore checked for
+compliance with certain requirements, such as those for safety and
+environmental protection, as well as for retrofitting requirements. Because of
+their regular and intensive use mainly for commercial purposes, vehicles used
+for the professional transport of goods with a laden mass above 3.5 tonnes and
+for the professional transport of passengers of more than 8 passengers are
+additionally subject to ad hoc technical roadside inspections by which their
+compliance with environmental and technical requirements is verified at anytime
+and anywhere in the EU. During a vehicle's lifetime it may be
+subject to re-registration, due to a change of ownership, or a transfer to
+another Member State for permanent use. Provisions on a vehicle registration
+procedure should be similarly introduced to ensure that vehicles which
+constitute an immediate risk to road safety are not used on roads. The goal of
+roadworthiness testing is to check the functionality of safety components, the
+environmental performance and the compliance of a vehicle with its approval. · 
+Existing provisions in the area of the proposal
+The
+"Roadworthiness Package" will carry over the existing requirements
+laid down in the existing legislative framework related to the roadworthiness
+regime, which covers roadworthiness tests[2],
+roadside inspections[3]
+and rules on the registration of vehicles[4]. Compared to the existing legislation on
+roadworthiness tests, the proposal extends the scope of the existing regime to
+new categories of vehicles, including motorcycles, as well as the frequency of
+inspections for older vehicles to those having reached a high mileage. The
+proposal also lays down new requirements on several issues related to the
+standard and quality of testing, namely test equipment, skills and training of
+testing personnel and supervision of the testing system. · 
+Consistency with the other policies and objectives
+of the Union
+The proposal is consistent with the EU
+objective to make roads safer as outlined in the White Paper on Transport[5] and aims at implementing the
+specific strategy related to safer vehicles within the Road Safety Policy
+Orientations 2011-2020. Furthermore, as far as the environmental
+aspects of the proposal are concerned, the foreseen requirements contribute to
+reduce CO2 emissions and other air pollutants from motor vehicles
+following the European Strategy on clean and energy efficient vehicles[6] as well as the integrated
+energy and climate change policy[7]
+the so-called "20-20-20 strategy" and to contribute to achieve the
+air quality objectives set out in Directive 2008/50/EC[8] 
+Finally, the proposal is consistent with
+the recommendations related to the re-launch of the Single Market policy as
+provided by the Monti Report of May 2010[9]
+in the field of reduction of administrative obstacles for cross-border movement
+of second hand cars. 2. RESULTS OF CONSULTATIONS
+WITH THE INTERESTED PARTIES AND IMPACT ASSESSMENTS
+· 
+Consultation of interested parties
+Consultation methods
+In developing the proposal the Commission
+has consulted stakeholders in a number of ways: - 
+There was a general internet consultation,
+covering all aspects of the proposal. - 
+Experts and stakeholders have been consulted
+within workshops. - 
+A study on future options for roadworthiness
+enforcement in the European Union has been carried out to identify possible
+measures and to elaborate a cost benefit analysis tool related to the effects
+of roadworthiness testing. Summary of responses and how they have been
+taken into account
+During the internet consultation, several
+issues were raised by stakeholders. The impact assessment that accompanies this
+proposal provides a full account of the substantive issues raised and indicates
+how they have been taken into consideration. An open consultation was conducted over the
+internet from 29 July 2010 to 24 September 2010. The Commission received 9,653
+responses from citizens, Member State authorities, equipment suppliers, test
+centres, garage associations and vehicle manufacturers. The results are available on http://ec.europa.eu/transport/road_safety/take-part/public-consultations/pti_en.htm. · 
+Collection and use of expertise
+Scientific/expertise domains concerned
+The proposal required the assessment of
+different policy options as well as the associated economic, societal and
+environmental impacts. Methodology used
+A study on the impacts of different policy
+options has been performed by an external consultant (Europe Economics) by
+using several scientific and evaluation reports, notably as sources of models
+and data for the monetization of the costs and benefits of the different policy
+options. Most extensively used studies include the following: - 
+The Report from the Commission to the Council
+and the European Parliament on the application by the Member States of
+Directive 2000/30/EC of the European Parliament and of the Council of
+6 June 2000 on the technical roadside inspections of the
+roadworthiness of commercial vehicles circulating in the community - Reporting
+periods 2005-2006 and 2007-2008[10],
+- 
+AUTOFORE (2007),
+- 
+"MOT Scheme Evidence-base" Department
+of Transport (UK, 2008), 
+- 
+DEKRA Road Safety Report 2008 - Strategies for
+preventing accidents on Europe's roads, 
+- 
+DEKRA Road Safety Report on Trucks 2009, 
+- 
+DEKRA Motorcycle road safety report 2010, 
+- 
+TÜV Reports 2009 / 2010. Means used to make the expert advice
+publicly available
+All completed and approved research reports
+are or will be made available on the DG Mobility and Transport website. · 
+Impact assessment
+For the main aspects of the proposal the
+following options were considered: (a) 
+The 'No policy change' approach provides the reference case with which the effects of other policy
+options are compared. Within this option, the present EU legal framework would
+be maintained. Also, there would be no short-term adaptation of the technical
+annex of Directive 2009/40/EC which has been recently amended through the
+committee procedure with Directive 2010/48/EU[11]. The scope and frequency of roadworthiness tests will therefore not change, and
+no further measures related to the exchange of information will be adopted. The
+absence of a framework for exchanging data will persist.
+The
+absence of a framework for exchanging data will persist.
+
+(b) 
+The "Soft law approach" would consist
+in both better implementation and better monitoring of the application of
+existing legislation. This option would not introduce new legislation, but
+there would be new and increased efforts by the Commission to improve the
+standards of testing and enforcement, as well as actions to incentivise the
+exchange of data. (c) 
+The "Legislative approach" would be
+based on two components. - 
+In order to meet the specific objective to
+enhance the safety of vehicles on the road, the first component is to revise
+upwards the minimum EU standards for periodic roadworthiness tests (PTI) and
+unexpected roadside inspections (RSI) and define mandatory standards. This is
+essential to avoid that gaps in the system reduce the effectiveness of
+roadworthiness enforcement as a whole. - 
+In order to meet the specific objective of
+making the necessary data for and from roadworthiness testing available, a
+second component of the overall regime would include, in a second phase, the
+possible establishment of an EU harmonised data exchange system linking the
+existing databases and ensuring: the access by all PTI centres
+to data at the level of the Certificate of Conformity and the data on
+electronic safety systems (such as ABS[12],
+ESC[13],
+airbags, etc.);
+the exchange of inspection
+results between Member States, with accessibility of most important enforcement
+authorities to the system; the reporting of inspection
+results - and in particular odometer readings - by PTI centres to national and
+European authorities for enforcement and statistical purposes. In several Member States a high number of
+private authorised test centres carry out roadworthiness tests. In order to
+ensure a coherent approach, certain common procedures such as minimum time
+limits and the nature of the information to be forwarded, should be specified
+in the legislation. However, the
+impact assessment has shown the benefits of a combination of a soft-law
+approach with a regulatory approach. Therefore, the soft-law
+measures previously envisaged by the impact assessment have been integrated
+into the legislative texts. 3. LEGAL ELEMENTS OF THE
+PROPOSAL
+· 
+Summary of the proposed action
+Testing centres shall have access to the
+technical information necessary to perform the tests including those of
+electronic safety related components like ABS or ESC. Manufacturers shall
+provide access to such information as it is already in place for vehicle repair
+and maintenance information. The scope of vehicles to be tested will be
+extended to the powered two or three wheelers, light trailers up to 3.5 tons
+and tractors with a design speed exceeding 40 km/h. Considering the aspects of
+vehicle age and yearly mileage the test frequency of older cars will be
+increased and vehicles with high mileage will be subject to annual testing as
+it is already the case for taxis and ambulances. A time window of four month in
+which the roadworthiness test shall be performed will allow for sufficient
+flexibility for citizens and operators. The equipment to be used for testing shall
+fulfil certain minimum requirements allowing for an efficient performing of the
+test methods described. Detected deficiencies shall be assessed according to
+harmonised rules related to their risk to road safety. Inspectors performing roadworthiness tests
+shall meet a certain level of knowledge and skills and be properly trained. Inspectors shall be free of any conflict of interests, in particular as regards
+economic, personal or family links with the holder of the vehicle registration. Roadworthiness test activities performed by authorised private bodies shall be
+subject to supervision. Results of roadworthiness tests, including
+information on the vehicles mileage, shall be kept in national registers, which
+will facilitate the identification of mileage fraud. Odometer fraud should also
+be more systematically considered as an offence liable to a penalty. In several Member States a high number of
+private authorised test centres carry out roadworthiness tests. In order to ensure
+the efficient exchange of information between Member States, national contact
+points should be designated and certain common procedures such as a minimum to
+time limits and the nature of the information to be forwarded, should be
+specified. The Commission shall be empowered to amend
+the Regulation with a view to take into account, when appropriate, evolution of
+the EU type-approval legislation in relation with vehicle categories and to
+update the annexes to technical progress via delegated acts including inter
+alia alternative test procedures based upon modern emission after-treatment
+systems for checking the in use NOx and particulate emissions
+conformity which are still under development. · 
+Legal basis
+The legal basis of the proposal is Article
+91 of the Treaty on the Functioning of the European Union. · 
+Subsidiarity principle
+The subsidiarity principle applies insofar
+as the proposal does not fall under the exclusive competence of the Union. The objectives of the proposal cannot be
+sufficiently achieved by the Member States for the following reason: the
+technical requirements for roadworthiness testing have been set on a minimum
+level at Union level and their implementation by Member States has led to a
+high diversity in the requirements throughout the Union with negative impacts
+both on road safety and on the internal market. The proposal therefore complies with the
+subsidiarity principle. · 
+Proportionality principle
+As showed in the impact assessment, the
+proposal complies with the proportionality principle because it does not go
+beyond what is necessary in order to achieve the objectives related to the
+increase of road safety and environmental protection by increasing the quality
+and strengthening of roadworthiness testing and creating the appropriate framework
+for a seamless flow of information. This includes inter alia the setting of
+minimum standards for inspectors' knowledge and training as today's vehicles
+are high sophisticated products full of complex technology. This applies also
+to minimum requirements for the test equipment that will be used during
+roadworthiness tests. All these measures are the necessary prerequisites
+providing for an increase of testing quality. · 
+Choice of instrument
+Proposed instruments: Regulation. The choice of a Regulation is considered to
+be appropriate in providing the required assurance of compliance whilst not
+requiring the transposition into Member States legislation. 4. BUDGETARY IMPLICATION 
+The proposal has no implication on the
+Union budget. 5. OPTIONAL ELEMENTS [where
+necessary]
+· 
+Repeal of existing legislation
+The adoption of the proposal will lead to
+the repeal of existing legislation. · 
+European Economic Area
+The proposed act concerns an EEA matter and
+should therefore extend to the European Economic Area. 2012/0184 (COD)
+Proposal for a
+REGULATION OF THE EUROPEAN PARLIAMENT
+AND OF THE COUNCIL
+on periodic roadworthiness tests for motor
+vehicles and their trailers and repealing Directive 2009/40/EC 
+(Text with EEA relevance)
+THE EUROPEAN PARLIAMENT AND THE
+COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty on the
+Functioning of the European Union, and in particular Article 91 thereof,
+Having regard to the proposal from the
+European Commission,
+After transmission of the draft legislative
+act to the national Parliaments,
+Having regard to the opinion of the
+European Economic and Social Committee[14],
+Having regard to the opinion of the
+Committee of the Regions[15],
+Acting in accordance with the ordinary
+legislative procedure,
+Whereas: (1) 
+In its White Paper of 28 March 2011 'Roadmap to
+a Single European Transport Area - Towards a competitive and resource efficient
+transport system'[16] the Commission sets out a 'vision zero' objective in which the Union
+should move close to zero fatalities in road transport by 2050.
+(1) 
+In its White Paper of 28 March 2011 'Roadmap to
+a Single European Transport Area - Towards a competitive and resource efficient
+transport system'[16] the Commission sets out a 'vision zero' objective in which the Union
+should move close to zero fatalities in road transport by 2050.
+
+To reach this
+objective, vehicle technology is expected to contribute a great deal to the
+improvement of the safety record of road transport. (2) 
+The Commission, in its Communication on 'Towards
+a European road safety area: policy orientations on road safety for 2011-2020[17]', proposed to further halve
+the overall number of road fatalities in the Union by 2020, starting from 2010. With a view to reach this goal, the Commission defined seven strategic
+objectives, including actions for safer vehicles, a strategy to reduce the number
+of injuries and the improvement of the safety of vulnerable road users, in
+particular motorcyclists. (3) 
+Roadworthiness testing is a part of a wider
+regime ensuring that vehicles are kept in a safe and environmental acceptable
+condition during their use. This regime should cover periodic roadworthiness
+tests for all vehicles and roadside technical inspection for vehicles used for
+commercial road transport activities as well as provisions on a vehicle
+registration procedure to ensure that vehicles which constitute an immediate
+risk to road safety are not used on roads. (4) 
+A number of technical standards and requirements
+on vehicle safety have been adopted within the Union. It is however necessary
+to ensure, through a regime of periodic roadworthiness tests, that after being
+placed on the market, vehicles continue to meet safety standards throughout
+their lifetime. This regime should apply to categories of vehicles as defined
+in Directive 2002/24/EC of the European Parliament and of the Council of 18
+March 2002 relating to the type-approval of two or three-wheel motor vehicles
+and repealing Council Directive 92/61/EEC[18],
+Directive 2007/46/EC of the European Parliament and of the Council of 5
+September 2007 establishing a framework for the approval for motor vehicles and
+their trailers, and of systems, components and separate technical units
+intended for such vehicles[19]
+and Directive 2003/37/EC of the European Parliament and of the Council of 26
+May 2003 on type-approval of agricultural or forestry tractors, their trailers
+and interchangeable towed machinery, together with their systems, components
+and separate technical units and repealing Directive 74/150/EEC[20]. (5) 
+There is a clear correlation between the level
+of road safety and the number of technical deficiencies of vehicles. In 2009,
+35,000 fatalities have been reported on European roads. Assuming that technical
+deficiencies contribute to fatalities proportionately to their contribution to
+accidents, more than 2,000 fatalities per year in the Union may be linked to technical
+deficiencies of vehicles. Based on available studies, between 900 and 1,100 of
+these could be avoided if adequate improvements to the roadworthiness testing
+system were put in place. (6) 
+A large fraction of total emissions of road
+transport, in particular CO2 emissions, is due to a minority of vehicles with
+malfunctioning emission control systems. It is estimated that 5% of the vehicle
+fleet causes 25% of all pollutant emissions. Therefore, a periodic regime of
+roadworthiness tests would also contribute to improve the environment through
+the reduction of the average vehicle emissions. (7) 
+Solid investigation results show that 8% of the
+accidents involving motorcycles are caused or linked to technical defects. Motorcycle
+riders are the group of road users with the highest safety risk, with rising
+trend in the number of fatalities. Moped drivers are overrepresented in the
+number of fatalities, with more than 1,400 drivers killed on the roads in 2008. The scope of vehicles to be tested shall therefore be extended to the highest
+risk group of road users, the powered two- or three-wheel vehicles. (8) 
+Agricultural vehicles with a maximum design
+speed exceeding 40 km/h are more and more used to replace trucks in local
+transport activities. Their risk potential is comparable to that of trucks and
+therefore this vehicle category should be treated in the same way as trucks
+regarding roadworthiness testing. (9) 
+Vehicles of historic interest are supposed to
+conserve heritage of the époque they have been built and considered to be
+hardly used on public roads, it should be left to Member States to extend the
+period of periodic roadworthiness testing for such vehicles. It should also be
+for Member States to regulate roadworthiness testing of other types of
+specialised vehicles. (10) 
+Roadworthiness testing is a sovereign activity
+and should therefore be done by the Member States or by entrusted bodies under
+their supervision. Member States should remain responsible for roadworthiness
+testing in any cases even if the national system allows for authorisation of
+private bodies, including those involved in performing repairs. (11) 
+For the inspection of vehicles and especially
+for their electronic safety components it is crucial to have access to the
+technical specifications of each single vehicle. Therefore vehicle
+manufacturers should not only provide the complete set of data as covered by
+the certificate of conformity (CoC) but also the access to data necessary for
+verification of the functionality of safety and environmental related
+components. The provisions related to access to repair and maintenance
+information should be applied similarly for this purpose, allowing inspection
+centres to have access to those information-elements necessary for
+roadworthiness testing. This is of crucial importance especially in the field of
+electronic controlled systems and should cover all elements that have been
+installed by the manufacturer. (12) 
+To achieve a high quality of testing throughout
+the Union test equipment to be used during testing, its maintenance and calibration
+should be specified on Union level. (13) 
+Inspectors, when performing roadworthiness
+tests, should act independently and any conflict of interests should be
+avoided.. The result of roadworthiness tests should not thus be linked to
+salary or any economic or personal benefit. (14) 
+Results of a test should not be altered for
+commercial purposes. Only, if the findings of the roadworthiness test performed
+by an inspector are manifestly incorrect, the supervising body should be able
+to modify the results of a roadworthiness test. (15) 
+High standards of roadworthiness testing require
+a high level of skills and competences of the testing personnel. A training
+system including an initial training and periodic refresher trainings should be
+introduced. A transitional period should be defined to allow for a smooth
+transition of existing testing personnel into the periodic training regime. (16) 
+With a view to ensure that the high quality of
+testing is kept over time Member States should be required to set up a quality
+assurance system that covers the processes of authorisation, Supervision and
+withdrawal, suspension or cancellation of the authorisation to perform
+roadworthiness tests. (17) 
+Frequency of tests should be adapted according
+to the type of vehicle and to their mileage. Vehicles are more likely to
+present technical deficiencies when they reach a certain age and, in particular
+when intensively used, after a certain mileage. It is therefore appropriate to
+increase the test frequency for older vehicles and for vehicles with high mileage. (18) 
+To allow for some flexibility for vehicle owners
+and operators, Member States should have the possibility to define a period of
+several weeks in which the periodic roadworthiness test would have to be
+performed. (19) 
+Roadworthiness tests should cover all items
+relevant to the specific design, construction and equipment of the tested
+vehicle.
+(19) 
+Roadworthiness tests should cover all items
+relevant to the specific design, construction and equipment of the tested
+vehicle.
+
+Within these items and considering the current state of vehicle
+technology, modern electronic systems should be included in the list of items
+to be tested. To achieve a harmonisation of roadworthiness testing, testing
+methods should be provided for each of the test items. (20) 
+In order to facilitate harmonisation and to
+ensure consistency of standards, a non-exhaustive list of the main reasons for
+failure should be provided for all test items. To achieve consistency in the
+judgement of the condition of the tested vehicle, detected failures should be
+assessed to a common standard. (21) 
+The holder of the registration of a vehicle
+subject to a roadworthiness test during which deficiencies are found, in
+particular those which represent a risk to road safety, should rectify such
+deficiencies without delay. In case of dangerous deficiencies, the registration
+of the vehicle should be withdrawn until those deficiencies are fully
+rectified. (22) 
+A roadworthiness certificate should be issued
+after each test, including inter alia information related to the identity of
+the vehicle and information on the results of the test. With a view to ensure a
+proper follow-up of roadworthiness tests, Member States should collect and keep
+such information in a database. (23) 
+Odometer fraud is considered to affect between
+5% and 12% of used cars sales, resulting in a very important cost to society of
+several billions Euros yearly and in an incorrect evaluation of a roadworthiness
+condition of a vehicle. With a view to combat odometer fraud, the recording of
+mileage in the roadworthiness certificate combined with the obligation to
+present the certificate of the previous test would facilitate the detection of
+tampering or manipulation of the odometer. Odometer fraud should also be more
+systematically considered as an offence liable to a penalty. (24) 
+In several Member States a high number of
+private authorised test centres carry out roadworthiness tests. In order to
+ensure the efficient exchange of information between Member States, national
+contact points should be designated and certain common procedures relating as a
+minimum to time limits and the nature of the information to be forwarded,
+should be specified. (25) 
+Roadworthiness testing is part of a wider
+regulatory scheme, governing vehicles throughout their lifetime from approval
+via registrations, inspections until scrapping. The development and
+interconnection of national and manufacturers' electronic vehicle databases
+should in principle contribute to improve the efficiency of the whole vehicle
+administrative chain and reduce costs and administrative burdens. The
+Commission should therefore carry out a study on the feasibility, costs and
+benefits of setting-up a European electronic vehicle information platform for
+this purpose. (26) 
+In order to supplement this Regulation with
+further technical details, the power to adopt acts in accordance with Article
+290 of the Treaty on the Functioning of the European Union should be delegated
+to the Commission with a view to take into account, when appropriate, evolution
+of the Union type-approval legislation in relation with vehicle categories, as
+well as the need to update the Annexes in the light of technical progress. It
+is of particular importance that the Commission carry out appropriate
+consultations during its preparatory work, including at expert level. The
+Commission, when preparing and drawing up delegated acts, should ensure a simultaneous,
+timely and appropriate transmission of relevant documents to the European
+Parliament and to the Council. (27) 
+In order to ensure uniform conditions for the
+implementation of this Regulation, implementing powers should be conferred on
+the Commission. The implementing powers should be exercised in accordance with
+Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16
+February 2011 laying down the rules and general principles concerning
+mechanisms for control by the Member States of the Commission's exercise of
+implementing powers[21]. (28) 
+Testing facilities and equipment used in the
+testing centres should fulfil the requirements set out for carrying out
+roadworthiness tests. Since this implies important investments and adaptations which
+may not be carried out immediately, a period of five years should be granted to
+comply with these requirements. A similar period of five years should be
+granted for the supervisory bodies to fulfil all the criteria and requirements
+concerning authorisation and supervision of the testing centres. (29) 
+Since the objective of this Regulation, namely
+to lay down minimum common requirements and harmonised rules concerning the
+conduct of roadworthiness tests of vehicles within the Union, cannot be
+sufficiently achieved by the Member States and can therefore be better achieved
+at Union level, the Union may adopt measures, in accordance with the principle
+of subsidiarity as set out in Article 5 of the Treaty. In accordance with the
+principle of proportionality, as set out in that Article, this Regulation does
+not go beyond what is necessary in order to achieve that objective. (30) 
+This Regulation respects fundamental rights and
+observes the principles recognised in particular by the Charter of Fundamental
+Rights of the European Union as referred to in Article 6 of the Treaty on European
+Union. (31) 
+This Regulation updates the technical
+requirements of Directive 2009/40/EC of the European Parliament and of the
+Council of 6 May 2009 on roadworthiness tests for motor vehicles and their
+trailers[22]
+and enlarges its scope in order to include in particular the setting up of testing
+centres and of their supervisory bodies as well as designating inspectors
+entrusted with performance of roadworthiness tests Therefore this Directive should
+be repealed In addition, this Regulation integrates the rules contained in the Commission
+Recommendation 2010/378/EU of 5 July 2010 on the assessment of defects during
+roadworthiness testing in accordance with Directive 2009/40/EC[23] with the view to better
+regulate the roadworthiness testing methods. HAVE ADOPTED THIS REGULATION: CHAPTER I
+SUBJECT
+MATTER, DEFINITIONS AND SCOPE 
+Article 1
+Subject matter
+This Regulation establishes a regime of
+periodic roadworthiness tests of vehicles. Article 2
+Scope 
+1. This Regulation shall
+apply to vehicles with a design speed exceeding 25 km/h of the following
+categories, as referred to in Directive 2002/24/EC, Directive 2007/46/EC and
+Directive 2003/37/EC: - 
+motor vehicles having at least four wheels, used
+for the carriage of passengers and with not more than eight seats in addition to
+the driver's seat - vehicle category M1, 
+- 
+motor vehicles used for the carriage of
+passengers and with more than eight seats, excluding the driver's seat -
+vehicle category M2 and M3, 
+- 
+motor vehicles having at least four wheels,
+normally used for the road carriage of goods and with a maximum permissible
+mass not exceeding 3 500 kg - vehicle category N1,
+- 
+motor vehicles used for the carriage of goods
+and having a maximum permissible mass exceeding 3 500kg - vehicle categories N2
+and N3,
+- 
+trailers and semi-trailers with a maximum
+permissible mass not exceeding 3 500 kg - vehicle categories O1 and O2,
+- 
+trailers and semi-trailers with a maximum
+permissible mass exceeding 3 500 kg - vehicle categories O3 and O4,
+- 
+two- or three-wheel vehicles - vehicle
+categories L1e, L2e, L3e, L4e, L5e, L6e and L7e, 
+- 
+wheeled tractors with a maximum design speed
+exceeding 40 km/h - vehicle category T5. 2. This Regulation shall not
+apply to:
+2. This Regulation shall not
+apply to:
+
+- 
+vehicles of historic interest,
+- 
+vehicles belonging to armed forces, fire
+services, civil protection, emergency or rescue services,
+- 
+vehicles used by agricultural, horticultural,
+forestry, farming or fishery undertakings with a maximum design speed not
+exceeding 40 km/h,
+- 
+specialised vehicles transporting circus and funfair
+equipment with a maximum design speed not exceeding 40 km/h and only operating
+on the territory of the Member State. 3. Member States may
+introduce national requirements concerning roadworthiness tests for vehicles
+listed in paragraph 2 registered in their territory. Article 3
+Definitions
+For the purpose of this Regulation the
+following definitions shall apply: (1) 'vehicle' means any not
+rail-borne motor vehicle or its trailer; (2) 'motor vehicle' means any
+power-driven vehicle on wheels which is moved by its own means with a maximum
+design speed exceeding 25 km/h; (3) 'trailer' means any
+non-self propelled vehicle on wheels which is designed and constructed to be
+towed by a motor vehicle; (4) 'semi-trailer' means any
+trailer designed to be coupled to a motor vehicle in such a way that part of it
+rests on the motor vehicle and that a substantial part of its mass and the mass
+of its load is borne by the motor vehicle; (5) 'two- or three-wheel
+vehicles' means any power-driven vehicle on two wheels with or without sidecar,
+tricycles and quadricycles; (6) 'vehicle registered in a
+Member State' means a vehicle which is registered or entered into service in a
+Member State; (7) 'vehicle of historic
+interest' means any vehicle which fulfils all the following conditions : - 
+It was manufactured at least 30 years ago, 
+- 
+It is maintained by use of replacement parts which
+reproduce the historic components of the vehicle; - 
+It has not sustained any change in the technical
+characteristics of its main components such as engine, brakes, steering or
+suspension and
+- 
+It has not been changed in its appearance; (8) 'holder of a registration
+certificate' means the person in whose name the vehicle is registered; (9) 'roadworthiness test'
+means a verification that the parts and components of a vehicle comply with its
+safety and environmental characteristics in force at the time of approval,
+first registration or entry into service, as well as at the time of
+retrofitting; (10) "approval" means
+any category of approval referred to in Directive 2007/46/EC; (11) 'deficiencies' means
+technical defects and other non-compliances found during a roadworthiness test; (12) "roadworthiness
+certificate" means a certificate issued by the competent authority or a
+testing centre containing the result of the test and the overall assessment of
+the vehicle. (13) 'inspector' means a person
+authorised by a Member State to carry out roadworthiness tests in a testing
+centre or on behalf of a competent authority ; (14) 'competent authority' means
+an authority or public body responsible for managing the national system of roadworthiness
+testing, including, when appropriate, the carrying out of roadworthiness tests; (15) 'testing centre' means
+public or private bodies or establishments, including those carrying out
+vehicle repairs, authorised by a Member State to carry out roadworthiness tests
+; (16) 'supervising body' means a body
+set up by a Member State, responsible for the authorisation and the supervision
+of testing centres
+CHAPTER II
+GENERAL
+OBLIGATIONS 
+Article 4
+Responsibilities
+1. Motor vehicles and their
+trailers shall periodically be tested in accordance with this Regulation in the
+Member State where they are registered. 2. Roadworthiness tests shall
+be carried out only by the competent authority of a Member State or by testing
+centres authorised by Member States. 3. Vehicle manufacturers
+shall provide the testing centres or, when relevant, the competent authority,
+with access to the technical information necessary for roadworthiness testing,
+as set out in Annex I. The Commission shall adopt detailed rules concerning the
+procedures on access to the technical information set out in Annex I in
+accordance with the examination procedure referred to in Article 16(2). 4. The holder of the
+registration certificate shall be responsible for keeping the vehicle in a safe
+and roadworthy condition at all times. CHAPTER III
+REQUIREMENTS
+CONCERNING ROADWORTHINESS TESTS
+Article 5
+Date and frequency of
+testing
+1. Vehicles shall be subject
+to a roadworthiness test on each anniversary of the date of first registration,
+at least within the following intervals: - 
+Vehicles of categories L1e, L2e, L3e, L4e, L5e,
+L6e and L7e: four years after the date on which the vehicle was first
+registered, then two years and thereafter annually; - 
+Vehicles of category M1, N1 and O2: four years
+after the date on which the vehicle was first registered, then two years and
+thereafter annually; - 
+Vehicles of category M1 registered as taxis or
+ambulances, vehicles of categories M2, M3, N2, N3, T5, O3 and O4: one year
+after the date on which the vehicle was first registered, and thereafter
+annually. 2. In the case where a
+vehicle of categories M1 or N1 reaches a mileage of 160 000 km on the first
+roadworthiness test after the vehicle was first registered, it shall be subject
+to a roadworthiness test thereafter annually. 3. The holder of the
+registration certificate may request the testing centre, or the competent
+authority if relevant, to carry out the roadworthiness test during a period
+extending from the beginning of the month preceding the month of the
+anniversary date referred to in paragraph 1 until the end of the second month
+following this date, without affecting the date for the next roadworthiness
+test. 4. Notwithstanding the date
+of its last roadworthiness test, the competent authority may require that a
+vehicle be subject to a roadworthiness test or additional testing before the
+date referred to in paragraphs 1 and 2, in the following cases: - 
+after an accident with serious damage to the
+main safety related components of the vehicle such as wheels, suspension,
+deformation zones, steering or brakes,
+- 
+when the safety and environmental systems and
+components of the vehicle have been altered or modified, 
+- 
+in case of a change of the holder of the registration
+certificate of a vehicle. Article 6
+Contents and methods of
+testing
+1. The roadworthiness test
+shall cover the areas referred to in Annex II, point 2. 2. For each area referred to
+in paragraph 1, the competent authorities of the Member State or the testing
+centre shall carry out a roadworthiness test covering at least the items and
+using the method applicable to the testing of those items, as set out in Annex II,
+point 3. Article 7
+Assessment of deficiencies 
+1. For each item to be
+tested, Annex III provides a minimum list of possible deficiencies and their
+level of severity. 2. When carrying out a
+roadworthiness test, the inspector shall attribute to each deficiency detected
+a level of severity and classify it into one of the following groups : - 
+minor deficiencies having no significant effect
+on the safety of the vehicle and other minor non-compliances,
+- 
+major deficiencies that may prejudice the safety
+of the vehicle or put other road users at risk or other more significant
+non-compliances,
+- 
+dangerous deficiencies that constitute a direct
+and immediate risk to road safety such that the vehicle may not be used on the
+road under any circumstances. 3. A vehicle having
+deficiencies falling into more than one deficiency group referred to in
+paragraph 2 shall be classified into the group corresponding to the most
+serious deficiency. A vehicle showing several deficiencies of the same group
+shall be classified in the next more serious group if the combined effect of
+those deficiencies result in a higher risk to road safety. Article 8
+Roadworthiness certificate
+1.
+Article 8
+Roadworthiness certificate
+1.
+
+The testing centre or, if
+relevant, the competent authority that has conducted a roadworthiness test on a
+vehicle shall issue a roadworthiness certificate to that vehicle that contains
+at least the elements laid down in Annex IV. 2. The testing centre or, if
+relevant, the competent authority, shall provide the person presenting the
+vehicle to the test with the roadworthiness certificate or, in case of
+electronic established roadworthiness certificate, a duly certified printout of
+such certificate. 3. As from the date of entry
+into force of this Regulation and at the latest 3 years afterwards, the testing
+centres shall communicate electronically, to the competent authority of a
+Member State the information mentioned in roadworthiness certificates which
+they deliver. This communication shall take place within a reasonable time
+after the issuance of the roadworthiness certificates. Until this date, the
+testing centres may communicate this information to the competent authority by
+any other means. The competent authority shall keep this information for 36
+months from the date of its reception. 4. For the purposes of
+checking the odometer reading, and where this information was not communicated
+electronically following the previous roadworthiness test, the inspector shall
+require the person presenting the vehicle to the test to show the certificate
+issued following the previous roadworthiness test. 5. The results of the
+roadworthiness test shall be notified to the registration authority of the
+vehicle. This notification shall contain the information mentioned in the
+roadworthiness certificate. Article 9
+Follow-up of deficiencies 
+1. In the case of minor
+deficiencies only, the holder of the registration certificate shall ensure that
+such deficiencies are rectified without delay. The vehicle may not need to be
+re-tested. 2. In the case of major
+deficiencies, the competent authority shall decide on the conditions under
+which a vehicle may be used before undergoing another roadworthiness test. The latter
+test shall take place within six weeks following the initial test. 3. In the case of dangerous
+deficiencies, the vehicle shall not be used on publicly accessible roads and
+its registration shall be withdrawn in accordance with Article 3a of Directive
+XXX of the European Parliament and of the Council amending Council Directive
+1999/37/EC on the registration documents for vehicles[24] until the deficiencies are
+rectified and a new roadworthiness certificate is issued testifying that the
+vehicle is in a roadworthy condition. Article 10
+Proof of test 
+The testing centre or, if relevant, the
+competent authority of the Member State that has carried out a roadworthiness
+test on a vehicle registered in its territory shall issue a proof to each
+vehicle having successfully passed such a test. The proof shall indicate the
+date of the next roadworthiness test. Each Member State shall recognise the proof
+issued in accordance with paragraph 1. CHAPTER IV
+Administrative provisions
+Article 11
+Testing
+facilities and equipment
+1. Testing facilities and
+equipment used for carrying out roadworthiness tests shall comply with the
+minimum technical requirements laid down in Annex V.
+2. The testing centres or, if
+relevant, the competent authority, shall maintain the testing facilities and
+equipment in accordance with the specifications provided by the manufacturer. 3. Any equipment that is used
+for measurements shall be periodically calibrated in accordance with the
+specifications provided by the manufacturer. Article 12
+Inspectors
+1. Roadworthiness tests shall
+be carried out by inspectors fulfilling the minimum competence and training
+requirements laid down in Annex VI. 2. Member States shall
+deliver a certificate to inspectors who fulfil the minimum competence and
+training requirements. This certificate shall include at least the information
+mentioned in Annex VI, point 3. 3. Inspectors employed by
+competent authorities of the Member States or a testing centre at the date of
+application of this Regulation shall be exempted from the requirements laid
+down in Annex VI, point 1. The Member States shall deliver a certificate of
+equivalence to these inspectors. 4. When
+carrying out a roadworthiness test, the inspector shall be free of any conflict
+of interests, in particular as regards economic, personal or family links with
+the holder of the registration certificate of the vehicle subject to testing. 5. The testing centre shall inform
+the person presenting the vehicle to the test of the necessary repairs to be
+carried out and shall not alter the results of the test for commercial
+purposes. 6. The results of a
+roadworthiness test performed by an inspector can only be modified by the
+supervising body if the findings of the roadworthiness test performed by the
+inspector are manifestly incorrect. Article 13
+Authorisation and
+supervision of testing centres
+1. A supervising body shall perform
+at least the tasks provided for in Annex VII, point 1, and fulfil the requirements
+laid down in points 2 and 3 of the same Annex . Member States shall make publicly available the
+rules and procedures covering the organisation, tasks and requirements
+applicable to the personnel of supervising bodies. Supervising bodies shall be independent from
+testing centres and vehicle manufacturers. 2. Testing centres directly
+operated by a competent authority shall be exempted from the requirements regarding
+authorisation and supervision. CHAPTER V
+COOPERATION AND EXCHANGE OF INFORMATION
+Article 14
+Administrative cooperation
+between Member States
+1. Member States shall designate
+a national contact point responsible for the exchange of information with the
+other Member States and the Commission with regard to the application of this
+Regulation. 2. Member States shall
+forward to the Commission the names and contact details of their national
+contact point at the latest [one year after the entry into force of this
+Regulation] and inform it without delay about any changes thereof. The
+Commission shall draw up a list of all contact points and forward it to the
+Member States. Article 15
+Electronic vehicle
+information platform 
+The Commission shall examine the
+feasibility, costs and benefits of the establishment of an electronic vehicle
+information platform with a view to exchange information on data related to
+roadworthiness testing between the competent authorities of Member States
+responsible for testing, registration and vehicle approval, the testing centres
+and the vehicle manufacturers. It shall, on the basis of that examination,
+put forward and evaluate different policy options, including the possibility to
+remove the requirement of a proof of test as provided for in Article 10. Within
+two years after the date of application of this Regulation, the Commission
+shall report to the European Parliament and to the Council on the results of
+the examination, and accompany it with a legislative proposal, if appropriate. CHAPTER VI
+Provisions on implementing and delegated powers 
+Article 16
+Roadworthiness Committee 
+1. The Commission shall be
+assisted by a committee. That committee shall be a committee within the
+meaning of Regulation (EU) No 182/2011. 2. Where reference is made to
+this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply. Where the
+opinion of the committee is to be obtained by written procedure, that procedure
+shall be terminated without result when, within the time-limit for delivery of
+the opinion, the chair of the committee so decides or a simple majority of
+committee members so request. Article 17
+Delegated acts
+The Commission shall be empowered to adopt
+delegated acts in accordance with Article 19 with a view:
+Article 17
+Delegated acts
+The Commission shall be empowered to adopt
+delegated acts in accordance with Article 19 with a view:
+
+- 
+to update Article 2(1) and Article 5(1) and (2)
+as appropriate in order to take account of the changes to the vehicle
+categories stemming from amendments to the legislation referred to in Article
+3(1),
+- 
+to update the Annexes in the light of technical
+progress or in order to take account of the modification in international or
+Union legislation. Article18
+Exercise of delegation
+1. The power to adopt
+delegated acts is conferred on the Commission subject to the conditions laid
+down in this Article. 2. The delegation of power
+referred to in Article 17 shall be conferred for an indeterminate period of
+time from [the date of entry into force of this Regulation]. 3. The delegation of powers
+referred to in Article 17 may be revoked at any time by the European Parliament
+or by the Council. A decision to revoke shall put an end to the delegation of
+the power specified in that decision. It shall take effect the day following
+the publication of the decision in the Official Journal of the European
+Union or at a later date specified therein. It shall not affect the
+validity of any delegated acts already in force. 4. As soon as it adopts a
+delegated act, the Commission shall notify it simultaneously to the European
+Parliament and to the Council. 5. A delegated act adopted
+pursuant to Article 17 shall enter into force only if no objection has been
+expressed by either the European Parliament or the Council within a period of two
+months of notification of that act to the European Parliament and the Council
+or if, before the expiry of that period, the European Parliament and the
+Council have both informed the Commission that they will not object. That
+period shall be extended by two months at the initiative of the European Parliament
+or the Council. Chapter VII
+FINAL PROVISIONS
+Article 19
+Penalties
+1. The
+Member States shall lay down the rules on penalties applicable to infringements
+of the provisions of this Regulation and shall take all measures necessary to
+ensure that they are implemented. Those penalties shall be effective,
+proportionate, dissuasive and non-discriminatory. 2. Each Member State shall
+take the necessary measures to ensure that the manipulation or tampering of an
+odometer is regarded as an offence and is punishable by effective,
+proportionate, dissuasive and non-discriminatory penalties. 3. The Member States shall
+notify those provisions to the Commission by [one year after the date of
+application of this Regulation] at the latest and shall notify without delay
+any subsequent amendment affecting them. Article 20
+Transitional provisions
+1. Testing facilities and
+equipment referred to in Article 11 which do not comply with the minimum requirements
+laid down in Annex V on [the date of application of this Regulation]
+may be used for carrying out roadworthiness tests for a period of not more than
+five years following that date. 2. Member States shall apply
+the requirements laid down in Annex VII at the latest as from the fifth year
+following the date of application of this Regulation. Article 21
+Repeal
+Directive 2009/40/EC and Commission
+Recommendation 2010/378/EU are repealed with effect from [the date of
+application of this Regulation]. Article 22
+Entry into force and
+application
+The Regulation shall enter into force on
+the twentieth day following that of its publication in the Official Journal
+of the European Union. It shall apply from [12 months after its
+entry into force]. This Regulation shall be binding in its
+entirety and directly applicable in all Member States . Done at Brussels, 
+For the European Parliament For
+the Council
+The President The
+President
+[1] COM(2010) 389 final. [2] Directive 2009/40/EC of the European Parliament and
+of the Council of 6 May 2009 on roadworthiness tests for motor vehicles and
+their trailers (OJ L 141 of 6.6.2009, p.12). [3] Directive 2000/30/EC of the European Parliament and
+of the Council of 6 June 2000 on the technical roadside inspection of the
+roadworthiness of commercial vehicles circulating in the Community, as amended
+(OJ L 203 of 10.8.2000, p.1). [4] Council Directive 1999/37/EC of 29 April 1999 of 29
+April 1999 on the registration documents of vehicles (OJ L 138 of 1.6.1999,
+p.57). [5] COM(2011) 144 final. [6] COM(2010) 186 final. [7] COM(2008) 30 final. [8] Directive 2008/50/EC of the European Parliament and
+of the Council of 21 May 2008 on ambient air quality and cleaner air for Europe
+(OJ L 152, 11.6.2008, p.1)
+[9] http://ec.europa.eu/bepa/pdf/monti_report_final_10_05_2010_en.pdf. [10] COM(2010) 754 final. [11] OJ L 173 of 8.7.2010, p.47. [12] Anti-lock Braking System. [13] Electronic Stability Control. [14] OJ C , , p. . [15] OJ C , , p. . [16] COM(2011)
+144 final. [17] COM (2010) 389 final. [18] OJ L 124, 9.5.2002, p. 1. [19] OJ L 263, 9. 10. 2007, p. 1. [20] OJ L 171, 9. 7. 2003, p. 1. [21] OJ L 55, 28.2.2011, p. 13. [22] OJ L 141, 6.6.2009, p. 12. [23] OJ L 173, 8.7.2010, p. 74. [24] OJ L XXX, XX.XX.XXXX, p. XX
+ANNEX_
+to the 
+Proposal for a
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+on periodic roadworthiness tests
+for motor vehicles and their trailers and repealing Directive 2009/40/EC
+ANNEX
+I
+Technical
+information to be made available by the manufacturer
+1. Braking
+equipment
+1.1. Service braking
+- 
+General description, including secondary /
+emergency braking and possibilities to be tested on a standard roller brake
+test bench
+- 
+System layout
+- 
+Brake control
+- 
+Load sensing valve: positioning and working
+features
+- 
+Reference forces
+- 
+Drums
+- 
+Discs
+- 
+Brake lining and pads
+- 
+Pneumatic braking
+- 
+Hydraulic braking
+1.2. Parking brake
+- 
+General description
+- 
+Parking brake control
+- 
+Axel(s) where parking brake applies
+- 
+Electronically operated parking brake
+1.3. Endurance brakes
+- 
+General description
+- 
+Brake control
+1.4. Electronic
+management systems
+- 
+ABS
+- 
+BAS
+- 
+ESC
+- 
+EBS
+1.5. Brakes
+of trailers
+- 
+Coupling for trailer brakes: general description
+- 
+Safety system description
+2. Steering
+- 
+General description of the system
+- 
+Working principle
+- 
+Steering gear case position
+- 
+Power steering principle
+- 
+Steering wheel diameter
+- 
+Electronic control of the steering system
+- 
+Additional electronic features
+3. Visibility
+3.1. Glasses
+- 
+Windshield
+- 
+Other external glasses (except sun roof)
+- 
+Sun roof
+- 
+Inner glasses
+- 
+Emergency exit glasses
+3.2. Rear
+view mirrors
+- 
+Number of devices
+- 
+Categories
+- 
+Position of devices
+- 
+Approval mark
+3.3. Windscreen wipers
+- 
+Number of devices
+- 
+Length of wipers' blades
+3.4. Windscreen washers
+- 
+Number of devices
+3.5. Demisting system
+- 
+Principle of operation
+4. Lamps,
+reflectors, and electrical equipment
+4.1. Headlamps
+- 
+Driving beam (high beam)
+- 
+Passing beam (low beam)
+4.2. Front
+and rear position lamps, side marker lamps and end outline marker lamps
+- 
+Front position lamps
+- 
+Rear position lamps
+- 
+Side marker lamps
+- 
+Front end outline marker lamps
+- 
+Rear end outline marker lamps
+4.3. Stop
+lamps
+- 
+Number of devices
+- 
+Position of devices
+- 
+Light source
+- 
+Approval mark
+- 
+Adaptive brake lights
+4.4. Direction
+indicator and hazard warning lamps
+- 
+Number of devices
+- 
+Position of devices
+- 
+Light source
+- 
+Approval mark
+- 
+Tell-tale lamp
+- 
+Principle of activation of warning lamps
+4.5. Front
+and rear fog lamps
+- 
+Front fog lamps
+- 
+Rear fog lamps
+- 
+Number of devices
+4.6. Reversing lamps
+- 
+Number of devices
+- 
+Position of devices
+- 
+Light source
+- 
+Approval mark
+4.7. Rear
+registration plate lamp
+- 
+Number of devices
+- 
+Position of devices
+- 
+Light source
+- 
+Approval mark
+4.8. Retro-reflectors, side reflectors and rear marker plates
+- 
+Front retro-reflectors
+- 
+Rear retro-reflectors
+- 
+Side retro-reflectors
+- 
+Rear marker plates
+4.9. Electrical
+connections with towing and towed vehicles
+- 
+Connection diagram
+- 
+Standard of connection
+4.10.
+Retro-reflectors, side reflectors and rear marker plates
+- 
+Front retro-reflectors
+- 
+Rear retro-reflectors
+- 
+Side retro-reflectors
+- 
+Rear marker plates
+4.9. Electrical
+connections with towing and towed vehicles
+- 
+Connection diagram
+- 
+Standard of connection
+4.10.
+
+Non
+obligatory lamps
+- 
+List of non obligatory lamps
+- 
+Position of devices
+- 
+Approval mark
+4.11. Battery
+- 
+Number of devices
+- 
+Voltage (V)
+- 
+Capacity (Ah)
+- 
+Position of devices
+4.12. Lighting systems electronically managed
+- 
+General description
+5. Axles,
+wheels, tyres and suspension
+5.1. Axles
+- 
+General description
+5.2. Wheels
+- 
+Dimension
+- 
+Material
+5.3. Tyres
+- 
+Number
+- 
+Arrangement
+- 
+Dimension
+- 
+Speed category
+- 
+Load-capacity index
+- 
+Spare wheel number
+- 
+Spare wheel dimension
+- 
+Equivalent devices to the spare wheel
+5.4. Suspension
+- 
+General description of the system
+- 
+Springs
+- 
+Shock absorbers
+- 
+Anti-roll bars
+- 
+Air suspension
+- 
+Electronic control of the suspension
+6. Chassis
+and chassis attachments
+6.1. Chassis or frame attachments
+- 
+General description
+6.2. Fuel
+tank and pipes
+- 
+Number of fuel tanks
+- 
+General description of the tanks
+- 
+Expiration date of the tank (if applicable)
+- 
+Arrangement
+- 
+Capacity
+- 
+Marking
+- 
+Protecting means
+- 
+General description of fuel pipes
+6.3. Bumpers, lateral protection and rear underrun devices
+- 
+Front underrun protection
+- 
+Lateral protection
+- 
+Rear underrun device
+6.4. Spare
+wheel carrier
+- 
+Position
+6.5. Coupling mechanisms and towing equipment
+- 
+Coupling mechanisms
+- 
+Towing equipment
+6.6. Transmission
+- 
+General description
+- 
+Type of gear-shift
+- 
+Number of shifts
+- 
+Differentials / self-blocking differentials
+- 
+Number of powered axles
+- 
+Working modes of the transmission
+- 
+Clutch: general description
+- 
+Electronic management of transmission
+6.7. Engine mounting
+- 
+General description
+6.8. Cab
+and bodywork
+- 
+General description
+- 
+Doors
+- 
+Seats
+- 
+Cab steps
+- 
+Other interior and exterior fittings and
+equipment
+- 
+Mudguards, spray suppression devices
+7. OTHER
+EQUIPMENT
+7.1. Safety belts
+- 
+Safety belt category for each seat
+- 
+Approval mark
+- 
+Pyrotechnical pretensioner
+7.2. Airbags
+- 
+Number and arrangement
+- 
+Marking
+- 
+Tell-tale lamp
+- 
+Passenger airbag deactivator
+7.3. Fire
+extinguisher
+- 
+Number and arrangement
+- 
+Categories
+7.4. Anti-theft device
+- 
+Control blocked by the device
+7.5. Wheel
+chocks (wedges)
+- 
+Number and arrangement
+7.6. Audible warning device
+- 
+Number and position of the device
+- 
+Approval mark
+- 
+Sound level (dB(A))
+7.7. Speedometer
+- 
+Units (km/h or mile/h)
+- 
+Maximum displayed speed (km/h or mile/h)
+- 
+Division
+7.8. Tachograph
+- 
+Make and model
+- 
+Approval mark
+- 
+Serial number
+- 
+Position of seals
+- 
+Position of data's plate
+7.9. Speed
+limiter
+- 
+Speed set
+- 
+Make and model
+- 
+Arrangements of the connectors for inspection
+- 
+(rev/km or impulses/km)
+- 
+w (rev/km or impulses/km)
+- 
+Position of data's plate
+7.10. Odometer
+- 
+Number of digits
+8. NUISANCE
+8.1. Noise
+- 
+General description of the systems and devices
+intended to reduce the noise produced by the vehicle
+- 
+Sound level stationary (dB(A) @ min-1)
+- 
+Sound level drive-by (dB(A))
+- 
+Number of silencers on the exhaust pipe
+- 
+Position of silencers on the exhaust pipe
+- 
+Marking of silencers on the exhaust pipe
+8.2. Petrol engine emissions
+- 
+CO (g/km or g/kWh)
+- 
+CO idling (Vol %)
+- 
+CO high speed idling (Vol % @ min-1)
+- 
+HC high speed idling (Vol % @ min-1)
+- 
+Lambda high speed idling (min-1)
+- 
+HC (g/km or g/kWh)
+- 
+NOx (g/km or g/kWh)
+- 
+HC + NOx (g/km)
+- 
+CO2 (g/km)
+- 
+Indication of the environmental category of EC
+type-approval
+- 
+OBD connector type & position
+- 
+OBD communication protocol
+- 
+Emission control equipment installed in the
+vehicle
+- 
+Position of emission control equipment installed
+in the vehicle
+- 
+Marking of catalytic converter
+- 
+Number of lambda sensors
+8.3. Diesel engine emissions
+- 
+CO (g/km or g/kWh)
+- 
+HC (g/km or g/kWh)
+- 
+NOx (g/km or g/kWh)
+- 
+HC + NOx (g/km)
+- 
+CO2 (g/km)
+- 
+Particulates for diesel (g/km or g/kWh)
+- 
+Corrected absorption coefficient for diesel (in
+m-1) (opacity)
+- 
+Indication of the environmental category of EC
+type-approval
+- 
+OBD connector
+- 
+OBD communication protocol
+- 
+Emission control equipment installed in the
+vehicle
+- 
+Position of emission control equipment installed
+in the vehicle
+- 
+Marking of catalytic converter
+- 
+Marking of particulates trap
+8.4. Electromagnetic interference suppression
+- 
+Description of the spark-plugs' wiring features
+- 
+Marking of the spark-plugs's wiring
+ANNEX
+II
+MINIMUM
+REQUIREMENTS CONCERNING THE CONTENTS AND METHODS OF TESTING
+1. GENERAL
+This Annex identifies the vehicle systems
+and components to be tested; it details the method of testing them and the
+criteria to be used when determining whether the condition of the vehicle is
+acceptable. The test must cover at least the items
+listed in point 3 below provided that these are related to the equipment of the
+vehicle being tested in the Member State concerned. The tests shall be carried out using
+techniques and equipment currently available without the use of tools to
+dismantle or remove any part of the vehicle. All the items listed shall be considered as
+mandatory at a periodic test of vehicles, except those marked with the
+indication (X), which are related to the condition of the vehicle and its
+suitability for use on the road but which are not considered essential in a
+roadworthiness test. "Reasons for failure" do not
+apply in cases where they refer to requirements which were not prescribed in
+the relevant vehicle approval legislation at the time of first registration,
+first entry into service or retrofitting requirements. Where a method of test is given as visual,
+it means that in addition to looking at the items, the inspector shall , if
+appropriate, also handle them, evaluate noise or use any other appropriate
+means of inspection without the use of equipment. 2. 
+SCOPE OF TEST
+The test shall cover at least the following
+elements: 0) Identification of the
+vehicle; 1) Braking equipment; 2) Steering; 3) Visibility; 4) Lighting equipment and
+parts of electric system; 5) Axles, wheels, tyres,
+suspension; 6) Chassis and chassis
+attachments; 7) Other equipment; 8) Nuisance; 9) Supplementary tests for
+passenger carrying vehicles M2 and M3. 3. 
+CONTENTS AND METHODS OF TESTING
+The test shall cover at least the items and
+use the minimum standards and methods listed in the following table:. Item || Method || Reasons for failure || 
+ || 
+ 0. IDENTIFICATION OF THE VEHICLE || 
+ 0.1. Registration number plates (if needed by requirements(1) || Visual inspection || (a) Number plate(s) missing or so insecure/fixed that it is (they are) likely to fall off. (b) Inscription missing or illegible. (c) Not in accordance with vehicle documents or records. || 
+ 0.2. Vehicle identification chassis/ serial number || Visual inspection || (a) Missing or can not be found. (b) Incomplete, illegible. (c) Not in accordance with vehicle documents or records. || 
+ 1. BRAKING EQUIPMENT || 
+ 1.1. Mechanical condition and operation || 
+ 1.1.1. Service brake pedal/hand lever pivot || Visual inspection of the components while the braking system is operated. Note: Vehicles with power-assisted braking systems should be inspected with the engine switched off. || (a) Pivot too tight. (b) Excessive wear or play. || 
+ 1.1.2. Pedal/hand lever condition and travel of the brake operating device || Visual inspection of the components while the braking system is operated Note: Vehicles with power-assisted braking systems should be inspected with the engine switched off. || (a) Excessive or insufficient reserve travel. (b) Brake control not releasing correctly. (c) Anti-slip provision on brake pedal missing, loose or worn smooth. || 
+ 1.1.3. Vacuum pump or compressor and reservoirs || Visual inspection of the components at normal working pressure.
+|| 
+ 1.1.3. Vacuum pump or compressor and reservoirs || Visual inspection of the components at normal working pressure.
+
+Check time required for vacuum or air pressure to reach safe working value and function of warning device, multi-circuit protection valve and pressure relief valve. || (a) Insufficient pressure/vacuum to give assistance for at least two brake applications after the warning device has operated (or gauge shows an unsafe reading). (b) Time taken to build up air pressure/vacuum to safe working value not in accordance with the requirements(1) (c) Multi-circuit protection valve or pressure relief valve not working. (d) Air leak causing a noticeable drop in pressure or audible air leaks. (e) External damage likely to affect the function of the braking system. || 
+ 1.1.4. Low pressure warning gauge or indicator || Functional check || Malfunctioning or defective gauge or indicator. || 
+ 1.1.5. Hand operated brake control valve || Visual inspection of the components while the braking system is operated. || (a) Control cracked, damaged or excessively worn. (b) Control insecure on valve or valve insecure. (c) Loose connections or leaks in system. (d) Unsatisfactory operation. || 
+ 1.1.6. Parking brake activator, lever control, parking brake ratchet , electronic parking brake || Visual inspection of the components while the braking system is operated. || (a) Ratchet not holding correctly. (b) Excessive wear at lever pivot or in ratchet mechanism. (c) Excessive movement of lever indicating incorrect adjustment. (d) Activator missing, damaged or inoperative (e) Incorrect functioning, warning indicator shows malfunction || 
+ 1.1.7. Braking valves (foot valves, unloaders, governors) || Visual inspection of the components while the braking system is operated. || (a) Valve damaged or excessive air leak. (b) Excessive oil discharge from compressor. (c) Valve insecure or inadequately mounted. (d) Hydraulic fluid discharge or leak. || 
+ 1.1.8. Couplings for trailer brakes (electrical & pneumatic) || Disconnect and reconnect braking system coupling between towing vehicle and trailer. || (a) Tap or self sealing valve defective. (b) Tap or valve insecure or inadequately mounted. (c) Excessive leaks. (d) Not functioning correctly || 
+ 1.1.9. Energy storage reservoir pressure tank || Visual inspection. || (a) Tank damaged, corroded or leaking. (b) Drain device inoperative. (c) Tank insecure or inadequately mounted. || 
+ 1.1.10. Brake servo units, master cylinder (hydraulic systems) || Visual inspection of the components while the braking system is operated. || (a) Defective or ineffective servo unit. (b) Master cylinder defective or leaking. (c) Master cylinder insecure. (d) Insufficient brake fluid (e) Master cylinder reservoir cap missing. (f) Brake fluid warning light illuminated or defective. (g) Incorrect functioning of brake fluid level warning device. || 
+ 1.1.11. Rigid brake pipes || Visual inspection of the components while the braking system is operated. || (a) Imminent risk of failure or fracture. (b) Pipes or connections leaking. (c) Pipes damaged or excessively corroded. (d) Pipes misplaced. || 
+ 1.1.12. Flexible brake hoses || Visual inspection of the components while the braking system is operated. || (a) Imminent risk of failure or fracture. (b) Hoses damaged, chafing, twisted or too short (c) Hoses or connections leaking. (d) Hoses bulging under pressure. (e) Hoses porous. || 
+ 1.1.13. Brake linings and pads || Visual inspection. || (a) Lining or pad excessively worn. (b) Lining or pad contaminated (oil, grease etc.). (c) Lining or pad missing || 
+ 1.1.14. Brake drums, brake discs || Visual inspection. || (a) Drum or disc excessively worn, excessively scored, cracked, insecure or fractured. (b) Drum or disc contaminated (oil, grease, etc.) (c) Drum or disc missing (d) Back plate insecure. || 
+ 1.1.15. Brake cables, rods, levers, linkages || Visual inspection of the components while the braking system is operated. || (a) Cable damaged or knotted. (b) Component excessively worn or corroded. (c) Cable, rod or joint insecure. (d) Cable guide defective. (e) Restriction to free movement of the braking system. (f) Abnormal movement of the levers/linkage indicating maladjustment or excessive wear. || 
+ 1.1.16. Brake actuators (including spring brakes or hydraulic cylinders) || Visual inspection of the components while the braking system is operated. || (a) Actuator cracked or damaged. (b) Actuator leaking. (c) Actuator insecure or inadequately mounted. (d) Actuator excessively corroded. (e) Insufficient or excessive travel of operating piston or diaphragm mechanism. (f) Dust cover missing or excessively damaged. || 
+ 1.1.17. Load sensing valve || Visual inspection of the components while the braking system is operated || (a) Defective linkage. (b) Linkage incorrectly adjusted. (c) Valve seized or inoperative. (d) Valve missing. (e) Missing data plate. (f) Data illegible or not in accordance with requirements(1) || 
+ 1.1.18. Slack adjusters and indicators || Visual inspection. || (a) Adjuster damaged, seized or having abnormal movement, excessive wear or incorrect adjustment. (b) Adjuster defective. (c) Incorrectly installed or replaced. || 
+ 1.1.19. Endurance braking system (where fitted or required) || Visual inspection. || (a) Insecure connectors or mountings. (b) System obviously defective or missing. || 
+ 1.1.20. Automatic operation of trailer brakes || Disconnect brake coupling between towing vehicle and trailer. || Trailer brake does not apply automatically when coupling disconnected. || 
+ 1.1.21. Complete braking system || Visual inspection || (a) Other system devices (e.g. anti-freeze pump, air dryer, etc.) damaged externally or excessively corroded in a way that adversely affects the braking system. (b) Leakage of air or anti-freeze. (c) Any component insecure or inadequately mounted. (d) Inappropriate repair or modification to any component[1] || 
+ 1.1.22. Test connections (where fitted or required) || Visual inspection || (a) Missing. (b) Damaged, unusable or leaking. || 
+ 1.2. Service braking performance and efficiency || 
+ 1.2.1. Performance || during a test on a static brake testing machine or, if impossible during a road test apply the brakes progressively up to maximum effort. || (a) Inadequate braking effort on one or more wheels. (b) Braking effort from any wheel is less than 70% of maximum effort recorded from the other wheel on the same axle. Or in the case of testing on the road, the vehicle deviates excessively from a straight line. (c) No gradual variation in brake effort (grabbing). (d) Abnormal lag in brake operation of any wheel. (e) Excessive fluctuation of brake force during each complete wheel revolution. || 
+ 1.2.2. Efficiency || Test with a static brake testing machine or, if one cannot be used for technical reasons, by a road test using a recording decelerometer to establish the braking ratio which relates to the maximum authorised mass or, in the case of semi-trailers, to the sum of the authorised axle loads. Vehicles or a trailer with a maximum permissible mass exceeding 3500 kg has to be inspected following the standards given by ISO 21069 or equivalent methods. Road tests should be carried out under dry conditions on a flat, straight road.
+Road tests should be carried out under dry conditions on a flat, straight road. || Does not give at least the minimum figure as follows:- Vehicles registered first time after entry into force of Directive 2010/48/EU: - Category N1: 50 % - Category M1: 58 % - Category M2 and M3: 50 % - Category N2 and N3: 50 % - Category O2, O3 and O4: · for semi-trailers: 45% · for draw-bar trailers: 50% Vehicles registered before entry into force of Directive 2010/48/EU : Category N1: 45% Category M1, M2 and M3: 50% [2] Category N2 and N3: 43% [3] Category O2,O3 and O4: 40% [4] Other categories ,. - Categories L (both brakes): Category L1e: 42 % Category L2e, L6e: 40 % Category L3e: 50 % Category L4e: 46 % Category L5e, L7e: 44 % - Categories L (rear wheel brake): all categories: 25 % || 
+ 1.3. Secondary (emergency) braking performance and efficiency (if met by separate system) || 
+ 1.3.1. Performance || If the secondary braking system is separate from the service braking system, use the method specified in 1.2.1. || (a) Inadequate braking effort on one or more wheels. (b) Braking effort from any wheel is less than 70% of maximum effort recorded from another wheel on the same axle specified. Or in the case of testing on the road, the vehicle deviates excessively from a straight line. (c) No gradual variation in brake effort (grabbing). || 
+ 1.3.2. Efficiency || If the secondary braking system is separate from the service braking system, use the method specified in 1.2.2. || Braking effort less than 50% [5] of the service brake performance defined in section 1.2.2 in relation to the maximum authorized mass or, in the case of semi-trailers, to the sum of the authorized axel loads (except L1e and L3e). || 
+ 1.4. Parking braking performance and efficiency || 
+ 1.4.1. Performance || Apply the brake during a test on a static brake testing machine and/or during a road test with a decelerometer. || Brake inoperative on one side or in the case of testing on the road, the vehicle deviates excessively from a straight line. || 
+ 1.4.2. Efficiency || Test with a static brake testing machine or by a road test using either an indicating or recording decelerometer or with the vehicle on a slope of known gradient. Goods vehicles should, if possible, be tested laden. || Does not give at least for all vehicles a braking ratio of 16% in relation to the maximum authorized mass, or, for motor vehicles, of 12% in relation to the maximum authorized combination mass of the vehicle, whichever is the greater (except L1e and L3e). || 
+ 1.5. Endurance braking system performance || Visual inspection and, where possible test whether the system functions. || (a) No gradual variation of efficiency (not applicable to exhaust brake systems). (b) System not functioning. || 
+ 1.6. Anti-lock braking system (ABS) || Visual inspection and inspection of warning device. || (a) Warning device malfunctioning. (b) Warning device shows system malfunction. (c) Wheel speed sensors missing or damaged (d) Wirings damaged (e) Other components missing or damaged || 
+ 1.7 Electronic brake system (EBS) || Visual inspection of warning device. || (a) Warning device malfunctioning. (b) Warning device shows system malfunction. || 
+ 1.8 Brake fluid || Measuring of boiling temperature or water content || (a) Brake fluid boiling temperature to low or water content to high (b) Brake fluid contaminated (c) Insufficient brake fluid. || 
+ 2. STEERING || 
+ 2.1. Mechanical condition || 
+ 2.1.1. Steering gear condition || With the vehicle over a pit or on a hoist and with the road wheels off the ground or on turn tables, rotate the steering wheel from lock to lock. Visual inspection of the operation of the steering gear. || (a) Roughness in operation of gear. (b) Sector shaft twisted or splines worn. (c) Excessive wear in sector shaft. (d) Excessive movement of sector shaft. (e) Leaking. || 
+ 2.1.2. Steering gear casing attachment || With vehicle on a pit or hoist and the weight of the vehicle road wheels on the ground, rotate steering / handle bar wheel clock-wise and anticlockwise or using a specially adapted wheel play detector. Visual inspection of the attachment of gear casing to chassis. || (a) Steering gear casing not properly attached. (b) Elongated fixing holes in chassis. (c) Missing or fractured fixing bolts. (d) Steering gear casing fractured. || 
+ 2.1.3. Steering linkage condition || With the vehicle over a pit or on a hoist and with the road wheel on ground, rock steering wheel clockwise and anti-clockwise or using a specially adapted wheel play detector. Visual inspection of steering components for wear, fractures and security. || (a) Relative movement between components which should be fixed. (b) Excessive wear at joints. (c) Fractures or deformation of any component. (d) Absence of locking devices. (e) Misalignment of components (e.g. track rod or drag link). (f) Inappropriate repair or modification. (g) Dust cover missing, damaged or severely deteriorated. || 
+ 2.1.4. Steering linkage operation || With the vehicle over a pit or on a hoist and with the road wheels on ground and the engine running (power steering), rotate steering wheel from lock to lock. Visual inspection of movement of linkages. || (a) Moving steering linkage fouling a fixed part of chassis. (b) Steering stops not operating or missing. || 
+ 2.1.5. Power steering || Check steering system for leaks and hydraulic fluid reservoir level (if visible). With the road wheels on ground and with the engine running, check that the power steering system is operating. || (a) Fluid leak. (b) Insufficient fluid. (c) Mechanism not working. (d) Mechanism fractured or insecure. (e) Misalignment or fouling of components. (f) Inappropriate repair or modification. (g) Cables/hoses damaged, excessively corroded. || 
+ 2.2. Steering wheel, column and handle bar || 
+ 2.2.1. Steering wheel/handle bar condition || With the road wheels on the ground, rock steering wheel from side to side at right angles to column and apply slight downward and upward pressure. Visual inspection of play. || (a) Relative movement between steering wheel and column indicating looseness. (b) Absence of retaining device on steering wheel hub (c) Fracture or looseness of steering wheel hub, rim or spokes 
+ 2.2.2.Steering column/yokes and forks || With the vehicle over a pit or on a hoist and the mass of the vehicle on the ground, push and pull the steering wheel in line with column, push steering wheel/handle bar in various directions at right angles to the column/forks. Visual inspection of play, and condition of flexible couplings or universal joints. || (a) Excessive movement of centre of steering wheel up or down. (b) Excessive movement of top of column radially from axis of column. (c) Deteriorated flexible coupling. (d) Attachment defective. (e) inappropriate repair or modification 
+ 2.3.Steering play || With the vehicle over a pit or on a hoist, the mass of the vehicle on the road-wheels, the engine running for vehicles with power steering and with the road wheels in the straight-ahead position, lightly turn the steering wheel clockwise and anti-clockwise as far as possible without moving the road wheels. Visual inspection of free movement. || Free play in steering excessive (for example movement of a point on the rim exceeding one fifth of the diameter of the steering wheel or not in accordance with the requirements(1). 2.4.Wheel alignment (X)(2) || Check alignment of steered wheels with suitable equipment. || Alignment not in accordance with vehicle manufacturer's data or requirements(1). 2.5. Trailer steered axle turntable || Visual inspection or using a specially adapted wheel play detector || (a) Component damaged or cracked. (b) Excessive play. (c) Attachment defective.
+(c) Attachment defective. 2.6. Electronic Power Steering (EPS) || Visual inspection and consistency check between the angle of the steering wheel and the angle of the wheels when switching on/off the engine || (a) EPS Malfunction Indicator Lamp (MIL) indicates any kind of failure of the system. (b) Inconsistency between the angle of the steering wheel and the angle of the wheels. (c) power assistance not working 
+ 3. VISIBILITY || 
+ 3.1. Field of vision || Visual inspection from driving seat. || Obstruction within driver's field of view that materially affects his view in front or to the sides. 3.2. Condition of glass || Visual inspection. || (a) Cracked or discoloured glass or transparent panel (if permitted). (b) Glass or transparent panel (including reflecting or tinted film) that does not comply with specifications in the requirements(1) (XX)(3), (c) Glass or transparent panel in unacceptable condition. 3.3. Rear-view mirrors or devices || Visual inspection. || (a) Mirror or device missing or not fitted according to the requirements(1). (b) Mirror or device inoperative, damaged, loose or insecure. 3.4. Windscreen wipers || Visual inspection and by operation. || (a) Wipers not operating or missing (b) Wiper blade missing or obviously defective. 3.5.Windscreen washers || Visual inspection and by operation. || Washers not operating adequately. 3.6 Demisting system (X)(2) || Visual inspection and by operation. || System inoperative or obviously defective. 4. LAMPS, REFLECTORS AND ELECTRICAL EQUIPMENT || 
+ 4.1. Headlamps || 
+ 4.1.1. Condition and operation || Visual inspection and by operation. || (a) Defective or missing light / light source. (b) Defective or missing projection system (reflector and lens). (c) Lamp not securely attached. 4.1.2. Alignment || Determine the horizontal aim of each headlamp on dipped beam using a headlamp aiming device or a screen. || Aim of a headlamp not within limits laid down in the requirements(1). 4.1.3. Switching || Visual inspection and by operation. || (a) Switch does not operate in accordance with the requirements(1) (Number of headlamps illuminated at the same time) (b) Function of control device impaired. 4.1.4. Compliance with requirements(1). || Visual inspection and by operation. || (a) Lamp, emitted colour, position or intensity not in accordance with the requirements(1). (b) Products on lens or light source which obviously reduce light intensity or change emitted colour. (c) Light source and lamp not compatible 
+ 4.1.5. Levelling devices (where mandatory) || Visual inspection and by operation if possible. || (a) Device not operating. (b) Manual device cannot be operated from driver's seat. 4.1.6. Headlamp cleaning device (where mandatory) || Visual inspection and by operation if possible. || Device not operating. 4.2. Front and rear position lamps, side marker lamps and end outline marker lamps || 
+ 4.2.1. Condition and operation || Visual inspection and by operation. || (a) Defective light source. (b) Defective lens. (c) Lamp not securely attached. 4.2.2 Switching || Visual inspection and by operation. || (a) Switch does not operate in accordance with the requirements(1). (b) Function of control device impaired. 4.2.3. Compliance with requirements(1) || Visual inspection and by operation. || (a) Lamp, emitted colour, position or intensity not in accordance with the requirements(1). (b) Products on lens or light source which reduce light intensity or change emitted colour. 4.3. Stop Lamps || 
+ 4.3.1. Condition and operation || Visual inspection and by operation. || (a) Defective light source. (b) Defective lens. (c) Lamp not securely attached. 4.3.2. Switching || Visual inspection and by operation. || (a) Switch does not operate in accordance with the requirements(1). (b) Function of control device impaired. 4.3.3. Compliance with requirements(1). || Visual inspection and by operation. || Lamp, emitted colour, position or intensity not in accordance with the requirements(1). 4.4. Direction indicator and hazard warning lamps || 
+ 4.4.1. Condition and operation || Visual inspection and by operation. || (a) Defective light source. (b) Defective lens. (c) Lamp not securely attached 
+ 4.4.2. Switching || Visual inspection and by operation. || Switch does not operate in accordance with the requirements(1). 4.4.3. Compliance with requirements(1). || Visual inspection and by operation. || Lamp, emitted colour, position or intensity not in accordance with the requirements(1). 4.4.4. Flashing frequency || Visual inspection and by operation. || Rate of flashing not in accordance with the requirements(1). 4.5. Front and rear fog lamps || 
+ 4.5.1. Condition and operation || Visual inspection and by operation. || (a) Defective light source. (b) Defective lens. (c) Lamp not securely attached. 4.5.2 Alignment (X)(2) || by operation and using a headlamp aiming device || Front fog lamp out of horizontal alignment when the light pattern has cut-off line 
+ 4.5.3. Switching || Visual inspection and by operation. || Switch does not operate in accordance with the requirements(1). 4.5.4. Compliance with requirements(1). || Visual inspection and by operation. || (a) Lamp, emitted colour, position or intensity not in accordance with the requirements(1) (b) System does not operate in accordance with the requirements(1) 
+ 4.6. Reversing lamps || 
+ 4.6.1. Condition and operation || Visual inspection and by operation. || (a) Defective light source. (b) Defective lens. (c) Lamp not securely attached. 4.6.2. Compliance with requirements(1) || Visual inspection and by operation. || (a) Lamp, emitted colour, position or intensity not in accordance with the requirements(1). (b) System does not operate in accordance with the requirements(1). 4.6.3. Switching || Visual inspection and by operation. || Switch does not operate in accordance with the requirements(1). 4.7. Rear registration plate lamp || 
+ 4.7.1. Condition and operation || Visual inspection and by operation. || (a) Lamp throwing direct light to the rear. (b) Defective light source. (c) Lamp not securely attached. 4.7.2. Compliance with requirements(1) || Visual inspection and by operation. || System does not operate in accordance with the requirements(1). 4.8. Retro-reflectors, conspicuity (retro reflecting) markings and rear marker plates || 
+ 4.8.1. Condition || Visual inspection. || (a) Reflecting equipment defective or damaged. (b) Reflector not securely attached. 4.8.2. Compliance with requirements(1) || Visual inspection. || Device, reflected colour or position not in accordance with the requirements(1). 4.9. Tell-tales mandatory for lighting equipment || 
+ 4.9.1. Condition and operation || Visual inspection and by operation. || Not operating. 4.9.2. Compliance with requirements(1) || Visual inspection and by operation. || Not in accordance with the requirements(1). 4.10. Electrical connections between towing vehicle and trailer or semi-trailer || Visual inspection: if possible examine the electrical continuity of the connection. || (a) Fixed components not securely attached. (b) Damaged or deteriorated insulation. (c) Trailer or towing vehicle electrical connections not functioning correctly. 4.11. Electrical wiring || Visual inspection with vehicle over a pit or on a hoist, including inside the engine compartment in some cases. || (a) Wiring insecure or not adequately secured. (b) Wiring deteriorated (c) Damaged or deteriorated insulation. 4.12. Non obligatory lamps and retro-reflectors (X)(2) || Visual inspection and by operation. || (a) A lamp/retro-reflector fitted not in accordance with the requirements(1). (b) Lamp operation not in accordance with the requirements(1). (c) Lamp/retro-reflector not securely attached. 4.13. Battery(ies) || Visual inspection. || (a) Insecure. (b) Leaking. (c) Defective switch (if required). (d) Defective fuses (if required).
+(d) Defective fuses (if required). (e) inappropriate ventilation (if required) 
+ 5. AXLES, WHEELS, TYRES AND SUSPENSION || 
+ 5.1. Axles || 
+ 5.1.1. Axles || Visual inspection with vehicle over a pit or on a hoist. Wheel play detectors may be used and are recommended for vehicles over 3.5 tonnes gross vehicle mass (GVM). || (a) Axle fractured or deformed. (b) Insecure fixing to vehicle. (c) Inappropriate repair or modification. 5.1.2. Stub axles || Visual inspection with vehicle over a pit or on a hoist. Wheel play detectors may be used and are recommended for vehicles over 3.5 tonnes GVM. Apply a vertical or lateral force to each wheel and note the amount of movement between the axle beam and stub axle. || (a) Stub axle fractured. (b) Excessive wear in the swivel pin and/or bushes. (c) Excessive movement between stub axle and axle beam. (d) Stub axle pin loose in axle. 5.1.3. Wheel bearings || Visual inspection with the vehicle over a pit or on a hoist. Wheel play detectors may be used and are recommended for vehicles over 3.5 tonnes GVM. Rock the wheel or apply a lateral force to each wheel and note the amount of upward movement of the wheel relative to the stub axle. || (a) Excessive play in a wheel bearing. (b) Wheel bearing too tight, jammed. 5.2. Wheels and tyres || 
+ 5.2.1. Road wheel hub || Visual inspection. || (a) Any wheel nuts or studs missing or loose. (b) Hub worn or damaged 
+ 5.2.2. Wheels || Visual inspection of both sides of each wheel with vehicle over a pit or on a hoist. || (a) Any fracture or welding defect (b) Tyre retaining rings not properly fitted. (c) Wheel badly distorted or worn. (d) Wheel size or type not in accordance with the requirements(1) and effecting road safety 
+ 5.2.3. Tyres || Visual inspection of the entire tyre by either rotating the road wheel with it off the ground and the vehicle over a pit or on a hoist, or by rolling the vehicle backwards and forwards over a pit. || (a) Tyre size, load capacity, approval mark or speed rating not in accordance with the requirements(1) and effecting road safety (b) Tyres on same axle or on twin wheels of different sizes. (c) Tyres on same axle of different construction (radial / cross-ply). (d) Any serious damage or cut to tyre. (e) Tyre tread depth not in accordance with the requirements(1). (f) Tyre rubbing against other components. (g) Re-grooved tyres not in accordance with requirements(1). (h) air pressure monitoring system malfunctioning or obviously inoperative 
+ 5.3. Suspension system || 
+ 5.3.1. Springs and stabilizer || Visual inspection with vehicle over a pit or on a hoist. Wheel play detectors may be used and are recommended for vehicles over 3.5 tonnes GVM. || (a) Insecure attachment of springs to chassis or axle. (b) A damaged or fractured spring component. (c) spring missing (d) inappropriate repair or modification 
+ 5.3.2. Shock absorbers || Visual inspection with vehicle over a pit or on a hoist or using special equipment, if available. || (a) Insecure attachment of shock absorbers to chassis or axle. (b) Damaged shock absorber showing signs of severe leakage or malfunction. 5.3.2.1 efficiency testing of damping || Use special equipment and compare left /right differences and/or absolute values given by manufactures || (a) significant difference between left and right (b) given minimum values not reached 
+ 5.3.3. Torque tubes, radius arms, wishbones and suspension arms || Visual inspection with vehicle over a pit or on a hoist. Wheel play detectors may be used and are recommended for vehicles over 3.5 tonnes GVM. || (a) Insecure attachment of component to chassis or axle. (b) A damaged, fractured or excessively corroded component. (c) Inappropriate repair or modification. 5.3.4. Suspension joints || Visual inspection with vehicle over a pit or on a hoist. Wheel play detectors may be used and are recommended for vehicles over 3.5 tonnes GVM. || (a) Excessive wear in swivel pin and/or bushes or at suspension joints. (b) Dust cover missing or severely deteriorated. 5.3.5. Air suspension || Visual inspection || (a) System inoperable. (b) Any component damaged, modified or deteriorated in a way that would adversely affect the functioning of the system (c) audible system leakage 
+ 6. CHASSIS AND CHASSIS ATTACHMENTS || 
+ 6.1. Chassis or frame and attachments || 
+ 6.1.1. General condition || Visual inspection with vehicle over a pit or on a hoist. || a) Fracture or deformation of any side or cross member. b) Insecurity of strengthening plates or fastenings. c) Excessive corrosion which affects the rigidity of the assembly. || 
+ 6.1.2. Exhaust pipes and silencers || Visual inspection with vehicle over a pit or on a hoist. || a) Insecure or leaking exhaust system. b) Fumes entering cab or passengers compartment. || 
+ 6.1.3. Fuel tank and pipes (including heating fuel tank and pipes) || Visual inspection with vehicle over a pit or on a hoist, use of leak detecting devices in case of LPG/CNG systems. || (a) Insecure tank or pipes. (b) Leaking fuel or missing or ineffective filler cap. (c) Damaged or chafed pipes. (d) Fuel stopcock (if required) not operating correctly. (e) Fire risk due to - leaking fuel - fuel tank or exhaust improperly shielded - engine compartment condition (f) LPG/CNG or hydrogen system not in accordance with requirements(1). || 
+ 6.1.4. Bumpers, lateral protection and rear underrun devices || Visual inspection. || (a) Looseness or damage likely to cause injury when grazed or contacted. (b) Device obviously not in compliance with the requirements(1). || 
+ 6.1.5. Spare wheel carrier (if fitted) || Visual inspection. || (a) Carrier not in proper condition (b) Carrier fractured or insecure. (c) A spare wheel not securely fixed in carrier and likely to fall off. || 
+ 6.1.6. Coupling mechanisms and towing equipment || Visual inspection for wear and correct operation with special attention to any safety device fitted and /or use of measuring gauge. || (a) Component damaged, defective or cracked. (b) Excessive wear in a component. (c) Attachment defective. (d) Any safety device missing or not operating correctly. (e) Any indicator not working. (f) Obstruct registration plate or any lamp (when not in use) (g) Inappropriate repair or modification. || 
+ 6.1.7. Transmission || Visual inspection. || (a) Loose or missing securing bolts. (b) Excessive wear in transmission shaft bearings. (c) Excessive wear in universal joints. (d) Deteriorated flexible couplings. (e) A damaged or bent shaft. (f) Bearing housing fractured or insecure. (g) Dust cover missing or severely deteriorated. (h) Illegal power-train modification || 
+ 6.1.8. Engine mountings || Visual inspection not necessarily on a pit or hoist. || Deteriorated, obviously and severely damaged, loose or fractured mountings. || 
+ 6.1.9 Engine performance || Visual inspection || (a) Control unit illegal modified (b) illegal engine modification || 
+ 6.2. Cab and bodywork || 
+ 6.2.1. Condition || Visual inspection. || (a) A loose or damaged panel or part likely to cause injury. (b) Insecure body pillar. (c) Permitting entry of engine or exhaust fumes. (d) Inappropriate repair or modification. || 
+ 6.2.2. Mounting || Visual inspection over a pit or on a hoist. || (a) Body or cab insecure. (b) Body/cab obviously not located squarely on chassis. (c) Insecure or missing fixing of body/cab to chassis or cross members. (d) Excessive corrosion at fixing points on integral bodies. || 
+ 6.2.3. Doors and door catches || Visual inspection. || (a) A door will not open or close properly. (b) A door likely to open inadvertently or one that will not remain closed. (c) Door, hinges, catches, pillar, missing, loose or deteriorated. || 
+ 6.2.4. Floor || Visual inspection over a pit or on a hoist. || Floor insecure or badly deteriorated || 
+ 6.2.5. Driver's seat || Visual inspection. || (a) A loose seat or seat with defective structure. (b) Adjustment mechanism not functioning correctly.
+(b) Adjustment mechanism not functioning correctly. || 
+ 6.2.6. Other seats || Visual inspection. || (a) Seats in defective condition or insecure. (b) Seats fitted not in accordance with requirements(1).. || 
+ 6.2.7. Driving controls || Visual inspection and by operation. || Any control necessary for the safe operation of the vehicle not functioning correctly. || 
+ 6.2.8. Cab steps || Visual inspection. || (a) Step or step ring insecure. (b) Step or ring in a condition likely to cause injury to users. || 
+ 6.2.9. Other interior and exterior fittings and equipment || Visual inspection. || (a) Attachment of other fitting or equipment defective. (b) Other fitting or equipment not in accordance with the requirements(1).. (c) Leaking hydraulic equipment || 
+ 6.2.10. Mudguards (wings), spray suppression devices || Visual inspection. || (a) Missing, loose or badly corroded. (b) Insufficient clearance to road wheel. (c) Not in accordance with the requirements(1).. || 
+ 7. OTHER EQUIPMENT || 
+ 7.1. Safety-belts/buckles and restraint systems || 
+ 7.1.1. Security of safety-belts/buckles mounting || Visual inspection. || (a) Anchorage point badly deteriorated. (b) Anchorage loose || 
+ 7.1.2. Condition of safety-belts/buckles. || Visual inspection and by operation. || (a) Mandatory safety-belt missing or not fitted. (b) Safety-belt damaged. (c) Safety-belt not in accordance with the requirements(1). (d) Safety-belt buckle damaged or not functioning correctly. (e) Safety-belt retractor damaged or not functioning correctly. || 
+ 7.1.3. Safety belt Load limiter || Visual inspection || Load limiter obviously missing or not suitable with the vehicle || 
+ 7.1.4. Safety belt Pre-tensioners || Visual inspection || Pre-tensioner obviously missing or not suitable with the vehicle || 
+ 7.1.5. Airbag || Visual inspection || (a) Airbags obviously missing or not suitable with the vehicle. (b) Airbag obviously non operative || 
+ 7.1.6. SRS Systems || Visual inspection of MIL || SRS MIL indicates any kind of failure of the system || 
+ 7.2. Fire extinguisher (X)(2) || Visual inspection. || (a) Missing. (b) Not in accordance with the requirements(1). || 
+ 7.3. Locks and anti-theft device || Visual inspection and by operation || (a) Device not functioning to prevent vehicle being driven. (b) Defective or inadvertently locking or blocking || 
+ 7.4. Warning triangle (if required) (X)(2) || Visual inspection. || (a) Missing or incomplete. (b) Not in accordance with the requirements(1).. || 
+ 7.5. First aid kit. (if required) (X)(2) || Visual inspection. || Missing, incomplete or not in accordance with the requirements(1).. || 
+ 7.6. Wheel chocks (wedges) (if required) (X)(2) || Visual inspection. || Missing or not in good condition. || 
+ 7.7. Audible warning device || Visual inspection and by operation. || (a) Not working. (b) Control insecure. (c) Not in accordance with the requirements(1).. || 
+ 7.8. Speedometer || Visual inspection or by operation during road test or by electronically means.. || (a) Not fitted in accordance with the requirements(1).. (b) Not operational. (c) Not capable of being illuminated. || 
+ 7.9. Tachograph (if fitted/required) || Visual inspection. || (a) Not fitted in accordance with the requirements(1).. (b) Not operational. (c) Defective or missing seals. (d) Calibration plaque missing, illegible or out of date. (e) Obvious tampering or manipulation. (f) Size of tyres not compatible with calibration parameters || 
+ 7.10. Speed limitation device (if fitted/required) || Visual inspection and by operation if equipment available. || (a) Not fitted in accordance with the requirements(1). (b) Obviously not operational. (c) Incorrect set speed (if checked) (d) Defective or missing seals. (e) Calibration plaque missing, illegible or out of date. (f) size of tyres not compatible with calibration parameters || 
+ 7.11 Odometer if available || Visual inspection || (a) obviously manipulated (fraud) (b) obviously inoperative || 
+ 7.12 Electronic Stability Control (ESC) if fitted/required || Visual inspection || (a) Wheel speed sensors missing or damaged (b) Wirings damaged (c) Other components missing or damaged (d) Switch damaged or not functioning correctly (e) ESC MIL indicates any kind of failure of the system || 
+ 8. NUISANCE || 
+ 8.1. Noise || 
+ 8.1.1 Noise suppression system || Subjective evaluation (unless the inspector considers that the noise level may be borderline, in which case a standing noise test using a noise meter may be conducted) || (a) Noise levels in excess of those permitted in the requirements(1). (b) Any part of the noise suppression system loose, likely to fall off, damaged, incorrectly fitted, missing or obviously modified in a way that would adversely affect the noise levels. || 
+ 8.2. Exhaust emissions || 
+ 8.2.1 Petrol engine emissions || 
+ 8.2.1.1 Exhaust emissions control equipment || Visual inspection || (a) Emission control equipment fitted by the manufacturer absent, modified or obviously defective. (b) Leaks which would affect emission measurements || 
+ 8.2.1.2 Gaseous emissions || Measurement using an exhaust gas analyser in accordance with the requirements(1).. Alternatively, for vehicles equipped with suitable on-board diagnostic systems, the proper functioning of the emission system can be checked by appropriate reading of the OBD device and checks on the proper functioning of the OBD system in place of emission measurements at engine idle in accordance with the manufacturer's conditioning recommendations and other requirements(1). || (a) Either, gaseous emissions exceed the specific levels given by the manufacturer; (b) Or, if this information is not available, the CO emissions exceed, i) for vehicles not controlled by an advanced emission control system, - 4.5%, or - 3.5% according to the date of first registration or use specified in requirements(1). ii) for vehicles controlled by an advanced emission control system, - at engine idle: 0.5% - at high idle: 0.3% or - at engine idle: 0.3%[6] - at high idle: 0.2% according to the date of first registration or use specified in requirements(1). (c) Lambda outside the range 1± 0.03 or not in accordance with the manufacturer's specification (d) OBD readout indicating significant malfunction || 
+ 8.2.2 Diesel engine emissions || 
+ 8.2.2.1 Exhaust emission control equipment || Visual inspection || (a) Emission control equipment fitted by the manufacturer absent or obviously defective (b) Leaks which would affect emission measurements || 
+ 8.2.2.2 Opacity Vehicles registered or put into service before 1 January 1980 are exempted from this requirement || (a) Exhaust gas opacity to be measured during free acceleration (no load from idle up to cut-off speed) with gear lever in neutral and clutch engaged. (b) Vehicle preconditioning: 1. Vehicles may be tested without preconditioning although for safety reasons checks should be made that the engine is warm and in a satisfactory mechanical condition. 2. precondition requirements: (i) Engine shall be fully warm, for instance the engine oil temperature measured by a probe in the oil level dipstick tube to be at least 80 ºC, or normal operating temperature if lower, or the engine block temperature measured by the level of infrared radiation to be at least an equivalent temperature. If, owing to vehicle configuration, this measurement is impractical, the establishment of the engine's normal operating temperature may be made by other means, for example by the operation of the engine cooling fan. (ii) Exhaust system shall be purged by at least three free acceleration cycles or by an equivalent method. (c) Test procedure: 1 Engine and any turbocharger fitted, to be at idle before the start of each free acceleration cycle. For heavy-duty diesels, this means waiting for at least 10 seconds after the release of the throttle.
+For heavy-duty diesels, this means waiting for at least 10 seconds after the release of the throttle. 2. To initiate each free acceleration cycle, the throttle pedal must be fully depressed quickly and continuously (in less than one second) but not violently, so as to obtain maximum delivery from the injection pump. 3. During each free acceleration cycle, the engine shall reach cut-off speed or, for vehicles with automatic transmissions, the speed specified by the manufacturer or if this data is not available then two thirds of the cut-off speed, before the throttle is released. This could be checked, for instance, by monitoring engine speed or by allowing a sufficient time to elapse between initial throttle depression and release, which in the case of vehicles of category 1 and 2 of Annex 1, should be at least two seconds. 4. Vehicles shall only be failed if the arithmetic means of at least the last three free acceleration cycles are in excess of the limit value. This may be calculated by ignoring any measurement that departs significantly from the measured mean, or the result of any other statistical calculation that takes account of the scattering of the measurements. Member States may limit the number of test cycles. 5. To avoid unnecessary testing, Member States may fail vehicles which have measured values significantly in excess of the limit values after less than three free acceleration cycles or after the purging cycles. Equally to avoid unnecessary testing, Member States may pass vehicles which have measured values significantly below the limits after less than three free acceleration cycles or after the purging cycles || (a) For vehicles registered or put into service for the first time after the date specified in requirements(1)., opacity exceeds the level recorded on the manufacturer's plate on the vehicle; (b) Where this information is not available or requirements(1). do not allow the use of reference values, for naturally aspirated engines: 2.5 m-1 , for turbo-charged engines: 3.0 m-1, or, for vehicles identified in requirements(1). or first registered or put into service for the first time after the date specified in requirements(1)., 1.5 m-1.[7] || 
+ 8.3 Electromagnetic interference suppression || 
+ Radio-interference (X)(2) || Visual examination. || Any requirements of the requirements(1) not met. || 
+ 8.4 Other items related to the environment || 
+ 8.4.1 Fluid leaks || Visual examination || Any excessive fluid leak likely to harm the environment or to pose a safety risk to other road users || 
+ 9. SUPPLEMENTARY TESTS FOR PASSENGER CARRYING VEHICLES M2, M3 || 
+ 9.1. Doors || 
+ 9.1.1 Entrance and exit doors || Visual inspection and by operation || (a) Defective operation (b) Deteriorated condition (c) Defective emergency control (d) Remote control of doors or warning devices defective (e) Not in accordance with the requirements(1). || 
+ 9.1.2 Emergency exits || Visual inspection and by operation (where appropriate) || (a) defective operation (b) Emergency exits signs missing or illegible (c) Missing hammer to break glass (d) Not in accordance with requirements(1). || 
+ 9.2. Demisting and defrosting system (X)(2) || Visual inspection and by operation || (a) Not operating correctly (b) Emission of toxic or exhaust gases into driver's or passenger compartment (c) Defective defrosting (if compulsory) || 
+ 9.3. Ventilation & heating system (X)(2) || Visual inspection and by operation || (a) Defective operation (b) Emission of toxic or exhaust gases into driver's or passenger compartment || 
+ 9.4. Seats || 
+ 9.4.1 Passenger seats (including seats for accompanying personnel) || Visual inspection || a) Seats in defective condition or insecure b) Folding seats (if allowed) not working automatically c) Not in accordance with the requirements(1). || 
+ 9.4.2 .Driver's seat (additional require-ments) || Visual inspection || a) Defective special devices such as anti-glare shield or anti-dazzle screen b) Protection for driver insecure or not in accordance with requirements(1). || 
+ 9.5. Interior lighting and destination devices (X)(2) || Visual inspection and by operation || Device defective or not in accordance with requirements(1). || 
+ 9.6. Gangways, standing areas || Visual inspection || (a) Insecure floor. (b) Defective rails or grab handles. (c) Not in accordance with the requirements(1). || 
+ 9.7. Stairs and steps || Visual inspection and by operation (where appropriate) || (a) Deteriorated or damaged condition (b) Retractable steps not operating correctly (c) Not in accordance with requirements(1). || 
+ 9.8. Passenger communication system (X)(2) || Visual inspection and by operation. || Defective system || 
+ 9.9. Notices (X)(2) || Visual inspection. || (a) missing, erroneous or illegible notice (b) not in accordance with requirements(1). || 
+ 9.10. Requirements regarding the transport of children. (X)(2) || 
+ 9.10.1 Doors || Visual inspection || Protection of doors not in accordance with the requirements(1). regarding this form of transport. || 
+ 9.10.2 Signalling and special equipment || Visual inspection || Signalling or special equipment absent or not in accordance with requirements(1). || 
+ 9.11. Requirements regarding the transport of disabled persons (X)(2) || 
+ 9.11.1 Doors, ramps and lifts || Visual inspection and by operation || (a) Defective operation. (b) Deteriorated condition. (c) Defective control(s). (d) Defective warning device(s). (e) Not in accordance with the requirements(1). || 
+ 9.11.2 Wheelchair fixings || Visual inspection and by operation if appropriate || (a) Defective operation. (b) Deteriorated condition. (c) Defective control(s). (d) Not in accordance with the requirements(1). || 
+ 9.11.3 Signalling and special equipment || Visual inspection || Signalling or special equipment absent or not in accordance with requirements(1). || 
+ 9.12. Other special equipment (X)(2) || 
+ 9.12.1. Installations for food preparation || Visual inspection || (a) installation not in accordance with the requirements(1). (b) installation damaged to such an extent that it would be dangerous to use it. || 
+ 9.12.2.Sanitary installation || Visual inspection || Installation not in accordance with the requirements(1). || 
+ 9.12.3.Other devices (e.g. audio-visual systems) || Visual inspection || Not in accordance with the requirements(1). || 
+NOTES :
+'requirements' are laid down by
+type-approval requirements at the date of approval, first registration or first
+entry into service as well as retrofitting obligations or national legislation
+in the country of registration. (X) Identifies items which are related to the
+condition of the vehicle and its suitability for use on the road but which are
+not considered essential in a roadworthiness test. ANNEX III
+REQUIREMENTS
+CONCERNING THE Assessment of
+deficiencies OF VEHICLES
+For each vehicle systems and components
+subject to testing, the rules to apply during roadworthiness tests to determine
+whether the condition of the vehicle is acceptable are the following. Item || Reasons for failure || Assessment of deficiencies 
+ || Minor || Major || Dangerous 
+ 0. IDENTIFICATION OF THE VEHICLE 
+ 0.1. Registration number plates (if needed by requirements(1) || (a) Number plate(s) missing or so insecure/fixed that it is (they are) likely to fall off. || || X || 
+ (b) Inscription missing or illegible. || || X || 
+ (c) Not in accordance with vehicle documents or records. || || X || 
+ 0.2. Vehicle identification chassis/ serial number || (a) Missing or can not be found. || || X || 
+ (b) Incomplete, illegible. || || X || 
+ (c) Not in accordance with vehicle documents or records. || || X || 
+ 1. BRAKING EQUIPMENT 
+ 1.1. Mechanical condition and operation 
+ 1.1.1. Service brake pedal/hand lever pivot || (a) Pivot too tight. || || X || 
+ b) Excessive wear or play. || || X || 
+ 1.1.2. Pedal/hand lever condition and travel of the brake operating device || (a) Excessive or insufficient reserve travel.
+|| || X || 
+ 1.1.2. Pedal/hand lever condition and travel of the brake operating device || (a) Excessive or insufficient reserve travel.
+
+|| || X || 
+ (b) Brake control not releasing correctly. Functionality affected || X || X || 
+ (c) Anti-slip provision on brake pedal missing, loose or worn smooth. || X || || 
+ 1.1.3. Vacuum pump or compressor and reservoirs || (a) Insufficient pressure/vacuum to give assistance for at least four brake applications after the warning device has operated (or gauge shows an unsafe reading);. at least two brake applications after the warning device has operated (or gauge shows an unsafe reading);. || || X || X 
+ (b) Time taken to build up air pressure/vacuum to safe working value not in accordance with the requirements(1) || || X || 
+ (c) Multi-circuit protection valve or pressure relief valve not working. || || X || 
+ (d) Air leak causing a noticeable drop in pressure or audible air leaks. || || X || 
+ (e) External damage likely to affect the function of the braking system. Secondary braking performance not met || || X || X 
+ 1.1.4. Low pressure warning gauge or indicator || Malfunctioning or defective gauge or indicator Low pressure not identifyable. || X || X || 
+ 1.1.5. Hand operated brake control valve || (a) Control cracked, damaged or excessively worn. || || X || 
+ (b) Control insecure on valve or valve insecure. || || X || 
+ (c) Loose connections or leaks in system. || || X || 
+ (d) Unsatisfactory operation. || || X || 
+ 1.1.6. Parking brake activator, lever control, parking brake ratchet , electronic parking brake || (a) Ratchet not holding correctly. || || X || 
+ (b) wear at lever pivot or in ratchet mechanism Excessive wear. || X || X || 
+ (c) Excessive movement of lever indicating incorrect adjustment. || || X || 
+ (d) Activator missing, damaged or inoperative || || X || 
+ (e) Incorrect functioning, warning indicator shows malfunction || || X || 
+ 1.1.7. Braking valves (foot valves, unloaders, governors) || (a) Valve damaged or excessive air leak. Functionality affected || || X || X 
+ (b) Excessive oil discharge from compressor. || X || || 
+ (c) Valve insecure or inadequately mounted. || || X || 
+ (d) Hydraulic fluid discharge or leak Functionality affected. || || X || X 
+ 1.1.8. Couplings for trailer brakes (electrical & pneumatic) || (a) Tap or self sealing valve defective. Functionality affected. || X || X || 
+ (b) Tap or valve insecure or inadequately mounted. Functionality affected. || X || X || 
+ (c) Excessive leaks. Functionality affected. || || X || X 
+ (d) Not functioning correctly Operation of brake affected || || X || X 
+ 1.1.9. Energy storage reservoir pressure tank || (a) Tank slightly damaged or slightly corroded. Tank heavily damaged, corroded or leaking. || X || X || 
+ (b) Drain device operation affected. Drain device inoperative || X || X || 
+ (c) Tank insecure or inadequately mounted. || || X || 
+ 1.1.10. Brake servo units, master cylinder (hydraulic systems) || (a) Defective or ineffective servo unit. || || X || 
+ (b) Master cylinder defective, but brake still operating. Master cylinder defective or leaking || || X || X 
+ (c) Master cylinder insecure, but brake still operating. Master cylinder insecure. || || X || X 
+ (d) Insufficient brake fluid (below MIN mark but more than 50% of reservoir capacity) Insufficient brake fluid (below MIN mark but less than 50% of reservoir capacity) No brake fluid visible || X || X || X 
+ (e) Master cylinder reservoir cap missing. || X || || 
+ (f) Brake fluid warning light illuminated or defective. || X || || 
+ (g) Incorrect functioning of brake fluid level warning device. || X || || 
+ 1.1.11. Rigid brake pipes || (a) Imminent risk of failure or fracture. || || || X 
+ (b) Pipes or connections leaking (air brake systems). Pipes or connections leaking (hydraulic brake systems) || || X || X 
+ (c) Pipes damaged or excessively corroded. Affecting the functioning of the brakes by blocking or imminent risk of leaking || || X || X 
+ (d) Pipes misplaced. Risk of damage || X || X || 
+ 1.1.12. Flexible brake hoses || (a) Imminent risk of failure or fracture. || || || X 
+ (b) Hoses twisted or to short Hoses damaged or chafing || X || X || 
+ (c) Hoses or connections leaking. (air brake systems). Hoses or connections leaking (hydraulic brake systems) || || X || X 
+ (d) Hoses bulging under pressure. Cord impaired || || X || X 
+ (e) Hoses porous. || || X || 
+ 1.1.13. Brake linings and pads || (a) Lining or pad excessively worn.(min mark reached) Lining or pad excessively worn.(below min mark) || || X || X 
+ (b) Lining or pad contaminated (oil, grease etc.). Braking performance affected || || X || X 
+ (c) Lining or pad missing || || || X 
+ 1.1.14. Brake drums, brake discs || (a) Drum or disc worn (min mark reached) or significant scored,. Drum or disc excessively worn, excessively scored, cracked, insecure or fractured. || || X || X 
+ (b) Drum or disc contaminated (oil, grease, etc.) || || X || 
+ (c) Drum or disc missing || || || X 
+ (d) Back plate insecure. || || X || 
+ 1.1.15. Brake cables, rods, levers, linkages || (a) Cable damaged or knotted. Braking performance affected || || X || X 
+ (b) Component excessively worn or corroded. Braking performance affected || || X || X 
+ (c) Cable, rod or joint insecure. || || X || 
+ (d) Cable guide defective. || || X || 
+ (e) Restriction to free movement of the braking system. || || X || 
+ (f) Abnormal movement of the levers/linkage indicating maladjustment or excessive wear. || || X || 
+ 1.1.16. Brake actuators (including spring brakes or hydraulic cylinders) || (a) Actuator cracked or damaged. Braking performance affected || || X || X 
+ (b) Actuator leaking Braking performance affected || || X || X 
+ (c) Actuator insecure or inadequately mounted. Braking performance affected || || X || X 
+ (d) Actuator excessively corroded. Likely to crack || || X || X 
+ (e) Insufficient or excessive travel of operating piston or diaphragm mechanism. Braking performance affected (lack of reserve for movement) || || X || X 
+ (f) Dust cover damaged. Dust cover missing or excessively damaged || X || X || 
+ 1.1.17. Load sensing valve || (a) Defective linkage. || || X || 
+ (b) Linkage incorrectly adjusted. || || X || 
+ (c) Valve seized or inoperative.(ABS functioning) Valve seized or inoperative || || X || X 
+ (d) Valve missing.(if required) || || || X 
+ (e) Missing data plate. || X || || 
+ (f) Data illegible or not in accordance with requirements(1) || X || || 
+ 1.1.18. Slack adjusters and indicators || (a) Adjuster damaged, seized or having abnormal movement, excessive wear or incorrect adjustment. || || X || 
+ (b) Adjuster defective. || || X || 
+ (c) Incorrectly installed or replaced. || || X || 
+ 1.1.19. Endurance braking system (where fitted or required) || (a) Insecure connectors or mountings. Functionality affected || X || X || 
+ (b) System obviously defective or missing. || || X || 
+ 1.1.20. Automatic operation of trailer brakes || Trailer brake does not apply automatically when coupling disconnected. || || || X 
+ 1.1.21. Complete braking system || (a) Other system devices (e.g. anti-freeze pump, air dryer, etc.) damaged externally or excessively corroded in a way that adversely affects the braking system. Braking performance affected || || X || X 
+ (b) Leakage of air or anti-freeze. System functionality affected || X || X || 
+ (c) Any component insecure or inadequately mounted. || || X || 
+ (d) Inappropriate repair or modification to any component[8] Braking performance affected || || X || X 
+ 1.1.22. Test connections (where fitted or required) || (a) Missing. || || X || 
+ (b) Damaged unusable or leaking. || X || X || 
+ 1.2. Service braking performance and efficiency 
+ 1.2.1. Performance || (a) Inadequate braking effort on one or more wheels. No braking effort on one or more wheels || || X || X 
+ (b) Braking effort from any wheel is less than 70% of maximum effort recorded from the other wheel on the same axle.
+No braking effort on one or more wheels || || X || X 
+ (b) Braking effort from any wheel is less than 70% of maximum effort recorded from the other wheel on the same axle.
+
+Or in the case of testing on the road, the vehicle deviates excessively from a straight line. Braking effort from any wheel is less than 50% of maximum effort recorded from the other wheel on the same axle in case of steered axles || || X || X 
+ (c) No gradual variation in brake effort (grabbing). || || X || 
+ (d) Abnormal lag in brake operation of any wheel. || || X || 
+ (e) Excessive fluctuation of brake force during each complete wheel revolution. || || X || 
+ 1.2.2. Efficiency || Does not give at least the minimum figure as follows:- Vehicles registered first time after entry into force of Directive 2010/48/EU: - Category N1: 50 % - Category M1: 58 % - Category M2 and M3: 50 % - Category N2 and N3: 50 % - Category O2 (XX)(3), O3 and O4: · for semi-trailers: 45% · for draw-bar trailers: 50% Vehicles registered before entry into force of Directive 2010/48/EU : Category N1: 45% Category M1, M2 and M3: 50% [9] Category N2 and N3: 43% [10] Category O2 (XX)(3),O3 and O4: 40% [11] Other categories (XX)(3),. - Categories L (both brakes): Category L1e: 42 % Category L2e, L6e: 40 % Category L3e: 50 % Category L4e: 46 % Category L5e, L7e: 44 % - Categories L (rear wheel brake): all categories: 25 % Less than 50% of the above values reached in relation to the vehicle mass during testing || || X || X 
+ 1.3. Secondary (emergency) braking performance and efficiency (if met by separate system) 
+ 1.3.1. Performance || (a) Inadequate braking effort on one or more wheels. No braking effort on one or more wheels || || X || X 
+ (b) Braking effort from any wheel is less than 70% of maximum effort recorded from another wheel on the same axle specified. Or in the case of testing on the road, the vehicle deviates excessively from a straight line. Braking effort from any wheel is less than 50% of maximum effort recorded from the other wheel on the same axle in case of steered axles || || X || X 
+ (c) No gradual variation in brake effort (grabbing). || || X || 
+ 1.3.2. Efficiency || Braking effort less than 50% [12] of the service brake performance defined in section 1.2.2 in relation to the maximum authorized mass or, in the case of semi-trailers, to the sum of the authorized axel loads (except L1e and L3e). Less than 50% of the above values reached in relation to the vehicle mass during testing || || X || X 
+ 1.4. Parking braking performance and efficiency 
+ 1.4.1. Performance || Brake inoperative on one side or in the case of testing on the road, the vehicle deviates excessively from a straight line. Less than 50% of the efficiency values reached in relation to the vehicle mass during testing || || X || X 
+ 1.4.2. Efficiency || Does not give at least for all vehicles a braking ratio of 16% in relation to the maximum authorized mass, or, for motor vehicles, of 12% in relation to the maximum authorized combination mass of the vehicle, whichever is the greater (except L1e and L3e). Less than 50% of the above values reached in relation to the vehicle mass during testing || || X || X 
+ 1.5. Endurance braking system performance || (a) No gradual variation of efficiency (not applicable to exhaust brake systems). || || X || 
+ (b) System not functioning. || || X || 
+ 1.6. Anti-lock braking system (ABS) || (a) Warning device malfunctioning. || || X || 
+ (b) Warning device shows system malfunction. || || X || 
+ (c) Wheel speed sensors missing or damaged || || X || 
+ (d) Wirings damaged || || X || 
+ (e) Other components missing or damaged || || X || 
+ 1.7 Electronic brake system (EBS) || (a) Warning device malfunctioning. || || X || 
+ (b) Warning device shows system malfunction. || || X || 
+ 1.8 Brake fluid || (a) Brake fluid boiling temperature too low or water content too high Boling temperature < 180°C or water content > 1,5% Boling temperature < 150°C or water content > 2,0% || X || X || 
+ (b) Brake fluid contaminated Imminent risk of failure || || X || X 
+ (c) Insufficient brake fluid (below MIN mark but more than 50% of reservoir capacity) Insufficient brake fluid (below MIN mark but less than 50% of reservoir capacity) No brake fluid visible || X || X || X 
+ 2. STEERING 
+ 2.1. Mechanical condition 
+ 2.1.1. Steering gear condition || (a) Roughness in operation of gear. || || X || 
+ (b) Sector shaft twisted or splines worn. Affecting functionality || || X || X 
+ (c) Excessive wear in sector shaft. Affecting functionality || || X || X 
+ (d) Excessive movement of sector shaft. Affecting functionality || || X || X 
+ (e) Leaking. formation of drops || X || X || 
+ 2.1.2. Steering gear casing attachment || (a) Steering gear casing not properly attached. More than 50% of attachments loose or relative movement to chassis/bodywork visible || || X || X 
+ (b) Elongated fixing holes in chassis. More than 50 % of attachments affected || || X || X 
+ (c) Missing or fractured fixing bolts. More than 50 % of attachments affected || || X || X 
+ (d) Steering gear casing fractured. Stability or attachment of casing affected || || X || X 
+ 2.1.3. Steering linkage condition || (a) Relative movement between components which should be fixed. Excessive movement or likely to un-link || || X || X 
+ (b) Excessive wear at joints. Likely to unlink || || X || X 
+ (c) Fractures or deformation of any component. Affecting function || || X || X 
+ (d) Absence of locking devices. || || X || 
+ (e) Misalignment of components (e.g. track rod or drag link). || || X || 
+ (f) Inappropriate repair or modification. Affecting function || || X || X 
+ (g) Dust cover damaged or deteriorated. Dust cover missing or severely deteriorated || X || X || 
+ 2.1.4. Steering linkage operation || (a) Moving steering linkage fouling a fixed part of chassis. || || X || 
+ (b) Steering stops not operating or missing. || || X || 
+ 2.1.5. Power steering || (a) Fluid leak. Function affected || || X || X 
+ (b) Insufficient fluid. (below MIN mark but more than 50% of reservoir capacity to MIN mark Less than 50% of reservoir capacity to MIN mark || X || X || 
+ (c) Mechanism not working. Steering affected || || X || X 
+ (d) Mechanism fractured or insecure. Steering affected || || X || X 
+ (e) Misalignment or fouling of components. Steering affected || || X || X 
+ (f) Inappropriate repair or modification. Steering affected || || X || X 
+ (g) Cables/hoses damaged, excessively corroded. Steering affected || || X || X 
+ 2.2. Steering wheel, column and handle bar 
+ 2.2.1. Steering wheel/handle bar condition || (a) Relative movement between steering wheel and column indicating looseness. || || X || 
+ (b) Absence of retaining device on steering wheel hub Likely to unlink || || X || X 
+ (c) Fracture or looseness of steering wheel hub, rim or spokes Likely to unlink || || X || X 
+ 2.2.2.Steering column/yokes and forks || (a) Excessive movement of centre of steering wheel up or down. || || X || 
+ (b) Excessive movement of top of column radially from axis of column. || || X || 
+ (c) Deteriorated flexible coupling. || || X || 
+ (d) Attachment defective. Likely to unlink || || X || X 
+ (e) inappropriate repair or modification || || || X 
+ 2.3.Steering play || Free play in steering excessive (for example movement of a point on the rim exceeding one fifth of the diameter of the steering wheel or not in accordance with the requirements(1). Safe steering affected || || X || X 
+ 2.4.Wheel alignment (X)(2) || Alignment not in accordance with vehicle manufacturer's data or requirements(1). Straight on driving affected; directional stability impaired || X || X || 
+ 2.5. Trailer steered axle turntable || (a) Component slightly damaged. Component heavy damaged or cracked. || || X || X 
+ (b) Excessive play.
+|| || X || X 
+ (b) Excessive play.
+
+Straight on driving affected; directional stability impaired || || X || X 
+ (c) Attachment defective.(less than 50% of fixings loose) Attachment defective.(more than 50% of fixings loose) || || X || X 
+ 2.6. Electronic Power Steering (EPS) || (a) EPS Malfunction Indicator Lamp (MIL) indicates any kind of failure of the system. || || X || 
+ (b) Inconsistency between the angle of the steering wheel and the angle of the wheels. Steering affected || || X || X 
+ (c) power assistance not working || || X || 
+ 3. VISIBILITY 
+ 3.1. Field of vision || Obstruction within driver's field of view that materially affects his view in front or to the sides. (outside cleaning area of windscreen wipers) Inside cleaning area of windscreen wipers affected or outer mirrors not visible || X || X || 
+ 3.2. Condition of glass || (a) Cracked or discoloured glass or transparent panel (if permitted). (outside cleaning area of windscreen wipers) Inside cleaning area of windscreen wipers affected or outer mirrors not visible || X || X || 
+ (b) Glass or transparent panel (including reflecting or tinted film) that does not comply with specifications in the requirements(1) (XX)(3), (outside cleaning area of windscreen wipers) Inside cleaning area of windscreen wipers affected or outer mirrors not visible || X || X || 
+ (c) Glass or transparent panel in unacceptable condition. Visibility through inside cleaning area of windscreen wipers heavily affected || || X || X 
+ 3.3. Rear-view mirrors or devices || (a) Mirror or device missing or not fitted according to the requirements(1). (at least two rear-view possibilities available) Less than two rear-view possibilities available || X || X || 
+ (b) Mirror or device slightly damaged or loose. Mirror or device inoperative, heavily damaged, loose or insecure || X || X || 
+ 3.4. Windscreen wipers || (a) Wipers not operating or missing || || X || 
+ (b) Wiper blade defective. Wiper blade missing or obviously defective || X || X || 
+ 3.5.Windscreen washers || Washers not operating adequately.(lack of washing fluid but pump operating or water-jet misaligned Washers not operating || X || X || 
+ 3.6 Demisting system (X)(2) || System inoperative or obviously defective. || X || || 
+ 4. LAMPS, REFLECTORS AND ELECTRICAL EQUIPMENT 
+ 4.1. Headlamps 
+ 4.1.1. Condition and operation || (a) Defective or missing light / light source.(multiple light /light sources; in case of LED more than 1/3 functioning) Single light / light sources; in case of LED less than 2/3 functioning || X || X || 
+ (b) Slightly defective projection system (reflector and lens). Heavily defective or missing projection system (reflector and lens). || X || X || 
+ (c) Lamp not securely attached. || || X || 
+ 4.1.2. Alignment || Aim of a headlamp not within limits laid down in the requirements(1). || || X || 
+ 4.1.3. Switching || (a) Switch does not operate in accordance with the requirements(1) (Number of headlamps illuminated at the same time) Exceeding of maximum permitted light intensity to the front || X || X || 
+ (b) Function of control device impaired. || || X || 
+ 4.1.4. Compliance with requirements(1). || (a) Lamp, emitted colour, position or intensity not in accordance with the requirements(1). || || X || 
+ (b) Products on lens or light source which obviously reduce light intensity or change emitted colour. || || X || 
+ (c) Light source and lamp not compatible || || X || 
+ 4.1.5. Levelling devices (where mandatory) || (a) Device not operating. || || X || 
+ (b) Manual device cannot be operated from driver's seat. || || X || 
+ 4.1.6. Headlamp cleaning device (where mandatory) || Device not operating. In case of gas-discharging lamps || X || X || 
+ 4.2. Front and rear position lamps, side marker lamps and end outline marker lamps 
+ 4.2.1. Condition and operation || (a) Defective light source. || || X || 
+ (b) Defective lens. || || X || 
+ (c) Lamp not securely attached. Likely to fall off || X || X || 
+ 4.2.2 Switching || (a) Switch does not operate in accordance with the requirements(1). Rear position lamps and side marker lamps can be switched off when headlamps are on || X || X || 
+ (b) Function of control device impaired. || || X || 
+ 4.2.3. Compliance with requirements(1) || (a) Lamp, emitted colour, position or intensity not in accordance with the requirements(1). Red light to the front or white light to the rear; heavily reduced light intensity || X || X || 
+ (b) Products on lens or light source which reduce light intensity or change emitted colour. Red light to the front or white light to the rear; heavily reduced light intensity || X || X || 
+ 4.3. Stop Lamps 
+ 4.3.1. Condition and operation || (a) Defective light source.(multiple light source in case of LED more than 1/3 functioning) Single light sources; in case of LED less than 2/3 functioning All light sources defective || X || X || X 
+ (b) slightly defective lens (no influence on emitted light). Heavily defective lens (emitted light affected). || X || X || 
+ (c) Lamp not securely attached. Likely to fall off || X || X || 
+ 4.3.2. Switching || (a) Switch does not operate in accordance with the requirements(1). Delayed operation ( more than 2,5m/s2 deceleration before brake lights are on) No operation at all || X || X || X 
+ (b) Function of control device impaired. || || X || 
+ 4.3.3. Compliance with requirements(1). || Lamp, emitted colour, position or intensity not in accordance with the requirements(1). White light to the rear; heavily reduced light intensity || X || X || 
+ 4.4. Direction indicator and hazard warning lamps 
+ 4.4.1. Condition and operation || (a) Defective light source. .(multiple light source in case of LED more than 1/3 functioning) Single light sources; in case of LED less than 2/3 functioning || X || X || 
+ (b) slightly defective lens. (no influence on emitted light) Heavily defective lens (emitted light affected). || X || X || 
+ (c) Lamp not securely attached Likely to fall off || X || X || 
+ 4.4.2. Switching || Switch does not operate in accordance with the requirements(1). No operation at all || X || X || 
+ 4.4.3. Compliance with requirements(1). || Lamp, emitted colour, position or intensity not in accordance with the requirements(1). Other than amber light emitted || X || X || 
+ 4.4.4. Flashing frequency || Rate of flashing not in accordance with the requirements(1).(frequency more than 25% deviating) Frequency more than 50% deviating || X || X || 
+ 4.5. Front and rear fog lamps 
+ 4.5.1. Condition and operation || (a) Defective light source. .(multiple light source in case of LED more than 1/3 functioning) Single light sources; in case of LED less than 2/3 functioning || X || X || 
+ (b) slightly defective lens. (no influence on emitted light) Heavily defective lens (emitted light affected). || X || X || 
+ (c) Lamp not securely attached. Likely to fall off or dazzling upcoming traffic || X || X || 
+ 4.5.2 Alignment (X)(2) || Front fog lamp out of horizontal alignment when the light pattern has cut-off line (cut-off line too low) Cut-off line above that for head lamps || X || X || 
+ 4.5.3. Switching || Switch does not operate in accordance with the requirements(1). Not operative || X || X || 
+ 4.5.4. Compliance with requirements(1). || (a) Lamp, emitted colour, position or intensity not in accordance with the requirements(1) || || X || 
+ (b) System does not operate in accordance with the requirements(1) || || X || 
+ 4.6. Reversing lamps 
+ 4.6.1. Condition and operation || (a) Defective light source. || X || || 
+ (b) Defective lens. || X || || 
+ Lamp not securely attached. Likely to fall off || X || X || 
+ 4.6.2. Compliance with requirements(1) || (a) Lamp, emitted colour, position or intensity not in accordance with the requirements(1). || || X || 
+ (b) System does not operate in accordance with the requirements(1). || || X || 
+ 4.6.3. Switching || Switch does not operate in accordance with the requirements(1).
+Likely to fall off || X || X || 
+ 4.6.2. Compliance with requirements(1) || (a) Lamp, emitted colour, position or intensity not in accordance with the requirements(1). || || X || 
+ (b) System does not operate in accordance with the requirements(1). || || X || 
+ 4.6.3. Switching || Switch does not operate in accordance with the requirements(1).
+
+Reversing lamp can be switched on with gear not in position reverse || X || X || 
+ 4.7. Rear registration plate lamp 
+ 4.7.1. Condition and operation || (a) Lamp throwing direct light to the rear. Directly emitting white light to the rear || X || X || 
+ (b) Defective light source. multiple light source Defective light source. single light source || X || X || 
+ Lamp not securely attached. Likely to fall off || X || X || 
+ 4.7.2. Compliance with requirements(1) || System does not operate in accordance with the requirements(1). || X || || 
+ 4.8. Retro-reflectors, conspicuity (retro reflecting) markings and rear marker plates 
+ 4.8.1. Condition || (a) Reflecting equipment defective or damaged. Reflecting affected || X || X || 
+ (b) Reflector not securely attached. Likely to fall off || X || X || 
+ 4.8.2. Compliance with requirements(1) || Device, reflected colour or position not in accordance with the requirements(1). Missing or reflecting red colour to the front or white colour to the rear || X || X || 
+ 4.9. Tell-tales mandatory for lighting equipment 
+ 4.9.1. Condition and operation || Not operating. Not operating for un-dipped beam or rear fog lamp || X || X || 
+ 4.9.2. Compliance with requirements(1) || Not in accordance with the requirements(1). || X || || 
+ 4.10. Electrical connections between towing vehicle and trailer or semi-trailer || (a) Fixed components not securely attached. Loose socket || X || X || 
+ (b) Damaged or deteriorated insulation. Likely to cause a short-circuit fault || X || X || 
+ (c) Trailer or towing vehicle electrical connections not functioning correctly. Trailer braking system affected; trailer brake lights not working at all || || X || X 
+ 4.11. Electrical wiring || (a) Wiring insecure or not adequately secured. Fixings loose, touching sharp edges, connectors likely to be disconnected Wiring likely to touch hot parts, rotating parts or ground, connectors disconnected (relevant parts for braking, steering) || X || X || X 
+ (b) Wiring slightly deteriorated. Wiring heavily deteriorated Wiring extreme deteriorated (relevant parts for braking, steering) || X || X || X 
+ (c) Damaged or deteriorated insulation. Likely to cause a short-circuit fault Eminent risk of fire, formation of sparks || X || X || X 
+ 4.12. Non obligatory lamps and retro-reflectors (X)(2) || (a) A lamp/retro-reflector fitted not in accordance with the requirements(1). Emitting/reflecting red light to the front or white light to the rear || X || X || 
+ (b) Lamp operation not in accordance with the requirements(1). Number of headlights simultaneous operating exceeding permitted light intensity; Emitting red light to the front or white light to the rear || X || X || 
+ (c) Lamp/retro-reflector not securely attached. Likely to fall off || X || X || 
+ 4.13. Battery(ies) || (a) Insecure. Not properly attached; Likely to cause a short-circuit fault || X || X || 
+ (b) Leaking. Loss of hazardous substances || X || X || 
+ (c) Defective switch (if required). || || X || 
+ (d) Defective fuses (if required). || || X || 
+ (e) inappropriate ventilation (if required) || || X || 
+ 5. AXLES, WHEELS, TYRES AND SUSPENSION 
+ 5.1. Axles 
+ 5.1.1. Axles || (a) Axle fractured or deformed. || || || X 
+ (b) Insecure fixing to vehicle. Relative movement to chassis/bodywork/ loose || || X || X 
+ (c) Inappropriate repair or modification. Stability impaired, functionality affected, insufficient clearance to other vehicle parts or to the ground || || X || X 
+ 5.1.2. Stub axles || (a) Stub axle fractured. || || || X 
+ (b) Excessive wear in the swivel pin and/or bushes. Likely of loosening; directional stability impaired || || X || X 
+ (c) Excessive movement between stub axle and axle beam. Likely of loosening; directional stability impaired || || X || X 
+ Stub axle pin loose in axle. Likely of loosening; directional stability impaired || || X || X 
+ 5.1.3. Wheel bearings || (a) Excessive play in a wheel bearing. directional stability impaired; danger of demolishment || || X || X 
+ (b) Wheel bearing too tight, jammed. Danger of overheating; danger of demolishment || || X || X 
+ 5.2. Wheels and tyres 
+ 5.2.1. Road wheel hub || (a) Any wheel nuts or studs missing or loose(<3,5t: at least 4 symmetric distributed remaining; >3,5t. at least 75% symmetric distributed remaining) . More than 25% wheel nuts or studs missing or loose. || || X || X 
+ (b) Hub worn or damaged Hub worn or damaged in a way that secure fixing of wheels affected || || X || X 
+ 5.2.2. Wheels || (a) Any fracture or welding defect. || || || X 
+ (b) Tyre retaining rings not properly fitted. Likely to come-off || || X || X 
+ (c) Wheel badly distorted or worn. Secure fixing to hub affected; secure fixing of tyre affected || || X || X 
+ (d) Wheel size or type not in accordance with the requirements(1) and effecting road safety || || X || 
+ 5.2.3. Tyres || (a) Tyre size, load capacity, approval mark or speed rating not in accordance with the requirements(1) and effecting road safety Insufficient load capacity or speed rating for actual use, tyre touches other fix vehicle parts impairing save driving || || X || X 
+ (b) Tyres on same axle or on twin wheels of different sizes. || || X || 
+ (c) Tyres on same axle of different construction (radial / cross-ply). || || X || 
+ (d) Any serious damage or cut to tyre. Cord visible or damaged || || X || X 
+ (e) Tyre tread depth not in accordance with the requirements(1). Less than 80% of required tread depth || || X || X 
+ (f) Tyre rubbing against other components (flexible anti spray devices). Tyre rubbing against other components (save driving not impaired) || X || X || 
+ (g) Re-grooved tyres not in accordance with requirements(1). Cord protection layer affected || || X || X 
+ (h) Air pressure monitoring system malfunctioning obviously inoperative || X || X || 
+ 5.3. Suspension system 
+ 5.3.1. Springs and stabilizer || (a) Insecure attachment of springs to chassis or axle. Relative movement visible; more than 50% of fixings loose || || X || X 
+ (b) A damaged or fractured spring component. Main spring ( -leaf), or more than 50 % of additional leafs affected || || X || X 
+ (c) spring missing Main spring ( -leaf), or more than 50 % of additional leafs affected || || X || X 
+ (d) inappropriate repair or modification Insufficient clearance to other vehicle parts; spring system inoperative || || X || X 
+ 5.3.2. Shock absorbers || (a) Insecure attachment of shock absorbers to chassis or axle. Shock absorber loose || X || X || 
+ (b) Damaged shock absorber showing signs of severe leakage or malfunction. || || X || 
+ 5.3.2.1 efficiency testing of damping || (a) significant difference between left and right || || X || 
+ (b) given minimum values not reached || || X || 
+ 5.3.3. Torque tubes, radius arms, wishbones and suspension arms || (a) Insecure attachment of component to chassis or axle. Likely of loosening; directional stability impaired || || X || X 
+ (b) A damaged or excessively corroded component. Stability of component affected or component fractured || || X || X 
+ (c) Inappropriate repair or modification. Insufficient clearance to other vehicle parts; system inoperative || || X || X 
+ 5.3.4. Suspension joints || (a) Excessive wear in swivel pin and/or bushes or at suspension joints. Likely of loosening; directional stability impaired || || X || X 
+ (b) Dust cover severely deteriorated. Dust cover missing or fractured || X || X || 
+ 5.3.5. Air suspension || (a) System inoperable. || || || X 
+ (b) Any component damaged, modified or deteriorated in a way that would adversely affect the functioning of the system.
+|| || || X 
+ (b) Any component damaged, modified or deteriorated in a way that would adversely affect the functioning of the system.
+
+Functioning of system seriously affected || || X || X 
+ (c) audible system leakage || || X || 
+ 6. CHASSIS AND CHASSIS ATTACHMENTS 
+ 6.1. Chassis or frame and attachments 
+ 6.1.1. General condition || a) Slight fracture or deformation of any side or cross member. Serious fracture or deformation of any side or cross member. || || X || X 
+ b) Insecurity of strengthening plates or fastenings (< 50%). Loose fastenings (>50%); insufficient strength of parts || || X || X 
+ c) Excessive corrosion which affects the rigidity of the assembly. insufficient strength of parts || || X || X 
+ 6.1.2. Exhaust pipes and silencers || a) Insecure or leaking exhaust system. || || X || 
+ b) Fumes entering cab or passengers compartment. Danger to health of persons on board || || X || X 
+ 6.1.3. Fuel tank and pipes (including heating fuel tank and pipes) || (a) Insecure tank or pipes. Risk of fire || || X || X 
+ (b) Leaking fuel or missing or ineffective filler cap. Risk of fire; excessive loss of hazardous material || || X || X 
+ (c) chafed pipes. Damaged pipes || X || X || 
+ (d) Fuel stopcock (if required) not operating correctly. || || X || 
+ (e) Fire risk due to leaking fuel fuel tank or exhaust improperly shielded engine compartment condition || || || X 
+ (f) LPG/CNG or hydrogen system not in accordance with requirements(1). Any part of the system defective || || X || X 
+ 6.1.4. Bumpers, lateral protection and rear underrun devices || (a) Looseness or damage likely to cause injury when grazed or contacted. Parts likely to fall off; functionality heavily affected || || X || X 
+ (b) Device obviously not in compliance with the requirements(1). || || X || 
+ 6.1.5. Spare wheel carrier (if fitted) || (a) Carrier not in proper condition || X || || 
+ (b) Carrier fractured or insecure. || || X || 
+ (c) A spare wheel not securely fixed in carrier likely to fall off. || || X || X 
+ 6.1.6. Coupling mechanisms and towing equipment || (a) Component damaged, defective or cracked (if not in use). Component damaged, defective or cracked (if in use) || || X || X 
+ (b) Excessive wear in a component. Below wear limit || || X || X 
+ (c) Attachment defective. Any attachment loose || || X || X 
+ (d) Any safety device missing or not operating correctly. || || X || 
+ (e) Any indicator not working. || || X || 
+ (f) Obstruct registration plate or any lamp (when not in use) Registration plate not readable (when not in use) || X || X || 
+ (g) Inappropriate repair or modification (secondary parts) Inappropriate repair or modification (primary parts) || || X || X 
+ 6.1.7. Transmission || (a) Loose or missing securing bolts.(<30%) Loose or missing securing bolts.(>30%) || || X || X 
+ (b) Excessive wear in transmission shaft bearings. Likeliness of loosening or cracking || || X || X 
+ (c) Excessive wear in universal joints. Likeliness of loosening or cracking || || X || X 
+ (d) Deteriorated flexible couplings. Likeliness of loosening or cracking || || X || X 
+ (e) A damaged or bent shaft. || || X || 
+ (f) Bearing housing fractured or insecure. Likeliness of loosening or cracking || || X || X 
+ (g) Dust cover severely deteriorated. Dust cover missing or fractured || X || X || 
+ (h) Illegal power-train modification || || X || 
+ 6.1.8. Engine mountings || Deteriorated, obviously and severely damaged, loose or fractured mountings. || || X || X 
+ 6.1.9 Engine performance || (a) Control unit illegal modified || || X || 
+ (b) illegal engine modification || || X || 
+ 6.2. Cab and bodywork 
+ 6.2.1. Condition || (a) A loose or damaged panel or part likely to cause injury. Likely to fall off || || X || X 
+ (b) Insecure body pillar. Stability impaired || || X || X 
+ (c) Permitting entry of engine or exhaust fumes. Danger to health of persons on board || || X || X 
+ (d) Inappropriate repair or modification. Insufficient clearance to rotating or moving parts and road || || X || X 
+ 6.2.2. Mounting || (a) Body or cab insecure. Stability affected || || X || X 
+ (b) Body/cab obviously not located squarely on chassis. || || X || 
+ (c) Insecure or missing fixing of body/cab to chassis or cross members.(< 50 % and if symmetrical) Insecure or missing fixing of body/cab to chassis or cross members.(> 50 %) || || X || X 
+ (d) Excessive corrosion at fixing points on integral bodies. Stability affected || || X || X 
+ 6.2.3. Doors and door catches || (a) A door will not open or close properly. || || X || 
+ (b) A door likely to open inadvertently or one that will not remain closed.(sliding doors) A door likely to open inadvertently or one that will not remain closed.(turning doors) || || X || X 
+ (c) Door, hinges, catches or pillar deteriorated. Door, hinges, catches or pillar missing or loose. || X || X || 
+ 6.2.4. Floor || Floor insecure or badly deteriorated Insufficient stability || || X || X 
+ 6.2.5. Driver's seat || (a) Seat with defective structure. A loose seat or || || X || X 
+ (b) Adjustment mechanism not functioning correctly. Seat moving or backrest not fixable || || X || X 
+ 6.2.6. Other seats || (a) Seats in defective condition or insecure.(secondary parts) Seats in defective condition or insecure (main parts). || X || X || 
+ (b) Seats fitted not in accordance with requirements(1).. Permitted number of seats exceeded; positioning not in compliance with approval || X || X || 
+ 6.2.7. Driving controls || Any control necessary for the safe operation of the vehicle not functioning correctly. Safe operation affected || || X || X 
+ 6.2.8. Cab steps || (a) Step or step ring insecure. Insufficient stability || X || X || 
+ (b) Step or ring in a condition likely to cause injury to users. || || X || 
+ 6.2.9. Other interior and exterior fittings and equipment || (a) Attachment of other fitting or equipment defective. || || X || 
+ (b) Other fitting or equipment not in accordance with the requirements(1).. Parts fitted likely to cause injuries; safe operation affected || X || X || 
+ (c) Leaking hydraulic equipment Extensive loss of hazardous material || X || X || 
+ 6.2.10. Mudguards (wings), spray suppression devices || (a) Missing, loose or badly corroded. Likely to cause injuries; likely to fall off || X || X || 
+ (b) Insufficient clearance to road wheel (spray suppression). Insufficient clearance to road wheel.(mudguards) || X || X || 
+ (c) Not in accordance with the requirements(1).. Insufficient coverage of tyre-band || X || X || 
+ 7. OTHER EQUIPMENT 
+ 7.1. Safety-belts/buckles and restraint systems 
+ 7.1.1. Security of safety-belts/buckles mounting || (a) Anchorage point badly deteriorated. Stability affected || || X || X 
+ (b) Anchorage loose || || || X 
+ 7.1.2. Condition of safety-belts/buckles. || (a) Mandatory safety-belt missing or not fitted. || || X || 
+ (b) Safety-belt damaged. Any cut or sign of overstretching || X || X || 
+ (c) Safety-belt not in accordance with the requirements(1). || || X || 
+ (d) Safety-belt buckle damaged or not functioning correctly. || || X || 
+ (e) Safety-belt retractor damaged or not functioning correctly. || || X || 
+ 7.1.3. Safety belt Load limiter || Load limiter obviously missing or not suitable with the vehicle || || X || 
+ 7.1.4. Safety belt Pre-tensioners || Pre-tensioner obviously missing or not suitable with the vehicle || || X || 
+ 7.1.5. Airbag || (a) Airbags obviously missing or not suitable with the vehicle. || || X || 
+ (b) Airbag obviously non operative || || X || 
+ 7.1.6. SRS Systems || SRS MIL indicates any kind of failure of the system || || X || 
+ 7.2. Fire extinguisher (X)(2) || (a) Missing. || || X || 
+ (b) Not in accordance with the requirements(1). If required (e.g. Taxi, busses, coaches, etc) || X || X || 
+ 7.3. Locks and anti-theft device || (a) Device not functioning to prevent vehicle being driven.
+If required (e.g. Taxi, busses, coaches, etc) || X || X || 
+ 7.3. Locks and anti-theft device || (a) Device not functioning to prevent vehicle being driven.
+
+|| X || || 
+ (b) Defective inadvertently locking or blocking || || X || X 
+ 7.4. Warning triangle (if required) (X)(2) || (a) Missing or incomplete. || X || || 
+ (b) Not in accordance with the requirements(1).. || X || || 
+ 7.5. First aid kit. (if required) (X)(2) || Missing, incomplete or not in accordance with the requirements(1).. || X || || 
+ 7.6. Wheel chocks (wedges) (if required) (X)(2) || Missing or not in good condition. Insufficient stability or dimension || X || X || 
+ 7.7. Audible warning device || (a) Not properly working. Not working at all || X || X || 
+ (b) Control insecure. || X || || 
+ (c) Not in accordance with the requirements(1).. Emitted sound likely to be mixed with official sirens || X || X || 
+ 7.8. Speedometer || (a) Not fitted in accordance with the requirements(1).. Missing if required || X || X || 
+ (b) operation impaired. Not operational at all || X || X || 
+ (c) Not capable of being sufficient illuminated. Not being illuminated at all || X || X || 
+ 7.9. Tachograph (if fitted/required) || (a) Not fitted in accordance with the requirements(1).. || || X || 
+ (b) Not operational. || || X || 
+ (c) Defective or missing seals. || || X || 
+ (d) Calibration plaque missing, illegible or out of date. || || X || 
+ (e) Obvious tampering or manipulation. || || X || 
+ (f) Size of tyres not compatible with calibration parameters || || X || 
+ 7.10. Speed limitation device (if fitted/required) || (a) Not fitted in accordance with the requirements(1). || || X || 
+ (b) Obviously not operational. || || X || 
+ (c) Incorrect set speed (if checked) || || X || 
+ (d) Defective or missing seals. || || X || 
+ (e) Calibration plaque missing, illegible or out of date. || || X || 
+ (f) size of tyres not compatible with calibration parameters || || X || 
+ 7.11 Odometer if available || (a) obviously manipulated (fraud) || || X || 
+ (b) obviously inoperative || || X || 
+ 7.12 Electronic Stability Control (ESC) if fitted/required || (a) Wheel speed sensors missing or damaged || || X || 
+ (b) Wirings damaged || || X || 
+ (c) Other components missing or damaged || || X || 
+ (d) Switch damaged or not functioning correctly || || X || 
+ (e) ESC MIL indicates any kind of failure of the system || || X || 
+ 8. NUISANCE 
+ 8.1. Noise 
+ 8.1.1 Noise suppression system || (a) Noise levels in excess of those permitted in the requirements(1). || || X || 
+ (b) Any part of the noise suppression system loose, damaged, incorrectly fitted, missing or obviously modified in a way that would adversely affect the noise levels. likely to fall off || || X || X 
+ 8.2. Exhaust emissions 
+ 8.2.1 Petrol engine emissions 
+ 8.2.1.1 Exhaust emissions control equipment || (a) Emission control equipment fitted by the manufacturer absent, modified or obviously defective. || || X || 
+ (b) Leaks which would affect emission measurements || || X || 
+ 8.2.1.2 Gaseous emissions || (a) Either, gaseous emissions exceed the specific levels given by the manufacturer; || || X || 
+ (b) Or, if this information is not available, the CO emissions exceed, i) for vehicles not controlled by an advanced emission control system, - 4.5%, or - 3.5% according to the date of first registration or use specified in requirements(1). ii) for vehicles controlled by an advanced emission control system, - at engine idle: 0.5% - at high idle: 0.3% or - at engine idle: 0.3%[13] - at high idle: 0.2% according to the date of first registration or use specified in requirements(1). || || X || 
+ (c) Lambda outside the range 1± 0.03 or not in accordance with the manufacturer's specification || || X || 
+ (d) OBD readout indicating significant malfunction || || X || 
+ 8.2.2 Diesel engine emissions 
+ 8.2.2.1 Exhaust emission control equipment || (a) Emission control equipment fitted by the manufacturer absent or obviously defective || || X || 
+ (b) Leaks which would affect emission measurements || || X || 
+ 8.2.2.2 Opacity Vehicles registered or put into service before 1 January 1980 are exempted from this requirement || (a) For vehicles registered or put into service for the first time after the date specified in requirements(1)., opacity exceeds the level recorded on the manufacturer's plate on the vehicle; || || X || 
+ (b) Where this information is not available or requirements(1). do not allow the use of reference values, for naturally aspirated engines: 2.5 m-1 , for turbo-charged engines: 3.0 m-1, or, for vehicles identified in requirements(1). or first registered or put into service for the first time after the date specified in requirements(1)., 1.5 m-1.[14] || || X || 
+ 8.3 Electromagnetic interference suppression 
+ Radio-interference (X)(2) || Any requirements of the requirements(1) not met. || X || || 
+ 8.4 Other items related to the environment 
+ 8.4.1 Fluid leaks || Any excessive fluid leak likely to harm the environment or to pose a safety risk to other road users Steady formation of drops || || X || X 
+ 9. SUPPLEMENTARY TESTS FOR PASSENGER CARRYING VEHICLES M2, M3 
+ 9.1. Doors 
+ 9.1.1 Entrance and exit doors || (a) Defective operation || || X || 
+ (b) Deteriorated condition Likely to cause injuries || X || X || 
+ (c) Defective emergency control || || X || 
+ (d) Remote control of doors or warning devices defective || || X || 
+ (e) Not in accordance with the requirements(1). Insufficient door width || X || X || 
+ 9.1.2 Emergency exits || (a) defective operation || || X || 
+ (b) Emergency exits signs illegible Emergency exits signs missing || X || X || 
+ (c) Missing hammer to break glass || || X || 
+ (d) Not in accordance with requirements(1). Insufficient width or access blocked || X || X || 
+ 9.2. Demisting and defrosting system (X)(2) || (a) Not operating correctly Affecting safe operation of vehicle || X || X || 
+ (b) Emission of toxic or exhaust gases into driver's or passenger compartment Danger to health of persons on board || || X || X 
+ (c) Defective defrosting (if compulsory) || || X || 
+ 9.3. Ventilation & heating system (X)(2) || (a) Defective operation Risk to health of persons on board || X || X || 
+ (b) Emission of toxic or exhaust gases into driver's or passenger compartment Danger to health of persons on board || || X || X 
+ 9.4. Seats 
+ 9.4.1 Passenger seats (including seats for accompanying personnel) || a) Seats in defective condition Seats insecure || X || X || 
+ b) Folding seats (if allowed) not working automatically blocking an emergency exit || X || X || 
+ c) Not in accordance with the requirements(1). Number of seats exceeding approved amount || X || X || 
+ 9.4.2 .Driver's seat (additional requirements) || a) Defective special devices such as anti-glare shield or anti-dazzle screen field of vision impaired || X || X || 
+ b) Protection for driver insecure or not in accordance with requirements(1). Likely to cause injuries || X || X || 
+ 9.5. Interior lighting and destination devices (X)(2) || Device defective or not in accordance with requirements(1). Not operational at all || X || X || 
+ 9.6. Gangways, standing areas || (a) Insecure floor. Stability affected || || X || X 
+ (b) Defective rails or grab handles. Insecure or un-useable || X || X || 
+ (c) Not in accordance with the requirements(1). Insufficient width or space || X || X || 
+ 9.7. Stairs and steps || (a) Deteriorated condition damaged condition stability affected || X || X || X 
+ (b) Retractable steps not operating correctly || || X || 
+ (c) Not in accordance with requirements(1). Insufficient width or exceeding height || X || X || 
+ 9.8. Passenger communication system (X)(2) || Defective system Not operational at all || X || X || 
+ 9.9. Notices (X)(2) || (a) missing, erroneous or illegible notice || X || || 
+ (b) not in accordance with requirements(1). False information || X || X || 
+ 9.10. Requirements regarding the transport of children.
+Requirements regarding the transport of children. (X)(2) 
+ 9.10.1 Doors || Protection of doors not in accordance with the requirements(1). regarding this form of transport || || X || 
+ 9.10.2 Signalling and special equipment || Signalling or special equipment absent or not in accordance with requirements(1). || X || X || 
+ 9.11. Requirements regarding the transport of disabled persons (X)(2) 
+ 9.11.1 Doors, ramps and lifts || (a) Defective operation. Safe operation affected || X || X || 
+ (b) Deteriorated condition. Stability affected; likely to cause injuries || X || X || 
+ (c) Defective control(s). Safe operation affected || X || X || 
+ (d) Defective warning device(s). Not operating at all || X || X || 
+ (e) Not in accordance with the requirements(1). || || X || 
+ 9.11.2 Wheelchair fixings || (a) Defective operation. Safe operation affected || X || X || 
+ (b) Deteriorated condition. Stability affected; likely to cause injuries || X || X || 
+ (c) Defective control(s). Safe operation affected || X || X || 
+ (d) Not in accordance with the requirements(1). || || X || 
+ 9.11.3 Signalling and special equipment || Signalling or special equipment absent or not in accordance with requirements(1). || || X || 
+ 9.12. Other special equipment (X)(2) 
+ 9.12.1. Installations for food preparation || (a) installation not in accordance with the requirements(1). || || X || 
+ (b) installation damaged to such an extent that it would be dangerous to use it. || || X || 
+ 9. 12.2.Sanitary installation || Installation not in accordance with the requirements(1). likely to cause injuries || X || X || 
+ 9.12.3.Other devices (e.g. audio-visual systems) || Not in accordance with the requirements(1). Safe operation of vehicle affected || X || X || 
+NOTES : (1) 'requirements' are laid down by
+type-approval requirements at the date of approval, first registration or first
+entry into service as well as retrofitting obligations or national legislation
+in the country of registration. (X) Identifies items which are related to
+the condition of the vehicle and its suitability for use on the road but which
+are not considered essential in a roadworthiness test. ANNEX IV
+MINIMUM
+CONTENTS OF A ROADWORTHINESS CERTIFICATE
+The roadworthiness certificate issued
+following a roadworthiness test shall cover at least the following elements: 1) Vehicle Identification
+Number (VIN number)
+2) Registration plate number
+of the vehicle and country symbol of the State of registration
+3) Place and date of the test
+4) Odometer reading at the
+time of the test, if available
+5) Vehicle category if
+available
+6) Identified deficiencies
+and their category
+7) Measurement results: - 
+Boil temperature or water-content of braking
+fluid
+- 
+Brake forces per wheel, input air pressure in
+case of air brake systems and calculation results for brake efficiency
+- 
+Concentrations of gaseous emissions and
+calculated λ value of petrol engines or opacity values of diesel engines
+8) Overall assessment of the
+vehicle
+9) Date of next
+roadworthiness test, if this information is not provided by other means
+10) Name of testing
+organisation or centre and signature or identification of the inspector
+responsible for the test. ANNEX V
+MINIMUM REQUIREMENTS CONCERNING roadworthiness
+Facilities and test equipment 
+I - Facilities and equipment
+Roadworthiness tests shall be carried out
+using facilities and equipment complying at least with the following minimum
+requirements: 1) A test facility with
+adequate space for the evaluation of vehicles and which meets the necessary
+health and safety requirements applicable for the testing personnel; 2) A test lane of sufficient
+size for each test, a pit or lift which is equipped with a device to lift a
+vehicle on an axle, equipped with appropriate lighting and, where necessary,
+with aeration devices; 3) A roller brake tester
+capable of measuring, displaying and recording the braking forces, pedal force and
+the air-pressure in air brake systems according to Annex A of standard ISO
+21069-1 on the technical requirements of roller brake tester; 4) A roller brake tester
+according to item 3, not including the recording braking forces, pedal force
+and the air-pressure in air brake systems and their display; 5) A plate brake tester
+equivalent to the roller brake tester according to item 3 not including the
+recording capability of the braking forces, pedal force and the display of
+air-pressure at air brake systems; 6) A deceleration recording
+instrument, while non-continuous measurement instruments must record/store
+measurements at least 10 times per second; 7) Facilities for the testing
+of air brake systems; 8) A device to determine the
+axle loads (optional facilities for measuring of two wheel loads); 9) A device for testing the
+wheel-axle suspension (wheel play detector) without lifting the axis, which
+shall meet the following requirements: (a) The device must be equipped with at
+least two power-operated plates that can be moved in opposite sense both in the
+longitudinal and transversal directions; (b) The movement of the plates must be
+controllable by the operator from the testing position; (c) The plates shall comply with the
+following technical requirements: (i) for vehicles up to 3.5 tons: - 
+Minimum axle load of 2000 kg,
+- 
+Minimum plate load of 1000 kg,
+- 
+Minimum horizontal force per plate of 7000 N,
+- 
+Longitudinal and transversal movement of at
+least 40 mm,
+- 
+Lifting speed 5 cm / s to 10 cm / s; (ii) for vehicles over 3.5 tons: - 
+Minimum axle load of 15 000 kg,
+- 
+Minimum plate load of 9 000 kg,
+- 
+Minimum horizontal force per plate of 30 000 N,
+- 
+Longitudinal and transversal movement of at
+least 100 mm,
+- 
+Lifting speed 5 cm / s to 10 cm / s; 10) A device for testing the
+efficiency of shock absorber; 11) A sound level meter grade 1;
+12) A 4-gas analyser according
+to Directive 2004/22/EC on measuring instruments[15]; 13) A device for measurement of
+the absorption coefficient with sufficient accuracy; 14) One headlamp aiming device,
+that allows the test of the setting of the headlight according to the
+provisions for the setting of headlights of motor vehicles (Directive
+76/756/EEC), the light / dark boundary must be easily recognizable in daylight
+(without direct sunlight); 15) A device for measuring the
+tread depth of tyres; 16) A device for checking the
+brake fluid, in accordance with the following criteria: (a) brake fluid testing device for testing
+the water content are permitted when the following requirements are met: - 
+at least a water content of 1.0% to 2.5% can be
+displayed,
+- 
+the measured value must be displayed in not more
+than 0.5% steps,
+- 
+the device must be calibrated, analogue display
+devices only with a zero adjustment allowed; (b) Brake fluid testing devices to measure
+the boiling point are permitted when the following requirements are met: - 
+display area of at least 120 ° C to 210 ° C,
+- 
+the measured value must be displayed in not more
+than 30 °steps,
+- 
+the device must be calibrated, analogue display
+devices only with azero adjustment allowed. 17) An OBD scan tool. Devices 12 and 13 can be combined into one
+device. II - Calibration of equipment used for
+measurements
+Unless specified otherwise by the relevant
+European legislation, the interval between two successive calibrations may not
+exceed 
+(i) 24 months for the measurement of weight,
+pressure and sound level 
+(ii) 12 months for the measurement of forces,
+(iii) 6 months for the measurement of gaseous
+emissions.
+
+| L1e | P | x |  |  | X | x |  | x | x | x |
+| L3e,L4e | P | x |  |  | X | x |  | x | x | x |
+| L3e,L4e | D | x |  |  | X |  | x | x | x | x |
+| L2e | P | x | x |  | X |  |  | x | x | x |
+|---|---|---|---|---|---|---|---|---|---|---|
+| L2e | D | x | x |  | X |  | x | x | x | x |
+| L5e | P | x | x | x | X | x |  | x | x | x |
+| L5e | D | x | x |  | X |  | x | x | x | x |
+| L6e | P | x | x |  | X |  |  | x | x | x |
+| L6e | D | x | x |  | X |  | x | x | x | x |
+| L7e | P | x | x | x | X | x |  | x | x | x |
+| L1e | P | x |  |  | X | x |  | x | x | x |
+| L3e,L4e | P | x |  |  | X | x |  | x | x | x |
+| L3e,L4e | D | x |  |  | X |  | x | x | x | x |
+| L2e | P | x | x |  | X |  |  | x | x | x |
+|---|---|---|---|---|---|---|---|---|---|---|
+| L7e | P | x | x | x | X | x |  | x | x | x |
+| L7e | D | x | x |  | X |  | x | x | x | x |
+
+| Up to 2800 kg | M1,M2 | D | x | x |  | x | x |  |  |  |  |  | X |  | x | x | x | x |
+| › 2800 to 3500 kg | M1,M2 | P | x | x |  | x | x |  |  |  | x | x | X | x |  | x | x | x |
+| › 2800 to 3500 kg | M1,M2 | D | x | x |  | x | x |  |  |  | x |  | X |  | x | x | x | x |
+| › 3500 kg | M2,M3 | P | x | x | x |  |  | x | x | x | x |  | X | x |  | x | x | x |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| › 3500 kg | M2,M3 | D | x | x | x |  |  | x | x | x | x |  | X |  | x | x | x | x |
+
+| Up to 2800 kg | N1 | D | x | x |  | x | x |  |  |  |  |  | X |  | x | x | x | x |
+| › 2800 to 3500 kg | N1 | P | x | x |  | x | x |  |  |  | x | x | X | x |  | x | x | x |
+| › 2800 to3500 kg | N1 | D | x | x |  | x | x |  |  |  | x |  | X |  | x | x | x | x |
+| › 3500 kg | N2,N3 | P | x | x | x |  |  | x | x | x | x |  | X | x |  | x | x | x |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| › 3500 kg | N2,N3 | D | x | x | x |  |  | x | x | x | x |  | X |  | x | x | x | x |
+
+| upto2800 kg | N1 | D | x | x |  | x | x |  |  |  |  |  | X |  | x | x | x | x |
+| › 2800 to 3500 kg | N1 | P | x | x |  | x | x |  |  |  | x | x | X | x |  | x | x | x |
+| › 2800 to 3500 kg | N1 | D | x | x |  | x | x |  |  |  | x |  | X |  | x | x | x | x |
+| › 3500 kg | N2,N3,T5 | P | x | x | x |  |  | x | x | x | x |  | X | x |  | x | x | x |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| › 3500 kg | N2,N3,T5 | D | x | x | x |  |  | x | x | x | x |  | X |  | x3 | x | x | x |
+
+1) P…petrol ; D…Diesel
+ANNEX
+VI
+MINIMUM
+REQUIREMENTS CONCERNING THE COMPETENCE, TRAINING AND CERTIFICATION OF
+INSPECTORS
+1. Competence
+Before authorising an applicant for a
+position as inspector to carry out roadworthiness tests, Member States shall
+verify that that person : (a) has a qualification certifying
+the knowledge and understanding related to vehicle engineering in the following
+areas: - 
+Mechanics. - 
+Dynamics. - 
+Vehicle dynamics. - 
+Combustion engines. - 
+Material and material processing. - 
+Electronics. - 
+Electrics. - 
+Electronic vehicle components. - 
+IT applications. (b) has at least three years of
+documented experience in the area of vehicle engineering, repair or
+maintenance,
+2. Initial and refresher
+training
+Member States shall ensure that inspectors
+receive the appropriate initial and refresher training, including theoretical
+and practical elements, before being authorised to carry out roadworthiness
+tests. The minimum contents of the initial and
+refresher training shall include the following topics: (a) Initial training
+The initial training provided by the Member
+State or by an authorised training centre of the Member State shall include at
+least the following topics: (i) Vehicle technology: - 
+Braking systems,
+- 
+Steering systems,
+- 
+Fields of vision,
+- 
+Light installation, lighting equipment and
+electronic components,
+- 
+Axles, wheels and tyres,
+- 
+Chassis and bodywork,
+- 
+Nuisance and emissions,
+- 
+Additional requirements for special vehicles,
+(ii) Testing methods; (iii) Assessment of deficiencies; (iv) Legal requirements applicable at
+national, European and international level on the vehicle condition for
+approval; (v) Legal requirements at national,
+European and international level related to roadworthiness testing; (vi) Administrative provisions related to
+vehicle approval, registration and roadworthiness testing; (vii) IT applications related to testing
+and administration. (b) Refresher training 
+Member States shall ensure that inspectors
+follow every year a refresher training provided by the Member State or by an
+authorised training centre of the Member State. Member States shall ensure that the
+contents of the refresher training enables to maintain and refresh the
+necessary knowledge and skills of inspectors on the topics referred to in point
+(a), (i) to (vii) above. 3. Certificate of competence
+The certificate issued to an inspector
+authorised to carry out roadworthiness tests shall include at least the
+following information, updated when appropriate: - 
+Identification of the inspector (first name,
+surname, date of birth); - 
+Vehicle categories for which the inspector is
+authorised to carry out roadworthiness tests; - 
+Date of next refresher training; - 
+Name of issuing authority; - 
+Date of issue; ANNEX
+VII
+SUPERVISING
+BODIES
+Rules and procedures concerning supervising bodies established by Member States in accordance with
+Article 13 shall cover the following minimum requirements: 1. Tasks and activities of
+the supervising body 
+Supervising bodies shall perform at least
+the following tasks: (a) Authorisation of testing centres: - 
+verifying if the minimum requirements for
+premises and test equipment are met; - 
+verifying the mandatory requirements of the
+authorised entity; - 
+checking of good repute of the testing centre
+manager and inspectors. (b) Training and examination of
+inspectors: - 
+verifying the initial training of inspectors; - 
+verifying the periodic refresher training of
+inspectors; - 
+training of the testing centre managers; - 
+periodic refresher training of supervising body
+examiners; - 
+conducting or supervising examination. (c) Auditing: - 
+pre-audit of testing centre prior to
+authorisation; - 
+periodic re-audit of testing centre; - 
+special audit in case of irregularities; - 
+audit of training/examination centre. (d) Monitoring, using at least five
+of the following measures: - 
+re-testing of a statistically valid proportion
+of tested vehicles; - 
+roadside inspections of a statistically valid
+proportion of vehicle park; - 
+mystery shopper checks (use of defective vehicle
+optional); - 
+analysis of results of roadworthiness tests
+(statistical methods); - 
+appeal tests; - 
+investigation of complaints. (e) Validation of measurement results
+of roadworthiness tests
+(f) Withdrawal or suspension of
+authorisation of testing centres and/or of inspectors licence: - 
+lacking in significant authorisation
+requirement; - 
+detected major irregularities; - 
+continued negative audit results; - 
+loss of good repute. 2. Requirements concerning the supervising body 
+(a) Compliance with the ISO/IEC 17020
+standard 'General Criteria for the operation of various types of bodies
+performing inspection', type A. (b) Requirements applicable to the
+personnel employed by a supervising body shall cover the following areas: - 
+technical competence; - 
+impartiality; - 
+standards for qualification and training. 3. Contents of the rules
+and procedures
+Each competent authority shall establish
+the rules and procedures concerning supervising bodies which shall include at
+least the following items : 
+(a) Requirements concerning the
+authorisation and supervision of testing centres: - 
+application to become a testing centre; - 
+responsibilities of the testing centre; - 
+pre-authorisation visit, or visits, to verify
+that all requirements are complied with; - 
+authorisation of a testing centre; - 
+periodic re-testings/audits of testing centres; - 
+periodic checks of testing centres for continued
+compliance; - 
+evidence based unannounced special checks or
+audits of testing centres; - 
+analysis of test data for evidence of non-compliance; - 
+withdrawal or suspension of authorisations
+granted to testing centres. (b) Inspectors of testing centres: - 
+requirements to become an inspector; - 
+initial training and refresher training and
+examination; - 
+withdrawal or suspension of inspectors certification. (c) Equipment and premises: - 
+requirements for test equipment; - 
+requirements for testing premises; - 
+requirements for signage; - 
+requirements for maintenance and calibration of
+testing equipment;
+- 
+requirements for maintenance and calibration of
+testing equipment;
+
+- 
+requirements for computerised systems. (d) Supervising bodies: - 
+powers of the supervising bodies; - 
+requirements for staff of supervising bodies; - 
+appeals and complaints. [1] Inappropriate repair or
+modification means a repair or modification that adversely affects the road
+safety of the vehicle or has a negative effect on the environment. [2] 48% for vehicles not fitted with ABS or type
+approved before 1 October 1991 
+[3] 45% for vehicles registered
+after 1988 or from the date specified in requirements whichever is the later
+[4] 43% for semi-trailers and
+draw-bar trailers registered after 1988 or from the date in requirements
+whichever is the later. [5] 2.2m/s2 for N1, N2
+and N3 vehicles. [6] Type-approved according to limits in row A or B section
+5.3.1.4. of Annex I to Directive 70/220/EEC or first registered or put into
+service after 1 July 2002
+[7] Type approved according to
+limits in row B section 5.3.1.4. of Annex I to Directive 70/220/EEC ; row B1,
+B2 or C section 6.2.1 of Annex I to Directive 88/77/EEC or first registered or
+put into service after 1 July 2008
+[8] Inappropriate
+repair or modification means a repair or modification that adversely affects
+the road safety of the vehicle or has a negative effect on the environment. [9] 48% for
+vehicles not fitted with ABS or type approved before 1 October 1991 
+[10] 45% for
+vehicles registered after 1988 or from the date specified in requirements
+whichever is the later 
+[11] 43% for
+semi-trailers and draw-bar trailers registered after 1988 or from the date in
+requirements whichever is the later. [12] 2.2m/s2
+for N1, N2 and N3 vehicles. [13] Type-approved according to limits in row A or B section
+5.3.1.4. of Annex I to Directive 70/220/EEC or first registered or put into
+service after 1 July 2002
+[14] Type approved according to
+limits in row B section 5.3.1.4. of Annex I to Directive 70/220/EEC as amended
+by Directive 98/69/EC or later; row B1, B2 or C section 6.2.1 of Annex I to
+Directive 88/77/EEC or first registered or put into service after 1 July 2008
+[15] JO L 135,30.4.2004, p.1.

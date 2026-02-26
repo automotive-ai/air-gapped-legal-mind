@@ -1,0 +1,59 @@
+recital 7
+(7) Directive 72/245/EEC should therefore be amended accordingly.
+recital 9
+(9) The measures provided for in this Directive are in accordance with the opinion of the Committee for Adaptation to Technical Progress established by Article 13 of Directive 70/156/EEC,
+HAS ADOPTED THIS DIRECTIVE:
+recital 8
+(8) The amendments to Directive 72/245/EEC have an impact on Directive 70/156/EEC.
+
+It is therefore necessary to amend Directive 70/156/EEC accordingly.
+recital 1
+(1) Directive 72/245/EEC is one of the separate directives under the type-approval procedure established by Directive 70/156/EEC.
+citation
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (1), and in particular Article 13(2) thereof,
+Having regard to Council Directive 72/245/EEC of 20 June 1972 relating to the radio interference (electromagnetic compatibility) of vehicles (2), and in particular Article 4 thereof,
+Whereas:
+Introduction
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (1), and in particular Article 13(2) thereof,
+Having regard to Council Directive 72/245/EEC of 20 June 1972 relating to the radio interference (electromagnetic compatibility) of vehicles (2), and in particular Article 4 thereof,
+Whereas:
+
+(1) Directive 72/245/EEC is one of the separate directives under the type-approval procedure established by Directive 70/156/EEC. (2) In order to improve safety of vehicles by encouraging development and deployment of technologies utilising automotive short-range radar equipment, the Commission has harmonised the use of two radio spectrum frequency bands by Commission Decision 2004/545/EC of 8 July 2004 on the harmonisation of radio spectrum in the 79 GHz range for the use of automotive short-range radar equipment in the Community (3) and by Commission Decision 2005/50/EC of 17 January 2005 on the harmonisation of the 24 GHz range radio spectrum band for the time-limited use by automotive short-range radar equipment in the Community (4). (3) In accordance with Decision 2005/50/EC, the use of 24 GHz automotive short-range radar equipment is time-limited and Member States have to set up a monitoring system aiming to quantify the number of vehicles equipped with 24 GHz short-range radar equipment registered in their territory. (4) Directive 72/245/EEC, as amended by Commission Directive 2005/49/EC (5), provided Member States with the appropriate means to carry out this monitoring. Directive 70/156/EEC was amended accordingly by that Directive. (5) Since then it has become obvious that the way to provide these data can be simplified for 24 GHz short-range radar equipment and that it is unnecessary for monitoring purposes to require information about the use of 79 GHz short-radar equipment in the Certificate of Conformity (CoC) in addition to the information about the 24 GHz short range radar equipment, since the 79 GHz band does not interfere with other applications and its use is not restricted. It is therefore appropriate to modify requirements related to the use of 24 GHz short-range radar equipment and delete requirements related to the use of 79 GHz short-range radar equipment in Directive 72/245/EEC. This Directive does not affect the validity of existing approvals for vehicles not fitted with 24 GHz short range radars. (6) Only Technical Services issue attestations according to the model given in Annex III C of Directive 72/245/EEC. No further authority or administration is involved in this process. Therefore, the additional stamping of the attestation presently required is dispensable and shall be removed. (7) Directive 72/245/EEC should therefore be amended accordingly. (8) The amendments to Directive 72/245/EEC have an impact on Directive 70/156/EEC. It is therefore necessary to amend Directive 70/156/EEC accordingly. (9) The measures provided for in this Directive are in accordance with the opinion of the Committee for Adaptation to Technical Progress established by Article 13 of Directive 70/156/EEC,
+HAS ADOPTED THIS DIRECTIVE:
+Article 5 - Addressees
+This Directive is addressed to the Member States.
+Article 4 - Entry into force
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+Article 3 - Transposition
+1. Member States shall adopt and publish, by 30 June 2006 at the latest, the laws, regulations and administrative provisions necessary to comply with this Directive.
+
+They shall forthwith communicate to the Commission the text of those provisions and a correlation table between those provisions and this Directive. They shall apply those provisions from 1 July 2006. When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such reference on the occasion of their official publication. Member States shall determine how such reference is to be made. 2. Member States shall communicate to the Commission the texts of the main provisions of national law, which they adopt in the field governed by this Directive.
+Article 1 - Amendment to Directive 72/245/EEC
+Directive 72/245/EEC is amended as follows:
+
+1. In Annex I, point 2.1.14 is deleted. 2. Annex II A is amended as follows: (a) Point 12.7.1 is replaced by the following: '12.7.1. vehicle equipped with 24 GHz short-range radar equipment: Yes/No/Optional (strike out which is not applicable)'; (b) Point 12.7.2 is deleted. 3. The appendix to Annex III A is amended as follows: (a) Point 1.3.1 is replaced by the following: '1.3.1. vehicle equipped with 24 GHz short-range radar equipment: Yes/No/Optional (strike out which is not applicable)'; (b) Point 1.3.2 is deleted. 4. In Annex III C, the words 'Stamp of administration' including the surrounding box are deleted.
+recital 6
+(6) Only Technical Services issue attestations according to the model given in Annex III C of Directive 72/245/EEC.
+
+No further authority or administration is involved in this process. Therefore, the additional stamping of the attestation presently required is dispensable and shall be removed.
+recital 5
+(5) Since then it has become obvious that the way to provide these data can be simplified for 24 GHz short-range radar equipment and that it is unnecessary for monitoring purposes to require information about the use of 79 GHz short-radar equipment in the Certificate of Conformity (CoC) in addition to the information about the 24 GHz short range radar equipment, since the 79 GHz band does not interfere with other applications and its use is not restricted.
+
+It is therefore appropriate to modify requirements related to the use of 24 GHz short-range radar equipment and delete requirements related to the use of 79 GHz short-range radar equipment in Directive 72/245/EEC. This Directive does not affect the validity of existing approvals for vehicles not fitted with 24 GHz short range radars.
+recital 4
+(4) Directive 72/245/EEC, as amended by Commission Directive 2005/49/EC (5), provided Member States with the appropriate means to carry out this monitoring.
+
+Directive 70/156/EEC was amended accordingly by that Directive.
+recital 3
+(3) In accordance with Decision 2005/50/EC, the use of 24 GHz automotive short-range radar equipment is time-limited and Member States have to set up a monitoring system aiming to quantify the number of vehicles equipped with 24 GHz short-range radar equipment registered in their territory.
+recital 2
+(2) In order to improve safety of vehicles by encouraging development and deployment of technologies utilising automotive short-range radar equipment, the Commission has harmonised the use of two radio spectrum frequency bands by Commission Decision 2004/545/EC of 8 July 2004 on the harmonisation of radio spectrum in the 79 GHz range for the use of automotive short-range radar equipment in the Community (3) and by Commission Decision 2005/50/EC of 17 January 2005 on the harmonisation of the 24 GHz range radio spectrum band for the time-limited use by automotive short-range radar equipment in the Community (4).
+Article 2 - Amendment to Directive 70/156/EEC
+Directive 70/156/EEC is amended as follows:
+
+1. Annex I is amended as follows: (a) Point 12.7.1 is replaced by the following: '12.7.1. vehicle equipped with 24 GHz short-range radar equipment: Yes/No/Optional (strike out which is not applicable)'; (b) Point 12.7.2 is deleted. 2. Annex III, Part I, Section A is amended as follows: (a) Point 12.7.1 is replaced by the following: '12.7.1. vehicle equipped with 24 GHz short-range radar equipment: Yes/No/Optional (strike out which is not applicable)'; (b) Point 12.7.2 is deleted. 3. Annex IX, on side two of all models of the Certificate of Conformity (COC), is amended as follows: (a) Point 50 is replaced by the following and a footnote is added as follows: '50. Remarks (6): (6) If the vehicle is equipped with 24 GHz short-range radar equipment according to Decision 2005/50/EC, the manufacturer must indicate here: "Vehicle equipped with 24 GHz short-range radar equipment".' "
+(b) Points 50.1, 50.2 and 50.3 are deleted.

@@ -1,0 +1,686 @@
+Article 3
+Regulation No 93 of the United Nations Economic Commission for Europe shall be published in the Official Journal of the European Communities before 10 February 2001.
+Directive 2000/40/EC of the European Parliament and of the Council of 26 June 2000 on the approximation of the laws of the Member States relating to the front underrun protection of motor vehicles and amending Council Directive 70/156/EEC
+Directive 2000/40/EC of the European Parliament and of the Councilof 26 June 2000on the approximation of the laws of the Member States relating to the front underrun protection of motor vehicles and amending Council Directive 70/156/EECTHE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,Having regard to the proposal from the Commission(1),Having regard to the opinion of the Economic and Social Committee(2),Acting in accordance with the procedure laid down in Article 251 of the Treaty(3),Whereas:(1) By Decision 97/836/EC(4), the Council, with the assent of the European Parliament, authorised the Community to accede to the Agreement of the United Nations Economic Commission for Europe (ECE) concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions, done at Geneva on 20 March 1958, as revised on 16 October 1995.(2) Through its accession to the said Agreement, the Community subscribed to a defined list of Regulations established pursuant to that Agreement.
+
+This list includes UN/ECE Regulation No 93(5).(3) In order to reduce the number of European road accident casualties, it is necessary to introduce without delay the measures established by UNE/ECE Regulation No 93 into the EC type-approval procedure set up by Council Directive 70/156/EEC(6), so as to improve the protection of the occupants of passenger cars and light vans from injury in the event of a collision with the front of heavy goods vehicles and to allow manufacturers of such devices and of vehicles equipped with such devices to obtain an EC type-approval if they meet the technical requirements of that Regulation.(4) In accordance with the principles of subsidiarity and proportionality as set out in Article 5 of the Treaty, the objectives of this Directive cannot be sufficiently achieved by the Member States on account of the scale and effect of the action proposed in the relevant sector, and can therefore be better achieved by the Community. This Directive does not go beyond what is necessary for the attainment of its objective, namely EC type-approval.(5) This Directive is one of the separate directives which must be complied with in order to conform to the EC type-approval procedure. Consequently, the provisions laid down in Directive 70/156/EEC relating to vehicles, vehicle systems, components and separate technical units apply to this Directive.(6) In view of the considerable number of road accidents involving commercial vehicles having a mass of more than 3,5 tonnes, and consequently in order to increase road safety, the provisions concerning such vehicles should be made mandatory by this Directive without awaiting any further supplements to EC type-approval for this category of vehicles.(7) Directive 70/156/EEC should be amended in consequence,HAVE ADOPTED THIS DIRECTIVE:Article 1For the purposes of this Directive:(a) "vehicle" means any motor vehicle as defined in Section A of Annex II to Directive 70/156/EEC;(b) "front underrun protective device" means a front underrun protective device which is intended to be part of a vehicle and which can be approved as a separate technical unit in accordance with Article 2 of Directive 70/156/EEC.Article 21. With effect from 10 August 2001 or, if the publication referred to in Article 3 is delayed beyond 10 February 2001, six months after the date of the said publication, Member States may not, on grounds relating to the front underrun protection of a vehicle:(a) refuse, in respect of a type of vehicle, or a type of a front underrun protective device considered as a separate technical unit, to grant EC type-approval or national type-approval; or(b) prohibit the registration, sale or entry into service of vehicles or front underrun protective devices considered as a separate technical unit;if the vehicles or separate technical units comply with the requirements of this Directive.2. With effect from 10 August 2003, Member States:(a) shall no longer grant EC type-approval or national type-approval for a type of vehicle or a type of front underrun protective device as a separate technical unit;(b) shall refuse the registration, sale or entry into service of new vehicles or new front underrun protective devices as separate technical units;on grounds relating to the front underrun protection if the requirements of this Directive are not complied with.3. The administrative provisions governing EC type-approval shall be as set out in Annex I.The scope of this Directive, and the technical requirements to be fulfilled for the award of EC type-approval, shall be as laid down in Annex II.Article 3Regulation No 93 of the United Nations Economic Commission for Europe shall be published in the Official Journal of the European Communities before 10 February 2001.Article 4Directive 70/156/EEC is amended as follows:1. Annex I shall be amended as follows:(a) Item 2.3.4 shall be replaced by the following:"2.3.4. Width of the foremost axle (measured at the outermost part of the tyres excluding the bulging of the tyres close to the ground): ...".(b) The following items shall be inserted:"9.22. Front underrun protection9.22.1. Drawing of the vehicle parts relevant to the front underrun protection, i.e. drawing of the vehicle and/or chassis with position and mounting of the widest front axle, drawing of the mounting and/or fitting of the front underrun protection. If the underrun protection is no special device, the drawing must clearly show that the required dimensions are met: ...9.22.2. In the case of special device, full description and/or drawing of the front underrun protection (including mountings and fittings), or, if approved as a separate technical unit, type-approval number: ...".2. Annex V shall be amended as follows:(a) In Part I, the following item shall be added:">TABLE>"(b) In Part II, the following item shall be added:">TABLE>"Article 51. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive before 10 August 2001. However, if the publication referred to in Article 3 is delayed beyond 10 February 2001, Member States shall fulfil this obligation within six months of the said publication. They shall forthwith inform the Commission thereof.Member States shall apply these measures as from 10 August 2001 or, if the publication referred to in Article 3 is delayed beyond 10 February 2001, six months after the said publication.When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by the Member States.2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field governed by this Directive.Article 6This Directive shall enter into force on the day of its publication in the Official Journal of the European Communities.Article 7This Directive is addressed to the Member States.Done at Luxembourg, 26 June 2000.For the European ParliamentThe PresidentN. FontaineFor the CouncilThe PresidentJ.
+DIRECTIVE 2000/40/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+of 26 June 2000
+Consolidated TEXT: 32000L0040 — EN — 01.11.2014
+Top
+2000L0040 — EN — 01.11.2014 — 004.001
+This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents
+►B
+DIRECTIVE 2000/40/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+of 26 June 2000
+on the approximation of the laws of the Member States relating to the front underrun protection of motor vehicles and amending Council Directive 70/156/EEC
+(OJ L 203, 10.8.2000, p.9)
+repealed by:
+
+Official Journal
+No
+page
+date
+Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009
+L 200
+1
+31.7.2009
+Article 7
+This Directive is addressed to the Member States.
+
+LIST OF ANNEXES
+ANNEX I: Administrative provisions for EC type-approval
+Appendix 1: Information document relating to the EC type-approval of a front underrun protective device as a separate technical unit
+Appendix 2: Information document relating to the EC type-approval of a vehicle type with regard to the installation of front underrun protective devices which have been type-approved as a separate technical unit
+Appendix 3: Information document relating to the EC type-approval of a vehicle type with regard to its front underrun protection
+Appendix 4: Model EC type-approval certificate (for a type of front underrun protective device as a separate technical unit)
+Appendix 5: Model EC type-approval certificate (for a vehicle type with regard to the installation of front underrun protective devices which have been type-approved as a separate technical unit)
+Appendix 6: EC type-approval certificate (for a vehicle type with regard to its front underrun protection)
+Appendix 7: Model for the EC type-approval mark
+ANNEX II: Scope and technical requirements
+ANNEX IADMINISTRATIVE PROVISIONS FOR EC TYPE-APPROVAL1. APPLICATION FOR TYPE-APPROVAL
+1.1. Application for EC type-approval of a front underrun protective device as a separate technical unit
+1.1.1. Application for EC type-approval pursuant to Article 3(4) of Directive 70/156/EEC in respect of a front underrun protective device considered to be a separate technical unit within the meaning of Article 2 of Directive 70/156/EEC shall be submitted by the manufacturer of the front underrun protective device. 1.1.2. A model for the information document is given in Appendix 1. 1.1.3. A representative sample of the type of device to be approved shall be submitted to the technical service responsible for conducting the type-approval tests. That service may, if it is considered necessary, request a further sample. The samples shall be clearly and indelibly marked with the applicant's trade name or mark and the type designation. 1.2. Application for EC type-approval of a vehicle type with regard to the installation of front underrun protective devices which have been type-approved as separate technical unit
+1.2.1. Application for EC type-approval pursuant to Article 3(1) of Directive 70/156/EEC shall be submitted by the vehicle manufacturer. 1.2.2. A model for the information document is given in Appendix 2. 1.2.3. A vehicle representative of the type to be approved as well as a front underrun protection for the installation, which has been approved as a separate technical unit, shall be submitted to the technical service responsible for conducting the approval tests. 1.3. Application for EC type-approval of a vehicle type with regard to its front underrun protection
+1.3.1. Application for EC type-approval pursuant to Article 3(1) of Directive 70/156/EEC shall be submitted by the vehicle manufacturer. 1.3.2. A model for the information document is given in Appendix 3. 1.3.3. A vehicle representative of the type to be approved shall be submitted to the technical service responsible for conducting the approval tests. 2. GRANTING OF EC TYPE-APPROVAL
+2.1. If the relevant requirements are satisfied, EC type-approval pursuant to Article 4(3) and, if applicable 4(4) of Directive 70/156/EEC shall be granted. 2.2. A model for the EC type-approval certificate is given: 2.2.1. for a front underrun protective device as a separate technical unit in Appendix 4;
+2.2.2. for a vehicle type with regard to the installation of a front underrun protective device which has been type-approved as separate technical unit in Appendix 5;
+2.2.3. for a vehicle type with regard to its front underrun protection in Appendix 6. 
+2.3. An approval number in accordance with Annex VII to Directive 70/156/EEC shall be assigned to each type of front underrun protective device or each type of vehicle approved. The same Member State shall not assign the same number to another type of front underrun protective device or to another type of vehicle. 3. EC TYPE-APPROVAL MARKING FOR SEPARATE TECHNICAL UNITS
+3.1. Every front underrun protective device conforming to the type approved under this Directive as a separate technical unit shall bear an EC type-approval mark. 3.2. This mark shall consist of a rectangle surrounding the letter 'e' followed by the distinguishing number of the Member State which has granted type-approval: 1
+for Germany
+2
+for France
+3
+for Italy
+4
+for the Netherlands
+5
+for Sweden
+6
+for Belgium
+▼A1
+7
+for Hungary
+8
+for the Czech Republic
+▼B
+9
+for Spain
+11
+for the United Kingdom
+12
+for Austria
+13
+for Luxembourg
+17
+for Finland
+18
+for Denmark
+▼M1
+19
+for Romania
+▼A1
+20
+for Poland
+▼B
+21
+for Portugal
+23
+for Greece
+24
+for Ireland
+▼M2
+25
+for Croatia
+▼A1
+26
+for Slovenia
+27
+for Slovakia
+29
+for Estonia
+32
+for Latvia
+▼M1
+34
+for Bulgaria
+▼A1
+36
+for Lithuania
+CY
+for Cyprus
+MT
+for Malta
+▼B
+It must also include in the vicinity of the rectangle the 'base approval number' contained in Section 4 of the type-approval number referred to in Annex VII to Directive 70/156/EEC, preceded by the two figures indicating the sequence number assigned to the most recent major technical amendment to Directive 2000/40/EC on the date EC type-approval was granted. In this Directive the sequence number is 00. 3.3. The EC type-approval mark must be affixed to the front underrun protective device in such a way as to be indelible and clearly legible even if the device is fitted to a vehicle. 3.4. An example of the EC type-approval mark is shown in Appendix 7. 4. MODIFICATION OF THE TYPE AND AMENDMENTS TO APPROVALS
+4.1. In the case of modification of a vehicle type approved pursuant to this Directive, the provisions of Article 5 of Directive 70/156/EEC shall apply. 5. CONFORMITY OF PRODUCTION
+5.1. Measures to ensure the conformity of production shall be taken in accordance with the provisions laid down in Article 10 of Directive 70/156/EEC. {{IMAGE:Image_0, Caption:Information document template for EC type-approval detailing general manufacturer data and construction characteristics for vehicles and front underrun protective devices.}} {{IMAGE:Image_1, Caption:Information document form pursuant to Annex I of Council Directive 70/156/EEC regarding vehicle type-approval for front underrun protective devices.}} {{IMAGE:Image_2, Caption:Section 9 of an information document outlining requirements for bodywork and front underrun protection, including fields for descriptions, drawings, and type-approval numbers.}} {{IMAGE:Image_3, Caption:Information document template for EC type-approval of a vehicle type regarding front underrun protection, detailing general manufacturer information and vehicle characteristics.}} {{IMAGE:Image_4, Caption:Section 9 of an information document outlining requirements for bodywork and front underrun protection, including fields for type, materials, and technical drawings.}} {{IMAGE:Image_5, Caption:Model EC Type-Approval Certificate form detailing communication types and Section I regarding manufacturer and vehicle identification.}} {{IMAGE:Image_6, Caption:Section II and Addendum of an EC type-approval certificate form for a front underrun protective device.}} {{IMAGE:Image_7, Caption:Model EC type-approval certificate form containing administrative communication details and Section I vehicle identification fields.}} Appendix 6MODEL(maximum format: A4 (210 mm × 297 mm))EC TYPE-APPROVAL CERTIFICATE
+Appendix 7MODEL FOR THE EC TYPE-APPROVAL MARK
+The front underrun protective device bearing the above EC type-approval mark is a device which has been approved in Germany (e 1) under the base approval number 2439 on the basis of this Directive.The figures used are only indicative. ANNEX IISCOPE AND TECHNICAL REQUIREMENTS1. SCOPE
+1.1. This Directive applies to:
+Article 6
+This Directive shall enter into force on the day of its publication in the Official Journal of the European Communities.
+Article 5
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive before 10 August 2001.
+
+However, if the publication referred to in Article 3 is delayed beyond 10 February 2001, Member States shall fulfil this obligation within six months of the said publication. They shall forthwith inform the Commission thereof.Member States shall apply these measures as from 10 August 2001 or, if the publication referred to in Article 3 is delayed beyond 10 February 2001, six months after the said publication.When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by the Member States.2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field governed by this Directive.
+Article 4
+Directive 70/156/EEC is amended as follows: 1. Annex I shall be amended as follows:
+
+(a) Item 2.3.4 shall be replaced by the following: '2.3.4. Width of the foremost axle (measured at the outermost part of the tyres excluding the bulging of the tyres close to the ground): …'. (b) The following items shall be inserted: '9.22. Front underrun protection
+9.22.1. Drawing of the vehicle parts relevant to the front underrun protection, i.e. drawing of the vehicle and/or chassis with position and mounting of the widest front axle, drawing of the mounting and/or fitting of the front underrun protection. If the underrun protection is no special device, the drawing must clearly show that the required dimensions are met: …
+9.22.2. In the case of special device, full description and/or drawing of the front underrun protection (including mountings and fittings), or, if approved as a separate technical unit, type-approval number: …'. 2. Annex V shall be amended as follows: (a) In Part I, the following item shall be added: Subject
+Directive No
+Official Journal reference
+Applicability
+M1
+M2
+M3
+N1
+N2
+N3
+O1
+O2
+O3
+O4
+'57.Front underrun protection
+2000/40/EC
+L 203 of 10.8.2000, p. 9
+X
+X' (b) In Part II, the following item shall be added: Subject
+Basic Regulation No
+Series of amendments
+Supplement
+Corrigenda(2) '57.Front underrun protection
+93
+—
+—
+—'
+Article 2
+1. With effect from 10 August 2001 or, if the publication referred to in Article 3 is delayed beyond 10 February 2001, six months after the date of the said publication, Member States may not, on grounds relating to the front underrun protection of a vehicle:
+
+(a) refuse, in respect of a type of vehicle, or a type of a front underrun protective device considered as a separate technical unit, to grant EC type-approval or national type-approval; or
+(b) prohibit the registration, sale or entry into service of vehicles or front underrun protective devices considered as a separate technical unit; if the vehicles or separate technical units comply with the requirements of this Directive.2. With effect from 10 August 2003, Member States: (a) shall no longer grant EC type-approval or national type-approval for a type of vehicle or a type of front underrun protective device as a separate technical unit; (b) shall refuse the registration, sale or entry into service of new vehicles or new front underrun protective devices as separate technical units; on grounds relating to the front underrun protection if the requirements of this Directive are not complied with.3. The administrative provisions governing EC type-approval shall be as set out in Annex I.The scope of this Directive, and the technical requirements to be fulfilled for the award of EC type-approval, shall be as laid down in Annex II.
+Article 1
+For the purposes of this Directive:
+
+(a) 'vehicle'means any motor vehicle as defined in Section A of Annex II to Directive 70/156/EEC; (b) 'front underrun protective device'means a front underrun protective device which is intended to be part of a vehicle and which can be approved as a separate technical unit in accordance with Article 2 of Directive 70/156/EEC.
+5. CONFORMITY OF PRODUCTION
+ANNEX I
+5. CONFORMITY OF PRODUCTION
+ADMINISTRATIVE PROVISIONS FOR EC TYPE-APPROVAL
+1.1. Application for EC type-approval of a front underrun protective device as a separate technical unit
+1.1.1. Application for EC type-approval pursuant to Article 3(4) of Directive 70/156/EEC in respect of a front underrun protective device considered to be a separate technical unit within the meaning of Article 2 of Directive 70/156/EEC shall be submitted by the manufacturer of the front underrun protective device.
+
+1.1.2. A model for the information document is given in Appendix 1. 1.1.3. A representative sample of the type of device to be approved shall be submitted to the technical service responsible for conducting the type-approval tests. That service may, if it is considered necessary, request a further sample. The samples shall be clearly and indelibly marked with the applicant's trade name or mark and the type designation. 1.2. Application for EC type-approval of a vehicle type with regard to the installation of front underrun protective devices which have been type-approved as separate technical unit
+1.2.1. Application for EC type-approval pursuant to Article 3(1) of Directive 70/156/EEC shall be submitted by the vehicle manufacturer. 1.2.2. A model for the information document is given in Appendix 2. 1.2.3. A vehicle representative of the type to be approved as well as a front underrun protection for the installation, which has been approved as a separate technical unit, shall be submitted to the technical service responsible for conducting the approval tests. 1.3. Application for EC type-approval of a vehicle type with regard to its front underrun protection
+1.3.1. Application for EC type-approval pursuant to Article 3(1) of Directive 70/156/EEC shall be submitted by the vehicle manufacturer. 1.3.2. A model for the information document is given in Appendix 3. 1.3.3. A vehicle representative of the type to be approved shall be submitted to the technical service responsible for conducting the approval tests. 2.1. If the relevant requirements are satisfied, EC type-approval pursuant to Article 4(3) and, if applicable 4(4) of Directive 70/156/EEC shall be granted. 2.2. A model for the EC type-approval certificate is given: 2.2.1. for a front underrun protective device as a separate technical unit in Appendix 4;
+2.2.2. for a vehicle type with regard to the installation of a front underrun protective device which has been type-approved as separate technical unit in Appendix 5;
+2.2.3. for a vehicle type with regard to its front underrun protection in Appendix 6. 
+2.3. An approval number in accordance with Annex VII to Directive 70/156/EEC shall be assigned to each type of front underrun protective device or each type of vehicle approved. The same Member State shall not assign the same number to another type of front underrun protective device or to another type of vehicle. 3.1. Every front underrun protective device conforming to the type approved under this Directive as a separate technical unit shall bear an EC type-approval mark. 3.2. This mark shall consist of a rectangle surrounding the letter 'e' followed by the distinguishing number of the Member State which has granted type-approval: 1
+for Germany
+2
+for France
+3
+for Italy
+4
+for the Netherlands
+5
+for Sweden
+6
+for Belgium
+▼A1
+7
+for Hungary
+8
+for the Czech Republic
+▼B
+9
+for Spain
+11
+for the United Kingdom
+12
+for Austria
+13
+for Luxembourg
+17
+for Finland
+18
+for Denmark
+▼M1
+19
+for Romania
+▼A1
+20
+for Poland
+▼B
+21
+for Portugal
+23
+for Greece
+24
+for Ireland
+▼M2
+25
+for Croatia
+▼A1
+26
+for Slovenia
+27
+for Slovakia
+29
+for Estonia
+32
+for Latvia
+▼M1
+34
+for Bulgaria
+▼A1
+36
+for Lithuania
+CY
+for Cyprus
+MT
+for Malta
+▼B
+It must also include in the vicinity of the rectangle the 'base approval number' contained in Section 4 of the type-approval number referred to in Annex VII to Directive 70/156/EEC, preceded by the two figures indicating the sequence number assigned to the most recent major technical amendment to Directive 2000/40/EC on the date EC type-approval was granted. In this Directive the sequence number is 00. 3.3. The EC type-approval mark must be affixed to the front underrun protective device in such a way as to be indelible and clearly legible even if the device is fitted to a vehicle. 3.4. An example of the EC type-approval mark is shown in Appendix 7. 
+4.1. In the case of modification of a vehicle type approved pursuant to this Directive, the provisions of Article 5 of Directive 70/156/EEC shall apply. 5.1. Measures to ensure the conformity of production shall be taken in accordance with the provisions laid down in Article 10 of Directive 70/156/EEC. Appendix 1
+relating to the EC type-approval of a front underrun protective device as a separate technical unit
+Appendix 2
+INFORMATION DOCUMENT No …
+Appendix 3
+INFORMATION DOCUMENT No …
+Appendix 4
+EC TYPE-APPROVAL CERTIFICATE
+Appendix 5
+EC TYPE-APPROVAL CERTIFICATE
+Appendix 6
+EC TYPE-APPROVAL CERTIFICATE
+Appendix 7
+MODEL FOR THE EC TYPE-APPROVAL MARK
+The front underrun protective device bearing the above EC type-approval mark is a device which has been approved in Germany (e 1) under the base approval number 2439 on the basis of this Directive.The figures used are only indicative.
+3. TECHNICAL REQUIREMENTS
+ANNEX II
+3.
+
+TECHNICAL REQUIREMENTS
+SCOPE AND TECHNICAL REQUIREMENTS
+1.1. This Directive applies to: 1.1.1. front underrun protective devices as separate technical units intended to be fitted to vehicles of categories N2 and N3 (
+7
+);
+1.1.2. vehicles of category N2 and N3 with regard to the installation of front underrun protective devices which have been type-approved as separate technical units; 1.1.3. vehicles of category N2 and N3 with regard to their front underrun protection. 1.2. Vehicles of categories N2 with a maximum mass not exceeding 7,5 tonnes shall comply only with the ground clearance requirement of 400 mm as set out in this Directive. 1.3. The requirements of this Directive do not apply to: 1.3.1. off-road vehicles of categories N2 and N3; 1.3.2. vehicles such that their use is incompatible with the provisions of front underrun protection. For the purpose of this Directive: 2.1. 'maximum mass' of the vehicle means the technically permissible maximum laden mass defined in item 2.8 of Annex I to Directive 70/156/EEC; 2.2. 'unladen vehicle', means the vehicle in running order having the mass defined in item 2.6 of Annex I to Directive 70/156/EEC; 2.3. 'type of front underrun protection device', means front underrun protective devices which do not differ with respect to the essential characteristics such as shape, dimensions, attachment, materials and the markings cited in item 1.1.3 of Annex I;
+2.4. 'front underrun protection' means the presence at the front of the vehicle of either: a special front underrun protection device; or
+body work, chassis parts or other components, such that by virtue of their shape and characteristics, these elements can be regarded as fulfilling the function of the front underrun protection device; 2.5. 'vehicle type' means vehicles which do not essentially differ in such aspects as: 2.5.1. the width of the foremost axle measured at the outermost part of the tyres excluding the bulging of the tyres close to the ground; 2.5.2. the structure, the dimensions, the shape and materials of the front part of the vehicle in so far as they have a bearing on the requirements of the relevant part of this Directive; 2.5.3. the approved front underrun protective device fitted to the vehicle; 2.5.4. the maximum mass of the vehicle type. The technical requirements which have to be complied with in order to obtain a type-approval in accordance with this Directive are those set out in paragraphs 6, 8 and 10, together with Annex 5 to UN/ECE Regulation No 93, with the following exceptions: 3.1. in item 8.2, the term 'communication document contained in annex 1' has to be regarded as 'EC type-approval certificate contained in Annex 1, Appendix 5'; 3.2. in item 8.3, the term in brackets '(annex 1, item 9.)' has to be regarded as '(Annex I, Appendix 4, Addendum, paragraph 1.4)';
+3.3. in item 8.6, the term in brackets '(annex 1, item 8.)' has to be regarded as '(Annex I, Appendix 1, paragraph 2.3)';
+3.4. in item 3.5.1 of Annex V the term 'for applications pursuant to Part III' has to be regarded as 'for applications pursuant to Annex I, paragraph 1.3'. (
+1
+) OJ C 89, 30.3.1999, p. 11.(
+2
+) OJ C 209, 22.7.1999, p. 8.(
+3
+) Opinion of the European Parliament of 27.10.1999 (OJ C 154, 5.6.2000, p. 50), Council Common Position of 27.3.2000 (OJ C 178, 27.6.2000, p. 1), and Decision of the European Parliament of 17.5.2000.(
+4
+) OJ L 346, 17.12.1997, p. 78.(
+5
+) UN Economic Commission for Europe, document E/ECE/324.(
+6
+) OJ L 42, 23.2.1970, p. 1. Directive as last amended by Directive 98/91/EC of the European Parliament and of the Council (OJ L 11, 16.1.1999, p. 25).(
+7
+) As defined in Section A of Annex II to Directive 70/156/EEC.
+Introduction
+DIRECTIVE 2000/40/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCILof 26 June 2000
+on the approximation of the laws of the Member States relating to the front underrun protection of motor vehicles and amending Council Directive 70/156/EEC
+(OJ L 203, 10.8.2000, p.9)Amended by:
+
+Official Journal
+ No
+page
+date
+ ►M1
+COUNCIL DIRECTIVE 2006/96/EC of 20 November 2006
+ L 363
+81
+20.12.2006
+ ►M2
+COUNCIL DIRECTIVE 2013/15/EU of 13 May 2013
+ L 158
+172
+10.6.2013
+Amended by: ►A1
+ L 236
+33
+23.9.2003
+ ▼B
+DIRECTIVE 2000/40/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCILof 26 June 2000on the approximation of the laws of the Member States relating to the front underrun protection of motor vehicles and amending Council Directive 70/156/EEC
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,
+Having regard to the proposal from the Commission (
+1
+),
+Having regard to the opinion of the Economic and Social Committee (
+2
+),
+Acting in accordance with the procedure laid down in Article 251 of the Treaty (
+3
+),Whereas: (1) By Decision 97/836/EC (
+4
+), the Council, with the assent of the European Parliament, authorised the Community to accede to the Agreement of the United Nations Economic Commission for Europe (ECE) concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions, done at Geneva on 20 March 1958, as revised on 16 October 1995. (2) Through its accession to the said Agreement, the Community subscribed to a defined list of Regulations established pursuant to that Agreement. This list includes UN/ECE Regulation No 93 (
+5
+). (3) In order to reduce the number of European road accident casualties, it is necessary to introduce without delay the measures established by UNE/ECE Regulation No 93 into the EC type-approval procedure set up by Council Directive 70/156/EEC (
+6
+), so as to improve the protection of the occupants of passenger cars and light vans from injury in the event of a collision with the front of heavy goods vehicles and to allow manufacturers of such devices and of vehicles equipped with such devices to obtain an EC type-approval if they meet the technical requirements of that Regulation. (4) In accordance with the principles of subsidiarity and proportionality as set out in Article 5 of the Treaty, the objectives of this Directive cannot be sufficiently achieved by the Member States on account of the scale and effect of the action proposed in the relevant sector, and can therefore be better achieved by the Community. This Directive does not go beyond what is necessary for the attainment of its objective, namely EC type-approval. (5) This Directive is one of the separate directives which must be complied with in order to conform to the EC type-approval procedure. Consequently, the provisions laid down in Directive 70/156/EEC relating to vehicles, vehicle systems, components and separate technical units apply to this Directive. (6) In view of the considerable number of road accidents involving commercial vehicles having a mass of more than 3,5 tonnes, and consequently in order to increase road safety, the provisions concerning such vehicles should be made mandatory by this Directive without awaiting any further supplements to EC type-approval for this category of vehicles. (7) Directive 70/156/EEC should be amended in consequence,
+HAVE ADOPTED THIS DIRECTIVE:
+Article 4
+Directive 70/156/EEC is amended as follows: 1. Annex I shall be amended as follows:
+
+(a) Item 2.3.4 shall be replaced by the following: '2.3.4. Width of the foremost axle (measured at the outermost part of the tyres excluding the bulging of the tyres close to the ground): …'. (b) The following items shall be inserted: '9.22. Front underrun protection
+9.22.1. Drawing of the vehicle parts relevant to the front underrun protection, i.e. drawing of the vehicle and/or chassis with position and mounting of the widest front axle, drawing of the mounting and/or fitting of the front underrun protection. If the underrun protection is no special device, the drawing must clearly show that the required dimensions are met: …
+9.22.2. In the case of special device, full description and/or drawing of the front underrun protection (including mountings and fittings), or, if approved as a separate technical unit, type-approval number: …'. 2. Annex V shall be amended as follows: (a) In Part I, the following item shall be added: 'Subject
+Directive No
+Official Journal reference
+Applicability
+M1
+M2
+M3
+N1
+N2
+N3
+O1
+O2
+O3
+O4 57. Front underrun protection
+2000/40/EC
+L 203 of 10.8.2000, p. 9
+X
+X' (b) In Part II, the following item shall be added: 'Subject
+Basic Regulation No
+Series of amendments
+Supplement
+Corrigenda(2) 57. Front underrun protection
+93
+—
+—
+—'
+Article 3
+Regulation No 93 of the United Nations Economic Commission for Europe shall be published in the Official Journal of the European Communities before 10 February 2001.
+Article 2
+1. With effect from 10 August 2001 or, if the publication referred to in Article 3 is delayed beyond 10 February 2001, six months after the date of the said publication, Member States may not, on grounds relating to the front underrun protection of a vehicle:
+
+(a) refuse, in respect of a type of vehicle, or a type of a front underrun protective device considered as a separate technical unit, to grant EC type-approval or national type-approval; or
+(b) prohibit the registration, sale or entry into service of vehicles or front underrun protective devices considered as a separate technical unit; if the vehicles or separate technical units comply with the requirements of this Directive.2. With effect from 10 August 2003, Member States: (a) shall no longer grant EC type-approval or national type-approval for a type of vehicle or a type of front underrun protective device as a separate technical unit; (b) shall refuse the registration, sale or entry into service of new vehicles or new front underrun protective devices as separate technical units; on grounds relating to the front underrun protection if the requirements of this Directive are not complied with.3. The administrative provisions governing EC type-approval shall be as set out in Annex I.The scope of this Directive, and the technical requirements to be fulfilled for the award of EC type-approval, shall be as laid down in Annex II.
+Article 1
+For the purposes of this Directive:
+
+(a) 'vehicle'means any motor vehicle as defined in Section A of Annex II to Directive 70/156/EEC; (b) 'front underrun protective device'means a front underrun protective device which is intended to be part of a vehicle and which can be approved as a separate technical unit in accordance with Article 2 of Directive 70/156/EEC.
+5. CONFORMITY OF PRODUCTION
+ANNEX I
+5. CONFORMITY OF PRODUCTION
+ADMINISTRATIVE PROVISIONS FOR EC TYPE-APPROVAL
+1.1. Application for EC type-approval of a front underrun protective device as a separate technical unit
+1.1.1. Application for EC type-approval pursuant to Article 3(4) of Directive 70/156/EEC in respect of a front underrun protective device considered to be a separate technical unit within the meaning of Article 2 of Directive 70/156/EEC shall be submitted by the manufacturer of the front underrun protective device.
+
+1.1.2. A model for the information document is given in Appendix 1. 1.1.3. A representative sample of the type of device to be approved shall be submitted to the technical service responsible for conducting the type-approval tests. That service may, if it is considered necessary, request a further sample. The samples shall be clearly and indelibly marked with the applicant's trade name or mark and the type designation. 1.2. Application for EC type-approval of a vehicle type with regard to the installation of front underrun protective devices which have been type-approved as separate technical unit
+1.2.1. Application for EC type-approval pursuant to Article 3(1) of Directive 70/156/EEC shall be submitted by the vehicle manufacturer. 1.2.2. A model for the information document is given in Appendix 2. 1.2.3. A vehicle representative of the type to be approved as well as a front underrun protection for the installation, which has been approved as a separate technical unit, shall be submitted to the technical service responsible for conducting the approval tests. 1.3. Application for EC type-approval of a vehicle type with regard to its front underrun protection
+1.3.1. Application for EC type-approval pursuant to Article 3(1) of Directive 70/156/EEC shall be submitted by the vehicle manufacturer. 1.3.2. A model for the information document is given in Appendix 3. 1.3.3. A vehicle representative of the type to be approved shall be submitted to the technical service responsible for conducting the approval tests. 2.1. If the relevant requirements are satisfied, EC type-approval pursuant to Article 4(3) and, if applicable 4(4) of Directive 70/156/EEC shall be granted. 2.2. A model for the EC type-approval certificate is given: 2.2.1. for a front underrun protective device as a separate technical unit in Appendix 4;
+2.2.2. for a vehicle type with regard to the installation of a front underrun protective device which has been type-approved as separate technical unit in Appendix 5;
+2.2.3. for a vehicle type with regard to its front underrun protection in Appendix 6. 
+2.3. An approval number in accordance with Annex VII to Directive 70/156/EEC shall be assigned to each type of front underrun protective device or each type of vehicle approved. The same Member State shall not assign the same number to another type of front underrun protective device or to another type of vehicle. 3.1. Every front underrun protective device conforming to the type approved under this Directive as a separate technical unit shall bear an EC type-approval mark. 3.2. This mark shall consist of a rectangle surrounding the letter 'e' followed by the distinguishing number of the Member State which has granted type-approval: 1
+for Germany
+2
+for France
+3
+for Italy
+4
+for the Netherlands
+5
+for Sweden
+6
+for Belgium
+▼A1
+7
+for Hungary
+8
+for the Czech Republic
+▼B
+9
+for Spain
+11
+for the United Kingdom
+12
+for Austria
+13
+for Luxembourg
+17
+for Finland
+18
+for Denmark
+▼M1
+19
+for Romania
+▼A1
+20
+for Poland
+▼B
+21
+for Portugal
+23
+for Greece
+24
+for Ireland
+▼A1
+26
+for Slovenia
+27
+for Slovakia
+29
+for Estonia
+32
+for Latvia
+▼M1
+34
+for Bulgaria
+▼A1
+36
+for Lithuania
+CY
+for Cyprus
+MT
+for Malta
+▼B
+It must also include in the vicinity of the rectangle the 'base approval number' contained in Section 4 of the type-approval number referred to in Annex VII to Directive 70/156/EEC, preceded by the two figures indicating the sequence number assigned to the most recent major technical amendment to Directive 2000/40/EC on the date EC type-approval was granted. In this Directive the sequence number is 00. 3.3. The EC type-approval mark must be affixed to the front underrun protective device in such a way as to be indelible and clearly legible even if the device is fitted to a vehicle. 3.4. An example of the EC type-approval mark is shown in Appendix 7. 
+4.1. In the case of modification of a vehicle type approved pursuant to this Directive, the provisions of Article 5 of Directive 70/156/EEC shall apply. 5.1. Measures to ensure the conformity of production shall be taken in accordance with the provisions laid down in Article 10 of Directive 70/156/EEC. Appendix 1
+relating to the EC type-approval of a front underrun protective device as a separate technical unit
+Appendix 2
+INFORMATION DOCUMENT No …
+Appendix 3
+INFORMATION DOCUMENT No …
+Appendix 4
+EC TYPE-APPROVAL CERTIFICATE
+Appendix 5
+EC TYPE-APPROVAL CERTIFICATE
+Appendix 6
+EC TYPE-APPROVAL CERTIFICATE
+Appendix 7
+MODEL FOR THE EC TYPE-APPROVAL MARK
+The front underrun protective device bearing the above EC type-approval mark is a device which has been approved in Germany (e 1) under the base approval number 2439 on the basis of this Directive.The figures used are only indicative.
+3. TECHNICAL REQUIREMENTS
+ANNEX II
+3.
+
+TECHNICAL REQUIREMENTS
+SCOPE AND TECHNICAL REQUIREMENTS
+1.1. This Directive applies to: 1.1.1. front underrun protective devices as separate technical units intended to be fitted to vehicles of categories N2 and N3 (
+7
+);
+1.1.2. vehicles of category N2 and N3 with regard to the installation of front underrun protective devices which have been type-approved as separate technical units; 1.1.3. vehicles of category N2 and N3 with regard to their front underrun protection. 1.2. Vehicles of categories N2 with a maximum mass not exceeding 7,5 tonnes shall comply only with the ground clearance requirement of 400 mm as set out in this Directive. 1.3. The requirements of this Directive do not apply to: 1.3.1. off-road vehicles of categories N2 and N3; 1.3.2. vehicles such that their use is incompatible with the provisions of front underrun protection. For the purpose of this Directive: 2.1. 'maximum mass' of the vehicle means the technically permissible maximum laden mass defined in item 2.8 of Annex I to Directive 70/156/EEC; 2.2. 'unladen vehicle', means the vehicle in running order having the mass defined in item 2.6 of Annex I to Directive 70/156/EEC; 2.3. 'type of front underrun protection device', means front underrun protective devices which do not differ with respect to the essential characteristics such as shape, dimensions, attachment, materials and the markings cited in item 1.1.3 of Annex I;
+2.4. 'front underrun protection' means the presence at the front of the vehicle of either: a special front underrun protection device; or
+body work, chassis parts or other components, such that by virtue of their shape and characteristics, these elements can be regarded as fulfilling the function of the front underrun protection device; 2.5. 'vehicle type' means vehicles which do not essentially differ in such aspects as: 2.5.1. the width of the foremost axle measured at the outermost part of the tyres excluding the bulging of the tyres close to the ground; 2.5.2. the structure, the dimensions, the shape and materials of the front part of the vehicle in so far as they have a bearing on the requirements of the relevant part of this Directive; 2.5.3. the approved front underrun protective device fitted to the vehicle; 2.5.4. the maximum mass of the vehicle type. The technical requirements which have to be complied with in order to obtain a type-approval in accordance with this Directive are those set out in paragraphs 6, 8 and 10, together with Annex 5 to UN/ECE Regulation No 93, with the following exceptions: 3.1. in item 8.2, the term 'communication document contained in annex 1' has to be regarded as 'EC type-approval certificate contained in Annex 1, Appendix 5'; 3.2. in item 8.3, the term in brackets '(annex 1, item 9.)' has to be regarded as '(Annex I, Appendix 4, Addendum, paragraph 1.4)';
+3.3. in item 8.6, the term in brackets '(annex 1, item 8.)' has to be regarded as '(Annex I, Appendix 1, paragraph 2.3)';
+3.4. in item 3.5.1 of Annex V the term 'for applications pursuant to Part III' has to be regarded as 'for applications pursuant to Annex I, paragraph 1.3'. (
+1
+) OJ C 89, 30.3.1999, p. 11.(
+2
+) OJ C 209, 22.7.1999, p. 8.(
+3
+) Opinion of the European Parliament of 27.10.1999 (OJ C 154, 5.6.2000, p. 50), Council Common Position of 27.3.2000 (OJ C 178, 27.6.2000, p. 1), and Decision of the European Parliament of 17.5.2000.(
+4
+) OJ L 346, 17.12.1997, p. 78.(
+5
+) UN Economic Commission for Europe, document E/ECE/324.(
+6
+) OJ L 42, 23.2.1970, p. 1. Directive as last amended by Directive 98/91/EC of the European Parliament and of the Council (OJ L 11, 16.1.1999, p. 25).(
+7
+) As defined in Section A of Annex II to Directive 70/156/EEC.
+Introduction
+DIRECTIVE 2000/40/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCILof 26 June 2000
+on the approximation of the laws of the Member States relating to the front underrun protection of motor vehicles and amending Council Directive 70/156/EEC
+(OJ L 203, 10.8.2000, p.9)Amended by:
+
+Official Journal
+ No
+page
+date
+ ►M1
+COUNCIL DIRECTIVE 2006/96/EC of 20 November 2006
+ L 363
+81
+20.12.2006
+Amended by: ►A1
+Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded
+ L 236
+33
+23.9.2003
+ ▼B
+DIRECTIVE 2000/40/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCILof 26 June 2000on the approximation of the laws of the Member States relating to the front underrun protection of motor vehicles and amending Council Directive 70/156/EEC
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,
+Having regard to the proposal from the Commission (
+1
+),
+Having regard to the opinion of the Economic and Social Committee (
+2
+),
+Acting in accordance with the procedure laid down in Article 251 of the Treaty (
+3
+),Whereas: (1) By Decision 97/836/EC (
+4
+), the Council, with the assent of the European Parliament, authorised the Community to accede to the Agreement of the United Nations Economic Commission for Europe (ECE) concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions, done at Geneva on 20 March 1958, as revised on 16 October 1995. (2) Through its accession to the said Agreement, the Community subscribed to a defined list of Regulations established pursuant to that Agreement. This list includes UN/ECE Regulation No 93 (
+5
+). (3) In order to reduce the number of European road accident casualties, it is necessary to introduce without delay the measures established by UNE/ECE Regulation No 93 into the EC type-approval procedure set up by Council Directive 70/156/EEC (
+6
+), so as to improve the protection of the occupants of passenger cars and light vans from injury in the event of a collision with the front of heavy goods vehicles and to allow manufacturers of such devices and of vehicles equipped with such devices to obtain an EC type-approval if they meet the technical requirements of that Regulation. (4) In accordance with the principles of subsidiarity and proportionality as set out in Article 5 of the Treaty, the objectives of this Directive cannot be sufficiently achieved by the Member States on account of the scale and effect of the action proposed in the relevant sector, and can therefore be better achieved by the Community. This Directive does not go beyond what is necessary for the attainment of its objective, namely EC type-approval. (5) This Directive is one of the separate directives which must be complied with in order to conform to the EC type-approval procedure. Consequently, the provisions laid down in Directive 70/156/EEC relating to vehicles, vehicle systems, components and separate technical units apply to this Directive. (6) In view of the considerable number of road accidents involving commercial vehicles having a mass of more than 3,5 tonnes, and consequently in order to increase road safety, the provisions concerning such vehicles should be made mandatory by this Directive without awaiting any further supplements to EC type-approval for this category of vehicles. (7) Directive 70/156/EEC should be amended in consequence,
+HAVE ADOPTED THIS DIRECTIVE:
+Article 6
+This Directive shall enter into force on the day of its publication in the Official Journal of the European Communities.
+Article 7
+This Directive is addressed to the Member States.
+
+LIST OF ANNEXES
+ANNEX I: Administrative provisions for EC type-approval
+Appendix 1: Information document relating to the EC type-approval of a front underrun protective device as a separate technical unit
+Appendix 2: Information document relating to the EC type-approval of a vehicle type with regard to the installation of front underrun protective devices which have been type-approved as a separate technical unit
+Appendix 3: Information document relating to the EC type-approval of a vehicle type with regard to its front underrun protection
+Appendix 4: Model EC type-approval certificate (for a type of front underrun protective device as a separate technical unit)
+Appendix 5: Model EC type-approval certificate (for a vehicle type with regard to the installation of front underrun protective devices which have been type-approved as a separate technical unit)
+Appendix 6: EC type-approval certificate (for a vehicle type with regard to its front underrun protection)
+Appendix 7: Model for the EC type-approval mark
+ANNEX II: Scope and technical requirements
+ANNEX IADMINISTRATIVE PROVISIONS FOR EC TYPE-APPROVAL1. APPLICATION FOR TYPE-APPROVAL
+1.1. Application for EC type-approval of a front underrun protective device as a separate technical unit
+1.1.1. Application for EC type-approval pursuant to Article 3(4) of Directive 70/156/EEC in respect of a front underrun protective device considered to be a separate technical unit within the meaning of Article 2 of Directive 70/156/EEC shall be submitted by the manufacturer of the front underrun protective device. 1.1.2. A model for the information document is given in Appendix 1. 1.1.3. A representative sample of the type of device to be approved shall be submitted to the technical service responsible for conducting the type-approval tests. That service may, if it is considered necessary, request a further sample. The samples shall be clearly and indelibly marked with the applicant's trade name or mark and the type designation. 1.2. Application for EC type-approval of a vehicle type with regard to the installation of front underrun protective devices which have been type-approved as separate technical unit
+1.2.1. Application for EC type-approval pursuant to Article 3(1) of Directive 70/156/EEC shall be submitted by the vehicle manufacturer. 1.2.2. A model for the information document is given in Appendix 2. 1.2.3. A vehicle representative of the type to be approved as well as a front underrun protection for the installation, which has been approved as a separate technical unit, shall be submitted to the technical service responsible for conducting the approval tests. 1.3. Application for EC type-approval of a vehicle type with regard to its front underrun protection
+1.3.1. Application for EC type-approval pursuant to Article 3(1) of Directive 70/156/EEC shall be submitted by the vehicle manufacturer. 1.3.2. A model for the information document is given in Appendix 3. 1.3.3. A vehicle representative of the type to be approved shall be submitted to the technical service responsible for conducting the approval tests. 2. GRANTING OF EC TYPE-APPROVAL
+2.1. If the relevant requirements are satisfied, EC type-approval pursuant to Article 4(3) and, if applicable 4(4) of Directive 70/156/EEC shall be granted. 2.2. A model for the EC type-approval certificate is given: 2.2.1. for a front underrun protective device as a separate technical unit in Appendix 4;
+2.2.2. for a vehicle type with regard to the installation of a front underrun protective device which has been type-approved as separate technical unit in Appendix 5;
+2.2.3. for a vehicle type with regard to its front underrun protection in Appendix 6. 
+2.3. An approval number in accordance with Annex VII to Directive 70/156/EEC shall be assigned to each type of front underrun protective device or each type of vehicle approved. The same Member State shall not assign the same number to another type of front underrun protective device or to another type of vehicle. 3. EC TYPE-APPROVAL MARKING FOR SEPARATE TECHNICAL UNITS
+3.1. Every front underrun protective device conforming to the type approved under this Directive as a separate technical unit shall bear an EC type-approval mark. 3.2. This mark shall consist of a rectangle surrounding the letter 'e' followed by the distinguishing number of the Member State which has granted type-approval: 1
+for Germany
+2
+for France
+3
+for Italy
+4
+for the Netherlands
+5
+for Sweden
+6
+for Belgium
+▼A1
+7
+for Hungary
+8
+for the Czech Republic
+▼B
+9
+for Spain
+11
+for the United Kingdom
+12
+for Austria
+13
+for Luxembourg
+17
+for Finland
+18
+for Denmark
+▼M1
+19
+for Romania
+▼A1
+20
+for Poland
+▼B
+21
+for Portugal
+23
+for Greece
+24
+for Ireland
+▼A1
+26
+for Slovenia
+27
+for Slovakia
+29
+for Estonia
+32
+for Latvia
+▼M1
+34
+for Bulgaria
+▼A1
+36
+for Lithuania
+CY
+for Cyprus
+MT
+for Malta
+▼B
+It must also include in the vicinity of the rectangle the 'base approval number' contained in Section 4 of the type-approval number referred to in Annex VII to Directive 70/156/EEC, preceded by the two figures indicating the sequence number assigned to the most recent major technical amendment to Directive 2000/40/EC on the date EC type-approval was granted. In this Directive the sequence number is 00. 3.3. The EC type-approval mark must be affixed to the front underrun protective device in such a way as to be indelible and clearly legible even if the device is fitted to a vehicle. 3.4. An example of the EC type-approval mark is shown in Appendix 7. 4. MODIFICATION OF THE TYPE AND AMENDMENTS TO APPROVALS
+4.1. In the case of modification of a vehicle type approved pursuant to this Directive, the provisions of Article 5 of Directive 70/156/EEC shall apply. 5. CONFORMITY OF PRODUCTION
+5.1. Measures to ensure the conformity of production shall be taken in accordance with the provisions laid down in Article 10 of Directive 70/156/EEC. {{IMAGE:Image_0, Caption:Information document template for EC type-approval detailing general manufacturer data and construction characteristics for vehicles and front underrun protective devices.}} {{IMAGE:Image_1, Caption:Information document form pursuant to Annex I of Council Directive 70/156/EEC regarding vehicle type-approval for front underrun protective devices.}} {{IMAGE:Image_2, Caption:Section 9 of an information document outlining requirements for bodywork and front underrun protection, including fields for descriptions, drawings, and type-approval numbers.}} {{IMAGE:Image_3, Caption:Information document template for EC type-approval of a vehicle type regarding front underrun protection, detailing general manufacturer information and vehicle characteristics.}} {{IMAGE:Image_4, Caption:Section 9 of an information document outlining requirements for bodywork and front underrun protection, including fields for type, materials, and technical drawings.}} {{IMAGE:Image_5, Caption:Model EC Type-Approval Certificate form detailing communication types and Section I regarding manufacturer and vehicle identification.}} {{IMAGE:Image_6, Caption:Section II and Addendum of an EC type-approval certificate form for a front underrun protective device.}} {{IMAGE:Image_7, Caption:Model EC type-approval certificate form containing administrative communication details and Section I vehicle identification fields.}} Appendix 6MODEL(maximum format: A4 (210 mm × 297 mm))EC TYPE-APPROVAL CERTIFICATE
+Appendix 7MODEL FOR THE EC TYPE-APPROVAL MARK
+The front underrun protective device bearing the above EC type-approval mark is a device which has been approved in Germany (e 1) under the base approval number 2439 on the basis of this Directive.The figures used are only indicative. ANNEX IISCOPE AND TECHNICAL REQUIREMENTS1. SCOPE
+1.1. This Directive applies to:
+Article 5
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive before 10 August 2001.
+
+However, if the publication referred to in Article 3 is delayed beyond 10 February 2001, Member States shall fulfil this obligation within six months of the said publication. They shall forthwith inform the Commission thereof.Member States shall apply these measures as from 10 August 2001 or, if the publication referred to in Article 3 is delayed beyond 10 February 2001, six months after the said publication.When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by the Member States.2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field governed by this Directive.
+SCOPE
+1.1. This Directive applies to:
+
+1.1.1. front underrun protective devices as separate technical units intended to be fitted to vehicles of categories N2 and N3 (
+7
+);
+1.1.2. vehicles of category N2 and N3 with regard to the installation of front underrun protective devices which have been type-approved as separate technical units; 1.1.3. vehicles of category N2 and N3 with regard to their front underrun protection. 1.2. Vehicles of categories N2 with a maximum mass not exceeding 7,5 tonnes shall comply only with the ground clearance requirement of 400 mm as set out in this Directive. 1.3. The requirements of this Directive do not apply to: 1.3.1. off-road vehicles of categories N2 and N3; 1.3.2. vehicles such that their use is incompatible with the provisions of front underrun protection. 2. DEFINITIONS
+For the purpose of this Directive: 2.1. 'maximum mass' of the vehicle means the technically permissible maximum laden mass defined in item 2.8 of Annex I to Directive 70/156/EEC; 2.2. 'unladen vehicle', means the vehicle in running order having the mass defined in item 2.6 of Annex I to Directive 70/156/EEC; 2.3. 'type of front underrun protection device', means front underrun protective devices which do not differ with respect to the essential characteristics such as shape, dimensions, attachment, materials and the markings cited in item 1.1.3 of Annex I;
+2.4. 'front underrun protection' means the presence at the front of the vehicle of either: a special front underrun protection device; or
+body work, chassis parts or other components, such that by virtue of their shape and characteristics, these elements can be regarded as fulfilling the function of the front underrun protection device; 2.5. 'vehicle type' means vehicles which do not essentially differ in such aspects as: 2.5.1. the width of the foremost axle measured at the outermost part of the tyres excluding the bulging of the tyres close to the ground; 2.5.2. the structure, the dimensions, the shape and materials of the front part of the vehicle in so far as they have a bearing on the requirements of the relevant part of this Directive; 2.5.3. the approved front underrun protective device fitted to the vehicle; 2.5.4. the maximum mass of the vehicle type. 3. TECHNICAL REQUIREMENTS
+The technical requirements which have to be complied with in order to obtain a type-approval in accordance with this Directive are those set out in paragraphs 6, 8 and 10, together with Annex 5 to UN/ECE Regulation No 93, with the following exceptions: 3.1. in item 8.2, the term 'communication document contained in annex 1' has to be regarded as 'EC type-approval certificate contained in Annex 1, Appendix 5'; 3.2. in item 8.3, the term in brackets '(annex 1, item 9.)' has to be regarded as '(Annex I, Appendix 4, Addendum, paragraph 1.4)';
+3.3. in item 8.6, the term in brackets '(annex 1, item 8.)' has to be regarded as '(Annex I, Appendix 1, paragraph 2.3)';
+3.4. in item 3.5.1 of Annex V the term 'for applications pursuant to Part III' has to be regarded as 'for applications pursuant to Annex I, paragraph 1.3'. (
+1
+) OJ C 89, 30.3.1999, p. 11.(
+2
+) OJ C 209, 22.7.1999, p. 8.(
+3
+) Opinion of the European Parliament of 27.10.1999 (OJ C 154, 5.6.2000, p. 50), Council Common Position of 27.3.2000 (OJ C 178, 27.6.2000, p. 1), and Decision of the European Parliament of 17.5.2000.(
+4
+) OJ L 346, 17.12.1997, p. 78.(
+5
+) UN Economic Commission for Europe, document E/ECE/324.(
+6
+) OJ L 42, 23.2.1970, p. 1. Directive as last amended by Directive 98/91/EC of the European Parliament and of the Council (OJ L 11, 16.1.1999, p. 25).(
+7
+) As defined in Section A of Annex II to Directive 70/156/EEC.
+SCOPE
+1.1. This Directive applies to:
+
+1.1.1. front underrun protective devices as separate technical units intended to be fitted to vehicles of categories N2 and N3 (
+7
+);
+1.1.2. vehicles of category N2 and N3 with regard to the installation of front underrun protective devices which have been type-approved as separate technical units; 1.1.3. vehicles of category N2 and N3 with regard to their front underrun protection. 1.2. Vehicles of categories N2 with a maximum mass not exceeding 7,5 tonnes shall comply only with the ground clearance requirement of 400 mm as set out in this Directive. 1.3. The requirements of this Directive do not apply to: 1.3.1. off-road vehicles of categories N2 and N3; 1.3.2. vehicles such that their use is incompatible with the provisions of front underrun protection. 2. DEFINITIONS
+For the purpose of this Directive: 2.1. 'maximum mass' of the vehicle means the technically permissible maximum laden mass defined in item 2.8 of Annex I to Directive 70/156/EEC; 2.2. 'unladen vehicle', means the vehicle in running order having the mass defined in item 2.6 of Annex I to Directive 70/156/EEC; 2.3. 'type of front underrun protection device', means front underrun protective devices which do not differ with respect to the essential characteristics such as shape, dimensions, attachment, materials and the markings cited in item 1.1.3 of Annex I;
+2.4. 'front underrun protection' means the presence at the front of the vehicle of either: a special front underrun protection device; or
+body work, chassis parts or other components, such that by virtue of their shape and characteristics, these elements can be regarded as fulfilling the function of the front underrun protection device; 2.5. 'vehicle type' means vehicles which do not essentially differ in such aspects as: 2.5.1. the width of the foremost axle measured at the outermost part of the tyres excluding the bulging of the tyres close to the ground; 2.5.2. the structure, the dimensions, the shape and materials of the front part of the vehicle in so far as they have a bearing on the requirements of the relevant part of this Directive; 2.5.3. the approved front underrun protective device fitted to the vehicle; 2.5.4. the maximum mass of the vehicle type. 3. TECHNICAL REQUIREMENTS
+The technical requirements which have to be complied with in order to obtain a type-approval in accordance with this Directive are those set out in paragraphs 6, 8 and 10, together with Annex 5 to UN/ECE Regulation No 93, with the following exceptions: 3.1. in item 8.2, the term 'communication document contained in annex 1' has to be regarded as 'EC type-approval certificate contained in Annex 1, Appendix 5'; 3.2. in item 8.3, the term in brackets '(annex 1, item 9.)' has to be regarded as '(Annex I, Appendix 4, Addendum, paragraph 1.4)';
+3.3. in item 8.6, the term in brackets '(annex 1, item 8.)' has to be regarded as '(Annex I, Appendix 1, paragraph 2.3)';
+3.4. in item 3.5.1 of Annex V the term 'for applications pursuant to Part III' has to be regarded as 'for applications pursuant to Annex I, paragraph 1.3'. (
+1
+) OJ C 89, 30.3.1999, p. 11.(
+2
+) OJ C 209, 22.7.1999, p. 8.(
+3
+) Opinion of the European Parliament of 27.10.1999 (OJ C 154, 5.6.2000, p. 50), Council Common Position of 27.3.2000 (OJ C 178, 27.6.2000, p. 1), and Decision of the European Parliament of 17.5.2000.(
+4
+) OJ L 346, 17.12.1997, p. 78.(
+5
+) UN Economic Commission for Europe, document E/ECE/324.(
+6
+) OJ L 42, 23.2.1970, p. 1. Directive as last amended by Directive 98/91/EC of the European Parliament and of the Council (OJ L 11, 16.1.1999, p. 25).(
+7
+) As defined in Section A of Annex II to Directive 70/156/EEC.
+FontaineFor the CouncilThe PresidentJ. Coelho(1) OJ C 89, 30.3.1999, p. 11.(2) OJ C 209, 22.7.1999, p. 8.(3) Opinion of the European Parliament of 27.10.1999 (OJ C 154, 5.6.2000, p. 50), Council Common Position of 27.3.2000 (OJ C 178, 27.6.2000, p. 1), and Decision of the European Parliament of 17.5.2000.(4) OJ L 346, 17.12.1997, p. 78.(5) UN Economic Commission for Europe, document E/ECE/324.(6) OJ L 42, 23.2.1970, p. 1. Directive as last amended by Directive 98/91/EC of the European Parliament and of the Council (OJ L 11, 16.1.1999, p. 25).LIST OF ANNEXES>TABLE>ANNEX IADMINISTRATIVE PROVISIONS FOR EC TYPE-APPROVAL1. APPLICATION FOR TYPE-APPROVAL1.1. Application for EC type-approval of a front underrun protective device as a separate technical unit1.1.1. Application for EC type-approval pursuant to Article 3(4) of Directive 70/156/EEC in respect of a front underrun protective device considered to be a separate technical unit within the meaning of Article 2 of Directive 70/156/EEC shall be submitted by the manufacturer of the front underrun protective device.1.1.2. A model for the information document is given in Appendix 1.1.1.3. A representative sample of the type of device to be approved shall be submitted to the technical service responsible for conducting the type-approval tests. That service may, if it is considered necessary, request a further sample. The samples shall be clearly and indelibly marked with the applicant's trade name or mark and the type designation.1.2. Application for EC type-approval of a vehicle type with regard to the installation of front underrun protective devices which have been type-approved as separate technical unit1.2.1. Application for EC type-approval pursuant to Article 3(1) of Directive 70/156/EEC shall be submitted by the vehicle manufacturer.1.2.2. A model for the information document is given in Appendix 2.1.2.3. A vehicle representative of the type to be approved as well as a front underrun protection for the installation, which has been approved as a separate technical unit, shall be submitted to the technical service responsible for conducting the approval tests.1.3. Application for EC type-approval of a vehicle type with regard to its front underrun protection1.3.1. Application for EC type-approval pursuant to Article 3(1) of Directive 70/156/EEC shall be submitted by the vehicle manufacturer.1.3.2. A model for the information document is given in Appendix 3.1.3.3. A vehicle representative of the type to be approved shall be submitted to the technical service responsible for conducting the approval tests.2. GRANTING OF EC TYPE-APPROVAL2.1. If the relevant requirements are satisfied, EC type-approval pursuant to Article 4(3) and, if applicable 4(4) of Directive 70/156/EEC shall be granted.2.2. A model for the EC type-approval certificate is given:2.2.1. for a front underrun protective device as a separate technical unit in Appendix 4;2.2.2. for a vehicle type with regard to the installation of a front underrun protective device which has been type-approved as separate technical unit in Appendix 5;2.2.3. for a vehicle type with regard to its front underrun protection in Appendix 6.2.3. An approval number in accordance with Annex VII to Directive 70/156/EEC shall be assigned to each type of front underrun protective device or each type of vehicle approved. The same Member State shall not assign the same number to another type of front underrun protective device or to another type of vehicle.3. EC TYPE-APPROVAL MARKING FOR SEPARATE TECHNICAL UNITS3.1. Every front underrun protective device conforming to the type approved under this Directive as a separate technical unit shall bear an EC type-approval mark.3.2. This mark shall consist of a rectangle surrounding the letter "e" followed by the distinguishing number of the Member State which has granted type-approval:1 for Germany2 for France3 for Italy4 for the Netherlands5 for Sweden6 for Belgium9 for Spain11 for the United Kingdom12 for Austria13 for Luxembourg17 for Finland18 for Denmark21 for Portugal23 for Greece24 for IrelandIt must also include in the vicinity of the rectangle the "base approval number" contained in Section 4 of the type-approval number referred to in Annex VII to Directive 70/156/EEC, preceded by the two figures indicating the sequence number assigned to the most recent major technical amendment to Directive 2000/40/EC on the date EC type-approval was granted. In this Directive the sequence number is 00.3.3. The EC type-approval mark must be affixed to the front underrun protective device in such a way as to be indelible and clearly legible even if the device is fitted to a vehicle.3.4. An example of the EC type-approval mark is shown in Appendix 7.4. MODIFICATION OF THE TYPE AND AMENDMENTS TO APPROVALS4.1. In the case of modification of a vehicle type approved pursuant to this Directive, the provisions of Article 5 of Directive 70/156/EEC shall apply.5. CONFORMITY OF PRODUCTION5.1. Measures to ensure the conformity of production shall be taken in accordance with the provisions laid down in Article 10 of Directive 70/156/EEC.Appendix 1INFORMATION DOCUMENT No ...relating to the EC type-approval of a front underrun protective device as a separate technical unit(Directive 2000/40/EC, as last amended by Directive .../.../EC)>PIC FILE= "L_2000203EN.001502.EPS">Appendix 2INFORMATION DOCUMENT No ...pursuant to Annex I of Council Directive 79/156/EEC(1), relating to the EC type-approval of a vehicle type with regard to the installation of front underrun protective devices which have been type-approved as a separate technical unit(Directive 2000/40/EC, as last amended by Directive .../.../EC)>PIC FILE= "L_2000203EN.001602.EPS">>PIC FILE= "L_2000203EN.001701.EPS">(1) The item numbers and footnotes used in this Information Document correspond to those set out in Annex I to Directive 70/156/EEC. Items not relevant for the purposes of this Directive are omitted.Appendix 3INFORMATION DOCUMENT No ...pursuant to Annex I of Council Directive 70/156/EEC(1), relating to the EC type-approval of a vehicle type with regard to its front underrun protection(Directive 2000/40/EC, as last amended by Directive .../.../EC)>PIC FILE= "L_2000203EN.001802.EPS">>PIC FILE= "L_2000203EN.001901.EPS">(1) The item numbers and footnotes used in this Information Document correspond to those set out in Annex I to Directive 70/156/EEC. Items not relevant for the purposes of this Directive are omitted.Appendix 4MODEL(maximum format: A4 (210 mm × 297 mm))EC TYPE-APPROVAL CERTIFICATE>PIC FILE= "L_2000203EN.002002.EPS">>PIC FILE= "L_2000203EN.002101.EPS">Appendix 5MODEL(maximum format: A4 (210 mm × 297 mm))EC TYPE-APPROVAL CERTIFICATE>PIC FILE= "L_2000203EN.002202.EPS">>PIC FILE= "L_2000203EN.002301.EPS">Appendix 6MODEL(maximum format: A4 (210 mm × 297 mm))EC TYPE-APPROVAL CERTIFICATE>PIC FILE= "L_2000203EN.002402.EPS">>PIC FILE= "L_2000203EN.002501.EPS">Appendix 7MODEL FOR THE EC TYPE-APPROVAL MARK>PIC FILE= "L_2000203EN.002602.TIF">The front underrun protective device bearing the above EC type-approval mark is a device which has been approved in Germany (e 1) under the base approval number 2439 on the basis of this Directive.The figures used are only indicative.ANNEX IISCOPE AND TECHNICAL REQUIREMENTS1. SCOPE1.1.
+SCOPE1.1. This Directive applies to:1.1.1. front underrun protective devices as separate technical units intended to be fitted to vehicles of categories N2 and N3(1);1.1.2. vehicles of category N2 and N3 with regard to the installation of front underrun protective devices which have been type-approved as separate technical units;1.1.3. vehicles of category N2 and N3 with regard to their front underrun protection.1.2. Vehicles of categories N2 with a maximum mass not exceeding 7,5 tonnes shall comply only with the ground clearance requirement of 400 mm as set out in this Directive.1.3. The requirements of this Directive do not apply to:1.3.1. off-road vehicles of categories N2 and N3;1.3.2. vehicles such that their use is incompatible with the provisions of front underrun protection.2. DEFINITIONSFor the purpose of this Directive:2.1. "maximum mass" of the vehicle means the technically permissible maximum laden mass defined in item 2.8 of Annex I to Directive 70/156/EEC;2.2. "unladen vehicle", means the vehicle in running order having the mass defined in item 2.6 of Annex I to Directive 70/156/EEC;2.3. "type of front underrun protection device", means front underrun protective devices which do not differ with respect to the essential characteristics such as shape, dimensions, attachment, materials and the markings cited in item 1.1.3 of Annex I;2.4. "front underrun protection" means the presence at the front of the vehicle of either:a special front underrun protection device; orbody work, chassis parts or other components, such that by virtue of their shape and characteristics, these elements can be regarded as fulfilling the function of the front underrun protection device;2.5. "vehicle type" means vehicles which do not essentially differ in such aspects as:2.5.1. the width of the foremost axle measured at the outermost part of the tyres excluding the bulging of the tyres close to the ground;2.5.2. the structure, the dimensions, the shape and materials of the front part of the vehicle in so far as they have a bearing on the requirements of the relevant part of this Directive;2.5.3. the approved front underrun protective device fitted to the vehicle;2.5.4. the maximum mass of the vehicle type.3. TECHNICAL REQUIREMENTSThe technical requirements which have to be complied with in order to obtain a type-approval in accordance with this Directive are those set out in paragraphs 6, 8 and 10, together with Annex 5 to UN/ECE Regulation No 93, with the following exceptions:3.1. in item 8.2, the term "communication document contained in annex 1" has to be regarded as "EC type-approval certificate contained in Annex 1, Appendix 5";3.2. in item 8.3, the term in brackets "(annex 1, item 9.)" has to be regarded as "(Annex I, Appendix 4, Addendum, paragraph 1.4)";3.3. in item 8.6, the term in brackets "(annex 1, item 8.)" has to be regarded as "(Annex I, Appendix 1, paragraph 2.3)";3.4. in item 3.5.1 of Annex V the term "for applications pursuant to Part III" has to be regarded as "for applications pursuant to Annex I, paragraph 1.3".(1) As defined in Section A of Annex II to Directive 70/156/EEC.

@@ -1,0 +1,430 @@
+recital 6
+(6) In order to be effective, the guidelines should include requirements related to the measuring equipment, metrological controls, the measurement procedure, metrological and technical requirements, as well as a pass/fail limit.
+recital 2
+(2) The test methods required by Directive 2014/45/EU of the European Parliament and of the Council (1) as regards exhaust emissions of motor vehicles, notably the opacity testing applicable to compression ignition engines, are not adapted to more recent vehicles that are equipped with particle filters.
+
+Laboratory tests indicate that even vehicles with defective or tampered diesel particulate filters ('DPF') can pass the opacity test, without the malfunctioning being noticed.
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 292 thereof,
+Whereas:
+
+(1) In the interests of public health, environmental protection and fair competition, it is important to ensure that vehicles in operation are properly maintained and tested, so that they can maintain their performance as guaranteed by type-approval, without excessive degradation, throughout their lifetime. (2) The test methods required by Directive 2014/45/EU of the European Parliament and of the Council (1) as regards exhaust emissions of motor vehicles, notably the opacity testing applicable to compression ignition engines, are not adapted to more recent vehicles that are equipped with particle filters. Laboratory tests indicate that even vehicles with defective or tampered diesel particulate filters ('DPF') can pass the opacity test, without the malfunctioning being noticed. (3) In order to be able to detect those vehicles that have defective DPF, certain Member States have introduced or will soon introduce methods for particle number ('PN') measurement as part of their periodic technical inspection of vehicles equipped with compression ignition engines. While those methods are similar, they do differ in certain aspects. Instead of the introduction of various different measurement methods in the Union, a common set of minimum requirements for PN measurement should be introduced on the basis of guidelines. (4) Existing methods developed by certain Member States, the findings of laboratory tests carried out by the Joint Research Centre of the Commission (2), as well as the results of the consultation of the Roadworthiness Expert Group have been duly taken into account when elaborating such guidelines. (5) Since the applicability of such guidelines has not been tested for vehicles equipped with positive ignition engines, the scope of the guidelines should be limited to those equipped with compression ignition engines and having a solid particle number limit at their type-approval. This means light-duty diesel vehicles first registered as of 1 January 2013 (Euro 5b and newer) (3) and heavy-duty diesel vehicles first registered as of 1 January 2014 (Euro VI and newer) (4). As soon as the same level of confidence is reached regarding a PN measurement method applicable to vehicles equipped with positive ignition engines, corresponding guidelines should be developed. (6) In order to be effective, the guidelines should include requirements related to the measuring equipment, metrological controls, the measurement procedure, metrological and technical requirements, as well as a pass/fail limit. (7) This Recommendation is a first step towards harmonised PN measurement during roadworthiness testing within the Union,
+HAS ADOPTED THIS RECOMMENDATION:
+recital 7
+(7) This Recommendation is a first step towards harmonised PN measurement during roadworthiness testing within the Union,
+HAS ADOPTED THIS RECOMMENDATION:
+recital 3
+(3) In order to be able to detect those vehicles that have defective DPF, certain Member States have introduced or will soon introduce methods for particle number ('PN') measurement as part of their periodic technical inspection of vehicles equipped with compression ignition engines.
+
+While those methods are similar, they do differ in certain aspects. Instead of the introduction of various different measurement methods in the Union, a common set of minimum requirements for PN measurement should be introduced on the basis of guidelines.
+COMMISSION RECOMMENDATION (EU) 2023/688
+of 20 March 2023
+on particle number measurement for the periodic technical inspection of vehicles equipped with compression ignition engines
+COMMISSION RECOMMENDATION (EU) 2023/688
+of 20 March 2023
+on particle number measurement for the periodic technical inspection of vehicles equipped with compression ignition engines
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 292 thereof,
+Whereas:
+
+(1) In the interests of public health, environmental protection and fair competition, it is important to ensure that vehicles in operation are properly maintained and tested, so that they can maintain their performance as guaranteed by type-approval, without excessive degradation, throughout their lifetime. (2) The test methods required by Directive 2014/45/EU of the European Parliament and of the Council (1) as regards exhaust emissions of motor vehicles, notably the opacity testing applicable to compression ignition engines, are not adapted to more recent vehicles that are equipped with particle filters. Laboratory tests indicate that even vehicles with defective or tampered diesel particulate filters ('DPF') can pass the opacity test, without the malfunctioning being noticed. (3) In order to be able to detect those vehicles that have defective DPF, certain Member States have introduced or will soon introduce methods for particle number ('PN') measurement as part of their periodic technical inspection of vehicles equipped with compression ignition engines. While those methods are similar, they do differ in certain aspects. Instead of the introduction of various different measurement methods in the Union, a common set of minimum requirements for PN measurement should be introduced on the basis of guidelines. (4) Existing methods developed by certain Member States, the findings of laboratory tests carried out by the Joint Research Centre of the Commission (2), as well as the results of the consultation of the Roadworthiness Expert Group have been duly taken into account when elaborating such guidelines. (5) Since the applicability of such guidelines has not been tested for vehicles equipped with positive ignition engines, the scope of the guidelines should be limited to those equipped with compression ignition engines and having a solid particle number limit at their type-approval. This means light-duty diesel vehicles first registered as of 1 January 2013 (Euro 5b and newer) (3) and heavy-duty diesel vehicles first registered as of 1 January 2014 (Euro VI and newer) (4). As soon as the same level of confidence is reached regarding a PN measurement method applicable to vehicles equipped with positive ignition engines, corresponding guidelines should be developed. (6) In order to be effective, the guidelines should include requirements related to the measuring equipment, metrological controls, the measurement procedure, metrological and technical requirements, as well as a pass/fail limit. (7) This Recommendation is a first step towards harmonised PN measurement during roadworthiness testing within the Union,
+HAS ADOPTED THIS RECOMMENDATION: Member States should apply particle number measurement during the periodic technical inspection of vehicles equipped with compression ignition engines and diesel particulate filters in accordance with the guidelines set out in the Annex. Done at Brussels, 20 March 2023. For the Commission
+Adina-Ioana VĂLEAN
+Member of the Commission
+(1) Directive 2014/45/EU of the European Parliament and of the Council of 3 April 2014 on periodic roadworthiness tests for motor vehicles and their trailers and repealing Directive 2009/40/EC (OJ L 127, 29.4.2014, p. 51). (2) Comparisons of Laboratory and On-Road Type-Approval Cycles with Idling Emissions. Implications for Periodical Technical Inspection (PTI) Sensors, doi.org/10.3390/s20205790 and Evaluation of Measurement Procedures for Solid Particle Number (SPN) Measurements during the Periodic Technical Inspection (PTI) of Vehicles, doi.org/10.3390/ijerph19137602. (3) Regulation (EC) No 715/2007 of the European Parliament and of the Council of 20 June 2007 on type approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information (OJ L 171, 29.6.2007, p. 1). (4) In accordance with Regulation (EC) No 595/2009 of the European Parliament and of the Council of 18 June 2009 on type-approval of motor vehicles and engines with respect to emissions from heavy duty vehicles (Euro VI) and on access to vehicle repair and maintenance information and amending Regulation (EC) No 715/2007 and Directive 2007/46/EC and repealing Directives 80/1269/EEC, 2005/55/EC and 2005/78/EC (OJ L 188, 18.7.2009, p. 1).
+GUIDELINES FOR THE PARTICLE NUMBER MEASUREMENT
+ANNEX
+Table of Contents
+ 1. Scope
+49
+ 2. Terms and Definitions
+49
+ 3. Description of the instrument and inscription
+50
+3.1. Description of the PN-PTI instrument
+50
+3.2. Inscription
+51
+3.3. Operating instructions
+51
+ 4. Metrological requirements
+52
+4.1. Indication of the measurement result
+52
+4.2. Measuring range
+52
+4.3. Resolution of the displaying device (for digital indicating instruments only)
+52
+4.4. Response time
+52
+4.5. Warm-up time
+53
+4.6. Maximum permissible error ('MPE')
+53
+4.7. Efficiency requirements
+53
+4.8. Linearity requirements
+54
+4.9. Zero-level
+54
+4.10.
+
+Volatile removal efficiency
+54
+4.11. Stability with time or drift
+55
+4.12. Repeatability
+55
+4.13. Influence quantities
+55
+4.14. Disturbances
+56
+ 5. Technical requirements
+57
+5.1. Construction
+57
+5.2. Requirements for ensuring correct operation
+58
+ 6. Metrological controls
+59
+6.1. Type examination
+59
+6.2. Initial verification
+59
+6.3. Subsequent verification
+60
+ 7. Measurement procedure
+61
+ 8. PN-PTI limit
+62
+ 9. List of sources
+63
+Guidelines for the particle number measurement
+1. SCOPE
+This document presents guidelines for the particle number ('PN') concentration test during the periodic technical inspection ('PTI'). PN concentration measurements during the PTI can be applied to all M and N category vehicles equipped with compression ignition engines and diesel particulate filters. These guidelines should be applied to light-duty vehicles first registered as of 1 January 2013 (Euro 5b and newer) and to heavy-duty vehicles first registered as of 1 January 2014 (Euro VI and newer). 2. TERMS AND DEFINITIONS
+Adjustment: Set of operations carried out on a measuring system so that it provides prescribed indications corresponding to given values of a quantity to be measured (VIM 3.11)
+Counting efficiency: The ratio of the PN-PTI instrument reading and a traceable reference instrument or device reading
+Correction: Compensation for an estimated systematic effect (VIM 2.53)
+Disturbance: Influence quantity having a value within the limits specified in these guidelines but outside the rated operating conditions of the measuring instrument (OIML D 11)
+Expanded uncertainty: Product of a standard measurement uncertainty, obtained using the individual standard measurement uncertainties associated with the input quantities in a measurement model, and a factor larger than the number one (VIM 2.35 & VIM 2.31)
+HEPA filter (High-Efficiency Particulate Air Filter): A device that removes particles from the air with efficiency higher than 99,95 % (i.e. class H13 or higher according to EN 1822-1:2019)
+Indication: Quantity value provided by a measuring instrument or a measuring system (VIM 4.1)
+Influence quantity: Quantity that, in a direct measurement, does not affect the quantity that is actually measured, but affects the relation between the indication and the measurement result (VIM 2.52)
+Legally relevant software: Any part of the software, including stored parameters, which has an influence on the calculated, displayed, transmitted, or stored measurement result (OIML R 99)
+Maintenance: Precisely defined periodic maintenance and periodic adjustment work in order to keep a measuring instrument in an operational condition
+Maximum permissible error ('MPE'): Extreme value of measurement error, with respect to a known reference quantity value, permitted by specifications or regulations for a given measurement, measuring instrument, or measuring system (VIM 4.26)
+Measurement error: Measured quantity value minus a reference quantity value (VIM 2.16)
+Measurement result: Set of quantity values being attributed to a measurand together with any other available relevant information (VIM 2.9)
+Measuring range: Set of values of quantities of the same kind that can be measured by a given measuring instrument or measuring system with specified instrumental measurement uncertainty, under defined conditions (VIM 4.7)
+National metrological institute (NMI): The metrological institute responsible for type examination of PN-PTI instruments in a Member State
+Particle detector: Device or instrument that indicates the presence of particles when a threshold value of PN concentration is exceeded
+Particle(s): Solid (thermally stable) particles with size between 23 nm and at least 200 nm emitted by the vehicle and measured in the airborne phase according to the methods specified in these guidelines
+—
+Monodisperse particles: Particles with a very narrow distribution around one particle size
+—
+Polydisperse particles: Particles with many different particle sizes
+Particle size: Electrical mobility size, i.e. the diameter of a sphere with the same migration velocity in a constant electric field as the particle of interest
+PN-PTI instrument: Instrument for measuring the PN concentration in the exhaust gas of internal combustion engines sampled during the PTI in the tailpipe of a vehicle
+PN-PTI instrument type: All instruments from the same manufacturer with the same working principle, hardware and software calculation and correction algorithms
+Rated operating conditions: Operating conditions that should be fulfilled during measurement in order that a measuring instrument or measuring system perform as designed (VIM 4.9)
+Reference operating condition: Operating condition prescribed for evaluating the performance of a measuring instrument or measuring system or for comparison of measurement results (VIM 4.11)
+Resolution of the displaying device: Smallest difference between displayed indications that can be meaningfully distinguished (VIM 4.15)
+Response time: Duration between the instant when an input quantity value of a measuring instrument or measurement system is subjected to an abrupt change between two specified constant quantity values and the instant when a corresponding indication settles within specified limits around its final steady value (VIM 4.23, see OIML V 2-200 (2012) International Vocabulary of Metrology - Basic and General Concepts and Associated Terms in the list of sources at the end of these guidelines)
+Sample preconditioning device: Device for diluting and/or removing volatile particles
+Sampling probe: Tube that is introduced into the exhaust tail pipe of a vehicle to take gas samples (OIML R 99)
+Significant fault: Fault, which has a magnitude greater than the magnitude of the maximum permissible error (MPE) on initial verification (OIML R 99)
+Test result: The final measurement result for a vehicle tested with the PN-PTI measurement procedure described in Section 7
+Traceable: Metrological traceability, i.e. the property of a measurement result whereby the result can be related to a reference through a documented unbroken chain of calibrations, each contributing to the measurement uncertainty (VIM 2.41)
+Verification: Provision of objective evidence that a given item fulfils specified requirements, in the context of the examination and marking and/or issuing of a verification certificate for a measuring system or instrument (VIM 2.44)
+Warm-up time: Elapsed time between the moment power is applied to an instrument and the moment at which the instrument is capable of complying with the metrological requirements (OIML R 99)
+Zero-setting facility or procedure: Facility or procedure to set the indication of the instrument to zero (OIML R99)
+3. DESCRIPTION OF THE INSTRUMENT AND INSCRIPTION
+3.1. Description of the PN-PTI instrument
+The main PN-PTI instrument components should be as follows: —
+A sampling probe introduced in the tail pipe of an operating vehicle to collect the exhaust gas sample; —
+A sampling line to transport the sample to the instrument (optional); —
+A sample preconditioning device to dilute high particle concentration by a constant dilution factor and/or to remove volatile particles of the sample (optional); —
+Detection device(s) to measure the PN concentration of the gas sample; it is permissible that the particle detector also pre-conditions the gas;
+recital 4
+(4) Existing methods developed by certain Member States, the findings of laboratory tests carried out by the Joint Research Centre of the Commission (2), as well as the results of the consultation of the Roadworthiness Expert Group have been duly taken into account when elaborating such guidelines.
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 292 thereof,
+Whereas:
+recital 5
+(5) Since the applicability of such guidelines has not been tested for vehicles equipped with positive ignition engines, the scope of the guidelines should be limited to those equipped with compression ignition engines and having a solid particle number limit at their type-approval.
+
+This means light-duty diesel vehicles first registered as of 1 January 2013 (Euro 5b and newer) (3) and heavy-duty diesel vehicles first registered as of 1 January 2014 (Euro VI and newer) (4). As soon as the same level of confidence is reached regarding a PN measurement method applicable to vehicles equipped with positive ignition engines, corresponding guidelines should be developed.
+recital 1
+(1) In the interests of public health, environmental protection and fair competition, it is important to ensure that vehicles in operation are properly maintained and tested, so that they can maintain their performance as guaranteed by type-approval, without excessive degradation, throughout their lifetime.
+—
+Detection device(s) to measure the PN concentration of the gas sample; it is permissible that the particle detector also pre-conditions the gas; —
+Device(s) to convey the gases through the instrument. In case the particles pass through filter(s) before the detection device, the counting efficiency criteria according to these guidelines should still be met; —
+Device(s) to prevent water condensation from forming in the sampling line and in the instrument; alternatively, this can be also achieved by heating at a higher temperature and/or diluting the sample or oxidising the (semi)volatile species; —
+Filter(s) to remove particles that could cause contamination of various sensitive parts of the PN-PTI instrument. In case the particles pass through such filter(s) before the detection device, the counting efficiency criteria (see Section 4.7) according to these guidelines should still be met; —
+HEPA filter(s) to provide clean air for the zero-level and when applicable the zero-setting procedures (optional in both cases); —
+Ports for in-field verification to introduce ambient air and reference particle samples when required by the technology used; —
+A software to process the signal including an indicating device to display the results of a measurement and a logging device to capture and store data; —
+A control facility to initiate and check instrument operations and a semi-automatic or automatic adjustment facility to set instrument operating parameters within prescribed limits. 3.2. Inscription
+As required by Annex I to the Directive 2014/32/EU of the European Parliament and of the Council (1), the PN-PTI instrument should have a permanent, non-transferrable, and easily readable label or labels. The label(s) are required to include the following information: (1) Manufacturer's name, registered trade name or registered trade mark; (2) Year of manufacture; (3) Number of the type examination certificate; (4) Identity marking; (5) Details of the electrical power: (a) In case of mains power: the nominal mains voltage, frequency and power required,
+(b) In case of power by a road vehicle battery: the nominal battery voltage and power required,
+(c) In case of internal removable battery: the type and nominal voltage of the battery; (6) The minimum and (if applicable) the nominal flow rate; (7) Measuring range; (8) Temperature, pressure, and humidity operation range. If the dimensions of the instrument do not allow including all inscriptions, then they should be included in the manual of the instrument. It is also recommended to include the storage conditions range (temperature, pressure, humidity). An additional label should indicate the date of the last verification of the PN-PTI instrument. For PN-PTI instruments with software-controlled metrological functions, the identification of the legally relevant software is required to be either included at the label or to be displayable on the indicating device. 3.3. Operating instructions
+The manufacturer should provide operating instructions for each instrument in the language(s) of the country in which it will be used. The operating instructions should include: —
+Unambiguous instructions for installation, maintenance, repairs and permissible adjustments; —
+The time intervals and the procedures for maintenance, adjustment and verification that are followed in order to comply with the MPE; —
+A description of the clean air and/or leakage test procedure; —
+If applicable, the "zero-setting" procedure; —
+Ambient air or high PN concentration measurement procedure (optionally); —
+The maximum and minimum storage temperatures; —
+A statement of the rated operating conditions (listed in Section 4.13) and other relevant mechanical and electromagnetic environmental conditions; —
+The range of operating ambient temperatures if it exceeds the range prescribed in rated operating conditions (Section 4.13); —
+If applicable, details about compatibility with ancillary equipment; —
+Any specific operating conditions, for example a limitation of the length of signal or data, or special ranges for the ambient temperature and atmospheric pressure; —
+If applicable, the specifications of the battery; —
+A list of error messages with explanations. 4. METROLOGICAL REQUIREMENTS
+4.1. Indication of the measurement result
+The instrument should ensure that: —
+The PN per volume is expressed as number of particles per cm3; —
+The inscriptions for this unit are assigned unambiguously to the indication; "#/cm3
+ ", "cm-3
+ ", "particles/cm3
+ ", "1/cm3
+ " are allowed. 4.2. Measuring range
+The instrument should ensure that: —
+The minimum measuring range, that may be subdivided, is from 5 000 1/cm3 (maximum value for lower range) to twice the PN-PTI limit value (minimum value for the upper range); —
+The exceedance of the range is indicated visibly by the instrument (e.g. warning message or flashing number); —
+The measuring range is declared by the PN-PTI instrument manufacturer and complies with the minimum range defined in this paragraph. It is recommended that the PN-PTI instrument display range is wider than the measuring range, ranging from zero up to at least five times the PN-PTI limit value. 4.3. Resolution of the displaying device (for digital indicating instruments only)
+The instrument should ensure that: —
+PN concentrations as measurement results are legible, clear and unambiguously shown with their unit to the user; —
+Digital figures are at least 5 mm high; —
+The display provides a minimum resolution of 1 000 1/cm3. If required by the NMI, during type examination/initial verification/subsequent verification access to a minimum resolution of 100 1/cm3 between zero and 50 000 1/cm3 is available. 4.4. Response time
+The instrument should ensure that: —
+For measuring PN concentration, the PN-PTI instrument including the sampling line and sample preconditioning device (if any) indicates 95 % of the final value of a reference PN sample within 15 s after changing from HEPA filtered or ambient air. —
+Optionally, this test may be performed with two different PN concentrations. —
+The PN-PTI instrument may be provided with a logging device to check that requirement. 4.5. Warm-up time
+The instrument should ensure that: —
+The PN-PTI instrument does not indicate the measured PN concentration during the warm-up time; —
+After the warm-up time, the PN-PTI instrument meets the metrological requirements indicated in this Section. 4.6. Maximum permissible error ('MPE')
+The MPE is relative to the actual concentration value (MPErel) or an absolute concentration value (MPEabs), whichever is greater. —
+Reference operating conditions (see Section 4.13): MPErel is 25 % of the actual concentration but not lower than MPEabs
+—
+Rated operating conditions (see Section 4.13): MPErel is 50 % of the actual concentration but not lower than MPEabs
+—
+Disturbances (see Section 4.14): MPErel is 50 % of the actual concentration but not lower than MPEabs
+The MPEabs is recommended to be less than or equal to 25 000 1/cm3.
+4.7. Efficiency requirements
+The counting efficiency requirements are listed below:
+
+|  | Particle size or geometric mean diameter [nm] | Counting efficiency [-] |
+|---|---|---|
+| Required | 23 ± 5 % | 0,2 -0,6 |
+| Optional | 30 ± 5 % | 0,3 -1,2 |
+| Required | 50 ± 5 % | 0,6 -1,3 |
+| Required | 70 or 80 ± 5 % | 0,7 -1,3 |
+| Optional | 100 ± 5 % | 0,7 -1,3 |
+| Optional | 200 ± 10 % | 0,5 -3,0 |
+
+—
+The counting efficiency is determined with monodisperse particles with sizes defined in this Section or with polydisperse particles with geometric mean diameter ('GMD') defined in this Section and geometric standard deviation ('GSD') lower or equal to 1,6; —
+The minimum concentration used for the efficiency tests should be higher than the lower value of the measuring range of the PN-PTI instrument divided by the lower counting efficiency defined for each particle size in this Section.
+—
+The minimum concentration used for the efficiency tests should be higher than the lower value of the measuring range of the PN-PTI instrument divided by the lower counting efficiency defined for each particle size in this Section. E.g. for a lower value of the measuring range 5 000 1/cm3, at 23 nm, the concentration of the particles measured by the reference system should be at least 25 000 1/cm3; —
+Counting efficiency tests are performed under reference operating conditions (see Section 4.13) with thermally stable and soot-like particles. If needed, any neutralization and/or drying of the generated particles takes place before the splitter to the reference and test instrument(s). In case of monodisperse particles testing, the correction for multiple charged particles is not higher than 10 % (and is reported); —
+The reference instrument is a traceable faraday cup electrometer or a traceable particle counter with counting efficiency > 0,5 at 10 nm (combined with a traceable diluter if necessary for polydisperse particles). The expanded uncertainty of the reference system, including the diluter if applicable, is less than 12,5 % but preferably less than or equal to one-third of the MPE at reference operating conditions; —
+If the PN-PTI instrument includes any internal adjustment factor, it should remain the same (fixed) for all tests described in this paragraph. —
+The whole PN-PTI instrument (i.e. including the sampling probe and sampling line, if present) should fulfil the counting efficiency requirements. At the request of the manufacturer, the PN-PTI instrument counting efficiencies may be tested in separate parts at representative conditions inside the instrument. In that case, the efficiency of the whole PN-PTI instrument (i.e. multiplication of efficiencies of all parts) fulfils the counting efficiency requirements. 4.8. Linearity requirements
+The linearity testing should ensure that: —
+The whole PN-PTI instrument is tested for its linearity with thermally stable, polydisperse soot-like particles with GMD 70 ± 10 nm and GSD lower or equal to 1,6; —
+The reference instrument is a traceable particle counter with counting efficiency > 0,5 at 10 nm. The reference instrument may be accompanied by a traceable diluter in order to measure high concentrations, but the entire reference system (diluter + particle counter) expanded uncertainty remains below 12,5 % but preferably less than or equal to one-third of the MPE at reference operating conditions; —
+The linearity tests are done with at least 9 different concentrations within the measuring range and the MPE at reference operating conditions (see Section 4.6) is respected. —
+It is recommended to include at the testing concentrations the lower value of the measuring range, the applicable PN-PTI limit (± 10 %), twice the PN-PTI limit (± 10 %), and PN-PTI limit times 0,2. At least one concentration should be between the PN-PTI limit and the higher value of the measuring range as well as at least 3 concentrations distributed equally between the point where the MPE changes from absolute to relative and the PN-PTI limit. —
+If the device is tested in parts, the linearity check may be limited to the particle detector, but the efficiencies of the rest of the parts should be taken into account for the error calculation. The linearity requirements are summarized below:
+
+| Control location | Reference | Minimum number of tested concentrations | MPE |
+|---|---|---|---|
+| NMI | Traceable particle counter with traceable diluter | 9 | Reference operating conditions (see Section 4.6) | 4.9. Zero-level
+The zero point is tested with a HEPA filter. Zero-level is the average signal of the PN-PTI instrument with a HEPA filter at its inlet over a period of at least 15 s after a stabilization period of at least 15 s. The maximum permissible zero-level is 5 000 1/cm3. 4.10. Volatile removal efficiency
+The volatile removal efficiency testing should ensure that the system achieves > 95 % removal efficiency of tetracontane (C40H82) particles with electrical mobility size 30 nm ± 5 % and with concentration between 10 000 and 30 000 1/cm3. If needed, neutralisation of the tetracontane particles takes place before the splitter to the reference and test instrument(s). Alternatively, polydisperse tetracontane particles may be used with GMD between 30 and 35 nm and total concentration between 50 000 and 150 000 1/cm3. In both cases (testing with monodisperse or polydisperse tetracontane particles), the reference system fulfils the same requirements as described in Section 4.8. Volatile removal efficiency tests with larger tetracontane particle size (monodisperse) or GMD (polydisperse) and/or higher tetracontane concentrations than those described in this Section may be accepted only if the PN-PTI instrument passes the test (> 95 % removal efficiency). 4.11. Stability with time or drift
+For the stability test, the PN-PTI instrument is used in accordance with the manufacturer's operating instructions. The stability testing of the instrument has to ensure that the measurements made by the PN-PTI instrument under stable environmental conditions remain within the MPE at reference operating conditions (see in Section 4.6). No PN-PTI instrument adjustment can be performed during the stability test. If the instrument is equipped with a means for drift compensation, such as an automatic zero or automatic internal adjustment, the action of those adjustments does not produce an indication that can be confused with a measurement of an external gas. The stability measurements are performed for at least 12 h (not necessarily continuously) with nominal concentration of at least 100 000 1/cm3. The comparison to a reference instrument (same requirements as the reference system described in Section 4.8) is done at least every hour. Accelerated stability test of 3 h with nominal concentration at least 10 000 000 1/cm3 is permitted. In this case, the comparison to the reference instrument is done hourly but with nominal concentration 100 000 1/cm3. 4.12. Repeatability
+The repeatability testing should ensure that for 20 consecutive measurements of the same reference PN sample carried out by the same person with the same instrument within relatively short time intervals, the experimental standard deviation of the 20 results is not greater than one third of the MPE (reference operating conditions) for the relevant sample. Repeatability is tested with a nominal concentration of at least 100 000 1/cm3. Between every two consecutive measurements, HEPA filtered airflow or ambient airflow is supplied to the PN-PTI instrument. 4.13. Influence quantities
+—
+Reference operating conditions are presented below.
+
+| Ambient temperature | 20 °C ± 2 °C |
+|---|---|
+| Relative humidity | 50 % ± 20 % |
+| Atmospheric pressure | Stable ambient (± 10 hPa) |
+| Mains voltage | Nominal voltage ± 5 % |
+| Mains frequency | Nominal frequency ± 1 % |
+| Vibration | None/negligible |
+| Voltage of battery | Nominal voltage of the battery | —
+The minimum requirements for rated operating conditions testing are presented below. The MPE specified for "rated operating conditions" applies (see in Section 4.6).
+
+| Ambient temperature (IEC 60068-2-1, IEC 60068-2-2, IEC 60068-3-1) | From + 5 °C (test level index 2 according to OIML D11) (or less if specified by the manufacturer) to + 40 °C (test level index 1 according to OIML D11) (or more if specified by the manufacturer). When critical internal temperatures of the PN-PTI instrument are out of range, then the instrument does not indicate the measured value and indicates a warning |
+|---|---|
+| Relative humidity (IEC 60068-2-78, IEC 60068-3-4, IEC 60068-2-30) | Up to 85 %, no condensation (test level index 1 according to OIML D11) (when used inside) Up to 95 % condensing (when used outside) |
+| Atmospheric pressure | 860 hPa to 1 060 hPa |
+| Ambient temperature (IEC 60068-2-1, IEC 60068-2-2, IEC 60068-3-1) | From + 5 °C (test level index 2 according to OIML D11) (or less if specified by the manufacturer) to + 40 °C (test level index 1 according to OIML D11) (or more if specified by the manufacturer). When critical internal temperatures of the PN-PTI instrument are out of range, then the instrument does not indicate the measured value and indicates a warning |
+|---|---|
+| Atmospheric pressure | 860 hPa to 1 060 hPa |
+| Mains voltage (IEC 61000-2-1, IEC 61000-4-1) | - 15 % to + 10 % of the nominal voltage (test level index 1 according to OIML D11) |
+| Mains frequency (IEC 61000-2-1, IEC 61000-2-2, IEC 61000-4-1) | ± 2 % of the nominal frequency (test level index 1 according to OIML D11) |
+| Voltage of the road vehicle battery (ISO 16750-2) | 12 V battery: 9 V to 16 V; 24 V battery: 16 V to 32 V |
+| Voltage of internal battery | Low voltage, as specified by the manufacturer, up to the voltage of a new or fully charged battery of the specified type | 4.14. Disturbances
+Significant faults as specified in MPE for disturbances (see in Section 4.6) should either not occur or should be detected and acted upon by means of checking facilities in case of the following minimum requirements for disturbances described below.
+
+| Mechanical shock (IEC 60068-2-31) | Handheld: 1 fall of 1 m on each bottom edge Transportable: 1 fall of 25 mm on each bottom edge (test level index 1 according to OIML D11) |
+|---|---|
+| Vibration only for hand-held instruments (IEC 60068-2-47, IEC 60068-2-64, IEC 60068-3-8) | 10 Hz to 150 Hz, 1,6 ms-2, 0,05 m2s-3, -3 dB/octave (test level index 1 according to OIML D11) |
+| AC mains voltage dips, short interruptions and reductions (IEC 61000-4-11, IEC 61000-6-1, IEC 61000-6-2) | 0,5 cycles - reduction to 0 % 1 cycle - reduction to 0 % 25/30 (*) cycles - reduction to 70 % 250/300 (*) cycles - reduction to 0 % (*) For 50 Hz/60 Hz respectively (test level index 1 according to OIML D11) |
+| Burst (transients) on AC mains (IEC 61000-4-4) | Amplitude 2 kV Repetition rate 5 kHz (test level index 3 according to OIML D11) |
+| Burst (transients) on signal, data and control lines (IEC 61000-4-4) | Amplitude 1 kV Repetition rate 5 kHz (test level index 3 according to OIML D11) |
+| Surges on AC mains power lines (IEC 61000-4-5) | Line to line 1,0 kV Line to ground 2,0 kV (test level index 3 according to OIML D11) |
+| Surges on signal, data and control lines (IEC 61000-4-5) | Line to line 1,0 kV Line to ground 2,0 kV (test level index 3 according to OIML D11) |
+| Electrostatic discharge (IEC 61000-4-2) | 6 kV contact discharge 8 kV air discharge (test level index 3 according to OIML D11) |
+| Radiated, radio-frequency, electromagnetic fields (IEC 61000-4-3, IEC 61000-4-20) | 80 (26*) MHz up to 6 GHz, 10 V/m (test level index 3 according to OIML D11) * For an equipment under test, without any cabling to apply the test, the lower frequency limit is 26 MHz |
+| Conducted radio-frequency fields (IEC 61000-4-6) | 0,15 up to 80 MHz, 10 V (e.m.f.) (test level index 3 according to OIML D11) |
+| Power frequency for magnetic fields (IEC 61000-4-8) | Continuous 100 A/m Short duration 1 000 A/m for 1 s (test level index 5 according to OIML D11) |
+| For instruments powered by a road vehicle battery: | For instruments powered by a road vehicle battery: |
+| Electrical transient conduction along supply lines | Pulses 2a, 2b, 3a, 3b, test level IV (ISO 7637-2) |
+| Electrical transient conduction via lines other than supply lines | Pulses a and b, test level IV (ISO 7637-3) |
+| Load dump | Test B (ISO 16750-2) |
+
+5. TECHNICAL REQUIREMENTS
+5.1. Construction
+The instrument should fulfil the following specifications: —
+All parts from the exhaust pipe up to the particle detector, which are in contact with raw and diluted exhaust gas, are made of corrosion-resistant material and do not influence the composition of the gas sample. The material of the sampling probe withstands the exhaust gas temperature; —
+The PN-PTI instrument incorporates good particle sampling practises for minimization of particle losses; —
+The sampling probe is so designed that it can be inserted at least 0,2 m (at least 0,05 m in justified exemptions) into the exhaust tail pipe of the vehicle and be securely held in place by a retaining device regardless of the depth of insertion and the tail pipe shape, size, and wall thickness. The sampling probe design facilitates sampling at the inlet of the sampling probe without touching the wall of the exhaust tail pipe; —
+The instrument either contains a device that prevents water condensation from forming in the sampling and measuring components or a detector that gives an alarm and prevents a measurement result to be indicated. Some examples of devices or techniques that can prevent water condensation are heating of sampling line or dilution with ambient air near the sampling probe; —
+If an adjustment reference is needed due to the measurement technique, simple means to provide such a sample (for example a sample/adjustment/verification port) is available with the instrument; —
+When a dilution unit is included in the PN-PTI instrument, the dilution factor remains constant during a measurement; —
+The device conveying the exhaust gas is mounted so that its vibrations do not affect the measurements. It can be switched on and off by the user separately from the other instrument components. However, no measurement can be performed when it is switched off. The gas handling system should be flushed automatically with ambient air before the device conveying the exhaust gas is switched off; —
+The instrument is equipped with a device that indicates when the gas flow rate is lower than the minimum flow rate and, thus, the flow decreases to a level that would cause the detection to exceed either the response time or the MPE at reference operating conditions (see in 4.f). Additionally, and according to the technology used, the particle detector is equipped with temperature, current, voltage or any other relevant sensors that monitor critical parameters for the operation of PN-PTI instrument in order to remain within the MPE specified in these guidelines; —
+The sample preconditioning device (when applicable) has to be airtight to such an extent that the influence of dilution air on the measurement results is not more than 5 000 1/cm3; —
+The instrument may be equipped with an interface permitting coupling to any peripheral device(s) or other instrument(s), as long as the metrological functions of the instrument(s) or their measurement data are not influenced by the peripheral devices, by other interconnected instruments or by disturbances acting on the interface. Functions that are performed or initiated via an interface meet the relevant requirements and conditions. If the instrument is connected to a data printer or an external data storage device, then the data transmission from the instrument to the printer is designed so that the results cannot be falsified. It is not possible to print out a document or store the measuring data in an external device (for legal purposes) if the instrument checking facility(ies) detect(s) a significant fault or a malfunction. The PN-PTI instrument interface respects the requirements of OIML D 11 and OIML D 31; —
+The PN-PTI instrument has a reporting frequency equal to or greater than 1 Hz; —
+The instrument is designed according to good engineering practice to ensure that particle counting efficiencies are stable across the test; —
+The PN-PTI instrument or the device with the relevant software permits the logging time defined by the measurement procedure described in Section 7 and reports the measurement and the test result according to the measurement procedure; —
+The PN-PTI instrument or the device with the relevant software guides the user through the steps described in the measurement procedure described in Section 7;
+—
+The PN-PTI instrument or the device with the relevant software guides the user through the steps described in the measurement procedure described in Section 7; —
+Optionally the PN-PTI instrument or the device with the relevant software may count the hours of operation in measurement mode. 5.2. Requirements for ensuring correct operation
+—
+If the detection of one or more of disturbances is achieved by the use of automatic self-checking facilities, then it should be possible to check the correct functioning of such facilities; —
+The instrument is controlled by an automatic checking facility that operates in such a way that, before a measurement can be indicated or printed, all adjustments, and all other checking facility parameters are confirmed for proper values or status (i.e. within limits); —
+The following checks are integrated: (1) The PN-PTI instrument automatically and continuously monitors relevant parameters that have a significant influence on the measuring principle used (e.g. sample volume flow, detector temperature). If intolerable deviations occur, no measured value is displayed. If the PN-PTI requires a working fluid, performing measurements is not possible, if its level is not sufficient; (2) Memory test with clear verification of the software and function of the most important assemblies (automatically after each switch-on, then at the latest after each change of day); (3) A clean air or leakage test procedure to detect the specific maximum leakage (at least with each self-test, recommended before each measurement). If the measured value is larger than 5 000 1/cm3, the instrument does not allow the user to further proceed with the measurement; (4) If required by the measuring principle, a zero-setting procedure performed with a HEPA filter at the inlet of the PN-PTI instrument (at least with each self-test, recommended before each measurement); —
+Optionally, the PN-PTI instrument may integrate an ambient air or high PN concentration measurement procedure check, performed before the clean air or leakage test procedure, in which the PN-PTI instrument detects more particles than a predefined PN concentration; —
+Instruments equipped with an automatic adjustment facility or a semi-automatic adjustment facility allow the user to make a measurement only after correct adjustments have been completed; —
+Instruments equipped with a semi-automatic adjustment facility do not allow the user to make a measurement when an adjustment is required; —
+A means for warning of a required adjustment may be provided for both automatic and semi-automatic adjustment facilities; —
+Effective sealing devices are provided on all parts of the instrument that are not materially protected in another way against operations liable to affect the accuracy or the integrity of the instrument. This applies in particular to: (a) adjustment means, (b) software integrity (see also OIML D 31 normal risk level or WELMEC 7.2 risk class C requirements); —
+The legally relevant software is clearly identified. The identification is displayed or printed: (a) on command, or (b) during operation, or (c) at start up for a measuring instrument that can be turned off and on again. All relevant provisions in OIML D 31 normal risk level or WELMEC 7.2 risk class C apply; —
+Software is protected in such a way that evidence of any intervention (e.g. software updates, parameters changes) is available. All relevant provisions in OIML D 31 normal risk level or WELMEC 7.2 risk class C apply; —
+The metrological characteristics of an instrument are not influenced in any inadmissible way by connecting it to another device, by any feature of the connected device itself or by any remote device that communicates with the measuring instrument (Annex I to Directive 2014/32/EU); —
+A battery-operated instrument functions correctly with new or fully charged batteries of the specified type and either continues to function correctly or does not indicate any values whenever the voltage is below the manufacturer's specified value. Specific voltage limits for road vehicle batteries are prescribed in rated operating conditions (see Section 4.13). 6. METROLOGICAL CONTROLS
+Metrological requirements are tested in three different stages: —
+Type examination
+—
+Initial verification
+—
+Subsequent verification
+6.1. Type examination
+Compliance check is conducted for metrological requirements specified in Section 4 and technical requirements specified in Section 5, applied to at least one PN-PTI instrument, which represents the definitive instrument type. Tests are performed by a NMI. 6.2. Initial verification
+For each PN-PTI instrument produced, the instrument manufacturer or a notified body chosen by the manufacturer does an initial verification. The initial verification includes a linearity test with polydisperse particles with monomodal size distribution, GMD 70 ± 20 nm and GSD lower or equal to 2,1. The linearity check is performed with 5 reference PN samples. The MPE at reference operating conditions applies (see Section 4.6). The 5 reference PN samples concentration cover from one fifth of the PN-PTI limit to two times the PN-PTI limit (including those two concentrations, ±10 %) and also includes the PN-PTI limit (± 10 %). The reference system consists of a traceable particle counter with counting efficiency at 23 nm higher or equal than 0,5 or fulfilling Section 4.7. The particle counter may be accompanied by a traceable diluter. The expanded uncertainty of the entire reference system remains below 12,5 % but preferably less than or equal to one-third of the MPE at reference operating conditions. The material used for initial verification is thermally stable and soot-like. Other materials (e.g. salt particles) may be used. The entire experimental setup used for initial verification (particle generator, PN-PTI instrument and reference system) is tested by the responsible NMI (preferably during the type examination of the PN-PTI instrument) and a setup correction factor to the NMI's type examination testing is determined. The setup correction factor takes under consideration differences between type examination and initial verification tests that arise from e.g. the particles material and the particle size distribution as well as the different reference instruments. The setup correction factor should be constant over the aforementioned concentration range (coefficient of variation less than 10 %) and is recommended to be in the range from 0,65 to 1,5. When the reference system or the particle generator change, the initial verification experimental setup is tested again by the responsible NMI. Initial verification linearity requirements are summarized below:
+
+| Control location | Reference instrument | Minimum number of concentrations | MPE |
+|---|---|---|---|
+| Manufacturer or a notified body chosen by the manufacturer | Traceable particle counter (optionally with a traceable diluter) | 5 | Reference operating conditions (see Section 4.6) |
+
+Additional tests during the initial verification include: —
+a visual inspection to determine conformance with the approved PN-PTI instrument type,
+—
+a check of the power supply voltage and frequency at the location of use to determine compliance with the specifications on the measuring instrument's label,
+—
+a clean air or leakage test (as described in the operating instructions),
+—
+a zero-level test (as described in Section 4.9) if it differs from the clean air or leakage check,
+—
+a low gas flow check by restricting the gas flow supplied to the sampling probe,
+—
+a response time check. Optionally, high PN concentration, counting efficiency and repeatability tests may be performed. 6.3. Subsequent verification
+Subsequent verification of the accuracy of the PN-PTI instrument should take place whenever required by the instrument manufacturer, but no later than one year from the latest verification.
+6.3. Subsequent verification
+Subsequent verification of the accuracy of the PN-PTI instrument should take place whenever required by the instrument manufacturer, but no later than one year from the latest verification. Subsequent verification is a test performed at 3 different concentrations with polydisperse particles with monomodal size distribution, GMD 70 ± 20 nm and GSD lower or equal to 2,1. The MPE at rated operating conditions applies. The concentrations used for the test are one fifth of the PN-PTI limit, the PN-PTI limit, and twice the PN-PTI limit (concentrations within 20 %). The subsequent verification test may be done either (i) in the premises of the manufacturer or of a notified body chosen by the manufacturer or (ii) at the place of use of the PN-PTI instrument. When the subsequent verification is performed in the premises of the manufacturer or of a notified body chosen by the manufacturer using the same approved setup for the initial verification, the same setup correction factor applies. When the subsequent verification is performed at the place of use of the PN-PTI instrument, the portable setup comprises a portable particle generator and a portable reference system (traceable particle counter and optionally a traceable diluter). The particle size distribution produced by the portable particle generator is required to fulfil the GMD and GSD defined in Section 6.2 for a total of at least 3 h spread over 3 different days under the same conditions that will be used in the field. That test is required to be repeated at least annually. The portable reference system fulfils the same requirements as the reference systems used for initial verification linearity tests (see Section 6.2) but its expanded uncertainty at rated operating conditions remains below 20 % but preferably less than or equal to one-third of the MPE at rated operating conditions. The entire portable experimental setup used for subsequent verification (portable particle generator, PN-PTI instrument and reference system) is tested by the responsible NMI and a setup correction factor to the NMI's type examination testing is determined. The setup correction factor takes into consideration differences between type examination and subsequent verification tests that arise from e.g. the particles material and the particle size distribution as well as the different reference instruments. The setup correction factor should be constant over the Subsequent verification testing concentration range (coefficient of variation less than 10 %) and is recommended to be in the range from 0,65 to 1,5. When the portable reference system or the portable particle generator change, a new approval by the NMI is required. The subsequent verification linearity requirements are summarized below:
+
+| Control location | Reference instrument | Minimum number of concentrations | MPE |
+|---|---|---|---|
+| Manufacturer or notified body facilities or field | Traceable particle counter (optionally with a traceable diluter) | 3 | Rated operating conditions (see Section 4.6) |
+
+Additional tests during the subsequent verification include: —
+a visual inspection to determine the validity of the previous verification and the presence of all required stamps, seals and documents,
+—
+a clean air or leakage check (as described in the operating instructions),
+—
+a zero-level test (as described in Section 4.9) if it differs from the clean air or leakage check,
+—
+a low gas flow check by restricting the gas flow supplied to the sampling probe,
+—
+a response time check,
+—
+a high PN concentration test (optionally). 7. MEASUREMENT PROCEDURE
+The PN concentration test is applied to vehicles described in Section 1 and determines the particles per cubic centimetre in the exhaust gases of a stationary vehicle at low idling engine operation. The test is not performed during the regeneration of the vehicle's DPF. Vehicle preparation
+At the beginning of the test the vehicle should be: —
+Hot, i.e., engine coolant temperature > 60 °C but preferably > 70 °C
+—
+Conditioned, by operating for a period of time at low idling and/or performing stationary accelerations up to maximum 2 000 rpm engine speed or by driving. Conditioning is done in order to ensure that the DPF efficiency is not influenced by a recent regeneration. Conditioning time is considered the period in which the engine is switched on including pre-test phases (e.g., stabilization phase). The recommended total conditioning time is 300 s.
+A fast pass test is possible with engine coolant temperature < 60 °C. However, if the vehicle fails to pass the test, then the test is repeated and the vehicle should fulfil the requirements set for the engine coolant temperature and the conditioning. PN-PTI instrument preparation
+—
+The PN-PTI instrument is powered on for at least the warm-up time indicated by the manufacturer; —
+Self-checks of the instrument defined in Section 5 monitor the proper operation of the instrument during operation and trigger a warning or message in case of malfunction; Before each test, the good condition of the sampling system is verified, including checking the sampling hose and probe for damage. Test procedure
+—
+Before the start of a measurement, the following data is registered: (a) vehicle registration number,
+(b) vehicle identification number,
+(c) type-approved emissions level (Euro emission standard); —
+The software of the particle counter automatically guides the instrument operator through the test procedure; —
+The probe is inserted at least 0,20 m into the outlet of the exhaust system. In justified exemptions where sampling at this depth is not possible, the probe is inserted at least 0,05 m. The sampling probe does not touch the walls of the tailpipe; —
+If the exhaust system has more than one outlet, the test is done to all of them and the respective PN-PTI limit is respected at all tests. In this case, the highest measured PN concentration measured at different exhaust system outlets is considered to be the vehicle's PN concentration; —
+The vehicle operates at low idling. In case the engine of a vehicle is not switched on at static conditions then the start/stop system is deactivated by the test operator. For hybrid and plug-in hybrid vehicles, the thermal engine is required to be switched on (e.g., by switching on the air-conditioning system for hybrids or by selecting battery charging mode for plug-in hybrids); —
+After the probe has been inserted into the tailpipe, the following steps are followed for the PN-PTI test: (a) A stabilization period of at least 15 seconds with the engine running at idle speed. Optionally, before the stabilization period 2-3 accelerations up to maximum 2 000 rpm engine speed are performed,
+(b) After the stabilisation period, the PN concentration emissions are measured. The duration of the test is at least 15 s (total measurement duration). The test result is the average PN concentration of the measurement duration. If the measured PN concentration is more than two times the PN-PTI limit then the measurement may stop immediately before waiting for 15 s to elapse and the test result is reported. After the completion of the test procedure, the PN-PTI instrument reports (and stores or prints) the average PN concentration of the vehicle and a "PASS" or "FAIL" message. —
+If the test result is less than or equal to the PN-PTI limit, the instrument reports a "PASS" message and the test was passed. —
+If the test result is greater than the PN-PTI limit, the instrument reports a "FAIL" message and the test failed. 8. PN-PTI LIMIT
+Vehicles that are subject to the PN concentration test described in Section 1 should respect the PN-PTI limit of 250 000 (1/cm3) after being tested with a PN-PTI instrument that fulfils the requirements set out in these guidelines and following the measurement procedure described in Section 7. These guidelines may be applied to a single PN-PTI limit from 250 000 (1/cm3) up to 1 000 000 (1/cm3).
+These guidelines may be applied to a single PN-PTI limit from 250 000 (1/cm3) up to 1 000 000 (1/cm3). 9. LIST OF SOURCES
+ISO standards
+ISO 16750-2 Ed. 4.0 (2012), Road vehicles - Environmental conditions and testing for electrical and electronic equipment - Part 2: Electrical loads
+ISO 7637-2 (2011) Road vehicles - electrical disturbance from conducting and coupling - Part 2: Electrical transient conduction along supply lines only
+ISO 7637-3 (2007) Road vehicles - electrical disturbance from conducting and coupling - Part 3: Passenger cars and light commercial vehicles with nominal 12 V supply voltage and commercial vehicles with 24 V supply voltage - Electrical transient transmission by capacitive and inductive coupling via lines other than supply lines
+IEC standards
+IEC 60068-2-1 Ed. 6.0 (2007-03), Environmental testing - Part 2: Test methods - Section 1: Test A: Cold
+IEC 60068-2-2 Ed. 5.0 (2007-07), Environmental testing - Part 2: Test methods - Section 1: Test B: Dry heat
+IEC 60068-3-1 Ed. 2.0 (2011-08), Environmental testing - Part 3: Supporting documentation and guidance - Section 1: Cold and dry heat tests
+IEC 60068-2-78 Ed. 2.0 (2012-10), Environmental testing - Part 2: Test methods - Section 78: Test cab: Damp heat, steady state
+IEC 60068-2-30 Ed. 3.0 (2005-08), Environmental testing - Part 2: Test methods - Section 30: Test Db: Damp heat, cyclic (12 + 12 hour cycle)
+IEC 60068-3-4 Ed. 1.0 (2001-08), Environmental testing - Part 3: Supporting documentation and guidance - Section 4: Damp heat tests
+IEC 61000-2-1 Ed. 1.0 (1990-05), Electromagnetic compatibility (EMC) - Part 2: Environment - Section 1: Description of the environment - Electromagnetic environment for low-frequency conducted disturbances and signalling in public power supply systems
+IEC 61000-4-1 Ed. 3.0 (2006-10), Basic EMC publication - Electromagnetic compatibility (EMC) - Part 4: Testing measurement techniques - Section 1: Overview of IEC 61000-4 series
+IEC 61000-2-2 Ed. 1.0 (1990-05), Electromagnetic compatibility (EMC) - Part 2: Environment - Section 2: Compatibility levels for low-frequency conducted disturbances and signalling in public low-voltage power supply systems
+IEC 60068-2-31 Ed. 2.0 (2008-05), Environmental testing - Part 2: Test methods - Section 31: Test Ec: Rough handling shocks, primarily for equipment-type specimens
+IEC 60068-2-47 Ed. 3.0 (2005-4), Environmental testing - Part 2: Test methods - Section 47: Mounting of specimens for vibration, impact and similar dynamic tests
+IEC 60068-2-64 Ed. 2.0 (2008-04), Environmental testing - Part 2: Test methods - Section 64: Test Fh: Vibration, broad-band random and guidance
+IEC 60068-3-4 Ed. 1.0 (2003-08), Environmental testing - Part 3: Supporting documentation and guidance - Section 8: Selecting amongst vibration tests
+IEC 61000-4-11 Ed. 2.0 (2004-03), Basic EMC publication - Electromagnetic compatibility (EMC) - Part 4: Testing measurement techniques - Section 11: Voltage dips, short interruptions and voltage variations immunity tests
+IEC 61000-6-1 Ed. 2.0 (2005-3), Basic EMC publication - Electromagnetic compatibility (EMC) - Part 6: Generic standards - Section 1: Immunity for residential, commercial and light-industrial environments
+IEC 61000-6-2 Ed. 2.0 (2005-01), Basic EMC publication - Electromagnetic compatibility (EMC) - Part 6: Generic standards - Section 2: Immunity for industrial environments
+IEC 61000-4-4 Ed. 3.0 (2012-04), Basic EMC publication - Electromagnetic compatibility (EMC) - Part 4: Testing measurement techniques - Section 4: Electrical fast transient/burst immunity test
+IEC 61000-4-5 Ed. 2.0 (2005-11) Correction 1 on Ed. 2.0 (2009-10), Basic EMC publication - Electromagnetic compatibility (EMC) - Part 4: Testing measurement techniques - Section 5: Surge immunity test
+IEC 61000-4-2 Ed. 2.0 (2008-12), Basic EMC publication - Electromagnetic compatibility (EMC) - Part 4: Testing measurement techniques - Section 2: Electrostatic discharge immunity test
+IEC 61000-4-3 Ed. 3.2 (2010-04), Basic EMC publication - Electromagnetic compatibility (EMC) - Part 4: Testing measurement techniques - Section 3: Radiated, radio-frequency, electromagnetic field immunity test
+IEC 61000-4-20 Ed. 2.0 (2010-08), Basic EMC publication - Electromagnetic compatibility (EMC) - Part 4: Testing measurement techniques - Section 20: Emission and immunity testing in transverse electromagnetic (TEM) waveguides
+IEC 61000-4-6 Ed. 4.0 (2013-10), Basic EMC publication - Electromagnetic compatibility (EMC) - Part 4: Testing measurement techniques - Section 6: Immunity to conducted disturbances, induced by radio-frequency fields
+IEC 61000-4-8 Ed. 2.0 (2009-09), Basic EMC publication - Electromagnetic compatibility (EMC) - Part 4: Testing measurement techniques - Section 8: Power frequency magnetic field immunity test
+European standards
+EN 1822-1:2019-10, Particulate air filters (EPA, HEPA and ULPA) - Part 1: Classification, performance testing, marking
+OIML publications
+OIML R 99-1 & 2 (2008) Instruments for measuring vehicle exhaust emissions
+OIML V 2-200 (2012) International Vocabulary of Metrology - Basic and General Concepts and Associated Terms (VIM)
+OIML D 11 (2013) General requirements for measuring instruments - Environmental conditions
+(1) Directive 2014/32/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of measuring instruments (OJ L 96, 29.3.2014, p. 149).

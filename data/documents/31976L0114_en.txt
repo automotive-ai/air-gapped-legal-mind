@@ -1,0 +1,448 @@
+4. CHARACTERS
+ANNEX
+4. CHARACTERS
+1.1. All vehicles must be provided with the plate and inscriptions described in the following sections.
+
+The plate and inscriptions shall be attached either by the manufacturer or by his authorized representative. 2.1. A manufacturer's plate, modelled on that shown in the appendix hereto, must be firmly attached in a conspicuous and readily accessible position on a part not subject to replacement in use. It must show clearly and indelibly the following information in the order listed: 2.1.1. Name of the manufacturer. 2.1.2. EEC type-approval number
+►M1
+ (
+4
+) ◄ .
+This number is composed of a small letter 'e' followed, in the order given, by the distinguishing number or letters of the country which granted the EEC type-approval 
+►A2
+ (1 for Germany, 2 for France, 3 for Italy, 4 for the Netherlands, 6 for Belgium, 9 for Spain, 11 for the United Kingdom, 13 for Luxembourg, 18 for Denmark, 
+►M2
+ EL for Greece ◄ , IRL for Ireland, P for Portugal
+►
+►
+ , 12 for Austria, 17 for Finland, 5 for Sweden ◄ 
+ ◄ 
+►A4
+ , 8 for the Czech Republic, 29 for Estonia, CY for Cyprus, 32 for Latvia, 36 for Lithuania, 7 for Hungary, MT for Malta, 20 for Poland, 26 for Slovenia, 27 for Slovakia ◄ 
+►M3
+ , 34 for Bulgaria, 19 for Romania ◄ , 
+►M4
+ 25 за Хърватия ◄ ) ◄ and by the type-approval number corresponding to the number on the type-approval certificate for the type of vehicle. An asterisk shall be placed between the letter 'e' and the distinguishing number or letters of the country which granted the EEC type-approval, and between the distinguishing number or letters and the type-approval number. 2.1.3. Vehicle identification number. 2.1.4. Maximum permitted laden 
+►M1
+ mass ◄ of the vehicle. 2.1.5. Maximum permitted laden 
+►M1
+ mass ◄ for the combination, where the vehicle is used for towing. 2.1.6. Maximum permitted road 
+►M1
+ mass ◄ for each axle, listed in order from front to rear. 2.1.7. In the case of a semi-trailer, the maximum permitted 
+►M1
+ mass ◄ on the fifth wheel king pin. 2.1.8. The requirements of 2.1.4 to 2.1.7 shall not enter into force until 12 months have elapsed from the date of adoption of the Council Directive on 
+►M1
+ masses ◄ and dimensions of motor vehicles and their trailers. In the meantime, however, a Member State may require that the maximum permitted 
+►M1
+ masses ◄ prescribed in its national legislation be shown on the plate of any vehicle which has entered into service in its territory. If the technically permissible 
+►M1
+ mass ◄ is higher than the maximum permitted 
+►M1
+ mass ◄ , the Member State in question may request that the technically permissible 
+►M1
+ mass ◄ also be stated. The 
+►M1
+ mass ◄ would be set out in two columns: the maximum permitted 
+►M1
+ mass ◄ on the left and the technically permissible 
+►M1
+ mass ◄ on the right. 2.2
+The manufacturer may give additional information below or to the side of the prescribed inscriptions, outside a clearly marked rectangle which shall enclose only the information prescribed in 2.1.1 to 2.1.8 (see the Appendix to this Annex). The vehicle identification number is a fixed combination of characters assigned to each vehicle by the manufacturer. Its purpose is to ensure that every vehicle can be clearly identified over a period of 30 years through the intermediary of the manufacturer, without there being a need for reference to further data. The vehicle identification number must conform to the following requirements: ▼M1
+3.1. It must be marked on the manufacturer's plate, and also on the chassis, frame or other similar structure. 3.1.1. It must consist of three sections. 3.1.1.1. The first section shall consist of a code assigned to the vehicle manufacturer to enable him to be identified. The code shall comprise three characters, letters or figures which shall be assigned by the competent authorities of the country where the manufacturer has his principal place of business, by agreement with the international agency acting under the authority of the International Organization for Standardization (ISO). The first character shall designate a geographical area, the second a country within a geographical area, and the third a specific manufacturer. Where the manufacturer produces less than 500 vehicles per year, the third character shall always be '9'. In order to identify such manufacturers, the competent authority referred to above shall also assign the third, fourth and fifth characters of the third section. 3.1.1.2. The second section shall be composed of six characters (letters or figures) which shall serve to indicate the general characteristics of the vehicle. If the manufacturer does not use one or more of these characters, the unused spaces must be filled by alphabetical or numerical characters, of the manufacturer's choice. 3.1.1.3. The third section, composed of eight characters, of which the last four must be numerical, must in conjunction with the other two sections provide clear identification of a particular vehicle. Any unused space must be filled by a zero in order that the total number of characters required may be fulfilled. 3.1.2. It must wherever possible be marked on a single line. As an exception, for technical reasons, it may also be marked on two lines. However, in this latter case no section may be divided between the two lines. The beginning and end of each line must be indicated by a symbol which is neither an arabic numeral nor a roman capital letter, and which cannot be confused with either. This requirement may be waived in the case of manufacturer's plates where the number is marked on one line only. It is also permissible to place such a symbol between the three sections on one line (point 3.1.1). There must be no spaces between the characters. ▼B
+3.2. The identification number must, moreover: 3.2.1. be marked on the chassis, frame or other similar structure, on the right-hand side of the vehicle; 3.2.2. be placed in a clearly visible and accessible position by a method such as hammering or stamping, in such a way that it cannot be obliterated or deteriorate. 4.1. Roman letters and arabic numerals must be used for all the markings provided for in sections 2 and 3. However, the roman letters used in the markings provided for in 2.1.1 and 2.1.3 and 3 must be capital letters. 4.2. For the vehicle identification number: 4.2.1. use of the letters I, O and Q and dashes, asterisks and other special signs, other than the symbols referred to in the final paragraph of 3.1.2, is not permitted; 4.2.2. the minimum height of the letters and figures shall be as follows: 4.2.2.1. 7 mm for characters marked directly on the chassis, frame or other similar structure of the vehicle; 4.2.2.2. 4 mm for characters marked on the manufacturer's plate. ▼M1
+APPENDIX
+Example No 2
+MODEL OF THE MANUFACTURER'S PLATEThe examples below do not prejudice the data which are actually to appear on manufacturers' plates. They are merely given as a guide. Example as for category M1 vehicle.Additional information as provided for in 2.2 may be given below or to the side of the prescribed data (see rectangles shown with dotted lines in the above model). Example as for category N3 vehicle.Additional information as provided for in 2.2 may be given below or to the side of the prescribed data (see rectangles shown with dotted lines in the above model). (
+1
+) OJ No C 5, 8. 1. 1975, p. 41.(
+2
+) OJ No C 47, 27. 2. 1975, p. 4.(
+3
+) OJ No L 42, 23. 2. 1970, p. 1.(
+4
+) If a vehicle has not been given EEC type-approval and therefore does not have an EEC type approval number, a Member State may require that the national type-approval number be indicated. If a national type-approval number is required to be indicated the manufacturer can place it either on a plate separate from the manufacturer's plate or on the manufacturer's plate itself.
+Article 3
+No Member State may refuse registration or prohibit the sale, entry into service or use of a vehicle on grounds relating to the statutory plates and inscriptions and their location and method of attachment, if these satisfy the requirements set out in the Annex to this Directive.
+Council Directive 76/114/EEC of 18 December 1975 on the approximation of the laws of the Member States relating to statutory plates and inscriptions for motor vehicles and their trailers, and their location and method of attachment
+Council Directiveof 18 December 1975on the approximation of the laws of the Member States relating to statutory plates and inscriptions for motor vehicles and their trailers, and their location and method of attachment(76/114/EEC)THE COUNCIL OF THE EUROPEAN COMMUNITIES,Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,Having regard to the proposal from the Commission,Having regard to the opinion of the European Parliament [1],Having regard to the opinion of the Economic and Social Committee [2],Whereas the technical requirements which motor vehicles must satisfy pursuant to national laws relate inter alia to statutory plates and inscriptions, and their location and methods of attachment;Whereas those requirements differ from one Member State to another; whereas it is therefore necessary that all Member States adopt the same requirements either in addition to or in place of their existing rules, in order, in particular, to allow the EEC type-approval procedure, which was the subject of Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers [3], to be applied in respect of each type of vehicle;Whereas the approximation of national laws relating to motor vehicles involves the mutual recognition by Member States of the inspections carried out by each of them on the basis of common provisions; whereas, for such a system to function successfully, these provisions must be applied by all Member States with effect from the same date,HAS ADOPTED THIS DIRECTIVE:Article 1For the purposes of this Directive, "vehicle" means any motor vehicle intended for use on the road, with or without bodywork, having at least four wheels and a maximum design speed exceeding 25 km/h, and its trailers, with the exception of vehicles which run on rails, agricultural or forestry tractors and machinery, and public works vehicles.Article 2No Member State may refuse to grant EEC type-approval or national type-approval of a vehicle on grounds relating to the statutory plates and inscriptions and their location and method of attachment, if these satisfy the requirements set out in the Annex hereto.Article 3No Member State may refuse registration or prohibit the sale, entry into service or use of a vehicle on grounds relating to the statutory plates and inscriptions and their location and method of attachment, if these satisfy the requirements set out in the Annex to this Directive.Article 4The amendments necessary to adapt the requirements of the Annex to technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 70/156/EEC.Article 51.
+
+By 1 January 1977, Member States shall adopt and publish the provisions necessary to comply with this Directive and shall forthwith inform the Commission thereof.They shall implement these provisions with effect from 1 October 1978.2. After notification of this Directive, Member States shall take steps to inform the Commission, in sufficient time for it to submit its comments, of any draft laws, regulations or administrative provisions which they intend to adopt in the field covered by the Directive.Article 6This Directive is addressed to the Member States.Done at Brussels, 18 December 1975.For the CouncilThe PresidentM. Toros[1] OJ No C 5, 8. 1. 1975, p. 41.[2] OJ No C 47, 27. 2. 1975, p. 4.[3] OJ No L 42, 23. 2. 1970, p. 1.--------------------------------------------------ANNEX1. GENERAL1.1. All vehicles must be provided with the plate and inscriptions described in the following sections. The plate and inscriptions shall be attached either by the manufacturer or by his authorized representative.2. MANUFACTURER'S PLATE2.1. A manufacturer's plate, modelled on that shown in the appendix hereto, must be firmly attached in a conspicuous and readily accessible position on a part not subject to replacement in use. It must show clearly and indelibly the following information in the order listed:2.1.1. Name of the manufacturer.2.1.2. EEC type-approval number [1].This number is composed of a small letter "e" followed, in the order given, by the distinguishing number or letters of the country which granted the EEC type-approval (1 for Germany, 2 for France, 3 for Italy, 4 for the Netherlands, 6 for Belgium, 11 for the United Kingdom, 12 for Luxembourg, DK for Denmark, IRL for Ireland) and by the type-approval number corresponding to the number on the type-approval certificate for the type of vehicle. An asterisk shall be placed between the letter "e" and the distinguishing number or letters of the country which granted the EEC type-approval, and between the distinguishing number or letters and the type-approval number.2.1.3. Vehicle identification number.2.1.4. Maximum permitted laden weight of the vehicle.2.1.5. Maximum permitted laden weight for the combination, where the vehicle is used for towing.2.1.6. Maximum permitted road weight for each axle, listed in order from front to rear.2.1.7. In the case of a semi-trailer, the maximum permitted weight on the fifth wheel king pin.2.1.8. The requirements of 2.1.4 to 2.1.7 shall not enter into force until 12 months have elapsed from the date of adoption of the Council Directive on weights and dimensions of motor vehicles and their trailers. In the meantime, however, a Member State may require that the maximum permitted weights prescribed in its national legislation be shown on the plate of any vehicle which has entered into service in its territory.If the technically permissible weight is higher than the maximum permitted weight, the Member State in question may request that the technically permissible weight also be stated. The weight would be set out in two columns: the maximum permitted weight on the left and the technically permissible weight on the right.2.2 The manufacturer may give additional information below or to the side of the prescribed inscriptions, outside a clearly marked rectangle which shall enclose only the information prescribed in 2.1.1 to 2.1.8 (see the Appendix to this Annex).VEHICLE IDENTIFICATION NUMBERThe vehicle identification number is a fixed combination of characters assigned to each vehicle by the manufacturer. Its purpose is to ensure that every vehicle can be clearly identified over a period of 30 years through the intermediary of the manufacturer, without there being a need for reference to further data. The vehicle identification number must conform to the following requirements:3.1. It must be marked on the manufacturer's plate, and also on the chassis, frame, or other similar structure.3.1.1. It must consist of two sections: the first, composed of not more than six characters (letters or figures), identifying the general characteristics of the vehicle, in particular the type and model; the second, composed of eight characters of which the first four may be letters or figures and the other four figures only, providing, in conjunction with the first section, clear identification of a particular vehicle.3.1.2. It must wherever possible be marked on a single line. As an exception, for technical reasons, it may also be marked on two lines. However, in this case there must be no gaps within either of the two sections.There must be no spaces between the characters.In the second section, any unused position must be filled by a zero in order to obtain the required total of eight characters.The beginning and end of each line must be marked by a symbol which is neither an arabic numeral nor a roman capital letter and which cannot be confused with either.
+COUNCIL DIRECTIVE
+of 18 December 1975
+on the approximation of the laws of the Member States relating to statutory plates and inscriptions for motor vehicles and their trailers, and their location and method of attachment
+Consolidated TEXT: 31976L0114 — EN — 01.11.2014
+Top
+1976L0114 — EN — 01.11.2014 — 009.001
+This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents
+►B
+COUNCIL DIRECTIVE
+of 18 December 1975
+on the approximation of the laws of the Member States relating to statutory plates and inscriptions for motor vehicles and their trailers, and their location and method of attachment
+(76/114/EEC)
+(OJ L 024, 30.1.1976, p.1)
+repealed by:
+
+Official Journal
+No
+page
+date
+Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009
+L 200
+1
+31.7.2009
+Article 1
+For the purposes of this Directive, 'vehicle' means any motor vehicle intended for use on the road, with or without bodywork, having at least four wheels and a maximum design speed exceeding 25 km/h, and its trailers, with the exception of vehicles which run on rails, agricultural or forestry tractors and machinery, and public works vehicles.
+Article 2
+No Member State may refuse to grant EEC type-approval or national type-approval of a vehicle on grounds relating to the statutory plates and inscriptions and their location and method of attachment, if these satisfy the requirements set out in the Annex hereto.
+Article 3
+No Member State may refuse registration or prohibit the sale, entry into service or use of a vehicle on grounds relating to the statutory plates and inscriptions and their location and method of attachment, if these satisfy the requirements set out in the Annex to this Directive.
+Article 4
+The amendments necessary to adapt the requirements of the Annex to technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 70/156/EEC.
+Article 5
+1. By 1 January 1977, Member States shall adopt and publish the provisions necessary to comply with this Directive and shall forthwith inform the Commission thereof.They shall implement these provisions with effect from 1 October 1978.2.
+
+After notification of this Directive, Member States shall take steps to inform the Commission, in sufficient time for it to submit its comments, of any draft laws, regulations or administrative provisions which they intend to adopt in the field covered by the Directive.
+Introduction
+COUNCIL DIRECTIVEof 18 December 1975on the approximation of the laws of the Member States relating to statutory plates and inscriptions for motor vehicles and their trailers, and their location and method of attachment
+(76/114/EEC)
+(OJ L 024, 30.1.1976, p.1)Amended by:
+
+Official Journal
+ No
+page
+date
+►M1
+COMMISSION DIRECTIVE 78/507/EEC of 19 May 1978
+ L 155
+31
+13.6.1978
+►M2
+COUNCIL DIRECTIVE 87/354/EEC of 25 June 1987
+ L 192
+43
+11.7.1987
+►M3
+COUNCIL DIRECTIVE 2006/96/EC of 20 November 2006
+ L 363
+81
+20.12.2006
+►M4
+COUNCIL DIRECTIVE 2013/15/EU of 13 May 2013
+ L 158
+172
+10.6.2013
+Amended by: A1
+ L 291
+17
+19.11.1979
+►A2
+ L 302
+23
+15.11.1985
+ A3
+ C 241
+21
+29.8.1994
+ L 001
+1
+.. ►A4
+ L 236
+33
+23.9.2003
+Corrected by: C1
+Corrigendum, OJ L 056, 4.3.1976, p. 38 (1976/114)
+ C2
+Corrigendum, OJ L 329, 25.11.1982, p. 31 (1976/114)
+▼B
+COUNCIL DIRECTIVEof 18 December 1975on the approximation of the laws of the Member States relating to statutory plates and inscriptions for motor vehicles and their trailers, and their location and method of attachment(76/114/EEC)
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,
+Having regard to the proposal from the Commission,
+Having regard to the opinion of the European Parliament (
+1
+),
+Having regard to the opinion of the Economic and Social Committee (
+2
+),
+Whereas the technical requirements which motor vehicles must satisfy pursuant to national laws relate inter alia to statutory plates and inscriptions, and their location and methods of attachment; Whereas those requirements differ from one Member State to another; whereas it is therefore necessary that all Member States adopt the same requirements either in addition to or in place of their existing rules, in order, in particular, to allow the EEC type-approval procedure, which was the subject of Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (
+3
+), to be applied in respect of each type of vehicle; Whereas the approximation of national laws relating to motor vehicles involves the mutual recognition by Member States of the inspections carried out by each of them on the basis of common provisions; whereas, for such a system to function successfully, these provisions must be applied by all Member States with effect from the same date,
+HAS ADOPTED THIS DIRECTIVE:
+Article 1
+For the purposes of this Directive, 'vehicle' means any motor vehicle intended for use on the road, with or without bodywork, having at least four wheels and a maximum design speed exceeding 25 km/h, and its trailers, with the exception of vehicles which run on rails, agricultural or forestry tractors and machinery, and public works vehicles.
+Article 4
+The amendments necessary to adapt the requirements of the Annex to technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 70/156/EEC.
+Article 6
+This Directive is addressed to the Member States.
+
+ANNEX1. GENERAL
+1.1. All vehicles must be provided with the plate and inscriptions described in the following sections. The plate and inscriptions shall be attached either by the manufacturer or by his authorized representative. 2. MANUFACTURER'S PLATE
+2.1. A manufacturer's plate, modelled on that shown in the appendix hereto, must be firmly attached in a conspicuous and readily accessible position on a part not subject to replacement in use. It must show clearly and indelibly the following information in the order listed: 2.1.1. Name of the manufacturer. 2.1.2. EEC type-approval number
+►M1
+ (
+4
+) ◄ .
+This number is composed of a small letter 'e' followed, in the order given, by the distinguishing number or letters of the country which granted the EEC type-approval 
+►A2
+ (1 for Germany, 2 for France, 3 for Italy, 4 for the Netherlands, 6 for Belgium, 9 for Spain, 11 for the United Kingdom, 13 for Luxembourg, 18 for Denmark, 
+►M2
+ EL for Greece ◄ , IRL for Ireland, P for Portugal
+►
+►
+ , 12 for Austria, 17 for Finland, 5 for Sweden ◄ 
+ ◄ 
+►A4
+ , 8 for the Czech Republic, 29 for Estonia, CY for Cyprus, 32 for Latvia, 36 for Lithuania, 7 for Hungary, MT for Malta, 20 for Poland, 26 for Slovenia, 27 for Slovakia ◄ 
+►M3
+ , 34 for Bulgaria, 19 for Romania ◄ , 
+►M4
+ 25 за Хърватия ◄ ) ◄ and by the type-approval number corresponding to the number on the type-approval certificate for the type of vehicle. An asterisk shall be placed between the letter 'e' and the distinguishing number or letters of the country which granted the EEC type-approval, and between the distinguishing number or letters and the type-approval number. 2.1.3. Vehicle identification number. 2.1.4. Maximum permitted laden 
+►M1
+ mass ◄ of the vehicle. 2.1.5. Maximum permitted laden 
+►M1
+ mass ◄ for the combination, where the vehicle is used for towing. 2.1.6. Maximum permitted road 
+►M1
+ mass ◄ for each axle, listed in order from front to rear. 2.1.7. In the case of a semi-trailer, the maximum permitted 
+►M1
+ mass ◄ on the fifth wheel king pin. 2.1.8. The requirements of 2.1.4 to 2.1.7 shall not enter into force until 12 months have elapsed from the date of adoption of the Council Directive on 
+►M1
+ masses ◄ and dimensions of motor vehicles and their trailers. In the meantime, however, a Member State may require that the maximum permitted 
+►M1
+ masses ◄ prescribed in its national legislation be shown on the plate of any vehicle which has entered into service in its territory. If the technically permissible 
+►M1
+ mass ◄ is higher than the maximum permitted 
+►M1
+ mass ◄ , the Member State in question may request that the technically permissible 
+►M1
+ mass ◄ also be stated. The 
+►M1
+ mass ◄ would be set out in two columns: the maximum permitted 
+►M1
+ mass ◄ on the left and the technically permissible 
+►M1
+ mass ◄ on the right. 2.2
+The manufacturer may give additional information below or to the side of the prescribed inscriptions, outside a clearly marked rectangle which shall enclose only the information prescribed in 2.1.1 to 2.1.8 (see the Appendix to this Annex). 3. VEHICLE IDENTIFICATION NUMBER
+The vehicle identification number is a fixed combination of characters assigned to each vehicle by the manufacturer. Its purpose is to ensure that every vehicle can be clearly identified over a period of 30 years through the intermediary of the manufacturer, without there being a need for reference to further data. The vehicle identification number must conform to the following requirements: ▼M1
+3.1. It must be marked on the manufacturer's plate, and also on the chassis, frame or other similar structure. 3.1.1. It must consist of three sections. 3.1.1.1. The first section shall consist of a code assigned to the vehicle manufacturer to enable him to be identified. The code shall comprise three characters, letters or figures which shall be assigned by the competent authorities of the country where the manufacturer has his principal place of business, by agreement with the international agency acting under the authority of the International Organization for Standardization (ISO). The first character shall designate a geographical area, the second a country within a geographical area, and the third a specific manufacturer. Where the manufacturer produces less than 500 vehicles per year, the third character shall always be '9'. In order to identify such manufacturers, the competent authority referred to above shall also assign the third, fourth and fifth characters of the third section. 3.1.1.2. The second section shall be composed of six characters (letters or figures) which shall serve to indicate the general characteristics of the vehicle. If the manufacturer does not use one or more of these characters, the unused spaces must be filled by alphabetical or numerical characters, of the manufacturer's choice. 3.1.1.3. The third section, composed of eight characters, of which the last four must be numerical, must in conjunction with the other two sections provide clear identification of a particular vehicle. Any unused space must be filled by a zero in order that the total number of characters required may be fulfilled. 3.1.2. It must wherever possible be marked on a single line. As an exception, for technical reasons, it may also be marked on two lines. However, in this latter case no section may be divided between the two lines. The beginning and end of each line must be indicated by a symbol which is neither an arabic numeral nor a roman capital letter, and which cannot be confused with either. This requirement may be waived in the case of manufacturer's plates where the number is marked on one line only. It is also permissible to place such a symbol between the three sections on one line (point 3.1.1). There must be no spaces between the characters. ▼B
+3.2. The identification number must, moreover: 3.2.1. be marked on the chassis, frame or other similar structure, on the right-hand side of the vehicle; 3.2.2. be placed in a clearly visible and accessible position by a method such as hammering or stamping, in such a way that it cannot be obliterated or deteriorate. 4. CHARACTERS
+4.1. Roman letters and arabic numerals must be used for all the markings provided for in sections 2 and 3. However, the roman letters used in the markings provided for in 2.1.1 and 2.1.3 and 3 must be capital letters. 4.2. For the vehicle identification number: 4.2.1. use of the letters I, O and Q and dashes, asterisks and other special signs, other than the symbols referred to in the final paragraph of 3.1.2, is not permitted; 4.2.2. the minimum height of the letters and figures shall be as follows: 4.2.2.1. 7 mm for characters marked directly on the chassis, frame or other similar structure of the vehicle; 4.2.2.2. 4 mm for characters marked on the manufacturer's plate. ▼M1
+APPENDIXMODEL OF THE MANUFACTURER'S PLATEThe examples below do not prejudice the data which are actually to appear on manufacturers' plates. They are merely given as a guide.Example No 1
+{{IMAGE:Image_0}}
+Example as for category M1 vehicle.Additional information as provided for in 2.2 may be given below or to the side of the prescribed data (see rectangles shown with dotted lines in the above model).Example No 2
+{{IMAGE:Image_1}}
+Example as for category N3 vehicle.Additional information as provided for in 2.2 may be given below or to the side of the prescribed data (see rectangles shown with dotted lines in the above model). (
+1
+) OJ No C 5, 8. 1. 1975, p. 41.(
+2
+) OJ No C 47, 27. 2. 1975, p. 4.(
+3
+) OJ No L 42, 23. 2. 1970, p. 1.(
+4
+) If a vehicle has not been given EEC type-approval and therefore does not have an EEC type approval number, a Member State may require that the national type-approval number be indicated.
+Article 2
+No Member State may refuse to grant EEC type-approval or national type-approval of a vehicle on grounds relating to the statutory plates and inscriptions and their location and method of attachment, if these satisfy the requirements set out in the Annex hereto.
+4. CHARACTERS
+ANNEX
+4. CHARACTERS
+1.1. All vehicles must be provided with the plate and inscriptions described in the following sections.
+
+The plate and inscriptions shall be attached either by the manufacturer or by his authorized representative. 2.1. A manufacturer's plate, modelled on that shown in the appendix hereto, must be firmly attached in a conspicuous and readily accessible position on a part not subject to replacement in use. It must show clearly and indelibly the following information in the order listed: 2.1.1. Name of the manufacturer. 2.1.2. EEC type-approval number
+►M1
+ (
+4
+) ◄ .
+This number is composed of a small letter 'e' followed, in the order given, by the distinguishing number or letters of the country which granted the EEC type-approval 
+►A2
+ (1 for Germany, 2 for France, 3 for Italy, 4 for the Netherlands, 6 for Belgium, 9 for Spain, 11 for the United Kingdom, 13 for Luxembourg, 18 for Denmark, 
+►M2
+ EL for Greece ◄ , IRL for Ireland, P for Portugal
+►
+►
+ , 12 for Austria, 17 for Finland, 5 for Sweden ◄ 
+ ◄ 
+►A4
+ , 8 for the Czech Republic, 29 for Estonia, CY for Cyprus, 32 for Latvia, 36 for Lithuania, 7 for Hungary, MT for Malta, 20 for Poland, 26 for Slovenia, 27 for Slovakia ◄ 
+►M3
+ , 34 for Bulgaria, 19 for Romania ◄ ) ◄ and by the type-approval number corresponding to the number on the type-approval certificate for the type of vehicle. An asterisk shall be placed between the letter 'e' and the distinguishing number or letters of the country which granted the EEC type-approval, and between the distinguishing number or letters and the type-approval number. 2.1.3. Vehicle identification number. 2.1.4. Maximum permitted laden 
+►M1
+ mass ◄ of the vehicle. 2.1.5. Maximum permitted laden 
+►M1
+ mass ◄ for the combination, where the vehicle is used for towing. 2.1.6. Maximum permitted road 
+►M1
+ mass ◄ for each axle, listed in order from front to rear. 2.1.7. In the case of a semi-trailer, the maximum permitted 
+►M1
+ mass ◄ on the fifth wheel king pin. 2.1.8. The requirements of 2.1.4 to 2.1.7 shall not enter into force until 12 months have elapsed from the date of adoption of the Council Directive on 
+►M1
+ masses ◄ and dimensions of motor vehicles and their trailers. In the meantime, however, a Member State may require that the maximum permitted 
+►M1
+ masses ◄ prescribed in its national legislation be shown on the plate of any vehicle which has entered into service in its territory. If the technically permissible 
+►M1
+ mass ◄ is higher than the maximum permitted 
+►M1
+ mass ◄ , the Member State in question may request that the technically permissible 
+►M1
+ mass ◄ also be stated. The 
+►M1
+ mass ◄ would be set out in two columns: the maximum permitted 
+►M1
+ mass ◄ on the left and the technically permissible 
+►M1
+ mass ◄ on the right. 2.2
+The manufacturer may give additional information below or to the side of the prescribed inscriptions, outside a clearly marked rectangle which shall enclose only the information prescribed in 2.1.1 to 2.1.8 (see the Appendix to this Annex). The vehicle identification number is a fixed combination of characters assigned to each vehicle by the manufacturer. Its purpose is to ensure that every vehicle can be clearly identified over a period of 30 years through the intermediary of the manufacturer, without there being a need for reference to further data. The vehicle identification number must conform to the following requirements: ▼M1
+3.1. It must be marked on the manufacturer's plate, and also on the chassis, frame or other similar structure. 3.1.1. It must consist of three sections. 3.1.1.1. The first section shall consist of a code assigned to the vehicle manufacturer to enable him to be identified. The code shall comprise three characters, letters or figures which shall be assigned by the competent authorities of the country where the manufacturer has his principal place of business, by agreement with the international agency acting under the authority of the International Organization for Standardization (ISO). The first character shall designate a geographical area, the second a country within a geographical area, and the third a specific manufacturer. Where the manufacturer produces less than 500 vehicles per year, the third character shall always be '9'. In order to identify such manufacturers, the competent authority referred to above shall also assign the third, fourth and fifth characters of the third section. 3.1.1.2. The second section shall be composed of six characters (letters or figures) which shall serve to indicate the general characteristics of the vehicle. If the manufacturer does not use one or more of these characters, the unused spaces must be filled by alphabetical or numerical characters, of the manufacturer's choice. 3.1.1.3. The third section, composed of eight characters, of which the last four must be numerical, must in conjunction with the other two sections provide clear identification of a particular vehicle. Any unused space must be filled by a zero in order that the total number of characters required may be fulfilled. 3.1.2. It must wherever possible be marked on a single line. As an exception, for technical reasons, it may also be marked on two lines. However, in this latter case no section may be divided between the two lines. The beginning and end of each line must be indicated by a symbol which is neither an arabic numeral nor a roman capital letter, and which cannot be confused with either. This requirement may be waived in the case of manufacturer's plates where the number is marked on one line only. It is also permissible to place such a symbol between the three sections on one line (point 3.1.1). There must be no spaces between the characters. ▼B
+3.2. The identification number must, moreover: 3.2.1. be marked on the chassis, frame or other similar structure, on the right-hand side of the vehicle; 3.2.2. be placed in a clearly visible and accessible position by a method such as hammering or stamping, in such a way that it cannot be obliterated or deteriorate. 4.1. Roman letters and arabic numerals must be used for all the markings provided for in sections 2 and 3. However, the roman letters used in the markings provided for in 2.1.1 and 2.1.3 and 3 must be capital letters. 4.2. For the vehicle identification number: 4.2.1. use of the letters I, O and Q and dashes, asterisks and other special signs, other than the symbols referred to in the final paragraph of 3.1.2, is not permitted; 4.2.2. the minimum height of the letters and figures shall be as follows: 4.2.2.1. 7 mm for characters marked directly on the chassis, frame or other similar structure of the vehicle; 4.2.2.2. 4 mm for characters marked on the manufacturer's plate. ▼M1
+APPENDIX
+Example No 2
+MODEL OF THE MANUFACTURER'S PLATEThe examples below do not prejudice the data which are actually to appear on manufacturers' plates. They are merely given as a guide. Example as for category M1 vehicle.Additional information as provided for in 2.2 may be given below or to the side of the prescribed data (see rectangles shown with dotted lines in the above model). Example as for category N3 vehicle.Additional information as provided for in 2.2 may be given below or to the side of the prescribed data (see rectangles shown with dotted lines in the above model). (
+1
+) OJ No C 5, 8. 1. 1975, p. 41.(
+2
+) OJ No C 47, 27. 2. 1975, p. 4.(
+3
+) OJ No L 42, 23. 2. 1970, p. 1.(
+4
+) If a vehicle has not been given EEC type-approval and therefore does not have an EEC type approval number, a Member State may require that the national type-approval number be indicated. If a national type-approval number is required to be indicated the manufacturer can place it either on a plate separate from the manufacturer's plate or on the manufacturer's plate itself.
+Introduction
+COUNCIL DIRECTIVEof 18 December 1975on the approximation of the laws of the Member States relating to statutory plates and inscriptions for motor vehicles and their trailers, and their location and method of attachment
+(76/114/EEC)
+(OJ L 024, 30.1.1976, p.1)Amended by:
+
+Official Journal
+ No
+page
+date
+►M1
+COMMISSION DIRECTIVE 78/507/EEC of 19 May 1978
+ L 155
+31
+13.6.1978
+►M2
+COUNCIL DIRECTIVE 87/354/EEC of 25 June 1987
+ L 192
+43
+11.7.1987
+►M3
+COUNCIL DIRECTIVE 2006/96/EC of 20 November 2006
+ L 363
+81
+20.12.2006
+Amended by: A1
+Act of Accession of Greece
+ L 291
+17
+19.11.1979
+►A2
+Act of Accession of Spain and Portugal
+ L 302
+23
+15.11.1985
+ A3
+Act of Accession of Austria, Sweden and Finland
+ C 241
+21
+29.8.1994
+(adapted by Council Decision 95/1/EC, Euratom, ECSC)
+ L 001
+1
+.. ►A4
+Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded
+ L 236
+33
+23.9.2003
+Corrected by: C1
+Corrigendum, OJ L 056, 4.3.1976, p. 38 (76/114)
+ C2
+Corrigendum, OJ L 329, 25.11.1982, p. 31 (76/114)
+▼B
+COUNCIL DIRECTIVEof 18 December 1975on the approximation of the laws of the Member States relating to statutory plates and inscriptions for motor vehicles and their trailers, and their location and method of attachment(76/114/EEC)
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,
+Having regard to the proposal from the Commission,
+Having regard to the opinion of the European Parliament (
+1
+),
+Having regard to the opinion of the Economic and Social Committee (
+2
+),
+Whereas the technical requirements which motor vehicles must satisfy pursuant to national laws relate inter alia to statutory plates and inscriptions, and their location and methods of attachment; Whereas those requirements differ from one Member State to another; whereas it is therefore necessary that all Member States adopt the same requirements either in addition to or in place of their existing rules, in order, in particular, to allow the EEC type-approval procedure, which was the subject of Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (
+3
+), to be applied in respect of each type of vehicle; Whereas the approximation of national laws relating to motor vehicles involves the mutual recognition by Member States of the inspections carried out by each of them on the basis of common provisions; whereas, for such a system to function successfully, these provisions must be applied by all Member States with effect from the same date,
+HAS ADOPTED THIS DIRECTIVE:
+Article 6
+This Directive is addressed to the Member States.
+
+ANNEX1. GENERAL
+1.1. All vehicles must be provided with the plate and inscriptions described in the following sections. The plate and inscriptions shall be attached either by the manufacturer or by his authorized representative. 2. MANUFACTURER'S PLATE
+2.1. A manufacturer's plate, modelled on that shown in the appendix hereto, must be firmly attached in a conspicuous and readily accessible position on a part not subject to replacement in use. It must show clearly and indelibly the following information in the order listed: 2.1.1. Name of the manufacturer. 2.1.2. EEC type-approval number
+►M1
+ (
+4
+) ◄ .
+This number is composed of a small letter 'e' followed, in the order given, by the distinguishing number or letters of the country which granted the EEC type-approval 
+►A2
+ (1 for Germany, 2 for France, 3 for Italy, 4 for the Netherlands, 6 for Belgium, 9 for Spain, 11 for the United Kingdom, 13 for Luxembourg, 18 for Denmark, 
+►M2
+ EL for Greece ◄ , IRL for Ireland, P for Portugal
+►
+►
+ , 12 for Austria, 17 for Finland, 5 for Sweden ◄ 
+ ◄ 
+►A4
+ , 8 for the Czech Republic, 29 for Estonia, CY for Cyprus, 32 for Latvia, 36 for Lithuania, 7 for Hungary, MT for Malta, 20 for Poland, 26 for Slovenia, 27 for Slovakia ◄ 
+►M3
+ , 34 for Bulgaria, 19 for Romania ◄ ) ◄ and by the type-approval number corresponding to the number on the type-approval certificate for the type of vehicle. An asterisk shall be placed between the letter 'e' and the distinguishing number or letters of the country which granted the EEC type-approval, and between the distinguishing number or letters and the type-approval number. 2.1.3. Vehicle identification number. 2.1.4. Maximum permitted laden 
+►M1
+ mass ◄ of the vehicle. 2.1.5. Maximum permitted laden 
+►M1
+ mass ◄ for the combination, where the vehicle is used for towing. 2.1.6. Maximum permitted road 
+►M1
+ mass ◄ for each axle, listed in order from front to rear. 2.1.7. In the case of a semi-trailer, the maximum permitted 
+►M1
+ mass ◄ on the fifth wheel king pin. 2.1.8. The requirements of 2.1.4 to 2.1.7 shall not enter into force until 12 months have elapsed from the date of adoption of the Council Directive on 
+►M1
+ masses ◄ and dimensions of motor vehicles and their trailers. In the meantime, however, a Member State may require that the maximum permitted 
+►M1
+ masses ◄ prescribed in its national legislation be shown on the plate of any vehicle which has entered into service in its territory. If the technically permissible 
+►M1
+ mass ◄ is higher than the maximum permitted 
+►M1
+ mass ◄ , the Member State in question may request that the technically permissible 
+►M1
+ mass ◄ also be stated. The 
+►M1
+ mass ◄ would be set out in two columns: the maximum permitted 
+►M1
+ mass ◄ on the left and the technically permissible 
+►M1
+ mass ◄ on the right. 2.2
+The manufacturer may give additional information below or to the side of the prescribed inscriptions, outside a clearly marked rectangle which shall enclose only the information prescribed in 2.1.1 to 2.1.8 (see the Appendix to this Annex). VEHICLE IDENTIFICATION NUMBER
+The vehicle identification number is a fixed combination of characters assigned to each vehicle by the manufacturer. Its purpose is to ensure that every vehicle can be clearly identified over a period of 30 years through the intermediary of the manufacturer, without there being a need for reference to further data. The vehicle identification number must conform to the following requirements: ▼M1
+3.1. It must be marked on the manufacturer's plate, and also on the chassis, frame or other similar structure. 3.1.1. It must consist of three sections. 3.1.1.1. The first section shall consist of a code assigned to the vehicle manufacturer to enable him to be identified. The code shall comprise three characters, letters or figures which shall be assigned by the competent authorities of the country where the manufacturer has his principal place of business, by agreement with the international agency acting under the authority of the International Organization for Standardization (ISO). The first character shall designate a geographical area, the second a country within a geographical area, and the third a specific manufacturer. Where the manufacturer produces less than 500 vehicles per year, the third character shall always be '9'. In order to identify such manufacturers, the competent authority referred to above shall also assign the third, fourth and fifth characters of the third section. 3.1.1.2. The second section shall be composed of six characters (letters or figures) which shall serve to indicate the general characteristics of the vehicle. If the manufacturer does not use one or more of these characters, the unused spaces must be filled by alphabetical or numerical characters, of the manufacturer's choice. 3.1.1.3. The third section, composed of eight characters, of which the last four must be numerical, must in conjunction with the other two sections provide clear identification of a particular vehicle. Any unused space must be filled by a zero in order that the total number of characters required may be fulfilled. 3.1.2. It must wherever possible be marked on a single line. As an exception, for technical reasons, it may also be marked on two lines. However, in this latter case no section may be divided between the two lines. The beginning and end of each line must be indicated by a symbol which is neither an arabic numeral nor a roman capital letter, and which cannot be confused with either. This requirement may be waived in the case of manufacturer's plates where the number is marked on one line only. It is also permissible to place such a symbol between the three sections on one line (point 3.1.1). There must be no spaces between the characters. ▼B
+3.2. The identification number must, moreover: 3.2.1. be marked on the chassis, frame or other similar structure, on the right-hand side of the vehicle; 3.2.2. be placed in a clearly visible and accessible position by a method such as hammering or stamping, in such a way that it cannot be obliterated or deteriorate. 4. CHARACTERS
+4.1. Roman letters and arabic numerals must be used for all the markings provided for in sections 2 and 3. However, the roman letters used in the markings provided for in 2.1.1 and 2.1.3 and 3 must be capital letters. 4.2. For the vehicle identification number: 4.2.1. use of the letters I, O and Q and dashes, asterisks and other special signs, other than the symbols referred to in the final paragraph of 3.1.2, is not permitted; 4.2.2. the minimum height of the letters and figures shall be as follows: 4.2.2.1. 7 mm for characters marked directly on the chassis, frame or other similar structure of the vehicle; 4.2.2.2. 4 mm for characters marked on the manufacturer's plate. ▼M1
+APPENDIXMODEL OF THE MANUFACTURER'S PLATEThe examples below do not prejudice the data which are actually to appear on manufacturers' plates. {{IMAGE:Image_0, Caption:Example model of a manufacturer's plate for a category M1 vehicle, displaying the manufacturer name, type-approval number, vehicle identification number, and weight limits. Dotted lines indicate areas for optional additional information.}} {{IMAGE:Image_1, Caption:Example layout of a manufacturer's plate for a category N3 vehicle, showing the manufacturer name, type-approval number, vehicle identification number (VIN), and maximum permissible masses for the vehicle and its axles.}} Example as for category N3 vehicle.Additional information as provided for in 2.2 may be given below or to the side of the prescribed data (see rectangles shown with dotted lines in the above model).
+Article 5
+1. By 1 January 1977, Member States shall adopt and publish the provisions necessary to comply with this Directive and shall forthwith inform the Commission thereof.They shall implement these provisions with effect from 1 October 1978.2.
+
+After notification of this Directive, Member States shall take steps to inform the Commission, in sufficient time for it to submit its comments, of any draft laws, regulations or administrative provisions which they intend to adopt in the field covered by the Directive.
+However, in this case there must be no gaps within either of the two sections.There must be no spaces between the characters.In the second section, any unused position must be filled by a zero in order to obtain the required total of eight characters.The beginning and end of each line must be marked by a symbol which is neither an arabic numeral nor a roman capital letter and which cannot be confused with either. It is also permissible to place such a symbol between the two sections on one line (3.1.1).3.2. The identification number must, moreover:3.2.1. be marked on the chassis, frame or other similar structure, on the right-hand side of the vehicle;3.2.2. be placed in a clearly visible and accessible position by a method such as hammering or stamping, in such a way that it cannot be obliterated or deteriorate.4. CHARACTERS4.1. Roman letters and arabic numerals must be used for all the markings provided for in sections 2 and 3. However, the roman letters used in the markings provided for in 2.1.1 and 2.1.3 and 3 must be capital letters.4.2. For the vehicle identification number:4.2.1. use of the letters I, O and Q and dashes, asterisks and other special signs, other than the symbols referred to in the final paragraph of 3.1.2, is not permitted;4.2.2. the minimum height of the letters and figures shall be as follows:4.2.2.1. 7 mm for characters marked directly on the chassis, frame or other similar structure of the vehicle;4.2.2.2. 4 mm for characters marked on the manufacturer's plate.[1] Until such time as EEC type-approval is granted, the national type-approval number may be used instead.--------------------------------------------------APPENDIXMODEL OF THE MANUFACTURER'S PLATE(see 2.1 and 2.2)+++++ TIFF +++++Example as for a Class N 3 vehicle.Additional information (see 2.2) may be given below or to the side of the prescribed information within the rectangles shown with broken lines in the above model.--------------------------------------------------
+(
+1
+) OJ No C 5, 8. 1. 1975, p. 41.(
+2
+) OJ No C 47, 27. 2. 1975, p. 4.(
+3
+) OJ No L 42, 23. 2. 1970, p. 1.(
+4
+) If a vehicle has not been given EEC type-approval and therefore does not have an EEC type approval number, a Member State may require that the national type-approval number be indicated.
+
+If a national type-approval number is required to be indicated the manufacturer can place it either on a plate separate from the manufacturer's plate or on the manufacturer's plate itself.
+Example as for category N3 vehicle.Additional information as provided for in 2.2 may be given below or to the side of the prescribed data (see rectangles shown with dotted lines in the above model). (
+1
+) OJ No C 5, 8. 1. 1975, p. 41.(
+2
+) OJ No C 47, 27. 2. 1975, p. 4.(
+3
+) OJ No L 42, 23. 2. 1970, p. 1.(
+4
+) If a vehicle has not been given EEC type-approval and therefore does not have an EEC type approval number, a Member State may require that the national type-approval number be indicated. If a national type-approval number is required to be indicated the manufacturer can place it either on a plate separate from the manufacturer's plate or on the manufacturer's plate itself.

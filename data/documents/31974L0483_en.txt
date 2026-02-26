@@ -1,0 +1,1205 @@
+6.18. ASSEMBLY INSTRUCTIONS
+ANNEX I
+6.18. Assembly instructions
+GENREAL DEFINITIONS, APPLICATIONS FOR EEC TYPE-APPROVAL, EEC TYPE-APPROVAL, GENERAL SPECIFICATIONS, PARTICULAR SPECIFICATIONS, CONFORMITY OF PRODUCTION (
+4
+)
+▼M1
+1.1. The provisions of this Annex do not apply to exterior rear-view mirrors or to the ball of towing devices. ▼B
+1.2. The purpose of these provisions is to reduce the risk or seriousness of bodily injury to a person hit by the bodywork or brushing against it in the event of a collision. ►M1
+ This is valid both when the vehicle is stationary and in motion. ◄ 
+For the purposes of this Directive: 2.1. 'type-approval of a vehicle' means the approval of a vehicle type with regard to its external projections; 2.2. 'vehicle type as regards its external projections' means a category of motor vehicles not differing in such essential respects as shape or materials of the external surface; ▼M1
+2.3. 'external surface' means the outside of the vehicle including the bonnet, the lid of the luggage compartment, the doors, the wings, the roof, the lighting and light-signalling devices and the visible strengthening components; 2.4. 'floor line' means the line determined as follows: successively position round a laden vehicle a cone with a vertical axis the height of which is not defined, and with a half angle of 30° in such a way that it contacts, constantly and as low as possible, the external surface of the vehicle. The floor line is the geometric trace of these points of contact. In determining the floor line, the jacking points, exhaust pipes or wheels shall not be taken into consideration. The gaps of the wheel arches are assumed to be filled in by an imaginary surface forming a smoth continuation of the surrounding external surface. At both ends of the vehicle the bumper shall be taken into consideration when establishing the floor line. Dependent upon the particular vehicle the floor line trace may occur at the bumper section extremity or at the body panel below the bumper. Where two or more points of contact occur simultaneously, the lower point of contact shall be used to determine the floor line; 2.5. 'radius of curvature' means the radius of the arc of a circle which comes closest to the rounded form of the component under consideration; ▼M1
+2.6. 'laden vehicle' means the vehicle laden to the maximum permitted technical mass. Vehicles equipped with hydropneumatic, hydraulic or pneumatic suspension or a device for automatic levelling according to load shall be tested with the vehicle in the most adverse normal running condition specified by the manufacturer; 2.7. 'extreme outer edge' of the vehicle means, in relation to the sides of the vehicle, the plane parallel to the median longitudinal plane of the vehicle coinciding with its outer lateral edge, and, in relation to the front and rear ends, the perpendicular transverse plane of the vehicle coinciding with its outer front and rear edges, account not being taken of the projection: 2.7.1. of tyres near their point of contact with the ground, and connections for tyre pressure gauges; 2.7.2. of any anti-skid devices which may be mounted on the wheels; 2.7.3. of rear-view mirrors; 2.7.4. of side direction indicator lamps, end outline marker lamps, front and rear position (side) lamps and parking lamps; 2.7.5. in relation to the front and rear ends, of parts mounted on the bumpers, of towing devices and of exhaust pipes; 2.8. 'the dimension of the projection' of a component mounted on a panel means the dimension determined by the method described in Annex II, item 2;
+2.9. 'the nominal line of a panel' means the line passing through the two points represented by the position of the centre of a sphere when its surface makes its first and last contact with a component during the measuring procedure described in Annex II, item 2.2. ▼M1
+3.1.1. The application for EEC type-approval of a vehicle type in respect of its external projections shall be submitted by the vehicle manufacturer or by his authorized representative. 3.1.2. It shall be accompanied by the undermentioned documents in triplicate: 3.1.2.1. photographs of the front, rear, and side parts of the vehicle taken at an angle of 30° to 45° to the vertical longitudinal median plane of the vehicle; 3.1.2.2. drawings of the bumpers; 3.1.2.3. where appropriate, drawings of specific external projections and, if necessary, of certain sections of the external surface referred to in item 6.9.1. 
+3.1.3. A vehicle representative of the type of vehicle to be approved shall be submitted to the technical service responsible for type-approval. At the request of the technical service, the specific components or samples of the materials used shall likewise be submitted. 3.2.1. Applications for EEC type-approval in respect of luggage racks, ski racks or radio receiving or transmitting aerials considered to be separate technical units within the meaning of Article 9a of Directive 70/156/EEC shall be submitted by the vehicle manufacturer or the manufacturer of the aforementioned separate technical units, or by their authorized representative. 3.2.2. For every type of any one of the devices referred to in item 3.2.1 above, the application shall be accompanied by the following: 3.2.2.1. triplicate copies of documents specifying the technical characteristics of the separate technical unit and the assembly instructions to be supplied with every separate technical unit sold; 3.2.2.2. a specimen of the type of separate technical unit. Should the responsible authority consider it necessary, it may request a further specimen. The specimens shall be clearly and indelibly inscribed with the mark specified in Article 9a (3) of Directive 70/156/EEC. As far as luggage racks and ski racks are concerned, provision shall be made for the subsequent compulsory display of the EEC type-approval number. The type-approval number shall be preceded by the international registration letter(s) of the country granting such approval
+►A1
+ (
+5
+). ◄ 
+▼B
+(4.1.)
+(4.2.)
+(4.3.)
+(4.4.)
+(4.4.1.)
+(4.4.2.)
+(4.5.)
+4.6. A form conforming to the model in Annex III shall be attached to the EEC type-approval certificate. ▼M1
+4.6.1. When approval is granted for an application under item 3.1, a form conforming to the model in Annex III shall be attached to the type-approval certificate. 4.6.2. When approval is granted for an application under item 3.2, a form conforming to the model in Annex IV shall be issued. 4.6.3. Where reference is made in an application under item 3.1 to a form of the type illustrated in Annex IV, the scope of the vehicle test shall be reduced accordingly in respect of the external projections. In such cases, the type-approval certificate for the vehicle shall be accompanied by a copy of the type-approval certificate for the separate technical unit. ▼B
+5.1. The provisions of this Annex shall not apply to those parts of the external surface which, with the vehicle in the laden condition, with all doors, windows and access lids etc., in the closed position, are either: 5.1.1. at a height of more than 2 m; or
+5.1.2. below the floor line; or
+▼M1
+5.1.3. so located that, in their static condition as well as when in operation, they cannot be contacted by a sphere 100 mm in diameter. ▼B
+5.2. The external surface of vehicles shall not exhibit, directed outwards, any pointed or sharp parts or any projections of such shape, dimensions, direction or hardness as to be likely to increase the risk or seriousness of bodily injury to a person hit by the external surface or brushing against it in the event of a collision. 5.3. The external surface of vehicles shall not exhibit, directed outwards, any parts likely to catch on pedestrians, cyclists or motor cyclists.
+4. METHOD OF DETERMINING THE DIMENSION OF A GAP OR THE SPACE BETWEEN ELEMENTS OF A GRILLE
+ANNEX II
+4. METHOD OF DETERMINING THE DIMENSION OF A GAP OR THE SPACE BETWEEN ELEMENTS OF A GRILLE
+▼M1
+METHODS OF DETERMINING THE DIMENSIONS OF PROJECTIONS AND GAPS
+▼M1
+▼B
+►M1
+ 1.1 ◄ 
+The height H of a projection is determined graphically by reference to the circumference of a 165 mm diameter circle, internally tangential to the external outline of the external surface at the section to be checked.
+
+►M1
+ 1.2 ◄ 
+H is the maximum value of the distance, measured along a straight line passing through the centre of the 165 mm diameter circle, between the circumference of the aforesaid circle and the external contour of the projection (see Fig. 1). ►M1
+ 1.3 ◄ 
+In cases where it is not possible for a 100 mm diameter circle to contact externally part of the external outline of the external surface at the section under consideration, the surface outline in this area will be assumed to be that formed by the circumference of the 100 mm diameter circle between its tangent points with the external outline (see Fig. 2). ►M1
+ 1.4 ◄ 
+Drawings of the necessary sections through the external surface shall be provided by the manufacturer to allow the height of the projections referred to above to be measured. ▼M1
+2.1. The dimension of the projection of a component which is mounted on a convex surface may be determined either directly or by reference to a drawing of an appropriate section of this component in its installed condition. 2.2. If the dimension of the projection of a component which is mounted on a surface other than convex cannot be determined by simple measurement, it shall be determined by the maximum variation of the distance of the centre of a 100 mm diameter sphere from the nominal line of the panel when the sphere is moved over and is in constant contact with that component. Figure 3 shows an example of the use of this procedure. 3.1. The projection from the external surface of the headlight shall be measured horizontally from the point of contact of a 100 mm diameter sphere as shown in Figure 4. 
+4.1. The dimension of a gap or space between elements of a grille shall be determined by the distance between two planes passing through the points of contact of the sphere and perpendicular to the line joining those points of contact. Figures 5 and 6 show examples of the use of this procedure. ▼B
+Figure 1
+Figure 2
+▼M1
+Article 2
+No Member State may, on grounds relating to external projections, refuse to grant EEC type-approval or national type-approval for a motor vehicle, or for luggage racks, ski racks or radio receiving or transmitting aerials considered as separate technical units, if:
+
+— the vehicle complies with the provisions of Annexes I and II as regards external projections,
+— the luggage racks, ski racks or radio receiving or transmitting aerials considered as separate technical units within the meaning of Article 9a of Directive 70/156/EEC comply with the provisions of Annex I.
+Article 1
+For the purposes of this Directive, 'vehicle' means any motor vehicle of class M1 (defined in Annex I of Directive No 70/156/EEC) designed for use on the road, having at least four wheels and a maximum design speed exceeding 25 km/h.
+
+▼M1
+6.18. ASSEMBLY INSTRUCTIONS
+ANNEX I
+6.18. Assembly instructions
+GENREAL DEFINITIONS, APPLICATIONS FOR EEC TYPE-APPROVAL, EEC TYPE-APPROVAL, GENERAL SPECIFICATIONS, PARTICULAR SPECIFICATIONS, CONFORMITY OF PRODUCTION (
+4
+)
+▼M1
+1.1. The provisions of this Annex do not apply to exterior rear-view mirrors or to the ball of towing devices. ▼B
+1.2. The purpose of these provisions is to reduce the risk or seriousness of bodily injury to a person hit by the bodywork or brushing against it in the event of a collision. ►M1
+ This is valid both when the vehicle is stationary and in motion. ◄ 
+For the purposes of this Directive: 2.1. 'type-approval of a vehicle' means the approval of a vehicle type with regard to its external projections; 2.2. 'vehicle type as regards its external projections' means a category of motor vehicles not differing in such essential respects as shape or materials of the external surface; ▼M1
+2.3. 'external surface' means the outside of the vehicle including the bonnet, the lid of the luggage compartment, the doors, the wings, the roof, the lighting and light-signalling devices and the visible strengthening components; 2.4. 'floor line' means the line determined as follows: successively position round a laden vehicle a cone with a vertical axis the height of which is not defined, and with a half angle of 30° in such a way that it contacts, constantly and as low as possible, the external surface of the vehicle. The floor line is the geometric trace of these points of contact. In determining the floor line, the jacking points, exhaust pipes or wheels shall not be taken into consideration. The gaps of the wheel arches are assumed to be filled in by an imaginary surface forming a smoth continuation of the surrounding external surface. At both ends of the vehicle the bumper shall be taken into consideration when establishing the floor line. Dependent upon the particular vehicle the floor line trace may occur at the bumper section extremity or at the body panel below the bumper. Where two or more points of contact occur simultaneously, the lower point of contact shall be used to determine the floor line; 2.5. 'radius of curvature' means the radius of the arc of a circle which comes closest to the rounded form of the component under consideration; ▼M1
+2.6. 'laden vehicle' means the vehicle laden to the maximum permitted technical mass. Vehicles equipped with hydropneumatic, hydraulic or pneumatic suspension or a device for automatic levelling according to load shall be tested with the vehicle in the most adverse normal running condition specified by the manufacturer; 2.7. 'extreme outer edge' of the vehicle means, in relation to the sides of the vehicle, the plane parallel to the median longitudinal plane of the vehicle coinciding with its outer lateral edge, and, in relation to the front and rear ends, the perpendicular transverse plane of the vehicle coinciding with its outer front and rear edges, account not being taken of the projection: 2.7.1. of tyres near their point of contact with the ground, and connections for tyre pressure gauges; 2.7.2. of any anti-skid devices which may be mounted on the wheels; 2.7.3. of rear-view mirrors; 2.7.4. of side direction indicator lamps, end outline marker lamps, front and rear position (side) lamps and parking lamps; 2.7.5. in relation to the front and rear ends, of parts mounted on the bumpers, of towing devices and of exhaust pipes; 2.8. 'the dimension of the projection' of a component mounted on a panel means the dimension determined by the method described in Annex II, item 2;
+2.9. 'the nominal line of a panel' means the line passing through the two points represented by the position of the centre of a sphere when its surface makes its first and last contact with a component during the measuring procedure described in Annex II, item 2.2. ▼M1
+3.1.1. The application for EEC type-approval of a vehicle type in respect of its external projections shall be submitted by the vehicle manufacturer or by his authorized representative. 3.1.2. It shall be accompanied by the undermentioned documents in triplicate: 3.1.2.1. photographs of the front, rear, and side parts of the vehicle taken at an angle of 30° to 45° to the vertical longitudinal median plane of the vehicle; 3.1.2.2. drawings of the bumpers; 3.1.2.3. where appropriate, drawings of specific external projections and, if necessary, of certain sections of the external surface referred to in item 6.9.1. 
+3.1.3. A vehicle representative of the type of vehicle to be approved shall be submitted to the technical service responsible for type-approval. At the request of the technical service, the specific components or samples of the materials used shall likewise be submitted. 3.2.1. Applications for EEC type-approval in respect of luggage racks, ski racks or radio receiving or transmitting aerials considered to be separate technical units within the meaning of Article 9a of Directive 70/156/EEC shall be submitted by the vehicle manufacturer or the manufacturer of the aforementioned separate technical units, or by their authorized representative. 3.2.2. For every type of any one of the devices referred to in item 3.2.1 above, the application shall be accompanied by the following: 3.2.2.1. triplicate copies of documents specifying the technical characteristics of the separate technical unit and the assembly instructions to be supplied with every separate technical unit sold; 3.2.2.2. a specimen of the type of separate technical unit. Should the responsible authority consider it necessary, it may request a further specimen. The specimens shall be clearly and indelibly inscribed with the mark specified in Article 9a (3) of Directive 70/156/EEC. As far as luggage racks and ski racks are concerned, provision shall be made for the subsequent compulsory display of the EEC type-approval number. The type-approval number shall be preceded by the international registration letter(s) of the country granting such approval
+►A1
+ (
+5
+). ◄ 
+▼B
+(4.1.)
+(4.2.)
+(4.3.)
+(4.4.)
+(4.4.1.)
+(4.4.2.)
+(4.5.)
+4.6. A form conforming to the model in Annex III shall be attached to the EEC type-approval certificate. ▼M1
+4.6.1. When approval is granted for an application under item 3.1, a form conforming to the model in Annex III shall be attached to the type-approval certificate. 4.6.2. When approval is granted for an application under item 3.2, a form conforming to the model in Annex IV shall be issued. 4.6.3. Where reference is made in an application under item 3.1 to a form of the type illustrated in Annex IV, the scope of the vehicle test shall be reduced accordingly in respect of the external projections. In such cases, the type-approval certificate for the vehicle shall be accompanied by a copy of the type-approval certificate for the separate technical unit. ▼B
+5.1. The provisions of this Annex shall not apply to those parts of the external surface which, with the vehicle in the laden condition, with all doors, windows and access lids etc., in the closed position, are either: 5.1.1. at a height of more than 2 m; or
+5.1.2. below the floor line; or
+▼M1
+5.1.3. so located that, in their static condition as well as when in operation, they cannot be contacted by a sphere 100 mm in diameter. ▼B
+5.2. The external surface of vehicles shall not exhibit, directed outwards, any pointed or sharp parts or any projections of such shape, dimensions, direction or hardness as to be likely to increase the risk or seriousness of bodily injury to a person hit by the external surface or brushing against it in the event of a collision. 5.3. The external surface of vehicles shall not exhibit, directed outwards, any parts likely to catch on pedestrians, cyclists or motor cyclists.
+ANNEX III
+ANNEX III
+MODEL
+►(1) M1
+▼M1
+Introduction
+COUNCIL DIRECTIVEof 17 September 1974on the approximation of the laws of the Member States relating to the external projections of motor vehicles
+(74/483/EEC)
+(OJ L 266, 2.10.1974, p.4)Amended by:
+
+Official Journal
+ No
+page
+date
+►M1
+COMMISSION DIRECTIVE 79/488/EEC of 18 April 1979
+ L 128
+1
+26.5.1979
+►M2
+COUNCIL DIRECTIVE 87/354/EEC of 25 June 1987
+ L 192
+43
+11.7.1987
+►M3
+COUNCIL DIRECTIVE 2006/96/EC of 20 November 2006
+ L 363
+81
+20.12.2006
+►M4
+COMMISSION DIRECTIVE 2007/15/EC Text with EEA relevance of 14 March 2007
+ L 75
+21
+15.3.2007
+►M5
+COUNCIL DIRECTIVE 2013/15/EU of 13 May 2013
+ L 158
+172
+10.6.2013
+Amended by: ►A1
+ L 302
+23
+15.11.1985
+ A2
+ C 241
+21
+29.8.1994
+ L 001
+1
+.. ►A3
+ L 236
+33
+23.9.2003
+▼B
+COUNCIL DIRECTIVEof 17 September 1974on the approximation of the laws of the Member States relating to the external projections of motor vehicles(74/483/EEC)
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof; Having regard to the proposal from the Commission; Having regard to the Opinion of the European Parliament (
+1
+);
+Having regard to the Opinion of the Economic and Social Committee; Whereas the technical requirements which motor vehicles must satisfy pursuant to national laws relate, inter alia, to external projections; Whereas those requirements differ from one Member State to another; whereas it is therefore necessary that all Member States adopt the same requirements either in addition to or in place of their existing rules in order, in particular, to allow the EEC type-approval procedure which was the subject of Council Directive No 70/156/EEC (
+2
+) of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers to be applied in respect of each type of vehicle; Whereas it is desirable to adopt certain technical requirements adopted by the UN Economic Commission for Europe in its Regulation No 26 ('Uniform provisions concerning the approval of vehicles with regard to their external projections') (
+3
+), annexed to the Agreement of 20 March 1958 concerning the adoption of uniform conditions of approval and reciprocal recognition of approval for motor vehicle equipment and parts; Whereas these requirements apply to motor vehicles of category M1 (the international classification of motor vehicles is given in Directive No 70/156/EEC);
+Whereas the approximation of national laws relating to motor vehicles entails reciprocal recognition by Member States of inspection carried out by each of them on the basis of common requirements; whereas, such a system must, if it is to function smoothly, be applied by all Member States with effect from the same date,
+HAS ADOPTED THIS DIRECTIVE:
+Article 7
+This Directive is addressed to the Member States.
+
+ANNEX IGENREAL DEFINITIONS, APPLICATIONS FOR EEC TYPE-APPROVAL, EEC TYPE-APPROVAL, GENERAL SPECIFICATIONS, PARTICULAR SPECIFICATIONS, CONFORMITY OF PRODUCTION (
+4
+)1. GENERAL
+▼M1
+1.1. The provisions of this Annex do not apply to exterior rear-view mirrors or to the ball of towing devices. ▼B
+1.2. The purpose of these provisions is to reduce the risk or seriousness of bodily injury to a person hit by the bodywork or brushing against it in the event of a collision. ►M1
+ This is valid both when the vehicle is stationary and in motion. ◄ 
+2. DEFINITIONS
+For the purposes of this Directive: 2.1. 'type-approval of a vehicle' means the approval of a vehicle type with regard to its external projections; 2.2. 'vehicle type as regards its external projections' means a category of motor vehicles not differing in such essential respects as shape or materials of the external surface; ▼M1
+2.3. 'external surface' means the outside of the vehicle including the bonnet, the lid of the luggage compartment, the doors, the wings, the roof, the lighting and light-signalling devices and the visible strengthening components; 2.4. 'floor line' means the line determined as follows: successively position round a laden vehicle a cone with a vertical axis the height of which is not defined, and with a half angle of 30° in such a way that it contacts, constantly and as low as possible, the external surface of the vehicle. The floor line is the geometric trace of these points of contact. In determining the floor line, the jacking points, exhaust pipes or wheels shall not be taken into consideration. The gaps of the wheel arches are assumed to be filled in by an imaginary surface forming a smoth continuation of the surrounding external surface. At both ends of the vehicle the bumper shall be taken into consideration when establishing the floor line. Dependent upon the particular vehicle the floor line trace may occur at the bumper section extremity or at the body panel below the bumper. Where two or more points of contact occur simultaneously, the lower point of contact shall be used to determine the floor line; 2.5. 'radius of curvature' means the radius of the arc of a circle which comes closest to the rounded form of the component under consideration; ▼M1
+2.6. 'laden vehicle' means the vehicle laden to the maximum permitted technical mass. Vehicles equipped with hydropneumatic, hydraulic or pneumatic suspension or a device for automatic levelling according to load shall be tested with the vehicle in the most adverse normal running condition specified by the manufacturer; 2.7. 'extreme outer edge' of the vehicle means, in relation to the sides of the vehicle, the plane parallel to the median longitudinal plane of the vehicle coinciding with its outer lateral edge, and, in relation to the front and rear ends, the perpendicular transverse plane of the vehicle coinciding with its outer front and rear edges, account not being taken of the projection: 2.7.1. of tyres near their point of contact with the ground, and connections for tyre pressure gauges; 2.7.2. of any anti-skid devices which may be mounted on the wheels; 2.7.3. of rear-view mirrors; 2.7.4. of side direction indicator lamps, end outline marker lamps, front and rear position (side) lamps and parking lamps; 2.7.5. in relation to the front and rear ends, of parts mounted on the bumpers, of towing devices and of exhaust pipes; 2.8. 'the dimension of the projection' of a component mounted on a panel means the dimension determined by the method described in Annex II, item 2;
+2.9. 'the nominal line of a panel' means the line passing through the two points represented by the position of the centre of a sphere when its surface makes its first and last contact with a component during the measuring procedure described in Annex II, item 2.2. ▼M1
+3. APPLICATION FOR EEC TYPE-APPROVAL
+3.1. Application for EEC type-approval of a vehicle type in respect of its external projections
+3.1.1. The application for EEC type-approval of a vehicle type in respect of its external projections shall be submitted by the vehicle manufacturer or by his authorized representative. 3.1.2. It shall be accompanied by the undermentioned documents in triplicate: 3.1.2.1. photographs of the front, rear, and side parts of the vehicle taken at an angle of 30° to 45° to the vertical longitudinal median plane of the vehicle; 3.1.2.2. drawings of the bumpers; 3.1.2.3. where appropriate, drawings of specific external projections and, if necessary, of certain sections of the external surface referred to in item 6.9.1. 
+3.1.3. A vehicle representative of the type of vehicle to be approved shall be submitted to the technical service responsible for type-approval. At the request of the technical service, the specific components or samples of the materials used shall likewise be submitted. 3.2. Application for EEC type-approval in respect of luggage racks, ski racks or radio receiving or transmitting aerials considered to be separate technical units
+3.2.1. Applications for EEC type-approval in respect of luggage racks, ski racks or radio receiving or transmitting aerials considered to be separate technical units within the meaning of Article 9a of Directive 70/156/EEC shall be submitted by the vehicle manufacturer or the manufacturer of the aforementioned separate technical units, or by their authorized representative. 3.2.2. For every type of any one of the devices referred to in item 3.2.1 above, the application shall be accompanied by the following: 3.2.2.1. triplicate copies of documents specifying the technical characteristics of the separate technical unit and the assembly instructions to be supplied with every separate technical unit sold; 3.2.2.2. a specimen of the type of separate technical unit. Should the responsible authority consider it necessary, it may request a further specimen. The specimens shall be clearly and indelibly inscribed with the mark specified in Article 9a (3) of Directive 70/156/EEC. As far as luggage racks and ski racks are concerned, provision shall be made for the subsequent compulsory display of the EEC type-approval number. The type-approval number shall be preceded by the international registration letter(s) of the country granting such approval
+►A1
+ (
+5
+). ◄ 
+▼B
+4. EEC TYPE-APPROVAL
+(4.1.)
+(4.2.)
+(4.3.)
+(4.4.)
+(4.4.1.)
+(4.4.2.)
+(4.5.)
+4.6. A form conforming to the model in Annex III shall be attached to the EEC type-approval certificate. ▼M1
+4.6.1. When approval is granted for an application under item 3.1, a form conforming to the model in Annex III shall be attached to the type-approval certificate. 4.6.2. When approval is granted for an application under item 3.2, a form conforming to the model in Annex IV shall be issued. 4.6.3. Where reference is made in an application under item 3.1 to a form of the type illustrated in Annex IV, the scope of the vehicle test shall be reduced accordingly in respect of the external projections. In such cases, the type-approval certificate for the vehicle shall be accompanied by a copy of the type-approval certificate for the separate technical unit. ▼B
+5. GENERAL SPECIFICATIONS
+5.1. The provisions of this Annex shall not apply to those parts of the external surface which, with the vehicle in the laden condition, with all doors, windows and access lids etc., in the closed position, are either: 5.1.1. at a height of more than 2 m; or
+5.1.2. below the floor line; or
+▼M1
+5.1.3. so located that, in their static condition as well as when in operation, they cannot be contacted by a sphere 100 mm in diameter. ▼B
+5.2. The external surface of vehicles shall not exhibit, directed outwards, any pointed or sharp parts or any projections of such shape, dimensions, direction or hardness as to be likely to increase the risk or seriousness of bodily injury to a person hit by the external surface or brushing against it in the event of a collision.
+Article 6
+1. By 1 June 1975, the Member States shall adopt and publish the provisions necessary to comply with this Directive and shall immediately inform the Commission thereof.They shall apply these provisions from 1 October 1975.2.
+
+As soon as this Directive has been notified, the Member States shall ensure that any draft laws, regulations or administrative provisions which they intend to adopt in the field covered by this Directive are communicated to the Commission in sufficient time for the Commission to submit its comments thereon.
+Article 5
+Modifications which are necessary to adapt the provisions of Annexes I, 11 and III to take account of technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive No 70/156/EEC.
+Article 4
+A Member State which has granted type-approval shall take the measures necessary to ensure that it is informed of any modification to a part or characteristic referred to in item 2.2 of Annex I. The competent authorities of that Member State shall determine whether fresh tests should be carried out on the modified type and a fresh report drawn up.
+
+Where such tests reveal that the requirements of this Directive have not been complied with, the modification shall not be authorized. ▼B
+Article 3
+1. No Member State may, on grounds relating to external projections, refuse to register or prohibit the sale, entry into service or use of any vehicle provided that the external projections comply with the provisions of Annexes I and II.2.
+
+No Member State may, on grounds relating to external projections, prohibit the placing on the market of any luggage rack, ski rack or radio receiving or transmitting aerial considered as separate technical units within the meaning of Article 9a of Directive 70/156/EEC if it conforms to a type for which type-approval has been granted within the meaning of Article 2.
+Article 2
+No Member State may, on grounds relating to external projections, refuse to grant EEC type-approval or national type-approval for a motor vehicle, or for luggage racks, ski racks or radio receiving or transmitting aerials considered as separate technical units, if:
+
+— the vehicle complies with the provisions of Annexes I and II as regards external projections,
+— the luggage racks, ski racks or radio receiving or transmitting aerials considered as separate technical units within the meaning of Article 9a of Directive 70/156/EEC comply with the provisions of Annex I.
+Article 1
+For the purposes of this Directive, 'vehicle' means any motor vehicle of class M1 (defined in Annex I of Directive No 70/156/EEC) designed for use on the road, having at least four wheels and a maximum design speed exceeding 25 km/h.
+
+▼M1
+Article 7
+This Directive is addressed to the Member States.
+
+ANNEX IGENREAL DEFINITIONS, APPLICATIONS FOR EEC TYPE-APPROVAL, EEC TYPE-APPROVAL, GENERAL SPECIFICATIONS, PARTICULAR SPECIFICATIONS, CONFORMITY OF PRODUCTION (
+4
+)1. GENERAL
+▼M1
+1.1. The provisions of this Annex do not apply to exterior rear-view mirrors or to the ball of towing devices. ▼B
+1.2. The purpose of these provisions is to reduce the risk or seriousness of bodily injury to a person hit by the bodywork or brushing against it in the event of a collision. ►M1
+ This is valid both when the vehicle is stationary and in motion. ◄ 
+2. DEFINITIONS
+For the purposes of this Directive: 2.1. 'type-approval of a vehicle' means the approval of a vehicle type with regard to its external projections; 2.2. 'vehicle type as regards its external projections' means a category of motor vehicles not differing in such essential respects as shape or materials of the external surface; ▼M1
+2.3. 'external surface' means the outside of the vehicle including the bonnet, the lid of the luggage compartment, the doors, the wings, the roof, the lighting and light-signalling devices and the visible strengthening components; 2.4. 'floor line' means the line determined as follows: successively position round a laden vehicle a cone with a vertical axis the height of which is not defined, and with a half angle of 30° in such a way that it contacts, constantly and as low as possible, the external surface of the vehicle. The floor line is the geometric trace of these points of contact. In determining the floor line, the jacking points, exhaust pipes or wheels shall not be taken into consideration. The gaps of the wheel arches are assumed to be filled in by an imaginary surface forming a smoth continuation of the surrounding external surface. At both ends of the vehicle the bumper shall be taken into consideration when establishing the floor line. Dependent upon the particular vehicle the floor line trace may occur at the bumper section extremity or at the body panel below the bumper. Where two or more points of contact occur simultaneously, the lower point of contact shall be used to determine the floor line; 2.5. 'radius of curvature' means the radius of the arc of a circle which comes closest to the rounded form of the component under consideration; ▼M1
+2.6. 'laden vehicle' means the vehicle laden to the maximum permitted technical mass. Vehicles equipped with hydropneumatic, hydraulic or pneumatic suspension or a device for automatic levelling according to load shall be tested with the vehicle in the most adverse normal running condition specified by the manufacturer; 2.7. 'extreme outer edge' of the vehicle means, in relation to the sides of the vehicle, the plane parallel to the median longitudinal plane of the vehicle coinciding with its outer lateral edge, and, in relation to the front and rear ends, the perpendicular transverse plane of the vehicle coinciding with its outer front and rear edges, account not being taken of the projection: 2.7.1. of tyres near their point of contact with the ground, and connections for tyre pressure gauges; 2.7.2. of any anti-skid devices which may be mounted on the wheels; 2.7.3. of rear-view mirrors; 2.7.4. of side direction indicator lamps, end outline marker lamps, front and rear position (side) lamps and parking lamps; 2.7.5. in relation to the front and rear ends, of parts mounted on the bumpers, of towing devices and of exhaust pipes; 2.8. 'the dimension of the projection' of a component mounted on a panel means the dimension determined by the method described in Annex II, item 2;
+2.9. 'the nominal line of a panel' means the line passing through the two points represented by the position of the centre of a sphere when its surface makes its first and last contact with a component during the measuring procedure described in Annex II, item 2.2. ▼M1
+3. APPLICATION FOR EEC TYPE-APPROVAL
+3.1. Application for EEC type-approval of a vehicle type in respect of its external projections
+3.1.1. The application for EEC type-approval of a vehicle type in respect of its external projections shall be submitted by the vehicle manufacturer or by his authorized representative. 3.1.2. It shall be accompanied by the undermentioned documents in triplicate: 3.1.2.1. photographs of the front, rear, and side parts of the vehicle taken at an angle of 30° to 45° to the vertical longitudinal median plane of the vehicle; 3.1.2.2. drawings of the bumpers; 3.1.2.3. where appropriate, drawings of specific external projections and, if necessary, of certain sections of the external surface referred to in item 6.9.1. 
+3.1.3. A vehicle representative of the type of vehicle to be approved shall be submitted to the technical service responsible for type-approval. At the request of the technical service, the specific components or samples of the materials used shall likewise be submitted. 3.2. Application for EEC type-approval in respect of luggage racks, ski racks or radio receiving or transmitting aerials considered to be separate technical units
+3.2.1. Applications for EEC type-approval in respect of luggage racks, ski racks or radio receiving or transmitting aerials considered to be separate technical units within the meaning of Article 9a of Directive 70/156/EEC shall be submitted by the vehicle manufacturer or the manufacturer of the aforementioned separate technical units, or by their authorized representative. 3.2.2. For every type of any one of the devices referred to in item 3.2.1 above, the application shall be accompanied by the following: 3.2.2.1. triplicate copies of documents specifying the technical characteristics of the separate technical unit and the assembly instructions to be supplied with every separate technical unit sold; 3.2.2.2. a specimen of the type of separate technical unit. Should the responsible authority consider it necessary, it may request a further specimen. The specimens shall be clearly and indelibly inscribed with the mark specified in Article 9a (3) of Directive 70/156/EEC. As far as luggage racks and ski racks are concerned, provision shall be made for the subsequent compulsory display of the EEC type-approval number. The type-approval number shall be preceded by the international registration letter(s) of the country granting such approval
+►A1
+ (
+5
+). ◄ 
+▼B
+4. EEC TYPE-APPROVAL
+(4.1.)
+(4.2.)
+(4.3.)
+(4.4.)
+(4.4.1.)
+(4.4.2.)
+(4.5.)
+4.6. A form conforming to the model in Annex III shall be attached to the EEC type-approval certificate. ▼M1
+4.6.1. When approval is granted for an application under item 3.1, a form conforming to the model in Annex III shall be attached to the type-approval certificate. 4.6.2. When approval is granted for an application under item 3.2, a form conforming to the model in Annex IV shall be issued. 4.6.3. Where reference is made in an application under item 3.1 to a form of the type illustrated in Annex IV, the scope of the vehicle test shall be reduced accordingly in respect of the external projections. In such cases, the type-approval certificate for the vehicle shall be accompanied by a copy of the type-approval certificate for the separate technical unit. ▼B
+5. GENERAL SPECIFICATIONS
+5.1. The provisions of this Annex shall not apply to those parts of the external surface which, with the vehicle in the laden condition, with all doors, windows and access lids etc., in the closed position, are either: 5.1.1. at a height of more than 2 m; or
+5.1.2. below the floor line; or
+▼M1
+5.1.3. so located that, in their static condition as well as when in operation, they cannot be contacted by a sphere 100 mm in diameter. ▼B
+5.2. The external surface of vehicles shall not exhibit, directed outwards, any pointed or sharp parts or any projections of such shape, dimensions, direction or hardness as to be likely to increase the risk or seriousness of bodily injury to a person hit by the external surface or brushing against it in the event of a collision.
+Introduction
+COUNCIL DIRECTIVEof 17 September 1974on the approximation of the laws of the Member States relating to the external projections of motor vehicles
+(74/483/EEC)
+(OJ L 266, 2.10.1974, p.4)Amended by:
+
+Official Journal
+ No
+page
+date
+►M1
+COMMISSION DIRECTIVE 79/488/EEC of 18 April 1979
+ L 128
+1
+26.5.1979
+►M2
+COUNCIL DIRECTIVE 87/354/EEC of 25 June 1987
+ L 192
+43
+11.7.1987
+►M3
+COUNCIL DIRECTIVE 2006/96/EC of 20 November 2006
+ L 363
+81
+20.12.2006
+►M4
+COMMISSION DIRECTIVE 2007/15/EC Text with EEA relevance of 14 March 2007
+ L 75
+21
+15.3.2007
+Amended by: ►A1
+Act of Accession of Spain and Portugal
+ L 302
+23
+15.11.1985
+ A2
+Act of Accession of Austria, Sweden and Finland
+ C 241
+21
+29.8.1994
+(adapted by Council Decision 95/1/EC, Euratom, ECSC)
+ L 001
+1
+.. ►A3
+Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded
+ L 236
+33
+23.9.2003
+▼B
+COUNCIL DIRECTIVEof 17 September 1974on the approximation of the laws of the Member States relating to the external projections of motor vehicles(74/483/EEC)
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof; Having regard to the proposal from the Commission; Having regard to the Opinion of the European Parliament (
+1
+);
+Having regard to the Opinion of the Economic and Social Committee; Whereas the technical requirements which motor vehicles must satisfy pursuant to national laws relate, inter alia, to external projections; Whereas those requirements differ from one Member State to another; whereas it is therefore necessary that all Member States adopt the same requirements either in addition to or in place of their existing rules in order, in particular, to allow the EEC type-approval procedure which was the subject of Council Directive No 70/156/EEC (
+2
+) of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers to be applied in respect of each type of vehicle; Whereas it is desirable to adopt certain technical requirements adopted by the UN Economic Commission for Europe in its Regulation No 26 ('Uniform provisions concerning the approval of vehicles with regard to their external projections') (
+3
+), annexed to the Agreement of 20 March 1958 concerning the adoption of uniform conditions of approval and reciprocal recognition of approval for motor vehicle equipment and parts; Whereas these requirements apply to motor vehicles of category M1 (the international classification of motor vehicles is given in Directive No 70/156/EEC);
+Whereas the approximation of national laws relating to motor vehicles entails reciprocal recognition by Member States of inspection carried out by each of them on the basis of common requirements; whereas, such a system must, if it is to function smoothly, be applied by all Member States with effect from the same date,
+HAS ADOPTED THIS DIRECTIVE:
+COUNCIL DIRECTIVE
+of 17 September 1974
+on the approximation of the laws of the Member States relating to the external projections of motor vehicles
+Consolidated TEXT: 31974L0483 — EN — 01.11.2014
+Top
+1974L0483 — EN — 01.11.2014 — 009.001
+This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents
+►B
+COUNCIL DIRECTIVE
+of 17 September 1974
+on the approximation of the laws of the Member States relating to the external projections of motor vehicles
+(74/483/EEC)
+(OJ L 266, 2.10.1974, p.4)
+repealed by:
+
+Official Journal
+No
+page
+date
+Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009
+L 200
+1
+31.7.2009
+Article 7
+This Directive is addressed to the Member States.
+
+ANNEX IGENREAL DEFINITIONS, APPLICATIONS FOR EEC TYPE-APPROVAL, EEC TYPE-APPROVAL, GENERAL SPECIFICATIONS, PARTICULAR SPECIFICATIONS, CONFORMITY OF PRODUCTION (
+4
+)1. GENERAL
+▼M1
+1.1. The provisions of this Annex do not apply to exterior rear-view mirrors or to the ball of towing devices. ▼B
+1.2. The purpose of these provisions is to reduce the risk or seriousness of bodily injury to a person hit by the bodywork or brushing against it in the event of a collision. ►M1
+ This is valid both when the vehicle is stationary and in motion. ◄ 
+2. DEFINITIONS
+For the purposes of this Directive: 2.1. 'type-approval of a vehicle' means the approval of a vehicle type with regard to its external projections; 2.2. 'vehicle type as regards its external projections' means a category of motor vehicles not differing in such essential respects as shape or materials of the external surface; ▼M1
+2.3. 'external surface' means the outside of the vehicle including the bonnet, the lid of the luggage compartment, the doors, the wings, the roof, the lighting and light-signalling devices and the visible strengthening components; 2.4. 'floor line' means the line determined as follows: successively position round a laden vehicle a cone with a vertical axis the height of which is not defined, and with a half angle of 30° in such a way that it contacts, constantly and as low as possible, the external surface of the vehicle. The floor line is the geometric trace of these points of contact. In determining the floor line, the jacking points, exhaust pipes or wheels shall not be taken into consideration. The gaps of the wheel arches are assumed to be filled in by an imaginary surface forming a smoth continuation of the surrounding external surface. At both ends of the vehicle the bumper shall be taken into consideration when establishing the floor line. Dependent upon the particular vehicle the floor line trace may occur at the bumper section extremity or at the body panel below the bumper. Where two or more points of contact occur simultaneously, the lower point of contact shall be used to determine the floor line; 2.5. 'radius of curvature' means the radius of the arc of a circle which comes closest to the rounded form of the component under consideration; ▼M1
+2.6. 'laden vehicle' means the vehicle laden to the maximum permitted technical mass. Vehicles equipped with hydropneumatic, hydraulic or pneumatic suspension or a device for automatic levelling according to load shall be tested with the vehicle in the most adverse normal running condition specified by the manufacturer; 2.7. 'extreme outer edge' of the vehicle means, in relation to the sides of the vehicle, the plane parallel to the median longitudinal plane of the vehicle coinciding with its outer lateral edge, and, in relation to the front and rear ends, the perpendicular transverse plane of the vehicle coinciding with its outer front and rear edges, account not being taken of the projection: 2.7.1. of tyres near their point of contact with the ground, and connections for tyre pressure gauges; 2.7.2. of any anti-skid devices which may be mounted on the wheels; 2.7.3. of rear-view mirrors; 2.7.4. of side direction indicator lamps, end outline marker lamps, front and rear position (side) lamps and parking lamps; 2.7.5. in relation to the front and rear ends, of parts mounted on the bumpers, of towing devices and of exhaust pipes; 2.8. 'the dimension of the projection' of a component mounted on a panel means the dimension determined by the method described in Annex II, item 2;
+2.9. 'the nominal line of a panel' means the line passing through the two points represented by the position of the centre of a sphere when its surface makes its first and last contact with a component during the measuring procedure described in Annex II, item 2.2. ▼M1
+3. APPLICATION FOR EEC TYPE-APPROVAL
+3.1. Application for EEC type-approval of a vehicle type in respect of its external projections
+3.1.1. The application for EEC type-approval of a vehicle type in respect of its external projections shall be submitted by the vehicle manufacturer or by his authorized representative. 3.1.2. It shall be accompanied by the undermentioned documents in triplicate: 3.1.2.1. photographs of the front, rear, and side parts of the vehicle taken at an angle of 30° to 45° to the vertical longitudinal median plane of the vehicle; 3.1.2.2. drawings of the bumpers; 3.1.2.3. where appropriate, drawings of specific external projections and, if necessary, of certain sections of the external surface referred to in item 6.9.1. 
+3.1.3. A vehicle representative of the type of vehicle to be approved shall be submitted to the technical service responsible for type-approval. At the request of the technical service, the specific components or samples of the materials used shall likewise be submitted. 3.2. Application for EEC type-approval in respect of luggage racks, ski racks or radio receiving or transmitting aerials considered to be separate technical units
+3.2.1. Applications for EEC type-approval in respect of luggage racks, ski racks or radio receiving or transmitting aerials considered to be separate technical units within the meaning of Article 9a of Directive 70/156/EEC shall be submitted by the vehicle manufacturer or the manufacturer of the aforementioned separate technical units, or by their authorized representative. 3.2.2. For every type of any one of the devices referred to in item 3.2.1 above, the application shall be accompanied by the following: 3.2.2.1. triplicate copies of documents specifying the technical characteristics of the separate technical unit and the assembly instructions to be supplied with every separate technical unit sold; 3.2.2.2. a specimen of the type of separate technical unit. Should the responsible authority consider it necessary, it may request a further specimen. The specimens shall be clearly and indelibly inscribed with the mark specified in Article 9a (3) of Directive 70/156/EEC. As far as luggage racks and ski racks are concerned, provision shall be made for the subsequent compulsory display of the EEC type-approval number. The type-approval number shall be preceded by the international registration letter(s) of the country granting such approval
+►A1
+ (
+5
+). ◄ 
+▼B
+4. EEC TYPE-APPROVAL
+(4.1.)
+(4.2.)
+(4.3.)
+(4.4.)
+(4.4.1.)
+(4.4.2.)
+(4.5.)
+4.6. A form conforming to the model in Annex III shall be attached to the EEC type-approval certificate. ▼M1
+4.6.1. When approval is granted for an application under item 3.1, a form conforming to the model in Annex III shall be attached to the type-approval certificate. 4.6.2. When approval is granted for an application under item 3.2, a form conforming to the model in Annex IV shall be issued. 4.6.3. Where reference is made in an application under item 3.1 to a form of the type illustrated in Annex IV, the scope of the vehicle test shall be reduced accordingly in respect of the external projections. In such cases, the type-approval certificate for the vehicle shall be accompanied by a copy of the type-approval certificate for the separate technical unit. ▼B
+5. GENERAL SPECIFICATIONS
+5.1. The provisions of this Annex shall not apply to those parts of the external surface which, with the vehicle in the laden condition, with all doors, windows and access lids etc., in the closed position, are either: 5.1.1. at a height of more than 2 m; or
+5.1.2. below the floor line; or
+▼M1
+5.1.3. so located that, in their static condition as well as when in operation, they cannot be contacted by a sphere 100 mm in diameter. ▼B
+5.2. The external surface of vehicles shall not exhibit, directed outwards, any pointed or sharp parts or any projections of such shape, dimensions, direction or hardness as to be likely to increase the risk or seriousness of bodily injury to a person hit by the external surface or brushing against it in the event of a collision.
+Article 6
+1. By 1 June 1975, the Member States shall adopt and publish the provisions necessary to comply with this Directive and shall immediately inform the Commission thereof.They shall apply these provisions from 1 October 1975.2.
+
+As soon as this Directive has been notified, the Member States shall ensure that any draft laws, regulations or administrative provisions which they intend to adopt in the field covered by this Directive are communicated to the Commission in sufficient time for the Commission to submit its comments thereon.
+Article 5
+Modifications which are necessary to adapt the provisions of Annexes I, 11 and III to take account of technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive No 70/156/EEC.
+Article 4
+A Member State which has granted type-approval shall take the measures necessary to ensure that it is informed of any modification to a part or characteristic referred to in item 2.2 of Annex I. The competent authorities of that Member State shall determine whether fresh tests should be carried out on the modified type and a fresh report drawn up.
+
+Where such tests reveal that the requirements of this Directive have not been complied with, the modification shall not be authorized. ▼B
+Article 3
+1. No Member State may, on grounds relating to external projections, refuse to register or prohibit the sale, entry into service or use of any vehicle provided that the external projections comply with the provisions of Annexes I and II.2.
+
+No Member State may, on grounds relating to external projections, prohibit the placing on the market of any luggage rack, ski rack or radio receiving or transmitting aerial considered as separate technical units within the meaning of Article 9a of Directive 70/156/EEC if it conforms to a type for which type-approval has been granted within the meaning of Article 2.
+4. METHOD OF DETERMINING THE DIMENSION OF A GAP OR THE SPACE BETWEEN ELEMENTS OF A GRILLE
+ANNEX II
+4. METHOD OF DETERMINING THE DIMENSION OF A GAP OR THE SPACE BETWEEN ELEMENTS OF A GRILLE
+▼M1
+METHODS OF DETERMINING THE DIMENSIONS OF PROJECTIONS AND GAPS
+▼M1
+▼B
+►M1
+ 1.1 ◄ 
+The height H of a projection is determined graphically by reference to the circumference of a 165 mm diameter circle, internally tangential to the external outline of the external surface at the section to be checked.
+
+►M1
+ 1.2 ◄ 
+H is the maximum value of the distance, measured along a straight line passing through the centre of the 165 mm diameter circle, between the circumference of the aforesaid circle and the external contour of the projection (see Fig. 1). ►M1
+ 1.3 ◄ 
+In cases where it is not possible for a 100 mm diameter circle to contact externally part of the external outline of the external surface at the section under consideration, the surface outline in this area will be assumed to be that formed by the circumference of the 100 mm diameter circle between its tangent points with the external outline (see Fig. 2). ►M1
+ 1.4 ◄ 
+Drawings of the necessary sections through the external surface shall be provided by the manufacturer to allow the height of the projections referred to above to be measured. ▼M1
+2.1. The dimension of the projection of a component which is mounted on a convex surface may be determined either directly or by reference to a drawing of an appropriate section of this component in its installed condition. 2.2. If the dimension of the projection of a component which is mounted on a surface other than convex cannot be determined by simple measurement, it shall be determined by the maximum variation of the distance of the centre of a 100 mm diameter sphere from the nominal line of the panel when the sphere is moved over and is in constant contact with that component. Figure 3 shows an example of the use of this procedure. 3.1. The projection from the external surface of the headlight shall be measured horizontally from the point of contact of a 100 mm diameter sphere as shown in Figure 4. 
+4.1. The dimension of a gap or space between elements of a grille shall be determined by the distance between two planes passing through the points of contact of the sphere and perpendicular to the line joining those points of contact. Figures 5 and 6 show examples of the use of this procedure. ▼B
+Figure 1
+Figure 2
+▼M1
+4. METHOD OF DETERMINING THE DIMENSION OF A GAP OR THE SPACE BETWEEN ELEMENTS OF A GRILLE
+ANNEX II
+4. METHOD OF DETERMINING THE DIMENSION OF A GAP OR THE SPACE BETWEEN ELEMENTS OF A GRILLE
+▼M1
+METHODS OF DETERMINING THE DIMENSIONS OF PROJECTIONS AND GAPS
+▼M1
+▼B
+►M1
+ 1.1 ◄ 
+The height H of a projection is determined graphically by reference to the circumference of a 165 mm diameter circle, internally tangential to the external outline of the external surface at the section to be checked.
+
+►M1
+ 1.2 ◄ 
+H is the maximum value of the distance, measured along a straight line passing through the centre of the 165 mm diameter circle, between the circumference of the aforesaid circle and the external contour of the projection (see Fig. 1). ►M1
+ 1.3 ◄ 
+In cases where it is not possible for a 100 mm diameter circle to contact externally part of the external outline of the external surface at the section under consideration, the surface outline in this area will be assumed to be that formed by the circumference of the 100 mm diameter circle between its tangent points with the external outline (see Fig. 2). ►M1
+ 1.4 ◄ 
+Drawings of the necessary sections through the external surface shall be provided by the manufacturer to allow the height of the projections referred to above to be measured. ▼M1
+2.1. The dimension of the projection of a component which is mounted on a convex surface may be determined either directly or by reference to a drawing of an appropriate section of this component in its installed condition. 2.2. If the dimension of the projection of a component which is mounted on a surface other than convex cannot be determined by simple measurement, it shall be determined by the maximum variation of the distance of the centre of a 100 mm diameter sphere from the nominal line of the panel when the sphere is moved over and is in constant contact with that component. Figure 3 shows an example of the use of this procedure. 3.1. The projection from the external surface of the headlight shall be measured horizontally from the point of contact of a 100 mm diameter sphere as shown in Figure 4. 
+4.1. The dimension of a gap or space between elements of a grille shall be determined by the distance between two planes passing through the points of contact of the sphere and perpendicular to the line joining those points of contact. Figures 5 and 6 show examples of the use of this procedure. ▼B
+Figure 1
+Figure 2
+▼M1
+Article 1
+For the purposes of this Directive, 'vehicle' means any motor vehicle of class M1 (defined in Annex I of Directive No 70/156/EEC) designed for use on the road, having at least four wheels and a maximum design speed exceeding 25 km/h.
+
+▼M1
+6.18. ASSEMBLY INSTRUCTIONS
+ANNEX I
+6.18. Assembly instructions
+GENREAL DEFINITIONS, APPLICATIONS FOR EEC TYPE-APPROVAL, EEC TYPE-APPROVAL, GENERAL SPECIFICATIONS, PARTICULAR SPECIFICATIONS, CONFORMITY OF PRODUCTION (
+4
+)
+▼M1
+1.1. The provisions of this Annex do not apply to exterior rear-view mirrors or to the ball of towing devices. ▼B
+1.2. The purpose of these provisions is to reduce the risk or seriousness of bodily injury to a person hit by the bodywork or brushing against it in the event of a collision. ►M1
+ This is valid both when the vehicle is stationary and in motion. ◄ 
+For the purposes of this Directive: 2.1. 'type-approval of a vehicle' means the approval of a vehicle type with regard to its external projections; 2.2. 'vehicle type as regards its external projections' means a category of motor vehicles not differing in such essential respects as shape or materials of the external surface; ▼M1
+2.3. 'external surface' means the outside of the vehicle including the bonnet, the lid of the luggage compartment, the doors, the wings, the roof, the lighting and light-signalling devices and the visible strengthening components; 2.4. 'floor line' means the line determined as follows: successively position round a laden vehicle a cone with a vertical axis the height of which is not defined, and with a half angle of 30° in such a way that it contacts, constantly and as low as possible, the external surface of the vehicle. The floor line is the geometric trace of these points of contact. In determining the floor line, the jacking points, exhaust pipes or wheels shall not be taken into consideration. The gaps of the wheel arches are assumed to be filled in by an imaginary surface forming a smoth continuation of the surrounding external surface. At both ends of the vehicle the bumper shall be taken into consideration when establishing the floor line. Dependent upon the particular vehicle the floor line trace may occur at the bumper section extremity or at the body panel below the bumper. Where two or more points of contact occur simultaneously, the lower point of contact shall be used to determine the floor line; 2.5. 'radius of curvature' means the radius of the arc of a circle which comes closest to the rounded form of the component under consideration; ▼M1
+2.6. 'laden vehicle' means the vehicle laden to the maximum permitted technical mass. Vehicles equipped with hydropneumatic, hydraulic or pneumatic suspension or a device for automatic levelling according to load shall be tested with the vehicle in the most adverse normal running condition specified by the manufacturer; 2.7. 'extreme outer edge' of the vehicle means, in relation to the sides of the vehicle, the plane parallel to the median longitudinal plane of the vehicle coinciding with its outer lateral edge, and, in relation to the front and rear ends, the perpendicular transverse plane of the vehicle coinciding with its outer front and rear edges, account not being taken of the projection: 2.7.1. of tyres near their point of contact with the ground, and connections for tyre pressure gauges; 2.7.2. of any anti-skid devices which may be mounted on the wheels; 2.7.3. of rear-view mirrors; 2.7.4. of side direction indicator lamps, end outline marker lamps, front and rear position (side) lamps and parking lamps; 2.7.5. in relation to the front and rear ends, of parts mounted on the bumpers, of towing devices and of exhaust pipes; 2.8. 'the dimension of the projection' of a component mounted on a panel means the dimension determined by the method described in Annex II, item 2;
+2.9. 'the nominal line of a panel' means the line passing through the two points represented by the position of the centre of a sphere when its surface makes its first and last contact with a component during the measuring procedure described in Annex II, item 2.2. ▼M1
+3.1.1. The application for EEC type-approval of a vehicle type in respect of its external projections shall be submitted by the vehicle manufacturer or by his authorized representative. 3.1.2. It shall be accompanied by the undermentioned documents in triplicate: 3.1.2.1. photographs of the front, rear, and side parts of the vehicle taken at an angle of 30° to 45° to the vertical longitudinal median plane of the vehicle; 3.1.2.2. drawings of the bumpers; 3.1.2.3. where appropriate, drawings of specific external projections and, if necessary, of certain sections of the external surface referred to in item 6.9.1. 
+3.1.3. A vehicle representative of the type of vehicle to be approved shall be submitted to the technical service responsible for type-approval. At the request of the technical service, the specific components or samples of the materials used shall likewise be submitted. 3.2.1. Applications for EEC type-approval in respect of luggage racks, ski racks or radio receiving or transmitting aerials considered to be separate technical units within the meaning of Article 9a of Directive 70/156/EEC shall be submitted by the vehicle manufacturer or the manufacturer of the aforementioned separate technical units, or by their authorized representative. 3.2.2. For every type of any one of the devices referred to in item 3.2.1 above, the application shall be accompanied by the following: 3.2.2.1. triplicate copies of documents specifying the technical characteristics of the separate technical unit and the assembly instructions to be supplied with every separate technical unit sold; 3.2.2.2. a specimen of the type of separate technical unit. Should the responsible authority consider it necessary, it may request a further specimen. The specimens shall be clearly and indelibly inscribed with the mark specified in Article 9a (3) of Directive 70/156/EEC. As far as luggage racks and ski racks are concerned, provision shall be made for the subsequent compulsory display of the EEC type-approval number. The type-approval number shall be preceded by the international registration letter(s) of the country granting such approval
+►A1
+ (
+5
+). ◄ 
+▼B
+(4.1.)
+(4.2.)
+(4.3.)
+(4.4.)
+(4.4.1.)
+(4.4.2.)
+(4.5.)
+4.6. A form conforming to the model in Annex III shall be attached to the EEC type-approval certificate. ▼M1
+4.6.1. When approval is granted for an application under item 3.1, a form conforming to the model in Annex III shall be attached to the type-approval certificate. 4.6.2. When approval is granted for an application under item 3.2, a form conforming to the model in Annex IV shall be issued. 4.6.3. Where reference is made in an application under item 3.1 to a form of the type illustrated in Annex IV, the scope of the vehicle test shall be reduced accordingly in respect of the external projections. In such cases, the type-approval certificate for the vehicle shall be accompanied by a copy of the type-approval certificate for the separate technical unit. ▼B
+5.1. The provisions of this Annex shall not apply to those parts of the external surface which, with the vehicle in the laden condition, with all doors, windows and access lids etc., in the closed position, are either: 5.1.1. at a height of more than 2 m; or
+5.1.2. below the floor line; or
+▼M1
+5.1.3. so located that, in their static condition as well as when in operation, they cannot be contacted by a sphere 100 mm in diameter. ▼B
+5.2. The external surface of vehicles shall not exhibit, directed outwards, any pointed or sharp parts or any projections of such shape, dimensions, direction or hardness as to be likely to increase the risk or seriousness of bodily injury to a person hit by the external surface or brushing against it in the event of a collision. 5.3. The external surface of vehicles shall not exhibit, directed outwards, any parts likely to catch on pedestrians, cyclists or motor cyclists.
+ANNEX III
+ANNEX III
+MODEL
+►(1) M1
+▼M1
+| E/ECE/324 | Rev. 1 Add. 25. |
+|---|---|
+| E/ECE/TRANS/505 | Rev. 1 Add. 25. |
+
+(
+4
+) The text of the Annexes in basically similar to that of Regulation No 26 of the Economic Commission for Europe of the United Nations. In particular the subdivision of the sections is the same. Where an item of Regulation No 26 has no corresponding item in the Annexes, the number is none the less given for the record in brackets.(
+5
+) B = Belgium, D = Germany, DK = Denmark, E = Spain, F = France, 
+►M2
+ EL = Greece ◄ , I = Italy, IRL = Ireland, L = Luxembourg, N L = Netherlands, P = Portugal, UK = United Kingdom,
+►
+►
+ 12 = Austria, 17 = Finland, 5 = Sweden, ◄ 
+ ◄ 
+►A3
+ 8 for the Czech Republic, 29 for Estonia, CY for Cyprus, 32 for Latvia, 36 for Lithuania, 7 for Hungary, MT for Malta, 20 for Poland, 26 for Slovenia, 27 for Slovakia, ◄ 
+►M3
+ 34 for Bulgaria, 19 for Romania. ◄
+| E/ECE/324 | Rev. 1 Add. 25. |
+|---|---|
+| E/ECE/TRANS/505 | Rev. 1 Add. 25. |
+
+(
+4
+) The text of the Annexes in basically similar to that of Regulation No 26 of the Economic Commission for Europe of the United Nations. In particular the subdivision of the sections is the same. Where an item of Regulation No 26 has no corresponding item in the Annexes, the number is none the less given for the record in brackets.(
+5
+) B = Belgium, D = Germany, DK = Denmark, E = Spain, F = France, 
+►M2
+ EL = Greece ◄ , I = Italy, IRL = Ireland, L = Luxembourg, N L = Netherlands, P = Portugal, UK = United Kingdom,
+►
+►
+ 12 = Austria, 17 = Finland, 5 = Sweden, ◄ 
+ ◄ 
+►A3
+ 8 for the Czech Republic, 29 for Estonia, CY for Cyprus, 32 for Latvia, 36 for Lithuania, 7 for Hungary, MT for Malta, 20 for Poland, 26 for Slovenia, 27 for Slovakia, ◄ 
+►M3
+ 34 for Bulgaria, 19 for Romania, ◄ 
+►M5
+ 25 for Croatia. ◄
+ANNEX III
+ANNEX III
+MODEL
+►(1) M1
+▼M1
+| E/ECE/324 | Rev. 1 Add. 25. |
+|---|---|
+| E/ECE/TRANS/505 | Rev. 1 Add. 25. |
+
+(
+4
+) The text of the Annexes in basically similar to that of Regulation No 26 of the Economic Commission for Europe of the United Nations. In particular the subdivision of the sections is the same. Where an item of Regulation No 26 has no corresponding item in the Annexes, the number is none the less given for the record in brackets.(
+5
+) B = Belgium, D = Germany, DK = Denmark, E = Spain, F = France, 
+►M2
+ EL = Greece ◄ , I = Italy, IRL = Ireland, L = Luxembourg, N L = Netherlands, P = Portugal, UK = United Kingdom,
+►
+►
+ 12 = Austria, 17 = Finland, 5 = Sweden, ◄ 
+ ◄ 
+►A3
+ 8 for the Czech Republic, 29 for Estonia, CY for Cyprus, 32 for Latvia, 36 for Lithuania, 7 for Hungary, MT for Malta, 20 for Poland, 26 for Slovenia, 27 for Slovakia, ◄ 
+►M3
+ 34 for Bulgaria, 19 for Romania. ◄
+Article 4
+A Member State which has granted type-approval shall take the measures necessary to ensure that it is informed of any modification to a part or characteristic referred to in item 2.2 of Annex I. The competent authorities of that Member State shall determine whether fresh tests should be carried out on the modified type and a fresh report drawn up.
+
+Where such tests reveal that the requirements of this Directive have not been complied with, the modification shall not be authorized. ▼B
+Article 6
+1. By 1 June 1975, the Member States shall adopt and publish the provisions necessary to comply with this Directive and shall immediately inform the Commission thereof.They shall apply these provisions from 1 October 1975.2.
+
+As soon as this Directive has been notified, the Member States shall ensure that any draft laws, regulations or administrative provisions which they intend to adopt in the field covered by this Directive are communicated to the Commission in sufficient time for the Commission to submit its comments thereon.
+Article 5
+Modifications which are necessary to adapt the provisions of Annexes I, 11 and III to take account of technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive No 70/156/EEC.
+Introduction
+COUNCIL DIRECTIVEof 17 September 1974on the approximation of the laws of the Member States relating to the external projections of motor vehicles
+(74/483/EEC)
+(OJ L 266, 2.10.1974, p.4)Amended by:
+
+Official Journal
+ No
+page
+date
+►M1
+COMMISSION DIRECTIVE 79/488/EEC of 18 April 1979
+ L 128
+1
+26.5.1979
+►M2
+COUNCIL DIRECTIVE 87/354/EEC of 25 June 1987
+ L 192
+43
+11.7.1987
+►M3
+COUNCIL DIRECTIVE 2006/96/EC of 20 November 2006
+ L 363
+81
+20.12.2006
+Amended by: ►A1
+Act of Accession of Spain and Portugal
+ L 302
+23
+15.11.1985
+ A2
+Act of Accession of Austria, Sweden and Finland
+ C 241
+21
+29.8.1994
+(adapted by Council Decision 95/1/EC, Euratom, ECSC)
+ L 001
+1
+.. ►A3
+Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded
+ L 236
+33
+23.9.2003
+▼B
+COUNCIL DIRECTIVEof 17 September 1974on the approximation of the laws of the Member States relating to the external projections of motor vehicles(74/483/EEC)
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof; Having regard to the proposal from the Commission; Having regard to the Opinion of the European Parliament (
+1
+);
+Having regard to the Opinion of the Economic and Social Committee; Whereas the technical requirements which motor vehicles must satisfy pursuant to national laws relate, inter alia, to external projections; Whereas those requirements differ from one Member State to another; whereas it is therefore necessary that all Member States adopt the same requirements either in addition to or in place of their existing rules in order, in particular, to allow the EEC type-approval procedure which was the subject of Council Directive No 70/156/EEC (
+2
+) of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers to be applied in respect of each type of vehicle; Whereas it is desirable to adopt certain technical requirements adopted by the UN Economic Commission for Europe in its Regulation No 26 ('Uniform provisions concerning the approval of vehicles with regard to their external projections') (
+3
+), annexed to the Agreement of 20 March 1958 concerning the adoption of uniform conditions of approval and reciprocal recognition of approval for motor vehicle equipment and parts; Whereas these requirements apply to motor vehicles of category M1 (the international classification of motor vehicles is given in Directive No 70/156/EEC);
+Whereas the approximation of national laws relating to motor vehicles entails reciprocal recognition by Member States of inspection carried out by each of them on the basis of common requirements; whereas, such a system must, if it is to function smoothly, be applied by all Member States with effect from the same date,
+HAS ADOPTED THIS DIRECTIVE:
+Council Directive 74/483/EEC of 17 September 1974 on the approximation of the laws of the Member States relating to the external projections of motor vehicles
+COUNCIL DIRECTIVE of 17 September 1974 on the approximation of the laws of the Member States relating to the external projections of motor vehicles (74/483/EEC) THE COUNCIL OF THE EUROPEAN COMMUNITIES, Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof; Having regard to the proposal from the Commission; Having regard to the Opinion of the European Parliament (1); Having regard to the Opinion of the Economic and Social Committee; Whereas the technical requirements which motor vehicles must satisfy pursuant to national laws relate, inter alia, to external projections; Whereas those requirements differ from one Member State to another ; whereas it is therefore necessary that all Member States adopt the same requirements either in addition to or in place of their existing rules in order, in particular, to allow the EEC type-approval procedure which was the subject of Council Directive No 70/156/EEC (2) of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers to be applied in respect of each type of vehicle; Whereas it is desirable to adopt certain technical requirements adopted by the UN Economic Commission for Europe in its Regulation No 26 ("Uniform provisions concerning the approval of vehicles with regard to their external projections") (3), annexed to the Agreement of 20 March 1958 concerning the adoption of uniform conditions of approval and reciprocal recognition of approval for motor vehicle equipment and parts; Whereas these requirements apply to motor vehicles of category M1 (the international classification of motor vehicles is given in Directive No 70/156/EEC); Whereas the approximation of national laws relating to motor vehicles entails reciprocal recognition by Member States of inspection carried out by each of them on the basis of common requirements ; whereas, such a system must, if it is to function smoothly, be applied by all Member States with effect from the same date, HAS ADOPTED THIS DIRECTIVE: Article 1 For the purposes of this Directive, "vehicle" means any motor vehicle of class M1 (defined in Annex I of Directive No 70/156/EEC) designed for use on the road, having at least four wheels and a maximum design speed exceeding 25 km/h. Article 2 No Member State may refuse to grant EEC type-approval or national type-approval of a vehicle on grounds relating to the external projections if such projections satisfy the requirements laid down in Annexes I and II.
+
+Article 3 No Member State may refuse to register or prohibit the sale, entry into service or use of any vehicle on grounds relating to the external projections if such projections satisfy the requirements laid down in Annexes I and II. Article 4 The Member State which has granted type-approval shall take the necessary measures to ensure that it is informed of any modification of a part or (1)OJ No C 55, 13.5.1974, p. 14. (2)OJ No L 42, 23.2.1970, p. 1. (3)>PIC FILE= "T0006118"> characteristic referred to in item 2.2 of Annex I. The competent authorities of that State shall determine whether fresh tests should be carried out on the modified vehicle type and a fresh report drawn up. Where such tests reveal failure to comply with the requirements of this Directive, the modification shall not be approved. Article 5 Modifications which are necessary to adapt the provisions of Annexes I, II and III to take account of technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive No 70/156/EEC. Article 6 1. By 1 June 1975, the Member States shall adopt and publish the provisions necessary to comply with this Directive and shall immediately inform the Commission thereof. They shall apply these provisions from 1 October 1975. 2. As soon as this Directive has been notified, the Member States shall ensure that any draft laws, regulations or administrative provisions which they intend to adopt in the field covered by this Directive are communicated to the Commission in sufficient time for the Commission to submit its comments thereon. Article 7 This Directive is addressed to the Member States. Done at Brussels, 17 September 1974. For the Council The President J. SAUVAGNARGUES ANNEX I GENREAL DEFINITIONS, APPLICATIONS FOR EEC TYPE-APPROVAL, EEC TYPE-APPROVAL, GENERAL SPECIFICATIONS, PARTICULAR SPECIFICATIONS, CONFORMITY OF PRODUCTION 1. GENERAL 1.1. The provisions of this Annex do not apply to exterior rear view mirrors or to accessories such as radio aerials and luggage racks. 1.2. The purpose of these provisions is to reduce the risk or seriousness of bodily injury to a person hit by the bodywork or brushing against it in the event of a collision. 2. DEFINITIONS For the purposes of this Directive: 2.1. "type-approval of a vehicle" means the approval of a vehicle type with regard to its external projections; 2.2. "vehicle type as regards its external projections" means a category of motor vehicles not differing in such essential respects as shape or materials of the external surface; 2.3. "external surface" means the structural unit constituting the outside of the vehicle and including the bonnet, the lid of the luggage compartment, the doors, the wings, and the visible strengthening components; 2.4. "floor line" means the line determined as follows: successively position round a vehicle a cone with a vertical axis and with a half angle of 30º in such a way that it contacts, constantly and as low as possible, the external surface of the bodywork. The floor line is the geometric trace of these points of contact. In determining the floor line, the jacking points, exhaust pipes or wheels will not be taken into consideration. The gaps of the wheel arches are assumed to be filled in by an imaginary surface forming a smooth continuation of the surrounding external surface; 2.5. "radius of curvature" means the approximate extent of the rounding as distinct from a precise geometrical form. 3. APPLICATION FOR EEC TYPE-APPROVAL 3.1. The application for EEC type-approval of a vehicle type with regard to its external projections shall be submitted by the vehicle manufacturer or by his authorized representative. 3.2. It shall be accompanied by the undermentioned documents in triplicate: 3.2.1. photographs of the front, rear and side parts of the vehicle; (1)The text of the Annexes in basically similar to that of Regulation No 26 of the Economic Commission for Europe of the United Nations. In particular the subdivision of the sections is the same. Where an item of Regulation No 26 has no corresponding item in the Annexes, the number is none the less given for the record in brackets. 3.2.2. drawings, with dimensions, of the bumpers and, where appropriate; 3.2.3. drawings of certain external projections and if applicable drawings of certain sections of the external surface referred to in 6.9.1. 3.3. The following shall be submitted to the technical service responsible for the type-approval tests: 3.3.1. either a vehicle representative of the vehicle type to be type-approved or the part or parts of the vehicle regarded as essential for the checks and tests prescribed by this Annex; 3.3.2. at the request of the aforesaid technical service, certain components and certain samples of the materials used. 4. EEC TYPE-APPROVAL (4.1.) (4.2.) (4.3.) (4.4.) (4.4.1.) (4.4.2.) (4.5.) 4.6. A form conforming to the model in Annex III shall be attached to the EEC type-approval certificate.
+Article 3
+1. No Member State may, on grounds relating to external projections, refuse to register or prohibit the sale, entry into service or use of any vehicle provided that the external projections comply with the provisions of Annexes I and II.2.
+
+No Member State may, on grounds relating to external projections, prohibit the placing on the market of any luggage rack, ski rack or radio receiving or transmitting aerial considered as separate technical units within the meaning of Article 9a of Directive 70/156/EEC if it conforms to a type for which type-approval has been granted within the meaning of Article 2.
+Article 2
+No Member State may, on grounds relating to external projections, refuse to grant EEC type-approval or national type-approval for a motor vehicle, or for luggage racks, ski racks or radio receiving or transmitting aerials considered as separate technical units, if:
+
+— the vehicle complies with the provisions of Annexes I and II as regards external projections,
+— the luggage racks, ski racks or radio receiving or transmitting aerials considered as separate technical units within the meaning of Article 9a of Directive 70/156/EEC comply with the provisions of Annex I.
+4. EEC TYPE-APPROVAL (4.1.) (4.2.) (4.3.) (4.4.) (4.4.1.) (4.4.2.) (4.5.) 4.6. A form conforming to the model in Annex III shall be attached to the EEC type-approval certificate. 5. GENERAL SPECIFICATIONS 5.1. The provisions of this Annex shall not apply to those parts of the external surface which, with the vehicle in the laden condition, with all doors, windows and access lids etc., in the closed position, are either: 5.1.1. at a height of more than 2 m ; or 5.1.2. below the floor line ; or 5.1.3. so located that, in static conditions, they cannot be contacted by a sphere 100 mm in diameter. 5.2. The external surface of vehicles shall not exhibit, directed outwards, any pointed or sharp parts or any projections of such shape, dimensions, direction or hardness as to be likely to increase the risk or seriousness of bodily injury to a person hit by the external surface or brushing against it in the event of a collision. 5.3. The external surface of vehicles shall not exhibit, directed outwards, any parts likely to catch on pedestrians, cyclists or motor cyclists. 5.4. Subject to the provisions of items 5.5, 6.1.3, 6.3, 6.4.2, 6.7.1, 6.8.1, 6.10, below, no protruding part of the external surface shall have a radius of curvature less than 2.5 mm. 5.5. Protruding parts of the external surface, made of a material of hardness not exceeding 60 shore A, may have a radius of curvature less than 2 75 mm. 6. PARTICULAR SPECIFICATIONS 6.1. Ornaments 6.1.1. Added ornaments which project more than 10 mm from their support shall retract, become detached or bend over under a force of 10 daN exerted at their most salient point in any direction in a plane approximately parallel to the surface on which they are mounted. These provisions shall not apply to ornaments on radiator grilles, to which only the general requirements of item 5 shall apply. 6.1.2. Protective strips or shielding on the external surface shall not be subject to the requirements of item 6.1.1 above. However, they shall be firmly secured to the vehicle. 6.1.3. If the added ornaments are less than 5 mm thick, the requirement of a 2 75 mm minimum radius of curvature shall not apply, but the outward facing angles of such ornaments shall be blunted. 6.2. Headlights 6.2.1. Projecting visors and rims shall be permitted on headlights, provided that their projection, as measured in relation to the external transparent surface of the headlight does not exceed 30 mm and their radius of curvature is at least 2.5 mm throughout. 6.2.2. Retracting headlights shall meet the requirements of item 6.2.1 above in both the operative and retracted positions. 6.3. Grilles and gaps 6.3.1. The requirements of item 5.4 shall not apply to gaps between fixed or movable elements including those forming part of air intake or outlet grilles and radiator grilles, provided that the distance between consecutive elements does not exceed 40 mm. For gaps of between 40 mm and 25 mm the radii of curvature shall be of 1 mm or more. However, if the distance between two consecutive elements is equal to or less than 25 mm, the radii of curvature of external faces of the elements shall not be less than 0 75 mm. 6.3.2. The junction of the front with the side faces of each element forming a grille or gap shall be blunted. 6.4. Windscreen wipers 6.4.1. The windscreen-wiper fittings shall be such that the wiper shaft is furnished with a protective casing which has a radius of curvature meeting the requirements of item 5.4 above and a surface of not less than 150 mm2. 6.4.2. Item 5.4 shall not apply to the wiper blades or to any supporting members. However, these units shall be so made as to have no sharp angles or pointed or cutting parts of a non-functional nature. 6.5. Bumpers 6.5.1. The ends of the bumpers shall be turned in towards the external surface in order to reduce the risk of fouling. 6.5.2. The components of the bumper shall be so designed that all rigid surfaces facing outwards have a minimum radius of curvature of 5 mm. 6.6. Handles, hinges and push-buttons of doors, luggage compartments and flaps ; tank openings and covers. 6.6.1. The projection shall not exceed 40 mm in the case of lateral door handles and 30 mm in all other cases, 6.6.2. If lateral door handles turn to operate, they shall meet the following requirements: 6.6.2.1. the open end of the handle must be directed towards the rear and the handle so arranged that it turns parallel to the plane of the door and does not pivot outwards; 6.6.2.2. the end of the handle must be turned back towards the door and fitted into a recess. 6.7. Wheel nuts, hub caps and wheel discs 6.7.1. The requirements of item 5.4 shall not apply. 6.7.2. The wheel nuts, hub caps and wheel discs shall not exhibit any fin-shaped projections. 6.7.3. When the vehicle is travelling in a straight line, no part of the wheels other than the tyres, situated above the horizontal plane passing through their axis of rotation shall project beyond the vertical projection, in a horizontal plane, of the external surface or structure. However, if functional requirements so warrant, wheel discs which cover wheel and hub nuts may project beyond the vertical projection of the external surface or structure on condition that the radius of curvature of the surface of the projecting part is not less than 30 mm and that the projection beyond the vertical projection of the external surface or structure in no case exceeds 30 mm. 6.8. Sheet-metal edges 6.8.1. Sheet-metal edges, such as gutter edges and the rails of sliding doors shall not be permitted unless they are folded back or are fitted with a shield meeting the requirements of this Annex which are applicable to it. 6.9. Body panels 6.9.1. Folds in body panels may have a radius of curvature of less than 2 75 mm, provided that it is not less than one-tenth of the height "H" of the projection, measured in accordance with the method described in Annex II. 6.10. Lateral air or rain deflectors 6.10.1. Lateral deflectors shall have a radius of curvature of at least 1 mm on edges capable of being directed outwards. 6.11. Jacking brackets 6.11.1. The jacking bracket shall not project more than a distance of 10 mm beyond the vertical projection of the floor line lying directly above it. (7.) (7.1.) (7.1.1.) (7.1.2.) (7.2.) 8. CONFORMITY OF PRODUCTION (8.1.) 8.2. In order to verify conformity with the approved type, a sufficient number of random checks shall be performed on serially produced vehicles. (9.) (9.1.) (9.2.) (10.) ANNEX II METHOD FOR DETERMINING THE HEIGHT OF EXTERNAL SURFACE PROJECTIONS 1. The height H of a projection is determined graphically by reference to the circumference of a 165 mm diameter circle, internally tangential to the external outline of the external surface at the section to be checked. 2. H is the maximum value of the distance, measured along a straight line passing through the centre of the 165 mm diameter circle, between the circumference of the aforesaid circle and the external contour of the projection (see Fig. 1). 3. In cases where it is not possible for a 100 mm diameter circle to contact externally part of the external outline of the external surface at the section under consideration, the surface outline in this area will be assumed to be that formed by the circumference of the 100 mm diameter circle between its tangent points with the external outline (see Fig. 2). 4. Drawings of the necessary sections through the external surface shall be provided by the manufacturer to allow the height of the projections referred to above to be measured. >PIC FILE= "T0006119"> ANNEX III MODEL >PIC FILE= "T0006120">
+▼B
+5.2. The external surface of vehicles shall not exhibit, directed outwards, any pointed or sharp parts or any projections of such shape, dimensions, direction or hardness as to be likely to increase the risk or seriousness of bodily injury to a person hit by the external surface or brushing against it in the event of a collision.
+
+5.3. The external surface of vehicles shall not exhibit, directed outwards, any parts likely to catch on pedestrians, cyclists or motor cyclists. ▼M1
+5.4. No protruding part of the external surface shall have a radius of curvature less than 2-5 mm. This requirement shall not apply to parts of the external surface which protrude less than 5 mm, but the outward facing angles of such parts shall be blunted, save where such parts protrude less than 1·5 mm. ▼B
+5.5. Protruding parts of the external surface, made of a material of hardness not exceeding 60 shore A, may have a radius of curvature less than 2·5 mm. ►M1
+ The hardness measurement shall be taken with the component as installed on the vehicle. Where it is impossible to carry out a hardness measurement by the Shore A procedure, comparable measurements shall be used for evaluation. ◄ 
+▼M1
+5.6. The provisions of the above items 5.1 to 5.5 shall apply in addition to the particular specifications of the following item 6, except where these particular specifications expressly provide otherwise. ▼B
+6. PARTICULAR SPECIFICATIONS
+6.1. Ornaments
+6.1.1. Added ornaments which project more than 10 mm from their support shall retract, become detached or bend over under a force of 10 daN exerted at their most salient point in any direction in a plane approximately parallel to the surface on which they are mounted. These provisions shall not apply to ornaments on radiator grilles, to which only the general requirements of item 5 shall apply. ►M1
+ To apply the 10 daN force a flat-ended ram of not more than 50 mm diameter shall be used. Where this is not possible, an equivalent method shall be used. After the ornaments are retracted, detached or bent over, the remaining projections shall not project more than 10 mm. These projections shall in any case satisfy the provisions of item 5.2. If the ornament is mounted on a base, this base is regarded as belonging to the ornament and not to the supporting surface. ◄ 
+6.1.2. Protective strips or shielding on the external surface shall not be subject to the requirements of item 6.1.1 above. However, they shall be firmly secured to the vehicle. ▼M1 —————
+▼B
+6.2. Headlights
+6.2.1. Projecting visors and rims shall be permitted on headlights, provided that their projection, as measured in relation to the external transparent surface of the headlight does not exceed 30 mm and their radius of curvature is at least 2·5 mm throughout. ►M1
+ In the case of a headlight mounted behind an additional transparent surface, the projection shall be measured from the outermost transparent surface. The projections shall be determined according to the method described in item 3 of Annex II. ◄ 
+6.2.2. Retracting headlights shall meet the requirements of item 6.2.1 above in both the operative and retracted positions. ▼M1
+6.2.3. The provisions of item 6.2.1 above do not apply to headlights which are sunk into the bodywork or which are 'overhung' by the bodywork, if the latter complies with the requirements of item 6.9.1. 
+▼B
+6.3. Grilles and gaps
+▼M1
+6.3.1. The requirements of item 5.4 shall not apply to gaps between fixed or movable elements, including those forming part of air intake or outlet grilles and radiator grilles, provided that the distance between consecutive elements does not exceed 40 mm and provided that the grilles and gaps have a functional purpose. For gaps of between 40 mm and 25 mm the radii of curvature shall be 1 mm or more. However, if the distance between two consecutive elements is equal to or less than 25 mm, the radii of curvature of external faces of the elements shall not be less than 0·5 mm. The distance between two consecutive elements of grilles and gaps shall be determined according to the method described in item 4 of Annex II. ▼B
+6.3.2. The junction of the front with the side faces of each element forming a grille or gap shall be blunted. 6.4. Windscreen wipers
+▼M1
+6.4.1. The windscreen wiper fittings shall be such that the wiper shaft is furnished with a protective casing which has a radius of curvature meeting the requirements of item 5.4 above and an end surface area of not less than 150 mm2. In the case of rounded covers, these shall have a minimum projected area of 150 mm2 when measured not more than 6·5 mm from the point projecting furthest. These requirements shall also be met by rear window wipers and headlight wipers. 6.4.2. Item 5.4 shall not apply to the wiper blades or to any supporting members. However, these units shall be so made as to have no sharp angles or pointed or cutting parts. ▼B
+6.5. Bumpers
+▼M1
+6.5.1. The ends of the bumpers shall be turned in towards the external surface in order to minimize the risk of fouling. This requirement is considered to be satisfied if either the bumper is recessed or integrated within the bodywork or the end of the bumper is turned in so that it is not contactable by a 100 mm sphere and the gap between the bumper end and the surrounding bodywork does not exceed 20 mm. ▼M4
+6.5.2. If the line of the bumper, front or rear, corresponding to the outline contour of the vehicle, from a vertical projection, is on a rigid surface, that surface shall have a minimum radius of curvature of 5 mm for all points lying between the contour line and lines, above and below the contour line, which are the traces of points 20 mm inside, and measured normal to, the contour line at any point. A minimum surface radius of curvature of 2,5 mm shall apply to all other areas of the bumpers. This provision applies to that part of the bumper lying between tangential points of contact of the contour line with two vertical planes each set at an angle of 15 degrees with the vertical longitudinal plane of symmetry of the vehicle (see Figure 1). {{IMAGE:Image_0}}
+Figure 1
+▼M1
+6.5.3. The requirement of item 6.5.2 shall not apply to parts on or of the bumper or to bumper insets which have a projection of less than 5 mm, with special reference to joint covers and jets for headlight washers; but the outward facing angles of such parts shall be blunted, save where such parts protrude less than 1·5 mm. ▼M1
+6.6. Handles, hinges and push-buttons of doors, luggage compartments and bonnets; fuel tank filler caps and covers
+6.6.1. The projection shall not exceed 40 mm in the case of door or luggage compartment handles and 30 mm in all other cases. 6.6.2. If lateral door handles rotate to operate, they shall meet one or other of the following requirements: 6.6.2.1. In the case of handles which rotate parallel to the plane of the door the open end of handles must be directed towards the rear. The end of such handles shall be turned back towards the plane of the door and fitted into a protective surround or be recessed. 6.6.2.2. Handles which pivot outwards in any direction which is not parallel to the plane of the door shall, when in the closed position, be enclosed in a protective surround or be recessed. The open end shall face either rearwards or downwards. Nevertheless, handles which do not comply with this last condition may be accepted if: — they have an independent return mechanism,
+— should the return mechanisms fail, they cannot project more than 15 mm,
+— they comply, in such opened position, with the provisions of item 5.4, and
+— their end surface area, when measured not more than 6·5 mm from the point projecting furthest, is not less than 150 mm2. 6.7. Wheels, wheel nuts, hub caps and wheel discs
+▼B
+6.7.1. The requirements of item 5.4 shall not apply. ▼M1
+6.7.2. The wheels, wheel nuts, hub caps and wheel discs shall not exhibit any pointed or sharp projections that extend beyond the external plane of the wheel rim.
+▼B
+5.2. The external surface of vehicles shall not exhibit, directed outwards, any pointed or sharp parts or any projections of such shape, dimensions, direction or hardness as to be likely to increase the risk or seriousness of bodily injury to a person hit by the external surface or brushing against it in the event of a collision.
+
+5.3. The external surface of vehicles shall not exhibit, directed outwards, any parts likely to catch on pedestrians, cyclists or motor cyclists. ▼M1
+5.4. No protruding part of the external surface shall have a radius of curvature less than 2-5 mm. This requirement shall not apply to parts of the external surface which protrude less than 5 mm, but the outward facing angles of such parts shall be blunted, save where such parts protrude less than 1·5 mm. ▼B
+5.5. Protruding parts of the external surface, made of a material of hardness not exceeding 60 shore A, may have a radius of curvature less than 2·5 mm. ►M1
+ The hardness measurement shall be taken with the component as installed on the vehicle. Where it is impossible to carry out a hardness measurement by the Shore A procedure, comparable measurements shall be used for evaluation. ◄ 
+▼M1
+5.6. The provisions of the above items 5.1 to 5.5 shall apply in addition to the particular specifications of the following item 6, except where these particular specifications expressly provide otherwise. ▼B
+6. PARTICULAR SPECIFICATIONS
+6.1. Ornaments
+6.1.1. Added ornaments which project more than 10 mm from their support shall retract, become detached or bend over under a force of 10 daN exerted at their most salient point in any direction in a plane approximately parallel to the surface on which they are mounted. These provisions shall not apply to ornaments on radiator grilles, to which only the general requirements of item 5 shall apply. ►M1
+ To apply the 10 daN force a flat-ended ram of not more than 50 mm diameter shall be used. Where this is not possible, an equivalent method shall be used. After the ornaments are retracted, detached or bent over, the remaining projections shall not project more than 10 mm. These projections shall in any case satisfy the provisions of item 5.2. If the ornament is mounted on a base, this base is regarded as belonging to the ornament and not to the supporting surface. ◄ 
+6.1.2. Protective strips or shielding on the external surface shall not be subject to the requirements of item 6.1.1 above. However, they shall be firmly secured to the vehicle. ▼M1 —————
+▼B
+6.2. Headlights
+6.2.1. Projecting visors and rims shall be permitted on headlights, provided that their projection, as measured in relation to the external transparent surface of the headlight does not exceed 30 mm and their radius of curvature is at least 2·5 mm throughout. ►M1
+ In the case of a headlight mounted behind an additional transparent surface, the projection shall be measured from the outermost transparent surface. The projections shall be determined according to the method described in item 3 of Annex II. ◄ 
+6.2.2. Retracting headlights shall meet the requirements of item 6.2.1 above in both the operative and retracted positions. ▼M1
+6.2.3. The provisions of item 6.2.1 above do not apply to headlights which are sunk into the bodywork or which are 'overhung' by the bodywork, if the latter complies with the requirements of item 6.9.1. 
+▼B
+6.3. Grilles and gaps
+▼M1
+6.3.1. The requirements of item 5.4 shall not apply to gaps between fixed or movable elements, including those forming part of air intake or outlet grilles and radiator grilles, provided that the distance between consecutive elements does not exceed 40 mm and provided that the grilles and gaps have a functional purpose. For gaps of between 40 mm and 25 mm the radii of curvature shall be 1 mm or more. However, if the distance between two consecutive elements is equal to or less than 25 mm, the radii of curvature of external faces of the elements shall not be less than 0·5 mm. The distance between two consecutive elements of grilles and gaps shall be determined according to the method described in item 4 of Annex II. ▼B
+6.3.2. The junction of the front with the side faces of each element forming a grille or gap shall be blunted. 6.4. Windscreen wipers
+▼M1
+6.4.1. The windscreen wiper fittings shall be such that the wiper shaft is furnished with a protective casing which has a radius of curvature meeting the requirements of item 5.4 above and an end surface area of not less than 150 mm2. In the case of rounded covers, these shall have a minimum projected area of 150 mm2 when measured not more than 6·5 mm from the point projecting furthest. These requirements shall also be met by rear window wipers and headlight wipers. 6.4.2. Item 5.4 shall not apply to the wiper blades or to any supporting members. However, these units shall be so made as to have no sharp angles or pointed or cutting parts. ▼B
+6.5. Bumpers
+▼M1
+6.5.1. The ends of the bumpers shall be turned in towards the external surface in order to minimize the risk of fouling. This requirement is considered to be satisfied if either the bumper is recessed or integrated within the bodywork or the end of the bumper is turned in so that it is not contactable by a 100 mm sphere and the gap between the bumper end and the surrounding bodywork does not exceed 20 mm. ▼B
+6.5.2. The components of the bumper shall be so designed that all rigid surfaces facing outwards have a minimum radius of curvature of 5 mm. ▼M1
+6.5.3. The requirement of item 6.5.2 shall not apply to parts on or of the bumper or to bumper insets which have a projection of less than 5 mm, with special reference to joint covers and jets for headlight washers; but the outward facing angles of such parts shall be blunted, save where such parts protrude less than 1·5 mm. ▼M1
+6.6. Handles, hinges and push-buttons of doors, luggage compartments and bonnets; fuel tank filler caps and covers
+6.6.1. The projection shall not exceed 40 mm in the case of door or luggage compartment handles and 30 mm in all other cases. 6.6.2. If lateral door handles rotate to operate, they shall meet one or other of the following requirements: 6.6.2.1. In the case of handles which rotate parallel to the plane of the door the open end of handles must be directed towards the rear. The end of such handles shall be turned back towards the plane of the door and fitted into a protective surround or be recessed. 6.6.2.2. Handles which pivot outwards in any direction which is not parallel to the plane of the door shall, when in the closed position, be enclosed in a protective surround or be recessed. The open end shall face either rearwards or downwards. Nevertheless, handles which do not comply with this last condition may be accepted if: — they have an independent return mechanism,
+— should the return mechanisms fail, they cannot project more than 15 mm,
+— they comply, in such opened position, with the provisions of item 5.4, and
+— their end surface area, when measured not more than 6·5 mm from the point projecting furthest, is not less than 150 mm2. 6.7. Wheels, wheel nuts, hub caps and wheel discs
+▼B
+6.7.1. The requirements of item 5.4 shall not apply. ▼M1
+6.7.2. The wheels, wheel nuts, hub caps and wheel discs shall not exhibit any pointed or sharp projections that extend beyond the external plane of the wheel rim. Wing nuts shall not be allowed. ▼B
+6.7.3. When the vehicle is travelling in a straight line, no part of the wheels other than the tyres, situated above the horizontal plane passing through their axis of rotation shall project beyond the vertical projection, in a horizontal plane, of the external surface or structure.
+5.3. The external surface of vehicles shall not exhibit, directed outwards, any parts likely to catch on pedestrians, cyclists or motor cyclists. ▼M1
+5.4. No protruding part of the external surface shall have a radius of curvature less than 2-5 mm. This requirement shall not apply to parts of the external surface which protrude less than 5 mm, but the outward facing angles of such parts shall be blunted, save where such parts protrude less than 1·5 mm. ▼B
+5.5. Protruding parts of the external surface, made of a material of hardness not exceeding 60 shore A, may have a radius of curvature less than 2·5 mm. ►M1
+ The hardness measurement shall be taken with the component as installed on the vehicle. Where it is impossible to carry out a hardness measurement by the Shore A procedure, comparable measurements shall be used for evaluation. ◄ 
+▼M1
+5.6. The provisions of the above items 5.1 to 5.5 shall apply in addition to the particular specifications of the following item 6, except where these particular specifications expressly provide otherwise. ▼B
+6.1.1. Added ornaments which project more than 10 mm from their support shall retract, become detached or bend over under a force of 10 daN exerted at their most salient point in any direction in a plane approximately parallel to the surface on which they are mounted. These provisions shall not apply to ornaments on radiator grilles, to which only the general requirements of item 5 shall apply. ►M1
+ To apply the 10 daN force a flat-ended ram of not more than 50 mm diameter shall be used. Where this is not possible, an equivalent method shall be used. After the ornaments are retracted, detached or bent over, the remaining projections shall not project more than 10 mm. These projections shall in any case satisfy the provisions of item 5.2. If the ornament is mounted on a base, this base is regarded as belonging to the ornament and not to the supporting surface. ◄ 
+6.1.2. Protective strips or shielding on the external surface shall not be subject to the requirements of item 6.1.1 above. However, they shall be firmly secured to the vehicle. ▼M1 —————
+▼B
+6.2.1. Projecting visors and rims shall be permitted on headlights, provided that their projection, as measured in relation to the external transparent surface of the headlight does not exceed 30 mm and their radius of curvature is at least 2·5 mm throughout. ►M1
+ In the case of a headlight mounted behind an additional transparent surface, the projection shall be measured from the outermost transparent surface. The projections shall be determined according to the method described in item 3 of Annex II. ◄ 
+6.2.2. Retracting headlights shall meet the requirements of item 6.2.1 above in both the operative and retracted positions. ▼M1
+6.2.3. The provisions of item 6.2.1 above do not apply to headlights which are sunk into the bodywork or which are 'overhung' by the bodywork, if the latter complies with the requirements of item 6.9.1. 
+▼B
+▼M1
+6.3.1. The requirements of item 5.4 shall not apply to gaps between fixed or movable elements, including those forming part of air intake or outlet grilles and radiator grilles, provided that the distance between consecutive elements does not exceed 40 mm and provided that the grilles and gaps have a functional purpose. For gaps of between 40 mm and 25 mm the radii of curvature shall be 1 mm or more. However, if the distance between two consecutive elements is equal to or less than 25 mm, the radii of curvature of external faces of the elements shall not be less than 0·5 mm. The distance between two consecutive elements of grilles and gaps shall be determined according to the method described in item 4 of Annex II. ▼B
+6.3.2. The junction of the front with the side faces of each element forming a grille or gap shall be blunted. ▼M1
+6.4.1. The windscreen wiper fittings shall be such that the wiper shaft is furnished with a protective casing which has a radius of curvature meeting the requirements of item 5.4 above and an end surface area of not less than 150 mm2. In the case of rounded covers, these shall have a minimum projected area of 150 mm2 when measured not more than 6·5 mm from the point projecting furthest. These requirements shall also be met by rear window wipers and headlight wipers. 6.4.2. Item 5.4 shall not apply to the wiper blades or to any supporting members. However, these units shall be so made as to have no sharp angles or pointed or cutting parts. ▼B
+▼M1
+6.5.1. The ends of the bumpers shall be turned in towards the external surface in order to minimize the risk of fouling. This requirement is considered to be satisfied if either the bumper is recessed or integrated within the bodywork or the end of the bumper is turned in so that it is not contactable by a 100 mm sphere and the gap between the bumper end and the surrounding bodywork does not exceed 20 mm. ▼B
+6.5.2. The components of the bumper shall be so designed that all rigid surfaces facing outwards have a minimum radius of curvature of 5 mm. ▼M1
+6.5.3. The requirement of item 6.5.2 shall not apply to parts on or of the bumper or to bumper insets which have a projection of less than 5 mm, with special reference to joint covers and jets for headlight washers; but the outward facing angles of such parts shall be blunted, save where such parts protrude less than 1·5 mm. ▼M1
+6.6.1. The projection shall not exceed 40 mm in the case of door or luggage compartment handles and 30 mm in all other cases. 6.6.2. If lateral door handles rotate to operate, they shall meet one or other of the following requirements: 6.6.2.1. In the case of handles which rotate parallel to the plane of the door the open end of handles must be directed towards the rear. The end of such handles shall be turned back towards the plane of the door and fitted into a protective surround or be recessed. 6.6.2.2. Handles which pivot outwards in any direction which is not parallel to the plane of the door shall, when in the closed position, be enclosed in a protective surround or be recessed. The open end shall face either rearwards or downwards. Nevertheless, handles which do not comply with this last condition may be accepted if: — they have an independent return mechanism,
+— should the return mechanisms fail, they cannot project more than 15 mm,
+— they comply, in such opened position, with the provisions of item 5.4, and
+— their end surface area, when measured not more than 6·5 mm from the point projecting furthest, is not less than 150 mm2. ▼B
+6.7.1. The requirements of item 5.4 shall not apply. ▼M1
+6.7.2. The wheels, wheel nuts, hub caps and wheel discs shall not exhibit any pointed or sharp projections that extend beyond the external plane of the wheel rim. Wing nuts shall not be allowed. ▼B
+6.7.3. When the vehicle is travelling in a straight line, no part of the wheels other than the tyres, situated above the horizontal plane passing through their axis of rotation shall project beyond the vertical projection, in a horizontal plane, of the external surface or structure. However, if functional requirements so warrant, wheel discs which cover wheel and hub nuts may project beyond the vertical projection of the external surface or structure on condition that the radius of curvature of the surface of the projecting part is not less than 30 mm and that the projection beyond the vertical projection of the external surface or structure in no case exceeds 30 mm. 6.8.1. Sheet-metal edges, such as gutter edges and the rails of sliding doors shall not be permitted unless they are folded back or are fitted with a shield meeting the requirements of this Annex which are applicable to it.
+▼B
+5.2. The external surface of vehicles shall not exhibit, directed outwards, any pointed or sharp parts or any projections of such shape, dimensions, direction or hardness as to be likely to increase the risk or seriousness of bodily injury to a person hit by the external surface or brushing against it in the event of a collision.
+
+5.3. The external surface of vehicles shall not exhibit, directed outwards, any parts likely to catch on pedestrians, cyclists or motor cyclists. ▼M1
+5.4. No protruding part of the external surface shall have a radius of curvature less than 2-5 mm. This requirement shall not apply to parts of the external surface which protrude less than 5 mm, but the outward facing angles of such parts shall be blunted, save where such parts protrude less than 1·5 mm. ▼B
+5.5. Protruding parts of the external surface, made of a material of hardness not exceeding 60 shore A, may have a radius of curvature less than 2·5 mm. ►M1
+ The hardness measurement shall be taken with the component as installed on the vehicle. Where it is impossible to carry out a hardness measurement by the Shore A procedure, comparable measurements shall be used for evaluation. ◄ 
+▼M1
+5.6. The provisions of the above items 5.1 to 5.5 shall apply in addition to the particular specifications of the following item 6, except where these particular specifications expressly provide otherwise. ▼B
+6. PARTICULAR SPECIFICATIONS
+6.1. Ornaments
+6.1.1. Added ornaments which project more than 10 mm from their support shall retract, become detached or bend over under a force of 10 daN exerted at their most salient point in any direction in a plane approximately parallel to the surface on which they are mounted. These provisions shall not apply to ornaments on radiator grilles, to which only the general requirements of item 5 shall apply. ►M1
+ To apply the 10 daN force a flat-ended ram of not more than 50 mm diameter shall be used. Where this is not possible, an equivalent method shall be used. After the ornaments are retracted, detached or bent over, the remaining projections shall not project more than 10 mm. These projections shall in any case satisfy the provisions of item 5.2. If the ornament is mounted on a base, this base is regarded as belonging to the ornament and not to the supporting surface. ◄ 
+6.1.2. Protective strips or shielding on the external surface shall not be subject to the requirements of item 6.1.1 above. However, they shall be firmly secured to the vehicle. ▼M1 —————
+▼B
+6.2. Headlights
+6.2.1. Projecting visors and rims shall be permitted on headlights, provided that their projection, as measured in relation to the external transparent surface of the headlight does not exceed 30 mm and their radius of curvature is at least 2·5 mm throughout. ►M1
+ In the case of a headlight mounted behind an additional transparent surface, the projection shall be measured from the outermost transparent surface. The projections shall be determined according to the method described in item 3 of Annex II. ◄ 
+6.2.2. Retracting headlights shall meet the requirements of item 6.2.1 above in both the operative and retracted positions. ▼M1
+6.2.3. The provisions of item 6.2.1 above do not apply to headlights which are sunk into the bodywork or which are 'overhung' by the bodywork, if the latter complies with the requirements of item 6.9.1. 
+▼B
+6.3. Grilles and gaps
+▼M1
+6.3.1. The requirements of item 5.4 shall not apply to gaps between fixed or movable elements, including those forming part of air intake or outlet grilles and radiator grilles, provided that the distance between consecutive elements does not exceed 40 mm and provided that the grilles and gaps have a functional purpose. For gaps of between 40 mm and 25 mm the radii of curvature shall be 1 mm or more. However, if the distance between two consecutive elements is equal to or less than 25 mm, the radii of curvature of external faces of the elements shall not be less than 0·5 mm. The distance between two consecutive elements of grilles and gaps shall be determined according to the method described in item 4 of Annex II. ▼B
+6.3.2. The junction of the front with the side faces of each element forming a grille or gap shall be blunted. 6.4. Windscreen wipers
+▼M1
+6.4.1. The windscreen wiper fittings shall be such that the wiper shaft is furnished with a protective casing which has a radius of curvature meeting the requirements of item 5.4 above and an end surface area of not less than 150 mm2. In the case of rounded covers, these shall have a minimum projected area of 150 mm2 when measured not more than 6·5 mm from the point projecting furthest. These requirements shall also be met by rear window wipers and headlight wipers. 6.4.2. Item 5.4 shall not apply to the wiper blades or to any supporting members. However, these units shall be so made as to have no sharp angles or pointed or cutting parts. ▼B
+6.5. Bumpers
+▼M1
+6.5.1. The ends of the bumpers shall be turned in towards the external surface in order to minimize the risk of fouling. This requirement is considered to be satisfied if either the bumper is recessed or integrated within the bodywork or the end of the bumper is turned in so that it is not contactable by a 100 mm sphere and the gap between the bumper end and the surrounding bodywork does not exceed 20 mm. ▼M4
+6.5.2. If the line of the bumper, front or rear, corresponding to the outline contour of the vehicle, from a vertical projection, is on a rigid surface, that surface shall have a minimum radius of curvature of 5 mm for all points lying between the contour line and lines, above and below the contour line, which are the traces of points 20 mm inside, and measured normal to, the contour line at any point. A minimum surface radius of curvature of 2,5 mm shall apply to all other areas of the bumpers. This provision applies to that part of the bumper lying between tangential points of contact of the contour line with two vertical planes each set at an angle of 15 degrees with the vertical longitudinal plane of symmetry of the vehicle (see Figure 1). {{IMAGE:Image_0}}
+Figure 1
+▼M1
+6.5.3. The requirement of item 6.5.2 shall not apply to parts on or of the bumper or to bumper insets which have a projection of less than 5 mm, with special reference to joint covers and jets for headlight washers; but the outward facing angles of such parts shall be blunted, save where such parts protrude less than 1·5 mm. ▼M1
+6.6. Handles, hinges and push-buttons of doors, luggage compartments and bonnets; fuel tank filler caps and covers
+6.6.1. The projection shall not exceed 40 mm in the case of door or luggage compartment handles and 30 mm in all other cases. 6.6.2. If lateral door handles rotate to operate, they shall meet one or other of the following requirements: 6.6.2.1. In the case of handles which rotate parallel to the plane of the door the open end of handles must be directed towards the rear. The end of such handles shall be turned back towards the plane of the door and fitted into a protective surround or be recessed. 6.6.2.2. Handles which pivot outwards in any direction which is not parallel to the plane of the door shall, when in the closed position, be enclosed in a protective surround or be recessed. The open end shall face either rearwards or downwards. Nevertheless, handles which do not comply with this last condition may be accepted if: — they have an independent return mechanism,
+— should the return mechanisms fail, they cannot project more than 15 mm,
+— they comply, in such opened position, with the provisions of item 5.4, and
+— their end surface area, when measured not more than 6·5 mm from the point projecting furthest, is not less than 150 mm2. 6.7. Wheels, wheel nuts, hub caps and wheel discs
+▼B
+6.7.1. The requirements of item 5.4 shall not apply. ▼M1
+6.7.2. The wheels, wheel nuts, hub caps and wheel discs shall not exhibit any pointed or sharp projections that extend beyond the external plane of the wheel rim.
+5.3. The external surface of vehicles shall not exhibit, directed outwards, any parts likely to catch on pedestrians, cyclists or motor cyclists. ▼M1
+5.4. No protruding part of the external surface shall have a radius of curvature less than 2-5 mm. This requirement shall not apply to parts of the external surface which protrude less than 5 mm, but the outward facing angles of such parts shall be blunted, save where such parts protrude less than 1·5 mm. ▼B
+5.5. Protruding parts of the external surface, made of a material of hardness not exceeding 60 shore A, may have a radius of curvature less than 2·5 mm. ►M1
+ The hardness measurement shall be taken with the component as installed on the vehicle. Where it is impossible to carry out a hardness measurement by the Shore A procedure, comparable measurements shall be used for evaluation. ◄ 
+▼M1
+5.6. The provisions of the above items 5.1 to 5.5 shall apply in addition to the particular specifications of the following item 6, except where these particular specifications expressly provide otherwise. ▼B
+6.1.1. Added ornaments which project more than 10 mm from their support shall retract, become detached or bend over under a force of 10 daN exerted at their most salient point in any direction in a plane approximately parallel to the surface on which they are mounted. These provisions shall not apply to ornaments on radiator grilles, to which only the general requirements of item 5 shall apply. ►M1
+ To apply the 10 daN force a flat-ended ram of not more than 50 mm diameter shall be used. Where this is not possible, an equivalent method shall be used. After the ornaments are retracted, detached or bent over, the remaining projections shall not project more than 10 mm. These projections shall in any case satisfy the provisions of item 5.2. If the ornament is mounted on a base, this base is regarded as belonging to the ornament and not to the supporting surface. ◄ 
+6.1.2. Protective strips or shielding on the external surface shall not be subject to the requirements of item 6.1.1 above. However, they shall be firmly secured to the vehicle. ▼M1 —————
+▼B
+6.2.1. Projecting visors and rims shall be permitted on headlights, provided that their projection, as measured in relation to the external transparent surface of the headlight does not exceed 30 mm and their radius of curvature is at least 2·5 mm throughout. ►M1
+ In the case of a headlight mounted behind an additional transparent surface, the projection shall be measured from the outermost transparent surface. The projections shall be determined according to the method described in item 3 of Annex II. ◄ 
+6.2.2. Retracting headlights shall meet the requirements of item 6.2.1 above in both the operative and retracted positions. ▼M1
+6.2.3. The provisions of item 6.2.1 above do not apply to headlights which are sunk into the bodywork or which are 'overhung' by the bodywork, if the latter complies with the requirements of item 6.9.1. 
+▼B
+▼M1
+6.3.1. The requirements of item 5.4 shall not apply to gaps between fixed or movable elements, including those forming part of air intake or outlet grilles and radiator grilles, provided that the distance between consecutive elements does not exceed 40 mm and provided that the grilles and gaps have a functional purpose. For gaps of between 40 mm and 25 mm the radii of curvature shall be 1 mm or more. However, if the distance between two consecutive elements is equal to or less than 25 mm, the radii of curvature of external faces of the elements shall not be less than 0·5 mm. The distance between two consecutive elements of grilles and gaps shall be determined according to the method described in item 4 of Annex II. ▼B
+6.3.2. The junction of the front with the side faces of each element forming a grille or gap shall be blunted. ▼M1
+6.4.1. The windscreen wiper fittings shall be such that the wiper shaft is furnished with a protective casing which has a radius of curvature meeting the requirements of item 5.4 above and an end surface area of not less than 150 mm2. In the case of rounded covers, these shall have a minimum projected area of 150 mm2 when measured not more than 6·5 mm from the point projecting furthest. These requirements shall also be met by rear window wipers and headlight wipers. 6.4.2. Item 5.4 shall not apply to the wiper blades or to any supporting members. However, these units shall be so made as to have no sharp angles or pointed or cutting parts. ▼B
+▼M1
+6.5.1. The ends of the bumpers shall be turned in towards the external surface in order to minimize the risk of fouling. This requirement is considered to be satisfied if either the bumper is recessed or integrated within the bodywork or the end of the bumper is turned in so that it is not contactable by a 100 mm sphere and the gap between the bumper end and the surrounding bodywork does not exceed 20 mm. ▼M4
+6.5.2. If the line of the bumper, front or rear, corresponding to the outline contour of the vehicle, from a vertical projection, is on a rigid surface, that surface shall have a minimum radius of curvature of 5 mm for all points lying between the contour line and lines, above and below the contour line, which are the traces of points 20 mm inside, and measured normal to, the contour line at any point. A minimum surface radius of curvature of 2,5 mm shall apply to all other areas of the bumpers. This provision applies to that part of the bumper lying between tangential points of contact of the contour line with two vertical planes each set at an angle of 15 degrees with the vertical longitudinal plane of symmetry of the vehicle (see Figure 1). Figure 1
+▼M1
+6.5.3. The requirement of item 6.5.2 shall not apply to parts on or of the bumper or to bumper insets which have a projection of less than 5 mm, with special reference to joint covers and jets for headlight washers; but the outward facing angles of such parts shall be blunted, save where such parts protrude less than 1·5 mm. ▼M1
+6.6.1. The projection shall not exceed 40 mm in the case of door or luggage compartment handles and 30 mm in all other cases. 6.6.2. If lateral door handles rotate to operate, they shall meet one or other of the following requirements: 6.6.2.1. In the case of handles which rotate parallel to the plane of the door the open end of handles must be directed towards the rear. The end of such handles shall be turned back towards the plane of the door and fitted into a protective surround or be recessed. 6.6.2.2. Handles which pivot outwards in any direction which is not parallel to the plane of the door shall, when in the closed position, be enclosed in a protective surround or be recessed. The open end shall face either rearwards or downwards. Nevertheless, handles which do not comply with this last condition may be accepted if: — they have an independent return mechanism,
+— should the return mechanisms fail, they cannot project more than 15 mm,
+— they comply, in such opened position, with the provisions of item 5.4, and
+— their end surface area, when measured not more than 6·5 mm from the point projecting furthest, is not less than 150 mm2. ▼B
+6.7.1. The requirements of item 5.4 shall not apply. ▼M1
+6.7.2. The wheels, wheel nuts, hub caps and wheel discs shall not exhibit any pointed or sharp projections that extend beyond the external plane of the wheel rim. Wing nuts shall not be allowed. ▼B
+6.7.3. When the vehicle is travelling in a straight line, no part of the wheels other than the tyres, situated above the horizontal plane passing through their axis of rotation shall project beyond the vertical projection, in a horizontal plane, of the external surface or structure.
+5.3. The external surface of vehicles shall not exhibit, directed outwards, any parts likely to catch on pedestrians, cyclists or motor cyclists. ▼M1
+5.4. No protruding part of the external surface shall have a radius of curvature less than 2-5 mm. This requirement shall not apply to parts of the external surface which protrude less than 5 mm, but the outward facing angles of such parts shall be blunted, save where such parts protrude less than 1·5 mm. ▼B
+5.5. Protruding parts of the external surface, made of a material of hardness not exceeding 60 shore A, may have a radius of curvature less than 2·5 mm. ►M1
+ The hardness measurement shall be taken with the component as installed on the vehicle. Where it is impossible to carry out a hardness measurement by the Shore A procedure, comparable measurements shall be used for evaluation. ◄ 
+▼M1
+5.6. The provisions of the above items 5.1 to 5.5 shall apply in addition to the particular specifications of the following item 6, except where these particular specifications expressly provide otherwise. ▼B
+6.1.1. Added ornaments which project more than 10 mm from their support shall retract, become detached or bend over under a force of 10 daN exerted at their most salient point in any direction in a plane approximately parallel to the surface on which they are mounted. These provisions shall not apply to ornaments on radiator grilles, to which only the general requirements of item 5 shall apply. ►M1
+ To apply the 10 daN force a flat-ended ram of not more than 50 mm diameter shall be used. Where this is not possible, an equivalent method shall be used. After the ornaments are retracted, detached or bent over, the remaining projections shall not project more than 10 mm. These projections shall in any case satisfy the provisions of item 5.2. If the ornament is mounted on a base, this base is regarded as belonging to the ornament and not to the supporting surface. ◄ 
+6.1.2. Protective strips or shielding on the external surface shall not be subject to the requirements of item 6.1.1 above. However, they shall be firmly secured to the vehicle. ▼M1 —————
+▼B
+6.2.1. Projecting visors and rims shall be permitted on headlights, provided that their projection, as measured in relation to the external transparent surface of the headlight does not exceed 30 mm and their radius of curvature is at least 2·5 mm throughout. ►M1
+ In the case of a headlight mounted behind an additional transparent surface, the projection shall be measured from the outermost transparent surface. The projections shall be determined according to the method described in item 3 of Annex II. ◄ 
+6.2.2. Retracting headlights shall meet the requirements of item 6.2.1 above in both the operative and retracted positions. ▼M1
+6.2.3. The provisions of item 6.2.1 above do not apply to headlights which are sunk into the bodywork or which are 'overhung' by the bodywork, if the latter complies with the requirements of item 6.9.1. 
+▼B
+▼M1
+6.3.1. The requirements of item 5.4 shall not apply to gaps between fixed or movable elements, including those forming part of air intake or outlet grilles and radiator grilles, provided that the distance between consecutive elements does not exceed 40 mm and provided that the grilles and gaps have a functional purpose. For gaps of between 40 mm and 25 mm the radii of curvature shall be 1 mm or more. However, if the distance between two consecutive elements is equal to or less than 25 mm, the radii of curvature of external faces of the elements shall not be less than 0·5 mm. The distance between two consecutive elements of grilles and gaps shall be determined according to the method described in item 4 of Annex II. ▼B
+6.3.2. The junction of the front with the side faces of each element forming a grille or gap shall be blunted. ▼M1
+6.4.1. The windscreen wiper fittings shall be such that the wiper shaft is furnished with a protective casing which has a radius of curvature meeting the requirements of item 5.4 above and an end surface area of not less than 150 mm2. In the case of rounded covers, these shall have a minimum projected area of 150 mm2 when measured not more than 6·5 mm from the point projecting furthest. These requirements shall also be met by rear window wipers and headlight wipers. 6.4.2. Item 5.4 shall not apply to the wiper blades or to any supporting members. However, these units shall be so made as to have no sharp angles or pointed or cutting parts. ▼B
+▼M1
+6.5.1. The ends of the bumpers shall be turned in towards the external surface in order to minimize the risk of fouling. This requirement is considered to be satisfied if either the bumper is recessed or integrated within the bodywork or the end of the bumper is turned in so that it is not contactable by a 100 mm sphere and the gap between the bumper end and the surrounding bodywork does not exceed 20 mm. ▼M4
+6.5.2. If the line of the bumper, front or rear, corresponding to the outline contour of the vehicle, from a vertical projection, is on a rigid surface, that surface shall have a minimum radius of curvature of 5 mm for all points lying between the contour line and lines, above and below the contour line, which are the traces of points 20 mm inside, and measured normal to, the contour line at any point. A minimum surface radius of curvature of 2,5 mm shall apply to all other areas of the bumpers. This provision applies to that part of the bumper lying between tangential points of contact of the contour line with two vertical planes each set at an angle of 15 degrees with the vertical longitudinal plane of symmetry of the vehicle (see Figure 1). Figure 1
+▼M1
+6.5.3. The requirement of item 6.5.2 shall not apply to parts on or of the bumper or to bumper insets which have a projection of less than 5 mm, with special reference to joint covers and jets for headlight washers; but the outward facing angles of such parts shall be blunted, save where such parts protrude less than 1·5 mm. ▼M1
+6.6.1. The projection shall not exceed 40 mm in the case of door or luggage compartment handles and 30 mm in all other cases. 6.6.2. If lateral door handles rotate to operate, they shall meet one or other of the following requirements: 6.6.2.1. In the case of handles which rotate parallel to the plane of the door the open end of handles must be directed towards the rear. The end of such handles shall be turned back towards the plane of the door and fitted into a protective surround or be recessed. 6.6.2.2. Handles which pivot outwards in any direction which is not parallel to the plane of the door shall, when in the closed position, be enclosed in a protective surround or be recessed. The open end shall face either rearwards or downwards. Nevertheless, handles which do not comply with this last condition may be accepted if: — they have an independent return mechanism,
+— should the return mechanisms fail, they cannot project more than 15 mm,
+— they comply, in such opened position, with the provisions of item 5.4, and
+— their end surface area, when measured not more than 6·5 mm from the point projecting furthest, is not less than 150 mm2. ▼B
+6.7.1. The requirements of item 5.4 shall not apply. ▼M1
+6.7.2. The wheels, wheel nuts, hub caps and wheel discs shall not exhibit any pointed or sharp projections that extend beyond the external plane of the wheel rim. Wing nuts shall not be allowed. ▼B
+6.7.3. When the vehicle is travelling in a straight line, no part of the wheels other than the tyres, situated above the horizontal plane passing through their axis of rotation shall project beyond the vertical projection, in a horizontal plane, of the external surface or structure.
+The wheels, wheel nuts, hub caps and wheel discs shall not exhibit any pointed or sharp projections that extend beyond the external plane of the wheel rim. Wing nuts shall not be allowed. ▼B
+6.7.3. When the vehicle is travelling in a straight line, no part of the wheels other than the tyres, situated above the horizontal plane passing through their axis of rotation shall project beyond the vertical projection, in a horizontal plane, of the external surface or structure. However, if functional requirements so warrant, wheel discs which cover wheel and hub nuts may project beyond the vertical projection of the external surface or structure on condition that the radius of curvature of the surface of the projecting part is not less than 30 mm and that the projection beyond the vertical projection of the external surface or structure in no case exceeds 30 mm. 6.8. Sheet-metal edges
+6.8.1. Sheet-metal edges, such as gutter edges and the rails of sliding doors shall not be permitted unless they are folded back or are fitted with a shield meeting the requirements of this Annex which are applicable to it. ►M1
+ An unprotected edge shall be considered to be folded back either if it is folded back by approximately 180°, or if it is folded towards the bodywork in such a manner that it cannot be contacted by a sphere having a diameter of 100 mm. ◄ 
+6.9. Body panels
+6.9.1. Folds in body panels may have a radius of curvature of less than 2·5 mm, provided that it is not less than one-tenth of the height 'H' of the projection, measured in accordance with the method described in 
+►M1
+ Annex II, item 1. ◄ 
+6.10. Lateral air or rain deflectors
+6.10.1. Lateral deflectors shall have a radius of curvature of at least 1 mm on edges capable of being directed outwards. ▼M1
+6.11. Jacking brackets and exhaust pipes
+6.11.1. The jacking brackets and exhaust pipe(s) shall not project more than 10 mm beyond the vertical projection of the floor line lying vertically above them. As an exception to this requirement an exhaust pipe may project more than 10 mm beyond the vertical projection of the floor line, so long as it terminates in rounded edges, the minimum radius of curvature being 2·5 mm. ▼M1
+6.12. Air intake and outlet flaps
+6.12.1. Air intake and outlet flaps shall meet the requirements of items 5.2, 5.3 and 5.4 in all positions of use. 6.13. Roof
+6.13.1. Opening roofs shall be considered only in the closed position. 6.13.2. Convertible vehicles shall be examined with the hood in both the raised and lowered positions. 6.13.2.1. With the hood lowered, no examination shall be made of the vehicle inside an imaginary surface formed by the hood when in the raised position. 6.13.2.2. Where a cover for the linkage of the hood when folded is provided as standard equipment, the examination shall be made with the cover in position. 6.14. Windows
+6.14.1. Windows which move outwards from the external surface of the vehicle shall comply with the following provisions in all positions of use: 6.14.1.1. no exposed edge shall face forwards; 6.14.1.2. no part of the window shall project beyond the extreme outer edge of the vehicle. 6.15. Registration plate brackets
+6.15.1. Supporting brackets provided by the vehicle manufacturer for registration plates shall comply with the requirements of item 5.4 of this Annex if they are contactable by a 100 mm diameter sphere when a registration plate is fitted in accordance with the vehicle manufacturer's recommendation. 6.16. Luggage racks and ski racks
+6.16.1. Luggage racks and ski racks shall be so attached to the vehicle that positive locking exists in at least one direction and that horizontal, longitudinal and transverse forces can be transmitted which are at least equal to the vertical load-bearing capacity of the rack as specified by its manufacturer. For the test of the luggage rack or ski rack fixed to the vehicle according to the manufacturer's instructions, the test loads shall not be applied at one point only. 6.16.2. Surfaces which, after installation of the rack, can be contacted by a sphere of 165 mm diameter shall not have parts with a radius of curvature less than 2·5 mm, unless the provisions of 6.3 can be applied. 6.16.3. Fastening elements such as bolts that are tightened or loosened without tools shall not project more than 40 mm beyond the surfaces referred to in 6.16.2, the projection being determined according to the method prescribed in Annex II, item 2, but using a sphere of 165 mm diameter in those cases where the method prescribed in item 2.2 of that Annex is employed. 6.17. Radio receiving or transmitting aerials
+6.17.1. Radio receiving or transmitting aerials shall be fitted to the vehicle in such a way that if their unattached end is less than 2 m from the road surface in any position of use specified by the manufacturer of the aerial, it shall be inside the zone bounded by the vertical planes which are 10 cm inside the extreme outer edge of the vehicle as defined in item 2.7. 
+6.17.2. Furthermore, aerials shall be so fitted to the vehicle, and if necessary their unattached ends so restricted, that no part of the aerials protrude beyond the extreme outer edge of the vehicle as defined in item 2.7. 
+6.17.3. Shafts of aerials may have radii of curvature of less than 2·5 mm. However, the unattached ends shall be fitted with fixed cappings, the radii of curvature of which are not less than 2·5 mm. 6.17.4. The bases of aerials shall not project more than 30 mm when determined according to the procedure of Annex II, item 2. However, in the case of aerials with amplifiers built into the base, these bases may project up to 40 mm. 6.18. Assembly instructions
+6.18.1. Luggage racks, ski racks and radio receiving or transmitting aerials that have been type-approved as separate technical units may not be offered for sale, sold or purchased unless accompanied by assembly instructions. The assembly instructions shall contain sufficient information to enable the approved components to be mounted on the vehicle in a manner that complies with the relevant provisions of items 5 and 6. In particular, the positions of use must be indicated for telescopic aerials. ▼B
+(7.)
+(7.1.)
+(7.1.1.)
+(7.1.2.)
+(7.2.)
+ 8. CONFORMITY OF PRODUCTION
+(8.1.)
+8.2. In order to verify conformity with the approved type, a sufficient number of random checks shall be performed on serially produced vehicles. (9.)
+(9.1.)
+(9.2.)
+(10.)
+ANNEX II
+▼M1
+METHODS OF DETERMINING THE DIMENSIONS OF PROJECTIONS AND GAPS
+▼M1
+1. METHOD OF DETERMINING THE HEIGHT OF THE PROJECTION OF FOLDS IN BODY PANELS
+▼B
+►M1
+ 1.1 ◄ 
+The height H of a projection is determined graphically by reference to the circumference of a 165 mm diameter circle, internally tangential to the external outline of the external surface at the section to be checked. ►M1
+ 1.2 ◄ 
+H is the maximum value of the distance, measured along a straight line passing through the centre of the 165 mm diameter circle, between the circumference of the aforesaid circle and the external contour of the projection (see Fig. 1). ►M1
+ 1.3 ◄ 
+In cases where it is not possible for a 100 mm diameter circle to contact externally part of the external outline of the external surface at the section under consideration, the surface outline in this area will be assumed to be that formed by the circumference of the 100 mm diameter circle between its tangent points with the external outline (see Fig. 2). ►M1
+ 1.4 ◄ 
+Drawings of the necessary sections through the external surface shall be provided by the manufacturer to allow the height of the projections referred to above to be measured. ▼M1
+2. METHOD OF DETERMINING THE DIMENSION OF THE PROJECTION OF A COMPONENT MOUNTED ON THE EXTERNA SURFACE
+2.1. The dimension of the projection of a component which is mounted on a convex surface may be determined either directly or by reference to a drawing of an appropriate section of this component in its installed condition.
+6.8.1. Sheet-metal edges, such as gutter edges and the rails of sliding doors shall not be permitted unless they are folded back or are fitted with a shield meeting the requirements of this Annex which are applicable to it. ►M1
+ An unprotected edge shall be considered to be folded back either if it is folded back by approximately 180°, or if it is folded towards the bodywork in such a manner that it cannot be contacted by a sphere having a diameter of 100 mm. ◄ 
+6.9.1. Folds in body panels may have a radius of curvature of less than 2·5 mm, provided that it is not less than one-tenth of the height 'H' of the projection, measured in accordance with the method described in 
+►M1
+ Annex II, item 1. ◄ 
+6.10.1. Lateral deflectors shall have a radius of curvature of at least 1 mm on edges capable of being directed outwards. ▼M1
+6.11.1. The jacking brackets and exhaust pipe(s) shall not project more than 10 mm beyond the vertical projection of the floor line lying vertically above them. As an exception to this requirement an exhaust pipe may project more than 10 mm beyond the vertical projection of the floor line, so long as it terminates in rounded edges, the minimum radius of curvature being 2·5 mm. ▼M1
+6.12.1. Air intake and outlet flaps shall meet the requirements of items 5.2, 5.3 and 5.4 in all positions of use. 6.13.1. Opening roofs shall be considered only in the closed position. 6.13.2. Convertible vehicles shall be examined with the hood in both the raised and lowered positions. 6.13.2.1. With the hood lowered, no examination shall be made of the vehicle inside an imaginary surface formed by the hood when in the raised position. 6.13.2.2. Where a cover for the linkage of the hood when folded is provided as standard equipment, the examination shall be made with the cover in position. 6.14.1. Windows which move outwards from the external surface of the vehicle shall comply with the following provisions in all positions of use: 6.14.1.1. no exposed edge shall face forwards; 6.14.1.2. no part of the window shall project beyond the extreme outer edge of the vehicle. 6.15.1. Supporting brackets provided by the vehicle manufacturer for registration plates shall comply with the requirements of item 5.4 of this Annex if they are contactable by a 100 mm diameter sphere when a registration plate is fitted in accordance with the vehicle manufacturer's recommendation. 6.16.1. Luggage racks and ski racks shall be so attached to the vehicle that positive locking exists in at least one direction and that horizontal, longitudinal and transverse forces can be transmitted which are at least equal to the vertical load-bearing capacity of the rack as specified by its manufacturer. For the test of the luggage rack or ski rack fixed to the vehicle according to the manufacturer's instructions, the test loads shall not be applied at one point only. 6.16.2. Surfaces which, after installation of the rack, can be contacted by a sphere of 165 mm diameter shall not have parts with a radius of curvature less than 2·5 mm, unless the provisions of 6.3 can be applied. 6.16.3. Fastening elements such as bolts that are tightened or loosened without tools shall not project more than 40 mm beyond the surfaces referred to in 6.16.2, the projection being determined according to the method prescribed in Annex II, item 2, but using a sphere of 165 mm diameter in those cases where the method prescribed in item 2.2 of that Annex is employed. 6.17.1. Radio receiving or transmitting aerials shall be fitted to the vehicle in such a way that if their unattached end is less than 2 m from the road surface in any position of use specified by the manufacturer of the aerial, it shall be inside the zone bounded by the vertical planes which are 10 cm inside the extreme outer edge of the vehicle as defined in item 2.7. 
+6.17.2. Furthermore, aerials shall be so fitted to the vehicle, and if necessary their unattached ends so restricted, that no part of the aerials protrude beyond the extreme outer edge of the vehicle as defined in item 2.7. 
+6.17.3. Shafts of aerials may have radii of curvature of less than 2·5 mm. However, the unattached ends shall be fitted with fixed cappings, the radii of curvature of which are not less than 2·5 mm. 6.17.4. The bases of aerials shall not project more than 30 mm when determined according to the procedure of Annex II, item 2. However, in the case of aerials with amplifiers built into the base, these bases may project up to 40 mm. 6.18.1. Luggage racks, ski racks and radio receiving or transmitting aerials that have been type-approved as separate technical units may not be offered for sale, sold or purchased unless accompanied by assembly instructions. The assembly instructions shall contain sufficient information to enable the approved components to be mounted on the vehicle in a manner that complies with the relevant provisions of items 5 and 6. In particular, the positions of use must be indicated for telescopic aerials. ▼B
+(7.)
+(7.1.)
+(7.1.1.)
+(7.1.2.)
+(7.2.)
+ 8. CONFORMITY OF PRODUCTION
+(8.1.)
+8.2. In order to verify conformity with the approved type, a sufficient number of random checks shall be performed on serially produced vehicles. (9.)
+(9.1.)
+(9.2.)
+(10.)
+▼B
+6.7.3. When the vehicle is travelling in a straight line, no part of the wheels other than the tyres, situated above the horizontal plane passing through their axis of rotation shall project beyond the vertical projection, in a horizontal plane, of the external surface or structure.
+
+However, if functional requirements so warrant, wheel discs which cover wheel and hub nuts may project beyond the vertical projection of the external surface or structure on condition that the radius of curvature of the surface of the projecting part is not less than 30 mm and that the projection beyond the vertical projection of the external surface or structure in no case exceeds 30 mm. 6.8. Sheet-metal edges
+6.8.1. Sheet-metal edges, such as gutter edges and the rails of sliding doors shall not be permitted unless they are folded back or are fitted with a shield meeting the requirements of this Annex which are applicable to it. ►M1
+ An unprotected edge shall be considered to be folded back either if it is folded back by approximately 180°, or if it is folded towards the bodywork in such a manner that it cannot be contacted by a sphere having a diameter of 100 mm. ◄ 
+6.9. Body panels
+6.9.1. Folds in body panels may have a radius of curvature of less than 2·5 mm, provided that it is not less than one-tenth of the height 'H' of the projection, measured in accordance with the method described in 
+►M1
+ Annex II, item 1. ◄ 
+6.10. Lateral air or rain deflectors
+6.10.1. Lateral deflectors shall have a radius of curvature of at least 1 mm on edges capable of being directed outwards. ▼M1
+6.11. Jacking brackets and exhaust pipes
+6.11.1. The jacking brackets and exhaust pipe(s) shall not project more than 10 mm beyond the vertical projection of the floor line lying vertically above them. As an exception to this requirement an exhaust pipe may project more than 10 mm beyond the vertical projection of the floor line, so long as it terminates in rounded edges, the minimum radius of curvature being 2·5 mm. ▼M1
+6.12. Air intake and outlet flaps
+6.12.1. Air intake and outlet flaps shall meet the requirements of items 5.2, 5.3 and 5.4 in all positions of use. 6.13. Roof
+6.13.1. Opening roofs shall be considered only in the closed position. 6.13.2. Convertible vehicles shall be examined with the hood in both the raised and lowered positions. 6.13.2.1. With the hood lowered, no examination shall be made of the vehicle inside an imaginary surface formed by the hood when in the raised position. 6.13.2.2. Where a cover for the linkage of the hood when folded is provided as standard equipment, the examination shall be made with the cover in position. 6.14. Windows
+6.14.1. Windows which move outwards from the external surface of the vehicle shall comply with the following provisions in all positions of use: 6.14.1.1. no exposed edge shall face forwards; 6.14.1.2. no part of the window shall project beyond the extreme outer edge of the vehicle. 6.15. Registration plate brackets
+6.15.1. Supporting brackets provided by the vehicle manufacturer for registration plates shall comply with the requirements of item 5.4 of this Annex if they are contactable by a 100 mm diameter sphere when a registration plate is fitted in accordance with the vehicle manufacturer's recommendation. 6.16. Luggage racks and ski racks
+6.16.1. Luggage racks and ski racks shall be so attached to the vehicle that positive locking exists in at least one direction and that horizontal, longitudinal and transverse forces can be transmitted which are at least equal to the vertical load-bearing capacity of the rack as specified by its manufacturer. For the test of the luggage rack or ski rack fixed to the vehicle according to the manufacturer's instructions, the test loads shall not be applied at one point only. 6.16.2. Surfaces which, after installation of the rack, can be contacted by a sphere of 165 mm diameter shall not have parts with a radius of curvature less than 2·5 mm, unless the provisions of 6.3 can be applied. 6.16.3. Fastening elements such as bolts that are tightened or loosened without tools shall not project more than 40 mm beyond the surfaces referred to in 6.16.2, the projection being determined according to the method prescribed in Annex II, item 2, but using a sphere of 165 mm diameter in those cases where the method prescribed in item 2.2 of that Annex is employed. 6.17. Radio receiving or transmitting aerials
+6.17.1. Radio receiving or transmitting aerials shall be fitted to the vehicle in such a way that if their unattached end is less than 2 m from the road surface in any position of use specified by the manufacturer of the aerial, it shall be inside the zone bounded by the vertical planes which are 10 cm inside the extreme outer edge of the vehicle as defined in item 2.7. 
+6.17.2. Furthermore, aerials shall be so fitted to the vehicle, and if necessary their unattached ends so restricted, that no part of the aerials protrude beyond the extreme outer edge of the vehicle as defined in item 2.7. 
+6.17.3. Shafts of aerials may have radii of curvature of less than 2·5 mm. However, the unattached ends shall be fitted with fixed cappings, the radii of curvature of which are not less than 2·5 mm. 6.17.4. The bases of aerials shall not project more than 30 mm when determined according to the procedure of Annex II, item 2. However, in the case of aerials with amplifiers built into the base, these bases may project up to 40 mm. 6.18. Assembly instructions
+6.18.1. Luggage racks, ski racks and radio receiving or transmitting aerials that have been type-approved as separate technical units may not be offered for sale, sold or purchased unless accompanied by assembly instructions. The assembly instructions shall contain sufficient information to enable the approved components to be mounted on the vehicle in a manner that complies with the relevant provisions of items 5 and 6. In particular, the positions of use must be indicated for telescopic aerials. ▼B
+(7.)
+(7.1.)
+(7.1.1.)
+(7.1.2.)
+(7.2.)
+ 8. CONFORMITY OF PRODUCTION
+(8.1.)
+8.2. In order to verify conformity with the approved type, a sufficient number of random checks shall be performed on serially produced vehicles. (9.)
+(9.1.)
+(9.2.)
+(10.)
+ANNEX II
+▼M1
+METHODS OF DETERMINING THE DIMENSIONS OF PROJECTIONS AND GAPS
+▼M1
+1. METHOD OF DETERMINING THE HEIGHT OF THE PROJECTION OF FOLDS IN BODY PANELS
+▼B
+►M1
+ 1.1 ◄ 
+The height H of a projection is determined graphically by reference to the circumference of a 165 mm diameter circle, internally tangential to the external outline of the external surface at the section to be checked. ►M1
+ 1.2 ◄ 
+H is the maximum value of the distance, measured along a straight line passing through the centre of the 165 mm diameter circle, between the circumference of the aforesaid circle and the external contour of the projection (see Fig. 1). ►M1
+ 1.3 ◄ 
+In cases where it is not possible for a 100 mm diameter circle to contact externally part of the external outline of the external surface at the section under consideration, the surface outline in this area will be assumed to be that formed by the circumference of the 100 mm diameter circle between its tangent points with the external outline (see Fig. 2). ►M1
+ 1.4 ◄ 
+Drawings of the necessary sections through the external surface shall be provided by the manufacturer to allow the height of the projections referred to above to be measured. ▼M1
+2. METHOD OF DETERMINING THE DIMENSION OF THE PROJECTION OF A COMPONENT MOUNTED ON THE EXTERNA SURFACE
+2.1. The dimension of the projection of a component which is mounted on a convex surface may be determined either directly or by reference to a drawing of an appropriate section of this component in its installed condition.
+▼B
+6.7.3. When the vehicle is travelling in a straight line, no part of the wheels other than the tyres, situated above the horizontal plane passing through their axis of rotation shall project beyond the vertical projection, in a horizontal plane, of the external surface or structure.
+
+However, if functional requirements so warrant, wheel discs which cover wheel and hub nuts may project beyond the vertical projection of the external surface or structure on condition that the radius of curvature of the surface of the projecting part is not less than 30 mm and that the projection beyond the vertical projection of the external surface or structure in no case exceeds 30 mm. 6.8.1. Sheet-metal edges, such as gutter edges and the rails of sliding doors shall not be permitted unless they are folded back or are fitted with a shield meeting the requirements of this Annex which are applicable to it. ►M1
+ An unprotected edge shall be considered to be folded back either if it is folded back by approximately 180°, or if it is folded towards the bodywork in such a manner that it cannot be contacted by a sphere having a diameter of 100 mm. ◄ 
+6.9.1. Folds in body panels may have a radius of curvature of less than 2·5 mm, provided that it is not less than one-tenth of the height 'H' of the projection, measured in accordance with the method described in 
+►M1
+ Annex II, item 1. ◄ 
+6.10.1. Lateral deflectors shall have a radius of curvature of at least 1 mm on edges capable of being directed outwards. ▼M1
+6.11.1. The jacking brackets and exhaust pipe(s) shall not project more than 10 mm beyond the vertical projection of the floor line lying vertically above them. As an exception to this requirement an exhaust pipe may project more than 10 mm beyond the vertical projection of the floor line, so long as it terminates in rounded edges, the minimum radius of curvature being 2·5 mm. ▼M1
+6.12.1. Air intake and outlet flaps shall meet the requirements of items 5.2, 5.3 and 5.4 in all positions of use. 6.13.1. Opening roofs shall be considered only in the closed position. 6.13.2. Convertible vehicles shall be examined with the hood in both the raised and lowered positions. 6.13.2.1. With the hood lowered, no examination shall be made of the vehicle inside an imaginary surface formed by the hood when in the raised position. 6.13.2.2. Where a cover for the linkage of the hood when folded is provided as standard equipment, the examination shall be made with the cover in position. 6.14.1. Windows which move outwards from the external surface of the vehicle shall comply with the following provisions in all positions of use: 6.14.1.1. no exposed edge shall face forwards; 6.14.1.2. no part of the window shall project beyond the extreme outer edge of the vehicle. 6.15.1. Supporting brackets provided by the vehicle manufacturer for registration plates shall comply with the requirements of item 5.4 of this Annex if they are contactable by a 100 mm diameter sphere when a registration plate is fitted in accordance with the vehicle manufacturer's recommendation. 6.16.1. Luggage racks and ski racks shall be so attached to the vehicle that positive locking exists in at least one direction and that horizontal, longitudinal and transverse forces can be transmitted which are at least equal to the vertical load-bearing capacity of the rack as specified by its manufacturer. For the test of the luggage rack or ski rack fixed to the vehicle according to the manufacturer's instructions, the test loads shall not be applied at one point only. 6.16.2. Surfaces which, after installation of the rack, can be contacted by a sphere of 165 mm diameter shall not have parts with a radius of curvature less than 2·5 mm, unless the provisions of 6.3 can be applied. 6.16.3. Fastening elements such as bolts that are tightened or loosened without tools shall not project more than 40 mm beyond the surfaces referred to in 6.16.2, the projection being determined according to the method prescribed in Annex II, item 2, but using a sphere of 165 mm diameter in those cases where the method prescribed in item 2.2 of that Annex is employed. 6.17.1. Radio receiving or transmitting aerials shall be fitted to the vehicle in such a way that if their unattached end is less than 2 m from the road surface in any position of use specified by the manufacturer of the aerial, it shall be inside the zone bounded by the vertical planes which are 10 cm inside the extreme outer edge of the vehicle as defined in item 2.7. 
+6.17.2. Furthermore, aerials shall be so fitted to the vehicle, and if necessary their unattached ends so restricted, that no part of the aerials protrude beyond the extreme outer edge of the vehicle as defined in item 2.7. 
+6.17.3. Shafts of aerials may have radii of curvature of less than 2·5 mm. However, the unattached ends shall be fitted with fixed cappings, the radii of curvature of which are not less than 2·5 mm. 6.17.4. The bases of aerials shall not project more than 30 mm when determined according to the procedure of Annex II, item 2. However, in the case of aerials with amplifiers built into the base, these bases may project up to 40 mm. 6.18.1. Luggage racks, ski racks and radio receiving or transmitting aerials that have been type-approved as separate technical units may not be offered for sale, sold or purchased unless accompanied by assembly instructions. The assembly instructions shall contain sufficient information to enable the approved components to be mounted on the vehicle in a manner that complies with the relevant provisions of items 5 and 6. In particular, the positions of use must be indicated for telescopic aerials. ▼B
+(7.)
+(7.1.)
+(7.1.1.)
+(7.1.2.)
+(7.2.)
+ 8. CONFORMITY OF PRODUCTION
+(8.1.)
+8.2. In order to verify conformity with the approved type, a sufficient number of random checks shall be performed on serially produced vehicles. (9.)
+(9.1.)
+(9.2.)
+(10.)
+The wheels, wheel nuts, hub caps and wheel discs shall not exhibit any pointed or sharp projections that extend beyond the external plane of the wheel rim. Wing nuts shall not be allowed. ▼B
+6.7.3. When the vehicle is travelling in a straight line, no part of the wheels other than the tyres, situated above the horizontal plane passing through their axis of rotation shall project beyond the vertical projection, in a horizontal plane, of the external surface or structure. However, if functional requirements so warrant, wheel discs which cover wheel and hub nuts may project beyond the vertical projection of the external surface or structure on condition that the radius of curvature of the surface of the projecting part is not less than 30 mm and that the projection beyond the vertical projection of the external surface or structure in no case exceeds 30 mm. 6.8. Sheet-metal edges
+6.8.1. Sheet-metal edges, such as gutter edges and the rails of sliding doors shall not be permitted unless they are folded back or are fitted with a shield meeting the requirements of this Annex which are applicable to it. ►M1
+ An unprotected edge shall be considered to be folded back either if it is folded back by approximately 180°, or if it is folded towards the bodywork in such a manner that it cannot be contacted by a sphere having a diameter of 100 mm. ◄ 
+6.9. Body panels
+6.9.1. Folds in body panels may have a radius of curvature of less than 2·5 mm, provided that it is not less than one-tenth of the height 'H' of the projection, measured in accordance with the method described in 
+►M1
+ Annex II, item 1. ◄ 
+6.10. Lateral air or rain deflectors
+6.10.1. Lateral deflectors shall have a radius of curvature of at least 1 mm on edges capable of being directed outwards. ▼M1
+6.11. Jacking brackets and exhaust pipes
+6.11.1. The jacking brackets and exhaust pipe(s) shall not project more than 10 mm beyond the vertical projection of the floor line lying vertically above them. As an exception to this requirement an exhaust pipe may project more than 10 mm beyond the vertical projection of the floor line, so long as it terminates in rounded edges, the minimum radius of curvature being 2·5 mm. ▼M1
+6.12. Air intake and outlet flaps
+6.12.1. Air intake and outlet flaps shall meet the requirements of items 5.2, 5.3 and 5.4 in all positions of use. 6.13. Roof
+6.13.1. Opening roofs shall be considered only in the closed position. 6.13.2. Convertible vehicles shall be examined with the hood in both the raised and lowered positions. 6.13.2.1. With the hood lowered, no examination shall be made of the vehicle inside an imaginary surface formed by the hood when in the raised position. 6.13.2.2. Where a cover for the linkage of the hood when folded is provided as standard equipment, the examination shall be made with the cover in position. 6.14. Windows
+6.14.1. Windows which move outwards from the external surface of the vehicle shall comply with the following provisions in all positions of use: 6.14.1.1. no exposed edge shall face forwards; 6.14.1.2. no part of the window shall project beyond the extreme outer edge of the vehicle. 6.15. Registration plate brackets
+6.15.1. Supporting brackets provided by the vehicle manufacturer for registration plates shall comply with the requirements of item 5.4 of this Annex if they are contactable by a 100 mm diameter sphere when a registration plate is fitted in accordance with the vehicle manufacturer's recommendation. 6.16. Luggage racks and ski racks
+6.16.1. Luggage racks and ski racks shall be so attached to the vehicle that positive locking exists in at least one direction and that horizontal, longitudinal and transverse forces can be transmitted which are at least equal to the vertical load-bearing capacity of the rack as specified by its manufacturer. For the test of the luggage rack or ski rack fixed to the vehicle according to the manufacturer's instructions, the test loads shall not be applied at one point only. 6.16.2. Surfaces which, after installation of the rack, can be contacted by a sphere of 165 mm diameter shall not have parts with a radius of curvature less than 2·5 mm, unless the provisions of 6.3 can be applied. 6.16.3. Fastening elements such as bolts that are tightened or loosened without tools shall not project more than 40 mm beyond the surfaces referred to in 6.16.2, the projection being determined according to the method prescribed in Annex II, item 2, but using a sphere of 165 mm diameter in those cases where the method prescribed in item 2.2 of that Annex is employed. 6.17. Radio receiving or transmitting aerials
+6.17.1. Radio receiving or transmitting aerials shall be fitted to the vehicle in such a way that if their unattached end is less than 2 m from the road surface in any position of use specified by the manufacturer of the aerial, it shall be inside the zone bounded by the vertical planes which are 10 cm inside the extreme outer edge of the vehicle as defined in item 2.7. 
+6.17.2. Furthermore, aerials shall be so fitted to the vehicle, and if necessary their unattached ends so restricted, that no part of the aerials protrude beyond the extreme outer edge of the vehicle as defined in item 2.7. 
+6.17.3. Shafts of aerials may have radii of curvature of less than 2·5 mm. However, the unattached ends shall be fitted with fixed cappings, the radii of curvature of which are not less than 2·5 mm. 6.17.4. The bases of aerials shall not project more than 30 mm when determined according to the procedure of Annex II, item 2. However, in the case of aerials with amplifiers built into the base, these bases may project up to 40 mm. 6.18. Assembly instructions
+6.18.1. Luggage racks, ski racks and radio receiving or transmitting aerials that have been type-approved as separate technical units may not be offered for sale, sold or purchased unless accompanied by assembly instructions. The assembly instructions shall contain sufficient information to enable the approved components to be mounted on the vehicle in a manner that complies with the relevant provisions of items 5 and 6. In particular, the positions of use must be indicated for telescopic aerials. ▼B
+(7.)
+(7.1.)
+(7.1.1.)
+(7.1.2.)
+(7.2.)
+ 8. CONFORMITY OF PRODUCTION
+(8.1.)
+8.2. In order to verify conformity with the approved type, a sufficient number of random checks shall be performed on serially produced vehicles. (9.)
+(9.1.)
+(9.2.)
+(10.)
+ANNEX II
+▼M1
+METHODS OF DETERMINING THE DIMENSIONS OF PROJECTIONS AND GAPS
+▼M1
+1. METHOD OF DETERMINING THE HEIGHT OF THE PROJECTION OF FOLDS IN BODY PANELS
+▼B
+►M1
+ 1.1 ◄ 
+The height H of a projection is determined graphically by reference to the circumference of a 165 mm diameter circle, internally tangential to the external outline of the external surface at the section to be checked. ►M1
+ 1.2 ◄ 
+H is the maximum value of the distance, measured along a straight line passing through the centre of the 165 mm diameter circle, between the circumference of the aforesaid circle and the external contour of the projection (see Fig. 1). ►M1
+ 1.3 ◄ 
+In cases where it is not possible for a 100 mm diameter circle to contact externally part of the external outline of the external surface at the section under consideration, the surface outline in this area will be assumed to be that formed by the circumference of the 100 mm diameter circle between its tangent points with the external outline (see Fig. 2). ►M1
+ 1.4 ◄ 
+Drawings of the necessary sections through the external surface shall be provided by the manufacturer to allow the height of the projections referred to above to be measured. ▼M1
+2. METHOD OF DETERMINING THE DIMENSION OF THE PROJECTION OF A COMPONENT MOUNTED ON THE EXTERNA SURFACE
+2.1. The dimension of the projection of a component which is mounted on a convex surface may be determined either directly or by reference to a drawing of an appropriate section of this component in its installed condition.
+▼B
+6.7.3. When the vehicle is travelling in a straight line, no part of the wheels other than the tyres, situated above the horizontal plane passing through their axis of rotation shall project beyond the vertical projection, in a horizontal plane, of the external surface or structure.
+
+However, if functional requirements so warrant, wheel discs which cover wheel and hub nuts may project beyond the vertical projection of the external surface or structure on condition that the radius of curvature of the surface of the projecting part is not less than 30 mm and that the projection beyond the vertical projection of the external surface or structure in no case exceeds 30 mm. 6.8.1. Sheet-metal edges, such as gutter edges and the rails of sliding doors shall not be permitted unless they are folded back or are fitted with a shield meeting the requirements of this Annex which are applicable to it. ►M1
+ An unprotected edge shall be considered to be folded back either if it is folded back by approximately 180°, or if it is folded towards the bodywork in such a manner that it cannot be contacted by a sphere having a diameter of 100 mm. ◄ 
+6.9.1. Folds in body panels may have a radius of curvature of less than 2·5 mm, provided that it is not less than one-tenth of the height 'H' of the projection, measured in accordance with the method described in 
+►M1
+ Annex II, item 1. ◄ 
+6.10.1. Lateral deflectors shall have a radius of curvature of at least 1 mm on edges capable of being directed outwards. ▼M1
+6.11.1. The jacking brackets and exhaust pipe(s) shall not project more than 10 mm beyond the vertical projection of the floor line lying vertically above them. As an exception to this requirement an exhaust pipe may project more than 10 mm beyond the vertical projection of the floor line, so long as it terminates in rounded edges, the minimum radius of curvature being 2·5 mm. ▼M1
+6.12.1. Air intake and outlet flaps shall meet the requirements of items 5.2, 5.3 and 5.4 in all positions of use. 6.13.1. Opening roofs shall be considered only in the closed position. 6.13.2. Convertible vehicles shall be examined with the hood in both the raised and lowered positions. 6.13.2.1. With the hood lowered, no examination shall be made of the vehicle inside an imaginary surface formed by the hood when in the raised position. 6.13.2.2. Where a cover for the linkage of the hood when folded is provided as standard equipment, the examination shall be made with the cover in position. 6.14.1. Windows which move outwards from the external surface of the vehicle shall comply with the following provisions in all positions of use: 6.14.1.1. no exposed edge shall face forwards; 6.14.1.2. no part of the window shall project beyond the extreme outer edge of the vehicle. 6.15.1. Supporting brackets provided by the vehicle manufacturer for registration plates shall comply with the requirements of item 5.4 of this Annex if they are contactable by a 100 mm diameter sphere when a registration plate is fitted in accordance with the vehicle manufacturer's recommendation. 6.16.1. Luggage racks and ski racks shall be so attached to the vehicle that positive locking exists in at least one direction and that horizontal, longitudinal and transverse forces can be transmitted which are at least equal to the vertical load-bearing capacity of the rack as specified by its manufacturer. For the test of the luggage rack or ski rack fixed to the vehicle according to the manufacturer's instructions, the test loads shall not be applied at one point only. 6.16.2. Surfaces which, after installation of the rack, can be contacted by a sphere of 165 mm diameter shall not have parts with a radius of curvature less than 2·5 mm, unless the provisions of 6.3 can be applied. 6.16.3. Fastening elements such as bolts that are tightened or loosened without tools shall not project more than 40 mm beyond the surfaces referred to in 6.16.2, the projection being determined according to the method prescribed in Annex II, item 2, but using a sphere of 165 mm diameter in those cases where the method prescribed in item 2.2 of that Annex is employed. 6.17.1. Radio receiving or transmitting aerials shall be fitted to the vehicle in such a way that if their unattached end is less than 2 m from the road surface in any position of use specified by the manufacturer of the aerial, it shall be inside the zone bounded by the vertical planes which are 10 cm inside the extreme outer edge of the vehicle as defined in item 2.7. 
+6.17.2. Furthermore, aerials shall be so fitted to the vehicle, and if necessary their unattached ends so restricted, that no part of the aerials protrude beyond the extreme outer edge of the vehicle as defined in item 2.7. 
+6.17.3. Shafts of aerials may have radii of curvature of less than 2·5 mm. However, the unattached ends shall be fitted with fixed cappings, the radii of curvature of which are not less than 2·5 mm. 6.17.4. The bases of aerials shall not project more than 30 mm when determined according to the procedure of Annex II, item 2. However, in the case of aerials with amplifiers built into the base, these bases may project up to 40 mm. 6.18.1. Luggage racks, ski racks and radio receiving or transmitting aerials that have been type-approved as separate technical units may not be offered for sale, sold or purchased unless accompanied by assembly instructions. The assembly instructions shall contain sufficient information to enable the approved components to be mounted on the vehicle in a manner that complies with the relevant provisions of items 5 and 6. In particular, the positions of use must be indicated for telescopic aerials. ▼B
+(7.)
+(7.1.)
+(7.1.1.)
+(7.1.2.)
+(7.2.)
+ 8. CONFORMITY OF PRODUCTION
+(8.1.)
+8.2. In order to verify conformity with the approved type, a sufficient number of random checks shall be performed on serially produced vehicles. (9.)
+(9.1.)
+(9.2.)
+(10.)
+▼M1
+2. METHOD OF DETERMINING THE DIMENSION OF THE PROJECTION OF A COMPONENT MOUNTED ON THE EXTERNA SURFACE
+2.1. The dimension of the projection of a component which is mounted on a convex surface may be determined either directly or by reference to a drawing of an appropriate section of this component in its installed condition.
+
+2.2. If the dimension of the projection of a component which is mounted on a surface other than convex cannot be determined by simple measurement, it shall be determined by the maximum variation of the distance of the centre of a 100 mm diameter sphere from the nominal line of the panel when the sphere is moved over and is in constant contact with that component. Figure 3 shows an example of the use of this procedure. 3. METHOD OF DETERMINING THE PROJECTION OF HEADLIGHT VISORS AND RIMS
+3.1. The projection from the external surface of the headlight shall be measured horizontally from the point of contact of a 100 mm diameter sphere as shown in Figure 4. 4. METHOD OF DETERMINING THE DIMENSION OF A GAP OR THE SPACE BETWEEN ELEMENTS OF A GRILLE
+4.1. The dimension of a gap or space between elements of a grille shall be determined by the distance between two planes passing through the points of contact of the sphere and perpendicular to the line joining those points of contact. Figures 5 and 6 show examples of the use of this procedure. ▼B
+{{IMAGE:Image_0}}
+Figure 1
+{{IMAGE:Image_1}}
+Figure 2
+{{IMAGE:Image_2}}
+▼M1
+ANNEX IIIMODEL
+►(1) M1
+▼M1
+ANNEX IVMODEL(Maximum format: A4 (210 × 297 mm)
+(
+1
+) OJ No C 55, 13. 5. 1974, p. 14.(
+2
+) OJ No L 42, 23. 2. 1970, p. 1.(
+3
+) Economic Commission for Europe document
+E/ECE/324
+Rev. 1 Add. 25. E/ECE/TRANS/505
+(
+4
+) The text of the Annexes in basically similar to that of Regulation No 26 of the Economic Commission for Europe of the United Nations. In particular the subdivision of the sections is the same. Where an item of Regulation No 26 has no corresponding item in the Annexes, the number is none the less given for the record in brackets.(
+5
+) B = Belgium, D = Germany, DK = Denmark, E = Spain, F = France, 
+►M2
+ EL = Greece ◄ , I = Italy, IRL = Ireland, L = Luxembourg, N L = Netherlands, P = Portugal, UK = United Kingdom,
+►
+►
+ 12 = Austria, 17 = Finland, 5 = Sweden, ◄ 
+ ◄ 
+►A3
+ 8 for the Czech Republic, 29 for Estonia, CY for Cyprus, 32 for Latvia, 36 for Lithuania, 7 for Hungary, MT for Malta, 20 for Poland, 26 for Slovenia, 27 for Slovakia, ◄ 
+►M3
+ 34 for Bulgaria, 19 for Romania. ◄
+▼M1
+2. METHOD OF DETERMINING THE DIMENSION OF THE PROJECTION OF A COMPONENT MOUNTED ON THE EXTERNA SURFACE
+2.1. The dimension of the projection of a component which is mounted on a convex surface may be determined either directly or by reference to a drawing of an appropriate section of this component in its installed condition.
+
+2.2. If the dimension of the projection of a component which is mounted on a surface other than convex cannot be determined by simple measurement, it shall be determined by the maximum variation of the distance of the centre of a 100 mm diameter sphere from the nominal line of the panel when the sphere is moved over and is in constant contact with that component. Figure 3 shows an example of the use of this procedure. 3. METHOD OF DETERMINING THE PROJECTION OF HEADLIGHT VISORS AND RIMS
+3.1. The projection from the external surface of the headlight shall be measured horizontally from the point of contact of a 100 mm diameter sphere as shown in Figure 4. 4. METHOD OF DETERMINING THE DIMENSION OF A GAP OR THE SPACE BETWEEN ELEMENTS OF A GRILLE
+4.1. The dimension of a gap or space between elements of a grille shall be determined by the distance between two planes passing through the points of contact of the sphere and perpendicular to the line joining those points of contact. Figures 5 and 6 show examples of the use of this procedure. ▼B
+{{IMAGE:Image_1}}
+Figure 1
+{{IMAGE:Image_2}}
+Figure 2
+▼M1
+ANNEX IIIMODEL
+►(1) M1
+▼M1
+ANNEX IVMODEL(Maximum format: A4 (210 × 297 mm)
+(
+1
+) OJ No C 55, 13. 5. 1974, p. 14.(
+2
+) OJ No L 42, 23. 2. 1970, p. 1.(
+3
+) Economic Commission for Europe document
+E/ECE/324
+Rev. 1 Add. 25. E/ECE/TRANS/505
+(
+4
+) The text of the Annexes in basically similar to that of Regulation No 26 of the Economic Commission for Europe of the United Nations. In particular the subdivision of the sections is the same. Where an item of Regulation No 26 has no corresponding item in the Annexes, the number is none the less given for the record in brackets.(
+5
+) B = Belgium, D = Germany, DK = Denmark, E = Spain, F = France, 
+►M2
+ EL = Greece ◄ , I = Italy, IRL = Ireland, L = Luxembourg, N L = Netherlands, P = Portugal, UK = United Kingdom,
+►
+►
+ 12 = Austria, 17 = Finland, 5 = Sweden, ◄ 
+ ◄ 
+►A3
+ 8 for the Czech Republic, 29 for Estonia, CY for Cyprus, 32 for Latvia, 36 for Lithuania, 7 for Hungary, MT for Malta, 20 for Poland, 26 for Slovenia, 27 for Slovakia, ◄ 
+►M3
+ 34 for Bulgaria, 19 for Romania, ◄ 
+►M5
+ 25 for Croatia. ◄
+▼M1
+2. METHOD OF DETERMINING THE DIMENSION OF THE PROJECTION OF A COMPONENT MOUNTED ON THE EXTERNA SURFACE
+2.1. The dimension of the projection of a component which is mounted on a convex surface may be determined either directly or by reference to a drawing of an appropriate section of this component in its installed condition.
+
+2.2. If the dimension of the projection of a component which is mounted on a surface other than convex cannot be determined by simple measurement, it shall be determined by the maximum variation of the distance of the centre of a 100 mm diameter sphere from the nominal line of the panel when the sphere is moved over and is in constant contact with that component. Figure 3 shows an example of the use of this procedure. 3. METHOD OF DETERMINING THE PROJECTION OF HEADLIGHT VISORS AND RIMS
+3.1. The projection from the external surface of the headlight shall be measured horizontally from the point of contact of a 100 mm diameter sphere as shown in Figure 4. 4. METHOD OF DETERMINING THE DIMENSION OF A GAP OR THE SPACE BETWEEN ELEMENTS OF A GRILLE
+4.1. The dimension of a gap or space between elements of a grille shall be determined by the distance between two planes passing through the points of contact of the sphere and perpendicular to the line joining those points of contact. Figures 5 and 6 show examples of the use of this procedure. ▼B
+{{IMAGE:Image_1}}
+Figure 1
+{{IMAGE:Image_2}}
+Figure 2
+▼M1
+ANNEX IIIMODEL
+►(1) M1
+▼M1
+ANNEX IVMODEL(Maximum format: A4 (210 × 297 mm)
+(
+1
+) OJ No C 55, 13. 5. 1974, p. 14.(
+2
+) OJ No L 42, 23. 2. 1970, p. 1.(
+3
+) Economic Commission for Europe document
+E/ECE/324
+Rev. 1 Add. 25. E/ECE/TRANS/505
+(
+4
+) The text of the Annexes in basically similar to that of Regulation No 26 of the Economic Commission for Europe of the United Nations. In particular the subdivision of the sections is the same. Where an item of Regulation No 26 has no corresponding item in the Annexes, the number is none the less given for the record in brackets.(
+5
+) B = Belgium, D = Germany, DK = Denmark, E = Spain, F = France, 
+►M2
+ EL = Greece ◄ , I = Italy, IRL = Ireland, L = Luxembourg, N L = Netherlands, P = Portugal, UK = United Kingdom,
+►
+►
+ 12 = Austria, 17 = Finland, 5 = Sweden, ◄ 
+ ◄ 
+►A3
+ 8 for the Czech Republic, 29 for Estonia, CY for Cyprus, 32 for Latvia, 36 for Lithuania, 7 for Hungary, MT for Malta, 20 for Poland, 26 for Slovenia, 27 for Slovakia, ◄ 
+►M3
+ 34 for Bulgaria, 19 for Romania. ◄

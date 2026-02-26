@@ -1,0 +1,534 @@
+COMMISSION REGULATION (EU) No 19/2011
+of 11 January 2011
+concerning type-approval requirements for the manufacturer's statutory plate and for the vehicle identification number of motor vehicles and their trailers and implementing Regulation (EC) No 661/2009 of the European Parliament and of the Council concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor
+Consolidated TEXT: 32011R0019 — EN — 06.07.2022
+Top
+02011R0019 — EN — 06.07.2022 — 002.001
+This text is meant purely as a documentation tool and has no legal effect.
+
+The Union's institutions do not assume any liability for its contents. The authentic versions of the relevant acts, including their preambles, are those published in the Official Journal of the European Union and available in EUR-Lex. Those official texts are directly accessible through the links embedded in this document
+►B
+COMMISSION REGULATION (EU) No 19/2011
+of 11 January 2011
+concerning type-approval requirements for the manufacturer's statutory plate and for the vehicle identification number of motor vehicles and their trailers and implementing Regulation (EC) No 661/2009 of the European Parliament and of the Council concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor
+(Text with EEA relevance)
+(OJ L 008, 12.1.2011, p.1)
+Repealed by: Official Journal
+No
+page
+date
+Regulation (EU) 2019/2144 of the European Parliament and of the Council of 27 November 2019
+L 325
+1
+16.12.2019
+The final consolidated version before repeal is available at: http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R0019-20120411
+(1) 'manufacturer's statutory plate' means a plate or label, affixed by the manufacturer on a vehicle that provide the main technical characteristics which are necessary for the identification of the vehicle and provides the competent authorities with the relevant information concerning the permissible maximum laden masses;
+Article 4 - Validity and extension of EC type-approvals granted under Directive 76/114/EEC
+National authorities shall permit the sale and entry into service of vehicles type-approved before the date referred to in Article 13(2) of Regulation (EC) No 661/2009 and shall continue to grant extension to approvals granted under the terms of Directive 76/114/EEC.
+Article 2 - Definitions
+For the purposes of this Regulation,
+(1) 'manufacturer's statutory plate' means a plate or label, affixed by the manufacturer on a vehicle that provide the main technical characteristics which are necessary for the identification of the vehicle and provides the competent authorities with the relevant information concerning the permissible maximum laden masses;
+
+(2) 'vehicle identification number' (VIN) means the alphanumeric code assigned to a vehicle by the manufacturer in order to ensure proper identification of every vehicle; (3) 'vehicle type' means a set of vehicles as defined in Annex II, Part B to Directive 2007/46/EC.
+Article 5 - Entry into force
+This Regulation shall enter into force on 1 February 2011.
+Article 3 - Provisions for EC type-approval of a type of vehicle with regard to the manufacturer's statutory plate and the vehicle identification number
+1.
+
+The manufacturer or his representative shall submit to the type-approval authority the application for EC type-approval of a type of vehicle as regard the lay-out and the location of the manufacturer's statutory plate and the composition and the location of the vehicle identification number. 2. The application shall be drawn up in accordance with the model information document set out in Part A of Annex III. 3. If deemed necessary by the approval authority or the technical service, the manufacturer shall make available a vehicle representative of the type to be approved for the purposes of inspection. 4. If the relevant requirements set out in Annex I and Annex II to this Regulation are met, the approval authority shall grant a type-approval in accordance with the numbering system set out in Annex VII to Directive 2007/46/EC. A Member State may not assign the same number to another vehicle type. 5. For the purpose of paragraph 4, the type-approval authority shall deliver an EC type-approval certificate established in accordance with the model set out in Part B of Annex III.
+Article 1 - Scope
+This Regulation applies to complete and incomplete vehicles of categories M, N and O.
+PART A
+ANNEX III
+PART A
+Information document
+MODEL TO BE USED
+Information document No … relating to the EC type-approval of a motor vehicle and their trailers with regard the manufacturer's statutory plate and the VIN. The following information shall be supplied in triplicate and include a list of contents. Any drawings shall be supplied in appropriate scale and in sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, shall show sufficient detail. 0. GENERAL
+0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.2.1. Commercial name(s) (if available): …
+0.3. Means of identification of type, if marked on the vehicle (1): …
+0.3.1. Location of that marking: …
+0.4. Category of vehicle (2): …
+0.5. Name and address of manufacturer: …
+0.6. Location and method of attachment of the manufacturer's statutory plate: …
+0.6.1. On the chassis (1): …
+0.6.2. On the bodywork (1): …
+0.7. Location of the VIN: …
+0.7.1. On the chassis (1): …
+0.7.2. On the bodywork (1): …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+1. GENERAL CONSTRUCTION CHARACTERISTICS OF THE VEHICLE
+1.1. Photographs and/or drawings of a representative vehicle: …
+9. BODYWORK
+9.17. Manufacturer's statutory plates and VIN
+9.17.1. Photographs and/or drawings of the locations of the manufacturer's statutory plates and inscriptions and of the VIN: …
+9.17.2. Photographs and/or drawings of the manufacturer's statutory plate and inscriptions (completed example with dimensions): …
+9.17.3. Photographs and/or drawings of the VIN (completed example with dimensions): …
+9.17.4. Manufacturer's declaration of compliance with the requirements set out in point 2.2 of Part B of Annex I to Regulation (EU) No 19/2011
+9.17.5. A detailed description of the composition of the VIN: …
+Explanatory notes: PART B
+EC type-approval certificate
+MODEL
+Format: A4 (210 × 297 mm)
+EC TYPE-APPROVAL CERTIFICATE
+Stamp of type-approval authority
+Communication concerning:
+
+| — EC type-approval ( 2 ) , — extension of EC type-approval ( 2 ) , — refusal of EC type-approval ( 2 ) , — withdrawal of EC type-approval ( 2 ) , | of a type of vehicle with regard to the manufacturer's statutory plate and the vehicle identification number |
+|---|---|
+| with regard to Regulation (EU) No …/…, as last amended by Regulation (EU) No …/… (2) | with regard to Regulation (EU) No …/…, as last amended by Regulation (EU) No …/… (2) |
+| EC type-approval number: … | EC type-approval number: … |
+| Reason for extension: … | Reason for extension: … |
+
+SECTION I
+0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.2.1. Commercial name(s) (if available): …
+0.3. Means of identification of type, if marked on the vehicle (3): …
+0.3.1. Location of that marking: …
+0.4. Category of vehicle (4): …
+0.5. Name and address of manufacturer: …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+SECTION II
+1. Additional information (where applicable): see Addendum. 2. Technical service responsible for carrying out the tests: …
+3. Date of test report: …
+4. Number of test report: …
+5. Remarks (if any): …
+6. Place: …
+7. Date: …
+8. Signature: …
+Attachments
+:
+Information package. Test report. (1) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??). (2) Classified according to the definitions set out in Directive 2007/46/EC Part A of Annex II. (1) Delete where not applicable. (2) Delete where not applicable. (3) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??). (4) As defined in Annex II, Section A.
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor (1), and in particular Article 14(1)(a) thereof,
+Whereas:
+
+(1) Regulation (EC) No 661/2009 is a separate Regulation for the purposes of type-approval provided for in Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (2). (2) Regulation (EC) No 661/2009 repeals Council Directive 76/114/EEC of 18 December 1975 on the approximation of the laws of Member States relating to statutory plates and inscriptions for motor vehicles and their trailers, and their location and method of attachment (3). The requirements set out in that Directive should be carried over to this Regulation and where necessary, amended in order to adapt them to the development of scientific knowledge. (3) Regulation (EC) No 661/2009 lays down fundamental provisions on requirements for type-approval of vehicles with regard to vehicle identification methods. Therefore, it is necessary to also set out the specific procedures, tests and requirements for such type-approval. (4) In the absence of harmonised legislation on the maximum permissible laden mass or maximum permissible masses for axles or axle groups of heavy duty vehicles, Directive 97/27/EC of the European Parliament and of the Council of 22 July 1997 relating to the masses and dimensions of certain categories of motor vehicles and their trailers and amending Directive 70/156/EEC (4) provides for the determination of registration/in-service maximum permissible masses to be determined for the purposes of registration, of the entry into service or of the use of heavy duty vehicles in the territory of a Member State. It is therefore appropriate to include the registration/in-service maximum permissible masses in the model of the manufacturer's statutory plate. For road safety reasons, it is also appropriate to include the maximum permissible mass on an axle group. (5) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+recital 4
+(4) In the absence of harmonised legislation on the maximum permissible laden mass or maximum permissible masses for axles or axle groups of heavy duty vehicles, Directive 97/27/EC of the European Parliament and of the Council of 22 July 1997 relating to the masses and dimensions of certain categories of motor vehicles and their trailers and amending Directive 70/156/EEC (4) provides for the determination of registration/in-service maximum permissible masses to be determined for the purposes of registration, of the entry into service or of the use of heavy duty vehicles in the territory of a Member State.
+
+It is therefore appropriate to include the registration/in-service maximum permissible masses in the model of the manufacturer's statutory plate. For road safety reasons, it is also appropriate to include the maximum permissible mass on an axle group.
+recital 2
+(2) Regulation (EC) No 661/2009 repeals Council Directive 76/114/EEC of 18 December 1975 on the approximation of the laws of Member States relating to statutory plates and inscriptions for motor vehicles and their trailers, and their location and method of attachment (3).
+
+The requirements set out in that Directive should be carried over to this Regulation and where necessary, amended in order to adapt them to the development of scientific knowledge.
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor (1), and in particular Article 14(1)(a) thereof,
+Whereas:
+Article 1 - Scope
+This Regulation applies to complete and incomplete vehicles of categories M, N and O.
+ADDENDUM
+Addendum
+to EC type-approval certificate No …Not applicable.
+
+(
+1
+) OJ L 200, 31.7.2009, p. 1.(
+2
+) OJ L 263, 9.10.2007, p. 1.(
+3
+) OJ L 24, 30.1.1976, p. 1.(
+4
+) OJ L 233, 25.8.1997, p. 1.(
+5
+) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??).(
+6
+) Classified according to the definitions set out in Directive 2007/46/EC Part A of Annex II.(
+7
+) Delete where not applicable.(
+8
+) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??).(
+9
+) As defined in Annex II, Section A.
+2. COMPOSITION OF THE VIN
+ANNEX I
+2. Composition of the VIN
+PART A
+Manufacturer's statutory plate
+1.1. Each vehicle shall be fitted with the manufacturer's statutory plate described in this section. 1.2. The manufacturer's statutory plate shall be affixed by the vehicle manufacturer or his representative. 1.3. The manufacturer's statutory plate shall consist either of: (a) a rectangular sheet of metal; (b) a rectangular self-adhesive label. 1.4. Metallic plates shall be fastened with rivets. 1.5. Labels shall be tamper evident, fraud resistant and self destructive in case there is an attempt to remove the label. 2.1. The following information shall be printed indelibly on the manufacturer's statutory plate in the order listed: (a) the manufacturer's company name; (b) the whole vehicle type-approval number; (c) the vehicle identification number; (d) the technically permissible maximum laden mass; (e) the technically permissible maximum mass of the combination; (f) the technically permissible maximum mass on each axle listed in order from front to rear. ▼M1
+2.2. The height of the characters of the vehicle identification number referred to in point 2.1(c) shall not be less than 4 mm. ▼M1
+2.3. The height of the characters of the information referred to in point 2.1, other than the vehicle identification number, shall not be less than 2 mm. ▼B
+3.1.1. In the case of a trailer, the technically permissible maximum static vertical mass on the coupling point shall be mentioned. 3.1.2. The coupling point shall be deemed the first axle and be numbered '0'. 3.1.3. The first axle shall be numbered '1', the second '2' and so on, followed by a hyphen. 3.1.4. The mass of the combination referred to in point 2.1.(e) shall be omitted. 3.2.1. With regard to vehicles of category N3, O3 or O4, the technically permissible maximum mass on an axle group shall also be mentioned. The entry corresponding to 'Axle group' shall be identified by the letter 'T'. 3.2.2. With respect to vehicles of category M3, N3, O3 or O4, the manufacturer may mention on the manufacturer's statutory plate the intended registration/in-service maximum permissible laden mass. 3.2.2.1. In such a case, the part of the manufacturer's statutory plate where the masses are mentioned shall be subdivided in two columns: the intended registration/in-service maximum permissible masses shall be mentioned in the left column and the technically permissible maximum laden masses in the right column. 3.2.2.2. The code of the country where the vehicle is intended to be registered shall be mentioned as header of the left column. The code shall be in accordance with Standard ISO 3166-1: 2006. 3.2.3. The requirements of point 3.2.1 shall not apply where: (a) the technically permissible maximum mass on an axle group is the sum of the technically permissible maximum mass on the axles which are part of that axle group; and
+(b) the letter 'T' is added as suffix to the maximum mass on each axle which is part of that axle group; (c) when the requirements of point 3.2.2 are applied, the registration/in-service maximum permissible mass on the group of axles is the sum of the registration/in-service maximum permissible mass on the axles which are part of that axle group. 4.1. The manufacturer may indicate additional information below or to the side of the prescribed inscriptions, outside a clearly marked rectangle which shall enclose only the information prescribed in Sections 2 and 3. 5.1. Examples of the various possible models of the manufacturer's statutory plate are given in the appendix to this Annex. 5.2. The data given on the models are fictitious. PART B
+Vehicle identification number (VIN)
+1.1. A VIN shall be marked on each vehicle. 1.2. The VIN shall be unique and unequivocally attributed to a particular vehicle. 1.3. The VIN shall be marked on the chassis or the vehicle when the vehicle leaves the production line. 1.4. The manufacturer shall ensure the traceability of the vehicle by means of the VIN over a period of 30 years. 1.5. The existence of measures taken by the manufacturer to ensure the traceability of the vehicle referred to in point 1.4 needs not be checked at the time of the type-approval. 2.1. The VIN shall consist of three sections: (a) the world manufacturer identifier (WMI); (b) the vehicle descriptor section (VDS); (c) the vehicle indicator section (VIS). 2.2. The WMI shall consist of a code assigned to the vehicle manufacturer to enable him to be identified. 2.2.1. The code shall comprise three alphanumeric characters, capital roman letters or Arabic numerals, which shall be assigned by the competent authority in the country where the manufacturer has his principal place of business. 2.2.2. The competent authority shall act in agreement with the international organisation referred to in Standard ISO 3780: 2009 on 'Road vehicles — World manufacturer identifier (WMI) code'. 2.2.3. Where the manufacturer's global production is less than 500 vehicles per annum, the third character shall always be '9'. In order to identify such manufacturers, the competent authority referred to in point 2.2.1 shall assign the third, the fourth and the fifth character of the VIS. 2.3. The VDS shall consist of six alphanumeric characters, capital roman letters or Arabic numerals, which shall serve to indicate the general characteristics of the vehicle. Where the manufacturer does not use one or more of the six characters, the unused spaces shall be filled in with alphanumeric characters at the manufacturer's discretion in order that the total number of characters required shall be 6. 2.4. The VIS shall consist of eight alphanumeric characters, capital Roman letters or Arabic numerals, of which the last four shall consist of digits only. It shall provide, in conjunction with the WMI and the VDS, clear identification of a particular vehicle. Any unused space shall be filled in with the digit '0' in order that the total number of characters required shall be 8. 2.5. The height of the characters of the VIN stamped on the chassis shall be no less than 7 mm. 2.6. There shall be no space between the characters. 2.7. The use of the letters 'I', 'O' or 'Q' shall not be permitted. 2.8. The beginning and the end of the VIN shall be limited by one symbol at the choice of the manufacturer neither symbol should be a Roman capital letter nor an Arabic numeral. 2.8.1. This provision may be waived when the VIN is marked on a single line. 2.8.2. When the VIN is marked on two lines, this provision shall apply to each line.
+
+| MAYER NUTZFAHRZEUGE GmbH | MAYER NUTZFAHRZEUGE GmbH |
+|---|---|
+| e1*2007/46*0345 | e1*2007/46*0345 |
+| WMN22500A00980520 | WMN22500A00980520 |
+| (DE) |  |
+| 17 990 kg | 17 990 kg |
+| 40 000 kg | 44 000 kg |
+| 1 - 7 100 kg | 1 - 7 100 kg |
+| 2 - 11 500 kg | 2 - 11 500 kg |
+| T. - kg | T. - kg |
+
+| REMORQUES HENSCHLER SA | REMORQUES HENSCHLER SA |
+|---|---|
+| e6*2007/46*0098 | e6*2007/46*0098 |
+| YA9EBS37009000005 | YA9EBS37009000005 |
+| (BE) |  |
+| 34 000 kg | 37 000 kg |
+| 0 - 8 000 kg | 0 - 8 000 kg |
+| 1 - 9 000 kg | 1 - 10 000 kg |
+| 2 - 9 000 kg | 2 - 10 000 kg |
+| 3 - 9 000 kg | 3 - 10 000 kg |
+| T. 27 000 kg | T. 30 000 kg |
+
+Model of a manufacturer's statutory plate for a semi-trailer of category O4 type-approved in Belgium
+Note: the column on the left side is optional
+EC TYPE-APPROVAL CERTIFICATE
+ANNEX III
+EC type-approval certificate
+MODEL TO BE USEDInformation document No … relating to the EC type-approval of a motor vehicle and their trailers with regard the manufacturer's statutory plate and the VIN.The following information shall be supplied in triplicate and include a list of contents. Any drawings shall be supplied in appropriate scale and in sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, shall show sufficient detail. 0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.2.1. Commercial name(s) (if available): …
+0.3. Means of identification of type, if marked on the vehicle (
+5
+): …
+0.3.1. Location of that marking: …
+0.4. Category of vehicle (
+6
+): …
+0.5. Name and address of manufacturer: …
+0.6. Location and method of attachment of the manufacturer's statutory plate: …
+0.6.1. On the chassis (
+7
+): …
+0.6.2. On the bodywork (7) : …
+0.7. Location of the VIN: …
+0.7.1. On the chassis (7) : …
+0.7.2. On the bodywork (7) : …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+1.1. Photographs and/or drawings of a representative vehicle: …
+9.17.1. Photographs and/or drawings of the locations of the manufacturer's statutory plates and inscriptions and of the VIN: …
+9.17.2. Photographs and/or drawings of the manufacturer's statutory plate and inscriptions (completed example with dimensions): …
+9.17.3. Photographs and/or drawings of the VIN (completed example with dimensions): …
+9.17.4. Manufacturer's declaration of compliance with the requirements set out in point 2.2 of Part B of Annex I to Regulation (EU) No 19/2011
+9.17.5. A detailed description of the composition of the VIN: …
+Explanatory notes: MODELFormat: A4 (210 × 297 mm)
+EC TYPE-APPROVAL CERTIFICATE
+Stamp of type-approval authorityCommunication concerning:
+
+| — EC type-approval ( 1 ) , — extension of EC type-approval ( 1 ) , — refusal of EC type-approval ( 1 ) , — withdrawal of EC type-approval ( 1 ) , | of a type of vehicle with regard to the manufacturer's statutory plate and the vehicle identification number |
+|---|---|
+| with regard to Regulation (EU) No …/…, as last amended by Regulation (EU) No …/… (1) | with regard to Regulation (EU) No …/…, as last amended by Regulation (EU) No …/… (1) |
+| EC type-approval number: … | EC type-approval number: … |
+| Reason for extension: … | Reason for extension: … |
+| (1) Delete where not applicable. | (1) Delete where not applicable. |
+
+SECTION I
+0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.2.1. Commercial name(s) (if available): …
+0.3. Means of identification of type, if marked on the vehicle (
+8
+): …
+0.3.1. Location of that marking: …
+0.4. Category of vehicle (
+9
+): …
+0.5. Name and address of manufacturer: …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+SECTION II
+ 1. Additional information (where applicable): see Addendum. 2. Technical service responsible for carrying out the tests: …
+ 3. Date of test report: …
+ 4. Number of test report: …
+ 5. Remarks (if any): …
+ 6. Place: …
+ 7. Date: …
+ 8. Signature: …
+Attachments
+:
+Information package. Test report.
+REQUIREMENTS FOR LOCATION ON VEHICLE
+ANNEX II
+REQUIREMENTS FOR LOCATION ON VEHICLE
+PART A
+Manufacturer's statutory plate
+ 1. The manufacturer's statutory plate shall be firmly attached in a conspicuous and readily accessible position.
+
+2. The location shall be chosen so that the part on which it is affixed is not subject to replacement in use. PART B
+Vehicle Identification Number (VIN)
+ 1. The VIN shall be marked on a single line. 1.1. When, for technical reasons such as the lack of space, the VIN cannot be marked on a single line, the national authority may, at the request of the manufacturer, allow the VIN to be marked on two lines. In such case, the sections defined in point 2.1 of Part B of Annex I may not be interrupted. 2. The VIN shall be marked by stamping or mechanical hammering on the chassis, frame or other similar structure. 3. Techniques that are proven to offer the same level of inalterability against tampering or forgery as mechanical hammering may be used in place of that technique. 4. The VIN shall be in a clearly visible and accessible position. The location shall be chosen in a way that it cannot be obliterated or deteriorate. 5. The VIN shall be located on the right-hand side of the vehicle.
+Introduction
+COMMISSION REGULATION (EU) No 19/2011of 11 January 2011concerning type-approval requirements for the manufacturer's statutory plate and for the vehicle identification number of motor vehicles and their trailers and implementing Regulation (EC) No 661/2009 of the European Parliament and of the Council concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor
+(Text with EEA relevance)
+(OJ L 008, 12.1.2011, p.1)Amended by:
+
+Official Journal
+ No
+page
+date
+ ►M1
+COMMISSION REGULATION (EU) No 249/2012 of 21 March 2012
+ L 82
+1
+22.3.2012
+ ▼B
+COMMISSION REGULATION (EU) No 19/2011of 11 January 2011concerning type-approval requirements for the manufacturer's statutory plate and for the vehicle identification number of motor vehicles and their trailers and implementing Regulation (EC) No 661/2009 of the European Parliament and of the Council concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor(Text with EEA relevance)
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor (
+1
+), and in particular Article 14(1)(a) thereof,Whereas: (1) Regulation (EC) No 661/2009 is a separate Regulation for the purposes of type-approval provided for in Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (
+2
+). (2) Regulation (EC) No 661/2009 repeals Council Directive 76/114/EEC of 18 December 1975 on the approximation of the laws of Member States relating to statutory plates and inscriptions for motor vehicles and their trailers, and their location and method of attachment (
+3
+). The requirements set out in that Directive should be carried over to this Regulation and where necessary, amended in order to adapt them to the development of scientific knowledge. (3) Regulation (EC) No 661/2009 lays down fundamental provisions on requirements for type-approval of vehicles with regard to vehicle identification methods. Therefore, it is necessary to also set out the specific procedures, tests and requirements for such type-approval. (4) In the absence of harmonised legislation on the maximum permissible laden mass or maximum permissible masses for axles or axle groups of heavy duty vehicles, Directive 97/27/EC of the European Parliament and of the Council of 22 July 1997 relating to the masses and dimensions of certain categories of motor vehicles and their trailers and amending Directive 70/156/EEC (
+4
+) provides for the determination of registration/in-service maximum permissible masses to be determined for the purposes of registration, of the entry into service or of the use of heavy duty vehicles in the territory of a Member State. It is therefore appropriate to include the registration/in-service maximum permissible masses in the model of the manufacturer's statutory plate. For road safety reasons, it is also appropriate to include the maximum permissible mass on an axle group. (5) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+Article 5 - Entry into force
+This Regulation shall enter into force on 1 February 2011.This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+ANNEX I
+TECHNICAL REQUIREMENTS
+PART A
+Manufacturer's statutory plate
+1. General provisions
+1.1. Each vehicle shall be fitted with the manufacturer's statutory plate described in this section. 1.2. The manufacturer's statutory plate shall be affixed by the vehicle manufacturer or his representative. 1.3. The manufacturer's statutory plate shall consist either of: (a) a rectangular sheet of metal; (b) a rectangular self-adhesive label. 1.4. Metallic plates shall be fastened with rivets. 1.5. Labels shall be tamper evident, fraud resistant and self destructive in case there is an attempt to remove the label. 2. 
+Information to be mentioned on the manufacturer's statutory plate
+2.1. The following information shall be printed indelibly on the manufacturer's statutory plate in the order listed: (a) the manufacturer's company name; (b) the whole vehicle type-approval number; (c) the vehicle identification number; (d) the technically permissible maximum laden mass; (e) the technically permissible maximum mass of the combination; (f) the technically permissible maximum mass on each axle listed in order from front to rear. ▼M1
+2.2. The height of the characters of the vehicle identification number referred to in point 2.1(c) shall not be less than 4 mm. ▼M1
+2.3. The height of the characters of the information referred to in point 2.1, other than the vehicle identification number, shall not be less than 2 mm. ▼B
+3. Specific provisions
+3.1. Trailers
+3.1.1. In the case of a trailer, the technically permissible maximum static vertical mass on the coupling point shall be mentioned. 3.1.2. The coupling point shall be deemed the first axle and be numbered '0'. 3.1.3. The first axle shall be numbered '1', the second '2' and so on, followed by a hyphen. 3.1.4. The mass of the combination referred to in point 2.1.(e) shall be omitted. 3.2. All heavy duty vehicles
+3.2.1. With regard to vehicles of category N3, O3 or O4, the technically permissible maximum mass on an axle group shall also be mentioned. The entry corresponding to 'Axle group' shall be identified by the letter 'T'. 3.2.2. With respect to vehicles of category M3, N3, O3 or O4, the manufacturer may mention on the manufacturer's statutory plate the intended registration/in-service maximum permissible laden mass. 3.2.2.1. In such a case, the part of the manufacturer's statutory plate where the masses are mentioned shall be subdivided in two columns: the intended registration/in-service maximum permissible masses shall be mentioned in the left column and the technically permissible maximum laden masses in the right column. 3.2.2.2. The code of the country where the vehicle is intended to be registered shall be mentioned as header of the left column. The code shall be in accordance with Standard ISO 3166-1: 2006. 3.2.3. The requirements of point 3.2.1 shall not apply where: (a) the technically permissible maximum mass on an axle group is the sum of the technically permissible maximum mass on the axles which are part of that axle group; and
+(b) the letter 'T' is added as suffix to the maximum mass on each axle which is part of that axle group; (c) when the requirements of point 3.2.2 are applied, the registration/in-service maximum permissible mass on the group of axles is the sum of the registration/in-service maximum permissible mass on the axles which are part of that axle group. 4. 
+Additional information
+4.1. The manufacturer may indicate additional information below or to the side of the prescribed inscriptions, outside a clearly marked rectangle which shall enclose only the information prescribed in Sections 2 and 3. 5. 
+Models of the manufacturer's statutory plate
+5.1. Examples of the various possible models of the manufacturer's statutory plate are given in the appendix to this Annex. 5.2. The data given on the models are fictitious. PART B
+Vehicle identification number (VIN)
+1. General provisions
+1.1. A VIN shall be marked on each vehicle. 1.2. The VIN shall be unique and unequivocally attributed to a particular vehicle. 1.3. The VIN shall be marked on the chassis or the vehicle when the vehicle leaves the production line. 1.4. The manufacturer shall ensure the traceability of the vehicle by means of the VIN over a period of 30 years. 1.5. The existence of measures taken by the manufacturer to ensure the traceability of the vehicle referred to in point 1.4 needs not be checked at the time of the type-approval. 2. 
+Composition of the VIN
+2.1. The VIN shall consist of three sections: (a) the world manufacturer identifier (WMI); (b) the vehicle descriptor section (VDS); (c) the vehicle indicator section (VIS). 2.2. The WMI shall consist of a code assigned to the vehicle manufacturer to enable him to be identified. 2.2.1. The code shall comprise three alphanumeric characters, capital roman letters or Arabic numerals, which shall be assigned by the competent authority in the country where the manufacturer has his principal place of business. 2.2.2. The competent authority shall act in agreement with the international organisation referred to in Standard ISO 3780: 2009 on 'Road vehicles — World manufacturer identifier (WMI) code'. 2.2.3. Where the manufacturer's global production is less than 500 vehicles per annum, the third character shall always be '9'. In order to identify such manufacturers, the competent authority referred to in point 2.2.1 shall assign the third, the fourth and the fifth character of the VIS. 2.3. The VDS shall consist of six alphanumeric characters, capital roman letters or Arabic numerals, which shall serve to indicate the general characteristics of the vehicle. Where the manufacturer does not use one or more of the six characters, the unused spaces shall be filled in with alphanumeric characters at the manufacturer's discretion in order that the total number of characters required shall be 6. 2.4. The VIS shall consist of eight alphanumeric characters, capital Roman letters or Arabic numerals, of which the last four shall consist of digits only. It shall provide, in conjunction with the WMI and the VDS, clear identification of a particular vehicle. Any unused space shall be filled in with the digit '0' in order that the total number of characters required shall be 8. 2.5. The height of the characters of the VIN stamped on the chassis shall be no less than 7 mm. 2.6. There shall be no space between the characters. 2.7. The use of the letters 'I', 'O' or 'Q' shall not be permitted. 2.8. The beginning and the end of the VIN shall be limited by one symbol at the choice of the manufacturer neither symbol should be a Roman capital letter nor an Arabic numeral. 2.8.1. This provision may be waived when the VIN is marked on a single line. 2.8.2. When the VIN is marked on two lines, this provision shall apply to each line. Appendix
+Model of the manufacturer's statutory plate
+1. MODEL A for vehicles of category M1 or N1
+STELLA AUTO S.P.Ae3*2007/46*0004ZFS159000AZ0000551 850 kg3 290 kg1 - 1 100 kg2 - 880 kgModel of a manufacturer's statutory plate for a vehicle of category M1 type-approved in Italy2. MODEL B for vehicles of category M or N other than M1 or N1
+MAYER NUTZFAHRZEUGE GmbH
+e1*2007/46*0345
+WMN22500A00980520
+(DE)
+17 990 kg
+17 990 kg
+40 000 kg
+44 000 kg
+1 - 7 100 kg
+1 - 7 100 kg
+2 - 11 500 kg
+2 - 11 500 kg
+T. - kg
+T. - kg
+Model of a manufacturer's statutory plate for a vehicle of category N3 type-approved in Germany
+Note: the column on the left side is optional3. MODEL C for vehicles of category O1 or O2
+JEAN HORSE TRAILERS Ltde11*2007/46*0085SARHT000BC00000231 500 kg0 - 100 kg1 - 850 kg2 - 850 kgModel of a manufacturer's statutory plate for a vehicle of category O2 type-approved in the United Kingdom4.
+(1) 'manufacturer's statutory plate' means a plate or label, affixed by the manufacturer on a vehicle that provide the main technical characteristics which are necessary for the identification of the vehicle and provides the competent authorities with the relevant information concerning the permissible maximum laden masses;
+TECHNICAL REQUIREMENTS
+ANNEX I
+TECHNICAL REQUIREMENTS
+PART A
+Manufacturer's statutory plate
+1. General provisions
+1.1. Each vehicle shall be fitted with the manufacturer's statutory plate described in this section. 1.2. The manufacturer's statutory plate shall be affixed by the vehicle manufacturer or his representative. 1.3. The manufacturer's statutory plate shall consist either of: (a) a rectangular sheet of metal; (b) a rectangular self-adhesive label. 1.4. Metallic plates shall be fastened with rivets. 1.5. Labels shall be tamper evident, fraud resistant and self destructive in case there is an attempt to remove the label. 2. Information to be mentioned on the manufacturer's statutory plate
+2.1. The following information shall be printed indelibly on the manufacturer's statutory plate in the order listed: (a) the manufacturer's company name; (b) the whole vehicle type-approval number; (c) the vehicle identification number; (d) the technically permissible maximum laden mass; (e) the technically permissible maximum mass of the combination; (f) the technically permissible maximum mass on each axle listed in order from front to rear. 2.2. The height of the characters shall not be less than 4 mm. 3. Specific provisions
+3.1. Trailers
+3.1.1. In the case of a trailer, the technically permissible maximum static vertical mass on the coupling point shall be mentioned. 3.1.2. The coupling point shall be deemed the first axle and be numbered '0'. 3.1.3. The first axle shall be numbered '1', the second '2' and so on, followed by a hyphen. 3.1.4. The mass of the combination referred to in point 2.1.(e) shall be omitted. 3.2. All heavy duty vehicles
+3.2.1. With regard to vehicles of category N3, O3 or O4, the technically permissible maximum mass on an axle group shall also be mentioned. The entry corresponding to 'Axle group' shall be identified by the letter 'T'. 3.2.2. With respect to vehicles of category M3, N3, O3 or O4, the manufacturer may mention on the manufacturer's statutory plate the intended registration/in-service maximum permissible laden mass. 3.2.2.1. In such a case, the part of the manufacturer's statutory plate where the masses are mentioned shall be subdivided in two columns: the intended registration/in-service maximum permissible masses shall be mentioned in the left column and the technically permissible maximum laden masses in the right column. 3.2.2.2. The code of the country where the vehicle is intended to be registered shall be mentioned as header of the left column. The code shall be in accordance with Standard ISO 3166-1: 2006. 3.2.3. The requirements of point 3.2.1 shall not apply where: (a) the technically permissible maximum mass on an axle group is the sum of the technically permissible maximum mass on the axles which are part of that axle group; and
+(b) the letter 'T' is added as suffix to the maximum mass on each axle which is part of that axle group; (c) when the requirements of point 3.2.2 are applied, the registration/in-service maximum permissible mass on the group of axles is the sum of the registration/in-service maximum permissible mass on the axles which are part of that axle group. 4. Additional information
+4.1. The manufacturer may indicate additional information below or to the side of the prescribed inscriptions, outside a clearly marked rectangle which shall enclose only the information prescribed in Sections 2 and 3. 5. Models of the manufacturer's statutory plate
+5.1. Examples of the various possible models of the manufacturer's statutory plate are given in the appendix to this Annex. 5.2. The data given on the models are fictitious. PART B
+Vehicle identification number (VIN)
+1. General provisions
+1.1. A VIN shall be marked on each vehicle. 1.2. The VIN shall be unique and unequivocally attributed to a particular vehicle. 1.3. The VIN shall be marked on the chassis or the vehicle when the vehicle leaves the production line. 1.4. The manufacturer shall ensure the traceability of the vehicle by means of the VIN over a period of 30 years. 1.5. The existence of measures taken by the manufacturer to ensure the traceability of the vehicle referred to in point 1.4 needs not be checked at the time of the type-approval. 2. Composition of the VIN
+2.1. The VIN shall consist of three sections: (a) the world manufacturer identifier (WMI); (b) the vehicle descriptor section (VDS); (c) the vehicle indicator section (VIS). 2.2. The WMI shall consist of a code assigned to the vehicle manufacturer to enable him to be identified. 2.2.1. The code shall comprise three alphanumeric characters, capital roman letters or Arabic numerals, which shall be assigned by the competent authority in the country where the manufacturer has his principal place of business. 2.2.2. The competent authority shall act in agreement with the international organisation referred to in Standard ISO 3780: 2009 on 'Road vehicles — World manufacturer identifier (WMI) code'. 2.2.3. Where the manufacturer's global production is less than 500 vehicles per annum, the third character shall always be '9'. In order to identify such manufacturers, the competent authority referred to in point 2.2.1 shall assign the third, the fourth and the fifth character of the VIS. 2.3. The VDS shall consist of six alphanumeric characters, capital roman letters or Arabic numerals, which shall serve to indicate the general characteristics of the vehicle. Where the manufacturer does not use one or more of the six characters, the unused spaces shall be filled in with alphanumeric characters at the manufacturer's discretion in order that the total number of characters required shall be 6. 2.4. The VIS shall consist of eight alphanumeric characters, capital Roman letters or Arabic numerals, of which the last four shall consist of digits only. It shall provide, in conjunction with the WMI and the VDS, clear identification of a particular vehicle. Any unused space shall be filled in with the digit '0' in order that the total number of characters required shall be 8. 2.5. The height of the characters of the VIN stamped on the chassis shall be no less than 7 mm. 2.6. There shall be no space between the characters. 2.7. The use of the letters 'I', 'O' or 'Q' shall not be permitted. 2.8. The beginning and the end of the VIN shall be limited by one symbol at the choice of the manufacturer neither symbol should be a Roman capital letter nor an Arabic numeral. 2.8.1. This provision may be waived when the VIN is marked on a single line. 2.8.2. When the VIN is marked on two lines, this provision shall apply to each line.
+
+| MAYER NUTZFAHRZEUGE GmbH | MAYER NUTZFAHRZEUGE GmbH |
+|---|---|
+| e1*2007/46*0345 | e1*2007/46*0345 |
+| WMN22500A00980520 | WMN22500A00980520 |
+| (DE) |  |
+| 17 990 kg | 17 990 kg |
+| 40 000 kg | 44 000 kg |
+| 1 - 7 100 kg | 1 - 7 100 kg |
+| 2 - 11 500 kg | 2 - 11 500 kg |
+| T. - kg | T. - kg |
+
+| REMORQUES HENSCHLER SA | REMORQUES HENSCHLER SA |
+|---|---|
+| e6*2007/46*0098 | e6*2007/46*0098 |
+| YA9EBS37009000005 | YA9EBS37009000005 |
+| (BE) |  |
+| 34 000 kg | 37 000 kg |
+| 0 - 8 000 kg | 0 - 8 000 kg |
+| 1 - 9 000 kg | 1 - 10 000 kg |
+| 2 - 9 000 kg | 2 - 10 000 kg |
+| 3 - 9 000 kg | 3 - 10 000 kg |
+| T. 27 000 kg | T. 30 000 kg |
+
+Model of a manufacturer's statutory plate for a semi-trailer of category O4 type-approved in Belgium
+Note: the column on the left side is optional
+Article 4 - Validity and extension of EC type-approvals granted under Directive 76/114/EEC
+National authorities shall permit the sale and entry into service of vehicles type-approved before the date referred to in Article 13(2) of Regulation (EC) No 661/2009 and shall continue to grant extension to approvals granted under the terms of Directive 76/114/EEC.
+Article 3 - Provisions for EC type-approval of a type of vehicle with regard to the manufacturer's statutory plate and the vehicle identification number
+1.
+
+The manufacturer or his representative shall submit to the type-approval authority the application for EC type-approval of a type of vehicle as regard the lay-out and the location of the manufacturer's statutory plate and the composition and the location of the vehicle identification number.2. The application shall be drawn up in accordance with the model information document set out in Part A of Annex III.3. If deemed necessary by the approval authority or the technical service, the manufacturer shall make available a vehicle representative of the type to be approved for the purposes of inspection.4. If the relevant requirements set out in Annex I and Annex II to this Regulation are met, the approval authority shall grant a type-approval in accordance with the numbering system set out in Annex VII to Directive 2007/46/EC.A Member State may not assign the same number to another vehicle type.5. For the purpose of paragraph 4, the type-approval authority shall deliver an EC type-approval certificate established in accordance with the model set out in Part B of Annex III.
+Article 2 - Definitions
+For the purposes of this Regulation,
+(1) 'manufacturer's statutory plate' means a plate or label, affixed by the manufacturer on a vehicle that provide the main technical characteristics which are necessary for the identification of the vehicle and provides the competent authorities with the relevant information concerning the permissible maximum laden masses;
+
+(2) 'vehicle identification number' (VIN) means the alphanumeric code assigned to a vehicle by the manufacturer in order to ensure proper identification of every vehicle; (3) 'vehicle type' means a set of vehicles as defined in Annex II, Part B to Directive 2007/46/EC.
+REQUIREMENTS FOR LOCATION ON VEHICLE
+ANNEX II
+REQUIREMENTS FOR LOCATION ON VEHICLE
+PART A
+Manufacturer's statutory plate
+ 1. The manufacturer's statutory plate shall be firmly attached in a conspicuous and readily accessible position.
+
+2. The location shall be chosen so that the part on which it is affixed is not subject to replacement in use. PART B
+Vehicle Identification Number (VIN)
+ 1. The VIN shall be marked on a single line. 1.1. When, for technical reasons such as the lack of space, the VIN cannot be marked on a single line, the national authority may, at the request of the manufacturer, allow the VIN to be marked on two lines. In such case, the sections defined in point 2.1 of Part B of Annex I may not be interrupted. 2. The VIN shall be marked by stamping or mechanical hammering on the chassis, frame or other similar structure. 3. Techniques that are proven to offer the same level of inalterability against tampering or forgery as mechanical hammering may be used in place of that technique. 4. The VIN shall be in a clearly visible and accessible position. The location shall be chosen in a way that it cannot be obliterated or deteriorate. 5. The VIN shall be located on the right-hand side of the vehicle.
+recital 5
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+recital 3
+(3) Regulation (EC) No 661/2009 lays down fundamental provisions on requirements for type-approval of vehicles with regard to vehicle identification methods.
+
+Therefore, it is necessary to also set out the specific procedures, tests and requirements for such type-approval.
+recital 1
+(1) Regulation (EC) No 661/2009 is a separate Regulation for the purposes of type-approval provided for in Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (2).
+(2) 'vehicle identification number' (VIN) means the alphanumeric code assigned to a vehicle by the manufacturer in order to ensure proper identification of every vehicle;
+MODEL C for vehicles of category O1 or O2
+JEAN HORSE TRAILERS Ltde11*2007/46*0085SARHT000BC00000231 500 kg0 - 100 kg1 - 850 kg2 - 850 kgModel of a manufacturer's statutory plate for a vehicle of category O2 type-approved in the United Kingdom4.
+
+MODEL D for vehicles of category O other than O1 or O2
+REMORQUES HENSCHLER SA
+e6*2007/46*0098
+YA9EBS37009000005
+(BE)
+34 000 kg
+37 000 kg
+0 - 8 000 kg
+0 - 8 000 kg
+1 - 9 000 kg
+1 - 10 000 kg
+2 - 9 000 kg
+2 - 10 000 kg
+3 - 9 000 kg
+3 - 10 000 kg
+T. 27 000 kg
+T. 30 000 kg
+Model of a manufacturer's statutory plate for a semi-trailer of category O4 type-approved in Belgium
+Note: the column on the left side is optional
+ANNEX II
+REQUIREMENTS FOR LOCATION ON VEHICLE
+PART A
+Manufacturer's statutory plate
+ 1. The manufacturer's statutory plate shall be firmly attached in a conspicuous and readily accessible position. 2. The location shall be chosen so that the part on which it is affixed is not subject to replacement in use. PART B
+Vehicle Identification Number (VIN)
+ 1. The VIN shall be marked on a single line. 1.1. When, for technical reasons such as the lack of space, the VIN cannot be marked on a single line, the national authority may, at the request of the manufacturer, allow the VIN to be marked on two lines. In such case, the sections defined in point 2.1 of Part B of Annex I may not be interrupted. 2. The VIN shall be marked by stamping or mechanical hammering on the chassis, frame or other similar structure. 3. Techniques that are proven to offer the same level of inalterability against tampering or forgery as mechanical hammering may be used in place of that technique. 4. The VIN shall be in a clearly visible and accessible position. The location shall be chosen in a way that it cannot be obliterated or deteriorate. 5. The VIN shall be located on the right-hand side of the vehicle. ANNEX IIIPART A
+Information document
+MODEL TO BE USEDInformation document No … relating to the EC type-approval of a motor vehicle and their trailers with regard the manufacturer's statutory plate and the VIN.The following information shall be supplied in triplicate and include a list of contents. Any drawings shall be supplied in appropriate scale and in sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, shall show sufficient detail.0. GENERAL
+0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.2.1. Commercial name(s) (if available): …
+0.3. Means of identification of type, if marked on the vehicle (
+5
+): …
+0.3.1. Location of that marking: …
+0.4. Category of vehicle (
+6
+): …
+0.5. Name and address of manufacturer: …
+0.6. Location and method of attachment of the manufacturer's statutory plate: …
+0.6.1. On the chassis (
+7
+): …
+0.6.2. On the bodywork (7) : …
+0.7. Location of the VIN: …
+0.7.1. On the chassis (7) : …
+0.7.2. On the bodywork (7) : …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+1. GENERAL CONSTRUCTION CHARACTERISTICS OF THE VEHICLE
+1.1. Photographs and/or drawings of a representative vehicle: …
+9. BODYWORK
+9.17. Manufacturer's statutory plates and VIN
+9.17.1. Photographs and/or drawings of the locations of the manufacturer's statutory plates and inscriptions and of the VIN: …
+9.17.2. Photographs and/or drawings of the manufacturer's statutory plate and inscriptions (completed example with dimensions): …
+9.17.3. Photographs and/or drawings of the VIN (completed example with dimensions): …
+9.17.4. Manufacturer's declaration of compliance with the requirements set out in point 2.2 of Part B of Annex I to Regulation (EU) No 19/2011
+9.17.5. A detailed description of the composition of the VIN: …
+Explanatory notes: PART B
+EC type-approval certificate
+MODELFormat: A4 (210 × 297 mm)
+EC TYPE-APPROVAL CERTIFICATE
+Stamp of type-approval authorityCommunication concerning: — EC type-approval (1),
+— extension of EC type-approval (1),
+— refusal of EC type-approval (1),
+— withdrawal of EC type-approval (1),
+of a type of vehicle with regard to the manufacturer's statutory plate and the vehicle identification number
+with regard to Regulation (EU) No …/…, as last amended by Regulation (EU) No …/… (1) EC type-approval number: …
+Reason for extension: …
+(1) Delete where not applicable. SECTION I
+0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.2.1. Commercial name(s) (if available): …
+0.3. Means of identification of type, if marked on the vehicle (
+8
+): …
+0.3.1. Location of that marking: …
+0.4. Category of vehicle (
+9
+): …
+0.5. Name and address of manufacturer: …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+SECTION II
+ 1. Additional information (where applicable): see Addendum. 2. Technical service responsible for carrying out the tests: …
+ 3. Date of test report: …
+ 4. Number of test report: …
+ 5. Remarks (if any): …
+ 6. Place: …
+ 7. Date: …
+ 8. Signature: …
+Attachments
+:
+Information package. Test report. Addendumto EC type-approval certificate No …Not applicable. (
+1
+) OJ L 200, 31.7.2009, p. 1.(
+2
+) OJ L 263, 9.10.2007, p. 1.(
+3
+) OJ L 24, 30.1.1976, p. 1.(
+4
+) OJ L 233, 25.8.1997, p. 1.(
+5
+) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??).(
+6
+) Classified according to the definitions set out in Directive 2007/46/EC Part A of Annex II.(
+7
+) Delete where not applicable.(
+8
+) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??).(
+9
+) As defined in Annex II, Section A.
+(2) 'vehicle identification number' (VIN) means the alphanumeric code assigned to a vehicle by the manufacturer in order to ensure proper identification of every vehicle;
+(3) 'vehicle type' means a set of vehicles as defined in Annex II, Part B to Directive 2007/46/EC.
+(3) 'vehicle type' means a set of vehicles as defined in Annex II, Part B to Directive 2007/46/EC.

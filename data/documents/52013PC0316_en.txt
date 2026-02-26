@@ -1,0 +1,437 @@
+Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL concerning type-approval requirements for the deployment of the eCall in-vehicle system and amending Directive 2007/46/EC /* COM/2013/0316 final - 2013/0165 (COD) */
+EXPLANATORY MEMORANDUM
+1. CONTEXT OF THE PROPOSAL
+The purpose of this proposal is to
+introduce in the EC motor vehicle type-approval system a requirement for
+fitting an eCall in-vehicle system.
+
+This forms part of a set of EU legal acts
+for ensuring the deployment of the 112-based eCall service by 1 October 2015. The other main legislative acts linked to this eCall initiative are: · 
+Commission Recommendation 2011/750/EU of 8
+September 2011 on support for an EU-wide eCall service in electronic
+communication networks for the transmission of in-vehicle emergency calls based
+on 112 ('eCalls')[1]
+· 
+Commission Delegated Regulation (EU) No 305/2013
+of 26.11.2012 supplementing Directive 2010/40/EU of the European Parliament and
+of the Council with regards to the harmonised provision for an interoperable
+EU-wide eCall[2]
+· 
+Proposal for Decision (EU) No…/.. of xx.xx.20xx of the European Parliament and of the Council on the
+deployment of the interoperable EU-wide eCall[3]
+These different texts are complementary and
+together will allow for the 112 eCall service to be fully operational by 1
+October 2015. 2. RESULTS OF CONSULTATIONS
+WITH THE INTERESTED PARTIES AND IMPACT ASSESSMENTS
+2.1. Consultations with the
+interested parties
+This proposal is the result of extensive
+consultations with major stakeholders: The stakeholders, and notably the CARS21
+High Level Group, were consulted during the process that led to the adoption of
+the "CARS 2020: action plan for a competitive and sustainable European car
+industry". More precisely, this proposal constitutes a delivery of the action: "further promote the deployment of Intelligent Transport Systems (ITS),
+including cooperative systems, in particular the EU-wide in-vehicle emergency
+call system eCall". This proposal also takes into consideration
+all the consultations made in the eCall Impact Assessment. These consultations
+include, in particular, extensive contributions from stakeholders involved in
+several fora such as the European eCall Implementation Platform (EeIP), the
+eCall Public Service Answering Points ("PSAPs") expert Group and the eCall
+Driving Group within the eSafety/i-Mobility Forum, and a public consultation on
+the implementation of eCall that was open from 19 July to 19 September 2010. Finally, this proposal takes into
+consideration the opinion of the European ITS Advisory Group, composed of 25
+high level representatives from ITS service providers, associations of users,
+transport and facilities operators, manufacturing industry, social partners,
+professional associations, local authorities and other relevant fora. 2.2. Impact assessment and
+cost-benefit analysis
+An extensive cost-benefit analysis was
+conducted as part of the eCall Impact Assessment for the three proposed
+options, including the preferred option on regulatory measures. As far as the cost-benefit analysis of the
+chosen option (option 3) is concerned, each of the three planned eCall
+regulatory measures (in-vehicle, telecommunication, PSAP) is inseparable from
+the other two. 2.2.1. Analysis of main benefits
+The benefits identified through the impact
+assessment and several studies, including national ones, include: - Reduction of fatalities (with all
+vehicles eCall-equipped, between 1% and 10% depending on country population
+density, road and emergency response infrastructure); 
+- Reduction of seriousness of the
+injuries (between 2% and 15%); 
+- Reduction of congestion costs
+caused by traffic accidents. This is due to the improvement of accident
+management, as the accident is immediately notified to the PSAPs and can therefore
+be transferred to the appropriate Traffic Management Control, which can
+immediately inform other road users, and help reduce secondary accidents; - Facilitation of rescue services
+and increased security of rescue team (e.g. fire-fighters) when extracting
+trapped occupants, as the Minimum Set of Data ("MSD") in the eCall message will,
+among others, provide information on the fuel type; - Reduced SOS roadside
+infrastructure, as each road user would be able to trigger an emergency call
+from their vehicle. 2.2.2. Cost-benefit ratio
+Benefits have also been quantified in
+monetary values and a cost-benefit analysis drawn for the different options as
+well for types of affected categories. The estimations are calculated up to
+year 2033 as this is the expected year of full penetration of the eCall service
+in case of the preferred policy option. || Policy option 1 No EU action || Policy Option 2 Voluntary approach || Policy Option 3 Regulatory measures 
+ Benefit-Cost Ratio || 0.29 || 0.68 || 1.74 
+3. LEGAL ELEMENTS OF THE
+PROPOSAL
+3.1. Legal basis
+The legal basis is article 114 of the
+Treaty on the Functioning of the European Union. 3.2. Subsidiarity and
+proportionality
+According to the principle of subsidiarity
+(Article 5.3 Treaty on the European Union), action at Union level should be
+taken only when the aims envisaged cannot be achieved sufficiently by Member
+States alone and can therefore, by reason of the scale or effects of the
+proposed action, be better achieved by the Union. Road safety is an issue of major concern
+across the entire European Union and for all of its citizens. The purpose of
+the interoperable EU-wide eCall initiative is ultimately to introduce in all
+vehicles in the EU the minimum functionalities needed to ensure adequate
+handling of the emergency calls by the emergency response services. Currently,
+road journeys exceed 100 million annually across the various Member States and
+they are increasing due to further consolidation of the European Union (through
+the free movement of goods, persons and services). Action is needed at EU level
+in order to guarantee interoperability and continuity of the service throughout
+ Europe, which cannot be satisfactorily achieved by individual Member States
+alone. Moreover, taking action at EU level using common European eCall standards
+approved by the European Standardisation Organisations (CEN and ETSI) will
+ensure the efficient provision of the emergency response service across Europe,
+for example in the case of vehicles travelling abroad, and also help to avoid
+market fragmentation. The EU-wide eCall has been designed in such
+a way as to minimise the impact on all the stakeholders in the value chain
+(automotive industry, mobile network operators, Member States - PSAPs), and to
+distribute this impact fairly. 3.3. Detailed explanation of
+the proposal
+Articles 2, 4 and 5: The proposal requires new types of
+passenger cars and light commercial vehicles to be constructed as to ensure
+that in the event of a severe accident an emergency call (eCall) to the 112 is
+triggered automatically. It must also be possible to trigger manually emergency
+calls (eCalls) to the 112. Article 6: Due to the nature of the information being
+provided by this service, rules for privacy and data protection are provided. Articles 5, 6 and 8: The Commission is empowered to adopt
+delegated acts relating to: · 
+Detailed technical requirements and tests for
+the type-approval of the eCall in-vehicle systems, which will be based on the
+standards referred to in Article 5; 
+· 
+privacy and data protection; · 
+exemptions for special purpose vehicles and for
+other justified cases. The exemptions will be limited in number. Article 12: The Regulation will apply from 1 October
+2015. 4. BUDGETARY IMPLICATION 
+There are no budgetary implications for the
+EU budget. 5. OPTIONAL ELEMENTS 
+The proposed act concerns an EEA matter and
+should therefore extend to the European Economic area.
+5. OPTIONAL ELEMENTS 
+The proposed act concerns an EEA matter and
+should therefore extend to the European Economic area.
+
+2013/0165 (COD)
+Proposal for a
+REGULATION OF THE EUROPEAN PARLIAMENT
+AND OF THE COUNCIL
+concerning type-approval requirements for
+the deployment of the eCall in-vehicle system and amending Directive 2007/46/EC
+(Text with EEA relevance)
+THE EUROPEAN PARLIAMENT AND THE
+COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty on the
+Functioning of the European Union, and in particular Article 114 thereof,
+Having regard to the proposal of the
+European Commission,
+After transmission of the draft legislative
+act to the national Parliaments,
+Having regard to the opinion of the
+European Economic and Social Committee[4],
+Having regard to the opinion of the European Data Protection Supervisor,
+Acting in accordance with the ordinary
+legislative procedure,
+Whereas: (1) A comprehensive Union
+type-approval system for motor vehicles has been established by Directive
+2007/46/EC of the European Parliament and of the Council of 5 September 2007 on
+establishing a framework for the approval of motor vehicles and their trailers,
+and of systems, components and separate technical units intended for such
+vehicles (Framework Directive)[5]. (2) The technical requirements
+for the type-approval of motor vehicles with regard to numerous safety and
+environmental elements have been harmonised at Union level in order to ensure a
+high level of road safety throughout the Union. (3) In order to further
+improve road safety, the Communication "eCall: Time for Deployment"[6] proposes new measures to
+accelerate the deployment of an in-vehicle emergency call service in the Union. One of the suggested measures is to make mandatory the fitting of eCall in-vehicle systems
+in all new vehicles starting with M1 and N1 vehicle categories as defined in Annex
+II to Directive 2007/46/EC. (4) On
+3 July 2012, the European Parliament approved the Report on eCall: a new 112 service for citizens[7] urging the Commission to submit a proposal within the framework of
+Directive 2007/46/EC in order to ensure the mandatory deployment of a public,
+112-based eCall system by 2015. (5) The Union eCall system is
+expected to reduce the number of fatalities in the Union as well as the
+severity of injuries caused by road accidents. The mandatory introduction of the
+eCall system would make the service available to all citizens and thus
+contribute to reduce human suffering and healthcare and other costs. (6) The provision of accurate
+and reliable positioning information is an essential element of the effective operation
+of the eCall in-vehicle system. Therefore, it is appropriate to require its
+compatibility with the services provided by satellite navigation programmes,
+including the systems established under the Galileo and EGNOS programmes set
+out in Regulation (EC) No 683/2008 of the European Parliament and of the
+Council of 9 July 2008 on the further implementation of the European satellite
+navigation programmes (EGNOS and Galileo)[8]. (7) The mandatory equipping of
+vehicles with the eCall in-vehicle system should initially apply only to new
+passenger cars and light commercial vehicles (categories M1 and N1) for which
+an appropriate triggering mechanism already exists. (8) The mandatory equipping of
+vehicles with the eCall in-vehicle system should be without prejudice to the
+right of all stakeholders such as car manufacturers and independent operators
+to offer additional emergency and/or added value services, in parallel with or
+building on the 112-based eCall in-vehicle system. However, these additional
+services should be designed not to increase driver distraction. (9) In order to ensure open
+choice for customers and fair competition, as well as encourage innovation and
+boost the competitiveness of the Union's information technology industry on the
+global market, the eCall in-vehicle system should be accessible free of charge
+and without discrimination to all independent operators and based on an
+interoperable and open-access platform for possible future in-vehicle
+applications or services. (10) In order to maintain the
+integrity of the type-approval system, only those eCall in-vehicle systems
+which can be fully tested should be accepted for the purposes of this
+Regulation. (11) Small series vehicles are
+excluded under Directive 2007/46/EC from the requirements on the protection of
+occupants in the case of frontal impact and side impact. Therefore, those small
+series vehicles should be excluded from the obligation to comply with the eCall
+requirements. (12) Special purpose vehicles
+should be subject to compliance with the eCall requirements set out in this
+Regulation, unless type-approval authorities consider, on a case by case basis,
+that the vehicle cannot meet those requirements due to its special purpose. (13) According to the recommendations
+made by the Article 29 Data Protection Working Party and contained in the
+'Working document on data protection and privacy implications in eCall
+initiative', adopted on 26 September 2006[9],
+any processing of personal data through the eCall in-vehicle system should
+comply with the personal data
+protection rules provided for in Directive 95/46/EC of the European Parliament
+and of the Council of 24 October 1995 on the protection of individuals with
+regard to the processing of personal data and on the free movement of such data[10] and in Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning
+the processing of personal data and the protection of privacy in the electronic
+communications sector (Directive on privacy and electronic communications)[11],
+in particular to guarantee that vehicles equipped with
+eCall in-vehicle systems, in their normal operational status related to 112
+eCall, are not traceable and are not subject to any constant tracking and that
+the minimum set of data sent by the in-vehicle eCall system includes the
+minimum information required for the appropriate handling of emergency calls. (14) The European
+Standardisation Organisations, ETSI and CEN, have developed common standards
+for the deployment of a pan-European eCall service, which should apply for the
+purposes of this Regulation, as this will facilitate the technological
+evolution of the in-vehicle eCall service, ensure the interoperability and
+continuity of the service throughout the Union, and reduce the costs of
+implementation for the Union as a whole. (15) In order to ensure the
+application of common technical requirements regarding the eCall in-vehicle system,
+the power to adopt acts in accordance with Article 290 of the Treaty on the
+Functioning of the European Union should be delegated to the Commission in
+respect of the detailed rules on the application of the relevant standards, on
+testing, on personal data and privacy protection and on exemptions for certain
+vehicles or classes of vehicles of categories M1 and N1. It is of particular
+importance that the Commission carry out appropriate consultations during its
+preparatory work, including at expert level. The Commission, when preparing and
+drawing up delegated acts, should ensure a simultaneous, timely and appropriate
+transmission of relevant documents to the European Parliament and to the
+Council. (16) Vehicle manufacturers
+should be allowed sufficient time to adapt to the technical requirements of
+this Regulation. (17) This Regulation is a new
+separate Regulation in the context of the EC type-approval procedure provided
+for by Directive 2007/46/EC and therefore, Annexes I, III, IV, VI, IX and XI to
+that Directive should be amended accordingly.
+(17) This Regulation is a new
+separate Regulation in the context of the EC type-approval procedure provided
+for by Directive 2007/46/EC and therefore, Annexes I, III, IV, VI, IX and XI to
+that Directive should be amended accordingly.
+
+(18) Since the objectives of
+this Regulation, namely the achievement of the internal market through the
+introduction of common technical requirements for new type approved vehicles
+equipped with the eCall in vehicle system, cannot be sufficiently achieved by
+the Member States and can, therefore, by reason of its scale, be better
+achieved at the level of the Union, the Union may adopt measures in accordance
+with the principle of subsidiarity set out in Article 5 of the Treaty on the
+European Union. In accordance with the principle of proportionality, as set out
+in that Article, this Regulation does not go beyond what is necessary in order
+to achieve that objective,
+HAVE ADOPTED THIS REGULATION: Article 1
+Subject matter
+This Regulation establishes the technical
+requirements for the EC type-approval of vehicles regarding the eCall in-vehicle system. Article 2 
+Scope
+This Regulation shall apply to vehicles of
+categories M1 and N1 as defined in points 1.1.1. and 1.2.1. of Annex II to Directive
+2007/46/EC. Article 3
+Definitions
+For the purpose of this Regulation and in
+addition to the definitions laid down in Article 3 of Directive 2007/46/EC and
+in Article 2 of Commission Delegated Regulation (EU) No 305/2013[12], the following definitions
+shall apply: (1) 'e-Call in-vehicle system' means
+a system activated either automatically via in-vehicle sensors or manually,
+which carries, by means of mobile wireless communications networks, a
+standardised minimum set of data and establishes a 112-based audio channel
+between the occupants of the vehicle and a public safety answering point; (2) 'in-vehicle system' means the
+in-vehicle equipment together with the means to trigger, manage and effect the
+eCall transmission via a public mobile wireless communications network
+providing a link between the vehicle and a means of enacting the eCall service
+via a public mobile wireless communications network. Article 4 
+General obligations of the Manufacturers
+Manufacturers shall demonstrate that all
+new types of vehicles referred to in Article 2 are equipped with an eCall in-vehicle
+system, in accordance with this Regulation and the delegated acts adopted
+pursuant to this Regulation. Article 5
+Specific obligations of manufacturers
+1. Manufacturers shall ensure that
+all their new types of vehicle are manufactured and approved in accordance with
+the requirements set out in this Regulation and the delegated acts adopted
+pursuant to this Regulation. 2. Manufacturers shall demonstrate
+that all their new types of vehicle are constructed to ensure that in the event
+of a severe accident which occurs in the territory of the Union, an eCall to
+the single European emergency number 112 is triggered automatically. Manufacturers shall demonstrate
+that new vehicles are constructed as to ensure that an eCall to the single
+European emergency number 112 can also be triggered manually. 3. Manufacturers shall ensure that
+the receivers in the in-vehicle systems are compatible with the positioning
+services provided by satellite navigation systems including the Galileo and the
+EGNOS systems. 4. Only those eCall in-vehicle systems
+which can be tested shall be accepted for the purposes of type-approval. 5. eCall in-vehicle systems shall
+comply with the requirements of Directive 1999/5/EC[13] and UNECE Regulation No 10[14]. 6. The eCall in-vehicle system shall
+be accessible to all independent operators free of charge and without
+discrimination at least for repair and maintenance purposes. 7. The Commission shall be empowered
+to adopt delegated acts in accordance with Article 9 establishing the detailed
+technical requirements and tests for the type-approval of eCall in-vehicle systems
+and amending Directive 2007/46/EC accordingly. The technical requirements and tests referred
+to in the first subparagraph shall be based on the requirements set out in
+paragraphs 3, 4 and 6 and on the following standards, where applicable: (a) EN 16072 'Intelligent transport
+system-ESafety-PanEuropean eCall-Operating requirements'; (b) EN 16062 'Intelligent transport
+systems-ESafety-ECall high level application requirements (HLAP)';
+(c) EN 16454 'Intelligent transport
+systems - eSafety - eCall end to end conformance testing', as regards the eCall
+in-vehicle system conformance to the pan-European eCall; (d) any additional European standards or
+UNECE Regulations relating to eCall systems. Article 6
+Rules on privacy and data protection
+1 In accordance with Directive
+95/46/EC and Directive 2002/58/EC, manufacturers shall ensure that vehicles
+equipped with eCall in-vehicle system are not traceable and are not subject to
+any constant tracking in their normal operational status related to the eCall. Privacy enhancing technologies shall be
+embedded in the in-vehicle eCall system in order to provide eCall users with
+the desired level of privacy protection, as well as the necessary safeguards to
+prevent surveillance and misuse. 2. The minimum set of data sent by
+the eCall in-vehicle system shall include only the minimum information required
+for the appropriate handling of emergency calls. 3. Manufacturers shall ensure that
+eCall users are provided with clear and comprehensive information about the
+processing of data carried out through the eCall in-vehicle system, in
+particular about: (a) the reference to the legal basis for
+the processing; (b) the fact that the eCall in-vehicle system
+is activated by default; (c) the modalities of data processing that
+the eCall in-vehicle system performs; (d) the purpose of the eCall processing; (e) the types of data collected and
+processed and the recipients of that data, 
+(f) the time limit for the retention of
+data in the in-vehicle system; (g) the fact that there is no constant
+tracking of the vehicle; (h) the modalities for exercising data
+subjects' rights; (i) any necessary additional information
+regarding the processing of personal data in relation to the provision of a
+private eCall service and/or other added value services. 4. The Commission shall be empowered
+to adopt delegated acts in accordance with Article 9 which shall define further the requirement of the absence
+of traceability and tracking and the privacy enhancing technologies
+referred to in paragraph 1 as well as the modalities of the private data processing and of the user
+information referred to in paragraph 3. Article 7
+Obligations of the Member States 
+With effect from 1 October 2015, national
+authorities shall only grant EC type-approval in respect of the eCall in-vehicle
+system to new types of vehicles which comply with this Regulation and the
+delegated acts adopted pursuant to this Regulation. Article 8
+Exemptions
+1. The Commission may exempt
+certain vehicles or classes of vehicles of categories M1 and N1 from the
+obligation to install eCall in-vehicle systems set out in Article 4, if following
+a cost/benefit analysis, carried out or mandated by the Commission, and taking
+into account all relevant safety aspects, the application of those systems
+proves not to be appropriate to the vehicle or class of vehicles concerned. 2. The Commission shall be
+empowered to adopt delegated acts in accordance with Article 9 setting out the exemptions
+referred to in paragraph 1. Those exemptions shall cover vehicles such as
+special purpose vehicles and vehicles without airbags and be limited in number. Article 9
+Exercise of the delegation
+1. The power to adopt
+delegated acts is conferred on the Commission subject to the conditions laid
+down in this Article. 2. The power to adopt
+delegated acts referred to in Article 5 (7), Article 6(4) and in Article 8(2)
+shall be conferred on the Commission for an indeterminate period of time
+from […][Publications Office, please insert the exact date of entry into force].
+2. The power to adopt
+delegated acts referred to in Article 5 (7), Article 6(4) and in Article 8(2)
+shall be conferred on the Commission for an indeterminate period of time
+from […][Publications Office, please insert the exact date of entry into force].
+
+3. The delegation of powers
+referred to in Article 5(7), in Article 6(4) and in Article 8(2) may be revoked
+at any time by the European Parliament or by the Council. A decision to revoke
+shall put an end to the delegation of the power specified in that decision. It
+shall take effect the day following the publication of the decision in the Official
+Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force. 4. As soon as it adopts a
+delegated act, the Commission shall notify it simultaneously to
+the European Parliament and to the Council. 5. A delegated act adopted
+pursuant to Article 5(7), Article 6(4) and Article 8(2), shall enter into force
+only if no objection has been expressed either by the European Parliament or
+the Council within a period of two months of notification of that act to
+the European Parliament and the Council or if, before the expiry of that
+period, the European Parliament and the Council have both informed
+the Commission that they will not object. That period shall be
+extended by two months at the initiative of the European Parliament
+or of the Council. Article 10
+Penalties for non-compliance
+1. Member States shall lay down the
+rules on penalties applicable to non-compliance by manufacturers with the
+provisions of this Regulation and shall take all measures to ensure that they
+are implemented. The penalties provided for shall be effective, proportionate
+and dissuasive. Members States shall notify those provisions to the Commission,
+and shall notify it without delay of any subsequent amendment affecting them. 2. The type of non-compliance which
+is subject to a penalty shall include at least the following: (a) making a false declaration during an
+approval procedure or a procedure leading to a recall; (b) falsifying test results for
+type-approval; (c) withholding data or technical
+specifications which could lead to recall or withdrawal of type-approval. Article 11
+Amendments to Directive 2007/46/EC
+Annexes I, III, IV, VI, IX and XI to
+Directive 2007/46/EC are amended in accordance with the Annex to this
+Regulation. Article 12
+Entry into force
+This Regulation shall enter into force on
+the twentieth day following that of its publication in the Official Journal
+of the European Union. It shall apply from 1 October 2015. This
+Regulation shall be binding in its entirety and directly applicable in all
+Member States. Done at Brussels, 
+For the European Parliament For
+the Council
+The President The
+President
+ANNEX
+Amendments to Directive 2007/46/EC
+Directive 2007/46/EC is amended as follows: (1) In Annex I, the following points
+12.8. and 12.8.1. are added: "12.8 eCall system
+12.8.1 description or drawings"; (2) In Annex III, In Part I, section
+A, the following points 12.8. and 12.8.1. are added: "12.8 eCall system
+12.8.1 Presence: yes/no (1)"; (3) Part 1 of Annex IV is amended as
+follows: (a) The following item 71. is added to
+the table: 
+ Item || Subject || Regulatory act || Applicability 
+ M1 || M2 || M3 || N1 || N2 || N3 || O1 || O2 || O3 || O4 
+ 71. || eCall system || Regulation (EU) No….. || X || || || X || || || || || || 
+(b) Appendix 1 is amended as follows: (i) the following item 71. is added to
+table 1: Item || Subject || Regulatory act || Specific issues || Applicability and specific requirements 
+ 71. || eCall system || Regulation (EU) No….. || || N/A 
+(ii) the following item 71. is added to
+table 2: Item || Subject || Regulatory act || Specific issues || Applicability and specific requirements 
+ 71. || eCall system || Regulation (EU) No….. || || N/A 
+(4) In the Appendix to Model A in Annex
+VI, the following item 71. is added to the table: Item || Subject || Regulatory act reference(1) || As amended by || Applicable to versions 
+ 71. || eCall system || Regulation (EU) No….. || || 
+(5) Annex IX is amended as follows: (a) In Part I, Model B is amended as
+follows: (i) Side 2 "vehicle category M1" is
+amended as follows: - point 52 is replaced by the following: "52. eCall presence yes/no",
+- the following point 53 is added: "53. Remarks (11): …………….";
+(ii) side 2 "vehicle category N1" is
+amended as follows: - point 52 is replaced by the following: "52. eCall presence yes/no",
+- the following point 53 is added: "53. Remarks (11): …………….";
+(b) in Part II, model C2 is amended as
+follows: (i) side 2 "vehicle category M1" is
+amended as follows: - point 52 is replaced by the following: "52. eCall presence yes/no",
+- the following point 53 is added: "53. Remarks (11): …………….";
+(ii) side 2 "vehicle category N1" is
+amended as follows: - point 52 is replaced by the following: "52. eCall presence yes/no",
+- the following point 53 is added: "53. Remarks (11): …………….";
+(6) In Appendix 1 to Annex XI, the
+following item 71. is added to the table: Item || Subject || Regulatory act reference || M1 ≤ 2 500 (1) kg || M1 > 2 500 (1) kg || M2 || M3 
+ 71. || eCall system || Regulation (EU) No….. || A || A || N/A || N/A 
+[1] OJ L303, 22.11.2011, p.46. [2] OJ L91, 3.4.2013,p.1
+[3] OJ L[…],[…], p. […]. [4] OJ C […], […], p. […]. [5] OJ L 263, 9.10.2007, p.1. [6] COM (2009) 434 final. [7] 2012/2056(INI). [8] OJ L 196, 24.7.2008, p.1. [9] 1609/06/EN - WP 125. [10] OJ L 281, 23.11.1995, p. 31. [11] OJ L 201, 31.7.2002, p. 37. [12] OJ L 91, 03.04.2013, p. 1. [13] OJ L 91, 7.4.1999, p.10. [14] OJ L 254, 20.9.2012, p.1.

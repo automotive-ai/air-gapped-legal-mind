@@ -1,0 +1,836 @@
+2.2. EEC COMPONENT TYPE-APPROVAL MARK OF A HEAD RESTRAINT WHICH IS NOT AN INTEGRAL PART OF A SEAT
+ANNEX VI
+2.2. EEC component type-approval mark of a head restraint which is not an integral part of a seat
+EEC COMPONENT TYPE-APPROVAL MARK
+1.1. The EEC component type-approval mark consists of:
+
+1.1.1. a rectangle surrounding the lower-case letter 'e' followed by the distinguishing number or letters of the Member State which has granted the EEC component type-approval: ▼A2
+1
+for Germany
+2
+for France
+3
+for Italy
+4
+for the Netherlands
+6
+for Belgium
+9
+for Spain
+11
+for the United Kingdom
+13
+for Luxembourg
+DK
+for Denmark
+▼M1
+EL
+for Greece
+▼A2
+IRL
+for Ireland
+P
+for Portugal; ▼
+12
+for Austria
+17
+for Finland
+5
+for Sweden; ▼A4
+8
+for the Czech Republic
+29
+for Estonia
+CY
+for Cyprus
+32
+for Latvia
+36
+for Lithuania
+7
+for Hungary
+MT
+for Malta
+20
+for Poland
+26
+for Slovenia
+27
+for Slovakia; ▼M2
+34
+for Bulgaria
+19
+for Romania; ▼M3
+25
+for Croatia; ▼B
+1.1.2. it must also include the EEC component type-approval number which corresponds to the number of the EEC component type-approval certificate issued for the type of head restraint in question; this number is placed in any convenient position near the rectangle; 1.1.3. where the head restraint is an integral part of the seatback, the EEC component type-approval number is preceded by the letter 'I' and a dash: 1.2. The EEC component type-approval mark must be clearly legible and indelible. The above component type-approval mark affixed to a head restraint or restraints forming an integral part of the seat or seats of a vehicle shows that the type of seat in question has been approved with regard to head restraints in the Netherlands (e4) under the number 2439. The above component type-approval mark affixed to a head restraint shows that the head restraint in question has been granted EEC component type-approval, that it is a head restraint which is not an integral part of a seat and is approved in the Netherlands under the number 2439.
+4. MARKINGS
+ANNEX I
+4. MARKINGS
+SCOPE, DEFINITIONS, APPLICATION FOR EEC COMPONENT TYPE-APPROVAL, GENERAL SPECIFICATIONS, TESTS AND CONFORMITY OF PRODUCTION
+1.1. This Directive applies to head restraints (head rests):
+
+— forming an integral part of the seatback, or
+— designed to be installed on the seat,
+of motor vehicles conforming to the definition given in Article 9 and intended for separate use, i.e. as individual equipment by adult occupants of forward-facing seats. 'Vehicle type with regard to head restraints' means vehicles which do not differ in such essential respects as: 2.1.1. the lines and internal dimensions of the bodywork constituting the passenger compartment; and
+2.1.2. the types and dimensions of the seats. 'Head restraint' means a device whose purpose is to limit the rearward displacement of the occupant's head in relation to his torso in order to reduce the danger of injury to the cervical vertebrae in the event of an accident. This device may or may not form an integral part of the seatback.'Type of seat' means seats which do not differ in their dimensions, in their framework or in their padding, although they may differ in finish or colour.'Type of head restraint' means head restraints which do not differ in their dimensions, in their framework or in their padding, although they may differ in finish, colour or covering.(see Annex II).(see Annex II).'Reference line r' means a straight line which, either on a test manikin having the mass and dimensions of an average adult male or on a test manikin having identical characteristics, passes through the joint of the leg with the pelvis and the joint of the neck with the thorax. On the manikin referred to in Section 3 of Annex III to Council Directive 77/649/EEC of 27 September 1977 on the approximation of the laws of the Member States relating to the field of vision of motor vehicle drivers (
+11
+), to which reference is made in Annex II to this Directive, the reference line is that shown in Figure 1 in the Appendix to Annex III to Directive 77/649/EEC.'Head line' means a straight line passing through the centre of gravity of the head and through the joint of the neck with the thorax. When the head is at rest the head line is situated in the extension of the reference line. 3.1. The application for EEC component type-approval must be submitted by the holder of the trade name or mark of the seat or head restraint or by his authorized representative. 3.2. It must be accompanied by the following documents in triplicate: 3.2.1. a detailed description of the head restraint, specifying in particular the nature of the padding material or materials and, where applicable, the position and specifications of the supports and anchorages for the type or types of seats for which component type-approval of the head restraint is sought; 3.2.2. a detailed description of the type or types of seats for which component type-approval of the head restraint is sought; 3.2.3. details of the type or types of vehicle on which the seats referred to in 3.2.2 are intended to be fitted; 3.2.4. dimensional drawings of the characteristic parts of the seat and head restraint. 3.3. The following must be submitted to the technical service responsible for conducting the component type-approval tests: 3.3.1. if the head restraint is an integral part of the seat: four complete seats; 3.3.2. if the head restraint is intended to be firmly anchored to the seat: 3.3.2.1. two seats of each type to which the head restraint is to be fitted; 3.3.2.2. 4 + 2N head restraints, N being the number of types of seat to which the head restraint is to be fitted. 3.4. The technical service responsible for conducting the component type-approval tests may request: 3.4.1. the submission of specific parts or specific samples of the materials used; and/or
+3.4.2. the submission of vehicles of the type or types referred to in 3.2.3. 
+4.1. The devices submitted for component type-approval must: 4.1.1. be clearly and indelibly marked with the trade name or mark of the applicant; 4.1.2. provide adequate space on the lateral face for the component type-approval mark: this space must be shown in the drawings referred to in 3.2.4. 
+4.2. Where the head restraint forms an integral part of the seat, the markings referred to in 4.1.1 and 4.1.2 must be placed on the part of the seat which is used as a head restraint. (5.)
+ 6. GENERAL SPECIFICATIONS
+6.1. The presence of the head restraint in a vehicle must not be an additional cause of danger to occupants of the vehicle. In particular it must not in any position of use exhibit any dangerous roughness or sharp edge liable to increase the risk or seriousness of injury to the occupants. Parts of the head restraint which are situated in the impact zone defined below must be capable of dissipating energy in the manner specified in Annex V to this Directive: 6.1.1. the impact zone must be bounded laterally by two vertical longitudinal planes, one on each side of and each 70 mm distant from the plane of symmetry of the seat concerned; 6.1.2. the impact zone must be limited in height to the part of the head restraint situated above the plane perpendicular to the reference line r and 635 mm distant from the R point. 6.2. Parts of the front and rear faces of the head restraint which are situated outward of the said vertical longitudinal planes must be so padded as to prevent any direct contact of the head with the structural components, which should in those areas have a radius of curvature of not less than 5 mm. 6.3. The head restraint must be anchored to the seat in such a way that no rigid and dangerous part projects from the padding of the head restraint, from the anchorage or from the seatback as a result of the pressure exerted by the head during the test. 6.4. The height of the head restraint, measured as described in 7.2, must not be less than 700 mm above the seating reference point R.
+6.5. The height of the device on which the head rests, measured as described in 7.2, must, in the case of a head restraint adjustable for height, not be less than 100 mm. 6.6. There must be no gap of more than 50 mm between the seatback and the head restraint in the case of a device not adjustable for height. If the head restraint is adjustable for height, it must, when in the low position, be no more than 25 mm from the top of the seatback. 6.7. The width of the head restraint must be such as to provide suitable support for the head of a person normally seated. In the plane of measurement of width defined in 7.3, the head restraint shall cover an area extending not less than 85 mm to each side of the plane of symmetry of the seat for which the head restraint is intended, that distance being measured in accordance with 7.3. 6.8. The head restraint and its anchorage must be such that the maximum backward displacement of the head permitted by the head restraint and measured in conformity with the static procedure laid down in 7.4 is less than 102 mm. 6.9. The head restraint and its anchorage must be strong enough to bear without failure the load specified in 7.4.3.7. 7. TESTS7.1. Verification of the R point of the seat in which the head restraint is to be incorporated
+This point is verified in accordance with the requirements of Annex II. 7.2. Determination of the height of the head restraint
+7.2.1. All lines must be drawn in the plane of symmetry of the seat concerned, the intersection of which plane with the seat determines the contour of the head restraint and of the seatback (see Annex III, Figure 1). 7.2.2. The manikin corresponding to an average adult male or the manikin referred to in Section 3 of Annex III to Directive 77/649/EEC must be placed in a normal position on the seat. The seatback, if inclinable, is locked in a position corresponding to a rearward inclination of the reference line of the manikin's torso of as nearly as possible 25° from the vertical. 7.2.3.
+Article 3
+1. No Member State may prohibit the placing on the market of head restraints on grounds relating to their construction or method of functioning if they bear the EEC component type-approval mark.2.
+
+Nevertheless, a Member State may prohibit the placing on the market of head restraints bearing the EEC component type-approval mark which consistently fail to conform to the approved type.That State shall forthwith inform the other Member States and the Commission of the measures taken, specifying the reasons for its decision.
+Article 8
+No Member State may refuse or prohibit the sale, registration, entry into service or use of any vehicle on grounds relating to its head restraints, if these bear the EEC component type-approval mark and are intended for installation in the type of vehicle submitted for type-approval.
+4. MARKINGS
+ANNEX I
+4. MARKINGS
+SCOPE, DEFINITIONS, APPLICATION FOR EEC COMPONENT TYPE-APPROVAL, GENERAL SPECIFICATIONS, TESTS AND CONFORMITY OF PRODUCTION
+1.1. This Directive applies to head restraints (head rests):
+
+— forming an integral part of the seatback, or
+— designed to be installed on the seat,
+of motor vehicles conforming to the definition given in Article 9 and intended for separate use, i.e. as individual equipment by adult occupants of forward-facing seats. 'Vehicle type with regard to head restraints' means vehicles which do not differ in such essential respects as: 2.1.1. the lines and internal dimensions of the bodywork constituting the passenger compartment; and
+2.1.2. the types and dimensions of the seats. 'Head restraint' means a device whose purpose is to limit the rearward displacement of the occupant's head in relation to his torso in order to reduce the danger of injury to the cervical vertebrae in the event of an accident. This device may or may not form an integral part of the seatback.'Type of seat' means seats which do not differ in their dimensions, in their framework or in their padding, although they may differ in finish or colour.'Type of head restraint' means head restraints which do not differ in their dimensions, in their framework or in their padding, although they may differ in finish, colour or covering.(see Annex II).(see Annex II).'Reference line r' means a straight line which, either on a test manikin having the mass and dimensions of an average adult male or on a test manikin having identical characteristics, passes through the joint of the leg with the pelvis and the joint of the neck with the thorax. On the manikin referred to in Section 3 of Annex III to Council Directive 77/649/EEC of 27 September 1977 on the approximation of the laws of the Member States relating to the field of vision of motor vehicle drivers (
+11
+), to which reference is made in Annex II to this Directive, the reference line is that shown in Figure 1 in the Appendix to Annex III to Directive 77/649/EEC.'Head line' means a straight line passing through the centre of gravity of the head and through the joint of the neck with the thorax. When the head is at rest the head line is situated in the extension of the reference line. 3.1. The application for EEC component type-approval must be submitted by the holder of the trade name or mark of the seat or head restraint or by his authorized representative. 3.2. It must be accompanied by the following documents in triplicate: 3.2.1. a detailed description of the head restraint, specifying in particular the nature of the padding material or materials and, where applicable, the position and specifications of the supports and anchorages for the type or types of seats for which component type-approval of the head restraint is sought; 3.2.2. a detailed description of the type or types of seats for which component type-approval of the head restraint is sought; 3.2.3. details of the type or types of vehicle on which the seats referred to in 3.2.2 are intended to be fitted; 3.2.4. dimensional drawings of the characteristic parts of the seat and head restraint. 3.3. The following must be submitted to the technical service responsible for conducting the component type-approval tests: 3.3.1. if the head restraint is an integral part of the seat: four complete seats; 3.3.2. if the head restraint is intended to be firmly anchored to the seat: 3.3.2.1. two seats of each type to which the head restraint is to be fitted; 3.3.2.2. 4 + 2N head restraints, N being the number of types of seat to which the head restraint is to be fitted. 3.4. The technical service responsible for conducting the component type-approval tests may request: 3.4.1. the submission of specific parts or specific samples of the materials used; and/or
+3.4.2. the submission of vehicles of the type or types referred to in 3.2.3. 
+4.1. The devices submitted for component type-approval must: 4.1.1. be clearly and indelibly marked with the trade name or mark of the applicant; 4.1.2. provide adequate space on the lateral face for the component type-approval mark: this space must be shown in the drawings referred to in 3.2.4. 
+4.2. Where the head restraint forms an integral part of the seat, the markings referred to in 4.1.1 and 4.1.2 must be placed on the part of the seat which is used as a head restraint. (5.)
+ 6. GENERAL SPECIFICATIONS
+6.1. The presence of the head restraint in a vehicle must not be an additional cause of danger to occupants of the vehicle. In particular it must not in any position of use exhibit any dangerous roughness or sharp edge liable to increase the risk or seriousness of injury to the occupants. Parts of the head restraint which are situated in the impact zone defined below must be capable of dissipating energy in the manner specified in Annex V to this Directive: 6.1.1. the impact zone must be bounded laterally by two vertical longitudinal planes, one on each side of and each 70 mm distant from the plane of symmetry of the seat concerned; 6.1.2. the impact zone must be limited in height to the part of the head restraint situated above the plane perpendicular to the reference line r and 635 mm distant from the R point. 6.2. Parts of the front and rear faces of the head restraint which are situated outward of the said vertical longitudinal planes must be so padded as to prevent any direct contact of the head with the structural components, which should in those areas have a radius of curvature of not less than 5 mm. 6.3. The head restraint must be anchored to the seat in such a way that no rigid and dangerous part projects from the padding of the head restraint, from the anchorage or from the seatback as a result of the pressure exerted by the head during the test. 6.4. The height of the head restraint, measured as described in 7.2, must not be less than 700 mm above the seating reference point R.
+6.5. The height of the device on which the head rests, measured as described in 7.2, must, in the case of a head restraint adjustable for height, not be less than 100 mm. 6.6. There must be no gap of more than 50 mm between the seatback and the head restraint in the case of a device not adjustable for height. If the head restraint is adjustable for height, it must, when in the low position, be no more than 25 mm from the top of the seatback. 6.7. The width of the head restraint must be such as to provide suitable support for the head of a person normally seated. In the plane of measurement of width defined in 7.3, the head restraint shall cover an area extending not less than 85 mm to each side of the plane of symmetry of the seat for which the head restraint is intended, that distance being measured in accordance with 7.3. 6.8. The head restraint and its anchorage must be such that the maximum backward displacement of the head permitted by the head restraint and measured in conformity with the static procedure laid down in 7.4 is less than 102 mm. 6.9. The head restraint and its anchorage must be strong enough to bear without failure the load specified in 7.4.3.7. 7. TESTS7.1. Verification of the R point of the seat in which the head restraint is to be incorporated
+This point is verified in accordance with the requirements of Annex II. 7.2. Determination of the height of the head restraint
+7.2.1. All lines must be drawn in the plane of symmetry of the seat concerned, the intersection of which plane with the seat determines the contour of the head restraint and of the seatback (see Annex III, Figure 1). 7.2.2. The manikin corresponding to an average adult male or the manikin referred to in Section 3 of Annex III to Directive 77/649/EEC must be placed in a normal position on the seat. The seatback, if inclinable, is locked in a position corresponding to a rearward inclination of the reference line of the manikin's torso of as nearly as possible 25° from the vertical. 7.2.3.
+Article 5
+1. If the Member State which has granted EEC component type-approval finds that a number of head restraints bearing the same component type-approval mark do not conform to the type which it has approved, it shall take the necessary measures to ensure that production models conform to the approved type.
+
+The competent authorities of that State shall advise those of the other Member States of the measures taken, which may extend to withdrawal of EEC component type-approval. The said authorities shall take the same measures if they are informed by the competent authorities of another Member State of such failure to conform.2. The competent authorities of the Member States shall within one month inform each other of any withdrawal of EEC component type-approval, and of the reasons for such a measure.
+Article 6
+Any decision taken pursuant to the provisions adopted in implementation of this Directive, to refuse or withdraw component type-approval for a head restraint or prohibit its placing on the market or use shall set out in detail the reasons on which it is based.
+
+Such decision shall be notified to the party concerned, who shall at the same time be informed of the remedies available to him under the laws in force in the Member States and of the time limits allowed for the exercise of such remedies.
+Article 10
+Any amendments necessary to adapt the requirements of the Annexes to technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 70/156/EEC.
+2.2. EEC COMPONENT TYPE-APPROVAL MARK OF A HEAD RESTRAINT WHICH IS NOT AN INTEGRAL PART OF A SEAT
+ANNEX VI
+2.2. EEC component type-approval mark of a head restraint which is not an integral part of a seat
+EEC COMPONENT TYPE-APPROVAL MARK
+1.1. The EEC component type-approval mark consists of:
+
+1.1.1. a rectangle surrounding the lower-case letter 'e' followed by the distinguishing number or letters of the Member State which has granted the EEC component type-approval: ▼A2
+1
+for Germany
+2
+for France
+3
+for Italy
+4
+for the Netherlands
+6
+for Belgium
+9
+for Spain
+11
+for the United Kingdom
+13
+for Luxembourg
+DK
+for Denmark
+▼M1
+EL
+for Greece
+▼A2
+IRL
+for Ireland
+P
+for Portugal; ▼
+12
+for Austria
+17
+for Finland
+5
+for Sweden; ▼A4
+8
+for the Czech Republic
+29
+for Estonia
+CY
+for Cyprus
+32
+for Latvia
+36
+for Lithuania
+7
+for Hungary
+MT
+for Malta
+20
+for Poland
+26
+for Slovenia
+27
+for Slovakia; ▼M2
+34
+for Bulgaria
+19
+for Romania; ▼B
+1.1.2. it must also include the EEC component type-approval number which corresponds to the number of the EEC component type-approval certificate issued for the type of head restraint in question; this number is placed in any convenient position near the rectangle; 1.1.3. where the head restraint is an integral part of the seatback, the EEC component type-approval number is preceded by the letter 'I' and a dash: 1.2. The EEC component type-approval mark must be clearly legible and indelible. The above component type-approval mark affixed to a head restraint or restraints forming an integral part of the seat or seats of a vehicle shows that the type of seat in question has been approved with regard to head restraints in the Netherlands (e4) under the number 2439. The above component type-approval mark affixed to a head restraint shows that the head restraint in question has been granted EEC component type-approval, that it is a head restraint which is not an integral part of a seat and is approved in the Netherlands under the number 2439.
+Article 12
+This Directive is addressed to the Member States.
+
+LIST OF ANNEXES
+ANNEX I:
+Scope, definitions, application for EEC component type-approval, general specifications, tests and conformity of production (1) ANNEX II: Procedure for determining the 'H' point and the actual seat back angle and for verifying the relative positions of the R and H points and the relationship between the design seat back angle and the actual seat back angle
+ANNEX III: Determination of height and width of head restraints (1) ANNEX IV: Details of the lines drawn and measurements taken during test (1) ANNEX V:
+Test procedure for checking energy dissipation (1) ANNEX VI: EEC component type-approval mark
+ANNEX VII: EEC component type-approval certificate
+(1) The technical requirements of this Annex are similar to those of Regulation No 25 of the Economic Commission for Europe (E/ECE/324-E/ECE/TRANS/505 rev. 1/add. 24); the breakdown into sections is thus the same. Where a section of Regulation No 25 has no counterpart in the Annexes to this Directive, its number is give in brackets for the record. ANNEX ISCOPE, DEFINITIONS, APPLICATION FOR EEC COMPONENT TYPE-APPROVAL, GENERAL SPECIFICATIONS, TESTS AND CONFORMITY OF PRODUCTION1. SCOPE
+1.1. This Directive applies to head restraints (head rests): — forming an integral part of the seatback, or
+— designed to be installed on the seat,
+of motor vehicles conforming to the definition given in Article 9 and intended for separate use, i.e. as individual equipment by adult occupants of forward-facing seats. 2. DEFINITIONS
+2.1. Vehicle type with regard to head restraints
+'Vehicle type with regard to head restraints' means vehicles which do not differ in such essential respects as: 2.1.1. the lines and internal dimensions of the bodywork constituting the passenger compartment; and
+2.1.2. the types and dimensions of the seats. 2.2. Head restraint
+'Head restraint' means a device whose purpose is to limit the rearward displacement of the occupant's head in relation to his torso in order to reduce the danger of injury to the cervical vertebrae in the event of an accident. This device may or may not form an integral part of the seatback.2.3. Type of seat
+'Type of seat' means seats which do not differ in their dimensions, in their framework or in their padding, although they may differ in finish or colour.2.4. Type of head restraint
+'Type of head restraint' means head restraints which do not differ in their dimensions, in their framework or in their padding, although they may differ in finish, colour or covering.2.5. H point
+(see Annex II).2.6. R point or seating reference point
+(see Annex II).2.7. Reference line r
+'Reference line r' means a straight line which, either on a test manikin having the mass and dimensions of an average adult male or on a test manikin having identical characteristics, passes through the joint of the leg with the pelvis and the joint of the neck with the thorax. On the manikin referred to in Section 3 of Annex III to Council Directive 77/649/EEC of 27 September 1977 on the approximation of the laws of the Member States relating to the field of vision of motor vehicle drivers (
+11
+), to which reference is made in Annex II to this Directive, the reference line is that shown in Figure 1 in the Appendix to Annex III to Directive 77/649/EEC.2.8. Head line
+'Head line' means a straight line passing through the centre of gravity of the head and through the joint of the neck with the thorax. When the head is at rest the head line is situated in the extension of the reference line.3. APPLICATION FOR EEC COMPONENT TYPE-APPROVAL
+3.1. The application for EEC component type-approval must be submitted by the holder of the trade name or mark of the seat or head restraint or by his authorized representative. 3.2. It must be accompanied by the following documents in triplicate: 3.2.1. a detailed description of the head restraint, specifying in particular the nature of the padding material or materials and, where applicable, the position and specifications of the supports and anchorages for the type or types of seats for which component type-approval of the head restraint is sought; 3.2.2. a detailed description of the type or types of seats for which component type-approval of the head restraint is sought; 3.2.3. details of the type or types of vehicle on which the seats referred to in 3.2.2 are intended to be fitted; 3.2.4. dimensional drawings of the characteristic parts of the seat and head restraint. 3.3. The following must be submitted to the technical service responsible for conducting the component type-approval tests: 3.3.1. if the head restraint is an integral part of the seat: four complete seats; 3.3.2. if the head restraint is intended to be firmly anchored to the seat: 3.3.2.1. two seats of each type to which the head restraint is to be fitted; 3.3.2.2. 4 + 2N head restraints, N being the number of types of seat to which the head restraint is to be fitted. 3.4. The technical service responsible for conducting the component type-approval tests may request: 3.4.1. the submission of specific parts or specific samples of the materials used; and/or
+3.4.2. the submission of vehicles of the type or types referred to in 3.2.3. 4. MARKINGS
+4.1. The devices submitted for component type-approval must: 4.1.1. be clearly and indelibly marked with the trade name or mark of the applicant; 4.1.2. provide adequate space on the lateral face for the component type-approval mark: this space must be shown in the drawings referred to in 3.2.4. 
+4.2. Where the head restraint forms an integral part of the seat, the markings referred to in 4.1.1 and 4.1.2 must be placed on the part of the seat which is used as a head restraint. (5.)
+ 6. GENERAL SPECIFICATIONS
+6.1. The presence of the head restraint in a vehicle must not be an additional cause of danger to occupants of the vehicle. In particular it must not in any position of use exhibit any dangerous roughness or sharp edge liable to increase the risk or seriousness of injury to the occupants. Parts of the head restraint which are situated in the impact zone defined below must be capable of dissipating energy in the manner specified in Annex V to this Directive: 6.1.1. the impact zone must be bounded laterally by two vertical longitudinal planes, one on each side of and each 70 mm distant from the plane of symmetry of the seat concerned; 6.1.2. the impact zone must be limited in height to the part of the head restraint situated above the plane perpendicular to the reference line r and 635 mm distant from the R point. 6.2. Parts of the front and rear faces of the head restraint which are situated outward of the said vertical longitudinal planes must be so padded as to prevent any direct contact of the head with the structural components, which should in those areas have a radius of curvature of not less than 5 mm. 6.3. The head restraint must be anchored to the seat in such a way that no rigid and dangerous part projects from the padding of the head restraint, from the anchorage or from the seatback as a result of the pressure exerted by the head during the test. 6.4. The height of the head restraint, measured as described in 7.2, must not be less than 700 mm above the seating reference point R.
+6.5. The height of the device on which the head rests, measured as described in 7.2, must, in the case of a head restraint adjustable for height, not be less than 100 mm. 6.6. There must be no gap of more than 50 mm between the seatback and the head restraint in the case of a device not adjustable for height. If the head restraint is adjustable for height, it must, when in the low position, be no more than 25 mm from the top of the seatback. 6.7. The width of the head restraint must be such as to provide suitable support for the head of a person normally seated.
+Article 3
+1. No Member State may prohibit the placing on the market of head restraints on grounds relating to their construction or method of functioning if they bear the EEC component type-approval mark.2.
+
+Nevertheless, a Member State may prohibit the placing on the market of head restraints bearing the EEC component type-approval mark which consistently fail to conform to the approved type.That State shall forthwith inform the other Member States and the Commission of the measures taken, specifying the reasons for its decision.
+Article 7
+No Member State may refuse to grant EEC type-approval or national type-approval of a vehicle on grounds relating to its head restraints, if these bear the EEC component type-approval mark and are intended for installation in the type of vehicle submitted for type-approval.
+Article 11
+1. Member States shall bring into force the provisions necessary in order to comply with this Directive within 18 months of its notification and shall forthwith inform the Commission thereof.2.
+
+Member States shall ensure that the texts of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission.
+Introduction
+COUNCIL DIRECTIVEof 16 October 1978on the approximation of the laws of the Member States relating to head restraints of seats of motor vehicles
+(78/932/EEC)
+(OJ L 325, 20.11.1978, p.1)Amended by:
+
+Official Journal
+ No
+page
+date
+►M1
+COUNCIL DIRECTIVE 87/354/EEC of 25 June 1987
+ L 192
+43
+11.7.1987
+►M2
+COUNCIL DIRECTIVE 2006/96/EC of 20 November 2006
+ L 363
+81
+20.12.2006
+►M3
+COUNCIL DIRECTIVE 2013/15/EU of 13 May 2013
+ L 158
+172
+10.6.2013
+Amended by: A1
+ L 291
+17
+19.11.1979
+►A2
+ L 302
+23
+15.11.1985
+ A3
+ C 241
+21
+29.8.1994
+ L 001
+1
+.. ►A4
+ L 236
+33
+23.9.2003
+Corrected by: C1
+Corrigendum, OJ L 329, 25.11.1982, p. 31 (1978/932)
+▼B
+COUNCIL DIRECTIVEof 16 October 1978on the approximation of the laws of the Member States relating to head restraints of seats of motor vehicles(78/932/EEC)
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,
+Having regard to the proposal from the Commission (
+1
+),
+Having regard to the opinion of the European Parliament (
+2
+),
+Having regard to the opinion of the Economic and Social Committee (
+3
+),
+Whereas the technical requirements which motor vehicles must satisfy pursuant to national laws relate inter alia to head restraints; Whereas those requirements differ from one Member State to another; whereas it is therefore necessary that all Member States adopt the same requirements, either in addition to or in place of their existing rules in order, in particular, to allow the EEC type-approval procedure, which was the subject of Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (
+4
+), as last amended by Directive 78/547/EEC (
+5
+), to be introduced in respect of each type of vehicle; Whereas the common requirements for the interior parts of the passenger compartment, the layout of the controls, the roof and backrest and rear part of the seats were laid down in Directive 74/60/EEC (
+6
+); whereas those for the internal fittings relating to the protection of the driver from the steering mechanism in the event of an impact were laid down in Directive 74/297/EEC (
+7
+); whereas those relating to the strength of the seats and their anchorages were laid down in Directive 74/408/EEC (
+8
+); whereas those relating to anchorages for safety belts were laid down in Directive 76/115/EEC (
+9
+); whereas those relating to safety belts and restraint systems were laid down in Directive 77/541/EEC (
+10
+);
+Whereas a harmonized component type-approval procedure for head restraints makes it possible for each Member State to check compliance with the common construction and testing requirements and to inform the other Member States of its findings by sending a copy of the component type-approval certificate completed for each type of head restraint; whereas the placing of an EEC component type-approval mark on all head restraints manufactured in conformity with the approved type obviates any need for technical checks on these head restraints in the other Member States; Whereas the approximation of national laws relating to motor vehicles entails mutual recognition by the Member States of checks carried out by each of them on the basis of the common requirements,
+HAS ADOPTED THIS DIRECTIVE:
+ANNEX IV
+ANNEX IV
+DETAILS OF LINES DRAWN AND MEASUREMENTS TAKEN DURING TEST
+Article 1
+1. Each Member State shall grant EEC component type-approval for any type of head restraint whether integrated or not in the seats of motor vehicles, which satisfies the construction and testing requirements laid down in Annexes I to V.2. The Member State which has granted EEC component type-approval for the head restraints shall take the measures required in order to verify that production models conform to the approved type, in so far as this is necessary and if need be in cooperation with the competent authorities in the other Member States.
+
+Such verification shall be limited to spot checks.
+Article 7
+No Member State may refuse to grant EEC type-approval or national type-approval of a vehicle on grounds relating to its head restraints, if these bear the EEC component type-approval mark and are intended for installation in the type of vehicle submitted for type-approval.
+Article 11
+1. Member States shall bring into force the provisions necessary in order to comply with this Directive within 18 months of its notification and shall forthwith inform the Commission thereof.2.
+
+Member States shall ensure that the texts of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission.
+Council Directive 78/932/EEC of 16 October 1978 on the approximation of the laws of the Member States relating to head restraints of seats of motor vehicles
+Council Directiveof 16 October 1978on the approximation of the laws of the Member States relating to head restraints of seats of motor vehicles(78/932/EEC)THE COUNCIL OF THE EUROPEAN COMMUNITIES,Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,Having regard to the proposal from the Commission [1],Having regard to the opinion of the European Parliament [2],Having regard to the opinion of the Economic and Social Committee [3],Whereas the technical requirements which motor vehicles must satisfy pursuant to national laws relate inter alia to head restraints;Whereas those requirements differ from one Member State to another; whereas it is therefore necessary that all Member States adopt the same requirements, either in addition to or in place of their existing rules in order, in particular, to allow the EEC type-approval procedure, which was the subject of Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers [4], as last amended by Directive 78/547/EEC [5], to be introduced in respect of each type of vehicle;Whereas the common requirements for the interior parts of the passenger compartment, the layout of the controls, the roof and backrest and rear part of the seats were laid down in Directive 74/60/EEC [6]; whereas those for the internal fittings relating to the protection of the driver from the steering mechanism in the event of an impact were laid down in Directive 74/297/EEC [7]; whereas those relating to the strength of the seats and their anchorages were laid down in Directive 74/408/EEC [8]; whereas those relating to anchorages for safety belts were laid down in Directive 76/115/EEC [9]; whereas those relating to safety belts and restraint systems were laid down in Directive 77/541/EEC [10];Whereas a harmonized component type-approval procedure for head restraints makes it possible for each Member State to check compliance with the common construction and testing requirements and to inform the other Member States of its findings by sending a copy of the component type-approval certificate completed for each type of head restraint; whereas the placing of an EEC component type-approval mark on all head restraints manufactured in conformity with the approved type obviates any need for technical checks on these head restraints in the other Member States;Whereas the approximation of national laws relating to motor vehicles entails mutual recognition by the Member States of checks carried out by each of them on the basis of the common requirements,HAS ADOPTED THIS DIRECTIVE:Article 11.
+
+Each Member State shall grant EEC component type-approval for any type of head restraint whether integrated or not in the seats of motor vehicles, which satisfies the construction and testing requirements laid down in Annexes I to V.2. The Member State which has granted EEC component type-approval for the head restraints shall take the measures required in order to verify that production models conform to the approved type, in so far as this is necessary and if need be in cooperation with the competent authorities in the other Member States. Such verification shall be limited to spot checks.Article 2Member States shall, for each type of head restraint which they approve pursuant to Article 1, issue, to the manufacturer, or to his authorized representative, an EEC component type-approval mark conforming to the model shown in Annex VI.Member States shall take all appropriate measures to prevent the use of marks liable to create confusion between head restraints which have been type-approved pursuant to Article 1 and other devices.Article 31. No Member State may prohibit the placing on the market of head restraints on grounds relating to their construction or method of functioning if they bear the EEC component type-approval mark.2. Nevertheless, a Member State may prohibit the placing on the market of head restraints bearing the EEC component type-approval mark which consistently fail to conform to the approved type.That State shall forthwith inform the other Member States and the Commission of the measures taken, specifying the reasons for its decision.Article 4The competent authorities of each Member State shall within one month send to the competent authorities of the other Member States a copy of the component type-approval certificates and extension certificates completed for each type of head restraint which they approve or refuse to approve.Article 51. If the Member State which has granted EEC component type-approval finds that a number of head restraints bearing the same component type-approval mark do not conform to the type which it has approved, it shall take the necessary measures to ensure that production models conform to the approved type. The competent authorities of that State shall advise those of the other Member States of the measures taken, which may extend to withdrawal of EEC component type-approval. The said authorities shall take the same measures if they are informed by the competent authorities of another Member State of such failure to conform.2. The competent authorities of the Member States shall within one month inform each other of any withdrawal of EEC component type-approval, and of the reasons for such a measure.Article 6Any decision taken pursuant to the provisions adopted in implementation of this Directive, to refuse or withdraw component type-approval for a head restraint or prohibit its placing on the market or use shall set out in detail the reasons on which it is based. Such decision shall be notified to the party concerned, who shall at the same time be informed of the remedies available to him under the laws in force in the Member States and of the time limits allowed for the exercise of such remedies.Article 7No Member State may refuse to grant EEC type-approval or national type-approval of a vehicle on grounds relating to its head restraints, if these bear the EEC component type-approval mark and are intended for installation in the type of vehicle submitted for type-approval.Article 8No Member State may refuse or prohibit the sale, registration, entry into service or use of any vehicle on grounds relating to its head restraints, if these bear the EEC component type-approval mark and are intended for installation in the type of vehicle submitted for type-approval.Article 9For the purposes of this Directive, "vehicle" means any Category M1 motor vehicle (as defined in Annex I to Directive 70/156/EEC) intended for use on the road, having at least four wheels and a maximum design speed exceeding 25 km/h.Article 10Any amendments necessary to adapt the requirements of the Annexes to technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 70/156/EEC.Article 111. Member States shall bring into force the provisions necessary in order to comply with this Directive within 18 months of its notification and shall forthwith inform the Commission thereof.2. Member States shall ensure that the texts of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission.Article 12This Directive is addressed to the Member States.Done at Luxembourg, 16 October 1978.For the CouncilThe PresidentK.
+ANNEX II
+ANNEX II
+PROCEDURE FOR DETERMINING THE 'H' POINT AND THE ACTUAL SEATBACK ANGLE AND FOR VERIFYING THE RELATIVE POSITIONS OF THE R AND H POINTS AND THE RELATIONSHIP BETWEEN THE DESIGN SEATBACK ANGLE AND THE ACTUAL SEATBACK ANGLEAnnex III to Directive 77/649/EEC shall be applicable.
+ANNEX VII
+ANNEX VII
+MODEL EEC COMPONENT TYPE-APPROVAL CERTIFICATE(Maximum format: A4 (210 × 297 mm))
+(
+1
+) OJ No C 82, 14. 4. 1975, p. 74.(
+2
+) OJ No C 76, 7. 4. 1975, p. 37.(
+3
+) OJ No C 263, 17. 11. 1975, p. 57.(
+4
+) OJ No L 42, 23. 2. 1970, p. 1.(
+5
+) OJ No L 168, 26. 6. 1978, p. 39.(
+6
+) OJ No L 38, 11. 2. 1974, p. 4.(
+7
+) OJ No L 165, 20. 6. 1974, p. 16.(
+8
+) OJ No L 221, 12. 8. 1974, p. 1.(
+9
+) OJ No L 24, 30. 1. 1976, p. 6.(
+10
+) OJ No L 220, 29. 8. 1977, p. 95.(
+11
+) OJ No L 267, 19. 10. 1977, p. 1.(
+12
+) The relationship of the reduced mass 'mr' of the pendulum to the total mass 'm' of the pendulum at a distance 'a' between the centre of percussion and the axis of rotation and at a distance 'l' between the centre of gravity and the axis of rotation is given by the formula:
+Article 4
+The competent authorities of each Member State shall within one month send to the competent authorities of the other Member States a copy of the component type-approval certificates and extension certificates completed for each type of head restraint which they approve or refuse to approve.
+Article 8
+No Member State may refuse or prohibit the sale, registration, entry into service or use of any vehicle on grounds relating to its head restraints, if these bear the EEC component type-approval mark and are intended for installation in the type of vehicle submitted for type-approval.
+Article 12
+This Directive is addressed to the Member States.
+
+LIST OF ANNEXES
+ANNEX I:
+Scope, definitions, application for EEC component type-approval, general specifications, tests and conformity of production (1) ANNEX II: Procedure for determining the 'H' point and the actual seat back angle and for verifying the relative positions of the R and H points and the relationship between the design seat back angle and the actual seat back angle
+ANNEX III: Determination of height and width of head restraints (1) ANNEX IV: Details of the lines drawn and measurements taken during test (1) ANNEX V:
+Test procedure for checking energy dissipation (1) ANNEX VI: EEC component type-approval mark
+ANNEX VII: EEC component type-approval certificate
+(1) The technical requirements of this Annex are similar to those of Regulation No 25 of the Economic Commission for Europe (E/ECE/324-E/ECE/TRANS/505 rev. 1/add. 24); the breakdown into sections is thus the same. Where a section of Regulation No 25 has no counterpart in the Annexes to this Directive, its number is give in brackets for the record. ANNEX ISCOPE, DEFINITIONS, APPLICATION FOR EEC COMPONENT TYPE-APPROVAL, GENERAL SPECIFICATIONS, TESTS AND CONFORMITY OF PRODUCTION1. SCOPE
+1.1. This Directive applies to head restraints (head rests): — forming an integral part of the seatback, or
+— designed to be installed on the seat,
+of motor vehicles conforming to the definition given in Article 9 and intended for separate use, i.e. as individual equipment by adult occupants of forward-facing seats. 2. DEFINITIONS
+2.1. Vehicle type with regard to head restraints
+'Vehicle type with regard to head restraints' means vehicles which do not differ in such essential respects as: 2.1.1. the lines and internal dimensions of the bodywork constituting the passenger compartment; and
+2.1.2. the types and dimensions of the seats. 2.2. Head restraint
+'Head restraint' means a device whose purpose is to limit the rearward displacement of the occupant's head in relation to his torso in order to reduce the danger of injury to the cervical vertebrae in the event of an accident. This device may or may not form an integral part of the seatback.2.3. Type of seat
+'Type of seat' means seats which do not differ in their dimensions, in their framework or in their padding, although they may differ in finish or colour.2.4. Type of head restraint
+'Type of head restraint' means head restraints which do not differ in their dimensions, in their framework or in their padding, although they may differ in finish, colour or covering.2.5. H point
+(see Annex II).2.6. R point or seating reference point
+(see Annex II).2.7. Reference line r
+'Reference line r' means a straight line which, either on a test manikin having the mass and dimensions of an average adult male or on a test manikin having identical characteristics, passes through the joint of the leg with the pelvis and the joint of the neck with the thorax. On the manikin referred to in Section 3 of Annex III to Council Directive 77/649/EEC of 27 September 1977 on the approximation of the laws of the Member States relating to the field of vision of motor vehicle drivers (
+11
+), to which reference is made in Annex II to this Directive, the reference line is that shown in Figure 1 in the Appendix to Annex III to Directive 77/649/EEC.2.8. Head line
+'Head line' means a straight line passing through the centre of gravity of the head and through the joint of the neck with the thorax. When the head is at rest the head line is situated in the extension of the reference line.3. APPLICATION FOR EEC COMPONENT TYPE-APPROVAL
+3.1. The application for EEC component type-approval must be submitted by the holder of the trade name or mark of the seat or head restraint or by his authorized representative. 3.2. It must be accompanied by the following documents in triplicate: 3.2.1. a detailed description of the head restraint, specifying in particular the nature of the padding material or materials and, where applicable, the position and specifications of the supports and anchorages for the type or types of seats for which component type-approval of the head restraint is sought; 3.2.2. a detailed description of the type or types of seats for which component type-approval of the head restraint is sought; 3.2.3. details of the type or types of vehicle on which the seats referred to in 3.2.2 are intended to be fitted; 3.2.4. dimensional drawings of the characteristic parts of the seat and head restraint. 3.3. The following must be submitted to the technical service responsible for conducting the component type-approval tests: 3.3.1. if the head restraint is an integral part of the seat: four complete seats; 3.3.2. if the head restraint is intended to be firmly anchored to the seat: 3.3.2.1. two seats of each type to which the head restraint is to be fitted; 3.3.2.2. 4 + 2N head restraints, N being the number of types of seat to which the head restraint is to be fitted. 3.4. The technical service responsible for conducting the component type-approval tests may request: 3.4.1. the submission of specific parts or specific samples of the materials used; and/or
+3.4.2. the submission of vehicles of the type or types referred to in 3.2.3. 4. MARKINGS
+4.1. The devices submitted for component type-approval must: 4.1.1. be clearly and indelibly marked with the trade name or mark of the applicant; 4.1.2. provide adequate space on the lateral face for the component type-approval mark: this space must be shown in the drawings referred to in 3.2.4. 
+4.2. Where the head restraint forms an integral part of the seat, the markings referred to in 4.1.1 and 4.1.2 must be placed on the part of the seat which is used as a head restraint. (5.)
+ 6. GENERAL SPECIFICATIONS
+6.1. The presence of the head restraint in a vehicle must not be an additional cause of danger to occupants of the vehicle. In particular it must not in any position of use exhibit any dangerous roughness or sharp edge liable to increase the risk or seriousness of injury to the occupants. Parts of the head restraint which are situated in the impact zone defined below must be capable of dissipating energy in the manner specified in Annex V to this Directive: 6.1.1. the impact zone must be bounded laterally by two vertical longitudinal planes, one on each side of and each 70 mm distant from the plane of symmetry of the seat concerned; 6.1.2. the impact zone must be limited in height to the part of the head restraint situated above the plane perpendicular to the reference line r and 635 mm distant from the R point. 6.2. Parts of the front and rear faces of the head restraint which are situated outward of the said vertical longitudinal planes must be so padded as to prevent any direct contact of the head with the structural components, which should in those areas have a radius of curvature of not less than 5 mm. 6.3. The head restraint must be anchored to the seat in such a way that no rigid and dangerous part projects from the padding of the head restraint, from the anchorage or from the seatback as a result of the pressure exerted by the head during the test. 6.4. The height of the head restraint, measured as described in 7.2, must not be less than 700 mm above the seating reference point R.
+6.5. The height of the device on which the head rests, measured as described in 7.2, must, in the case of a head restraint adjustable for height, not be less than 100 mm. 6.6. There must be no gap of more than 50 mm between the seatback and the head restraint in the case of a device not adjustable for height. If the head restraint is adjustable for height, it must, when in the low position, be no more than 25 mm from the top of the seatback. 6.7. The width of the head restraint must be such as to provide suitable support for the head of a person normally seated.
+Introduction
+COUNCIL DIRECTIVEof 16 October 1978on the approximation of the laws of the Member States relating to head restraints of seats of motor vehicles
+(78/932/EEC)
+(OJ L 325, 20.11.1978, p.1)Amended by:
+
+Official Journal
+ No
+page
+date
+►M1
+COUNCIL DIRECTIVE 87/354/EEC of 25 June 1987
+ L 192
+43
+11.7.1987
+►M2
+COUNCIL DIRECTIVE 2006/96/EC of 20 November 2006
+ L 363
+81
+20.12.2006
+Amended by: A1
+Act of Accession of Greece
+ L 291
+17
+19.11.1979
+►A2
+Act of Accession of Spain and Portugal
+ L 302
+23
+15.11.1985
+ A3
+Act of Accession of Austria, Sweden and Finland
+ C 241
+21
+29.8.1994
+(adapted by Council Decision 95/1/EC, Euratom, ECSC)
+ L 001
+1
+.. ►A4
+Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded
+ L 236
+33
+23.9.2003
+Corrected by: C1
+Corrigendum, OJ L 329, 25.11.1982, p. 31 (78/932)
+▼B
+COUNCIL DIRECTIVEof 16 October 1978on the approximation of the laws of the Member States relating to head restraints of seats of motor vehicles(78/932/EEC)
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,
+Having regard to the proposal from the Commission (
+1
+),
+Having regard to the opinion of the European Parliament (
+2
+),
+Having regard to the opinion of the Economic and Social Committee (
+3
+),
+Whereas the technical requirements which motor vehicles must satisfy pursuant to national laws relate inter alia to head restraints; Whereas those requirements differ from one Member State to another; whereas it is therefore necessary that all Member States adopt the same requirements, either in addition to or in place of their existing rules in order, in particular, to allow the EEC type-approval procedure, which was the subject of Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (
+4
+), as last amended by Directive 78/547/EEC (
+5
+), to be introduced in respect of each type of vehicle; Whereas the common requirements for the interior parts of the passenger compartment, the layout of the controls, the roof and backrest and rear part of the seats were laid down in Directive 74/60/EEC (
+6
+); whereas those for the internal fittings relating to the protection of the driver from the steering mechanism in the event of an impact were laid down in Directive 74/297/EEC (
+7
+); whereas those relating to the strength of the seats and their anchorages were laid down in Directive 74/408/EEC (
+8
+); whereas those relating to anchorages for safety belts were laid down in Directive 76/115/EEC (
+9
+); whereas those relating to safety belts and restraint systems were laid down in Directive 77/541/EEC (
+10
+);
+Whereas a harmonized component type-approval procedure for head restraints makes it possible for each Member State to check compliance with the common construction and testing requirements and to inform the other Member States of its findings by sending a copy of the component type-approval certificate completed for each type of head restraint; whereas the placing of an EEC component type-approval mark on all head restraints manufactured in conformity with the approved type obviates any need for technical checks on these head restraints in the other Member States; Whereas the approximation of national laws relating to motor vehicles entails mutual recognition by the Member States of checks carried out by each of them on the basis of the common requirements,
+HAS ADOPTED THIS DIRECTIVE:
+ANNEX IV
+ANNEX IV
+DETAILS OF LINES DRAWN AND MEASUREMENTS TAKEN DURING TEST
+Article 1
+1. Each Member State shall grant EEC component type-approval for any type of head restraint whether integrated or not in the seats of motor vehicles, which satisfies the construction and testing requirements laid down in Annexes I to V.2. The Member State which has granted EEC component type-approval for the head restraints shall take the measures required in order to verify that production models conform to the approved type, in so far as this is necessary and if need be in cooperation with the competent authorities in the other Member States.
+
+Such verification shall be limited to spot checks.
+Article 2
+Member States shall, for each type of head restraint which they approve pursuant to Article 1, issue, to the manufacturer, or to his authorized representative, an EEC component type-approval mark conforming to the model shown in Annex VI.Member States shall take all appropriate measures to prevent the use of marks liable to create confusion between head restraints which have been type-approved pursuant to Article 1 and other devices.
+Article 9
+For the purposes of this Directive, 'vehicle' means any Category M1 motor vehicle (as defined in Annex I to Directive 70/156/EEC) intended for use on the road, having at least four wheels and a maximum design speed exceeding 25 km/h.
+Article 5
+1. If the Member State which has granted EEC component type-approval finds that a number of head restraints bearing the same component type-approval mark do not conform to the type which it has approved, it shall take the necessary measures to ensure that production models conform to the approved type.
+
+The competent authorities of that State shall advise those of the other Member States of the measures taken, which may extend to withdrawal of EEC component type-approval. The said authorities shall take the same measures if they are informed by the competent authorities of another Member State of such failure to conform.2. The competent authorities of the Member States shall within one month inform each other of any withdrawal of EEC component type-approval, and of the reasons for such a measure.
+Article 10
+Any amendments necessary to adapt the requirements of the Annexes to technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 70/156/EEC.
+Article 6
+Any decision taken pursuant to the provisions adopted in implementation of this Directive, to refuse or withdraw component type-approval for a head restraint or prohibit its placing on the market or use shall set out in detail the reasons on which it is based.
+
+Such decision shall be notified to the party concerned, who shall at the same time be informed of the remedies available to him under the laws in force in the Member States and of the time limits allowed for the exercise of such remedies.
+Article 2
+Member States shall, for each type of head restraint which they approve pursuant to Article 1, issue, to the manufacturer, or to his authorized representative, an EEC component type-approval mark conforming to the model shown in Annex VI.Member States shall take all appropriate measures to prevent the use of marks liable to create confusion between head restraints which have been type-approved pursuant to Article 1 and other devices.
+ANNEX III
+ANNEX III
+DETERMINATION OF HEIGHT AND WIDTH OF HEAD RESTRAINT
+Figure 1
+Figure 2
+3. EQUIVALENT PROCEDURES
+ANNEX V
+3. EQUIVALENT PROCEDURES
+TEST PROCEDURE FOR CHECKING ENERGY DISSIPATIONThe head restraint must be fitted and tested on the seat of the vehicle for which it is intended.
+
+The seat must be firmly secured to the test bench so that it does not move under impact. 1.2.1. This apparatus consists of a pendulum whose pivot is supported by ball-bearings and whose reduced mass (
+12
+) at its centre of percussion is 6·8 kg. The lower extremity of the pendulum consists of a rigid headform 165 mm in diameter whose centre is identical with the centre of percussion of the pendulum. 1.2.2. The headform is fitted with two accelerometers and a speed-measuring device, all capable of measuring values in the direction of impact. The recording instruments used must be such that measurements can be made with the following degrees of accuracy: — accuracy: ± 5 % of the real value,
+— frequency response: up to 1 000 Hz
+— cross-axis sensitivity: < 5 % of the lowest point on the scale. — accuracy: ± 2·5 % of the real value,
+— sensitivity: 0·5 km/h. — the instrumentation must enable the action to be recorded throughout its duration and readings to be made within one thousandth of a second,
+— the beginning of the impact at the moment of first contact between the headform and the head restraint being tested is noted on the recordings used for analyzing the test. 1.4.1. The surface to be tested must be so placed that the pendulum will strike the surface perpendicular to the point concerned. 1.4.2. The headform must strike the test item at a speed of 24·1 km/h this speed is achieved either by the mere energy of propulsion or by using an additional propelling device. In tests carried out by the above procedure, the deceleration of the headform must not exceed 80 g continuously for more than three milliseconds. The deceleration rate is taken as the average of the readings on the two decelerometers. 3.1. Equivalent test procedures are permitted on condition that the results required in Section 2 can be obtained. 3.2. Responsibility for demonstrating the equivalence of a method other than that described in Section 1 rests with the person using such a method.
+ANNEX III
+ANNEX III
+DETERMINATION OF HEIGHT AND WIDTH OF HEAD RESTRAINT
+Figure 1
+Figure 2
+3. EQUIVALENT PROCEDURES
+ANNEX V
+3. EQUIVALENT PROCEDURES
+TEST PROCEDURE FOR CHECKING ENERGY DISSIPATIONThe head restraint must be fitted and tested on the seat of the vehicle for which it is intended.
+
+The seat must be firmly secured to the test bench so that it does not move under impact. 1.2.1. This apparatus consists of a pendulum whose pivot is supported by ball-bearings and whose reduced mass (
+12
+) at its centre of percussion is 6·8 kg. The lower extremity of the pendulum consists of a rigid headform 165 mm in diameter whose centre is identical with the centre of percussion of the pendulum. 1.2.2. The headform is fitted with two accelerometers and a speed-measuring device, all capable of measuring values in the direction of impact. The recording instruments used must be such that measurements can be made with the following degrees of accuracy: — accuracy: ± 5 % of the real value,
+— frequency response: up to 1 000 Hz
+— cross-axis sensitivity: < 5 % of the lowest point on the scale. — accuracy: ± 2·5 % of the real value,
+— sensitivity: 0·5 km/h. — the instrumentation must enable the action to be recorded throughout its duration and readings to be made within one thousandth of a second,
+— the beginning of the impact at the moment of first contact between the headform and the head restraint being tested is noted on the recordings used for analyzing the test. 1.4.1. The surface to be tested must be so placed that the pendulum will strike the surface perpendicular to the point concerned. 1.4.2. The headform must strike the test item at a speed of 24·1 km/h this speed is achieved either by the mere energy of propulsion or by using an additional propelling device. In tests carried out by the above procedure, the deceleration of the headform must not exceed 80 g continuously for more than three milliseconds. The deceleration rate is taken as the average of the readings on the two decelerometers. 3.1. Equivalent test procedures are permitted on condition that the results required in Section 2 can be obtained. 3.2. Responsibility for demonstrating the equivalence of a method other than that described in Section 1 rests with the person using such a method.
+ANNEX VII
+ANNEX VII
+MODEL EEC COMPONENT TYPE-APPROVAL CERTIFICATE(Maximum format: A4 (210 × 297 mm))
+(
+1
+) OJ No C 82, 14. 4. 1975, p. 74.(
+2
+) OJ No C 76, 7. 4. 1975, p. 37.(
+3
+) OJ No C 263, 17. 11. 1975, p. 57.(
+4
+) OJ No L 42, 23. 2. 1970, p. 1.(
+5
+) OJ No L 168, 26. 6. 1978, p. 39.(
+6
+) OJ No L 38, 11. 2. 1974, p. 4.(
+7
+) OJ No L 165, 20. 6. 1974, p. 16.(
+8
+) OJ No L 221, 12. 8. 1974, p. 1.(
+9
+) OJ No L 24, 30. 1. 1976, p. 6.(
+10
+) OJ No L 220, 29. 8. 1977, p. 95.(
+11
+) OJ No L 267, 19. 10. 1977, p. 1.(
+12
+) The relationship of the reduced mass 'mr' of the pendulum to the total mass 'm' of the pendulum at a distance 'a' between the centre of percussion and the axis of rotation and at a distance 'l' between the centre of gravity and the axis of rotation is given by the formula:
+ANNEX II
+ANNEX II
+PROCEDURE FOR DETERMINING THE 'H' POINT AND THE ACTUAL SEATBACK ANGLE AND FOR VERIFYING THE RELATIVE POSITIONS OF THE R AND H POINTS AND THE RELATIONSHIP BETWEEN THE DESIGN SEATBACK ANGLE AND THE ACTUAL SEATBACK ANGLEAnnex III to Directive 77/649/EEC shall be applicable.
+COUNCIL DIRECTIVE
+of 16 October 1978
+on the approximation of the laws of the Member States relating to head restraints of seats of motor vehicles
+Consolidated TEXT: 31978L0932 — EN — 01.11.2014
+Top
+1978L0932 — EN — 01.11.2014 — 008.001
+This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents
+►B
+COUNCIL DIRECTIVE
+of 16 October 1978
+on the approximation of the laws of the Member States relating to head restraints of seats of motor vehicles
+(78/932/EEC)
+(OJ L 325, 20.11.1978, p.1)
+repealed by:
+
+Official Journal
+No
+page
+date
+Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009
+L 200
+1
+31.7.2009
+Article 4
+The competent authorities of each Member State shall within one month send to the competent authorities of the other Member States a copy of the component type-approval certificates and extension certificates completed for each type of head restraint which they approve or refuse to approve.
+Article 9
+For the purposes of this Directive, 'vehicle' means any Category M1 motor vehicle (as defined in Annex I to Directive 70/156/EEC) intended for use on the road, having at least four wheels and a maximum design speed exceeding 25 km/h.
+7.2.3. The projection of the reference line of the manikin referred to in Section 3 of Annex III to Directive 77/649/EEC is then, in the case of the seat concerned, drawn in the plane specified in 7.2.1. The tangent S to the top of the head restraint is drawn perpendicular to the reference line. 7.2.4. The distance h from the R point to the tangent S is the height to be taken into consideration in implementing the requirement of 6.4. 7.3. Determination of the width of the head restraint
+(see Annex III, Figure 2). 7.3.1. The plane S1 perpendicular to the reference line and situated 65 mm below the tangent S defined in 7.2.3 defines a section in the head restraint bounded by the outline C. The direction of the straight lines tangential to C representing the intersection of the plane S1 and the vertical planes (P and P′), parallel to the plane of symmetry of the seat concerned, are drawn in the plane S1. 7.3.2. The width of the head restraint to be taken into consideration in implementing the requirements of 6.7 is the distance L separating the projections of planes P and P′ in plane S1. 7.3.3. The width of the head restraint must if necessary also be determined 635 mm above the seating reference point, this distance being measured along the reference line. 7.4. Determination of the effectiveness of the device
+7.4.1. The effectiveness of the head restraint is to be checked by the static test described below. 7.4.2. Preparation for the test
+7.4.2.1. If the head restraint is not an integral part of the seat, it must be set in the highest position. 7.4.3. Testing
+7.4.3.1. All lines must be drawn in the vertical plane of symmetry of the seat concerned (see Annex IV). 7.4.3.2. A projection of the reference line r is drawn in the plane referred to in 7.4.3.1. 7.4.3.3. The displaced reference line r1 is determined by applying to the part simulating the back in the manikin referred to in Annex III to Directive 77/649/EEC, an initial force producing a rearward moment of 37·3 mdaN about the R point. 7.4.3.4. By means of a spherical head 165 mm in diameter an initial force producing a moment of 37·3 mdaN about the R point is applied at right angles to the displaced reference line r1 at a distance of 65 mm below the top of the head restraint. 7.4.3.5. The tangent Y to the spherical head, parallel to the displaced reference line r1, is determined. 7.4.3.6. The distance X between the tangent Y and the displaced reference line r1 is measured. The requirement of 6.8 is deemed to be met if the distance X is less than 102 mm. 7.4.3.7. The initial load specified in 7.4.3.4 is increased to 89 daN unless breakage of the seat or the seatback occurs earlier. 8. CONFORMITY OF PRODUCTION
+(8.1.)
+(8.2.)
+(8.3.)
+8.4. Head restraints selected for verification of conformity with an approved type must at least undergo the test described in Section 7. 
+(9.)
+ 10. INSTRUCTIONSWith each model conforming to an approved type of head restraint, the manufacturer shall supply particulars of the types and characteristics of the seats for which the head restraint is approved and, where appropriate, the directions to the user of the head restraint on how to fit it correctly to the seats concerned.
+Member States shall ensure that the texts of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission.Article 12This Directive is addressed to the Member States.Done at Luxembourg, 16 October 1978.For the CouncilThe PresidentK. von Dohnanyi[1] OJ No C 82, 14. 4. 1975, p. 74.[2] OJ No C 76, 7. 4. 1975, p. 37.[3] OJ No C 263, 17. 11. 1975, p. 57.[4] OJ No L 42, 23. 2. 1970, p. 1.[5] OJ No L 168, 26. 6. 1978, p. 39.[6] OJ No L 38, 11. 2. 1974, p. 4.[7] OJ No L 165, 20. 6. 1974, p. 16.[8] OJ No L 221, 12. 8. 1974, p. 1.[9] OJ No L 24, 30. 1. 1976, p. 6.[10] OJ No L 220, 29. 8. 1977, p. 95.--------------------------------------------------LIST OF ANNEXESANNEX I: | Scope, definitions, application for EEC component type-approval, general specifications, tests and conformity of production [1] |ANNEX II: | Procedure for determining the "H" point and the actual seat back angle and for verifying the relative positions of the R and H points and the relationship between the design seat back angle and the actual seat back angle |ANNEX III: | Determination of height and width of head restraints [1] |ANNEX IV: | Details of the lines drawn and measurements taken during test [1] |ANNEX V: | Test procedure for checking energy dissipation [1] |ANNEX VI: | EEC component type-approval mark |ANNEX VII: | EEC component type-approval certificate |[1] The technical requirements of this Annex are similar to those of Regulation No 25 of the Economic Commission for Europe (E/ECE/324-E/ECE/TRANS/505 rev. 1/add. 24); the breakdown into sections is thus the same. Where a section of Regulation No 25 has no counterpart in the Annexes to this Directive, its number is give in brackets for the record.--------------------------------------------------ANNEX ISCOPE, DEFINITIONS, APPLICATION FOR EEC COMPONENT TYPE-APPROVAL, GENERAL SPECIFICATIONS, TESTS AND CONFORMITY OF PRODUCTION1. SCOPE1.1. This Directive applies to head restraints (head rests):- forming an integral part of the seatback, or- designed to be installed on the seat,of motor vehicles conforming to the definition given in Article 9 and intended for separate use, i.e. as individual equipment by adult occupants of forward-facing seats.2. DEFINITIONS2.1. Vehicle type with regard to head restraints"Vehicle type with regard to head restraints" means vehicles which do not differ in such essential respects as:2.1.1. the lines and internal dimensions of the bodywork constituting the passenger compartment; and2.1.2. the types and dimensions of the seats.2.2. Head restraint"Head restraint" means a device whose purpose is to limit the rearward displacement of the occupant's head in relation to his torso in order to reduce the danger of injury to the cervical vertebrae in the event of an accident. This device may or may not form an integral part of the seatback.2.3. Type of seat"Type of seat" means seats which do not differ in their dimensions, in their framework or in their padding, although they may differ in finish or colour.2.4. Type of head restraint"Type of head restraint" means head restraints which do not differ in their dimensions, in their framework or in their padding, although they may differ in finish, colour or covering.2.5. H point(see Annex II).2.6. R point or seating reference point(see Annex II).2.7. Reference line r"Reference line r" means a straight line which, either on a test manikin having the mass and dimensions of an average adult male or on a test manikin having identical characteristics, passes through the joint of the leg with the pelvis and the joint of the neck with the thorax. On the manikin referred to in Section 3 of Annex III to Council Directive 77/649/EEC of 27 September 1977 on the approximation of the laws of the Member States relating to the field of vision of motor vehicle drivers [1], to which reference is made in Annex II to this Directive, the reference line is that shown in Figure 1 in the Appendix to Annex III to Directive 77/649/EEC.2.8. Head line"Head line" means a straight line passing through the centre of gravity of the head and through the joint of the neck with the thorax. When the head is at rest the head line is situated in the extension of the reference line.3. APPLICATION FOR EEC COMPONENT TYPE-APPROVAL3.1. The application for EEC component type-approval must be submitted by the holder of the trade name or mark of the seat or head restraint or by his authorized representative.3.2. It must be accompanied by the following documents in triplicate:3.2.1. a detailed description of the head restraint, specifying in particular the nature of the padding material or materials and, where applicable, the position and specifications of the supports and anchorages for the type or types of seats for which component type-approval of the head restraint is sought;3.2.2. a detailed description of the type or types of seats for which component type-approval of the head restraint is sought;3.2.3. details of the type or types of vehicle on which the seats referred to in 3.2.2 are intended to be fitted;3.2.4. dimensional drawings of the characteristic parts of the seat and head restraint.3.3. The following must be submitted to the technical service responsible for conducting the component type-approval tests:3.3.1. if the head restraint is an integral part of the seat: four complete seats;3.3.2. if the head restraint is intended to be firmly anchored to the seat:3.3.2.1. two seats of each type to which the head restraint is to be fitted;3.3.2.2. 4 + 2N head restraints, N being the number of types of seat to which the head restraint is to be fitted.3.4. The technical service responsible for conducting the component type-approval tests may request:3.4.1. the submission of specific parts or specific samples of the materials used; and/or3.4.2. the submission of vehicles of the type or types referred to in 3.2.3.4. MARKINGS4.1. The devices submitted for component type-approval must:4.1.1. be clearly and indelibly marked with the trade name or mark of the applicant;4.1.2. provide adequate space on the lateral face for the component type-approval mark: this space must be shown in the drawings referred to in 3.2.4.4.2. Where the head restraint forms an integral part of the seat, the markings referred to in 4.1.1 and 4.1.2 must be placed on the part of the seat which is used as a head restraint.(5.) 6. GENERAL SPECIFICATIONS6.1. The presence of the head restraint in a vehicle must not be an additional cause of danger to occupants of the vehicle. In particular it must not in any position of use exhibit any dangerous roughness or sharp edge liable to increase the risk or seriousness of injury to the occupants. Parts of the head restraint which are situated in the impact zone defined below must be capable of dissipating energy in the manner specified in Annex V to this Directive:6.1.1. the impact zone must be bounded laterally by two vertical longitudinal planes, one on each side of and each 70 mm distant from the plane of symmetry of the seat concerned;6.1.2. the impact zone must be limited in height to the part of the head restraint situated above the plane perpendicular to the reference line r and 635 mm distant from the R point.6.2. Parts of the front and rear faces of the head restraint which are situated outward of the said vertical longitudinal planes must be so padded as to prevent any direct contact of the head with the structural components, which should in those areas have a radius of curvature of not less than 5 mm.6.3.
+6.7. The width of the head restraint must be such as to provide suitable support for the head of a person normally seated. In the plane of measurement of width defined in 7.3, the head restraint shall cover an area extending not less than 85 mm to each side of the plane of symmetry of the seat for which the head restraint is intended, that distance being measured in accordance with 7.3. 6.8. The head restraint and its anchorage must be such that the maximum backward displacement of the head permitted by the head restraint and measured in conformity with the static procedure laid down in 7.4 is less than 102 mm. 6.9. The head restraint and its anchorage must be strong enough to bear without failure the load specified in 7.4.3.7. 7. TESTS7.1. Verification of the R point of the seat in which the head restraint is to be incorporated
+This point is verified in accordance with the requirements of Annex II. 7.2. Determination of the height of the head restraint
+7.2.1. All lines must be drawn in the plane of symmetry of the seat concerned, the intersection of which plane with the seat determines the contour of the head restraint and of the seatback (see Annex III, Figure 1). 7.2.2. The manikin corresponding to an average adult male or the manikin referred to in Section 3 of Annex III to Directive 77/649/EEC must be placed in a normal position on the seat. The seatback, if inclinable, is locked in a position corresponding to a rearward inclination of the reference line of the manikin's torso of as nearly as possible 25° from the vertical. 7.2.3. The projection of the reference line of the manikin referred to in Section 3 of Annex III to Directive 77/649/EEC is then, in the case of the seat concerned, drawn in the plane specified in 7.2.1. The tangent S to the top of the head restraint is drawn perpendicular to the reference line. 7.2.4. The distance h from the R point to the tangent S is the height to be taken into consideration in implementing the requirement of 6.4. 7.3. Determination of the width of the head restraint
+(see Annex III, Figure 2). 7.3.1. The plane S1 perpendicular to the reference line and situated 65 mm below the tangent S defined in 7.2.3 defines a section in the head restraint bounded by the outline C. The direction of the straight lines tangential to C representing the intersection of the plane S1 and the vertical planes (P and P′), parallel to the plane of symmetry of the seat concerned, are drawn in the plane S1. 7.3.2. The width of the head restraint to be taken into consideration in implementing the requirements of 6.7 is the distance L separating the projections of planes P and P′ in plane S1. 7.3.3. The width of the head restraint must if necessary also be determined 635 mm above the seating reference point, this distance being measured along the reference line. 7.4. Determination of the effectiveness of the device
+7.4.1. The effectiveness of the head restraint is to be checked by the static test described below. 7.4.2. Preparation for the test
+7.4.2.1. If the head restraint is not an integral part of the seat, it must be set in the highest position. 7.4.3. Testing
+7.4.3.1. All lines must be drawn in the vertical plane of symmetry of the seat concerned (see Annex IV). 7.4.3.2. A projection of the reference line r is drawn in the plane referred to in 7.4.3.1. 7.4.3.3. The displaced reference line r1 is determined by applying to the part simulating the back in the manikin referred to in Annex III to Directive 77/649/EEC, an initial force producing a rearward moment of 37·3 mdaN about the R point. 7.4.3.4. By means of a spherical head 165 mm in diameter an initial force producing a moment of 37·3 mdaN about the R point is applied at right angles to the displaced reference line r1 at a distance of 65 mm below the top of the head restraint. 7.4.3.5. The tangent Y to the spherical head, parallel to the displaced reference line r1, is determined. 7.4.3.6. The distance X between the tangent Y and the displaced reference line r1 is measured. The requirement of 6.8 is deemed to be met if the distance X is less than 102 mm. 7.4.3.7. The initial load specified in 7.4.3.4 is increased to 89 daN unless breakage of the seat or the seatback occurs earlier. 8. CONFORMITY OF PRODUCTION
+(8.1.)
+(8.2.)
+(8.3.)
+8.4. Head restraints selected for verification of conformity with an approved type must at least undergo the test described in Section 7. 
+(9.)
+ 10. INSTRUCTIONSWith each model conforming to an approved type of head restraint, the manufacturer shall supply particulars of the types and characteristics of the seats for which the head restraint is approved and, where appropriate, the directions to the user of the head restraint on how to fit it correctly to the seats concerned. ANNEX IIPROCEDURE FOR DETERMINING THE 'H' POINT AND THE ACTUAL SEATBACK ANGLE AND FOR VERIFYING THE RELATIVE POSITIONS OF THE R AND H POINTS AND THE RELATIONSHIP BETWEEN THE DESIGN SEATBACK ANGLE AND THE ACTUAL SEATBACK ANGLEAnnex III to Directive 77/649/EEC shall be applicable. ANNEX IIIDETERMINATION OF HEIGHT AND WIDTH OF HEAD RESTRAINT
+Figure 1
+Figure 2
+ANNEX IVDETAILS OF LINES DRAWN AND MEASUREMENTS TAKEN DURING TEST
+ANNEX VTEST PROCEDURE FOR CHECKING ENERGY DISSIPATION1. SETTING UP, TEST APPARATUS, RECORDING INSTRUMENTS AND PROCEDURE
+1.1. Setting up
+The head restraint must be fitted and tested on the seat of the vehicle for which it is intended. The seat must be firmly secured to the test bench so that it does not move under impact.1.2. Test apparatus
+1.2.1. This apparatus consists of a pendulum whose pivot is supported by ball-bearings and whose reduced mass (
+12
+) at its centre of percussion is 6·8 kg. The lower extremity of the pendulum consists of a rigid headform 165 mm in diameter whose centre is identical with the centre of percussion of the pendulum. 1.2.2. The headform is fitted with two accelerometers and a speed-measuring device, all capable of measuring values in the direction of impact. 1.3. Recording instruments
+The recording instruments used must be such that measurements can be made with the following degrees of accuracy:1.3.1. Acceleration: — accuracy: ± 5 % of the real value,
+— frequency response: up to 1 000 Hz
+— cross-axis sensitivity: < 5 % of the lowest point on the scale. 1.3.2. Speed: — accuracy: ± 2·5 % of the real value,
+— sensitivity: 0·5 km/h. 1.3.3. Time recording: — the instrumentation must enable the action to be recorded throughout its duration and readings to be made within one thousandth of a second,
+— the beginning of the impact at the moment of first contact between the headform and the head restraint being tested is noted on the recordings used for analyzing the test. 1.4. Test procedure
+1.4.1. The surface to be tested must be so placed that the pendulum will strike the surface perpendicular to the point concerned. 1.4.2. The headform must strike the test item at a speed of 24·1 km/h this speed is achieved either by the mere energy of propulsion or by using an additional propelling device. 2. RESULTS
+In tests carried out by the above procedure, the deceleration of the headform must not exceed 80 g continuously for more than three milliseconds. The deceleration rate is taken as the average of the readings on the two decelerometers.3. EQUIVALENT PROCEDURES
+3.1. Equivalent test procedures are permitted on condition that the results required in Section 2 can be obtained. 3.2. Responsibility for demonstrating the equivalence of a method other than that described in Section 1 rests with the person using such a method. ANNEX VIEEC COMPONENT TYPE-APPROVAL MARK1. GENERAL
+1.1. The EEC component type-approval mark consists of: 1.1.1. a rectangle surrounding the lower-case letter 'e' followed by the distinguishing number or letters of the Member State which has granted the EEC component type-approval:
+7.2.3. The projection of the reference line of the manikin referred to in Section 3 of Annex III to Directive 77/649/EEC is then, in the case of the seat concerned, drawn in the plane specified in 7.2.1. The tangent S to the top of the head restraint is drawn perpendicular to the reference line. 7.2.4. The distance h from the R point to the tangent S is the height to be taken into consideration in implementing the requirement of 6.4. 7.3. Determination of the width of the head restraint
+(see Annex III, Figure 2). 7.3.1. The plane S1 perpendicular to the reference line and situated 65 mm below the tangent S defined in 7.2.3 defines a section in the head restraint bounded by the outline C. The direction of the straight lines tangential to C representing the intersection of the plane S1 and the vertical planes (P and P′), parallel to the plane of symmetry of the seat concerned, are drawn in the plane S1. 7.3.2. The width of the head restraint to be taken into consideration in implementing the requirements of 6.7 is the distance L separating the projections of planes P and P′ in plane S1. 7.3.3. The width of the head restraint must if necessary also be determined 635 mm above the seating reference point, this distance being measured along the reference line. 7.4. Determination of the effectiveness of the device
+7.4.1. The effectiveness of the head restraint is to be checked by the static test described below. 7.4.2. Preparation for the test
+7.4.2.1. If the head restraint is not an integral part of the seat, it must be set in the highest position. 7.4.3. Testing
+7.4.3.1. All lines must be drawn in the vertical plane of symmetry of the seat concerned (see Annex IV). 7.4.3.2. A projection of the reference line r is drawn in the plane referred to in 7.4.3.1. 7.4.3.3. The displaced reference line r1 is determined by applying to the part simulating the back in the manikin referred to in Annex III to Directive 77/649/EEC, an initial force producing a rearward moment of 37·3 mdaN about the R point. 7.4.3.4. By means of a spherical head 165 mm in diameter an initial force producing a moment of 37·3 mdaN about the R point is applied at right angles to the displaced reference line r1 at a distance of 65 mm below the top of the head restraint. 7.4.3.5. The tangent Y to the spherical head, parallel to the displaced reference line r1, is determined. 7.4.3.6. The distance X between the tangent Y and the displaced reference line r1 is measured. The requirement of 6.8 is deemed to be met if the distance X is less than 102 mm. 7.4.3.7. The initial load specified in 7.4.3.4 is increased to 89 daN unless breakage of the seat or the seatback occurs earlier. 8. CONFORMITY OF PRODUCTION
+(8.1.)
+(8.2.)
+(8.3.)
+8.4. Head restraints selected for verification of conformity with an approved type must at least undergo the test described in Section 7. 
+(9.)
+ 10. INSTRUCTIONSWith each model conforming to an approved type of head restraint, the manufacturer shall supply particulars of the types and characteristics of the seats for which the head restraint is approved and, where appropriate, the directions to the user of the head restraint on how to fit it correctly to the seats concerned.
+6.7. The width of the head restraint must be such as to provide suitable support for the head of a person normally seated. In the plane of measurement of width defined in 7.3, the head restraint shall cover an area extending not less than 85 mm to each side of the plane of symmetry of the seat for which the head restraint is intended, that distance being measured in accordance with 7.3. 6.8. The head restraint and its anchorage must be such that the maximum backward displacement of the head permitted by the head restraint and measured in conformity with the static procedure laid down in 7.4 is less than 102 mm. 6.9. The head restraint and its anchorage must be strong enough to bear without failure the load specified in 7.4.3.7. 7. TESTS7.1. Verification of the R point of the seat in which the head restraint is to be incorporated
+This point is verified in accordance with the requirements of Annex II. 7.2. Determination of the height of the head restraint
+7.2.1. All lines must be drawn in the plane of symmetry of the seat concerned, the intersection of which plane with the seat determines the contour of the head restraint and of the seatback (see Annex III, Figure 1). 7.2.2. The manikin corresponding to an average adult male or the manikin referred to in Section 3 of Annex III to Directive 77/649/EEC must be placed in a normal position on the seat. The seatback, if inclinable, is locked in a position corresponding to a rearward inclination of the reference line of the manikin's torso of as nearly as possible 25° from the vertical. 7.2.3. The projection of the reference line of the manikin referred to in Section 3 of Annex III to Directive 77/649/EEC is then, in the case of the seat concerned, drawn in the plane specified in 7.2.1. The tangent S to the top of the head restraint is drawn perpendicular to the reference line. 7.2.4. The distance h from the R point to the tangent S is the height to be taken into consideration in implementing the requirement of 6.4. 7.3. Determination of the width of the head restraint
+(see Annex III, Figure 2). 7.3.1. The plane S1 perpendicular to the reference line and situated 65 mm below the tangent S defined in 7.2.3 defines a section in the head restraint bounded by the outline C. The direction of the straight lines tangential to C representing the intersection of the plane S1 and the vertical planes (P and P′), parallel to the plane of symmetry of the seat concerned, are drawn in the plane S1. 7.3.2. The width of the head restraint to be taken into consideration in implementing the requirements of 6.7 is the distance L separating the projections of planes P and P′ in plane S1. 7.3.3. The width of the head restraint must if necessary also be determined 635 mm above the seating reference point, this distance being measured along the reference line. 7.4. Determination of the effectiveness of the device
+7.4.1. The effectiveness of the head restraint is to be checked by the static test described below. 7.4.2. Preparation for the test
+7.4.2.1. If the head restraint is not an integral part of the seat, it must be set in the highest position. 7.4.3. Testing
+7.4.3.1. All lines must be drawn in the vertical plane of symmetry of the seat concerned (see Annex IV). 7.4.3.2. A projection of the reference line r is drawn in the plane referred to in 7.4.3.1. 7.4.3.3. The displaced reference line r1 is determined by applying to the part simulating the back in the manikin referred to in Annex III to Directive 77/649/EEC, an initial force producing a rearward moment of 37·3 mdaN about the R point. 7.4.3.4. By means of a spherical head 165 mm in diameter an initial force producing a moment of 37·3 mdaN about the R point is applied at right angles to the displaced reference line r1 at a distance of 65 mm below the top of the head restraint. 7.4.3.5. The tangent Y to the spherical head, parallel to the displaced reference line r1, is determined. 7.4.3.6. The distance X between the tangent Y and the displaced reference line r1 is measured. The requirement of 6.8 is deemed to be met if the distance X is less than 102 mm. 7.4.3.7. The initial load specified in 7.4.3.4 is increased to 89 daN unless breakage of the seat or the seatback occurs earlier. 8. CONFORMITY OF PRODUCTION
+(8.1.)
+(8.2.)
+(8.3.)
+8.4. Head restraints selected for verification of conformity with an approved type must at least undergo the test described in Section 7. 
+(9.)
+ 10. INSTRUCTIONSWith each model conforming to an approved type of head restraint, the manufacturer shall supply particulars of the types and characteristics of the seats for which the head restraint is approved and, where appropriate, the directions to the user of the head restraint on how to fit it correctly to the seats concerned. ANNEX IIPROCEDURE FOR DETERMINING THE 'H' POINT AND THE ACTUAL SEATBACK ANGLE AND FOR VERIFYING THE RELATIVE POSITIONS OF THE R AND H POINTS AND THE RELATIONSHIP BETWEEN THE DESIGN SEATBACK ANGLE AND THE ACTUAL SEATBACK ANGLEAnnex III to Directive 77/649/EEC shall be applicable. ANNEX IIIDETERMINATION OF HEIGHT AND WIDTH OF HEAD RESTRAINT
+Figure 1
+Figure 2
+ANNEX IVDETAILS OF LINES DRAWN AND MEASUREMENTS TAKEN DURING TEST
+ANNEX VTEST PROCEDURE FOR CHECKING ENERGY DISSIPATION1. SETTING UP, TEST APPARATUS, RECORDING INSTRUMENTS AND PROCEDURE
+1.1. Setting up
+The head restraint must be fitted and tested on the seat of the vehicle for which it is intended. The seat must be firmly secured to the test bench so that it does not move under impact.1.2. Test apparatus
+1.2.1. This apparatus consists of a pendulum whose pivot is supported by ball-bearings and whose reduced mass (
+12
+) at its centre of percussion is 6·8 kg. The lower extremity of the pendulum consists of a rigid headform 165 mm in diameter whose centre is identical with the centre of percussion of the pendulum. 1.2.2. The headform is fitted with two accelerometers and a speed-measuring device, all capable of measuring values in the direction of impact. 1.3. Recording instruments
+The recording instruments used must be such that measurements can be made with the following degrees of accuracy:1.3.1. Acceleration: — accuracy: ± 5 % of the real value,
+— frequency response: up to 1 000 Hz
+— cross-axis sensitivity: < 5 % of the lowest point on the scale. 1.3.2. Speed: — accuracy: ± 2·5 % of the real value,
+— sensitivity: 0·5 km/h. 1.3.3. Time recording: — the instrumentation must enable the action to be recorded throughout its duration and readings to be made within one thousandth of a second,
+— the beginning of the impact at the moment of first contact between the headform and the head restraint being tested is noted on the recordings used for analyzing the test. 1.4. Test procedure
+1.4.1. The surface to be tested must be so placed that the pendulum will strike the surface perpendicular to the point concerned. 1.4.2. The headform must strike the test item at a speed of 24·1 km/h this speed is achieved either by the mere energy of propulsion or by using an additional propelling device. 2. RESULTS
+In tests carried out by the above procedure, the deceleration of the headform must not exceed 80 g continuously for more than three milliseconds. The deceleration rate is taken as the average of the readings on the two decelerometers.3. EQUIVALENT PROCEDURES
+3.1. Equivalent test procedures are permitted on condition that the results required in Section 2 can be obtained. 3.2. Responsibility for demonstrating the equivalence of a method other than that described in Section 1 rests with the person using such a method. ANNEX VIEEC COMPONENT TYPE-APPROVAL MARK1. GENERAL
+1.1. The EEC component type-approval mark consists of: 1.1.1. a rectangle surrounding the lower-case letter 'e' followed by the distinguishing number or letters of the Member State which has granted the EEC component type-approval:
+the impact zone must be bounded laterally by two vertical longitudinal planes, one on each side of and each 70 mm distant from the plane of symmetry of the seat concerned;6.1.2. the impact zone must be limited in height to the part of the head restraint situated above the plane perpendicular to the reference line r and 635 mm distant from the R point.6.2. Parts of the front and rear faces of the head restraint which are situated outward of the said vertical longitudinal planes must be so padded as to prevent any direct contact of the head with the structural components, which should in those areas have a radius of curvature of not less than 5 mm.6.3. The head restraint must be anchored to the seat in such a way that no rigid and dangerous part projects from the padding of the head restraint, from the anchorage or from the seatback as a result of the pressure exerted by the head during the test.6.4. The height of the head restraint, measured as described in 7.2, must not be less than 700 mm above the seating reference point R.6.5. The height of the device on which the head rests, measured as described in 7.2, must, in the case of a head restraint adjustable for height, not be less than 100 mm.6.6. There must be no gap of more than 50 mm between the seatback and the head restraint in the case of a device not adjustable for height. If the head restraint is adjustable for height, it must, when in the low position, be no more than 25 mm from the top of the seatback.6.7. The width of the head restraint must be such as to provide suitable support for the head of a person normally seated. In the plane of measurement of width defined in 7.3, the head restraint shall cover an area extending not less than 85 mm to each side of the plane of symmetry of the seat for which the head restraint is intended, that distance being measured in accordance with 7.3.6.8. The head restraint and its anchorage must be such that the maximum backward displacement of the head permitted by the head restraint and measured in conformity with the static procedure laid down in 7.4 is less than 102 mm.6.9. The head restraint and its anchorage must be strong enough to bear without failure the load specified in 7.4.3.7.7. TESTS7.1. Verification of the R point of the seat in which the head restraint is to be incorporatedThis point is verified in accordance with the requirements of Annex II.7.2. Determination of the height of the head restraint7.2.1. All lines must be drawn in the plane of symmetry of the seat concerned, the intersection of which plane with the seat determines the contour of the head restraint and of the seatback (see Annex III, Figure 1).7.2.2. The manikin corresponding to an average adult male or the manikin referred to in Section 3 of Annex III to Directive 77/649/EEC must be placed in a normal position on the seat. The seatback, if inclinable, is locked in a position corresponding to a rearward inclination of the reference line of the manikin's torso of as nearly as possible 25° from the vertical.7.2.3. The projection of the reference line of the manikin referred to in Section 3 of Annex III to Directive 77/649/EEC is then, in the case of the seat concerned, drawn in the plane specified in 7.2.1. The tangent S to the top of the head restraint is drawn perpendicular to the reference line.7.2.4. The distance h from the R point to the tangent S is the height to be taken into consideration in implementing the requirement of 6.4.7.3. Determination of the width of the head restraint(see Annex III, Figure 2).7.3.1. The plane S1 perpendicular to the reference line and situated 65 mm below the tangent S defined in 7.2.3 defines a section in the head restraint bounded by the outline C. The direction of the straight lines tangential to C representing the intersection of the plane S1 and the vertical planes (P and P′), parallel to the plane of symmetry of the seat concerned, are drawn in the plane S1.7.3.2. The width of the head restraint to be taken into consideration in implementing the requirements of 6.7 is the distance L separating the projections of planes P and P′ in plane S1.7.3.3. The width of the head restraint must if necessary also be determined 635 mm above the seating reference point, this distance being measured along the reference line.7.4. Determination of the effectiveness of the device7.4.1. The effectiveness of the head restraint is to be checked by the static test described below.7.4.2. Preparation for the test7.4.2.1. If the head restraint is not an integral part of the seat, it must be set in the highest position.7.4.3. Testing7.4.3.1. All lines must be drawn in the vertical plane of symmetry of the seat concerned (see Annex IV).7.4.3.2. A projection of the reference line r is drawn in the plane referred to in 7.4.3.1.7.4.3.3. The displaced reference line r1 is determined by applying to the part simulating the back in the manikin referred to in Annex III to Directive 77/649/EEC, an initial force producing a rearward moment of 37·3 mdaN about the R point.7.4.3.4. By means of a spherical head 165 mm in diameter an initial force producing a moment of 37·3 mdaN about the R point is applied at right angles to the displaced reference line r1 at a distance of 65 mm below the top of the head restraint.7.4.3.5. The tangent Y to the spherical head, parallel to the displaced reference line r1, is determined.7.4.3.6. The distance X between the tangent Y and the displaced reference line r1 is measured. The requirement of 6.8 is deemed to be met if the distance X is less than 102 mm.7.4.3.7. The initial load specified in 7.4.3.4 is increased to 89 daN unless breakage of the seat or the seatback occurs earlier.8. CONFORMITY OF PRODUCTION(8.1.) (8.2.) (8.3.) 8.4. Head restraints selected for verification of conformity with an approved type must at least undergo the test described in Section 7.(9.) 10. INSTRUCTIONSWith each model conforming to an approved type of head restraint, the manufacturer shall supply particulars of the types and characteristics of the seats for which the head restraint is approved and, where appropriate, the directions to the user of the head restraint on how to fit it correctly to the seats concerned.[1] OJ No L 267, 19. 10. 1977, p. 1.--------------------------------------------------ANNEX IIPROCEDURE FOR DETERMINING THE "H" POINT AND THE ACTUAL SEATBACK ANGLE AND FOR VERIFYING THE RELATIVE POSITIONS OF THE R AND H POINTS AND THE RELATIONSHIP BETWEEN THE DESIGN SEATBACK ANGLE AND THE ACTUAL SEATBACK ANGLEAnnex III to Directive 77/649/EEC shall be applicable.--------------------------------------------------ANNEX IIIDETERMINATION OF HEIGHT AND WIDTH OF HEAD RESTRAINT+++++ TIFF ++++++++++ TIFF +++++--------------------------------------------------ANNEX IVDETAILS OF LINES DRAWN AND MEASUREMENTS TAKEN DURING TEST+++++ TIFF +++++--------------------------------------------------ANNEX VTEST PROCEDURE FOR CHECKING ENERGY DISSIPATION1. SETTING UP, TEST APPARATUS, RECORDING INSTRUMENTS AND PROCEDURE1.1. Setting upThe head restraint must be fitted and tested on the seat of the vehicle for which it is intended. The seat must be firmly secured to the test bench so that it does not move under impact.1.2. Test apparatus1.2.1. This apparatus consists of a pendulum whose pivot is supported by ball-bearings and whose reduced mass [1] at its centre of percussion is 6·8 kg. The lower extremity of the pendulum consists of a rigid headform 165 mm in diameter whose centre is identical with the centre of percussion of the pendulum.1.2.2.
+1.1.1. a rectangle surrounding the lower-case letter 'e' followed by the distinguishing number or letters of the Member State which has granted the EEC component type-approval: ▼A2
+1
+for Germany
+2
+for France
+3
+for Italy
+4
+for the Netherlands
+6
+for Belgium
+9
+for Spain
+11
+for the United Kingdom
+13
+for Luxembourg
+DK
+for Denmark
+▼M1
+EL
+for Greece
+▼A2
+IRL
+for Ireland
+P
+for Portugal; ▼
+12
+for Austria
+17
+for Finland
+5
+for Sweden; ▼A4
+8
+for the Czech Republic
+29
+for Estonia
+CY
+for Cyprus
+32
+for Latvia
+36
+for Lithuania
+7
+for Hungary
+MT
+for Malta
+20
+for Poland
+26
+for Slovenia
+27
+for Slovakia; ▼M2
+34
+for Bulgaria
+19
+for Romania; ▼B
+1.1.2. it must also include the EEC component type-approval number which corresponds to the number of the EEC component type-approval certificate issued for the type of head restraint in question; this number is placed in any convenient position near the rectangle; 1.1.3. where the head restraint is an integral part of the seatback, the EEC component type-approval number is preceded by the letter 'I' and a dash: 1.2. The EEC component type-approval mark must be clearly legible and indelible. 2. TWO EXAMPLES OF EEC COMPONENT TYPE-APPROVAL MARKS
+2.1. Component type-approval mark of a head restraint which forms an integral part of the seat
+The above component type-approval mark affixed to a head restraint or restraints forming an integral part of the seat or seats of a vehicle shows that the type of seat in question has been approved with regard to head restraints in the Netherlands (e4) under the number 2439.2.2. EEC component type-approval mark of a head restraint which is not an integral part of a seat
+The above component type-approval mark affixed to a head restraint shows that the head restraint in question has been granted EEC component type-approval, that it is a head restraint which is not an integral part of a seat and is approved in the Netherlands under the number 2439. ANNEX VIIMODEL EEC COMPONENT TYPE-APPROVAL CERTIFICATE(Maximum format: A4 (210 × 297 mm))
+(
+1
+) OJ No C 82, 14. 4. 1975, p. 74.(
+2
+) OJ No C 76, 7. 4. 1975, p. 37.(
+3
+) OJ No C 263, 17. 11. 1975, p. 57.(
+4
+) OJ No L 42, 23. 2. 1970, p. 1.(
+5
+) OJ No L 168, 26. 6. 1978, p. 39.(
+6
+) OJ No L 38, 11. 2. 1974, p. 4.(
+7
+) OJ No L 165, 20. 6. 1974, p. 16.(
+8
+) OJ No L 221, 12. 8. 1974, p. 1.(
+9
+) OJ No L 24, 30. 1. 1976, p. 6.(
+10
+) OJ No L 220, 29. 8. 1977, p. 95.(
+11
+) OJ No L 267, 19. 10. 1977, p. 1.(
+12
+) The relationship of the reduced mass 'mr' of the pendulum to the total mass 'm' of the pendulum at a distance 'a' between the centre of percussion and the axis of rotation and at a distance 'l' between the centre of gravity and the axis of rotation is given by the formula:
+1.1.1. a rectangle surrounding the lower-case letter 'e' followed by the distinguishing number or letters of the Member State which has granted the EEC component type-approval: ▼A2
+1
+for Germany
+2
+for France
+3
+for Italy
+4
+for the Netherlands
+6
+for Belgium
+9
+for Spain
+11
+for the United Kingdom
+13
+for Luxembourg
+DK
+for Denmark
+▼M1
+EL
+for Greece
+▼A2
+IRL
+for Ireland
+P
+for Portugal; ▼
+12
+for Austria
+17
+for Finland
+5
+for Sweden; ▼A4
+8
+for the Czech Republic
+29
+for Estonia
+CY
+for Cyprus
+32
+for Latvia
+36
+for Lithuania
+7
+for Hungary
+MT
+for Malta
+20
+for Poland
+26
+for Slovenia
+27
+for Slovakia; ▼M2
+34
+for Bulgaria
+19
+for Romania; ▼M3
+25
+for Croatia; ▼B
+1.1.2. it must also include the EEC component type-approval number which corresponds to the number of the EEC component type-approval certificate issued for the type of head restraint in question; this number is placed in any convenient position near the rectangle; 1.1.3. where the head restraint is an integral part of the seatback, the EEC component type-approval number is preceded by the letter 'I' and a dash: 1.2. The EEC component type-approval mark must be clearly legible and indelible. 2. TWO EXAMPLES OF EEC COMPONENT TYPE-APPROVAL MARKS
+2.1. Component type-approval mark of a head restraint which forms an integral part of the seat
+The above component type-approval mark affixed to a head restraint or restraints forming an integral part of the seat or seats of a vehicle shows that the type of seat in question has been approved with regard to head restraints in the Netherlands (e4) under the number 2439.2.2. EEC component type-approval mark of a head restraint which is not an integral part of a seat
+The above component type-approval mark affixed to a head restraint shows that the head restraint in question has been granted EEC component type-approval, that it is a head restraint which is not an integral part of a seat and is approved in the Netherlands under the number 2439. ANNEX VIIMODEL EEC COMPONENT TYPE-APPROVAL CERTIFICATE(Maximum format: A4 (210 × 297 mm))
+(
+1
+) OJ No C 82, 14. 4. 1975, p. 74.(
+2
+) OJ No C 76, 7. 4. 1975, p. 37.(
+3
+) OJ No C 263, 17. 11. 1975, p. 57.(
+4
+) OJ No L 42, 23. 2. 1970, p. 1.(
+5
+) OJ No L 168, 26. 6. 1978, p. 39.(
+6
+) OJ No L 38, 11. 2. 1974, p. 4.(
+7
+) OJ No L 165, 20. 6. 1974, p. 16.(
+8
+) OJ No L 221, 12. 8. 1974, p. 1.(
+9
+) OJ No L 24, 30. 1. 1976, p. 6.(
+10
+) OJ No L 220, 29. 8. 1977, p. 95.(
+11
+) OJ No L 267, 19. 10. 1977, p. 1.(
+12
+) The relationship of the reduced mass 'mr' of the pendulum to the total mass 'm' of the pendulum at a distance 'a' between the centre of percussion and the axis of rotation and at a distance 'l' between the centre of gravity and the axis of rotation is given by the formula:
+The lower extremity of the pendulum consists of a rigid headform 165 mm in diameter whose centre is identical with the centre of percussion of the pendulum.1.2.2. The headform is fitted with two accelerometers and a speed-measuring device, all capable of measuring values in the direction of impact.1.3. Recording instrumentsThe recording instruments used must be such that measurements can be made with the following degrees of accuracy:1.3.1. Acceleration:- accuracy: ± 5 % of the real value,- frequency response: up to 1000 Hz- cross-axis sensitivity: < 5 % of the lowest point on the scale.1.3.2. Speed:- accuracy: ± 2·5 % of the real value,- sensitivity: 0·5 km/h.1.3.3. Time recording:- the instrumentation must enable the action to be recorded throughout its duration and readings to be made within one thousandth of a second,- the beginning of the impact at the moment of first contact between the headform and the head restraint being tested is noted on the recordings used for analyzing the test.1.4. Test procedure1.4.1. The surface to be tested must be so placed that the pendulum will strike the surface perpendicular to the point concerned.1.4.2. The headform must strike the test item at a speed of 24·1 km/h this speed is achieved either by the mere energy of propulsion or by using an additional propelling device.2. RESULTSIn tests carried out by the above procedure, the deceleration of the headform must not exceed 80 g continuously for more than three milliseconds. The deceleration rate is taken as the average of the readings on the two decelerometers.3. EQUIVALENT PROCEDURES3.1. Equivalent test procedures are permitted on condition that the results required in Section 2 can be obtained.3.2. Responsibility for demonstrating the equivalence of a method other than that described in Section 1 rests with the person using such a method.[1] The relationship of the reduced mass "mr" of the pendulum to the total mass "m" of the pendulum at a distance "a" between the centre of percussion and the axis of rotation and at a distance "l" between the centre of gravity and the axis of rotation is given by the formula: mr = m la·--------------------------------------------------ANNEX VIEEC COMPONENT TYPE-APPROVAL MARK1. GENERAL1.1. The EEC component type-approval mark consists of:1.1.1. a rectangle surrounding the lower-case letter "e" followed by the distinguishing number or letters of the Member State which has granted the EEC component type-approval:1 for Germany,2 for France,3 for Italy,4 for the Netherlands,6 for Belgium11 for the United Kingdom,12 for Luxembourg,18 for Denmark,IRL for Ireland;1.1.2. it must also include the EEC component type-approval number which corresponds to the number of the EEC component type-approval certificate issued for the type of head restraint in question; this number is placed in any convenient position near the rectangle;1.1.3. where the head restraint is an integral part of the seatback, the EEC component type-approval number is preceded by the letter "I" and a dash:1.2. The EEC component type-approval mark must be clearly legible and indelible.2. TWO EXAMPLES OF EEC COMPONENT TYPE-APPROVAL MARKS2.1. Component type-approval mark of a head restraint which forms an integral part of the seat+++++ TIFF +++++The above component type-approval mark affixed to a head restraint or restraints forming an integral part of the seat or seats of a vehicle shows that the type of seat in question has been approved with regard to head restraints in the Netherlands (e4) under the number 2439.2.2. EEC component type-approval mark of a head restraint which is not an integral part of a seat+++++ TIFF +++++The above component type-approval mark affixed to a head restraint shows that the head restraint in question has been granted EEC component type-approval, that it is a head restraint which is not an integral part of a seat and is approved in the Netherlands under the number 2439.--------------------------------------------------ANNEX VIIMODEL EEC COMPONENT TYPE-APPROVAL CERTIFICATE(Maximum format: A4 (210 × 297 mm))+++++ TIFF +++++--------------------------------------------------

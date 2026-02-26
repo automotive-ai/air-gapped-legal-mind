@@ -1,0 +1,1511 @@
+recital 2
+(2) Pursuant to Article 57(2) of the Act of Accession, such adaptations are to be adopted by the Council in all cases where the Council alone or jointly with the European Parliament adopted the original act.
+Article 4
+This Directive is addressed to the Member States.
+Article 3
+This Directive shall enter into force only subject to and on the date of the entry into force of the Treaty of Accession.
+Article 2
+Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by the date of entry into force of the Treaty of Accession.
+
+As regards the provisions of this Directive adapting Directive 91/414/EC as amended, as well as Directives 2002/83/EC, 2003/37/EC and 2003/59/EC, the date of transposition shall be that laid down therein. Member States shall forthwith submit the text of the provisions transposing this Directive to the Commission, with a table setting out their correlation with the specific provisions of this Directive. When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+Article 1
+Directives 1999/45/EC, 2002/83/EC, 2003/37/EC, 2003/59/EC, 77/388/EEC, 91/414/EEC, 96/26/EC, 2003/48/EC and 2003/49/EC are amended as set out in the Annex of this Directive.
+I. FREE MOVEMENT OF GOODS
+ANNEX
+I. FREE MOVEMENT OF GOODS
+A. MOTOR VEHICLES
+Directive 2003/37/EC of the European Parliament and of the Council of 26 May 2003 on type-approval of agricultural or forestry tractors, their trailers and interchangeable towed machinery, together with their systems, components and separate technical units and repealing Directive 74/150/EEC.
+
+(a) In Annex II, Chapter C, Appendix 1, point 1, the following are inserted in the first subparagraph: ' "8 for the Czech Republic", "29 for Estonia", "CY for Cyprus", "32 for Latvia", "36 for Lithuania", "7 for Hungary", "MT for Malta", "20 for Poland", "26 for Slovenia", "27 for Slovakia".' (b) In Annex III, Part I, 'A - Complete/completed tractors', point 16 is replaced by the following: ' {{IMAGE:Image_0, Caption:Form section listing European countries with blank fields for fiscal horsepower or class data entry.}} 16. Fiscal horsepower(s) or class(es)
+Italy: Germany: Greece: Belgium: Netherlands: Portugal: Denmark: Ireland: Sweden: United Kingdom: Finland: Cyprus:
+Austria: Estonia: Hungary: Czech Republic: Lithuania: Slovenia: Latvia: Poland:
+Slovakia: Malta:
+Spain: France: Luxembourg: '
+(c) In Annex III, Part I, 'B - Agricultural or forestry trailers - complete/completed', point 16 is replaced by the following: ' {{IMAGE:Image_4, Caption:A form section titled 'Fiscal horsepower(s) or class(es)' listing European countries with blank fields for data entry, arranged in three columns.}} 16. Fiscal horsepower(s) or class(es) (if applicable)
+Italy: Germany: Greece: Belgium: Netherlands: Portugal: Denmark: Ireland: Sweden: United Kingdom: Finland: Cyprus:
+Austria: Estonia: Hungary: Czech Republic: Lithuania: Slovenia: Latvia: Poland:
+Slovakia: Malta:
+Spain: France: Luxembourg: '
+(d) In Annex III, Part I, 'C - Interchangeable towed machinery - complete/completed', point 16 is replaced by the following: ' {{IMAGE:Image_4, Caption:A form section titled 'Fiscal horsepower(s) or class(es)' listing European countries with blank fields for data entry, arranged in three columns.}} 16. Fiscal horsepower(s) or class(es) (if applicable)
+Italy: Germany: Greece: Belgium: Netherlands: Portugal: Denmark: Ireland: Sweden: United Kingdom: Finland: Cyprus:
+Austria: Estonia: Hungary: Czech Republic: Lithuania: Slovenia: Latvia: Poland:
+Slovakia: Malta:
+Spain: France: Luxembourg: '
+(e) In Annex III, Part II, 'A - Agricultural or forestry trailers - incomplete', point 16 is replaced by the following: ' {{IMAGE:Image_4, Caption:A form section titled 'Fiscal horsepower(s) or class(es)' listing European countries with blank fields for data entry, arranged in three columns.}} 16. Fiscal horsepower(s) or class(es) (if applicable)
+Italy: Germany: Greece: Belgium: Netherlands: Portugal: Denmark: Ireland: Sweden: United Kingdom: Finland: Cyprus:
+Austria: Estonia: Hungary: Czech Republic: Lithuania: Slovenia: Latvia: Poland:
+Slovakia: Malta:
+Spain: France: Luxembourg: '
+(f) In Annex III, Part II, 'B - Interchangeable towed machinery - incomplete', point 16 is replaced by the following: ' {{IMAGE:Image_4, Caption:A form section titled 'Fiscal horsepower(s) or class(es)' listing European countries with blank fields for data entry, arranged in three columns.}} 16. Fiscal horsepower(s) or class(es) (if applicable)
+Italy: Germany: Greece: Belgium: Netherlands: Portugal: Denmark: Ireland: Sweden: United Kingdom: Finland: Cyprus:
+Austria: Estonia: Hungary: Czech Republic: Lithuania: Slovenia: Latvia: Poland:
+Slovakia: Malta:
+Spain: France: Luxembourg: '
+B. CHEMICALS
+Directive 1999/45/EC of the European Parliament and of the Council of 31 May 1999 concerning the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous preparations. In Annex VI, Part A, point 5, the list of countries is replaced by the following: 'Belgium: Czech Republic: Denmark: Germany: Estonia: Greece:
+Spain: France: Ireland: Italy: Cyprus: Latvia: Lithuania: Luxembourg: Hungary: Malta: Netherlands: Austria: Poland: Portugal: Slovenia: Slovakia: Finland: Sweden: United Kingdom:'. II. FREEDOM TO PROVIDE SERVICES
+Directive 2002/83/EC of the European Parliament and of the Council of 5 November 2002 concerning life assurance. (a) In Article 6(1)(a), the following is inserted between the entries for Belgium and Denmark: '—
+in the case of the Czech Republic: "akciová společnost", "družstvo",'
+and, between the entries for Germany and Greece: '—
+in the case of the Republic of Estonia: "aktsiaselts",'
+and, between the entries for Italy and Luxembourg: '—
+in the case of the Republic of Cyprus: "Εταιρεία περιορισμένης ευθύνης με μετοχές ή εταιρεία περιορισμένης ευθύνης με εγγύηση",
+—
+in the case of the Republic of the Latvia: "apdrošināšanas akciju sabiedrība", "savstarpējās apdrošināšanas kooperatīvā biedrība",
+—
+in the case of the Republic of Lithuania: "akcinės bendrovės", "uždarosios akcinės bendrovės",'
+and, between the entries for Luxembourg and the Netherlands: '—
+in the case of the Republic of Hungary: "biztosító részvénytársaság", "biztosító szövetkezet", "biztosító egyesület", "külföldi székhelyű biztosító magyarországi fióktelepe",
+—
+in the case of the Republic of Malta: "kumpanija pubblika", "kumpanija privata", "fergħa", "Korp ta' l- Assikurazzjoni Rikonnoxxut",'
+and, between the entries for Austria and Portugal: '—
+in the case of the Republic of Poland: "spółka akcyjna", "towarzystwo ubezpieczeń wzajemnych",'
+and, between the entries for Portugal and Finland: '—
+in the case of the Republic of Slovenia: "delniška družba", "družba za vzajemno zavarovanje",
+—
+in the case of the Slovak Republic: "akciová spoločnost".'. (b) In Article 18(3) the third indent is replaced by the following: '—
+1 January 1995 for undertakings authorised in Austria, Finland and Sweden,'. (c) In Article 18(3), the following is inserted after the third indent: '—
+1 May 2004 for undertakings authorised in the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia, and'. III. AGRICULTURE
+PHYTOSANITARY LEGISLATION
+Council Directive 91/414/EEC of 15 July 1991 concerning the placing of plant protection products on the market. (a) Point 1.1 in Annex IV is replaced by the following: '1.1. Special risks related to humans (RSh)
+RSh 1
+ES
+:
+Tóxico en contacto con los ojos. CS
+:
+Toxický při styku s očima. DA
+:
+Giftig ved kontakt med øjnene. DE
+:
+Giftig bei Kontakt mit den Augen. ET
+:
+Mürgine silma sattumisel. EL
+:
+Τοξικό όταν έρθει σε επαφή με τα μάτια. EN
+:
+Toxic by eye contact. FR
+:
+Toxique par contact oculaire. IT
+:
+Tossico per contatto oculare. LV
+:
+Toksisks nonākot saskarē ar acīm. LT
+:
+Toksiška patekus į akis. HU
+:
+Szemmel érintkezve mérgező. MT
+:
+Tossiku meta jmiss ma' l-għajnejn. NL
+:
+Giftig bij oogcontact. PL
+:
+Działa toksycznie w kontakcie z oczami. PT
+:
+Tóxico por contacto com os olhos. SK
+:
+Jedovatý pri kontakte s očami. SL
+:
+Strupeno v stiku z očmi. FI
+:
+Myrkyllistä joutuessaan silmään. SV
+:
+Giftigt vid kontakt med ögonen. RSh 2
+ES
+:
+Puede causar fotosensibilización. CS
+:
+Může vyvolat fotosenzibilizaci. DA
+:
+Kan give overfølsomhed over for sollys/UV-stråling. DE
+:
+Sensibilisierung durch Licht möglich. ET
+:
+Võib põhjustada valgussensibiliseerimist. EL
+:
+Μπορεί να προκαλέσει φωτοευαισθητοποίηση. EN
+:
+May cause photosensitisation. FR
+:
+Peut entraîner une photosensibilisation. IT
+:
+Può causare fotosensibilizzazione. LV
+:
+Var izraisīt fotosensibilizāciju. LT
+:
+Gali sukelti fotosensibilizaciją. HU
+:
+Fényérzékenységet okozhat. MT
+:
+Jista' jikkawża fotosensitiżżazzjoni. NL
+:
+Kan fotosensibilisatie veroorzaken. PL
+:
+Może powodować nadwrażliwość na światło. PT
+:
+Pode causar fotossensibilização. SK
+:
+Môže spôsobiť fotosenzibilizáciu. SL
+:
+Lahko povzroči preobčutljivost na svetlobo. FI
+:
+Voi aiheuttaa herkistymistä valolle. SV
+:
+Kan orsaka överkänslighet för solljus/UV-strålning.
+Introduction
+THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty establishing the European Community,
+Having regard to the Treaty on the accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic to the European Union (1) (hereinafter referred to as the 'Treaty of Accession'), and in particular Article 2(3) thereof,
+Having regard to the Act of Accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded (2) (hereinafter referred to as the 'Act of Accession'), and in particular Article 57 thereof,
+Having regard to the proposal from the Commission,
+Whereas:
+
+(1) For certain acts which remain valid beyond 1 May 2004 and require adaptation by reason of accession, the necessary adaptations were not provided for in the Act of Accession, or were provided for but need further adaptation. All these adaptations need to be adopted before accession so as to be applicable as from accession. (2) Pursuant to Article 57(2) of the Act of Accession, such adaptations are to be adopted by the Council in all cases where the Council alone or jointly with the European Parliament adopted the original act. (3) Directives 1999/45/EC (3), 2002/83/EC (4), 2003/37/EC (5) and 2003/59/EC (6) of the European Parliament and of the Council and Council Directives 77/388/EEC (7), 91/414/EEC (8), 96/26/EC (9), 2003/48/EC (10) and 2003/49/EC (11) should therefore be amended accordingly,
+HAS ADOPTED THIS DIRECTIVE:
+recital 3
+(3) Directives 1999/45/EC (3), 2002/83/EC (4), 2003/37/EC (5) and 2003/59/EC (6) of the European Parliament and of the Council and Council Directives 77/388/EEC (7), 91/414/EEC (8), 96/26/EC (9), 2003/48/EC (10) and 2003/49/EC (11) should therefore be amended accordingly,
+HAS ADOPTED THIS DIRECTIVE:
+recital 1
+(1) For certain acts which remain valid beyond 1 May 2004 and require adaptation by reason of accession, the necessary adaptations were not provided for in the Act of Accession, or were provided for but need further adaptation.
+
+All these adaptations need to be adopted before accession so as to be applicable as from accession.
+citation
+THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty establishing the European Community,
+Having regard to the Treaty on the accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic to the European Union (1) (hereinafter referred to as the 'Treaty of Accession'), and in particular Article 2(3) thereof,
+Having regard to the Act of Accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded (2) (hereinafter referred to as the 'Act of Accession'), and in particular Article 57 thereof,
+Having regard to the proposal from the Commission,
+Whereas:
+SV
+:
+Kan orsaka överkänslighet för solljus/UV-strålning.
+
+RSh 3
+ES
+:
+El contacto con los vapores provoca quemaduras de la piel y de los ojos; el contacto con el producto líquido provoca congelación. CS
+:
+Při styku s parami způsobuje poleptání kůže a očí a při styku s kapalinou způsobuje omrzliny. DA
+:
+Kontakt med dampe giver ætsninger på hud og øjne, og kontakt med væske giver forfrysninger. DE
+:
+Kontakt mit Dämpfen verursacht Verätzungen an Haut und Augen und Kontakt mit der Flüssigkeit verursacht Erfrierungen. ET
+:
+Kokkupuude auruga põhjustab põletushaavu nahale ja silmadele ning kokkupuude vedelikuga põhjustab külmumist. EL
+:
+Οι ατμοί μπορεί να προκαλέσουν εγκαύματα στο δέρμα και στα μάτια·η επαφή με το υγρό μπορεί να προκαλέσει κρυοπαγήματα. EN
+:
+Contact with vapour causes burns to skin and eyes and contact with liquid causes freezing. FR
+:
+Le contact avec les vapeurs peut provoquer des brûlures de la peau et des yeux; le contact avec le gaz liquide peut causer des engelures. IT
+:
+Il contatto con il vapore può causare ustioni della pelle e bruciori agli occhi; il contatto con il liquido può causare congelamento. LV
+:
+Saskare ar tvaikiem izraisa ādas un acu apdegumus un saskare ar šķidrumu izraisa apsaldējumus. LT
+:
+Garai sukelia odos ir akių nudegimą, skystis- nušalimą. HU
+:
+Az anyag gőzével való érintkezés a bőr és a szem égési sérülését okozhatja, illetve a folyadékkal való érintkezés fagyást okozhat. MT
+:
+Kuntatt mal-fwar jikkawża ħruq fil-ġilda u fl-għajnejn filwaqt li kuntatt mal-likwidu jikkawża iffriżar. NL
+:
+Contact met de damp veroorzaakt brandwonden aan huid en ogen; contact met de vloeistof veroorzaakt bevriezing. PL
+:
+Kontakt z oparami powoduje poparzenia skóry i oczu, kontakt z cieczą powoduje zamarzanie. PT
+:
+O contacto com vapores do produto provoca queimaduras na pele e nos olhos; o contacto com o produto líquido provoca congelação. SK
+:
+Pri kontakte s parou spôsobuje popáleniny pokožky a očí a kontakt s kvapalinou spôsobuje omrzliny. SL
+:
+Stik s hlapi povzroča opekline kože in oči, stik s tekočino povzroča ozebline. FI
+:
+Kosketus höyryyn voi aiheuttaa palovammoja iholle ja silmiin ja kosketus nesteeseen paleltumavammoja. SV
+:
+Kontakt med ångor orsakar frätskador på hud och ögon, kontakt med vätska orsakar förfrysningsskador.'. (b) Point 1 in Annex V is replaced by the following: '1. General provisions
+All plant-protection products should be labelled with the following phrase, which should be supplemented by the text in parentheses, as appropriate: SP 1
+ES
+:
+No contaminar el agua con el producto ni con su envase. [No limpiar el equipo de aplicación del producto cerca de aguas superficiales/Evítese la contaminación a través de los sistemas de evacuación de aguas de las explotaciones o de los caminos.]
+CS
+:
+Neznečišťujte vody přípravkem nebo jeho obalem. (Nečistěte aplikační zařízení v blízkosti povrchových vod/Zabraňte kontaminaci vod splachem z farem a z cest). DA
+:
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. [Rens ikke sprøjteudstyr nær overfladevand/Undgå forurening via dræn fra gårdspladser og veje]. DE
+:
+Mittel und/oder dessen Behälter nicht in Gewässer gelangen lassen. (Ausbringungsgeräte nicht in unmittelbarer Nähe von Oberflächengewässern reinigen/Indirekte Einträge über Hof- und Straßenabläufe verhindern.)
+ET
+:
+Vältida vahendi või selle pakendi vette sattumist (Seadmeid pinnavee lähedal mitte puhastada/Vältida saastamist läbi lauda ja teede drenaazhide). EL
+:
+Μην μολύνετε το νερό με το προϊόν ή τη συσκευασία του. [Να μην πλένετε τον εξοπλισμό εφαρμογής κοντά σε επιφανειακά ύδατα/Να αποφευχθεί η μόλυνση μέσω των συστημάτων αποχέτευσης από τις λιθόστρωτες επιφάνειες και τους δρόμους.]
+EN
+:
+Do not contaminate water with the product or its container (Do not clean application equipment near surface water/Avoid contamination via drains from farmyards and roads). FR
+:
+Ne pas polluer l'eau avec le produit ou son emballage. [Ne pas nettoyer le matériel d'application près des eaux de surface./Éviter la contamination via les systèmes d'évacuation des eaux à partir des cours de ferme ou des routes.]
+IT
+:
+Non contaminare l'acqua con il prodotto o il suo contenitore. [Non pulire il materiale d'applicazione in prossimità delle acque di superficie./Evitare la contaminazione attraverso i sistemi di scolo delle acque dalle aziende agricole e dalle strade.]
+LV
+:
+Nepiesārņot ūdeni ar augu aizsardzības līdzekli un tā iepakojumu/netīrīt smidzināšanas tehniku ūdenstilpju un ūdensteču tuvumā/izsargāties no piesārņošanas caur drenāžu no pagalmiem un ceļiem. LT
+:
+Neužteršti vandens augalų apsaugos produktu ar jo pakuote (Neplauti purškimo įrenginių šalia paviršinio vandens telkinių/vengti taršos per drenažą iš sodybų ar nuo kelių). HU
+:
+A termékkel vagy annak tartályával ne szennyezze a vizeket. (A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében/kerülje a gazdaságban vagy az utakon lévő vízelvezetőkön keresztül való szennyeződést). MT
+:
+Tikkontaminax ilma bil-prodott jew il-kontenitur tiegħu (Tnaddafx apparat li jintuża għall-applikazzjoni qrib ilma tax-xita/Ara li ma jkunx hemm kontaminazzjoni minn btieħi u toroq). NL
+:
+Zorg ervoor dat u met het product of zijn verpakking geen water verontreinigt. [Reinig de apparatuur niet in de buurt van oppervlaktewater/Zorg ervoor dat het water niet via de afvoer van erven of wegen kan worden verontreinigd.]
+PL
+:
+Nie zanieczyszczać wód produktem lub jego opakowaniem (Nie myć aparatury w pobliżu wód powierzchniowych/Unikać zanieczyszczania wód poprzez rowy odwadniające z gospodarstw i dróg). PT
+:
+Não poluir a água com este produto ou com a sua embalagem. [Não limpar o equipamento de aplicação perto de águas de superfície./Evitar contaminações pelos sistemas de evacuação de águas das explorações agrícolas e estradas.]
+SK
+:
+Neznečisťujte vodu prípravkom alebo jeho obalom (Nečistite aplikačné zariadenie v blízkosti povrchových vôd/Zabráňte kontaminácii prostredníctvom odtokových kanálov z poľnohospodárskych dvorov a vozoviek). SL
+:
+S sredstvom ali njegovo embalažo ne onesnaževati vode. (Naprav za nanašanje ne čistiti ali izplakovati v bližini površinskih voda./Preprečiti onesnaženje preko drenažnih in odtočnih jarkov na kmetijskih zemljiščih in cestah.)
+FI
+:
+Älä saastuta vettä tuotteella tai sen pakkauksella. (Älä puhdista levityslaitteita pintaveden lähettyvillä./Vältä saastumista piha- ja maantieojien kautta.)
+SV
+:
+Förorena inte vatten med produkten eller dess behållare. (Rengör inte sprututrustning i närheten av vattendrag/Undvik förorening via avrinning från gårdsplaner och vägar.)'. (c) Point 2.1 in Annex V is replaced by the following: '2.1. Safety precautions for operators (SPo)
+General provisions 1. Member States may identify suitable personal protective equipment for operators and prescribe specific elements of this equipment (e.g. coveralls, apron, gloves, sturdy shoes, rubber boots, face protection, face shield, tightly fitting glasses, hat, hood or respirator of a specified type). Such supplementary safety precautions are without prejudice to the standard phrases applicable according to Directive 1999/45/EC. 2. Member States may further identify the specific tasks which require particular protective equipment, such as mixing, loading or handling the undiluted product, applying or spraying the diluted product, handling recently treated materials like plants or soil or entering recently treated areas. 3. Member States may add specifications of engineering controls, such as: —
+a closed transfer system must be used when transferring the pesticide from the product container to the spray tank,
+—
+the operator must work within a closed cabin (with an air conditioning/air filtration system) during spraying,
+—
+engineering controls may replace personal protective equipment if they provide an equal or higher standard of protection.
+—
+a closed transfer system must be used when transferring the pesticide from the product container to the spray tank,
+—
+the operator must work within a closed cabin (with an air conditioning/air filtration system) during spraying,
+—
+engineering controls may replace personal protective equipment if they provide an equal or higher standard of protection.
+
+Specific provisions
+SPo 1
+ES
+:
+En caso de contacto con la piel, elimínese primero el producto con un paño seco y después lávese la piel con agua abundante. CS
+:
+Po zasažení kůže přípravek nejdříve odstraňte pomocí suché látky a poté kůži opláchněte velkým množstvím vody. DA
+:
+Efter kontakt med huden, fjern først produktet med en tør klud og vask derefter med rigeligt vand. DE
+: Nach Kontakt mit der Haut zuerst das Mittel mit einem trockenen Tuch entfernen und dann die Haut mit reichlich Wasser abspülen. ET
+:
+Nahaga kokkupuutel kõigepealt eemaldada vahend kuiva lapiga ning seejärel pesta nahka rohke veega. EL
+:
+Ύστερα από επαφή με το δέρμα, αφαιρέστε πρώτα το προϊόν με ένα στεγνό πανί και στη συνέχεια ξεπλύνετε το δέρμα με άφθονο νερό. EN
+:
+After contact with skin, first remove product with a dry cloth and then wash the skin with plenty of water. FR
+:
+Après contact avec la peau, éliminer d'abord le produit avec un chiffon sec, puis laver la peau abondamment à l'eau. IT
+:
+Dopo il contatto con la pelle, rimuovere il prodotto con un panno asciutto e quindi lavare abbondantemente con acqua. LV
+:
+Pēc saskares ar ādu, vispirms notīrīt augu aizsardzības līdzekli no ādas ar sausu drānu un pēc tam mazgāt ādu ar lielu ūdens daudzumu. LT
+:
+Patekus ant odos, pirmiausia nuvalyti sausu audiniu, po to gerai nuplauti vandeniu. HU
+:
+Bőrrel való érintkezés esetén először száraz ruhával távolítsa el a terméket, majd a szennyeződött bőrt bő vízzel mossa le. MT
+:
+Wara kuntatt mal-ġilda, l-ewwel neħħi l-prodott b'xoqqa niexfa u mbgħad aħsel il-ġilda b'ħafna ilma. NL
+:
+Na contact met de huid moet u eerst het gewasbeschermingsmiddel met een droge doek verwijderen en daarna de huid met veel water wassen. PL
+:
+Po kontakcie ze skórą najpierw usunąć produkt suchą szmatką, a następnie przemyć skórę dużą ilością wody. PT
+:
+Em caso de contacto com a pele, remover primeiro o produto com um pano seco e, em seguida, lavar a pele com muita água. SK
+:
+Po kontakte s pokožkou najskôr odstráňte prípravok suchou tkaninou a potom opláchnite veľkým množstvom vody. SL
+: Ob stiku s kožo odstraniti sredstvo s suho krpo in sprati kožo z obilo vode. FI
+:
+Ihokosketuksen jälkeen tuote pyyhitään aluksi pois kuivalla kankaalla ja sitten iho pestään runsaalla vedellä. SV
+:
+Efter kontakt med huden, avlägsna först produkten med en torr trasa och tvätta sedan med mycket vatten. SPo 2
+ES
+:
+Lávese toda la ropa de protección después de usarla. CS
+:
+Veškerý ochranný oděv po použití vyperte. DA
+:
+Vask alle personlige værnemidler efter brug. DE
+:
+Die gesamte Schutzkleidung muss nach Gebrauch gewaschen werden. ET
+:
+Peale kasutamist kogu kaitseriietus pesta. EL
+:
+Ξεπλύνετε όλες τις προστατευτικές ενδυμασίες μετά τη χρήση. EN
+:
+Wash all protective clothing after use. FR
+:
+Laver tous les équipements de protection après utilisation. IT
+:
+Lavare tutto l'equipaggiamento di protezione dopo l'impiego. LV
+:
+Pēc lietošanas izmazgāt visu aizsargtērpu. LT
+:
+Po darbo išskalbti visus apsauginius drabužius. HU
+:
+Használat után minden védőruházatot ki kell mosni. MT
+:
+Aħsel l-ilbies protettiv wara li-tuża. NL
+:
+Was alle beschermende kleding na gebruik. PL
+:
+Uprać odzież ochronną po użyciu. PT
+:
+Depois da utilização do produto, lavar todo o vestuário de protecção. SK
+:
+Ochranný odev po aplikácii očistite. SL
+:
+Po uporabi oprati vso zaščitno obleko. FI
+:
+Kaikki suojavaatteet pestävä käytön jälkeen. SV
+:
+Tvätta alla skyddskläder efter användning. SPo 3
+ES
+:
+Tras el inicio de la combustión del producto, abandónese inmediatamente la zona tratada sin inhalar el humo. CS
+:
+Po vznícení přípravku nevdechujte kouř a ihned opusťte ošetřovaný prostor. DA
+:
+Efter antænding af produktet, undgå at indånde røgen og forlad det behandlede område øjeblikkeligt. DE
+:
+Nach Anzünden des Mittels Rauch nicht einatmen und die behandelte Fläche sofort verlassen. ET
+:
+Peale vahendi süttimist suitsu mitte sisse hingata ning käideldud alalt otsekohe lahkuda. EL
+:
+Μετά την ανάφλεξη του προϊόντος μην εισπνεύσετε τον καπνό και απομακρυνθείτε αμέσως από την περιοχή χρήσης. EN
+:
+After igniting the product, do not inhale smoke and leave the treated area immediately. FR
+:
+Après déclenchement de la fumigation, ne pas inhaler la fumée et quitter la zone traitée immédiatement. IT
+:
+Una volta iniziata la combustione, non inalare il fumo e abbandonare immediatamente la zona trattata. LV
+:
+Pēc augu aizsardzības līdzekļa aizdedzināšanas, neieelpot dūmus un nekavējoties atstāt apstrādāto platību. LT
+:
+Užsidegus neįkvėpti dūmų ir nedelsiant palikti apdorotą plotą. HU
+:
+A termék meggyújtása után óvakodjon a keletkező füst belélegzésétől, és azonnal hagyja el a kezelt területet. MT
+:
+Wara li tqabbad il-prodott, tiblax id-duħħan u warrab minnufih mill-post li jkun ġie ittrattat. NL
+:
+Nadat u het product hebt aangestoken, mag u de rook niet inademen en moet u de behandelde ruimte onmiddellijk verlaten. PL
+:
+Po zapaleniu produktu nie wdychać dymu i niezwłocznie opuścić obszar poddany zabiegowi. PT
+:
+Depois de iniciada a fumigação do produto, não inalar os fumos e sair imediatamente da zona em tratamento. SK
+:
+Po zapálení prípravku, nevdychujte dym a okamžite opustite ošetrovaný priestor. SL
+:
+Po zažigu sredstva ne vdihavati dima in takoj zapustiti tretirano območje. FI
+:
+Tuotteen syttyessä vältettävä savun hengittämistä ja poistuttava käsitellyltä alueelta viipymättä. SV
+:
+När produkten antänts, andas inte in röken och lämna det behandlade området genast. SPo 4
+ES
+: El recipiente debe abrirse al aire libre y en tiempo seco. CS
+:
+Obal s přípravkem musí být otevřen ve venkovním prostředí a za sucha. DA
+:
+Beholderen skal åbnes udendørs og under tørre forhold. DE
+:
+Der Behälters muss im Freien und Trockenen geöffnet werden. ET
+:
+Pakend tuleb avada õues ning kuivades tingimustes. EL
+:
+Το δοχείο πρέπει να ανοιχθεί στο ύπαιθρο και σε συνθήκες ξηρασίας. EN
+:
+The container must be opened outdoors and in dry conditions. FR
+:
+L'emballage doit être ouvert à l'extérieur par temps sec.
+IT
+:
+L'imballaggio deve essere aperto all'esterno e in condizioni di tempo secco. LV
+:
+Iepakojumu atvērt ārpus telpām un sausos apstākļos. LT
+:
+Pakuotę atidaryti lauke, esant sausoms oro sąlygoms. HU
+:
+A tartályt csak a szabad levegőn, száraz időben lehet kinyitni. MT
+:
+Il-kontenitur għandu jinfetaħ f'ambjent miftuħ u xott. NL
+:
+De verpakking moet buiten, in droge omstandigheden, worden geopend. PL
+:
+Opakowanie otwierać na zewnątrz i w suchych warunkach. PT
+:
+Abrir a embalagem ao ar livre e com tempo seco. SK
+:
+Nádobu otvárajte vonku a za suchého počasia. SL
+:
+Embalažo odpreti na prostem in v suhih razmerah. FI
+:
+Pakkaus avattava ulkona kuivissa olosuhteissa. SV
+:
+Behållaren måste öppnas utomhus och under torra förhållanden. SPo 5
+ES
+:
+Ventilar las zonas/los invernaderos tratados [bien/
+durante un tiempo especificado
+/hasta que se haya secado la pulverización] antes de volver a entrar. CS
+:
+Před opětovným vstupem ošetřené prostory/skleníky [důkladně/
+uveďte dobu
+/do zaschnutí postřikového nánosu] vyvětrejte. DA
+:
+De behandlede områder/drivhuse ventileres [grundigt/
+eller angivelse af tid
+/indtil sprøjtemidlet er tørret], før man igen går ind i dem. DE
+:
+Vor dem Wiederbetreten ist die behandelte Fläche/das Gewächshaus (gründlich/
+oder Zeit angeben
+/bis zur Abtrocknung des Spritzbelages) zu lüften. ET
+:
+Õhutada käideldud alad/põhjalikult kasvuhooned/
+määratletud aja jooksul
+/enne uuesti sisenemist kuni pihustatud vahendi kuivamiseni. EL
+:
+Να αερίσετε τους χώρους/τα θερμοκήπια όπου χρησιμοποιήθηκαν φυτοφάρμακα [πλήρως/
+ή να προσδιοριστεί η χρονική περίοδος
+/μέχρι να στεγνώσει το προϊόν] πριν ξαναμπείτε.
+EL
+:
+Να αερίσετε τους χώρους/τα θερμοκήπια όπου χρησιμοποιήθηκαν φυτοφάρμακα [πλήρως/
+ή να προσδιοριστεί η χρονική περίοδος
+/μέχρι να στεγνώσει το προϊόν] πριν ξαναμπείτε.
+
+EN
+:
+Ventilate treated areas/greenhouses thoroughly/
+time to be specified
+/until spray has dried before re-entry. FR
+:
+Ventiler [à fond/
+ou durée à précise
+r/jusqu'au séchage de la pulvérisation] les zones/serres traitées avant d'y accéder. IT
+:
+Ventilare [a fondo/
+per una durata da specificare
+/fino all'essiccazione dello spray] le zone serre trattate prima di accedervi. LV
+:
+Pirms atgriešanās rūpīgi vēdināt apstrādātās platības/siltumnīcas (
+norāda laiku
+) kamēr izsmidzinātais šķidrums nožuvis. LT
+:
+Gerai išvėdinti apdorotus plotus/šiltnamius (
+vėdinimo laikas turi būti nurodytas
+). Įeiti į apdorotus plotus leidžiama tik visiškai jiems išdžiūvus. HU
+:
+A kezelt területet/üvegházakat [alaposan/
+az előírt időn át
+/a permet felszáradásáig] szellőztesse az oda való visszatérés előtt. MT
+:
+Ħalli l-arja tgħaddi minn dawk il-postijiet/serer li ġew ittrattati sew/
+speċifika t-tul ta' ħin
+/sakemm jinxef il-bexx qabel ma terġa' tidħol. NL
+:
+Voordat u opnieuw in behandelde ruimten/kassen binnengaat, moet u die [grondig ventileren/gedurende (
+geef de periode aan
+) ventileren/ventileren tot de sproeistof is opgedroogd]. PL
+:
+Dokładnie wietrzyć obszar poddany zabiegowi/szklarnie/
+przez określony czas
+/Przed ponownym wejściem poczekać do wyschnięcia cieczy. PT
+:
+Arejar [bem] os locais/estufas tratados [durante (
+neste caso, precisar o período
+)/até à secagem do pulverizado] antes de neles voltar a entrar. SK
+:
+Pred ďalším vstupom dôkladne vyvetrajte ošetrovaný priestor/
+skleník tak
+, aby rozprášený roztok prípravku zaschol/uveďte potrebný čas/. SL
+:
+Pred ponovnim vstopom temeljito zračiti tretirane površine/rastlinjake/
+določi se čas
+/dokler se nanešeno sredstvo ne posuši. FI
+:
+Käsitellyt alueet/kasvihuoneet/käsiteltyjä alueita/kasvihuoneita tuuletettava (perusteellisesti/
+tai täsmennetään tuuletusaika
+/kunnes tuote on kuivunut) ennen sinne palaamista. SV
+:
+Vädra (omsorgsfullt/
+eller ange tidsperiod
+/tills produkten torkat) före vistelse i behandlade utrymmen/växthus.'. (d) Point 2.2 in Annex V is replaced by the following: '2.2. Safety precautions related to the environment (SPe)
+SPe 1
+ES
+:
+Para proteger [las aguas subterráneas/los organismos del suelo], no aplicar este producto ni ningún otro que contenga 
+(precísese la sustancia o la familia de sustancias, según corresponda)
+ más de 
+(indíquese el tiempo o la frecuencia)
+. CS
+: Za účelem ochrany podzemních vod/půdních organismů neaplikujte tento ani žádný jiný přípravek obsahující 
+(uveďte účinnou látku nebo popřípadě skupinu účinných látek)
+ déle/více než 
+(uveďte určitou lhůtu nebo četnost aplikací)
+. DA
+:
+For at beskytte [grundvandet/jordorganismer] må dette produkt eller andre produkter, der indeholder 
+(angiv navnet på aktivstoffet eller gruppe af aktivstoffer)
+, kun anvendes/ikke anvendes mere end 
+(angiv tidsperiode eller antal behandlinger)
+. DE
+:
+Zum Schutz von (Grundwasser/Bodenorganismen) das Mittel "…" oder andere … haltige Mittel 
+(Identifizierung des Wirkstoffes oder einer Wirkstoffgruppe)
+ nicht mehr als … 
+(Angabe der Anwendungshäufigkeit in einem bestimmten Zeitraum)
+ anwenden. ET
+:
+Põhjavee/mullaorganismide kaitsmiseks mitte kasutada seda või ükskõik millist muud vahendit, mis sisaldab 
+(määratleda vastavalt toimeaine või aine klass)
+ rohkem kui 
+(periood või määratletav sagedus)
+. EL
+:
+Για να προστατέψετε [τα υπόγεια νερά/τους οργανισμούς στο έδαφος] μην χρησιμοποιείτε αυτό ή οποιοδήποτε άλλο προϊόν που περιέχει 
+(προσδιορίστε τη δραστική ουσία ή την κατηγορία των ουσιών αναλόγως)
+ περισσότερο από 
+(να προσδιοριστεί η χρονική περίοδος ή η συχνότητα)
+. EN
+:
+To protect groundwater/soil organisms do not apply this or any other product containing 
+(identify active substance or class of substances, as appropriate)
+ more than 
+(time period or frequency to be specified)
+. FR
+:
+Pour protéger [les eaux souterraines/les organismes du sol], ne pas appliquer ce produit ou tout autre produit contenant 
+(préciser la substance ou la famille de substances selon le cas)
+ plus de 
+(fréquence à préciser)
+. IT
+:
+Per proteggere [le acque sotterranee/gli organismi del suolo] non applicare questo o altri prodotti contenenti 
+(specificare la sostanza attiva o la classe di sostanze, secondo il caso)
+ più di 
+(indicare la durata o la frequenza)
+. LV
+:
+Lai aizsargātu gruntsūdeni/augsnes organismus, nelietot augu aizsardzības līdzekli "…" vai citu augu aizsardzības līdzekli, kurš satur "…" (norāda darbīgo vielu vai darbīgo vielu grupu)
+ vairāk nekā … 
+(norāda apstrāžu skaitu noteiktā laika periodā)
+. LT
+:
+Siekiant apsaugoti požeminį vandenį/dirvos organizmus nenaudoti šio ar bet kurio kito produkto, kurio sudėtyje yra 
+(nurodyti veikliąją medžiagą ar medžiagų grupę, kaip tinka)
+ dažniau kaip 
+(laikas ar dažnumas turi būti nurodytas)
+. HU
+:
+A talajvíz/a talaj élő szervezeteinek védelme érdekében ezt vagy 
+(a megfelelő hatóanyag vagy anyagcsoport)
+-ot tartalmazó bármilyen más készítményt ne használja 
+(az előírt időtartam/gyakoriság)
+-nál hosszabb ideig/többször. MT
+:
+Sabiex tipproteġi l-ilma tal-pjan/organiżmi fil-ħamrija tapplikax dan il-prodott jew xi prodott ieħor li jkun fih 
+(identifika s-sustanza jew klassi ta' sustanzi attivi kif imiss)
+ iżjed minn 
+(speċifika ż-żmien jew il-frekwenza)
+. NL
+:
+Om [het grondwater/de bodemorganismen] te beschermen mag u dit product of andere producten die 
+(geef naar gelang van het geval de naam van de werkzame stof of van de categorie werkzame stoffen)
+ bevatten, niet langer dan gedurende 
+(geef de tijdsduur aan)
+ gebruiken/ten hoogste 
+(geef de frequentie)
+ gebruiken. PL
+:
+W celu ochrony wód gruntowych/organizmów glebowych nie stosować tego lub żadnego innego produktu zawierającego 
+(określić substancję aktywną lub klasę substancji, kiedy dotyczy)
+ nie dłużej niż 
+(określony czas)
+/nie częściej niż 
+(określona częstotliwość)
+. PT
+:
+Para protecção [das águas subterrâneas/dos organismos do solo], não aplicar este produto ou qualquer outro que contenha 
+(indicar, consoante o caso, a substância activa ou a família de substâncias activas)
+ durante mais de 
+(período a precisar)
+ ou mais do que 
+(frequência a precisar)
+. SK
+:
+Z dôvodu ochrany podzemnej vody nepoužívajte tento alebo iný prípravok obsahujúci 
+(uveďte účinnú látku alebo skupinu účinných látok)
+ dlhšie ako 
+(upresnite obdobie alebo frekvenciu)
+. SL
+:
+Zaradi zaščite podtalnice/talnih organizmov ne uporabljati tega ali drugih sredstev, ki vsebujejo 
+(navede se aktivno snov ali skupino aktivnih snovi)
+ več kot 
+(navede se časovno obdobje ali število tretiranj)
+. FI
+: (Pohjaveden/maaperän eliöiden) suojelemiseksi vältettävä tämän tai minkä tahansa muun tuotteen, joka sisältää 
+(tapauksen mukaan tehoaine tai aineluokka)
+, käyttöä useammin 
+(ajanjakso tai käyttötiheys)
+. SV
+:
+För att skydda (grundvatten/marklevande organismer), använd inte denna produkt eller andra produkter innehållande 
+(ange verksamt ämne eller grupp av ämnen)
+ mer än 
+(ange tidsperiod eller antal behandlingar)
+. SPe 2
+ES
+:
+Para proteger [las aguas subterráneas/los organismos acuáticos], no aplicar en suelos 
+(precísese la situación o el tipo de suelos)
+. CS
+:
+Za účelem ochrany podzemních vod/vodních organismů neaplikujte přípravek na půdách 
+(uveďte druh půdy nebo situaci)
+. DA
+:
+For at beskytte [grundvandet/organismer, der lever i vand] må dette produkt ikke anvendes 
+(på beskrevet jordtype eller under beskrevne forhold)
+. DE
+:
+Zum Schutz von (Grundwasser/Gewässerorganismen) nicht auf 
+(genaue Angabe der Bodenart oder Situation)
+ Böden ausbringen. ET
+:
+Põhjavee/veeorganismide kaitsmiseks mitte kasutada 
+(määratleda pinnasetüüp või olukord)
+. EL
+:
+Για να προστατέψετε [τα υπόγεια νερά/τους υδρόβιους οργανισμούς] μην χρησιμοποιείτε το προϊόν αυτό σε εδάφη 
+(προσδιορίστε τον τύπο του εδάφους ή τις ιδιαίτερες συνθήκες)
+.
+EL
+:
+Για να προστατέψετε [τα υπόγεια νερά/τους υδρόβιους οργανισμούς] μην χρησιμοποιείτε το προϊόν αυτό σε εδάφη 
+(προσδιορίστε τον τύπο του εδάφους ή τις ιδιαίτερες συνθήκες)
+.
+
+EN
+:
+To protect groundwater/aquatic organisms do not apply to 
+(soil type or situation to be specified)
+ soils. FR
+:
+Pour protéger [les eaux souterraines/les organismes aquatiques], ne pas appliquer ce produit sur 
+(type de sol ou situation à préciser)
+. IT
+:
+Per proteggere [le acque sotterranee/gli organismi acquatici] non applicare sul suolo 
+(indicare il tipo di suolo o la situazione)
+. LV
+:
+Lai aizsargātu gruntsūdeņus/ūdens organismus, nelietot 
+(norāda augsnes tipu vai apstākļus)
+ augsnēs. LT
+:
+Siekiant apsaugoti požeminį vandenį/vandens organizmus nenaudoti 
+(nurodyti dirvožemio tipą ar situaciją)
+ dirvožemiuose. HU
+:
+A talajvíz/a vízi szervezetek védelme érdekében 
+(az előírt talajtípus vagy helyzet)
+ talajokra ne használja. MT
+:
+Biex tipproteġi l-ilma tal-pjan/organiżmi ta' l-ilma tapplikax f'ħamrija 
+(speċifika t-tip ta' ħamrija jew is-sitwazzjoni)
+. NL
+:
+Om [het grondwater/in het water levende organismen] te beschermen mag dit product niet worden gebruikt op 
+(benoem het soort bodem of geef een beschrijving ervan)
+ bodems. PL
+:
+W celu ochrony wód gruntowych/organizmów wodnych nie stosować na glebach 
+(określić typ gleby lub warunki glebowe)
+. PT
+:
+Para protecção [das águas subterrâneas/dos organismos aquáticos], não aplicar este produto em solos 
+(precisar a situação ou o tipo de solo)
+. SK
+:
+Z dôvodu ochrany podzemnej vody/vodných organizmov neaplikujte na 
+(upresnite typ pôdy alebo situáciu)
+ pôdu. SL
+:
+Zaradi zaščite podtalnice/vodnih organizmov ne uporabljati na 
+(navede se tip tal ali druge posebne razmere)
+ tleh. FI
+: (Pohjaveden/vesieliöiden) suojelemiseksi ei saa käyttää 
+(täsmennetään maaperätyyppi tai tilanne)
+ maaperään. SV
+:
+För att skydda (grundvatten/vattenlevande organismer), använd inte denna produkt på 
+(ange jordtyp eller markförhållande)
+. SPe 3
+ES
+:
+Para proteger [los organismos acuáticos/las plantas no objetivo/los artrópodos no objetivo/los insectos], respétese sin tratar una banda de seguridad de 
+(indíquese la distancia)
+ hasta [la zona no cultivada/las masas de agua superficial]. CS
+:
+Za účelem ochrany vodních organismů/necílových rostlin/necílových členovců/hmyzu dodržujte neošetřené ochranné pásmo 
+(uveďte vzdálenost)
+ vzhledem k nezemědělské půdě/povrchové vodě. DA
+:
+Må ikke anvendes nærmere end 
+(angiv afstand)
+ fra [vandmiljøet, vandløb, søer m.v./ikke dyrket område] for at beskytte [organismer, der lever i vand/landlevende ikke-målorganismer, vilde planter, insekter og leddyr]. DE
+:
+Zum Schutz von (Gewässerorganismen/Nichtzielpflanzen/Nichtzielarthropoden/Insekten) eine unbehandelte Pufferzone von 
+(genaue Angabe des Abstandes)
+ zu (Nichtkulturland/Oberflächengewässer) einhalten. ET
+:
+Veeorganismide/mittetaimsete sihtliikide/mittesihtlülijalgsete/putukate kaitsmiseks pidada kinni mittepritsitavast puhvervööndist 
+(määratleda kaugus)
+ põllumajanduses mittekasutatavast maast/pinnaseveekogudest. EL
+:
+Για να προστατέψετε [τους υδρόβιους οργανισμούς/μη στοχευόμενα φυτά/μη στοχευόμενα αρθρόποδα/έντομα] να αφήσετε μιαν αψέκαστη ζώνη προστασίας 
+(προσδιορίστε την απόσταση)
+ μέχρι [μη γεωργική γη/σώματα επιφανειακών υδάτων]. EN
+:
+To protect aquatic organisms/non-target plants/non-target arthropods/insects respect an unsprayed buffer zone of 
+(distance to be specified)
+ to non-agricultural land/surface water bodies. FR
+:
+Pour protéger [les organismes aquatiques/les plantes non cibles/les arthropodes non cibles/les insectes], respecter une zone non traitée de 
+(distance à préciser)
+ par rapport à [la zone non cultivée adjacente/aux points d'eau]. IT
+:
+Per proteggere [gli organismi acquatici/gli insetti/le piante non bersaglio/gli artropodi non bersaglio] rispettare una fascia di sicurezza non trattata di 
+(precisare la distanza)
+ da [zona non coltivata/corpi idrici superficiali]. LV
+:
+Lai aizsargātu ūdens organismus/ar lietojumu nesaistītos augus/ar lietojumu nesaistītos posmkājus/kukaiņus, ievērot aizsargjoslu 
+(norāda attālumu)
+ līdz lauksaimniecībā neizmantojamai zemei/ūdenstilpēm un ūdenstecēm. LT
+:
+Siekiant apsaugoti vandens organizmus/netikslinius augalus/netikslinius nariuotakojus/vabzdžius būtina išlaikyti apsaugos zoną 
+(nurodyti atstumą)
+ iki ne žemės ūkio paskirties žemės/paviršinio vandens telkinių. HU
+:
+A vízi szervezetek/nem célzott növények/nem célzott ízeltlábúak/rovarok védelme érdekében a nem mezőgazdasági földterülettől/felszíni vizektől 
+(az előírt távolság)
+ távolságban tartson meg egy nem permetezett biztonsági övezetet. MT
+:
+Sabiex tipproteġi organiżmi ta' l-ilma/pjanti mhux immirati/artropodi/insetti mhux immirati, irrispetta żona konfini ħielsa mill-bexx ta' (speċifika d-distanza)
+ minn art mhix agrikola/għadajjar ta' l-ilma fil-wiċċ. NL
+:
+Om [in het water levende organismen/niet tot de doelsoorten behorende planten/niet tot de doelsoorten behorende geleedpotigen/de insecten] te beschermen mag u in een bufferzone van 
+(geef de afstand aan)
+ rond [niet-landbouwgrond/oppervlaktewater] niet sproeien. PL
+:
+W celu ochrony organizmów wodnych/roślin nie będących obiektem zwalczania/stawonogów/owadów nie będących obiektem zwalczania konieczne jest określenie strefy buforowej w odległości 
+(określona odległość)
+ od terenów nieużytkowanych rolniczo/zbiorników i cieków wodnych. PT
+:
+Para protecção [dos organismos aquáticos/das plantas não visadas/dos insectos/artrópodes não visados], respeitar uma zona não pulverizada de 
+(distância a precisar)
+ em relação [às zonas não cultivadas/às águas de superfície]. SK
+:
+Z dôvodu ochrany vodných organizmov/necielených rastlín/necielených článkonožcov/hmyzu udržiavajte medzi ošetrovanou plochou a neobhospodarovanou zónou/povrchovými vodnými plochami ochranný pás zeme v dĺžke 
+(upresnite dĺžku)
+. SL
+:
+Zaradi zaščite vodnih organizmov/neciljnih rastlin/neciljnih členonožcev/žuželk upoštevati netretiran varnostni pas 
+(navede se razdaljo)
+ do nekmetijske površine/vodne površine. FI
+: (Vesieliöiden/muiden kuin torjuttavien kasvien/muiden kuin torjuttavien niveljalkaisten/hyönteisten) suojelemiseksi (muun kuin maatalousmaan/pintavesialueiden) väliin on jätettävä 
+(täsmennetään etäisyys)
+ ruiskuttamaton suojavyöhyke. SV
+:
+För att skydda (vattenlevande organismer/andra växter än de man avser att bekämpa/andra leddjur än de man avser att bekämpa/insekter), lämna en sprutfri zon på 
+(ange avstånd)
+ till (icke-jordbruksmark/vattendrag). SPe 4
+ES
+:
+Para proteger [los organismos acuáticos/las plantas no objetivo], no aplicar sobre superficies impermeables como el asfalto, el cemento, los adoquines, [las vías del ferrocarril] ni en otras situaciones con elevado riesgo de escorrentía. CS
+:
+Za účelem ochrany vodních organismů/necílových rostlin neaplikujte přípravek na nepropustný povrch, jako je asfalt, beton, dlážděný povrch, železniční trať nebo v jiných případech, kdy hrozí vysoké riziko odplavení. DA
+:
+Må ikke anvendes på befæstede arealer såsom asfalterede, beton-, sten- eller grusbelagte områder og veje [jernbanespor] eller på andre områder, hvorfra der er en stor risiko for run-off til omgivelserne. [For at beskytte organismer, der lever i vand/planter, man ikke ønsker at bekæmpe]. DE
+:
+Zum Schutz von (Gewässerorganismen/Nichtzielpflanzen) nicht auf versiegelten Oberflächen wie Asphalt, Beton, Kopfsteinpflaster (Gleisanlagen) bzw. in anderen Fällen, die ein hohes Abschwemmungsrisiko bergen, ausbringen. ET
+:
+Veeorganismide/mittesihtliikide kaitsmiseks mitte kasutada läbilaskmatutel pindadel nagu näiteks asfalt, betoon, munakivi, raudteerööpad ning muudes oludes, kus on kõrge lekkimisoht. EL
+:
+Για να προστατέψετε [υδρόβιους οργανισμούς/μη στοχευόμενα φυτά] να μην χρησιμοποιείται σε αδιαπέραστες επιφάνειες όπως άσφαλτο, σκυρόδεμα, λιθόστρωτα [σιδηροτροχιές] και άλλες επιφάνειες με υψηλό κίνδυνο απορροής.
+EL
+:
+Για να προστατέψετε [υδρόβιους οργανισμούς/μη στοχευόμενα φυτά] να μην χρησιμοποιείται σε αδιαπέραστες επιφάνειες όπως άσφαλτο, σκυρόδεμα, λιθόστρωτα [σιδηροτροχιές] και άλλες επιφάνειες με υψηλό κίνδυνο απορροής.
+
+EN
+:
+To protect aquatic organisms/non-target plants do not apply on impermeable surfaces such as asphalt, concrete, cobblestones, railway tracks and other situations with a high risk of run-off. FR
+:
+Pour protéger [les organismes aquatiques/les plantes non cibles], ne pas appliquer sur des surfaces imperméables telles que le bitume, le béton, les pavés, [les voies ferrées] et dans toute autre situation où le risque de ruissellement est important. IT
+:
+Per proteggere [gli organismi acquatici/le piante non bersaglio] non applicare su superfici impermeabili quali bitume, cemento, acciottolato, [binari ferroviari] e negli altri casi ad alto rischio di deflusso superficiale. LV
+:
+Lai aizsargātu ūdens organismus/ar lietojumu nesaistītos augus, nelietot augu aizsardzības līdzekli uz necaurlaidīgas virsmas, piemēram, asfalta, betona, bruģa, sliežu ceļiem, un citās vietās ar augstu noteces risku. LT
+:
+Siekiant apsaugoti vandens organizmus/netikslinius augalus nenaudoti ant nepralaidžių paviršių tokių kaip asfaltas, betonas, grindinio akmenys, geležinkelio bėgių ar kitose situacijose, kuriuose didelė nuotėkio tikimybė. HU
+:
+A vízi szervezetek/nem célzott növények védelme érdekében a vizet nem áteresztő felületeken (pl. aszfalt, beton, utcakövezet, vasúti pályák és az elfolyás egyéb veszélye esetén) ne alkalmazza. MT
+:
+Biex tipproteġi organiżmi ta' l-ilma/pjanti mhux immirati tapplikax fuq uċuh impermeabbli bħal l-asfalt, konkrit, ċangaturi, linji tal-ferrovija u sitwazzjonijiet oħra b'riskju kbir ta' skul. NL
+:
+Om [in het water levende organismen/niet tot de doelsoorten behorende planten] te beschermen mag u dit product niet gebruiken op ondoordringbare oppervlakken, zoals asfalt, beton [,/en] kasseien [en spoorlijnen,] of op andere plaatsen waar het product gemakkelijk kan wegstromen. PL
+:
+W celu ochrony organizmów wodnych/roślin nie będących obiektem zwalczania nie stosować na nieprzepuszczalnych powierzchniach, takich jak: asfalt, beton, bruk, torowiska i innych przypadkach, gdy istnieje wysokie ryzyko spływania cieczy. PT
+:
+Para protecção [dos organismos aquáticos/das plantas não visadas], não aplicar este produto em superfícies impermeáveis, como asfalto, betão, empedrados [ou linhas de caminho-de-ferro], nem em qualquer outra situação em que o risco de escorrimentos seja elevado. SK
+:
+Z dôvodu ochrany vodných organizmov/necielených rastlín neaplikujte na nepriepustné povrchy, ako je asfalt, betón, dlažobné kocky, koľajnice a iné povrchy, pri ktorých je zvýšené riziko stekania vody. SL
+:
+Zaradi zaščite vodnih organizmov/neciljnih rastlin ne uporabljati na neprepustnih površinah kot so asfalt, beton, tlak, železniški tiri in drugih površinah, kjer je velika nevarnost odtekanja. FI
+: (Vesieliöiden/muiden kuin torjuttavien kasvien) suojelemiseksi ei saa käyttää läpäisemättömillä pinnoilla, kuten asvaltilla, betonilla, katukivillä, (rautatiekiskoilla) ja muissa tilanteissa, joissa on suuri huuhtoutumisen vaara. SV
+:
+För att skydda (vattenlevande organismer/andra växter än de man avser att bekämpa), använd inte denna produkt på hårdgjorda ytor såsom asfalt, betong, kullersten, (järnvägsspår) och andra ytor med hög risk för avrinning. SPe 5
+ES
+:
+Para proteger [las aves/los mamíferos silvestres], el producto debe incorporarse completamente al suelo; asegurarse de que se incorpora al suelo totalmente al final de los surcos. CS
+:
+Za účelem ochrany ptáků/volně žijících savců musí být přípravek zcela zapraven do půdy; zajistěte, aby byl přípravek zcela zapraven do půdy také na konci výsevních nebo výsadbových řádků. DA
+:
+For at beskytte [fugle/vilde pattedyr] skal produktet omhyggeligt graves ned i jorden. Sørg for, at produktet også er helt tildækket for enden af rækkerne. DE
+:
+Zum Schutz von (Vögeln/wild lebenden Säugetieren) muss das Mittel vollständig in den Boden eingearbeitet werden; es ist sicherzustellen, dass das Mittel auch am Ende der Pflanz- bzw. Saatreihen vollständig in den Boden eingearbeitet wird. ET
+:
+Lindude/metsloomade kaitsmiseks peab vahend täielikult mullaga ühinema; tagada vahendi täielik ühinemine ka ridade lõpus. EL
+:
+Για να προστατέψετε [πουλιά/άγρια θηλαστικά] το προϊόν πρέπει να καλυφθεί πλήρως από το έδαφος. Βεβαιωθείτε πως το προϊόν έχει καλυφθεί πλήρως στις άκρες των αυλακιών. EN
+:
+To protect birds/wild mammals the product must be entirely incorporated in the soil; ensure that the product is also fully incorporated at the end of rows. FR
+:
+Pour protéger [les oiseaux/mammifères sauvages], le produit doit être entièrement incorporé dans le sol; s'assurer que le produit est également incorporé en bout de sillons. IT
+:
+Per proteggere [gli uccelli/i mammiferi selvatici] il prodotto deve essere interamente incorporato nel terreno; assicurarsi che il prodotto sia completamente incorporato in fondo al solco. LV
+:
+Lai aizsargātu putnus/savvaļas zīdītājus, augu aizsardzības līdzekli pilnībā iestrādāt augsnē; nodrošināt līdzekļa pilnīgu iestrādi augsnē arī kultūraugu rindu galos. LT
+:
+Siekiant apsaugoti paukščius/laukinius gyvūnus būtina produktą visiškai įterpti į dirvą, užtikrinti, kad produktas būtų visiškai įterptas vagų gale. HU
+:
+A madarak/vadon élő emlősök védelme érdekében a terméket teljes egészében be kell dolgozni a talajba; ügyeljen arra, hogy az anyag a sorok végén is teljes egészében be legyen dolgozva. MT
+:
+Sabiex tipproteġi għasafar/mammiferi selvaġġi l-prodott għandu jkun inkorporat għal kollox fil-ħamrija; żgura li l-prodott ikun ukoll inkorporat għal kollox f'tarf ir-raddi. NL
+:
+Om [de vogels/de wilde zoogdieren] te beschermen moet het product volledig in de bodem worden ondergewerkt; zorg ervoor dat het product ook aan het voorend is ondergewerkt. PL
+:
+W celu ochrony ptaków/dzikich ssaków produkt musi być całkowicie przykryty glebą; zapewnić że produkt jest również całkowicie przykryty na końcach rzędów. PT
+:
+Para protecção [das aves/dos mamíferos selvagens], incorporar totalmente o produto no solo, incluindo no final dos sulcos. SK
+:
+Z dôvodu ochrany vtákov/divo žijúcich cicavcov sa musí všetok prípravok zakryť pôdou. Presvedčte sa, či je prípravok dobre zakrytý pôdou aj na konci brázdy. SL
+:
+Zaradi zaščite ptic/divjih vrst sesalcev je treba sredstvo popolnoma vdelati v tla; zagotoviti, da je sredstvo v celoti vdelano v tla tudi na koncih vrst. FI
+: (Lintujen/luonnonvaraisten nisäkkäiden) suojelemiseksi tuote on sekoitettava maaperään; varmistettava, että tuote sekoittuu maaperään täysin myös vakojen päässä. SV
+:
+För att skydda (fåglar/vilda däggdjur) måste produkten nedmyllas helt och hållet i jorden; se till att produkten även nedmyllas helt i slutet av raderna. SPe 6
+ES
+:
+Para proteger [las aves/los mamíferos silvestres], recójase todo derrame accidental. CS
+:
+Za účelem ochrany ptáků/volně žijících savců odstraňte rozsypaný nebo rozlitý přípravek. DA
+:
+For at beskytte [fugle/vilde pattedyr] skal alt spildt produkt fjernes. DE
+:
+Zum Schutz von (Vögeln/wild lebenden Säugetieren) muss das verschüttete Mittel beseitigt werden. ET
+:
+Lindude/metsloomade kaitsmiseks kõrvaldada mahavalgunud vahend. EL
+:
+Για να προστατέψετε [πουλιά/άγρια ζώα] μαζέψτε όσο προϊόν έχει χυθεί κατά λάθος. EN
+:
+To protect birds/wild mammals remove spillages. FR
+:
+Pour protéger [les oiseaux/les mammifères sauvages], récupérer tout produit accidentellement répandu. IT
+:
+Per proteggere [gli uccelli/i mammiferi selvatici] recuperare il prodotto fuoriuscito accidentalmente. LV
+:
+Lai aizsargātu putnus/savvaļas zīdītājus, novērst izšļakstīšanos. LT
+:
+Siekiant apsaugoti paukščius/laukinius gyvūnus pašalinti pabiras ar išsiliejusį produktą. HU
+:
+A madarak/vadon élő emlősök védelme érdekében távolítsa el a véletlenül kiömlött anyagot. MT
+:
+Neħħi kull tixrid biex tipproteġi l-għasafar/mammiferi selvaġġi.
+MT
+:
+Neħħi kull tixrid biex tipproteġi l-għasafar/mammiferi selvaġġi.
+
+NL
+:
+Om [de vogels/de wilde zoogdieren] te beschermen moet u gemorst product verwijderen. PL
+:
+W celu ochrony ptaków/dzikich ssaków usuwać rozlany/rozsypany produkt. PT
+:
+Para protecção [das aves/dos mamíferos selvagens], recolher todo o produto derramado. SK
+:
+Z dôvodu ochrany vtákov/divo žijúcich cicavcov odstráňte náhodne rozsypaný prípravok. SL
+:
+Zaradi zaščite ptic/divjih vrst sesalcev odstraniti razsuto sredstvo. FI
+:
+Lintujen/luonnonvaraisten nisäkkäiden) suojelemiseksi ympäristöön vahingossa levinnyt tuote poistettava. SV
+:
+För att skydda (fåglar/vilda däggdjur), avlägsna spill. SPe 7
+ES
+:
+No aplicar durante el período de reproducción de las aves. CS
+:
+Neaplikujte v době hnízdění ptáků. DA
+:
+Må ikke anvendes i fuglenes yngletid. DE
+:
+Nicht während der Vogelbrutzeit anwenden. ET
+:
+Mitte kasutada lindude pesitsusperioodil. EL
+:
+Να μην χρησιμοποιείται κατά την περίοδο αναπαραγωγής των πουλιών. EN
+:
+Do not apply during the bird breeding period. FR
+:
+Ne pas appliquer durant la période de reproduction des oiseaux. IT
+:
+Non applicare durante il periodo di riproduzione degli uccelli. LV
+:
+Nelietot putnu vairošanās periodā. LT
+:
+Nenaudoti paukščių veisimosi laikotarpiu. HU
+:
+A madarak költési időszaka alatt nem alkalmazható. MT
+:
+Tapplikax matul it-tberrik ta' l-għasafar. NL
+:
+Niet gebruiken tijdens de vogelbroedperiode. PL
+:
+Nie stosować w okresie rozrodczym ptaków. PT
+:
+Não aplicar este produto durante o período de reprodução das aves. SK
+:
+Neaplikujte v čase rozmnožovania vtákov. SL
+:
+Ne tretirati v času valjenja ptic. FI
+:
+Ei saa käyttää lintujen lisääntymisaikaan. SV
+:
+Använd inte denna produkt under fåglarnas häckningsperiod. SPe 8
+ES
+:
+Peligroso para las abejas./Para proteger las abejas y otros insectos polinizadores, no aplicar durante la floración de los cultivos./No utilizar donde haya abejas en pecoreo activo./Retírense o cúbranse las colmenas durante el tratamiento y durante 
+(indíquese el tiempo)
+ después del mismo./No aplicar cuando las malas hierbas estén en floración./Elimínense las malas hierbas antes de su floración./No aplicar antes de 
+(indíquese el tiempo)
+. CS
+:
+Nebezpečný pro včely./Za účelem ochrany včel a jiných hmyzích opylovačů neaplikujte na kvetoucí plodiny./Neaplikujte na místech, na nichž jsou včely aktivní při vyhledávání potravy./Úly musí být během aplikace a po aplikaci 
+(uveďte dobu)
+ přemístěny nebo zakryty./Neaplikujte, jestliže se na pozemku vyskytují kvetoucí plevele./Plevele odstraňte před jejich kvetením./Neaplikujte před 
+(uveďte dobu)
+. DA
+: Farligt for bier./For at beskytte bier og andre bestøvende insekter må dette produkt ikke anvendes i blomstrende afgrøder./Må ikke anvendes i biernes flyvetid./Tildæk eller flyt bikuber i behandlingsperioden og i 
+(nævn antal timer/dage)
+ efter behandlingen./Må ikke anvendes i nærheden af blomstrende ukrudt./Fjern ukrudt inden blomstring./Må ikke anvendes inden 
+(tidspunkt)
+. DE
+:
+Bienengefährlich./Zum Schutz von Bienen und anderen bestäubenden Insekten nicht auf blühende Kulturen aufbringen./Nicht an Stellen anwenden, an denen Bienen aktiv auf Futtersuche sind./Bienenstöcke müssen während der Anwendung und für 
+(Angabe der Zeit)
+ nach der Behandlung entfernt oder abgedeckt werden./Nicht in Anwesenheit von blühenden Unkräutern anwenden./Unkräuter müssen vor dem Blühen entfernt werden./Nicht vor 
+(Angabe der Zeit)
+ anwenden. ET
+:
+Mesilastele ohtlik/Mesilaste ning muude tolmlevate putukate kaitsmiseks mitte kasutada põllumajanduskultuuride õitsemise ajal/Mitte kasutada aktiivsel korjealal/Kasutamise ajaks ning 
+(määratleda aeg)
+ peale töötlemist tarud eemaldada või katta kinn/Õitseva umbrohu olemasolu korral mitre kasutada/Umbrohi enne õitsemist eemaldada/Mitte kasutada enne 
+(määratleda aeg)
+. EL
+:
+Επικίνδυνο για τις μέλισσες. Για να προστατέψετε τις μέλισσες και άλλα έντομα επικονίασης μην χρησιμοποιείτε το προϊόν σε καλλιέργειες κατά την ανθοφορία./Μην χρησιμοποιείτε το προϊόν κατά την περίοδο που οι μέλισσες συλλέγουν γύρη./Απομακρύνετε ή καλύψτε τις κυψέλες κατά τη χρήση του προϊόντος και επί 
+(αναφέρατε το χρόνο)
+ μετά τη χρήση./Μην χρησιμοποιείτε το προϊόν κατά την περίοδο ανθοφορίας ζιζανίων./Απομακρύνετε τα ζιζάνια πριν από την ανθοφορία./Μην το χρησιμοποιείτε πριν 
+(αναφέρατε το χρόνο)
+. EN
+:
+Dangerous to bees./To protect bees and other pollinating insects do not apply to crop plants when in flower./Do not use where bees are actively foraging./Remove or cover beehives during application and for 
+(state time)
+ after treatment./Do not apply when flowering weeds are present./Remove weeds before flowering./Do not apply before 
+(state time)
+. FR
+:
+Dangereux pour les abeilles./Pour protéger les abeilles et autres insectes pollinisateurs, ne pas appliquer durant la floraison./Ne pas utiliser en présence d'abeilles./Retirer ou couvrir les ruches pendant l'application et 
+(indiquer la période)
+ après traitement./Ne pas appliquer lorsque des adventices en fleur sont présentes./Enlever les adventices avant leur floraison./Ne pas appliquer avant 
+(indiquer la date)
+. IT
+:
+Pericoloso per le api./Per proteggere le api e altri insetti impollinatori non applicare alle colture al momento della fioritura./Non utilizzare quando le api sono in attività./Rimuovere o coprire gli alveari durante l'applicazione e per 
+(indicare il periodo)
+ dopo il trattamento./Non applicare in presenza di piante infestanti in fiore./Eliminare le piante infestanti prima della fioritura./Non applicare prima di 
+(indicare il periodo)
+. LV
+:
+Bīstams bitēm. Lai aizsargātu bites un citus apputeksnētājus, nelietot kultūraugu ziedēšanas laikā. Nelietot vietās, kur bites aktīvi meklē barību. Bišu stropus pārvietot vai pārsegt augu aizsardzības līdzekļa smidzināšanas laikā un … 
+(norāda uz cik ilgu laiku)
+ pēc smidzināšanas darba beigām. Nelietot platībās, kurās ir ziedošas nezāles. Apkarot nezāles pirms ziedēšanas. Nelietot pirms … 
+(norāda laiku)
+. LT
+:
+Pavojingas bitėms/Siekiant apsaugoti bites ir kitus apdulkinančius vabzdžius nenaudoti augalų žydėjimo metu/Nenaudoti bičių aktyvaus maitinimosi metu/Pašalinti ar uždengti bičių avilius purškimo metu ar 
+(nurodyti laiką)
+ po purškimo./Nenaudoti kai yra žydinčių piktžolių/Sunaikinti piktžoles iki jų žydėjimo/Nenaudoti iki 
+(nurodyti laiką)
+. HU
+:
+Méhekre veszélyes/A méhek és egyéb beporzást végző rovarok védelme érdekében virágzási időszakban nem alkalmazható/Méhek aktív táplálékszerzési időszaka idején nem alkalmazható/Az alkalmazás idejére és a kezelés után 
+(megadott időszak)
+ ideig távolítsa el vagy fedje be a méhkaptárakat/Virágzó gyomnövények jelenléte esetén nem alkalmazható/Virágzás előtt távolítsa el a gyomnövényeket/
+(megadott időpont)
+ előtt nem alkalmazható. MT
+:
+Perikoluż għan-naħal/Sabiex tħares in-naħal u insetti oħra tad-dakra tapplikax fuq uċuħ tar-raba' meta jkunu bil-fjur/Tużax fejn in-naħal ikun qed jirgħa sew/Neħħi jew agħtti l-ġarar tan-naħal waqt l-applikazzjoni u għal 
+(speċifika l-ħin)
+ wara t-trattament/Tapplikax meta jkun hemm ħaxix ħażin bil-fjur/Neħħi l-ħaxix ħażin qabel ma jwarrad/Tapplikax qabel 
+(speċifika l-ħin)
+. NL
+:
+Gevaarlijk voor bijen./Om de bijen en andere bestuivende insecten te beschermen mag u dit product niet gebruiken op in bloei staande gewassen./Gebruik dit product niet op plaatsen waar bijen actief naar voedsel zoeken./Verwijder of bedek bijenkorven tijdens het gebruik van het product en gedurende 
+(geef de tijdsduur aan)
+ na de behandeling./Gebruik dit product niet in de buurt van in bloei staand onkruid./Verwijder onkruid voordat het bloeit./Gebruik dit product niet vóór 
+(geef de datum of de periode aan)
+. PL
+:
+PL
+:
+
+[Niebezpieczne dla pszczół/W celu ochrony pszczół i innych owadów zapylających nie stosować na rośliny uprawne w czasie kwitnienia/Nie używać w miejscach gdzie pszczoły mają pożytek/Usuwać lub przykrywać ule podczas zabiegu i przez 
+(określić czas)
+ po zabiegu/Nie stosować kiedy występują kwitnące chwasty/Usuwać chwasty przed kwitnieniem/Nie stosować przed 
+(określić czas)
+. PT
+:
+Perigoso para as abelhas./Para protecção das abelhas e de outros insectos polinizadores, não aplicar este produto durante a floração das culturas./Não utilizar este produto durante o período de presença das abelhas nos campos./Remover ou cobrir as colmeias durante a aplicação do produto e durante 
+(indicar o período)
+ após o tratamento./Não aplicar este produto na presença de infestantes em floração./Remover as infestantes antes da floração./Não aplicar antes de 
+(critério temporal a precisar)
+. SK
+:
+Nebezpečný pre včely/Z dôvodu ochrany včiel a iného opeľujúceho hmyzu neaplikujte na plodiny v čase kvetu/Nepoužívajte, keď sa v okolí nachádzajú včely/Počas aplikácie a 
+(uveďte čas)
+ po aplikácii úle prikryte alebo presuňte na iné miesto/Neaplikujte, keď sa v okolí nachádzajú kvitnúce buriny/Odstráňte buriny pred kvitnutím/Neaplikujte pred 
+(uveďte čas)
+. SL
+:
+Nevarno za čebele./Zaradi zaščite čebel in drugih žuželk opraševalcev ne tretirati rastlin med cvetenjem./Ne tretirati v času paše čebel./Med tretiranjem in 
+(navede se časovno obdobje)
+ po tretiranju odstraniti ali pokriti čebelje panje./Ne tretirati v prisotnosti cvetočega plevela./Odstraniti plevel pred cvetenjem./Ne tretirati pred 
+(navede se časovno obdobje)
+. FI
+:
+Vaarallista mehiläisille./Mehiläisten ja muiden pölyttävien hyönteisten suojelemiseksi ei saa käyttää viljelykasvien kukinta-aikaan./Ei saa käyttää aikana, jolloin mehiläiset lentävät aktiivisesti./Mehiläispesät poistettava tai suojattava levittämisen ajaksi ja 
+(aika)
+ ajaksi käsittelyn jälkeen./Ei saa käyttää, jos alueella on kukkivia rikkakasveja./Poista rikkakasvit ennen kukinnan alkua./Ei saa käyttää ennen 
+(aika)
+. SV
+:
+Farligt för bin./För att skydda bin och andra pollinerande insekter, använd inte denna produkt på blommande gröda./Får inte användas där bin aktivt söker efter föda./Avlägsna eller täck över bikupor under behandling och under 
+(ange tidsperiod)
+ efter behandling./Använd inte denna produkt då det finns blommande ogräs./Avlägsna ogräs före blomning./Använd inte denna produkt före 
+(ange tidsperiod)
+.'. (e) Point 2.3 in Annex V is replaced by the following: '2.3. Safety precautions related to good agricultural practice
+SPa 1
+ES
+: Para evitar la aparición de resistencias, no aplicar este producto ni ningún otro que contenga 
+(indíquese la sustancia activa o la clase de sustancias, según corresponda)
+ más de 
+(indíquese el número de aplicaciones o el plazo)
+. CS
+:
+K zabránění vzniku rezistence neaplikujte tento ani žádný jiný přípravek, který obsahuje 
+(uveďte účinnou látku nebo popřípadě skupinu účinných látek)
+ více/déle než 
+(uveďte četnost aplikací nebo lhůtu)
+. DA
+:
+For at undgå udviklingen af resistens må dette produkt eller andre produkter, der indeholder 
+(angiv aktivstof eller gruppe af aktivstoffer)
+, kun anvendes/ikke anvendes mere end 
+(i tidsperioden eller antal gange)
+. DE
+:
+Zur Vermeidung einer Resistenzbildung darf dieses oder irgendein anderes Mittel, welches 
+(entsprechende Benennung des Wirkstoffes oder der Wirkstoffgruppe)
+ enthält, nicht mehr als 
+(Angabe der Häufigkeit oder der Zeitspanne)
+ ausgebracht werden. ET
+:
+Resistentsuse tekkimise vältimiseks seda või ükskõik millist muud vahendit mitte kasutada rohkem kui 
+(kasutamiskordade arv või määratletav periood)
+, mis sisaldab 
+(määratleda vastavalt toimeaine või ainete liik)
+. EL
+:
+Προκειμένου να μην αναπτυχθεί αντίσταση μην χρησιμοποιείτε αυτό ή οποιοδήποτε άλλο προϊόν που περιέχει 
+(προσδιορίστε τη δραστική ουσία ή την κατηγορία των ουσιών αναλόγως)
+ περισσότερο από 
+(να προσδιοριστεί η συχνότητα)
+ φορές. EN
+:
+To avoid the build-up of resistance do not apply this or any other product containing 
+(identify active substance or class of substances, as appropriate)
+ more than 
+(number of applications or time period to be specified)
+. FR
+:
+Pour éviter le développement de résistances, ne pas appliquer ce produit ou tout autre contenant 
+(préciser la substance ou la famille de substances selon le cas)
+ plus de 
+(nombre d'applications ou durée à préciser)
+. IT
+:
+Per evitare l'insorgenza di resistenza non applicare questo o altri prodotti contenenti 
+(indicare la sostanza attiva o la classe di sostanze, a seconda del caso)
+ più di 
+(numero di applicazioni o durata da precisare)
+. LV
+:
+Lai izvairītos no rezistences veidošanās, nelietot šo vai jebkuru citu augu aizsardzības līdzekli, kurš satur … 
+(norāda darbīgās vielas vai darbīgo vielu grupas nosaukumu)
+ vairāk nekā … 
+(norāda apstrāžu skaitu vai laiku)
+. LT
+:
+Siekiant išvengti atsparumo išsivystymo, nenaudoti šio produkto ar kito produkto, kurio sudėtyje yra 
+(nurodyti veikliają medžiagą ar medžiagų grupę)
+ dažniau kaip 
+(nurodyti apdorojimų skaičių arba laikotarpį)
+. HU
+:
+Rezisztancia kialakulásának elkerülése érdekében ezt vagy 
+(a megfelelő hatóanyag vagy anyagcsoport)
+-ot tartalmazó bármilyen más készítményt ne használja 
+(az előírt kezelésszám vagy időszakok)
+-nál többször/hosszabb ideig. MT
+:
+Sabiex tevita li tinbena reżistenza tapplikax dan jew xi prodott ieħor li jkun fih 
+(identifika s-sustanza jew klassi ta' sustanzi attivi kif imiss)
+ aktar minn 
+(l-għadd ta' applikazzjonijiet jew il-ħin li għandu jkun speċifikat)
+NL
+:
+Om resistentieopbouw te voorkomen mag u dit product of andere producten die 
+(geef naar gelang van het geval de naam van de werkzame stof of van de categorie werkzame stoffen)
+ bevatten, niet vaker gebruiken dan 
+(geef het aantal toepassingen aan)
+/niet langer gebruiken dan 
+(geef de tijdsduur aan)
+. PL
+:
+W celu uniknięcia powstawania odporności nie stosować tego lub żadnego innego produktu zawierającego 
+(określić substancję aktywną lub klasę substancji, kiedy dotyczy)
+ nie dłużej niż 
+(określony czas)
+/nie częściej niż 
+(określona częstotliwość)
+. PT
+:
+Para evitar o desenvolvimento de resistências, não aplicar este produto ou qualquer outro que contenha 
+(indicar, consoante o caso, a substância activa ou a família de substâncias activas)
+ mais de 
+(número ou período de aplicações a precisar)
+. SK
+:
+Na zabránenie vzniku rezistencie neaplikujte tento alebo iný prípravok obsahujúci 
+(uveďte účinnú látku alebo skupinu látok)
+ dlhšie ako 
+(upresnite počet aplikácií alebo časový úsek)
+. SL
+:
+Zaradi preprečevanja nastanka odpornosti ne uporabljati tega ali drugih sredstev, ki vsebujejo 
+(navede se aktivno snov ali skupino aktivnih snovi)
+ več kot 
+(navede se časovno obdobje ali število tretiranj)
+. FI
+:
+Resistenssin kehittymisen estämiseksi ei saa käyttää tätä tai mitä tahansa muuta tuotetta, joka sisältää 
+(tapauksen mukaan tehoaine tai aineluokka)
+, käyttöä useammin 
+(käyttötiheys)
+. SV
+:
+För att undvika utveckling av resistens använd inte denna produkt eller andra produkter innehållande 
+(ange verksamt ämne eller grupp av ämnen)
+ mer än 
+(ange antal behandlingar eller tidsperiod)
+.'. (f) Point 2.4 in Annex V is replaced by the following: '2.4. Specific safety precautions for rodenticides (SPr)
+SPr 1
+ES
+:
+Los cebos deben colocarse de forma que se evite el riesgo de ingestión por otros animales. Asegurar los cebos de manera que los roedores no puedan llevárselos. CS
+:
+Nástrahy musí být kladeny tak, aby se minimalizovalo riziko požití jinými zvířaty. Zabezpečte nástrahy, aby nemohly být hlodavci rozvlékány. DA
+:
+Produktet skal anbringes på en sådan måde, at risikoen for, at andre dyr kan indtage produktet, formindskes mest muligt. F.eks. ved at produktet anbringes inde i en kasse med små indgangshuller til gnaverne eller inde i gnavernes eget gangsystem. Pas på, at produkt i blokform ikke kan flyttes væk af de gnavere, der skal bekæmpes.
+Pas på, at produkt i blokform ikke kan flyttes væk af de gnavere, der skal bekæmpes. DE
+:
+Die Köder verdeckt und unzugänglich für andere Tiere ausbringen. Köder sichern, so dass ein Verschleppen durch Nagetiere nicht möglich ist. ET
+:
+Peibutussööt tuleb ohutult ladustada selliselt, et minimeerida teiste loomade poolt tarbimise ohtu. Peibutussöödabriketid kindlustada selliselt, et närilised neid ära vedada ei saaks. EL
+:
+Τα δολώματα θα πρέπει να τοποθετηθούν με τρόπο τέτοιο που να ελαχιστοποιηθεί η πιθανότητα να καταναλωθούν από άλλα ζώα. Ασφαλίστε τα δολώματα έτσι ώστε να μην μπορούν να τα παρασύρουν τα τρωκτικά. EN
+:
+The baits must be securely deposited in a way so as to minimise the risk of consumption by other animals. Secure bait blocks so that they cannot be dragged away by rodents. FR
+:
+Les appâts doivent être disposés de manière à minimiser le risque d'ingestion par d'autres animaux. Sécuriser les appâts afin qu'ils ne puissent pas être emmenés par les rongeurs. IT
+:
+Le esche devono essere disposte in modo da minimizzare il rischio di ingerimento da parte di altri animali. Fissare le esche in modo che non possano essere trascinate via dai roditori. LV
+:
+Ēsmu ejā ievietot tā, lai, tā nebūtu pieejama citiem dzīvniekiem. Ēsmu nostiprināt, lai grauzēji to nevarētu aizvilkt. LT
+:
+Jaukas turi būti saugiai išdėstytas taip, kad sumažėtų rizika kitiems gyvūnams jį vartoti. Jauko blokai turi būti taip saugomi, kad graužikai negalėtų jų ištampyti. HU
+:
+A csalétket úgy kell biztonságosan kihelyezni, hogy a lehető legkisebb legyen annak a veszélye, hogy abból más állatok is fogyasztanak. A csalétket úgy kell rögzíteni, hogy azt a rágcsálók ne hurcolhassák el. MT
+:
+Il-lixki għandhom jitqegħdu hekk li jitnaqqas ir-riskju li jkunu mittiekla minn annimali oħrajn. Orbot il-blokki tal-lixka sew fejn ikunu biex ma' jiġux mkaxkra minn fuq il-post minn rodenti. NL
+:
+De lokmiddelen moeten zo worden geplaatst dat het risico dat andere dieren ervan eten zoveel mogelijk wordt beperkt. Maak de blokjes stevig vast, zodat ze niet door de knaagdieren kunnen worden weggesleept. PL
+:
+Przynęty muszą być rozłożone w taki sposób, aby zminimalizować ryzyko zjedzenia przez inne zwierzęta. Zabezpieczyć przynętę w ten sposób, aby nie mogła zostać wywleczona przez gryzonie. PT
+:
+Colocar os iscos de modo a minimizar o risco de ingestão por outros animais. Fixar os iscos, para que não possam ser arrastados pelos roedores. SK
+:
+Návnady sa musia umiestniť tak, aby sa k nim nedostali iné zvieratá. Zabezpečte návnady tak, aby ich hlodavce nemohli odtiahnuť. SL
+:
+Vabe je treba nastaviti varno, tako da je tveganje zaužitja za druge živali minimalno. Zavarovati vabe tako, da jih glodalci ne morejo raznesti. FI
+:
+Syötit on sijoitettava siten, että ne eivät eiheuta riskiä muille eläimille. Syötit on kiinnitettävä siten, että jyrsijät eivät saa vietyä niitä mukanaan. SV
+:
+Betena måste placeras så att andra djur inte kan förtära dem. Förankra betena så att de inte kan släpas iväg av gnagare. SPr 2
+ES
+: La zona tratada debe señalizarse durante el tratamiento. Debe advertirse del riesgo de intoxicación (primaria o secundaria) por el anticoagulante así como del antídoto correspondiente. CS
+:
+Plocha určená k ošetření musí být během ošetřování označena. Je třeba upozornit na nebezpečí otravy (primární nebo sekundární) antikoagulantem a uvést protijed. DA
+:
+Det behandlede område skal afmærkes i behandlingsperioden. Faren for forgiftning (primær eller sekundær) ved indtagelse af antikoaguleringsmidler, samt modgiften herfor, skal nævnes på opslag. DE
+:
+Die zu behandelnde Fläche muss während der Behandlungszeit markiert sein. Die Gefahr der (primären oder sekundären) Vergiftung durch das Antikoagulans und dessen Gegenmittel sollte erwähnt werden. ET
+:
+Käideldud ala tuleb käitlemisperioodiks märgistada. Antikoagulandi mürgituse (esmane või teisene) oht ning selle vastane antidoot peab olema ära mainitud. EL
+:
+Η περιοχή στην οποία έχει χρησιμοποιηθεί το προϊόν πρέπει να έχει σημαδευτεί κατά την περίοδο χρήσης. Θα πρέπει να αναφέρεται ο κίνδυνος (πρωτογενούς ή δευτερογενούς) δηλητηρίασης από το αντιπηκτικό καθώς και το αντίδοτο σε περίπτωση δηλητηρίασης. EN
+:
+Treatment area must be marked during the treatment period. The danger from being poisoned (primary or secondary) by the anticoagulant and the antidote against it should be mentioned. FR
+:
+La zone de traitement doit faire l'objet d'un marquage pendant la période de traitement. Le risque d'empoisonnement (primaire ou secondaire) par l'anticoagulant, ainsi que son antidote doivent être mentionnés. IT
+:
+Durante il trattamento la zona interessata deve essere chiaramente segnalata. Il pericolo di avvelenamento (primario o secondario) dovuto all'anticoagulante deve essere evidenziato assieme al relativo antidoto. LV
+:
+Apstrādes laikā apstrādājamo platību marķēt. Norādīt saindēšanās (primārās vai sekundārās) apdraudējumu ar antikoagulantu un tā antidotu. LT
+:
+Apdorojami plotai turi būti pažymėti visą apdorojimo laikotarpį. Turi būti paminėtas apsinuodijimo antikoaguliantu pavojus (tiesioginis ar netiesioginis) ir nurodytas priešnuodis. HU
+:
+A kezelt területet a kezelés ideje alatt külön jelöléssel kell megjelölni. A jelölésben fel kell hívni a figyelmet a véralvadásgátló szertől való mérgeződés veszélyére és annak ellenszerére. MT
+:
+Il-post ittrattat għandu jkun immarkat filwaqt li jkun qiegħed jiġi itrattat. Għandu jissemma l-periklu ta' avvelenament (primarju jew sekondarju) bl-antikoagulant u l-antitodu tiegħu. NL
+:
+De behandelde zone moet tijdens de verdelgingsperiode worden gemarkeerd. Het risico van een (primaire of secundaire) vergiftiging door het antistollingsmiddel moet worden vermeld, alsmede het tegengif. PL
+:
+Obszar poddany zabiegowi musi być oznakowany podczas zabiegu. Niebezpieczeństwo zatrucia (pierwotnego lub wtórnego) antykoagulantem i antidotum powinno być wyszczególnione. PT
+:
+Durante o período de tratamento, marcar a zona, com menção ao perigo de envenenamento (primário ou secundário) pelo anticoagulante e indicação do antídoto deste último. SK
+:
+Ošetrovaná plocha sa počas ošetrenia musí označiť. Musí sa uviesť nebezpečenstvo možnej otravy (primárnej alebo sekundárnej) antikoagulantami a protilátky. SL
+:
+Tretirano območje je treba v času tretiranja označiti. Navesti je treba nevarnost zastrupitve (neposredne ali posredne) z antikoagulanti in ustrezne antidote. FI
+:
+Käsiteltävä alue on merkittävä käsittelyaikana. Antikoagulantin aiheuttama myrkytysvaara (primaarinen tai sekundaarinen) ja vasta-aine mainittava. SV
+:
+Det behandlade området skall markeras under behandlingsperioden. Faran för förgiftning (primär eller sekundär) av antikoagulanten samt motgift skall anges. SPr 3
+ES
+:
+Durante el tratamiento, los roedores muertos deben retirarse diariamente de la zona tratada. No tirarlos en cubos de basura ni en vertederos. CS
+:
+Mrtvé hlodavce během doby použití přípravku denně odstraňujte. Neodkládejte je do nádob na odpadky ani na smetiště. DA
+:
+Døde gnavere skal fjernes fra behandlingsområdet hver dag. Anbring ikke de døde gnavere i åbne affaldsbeholdere. DE
+:
+Tote Nager während der Einsatzperiode täglich entfernen. Nicht in Müllbehältern oder auf Müllkippen entsorgen. ET
+:
+Surnud närilised tuleb eemaldada käitlemisalalt käitlemise ajal iga päev. Mitte panna prügikastidesse või prügi mahapaneku kohtadesse. EL
+:
+Τα νεκρά τρωκτικά πρέπει να απομακρύνονται καθημερινά από την περιοχή χρήσης σε όλη τη διάρκεια χρησιμοποίησης του προϊόντος. Να μην τοποθετούνται σε κάδους απορριμμάτων ούτε σε σακούλες σκουπιδιών. EN
+:
+Dead rodents must be removed from the treatment area each day during treatment. Do not place in refuse bins or on rubbish tips. FR
+:
+Les rongeurs morts doivent être retirés quotidiennement de la zone de traitement pendant toute la période du traitement. Ne pas les jeter dans les poubelles ni les décharges.
+Ne pas les jeter dans les poubelles ni les décharges. IT
+:
+I roditori morti devono essere rimossi quotidianamente dalla zona del trattamento per tutta la durata dello stesso e non devono essere gettati nei rifiuti o nelle discariche. LV
+:
+Apstrādes laikā beigtos grauzējus no apstrādātās platības aizvākt katru dienu. Neizmest tos atkritumu tvertnēs vai kaudzēs. LT
+:
+Žuvę graužikai turi būti surenkami iš apdoroto ploto kiekvieną dieną viso naikinimo metu. Nemesti i šiukšlių dėžes arba sąvartynus. HU
+:
+Az elhullott rágcsálókat a kezelés alatt naponta el kell távolítani a kezelt területről. A tetemeket tilos hulladéktartályban vagy hulladéklerakóban elhelyezni. MT
+:
+Għandhom jitneħħew kuljum ir-rodenti mejta mill-post ittrattat. Tarmihomx f'kontenituri taż-żibel jew fuq il-miżbliet. NL
+:
+Tijdens de verdelgingsperiode moeten de knaagdieren elke dag uit de behandelde zone worden verwijderd. Gooi ze niet in vuilnisbakken of op storten. PL
+:
+Martwe gryzonie usuwać z obszaru poddanego zabiegowi każdego dnia. Nie wyrzucać do pojemników na śmieci i nie wywozić na wysypiska śmieci. PT
+:
+Durante o período de tratamento, remover diariamente os roedores mortos da zona de tratamento, mas sem os deitar ao lixo ou depositar em lixeiras. SK
+:
+Mŕtve hlodavce treba z ošetrovanej plochy každý deň odstrániť. Nehádžte ich do odpadových nádob alebo na smetisko. SL
+:
+Poginule glodalce je treba odstraniti s tretiranega območja sproti, vsak dan v času tretiranja, vendar ne v zabojnike za odpadke ali odlagališča smeti. FI
+:
+Kuolleet jyrsijät on kerättävä käsittelyaikana alueelta päivittäin. Niitä ei saa heittää jätesäiliöihin tai kaatopaikoille. SV
+:
+Döda gnagare skall tas bort från behandlingsområdet varje dag under behandlingen. Får inte läggas i soptunnor eller på soptipp.'. IV. TRANSPORT POLICY
+ROAD TRANSPORT
+ 1. Council Directive 96/26/EC of 29 April 1996 on admission to the occupation of road haulage operator and road passenger transport operator and mutual recognition of diplomas, certificates and other evidence of formal qualifictions intended to facilitate for these operators the right to freedom of establishment in national and international transport operations. In Annex Ia, footnote 1 is replaced by the following: '(1) Distinctive symbol of the State: (B) Belgium, (CZ) Czech Republic, (DK) Denmark, (D) Germany, (EST) Estonia, (GR) Greece, (E) Spain, (F) France, (IRL) Ireland, (I) Italy, (CY) Cyprus, (LV) Latvia, (LT) Lithuania, (L) Luxembourg, (H) Hungary, (M) Malta, (NL) Netherlands, (A) Austria, (PL) Poland, (P) Portugal, (SLO) Slovenia, (SK) Slovakia, (FIN) Finland, (S) Sweden, (UK) United Kingdom.'. 2. Directive 2003/59/EC of the European Parliament and of the Council of 15 July 2003 on the initial qualification and periodic training of drivers of certain road vehicles for the carriage of goods or passengers, amending Council Regulation (EEC) No 3820/85 and Council Directive 91/439/EEC and repealing Council Directive 76/914/EEC. (a) In Annex II, point 2, below the words 'side 1 contains', point (c) is replaced by the following: 'the distinguishing sign of the Member State issuing the card, printed in negative in a blue rectangle and encircled by 12 yellow stars; the distinguishing signs are as follows: B
+: Belgium
+CZ
+:
+Czech Republic
+DK
+:
+Denmark
+D
+:
+Germany
+EST
+:
+Estonia
+GR
+:
+Greece
+E
+:
+Spain
+F
+:
+France
+IRL
+:
+Ireland
+I
+:
+Italy
+CY
+:
+Cyprus
+LV
+:
+Latvia
+LT
+:
+Lithuania
+L
+:
+Luxembourg
+H
+:
+Hungary
+M
+:
+Malta
+NL
+:
+Netherlands
+A
+:
+Austria
+PL
+:
+Poland
+P
+:
+Portugal
+SLO
+:
+Slovenia
+SK
+:
+Slovakia
+FIN
+:
+Finland
+S
+:
+Sweden
+UK
+:
+United Kingdom'. (b) In Annex II, point 2, below the words 'side 1 contains', point (e) is replaced by the following: 'the title "European Communities model" in the language or languages of the Member State issuing the card and the heading "driver qualification card" in the other official languages of the Community, printed in blue so as to form the background to the card: tarjeta de cualificación del conductor
+Osvědčení profesní způsobilosti řidiče
+chaufføruddannelsesbevis
+Fahrerqualifizierungsnachweis
+juhi ametipädevuse kaart
+δελτίο επιμόρφωσης οδηγού
+driver qualification card
+carte de qualification de conducteur
+cárta cáilíochta tiomána
+carta di qualificazione del conducente
+vadītāja kvalifikācijas apliecība
+vairuotojo kvalifikacinė kortelė
+gépjárművezetői képesítési igazolvány
+karta ta' kwalifikazzjoni tas-sewwieq
+kwalificatiekaart bestuurder
+karta kwalifikacji kierowcy
+carta de qualificação do motorista
+preukaz o kvalifikácii vodiča
+kartica o usposobljenosti voznika
+kuljettajan ammattipätevyyskortti
+yrkeskompetensbevis för förare'. (c) In Annex II, point 2, below the words 'side 2 contains', the second sentence of point (b) is replaced by the following: 'If a Member State wishes to word these entries in a national language other than one of the following languages: Spanish, Czech, Danish, German, Estonian, Greek, English, French, Italian, Latvian, Lithuanian, Hungarian, Maltese, Dutch, Polish, Portuguese, Slovak, Slovenian, Finnish and Swedish, it shall draw up a bilingual version of the card using one of the abovementioned languages, without prejudice to the other provisions of this Annex.' V. TAXATION
+ 1. Sixth Council Directive 77/388/EEC of 17 May 1977 on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment. (a) Article 24 bis is replaced by the following: 'Article 24a
+In implementing Article 24(2) to (6), the following Member States may grant an exemption from value added tax to taxable persons whose annual turnover is less than the equivalent in national currency at the conversion rate on the date of their accession: —
+in the Czech Republic: EUR 35 000; —
+in Estonia: EUR 16 000; —
+in Cyprus: EUR 15 600; —
+in Latvia: EUR 17 200; —
+in Lithuania: EUR 29 000; —
+in Hungary: EUR 35 000; —
+in Malta: EUR 37 000 when the economic activity consists principally in the supply of goods, EUR 24 300 when the economic activity consists principally in the supply of services with a low value added (high inputs), and EUR 14 600 in other cases, namely service providers with a high value added (low inputs); —
+in Poland: EUR 10 000; —
+in Slovenia: EUR 25 000; —
+in Slovakia: EUR 35 000.' (b) Article 28m is replaced by the following: 'Article 28m
+Rate of conversion
+To determine the equivalents in their national currencies of amounts expressed in ecus in this Title Member States shall use the rate of exchange applicable on 16 December 1991.* However, the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia shall use the rate of exchange applicable on the date of their accession.'. (c) Article 17(3)(b), in the version set out in Article 28f(1) (1), is replaced by the following: '(b) transactions which are exempt pursuant to Article 14(1)(g) and (i), 15, 16(1) (B), (C), (D) or (E) or (2) or 28c (A) and (C).'. 2. Council Directive 2003/48/EC of 3 June 2003 on taxation of savings income in the form of interest payments. In the Annex, the following is inserted between the entries for Italy and Portugal:
+
+| 'Latvia | Pašvaldības (local governments) |
+|---|---|
+| Poland | gminy (communes) powiaty (districts) województwa (provinces) związki gmin (associations of communes) powiatów (association of districts) województw (association of provinces) miasto stołeczne Warszawa (capital city of Warsaw) Agencja Restrukturyzacji i Modernizacji Rolnictwa (Agency for Restructuring and Modernisation of Agriculture) Agencja Nieruchomości Rolnych (Agricultural Property Agency)' | and, after the entries for Portugal:
+
+3. Council Directive 2003/49/EC of 3 June 2003 on a common system of taxation applicable to interest and royalty payments made between associated companies of different Member States.
+3. Council Directive 2003/49/EC of 3 June 2003 on a common system of taxation applicable to interest and royalty payments made between associated companies of different Member States. (a) The following is added to Article 3(a)(iii):
+'—
+Daň z příjmů právnických osob in the Czech Republic,
+—
+Tulumaks in Estonia,
+—
+φόρος εισοδήματος in Cyprus,
+—
+Uzņēmumu ienākuma nodoklis in Latvia,
+—
+Pelno mokestis in Lithuania,
+—
+Társasági adó in Hungary,
+—
+Taxxa fuq l-income in Malta,
+—
+Podatek dochodowy od osób prawnych in Poland,
+—
+Davek od dobička pravnih oseb in Slovenia,
+—
+Daň z príjmov právnických osôb in Slovakia'. (b) The following is added to the Annex: '(p) companies under Czech law known as: "akciová společnost", "společnost s ručením omezeným", "veřejná obchodní společnost", "komanditní společnost", "družstvo"; (q) companies under Estonian law known as: "täisühing", "usaldusühing", "osaühing", "aktsiaselts", "tulundusühistu"; (r) companies under Cypriot law known as: companies in accordance with the Company's Law, Public Corporate Bodies as well as any other Body which is considered as a company in accordance with the Income tax Laws; (s) companies under Latvian law known as: "akciju sabiedrība", "sabiedrība ar ierobežotu atbildību"; (t) companies incorporated under the law of Lithuania; (u) companies under Hungarian law known as: "közkereseti társaság", "betéti társaság", "közös vállalat", "korlátolt felelősségű társaság", "részvénytársaság", "egyesülés", "közhasznú társaság", "szövetkezet"; (v) companies under Maltese law known as: "Kumpaniji ta' Responsabilita' Limitata", "Soċjetajiet in akkomandita li l-kapital tagħhom maqsum f'azzjonijiet"; (w) companies under Polish law known as: "spółka akcyjna", "spółka z ograniczoną odpowiedzialnością"; (x) companies under Slovenian law known as: "delniška družba", "komanditna delniška družba", "komanditna družba", "družba z omejeno odgovornostjo", "družba z neomejeno odgovornostjo"; (y) companies under Slovak law known as: "akciová spoločnos", "spoločnosť s ručením obmedzeným", "komanditná spoločnos", "verejná obchodná spoločnos", "družstvo".' (1) The Sixth VAT Directive contains two versions of Article 17(3)(b). Article 28f(1) of that Directive contains the provision which is currently applicable. This particular situation was not properly accounted for in Protocol No. 3 to the Act of Accession which in error amended the version of Article 17(3)(b) which is not currently applicable. The version currently applicable has therefore also to be amended.

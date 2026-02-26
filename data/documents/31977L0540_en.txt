@@ -1,0 +1,745 @@
+ANNEX II
+ANNEX II
+TECHNICAL REQUIREMENTS 1. The technical requirements are those set out in paragraphs 2, 6 to 9 and Annexes 3 to 5 of UN-ECE Regulation No 77 which consists of a consolidation of the following documents: — the Regulation in its original form (00) (
+6
+),
+— supplements 1 and 2 to Regulation No 77 including modifications (
+7
+),
+— supplement 3 to Regulation No 77 (
+8
+),
+— supplement 4 to Regulation No 77 (
+9
+),
+except that: 1.1. Where reference is made to 'Regulation No 48', this shall be understood as 'Directive 76/756/EEC'. 1.2. Where reference is made to 'Regulation No 37', this shall be understood as 'Annex VII to Directive 76/761/EEC.'
+
+| E/ECE/324 | Rev. 1/Add. 76. |
+|---|---|
+| E/ECE/TRANS/505 | Rev. 1/Add. 76. |
+
+| E/ECE/324 | Rev. 1/Add. 76/Amend. 1. |
+|---|---|
+| E/ECE/TRANS/505 | Rev. 1/Add. 76/Amend. 1. |
+
+| E/ECE/324 | Rev. 1/Add. 76/Amend. 2. |
+|---|---|
+| E/ECE/TRANS/505 | Rev. 1/Add. 76/Amend. 2. |
+
+(
+9
+) TRANS/WP.29/530
+Article 10
+Any amendments necessary to adjust the requirements of the Annexes to take account of technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 70/156/EEC.
+Article 7
+No Member State may refuse to grant EEC type-approval or national type-approval of a vehicle on grounds relating to its parking lamps if these bear the EEC component type-approval mark and are fitted in accordance with the requirements laid down in Directive 76/756/EEC.
+Article 4
+The competent authorities of the Member States shall inform each other, by means of the procedures specified in Article 4(6) of Directive 70/156/EEC, of each approval which they have granted, refused or withdrawn pursuant to this Directive.
+
+▼B
+Article 1
+▼M2
+1. Each Member State shall grant EC component type-approval for any type of parking lamp which satisfies the construction and testing requirements laid down in the relevant Annexes.
+
+▼B
+2. The Member State which has granted EEC component type-approval shall take the measures required in order to verify that production models conform to the approved type, in so far as this is necessary and if need be in cooperation with the competent authorities in the other Member States. Such verification shall be limited to spot checks.
+Introduction
+COUNCIL DIRECTIVEof 28 June 1977on the approximation of the laws of the Member States relating to parking lamps for motor vehicles
+(77/540/EEC)
+(OJ L 220, 29.8.1977, p.83)Amended by:
+
+Official Journal
+ No
+page
+date
+ M1
+COUNCIL DIRECTIVE 87/354/EEC of 25 June 1987
+ L 192
+43
+11.7.1987
+ ►M2
+COMMISSION DIRECTIVE 1999/16/EC Text with EEA relevance of 16 March 1999
+ L 97
+33
+12.4.1999
+ ►M3
+COUNCIL DIRECTIVE 2006/96/EC of 20 November 2006
+ L 363
+81
+20.12.2006
+ ►M4
+COUNCIL DIRECTIVE 2013/15/EU of 13 May 2013
+ L 158
+172
+10.6.2013
+Amended by: A1
+ L 291
+17
+19.11.1979
+ A2
+ L 302
+23
+15.11.1985
+ A3
+ C 241
+21
+29.8.1994
+ L 001
+1
+.. ►A4
+ L 236
+33
+23.9.2003
+Corrected by: C1
+Corrigendum, OJ L 284, 10.10.1978, p. 11 (1977/540)
+▼B
+COUNCIL DIRECTIVEof 28 June 1977on the approximation of the laws of the Member States relating to parking lamps for motor vehicles(77/540/EEC)
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,
+Having regard to the proposal from the Commission,
+Having regard to the opinion of the European Parliament (
+1
+),
+Having regard to the opinion of the Economic and Social Committee (
+2
+),
+Whereas the technical requirements which motor vehicles must satisfy pursuant to national laws relate inter alia to their parking lamps; Whereas these requirements differ from one Member State to another; whereas it is therefore necessary that all Member States adopt the same requirements either in addition to or in place of their existing rules, in order, in particular, to allow the EEC type-approval procedure which was the subject of Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (
+3
+) to be introduced in respect of each type of vehicle; Whereas in Directive 76/756/EEC (
+4
+), the Council laid down the common requirements for the installation of lighting and light-signalling devices on motor vehicles and trailers; Whereas a harmonized component type-approval procedure for parking lamps makes it possible for each Member State to check compliance with the common construction and testing requirements and to inform the other Member States of its findings by sending a copy of the component type-approval certificate completed for each type of parking lamp; whereas the placing of an EEC component type-approval mark on all parking lamps manufactured in conformity with the approved type obviates any need for technical checks on these parking lamps in the other Member States; Whereas the approximation of national laws relating to motor vehicles entails reciprocal recognition by Member States of the tests carried out by each of them on the basis of the common requirements,
+HAS ADOPTED THIS DIRECTIVE:
+Article 11
+1. Member States shall bring into force the provisions needed in order to comply with this Directive within 18 months of its notification and shall forthwith inform the Commission thereof.2.
+
+Member States shall ensure that the texts of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission.
+Article 8
+No Member State may refuse or prohibit the sale, registration, entry into service or use of any vehicle on grounds relating to its parking lamps if these bear the EEC component type-approval mark and are fitted in accordance with the requirements laid down in Directive 76/756/EEC.
+
+▼M2
+Article 5
+1. If the Member State which has granted EEC component type-approval finds that a number of parking lamps bearing the same EEC component type-approval mark do not conform to the type which it has approved, it shall take the necessary measures to ensure that production models conform to the approved type.
+
+The competent authorities of that State shall advise those of the other Member States of the measures taken which may, where there is consistent failure to conform, extend to withdrawal of EEC component type-approval. The said authorities shall take the same measures if they are informed by the competent authorities of another Member State of such failure to conform.2. The competent authorities of Member States shall inform each other within one month of any withdrawal of EEC component type-approval, and of the reasons for such a measure.
+Article 2
+▼M2
+Member States shall, for each type of parking lamp which they approve pursuant to Article 1, issue to the manufacturer an EC component type-approval mark conforming to the model shown in Annex I, Appendix 3.
+
+▼B
+Member States shall take all appropriate measures to prevent the use of marks liable to create confusion between parking lamps which have been type-approved pursuant to Article 1 and other devices.
+COUNCIL DIRECTIVE
+of 28 June 1977
+on the approximation of the laws of the Member States relating to parking lamps for motor vehicles
+Consolidated TEXT: 31977L0540 — EN — 01.11.2014
+Top
+1977L0540 — EN — 01.11.2014 — 009.001
+This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents
+►B
+COUNCIL DIRECTIVE
+of 28 June 1977
+on the approximation of the laws of the Member States relating to parking lamps for motor vehicles
+(77/540/EEC)
+(OJ L 220, 29.8.1977, p.83)
+repealed by:
+
+Official Journal
+No
+page
+date
+Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009
+L 200
+1
+31.7.2009
+6. CONFORMITY OF PRODUCTION
+ANNEX I
+6. CONFORMITY OF PRODUCTION
+ADMINISTRATIVE PROVISIONS FOR TYPE APPROVAL
+1.1. The application for EC component type-approval pursuant to Article 3(4) of Directive 70/156/EEC of a type of parking lamp shall be submitted by the manufacturer.
+
+1.2. A model for the information document is given in Appendix 1. 
+1.3. The following must be submitted to the technical service responsible for conducting the type-approval tests: 1.3.1. Two samples, equipped with the lamp or lamps recommended; if the parking lamps are such that they can be mounted only on one side of the vehicle, the two samples submitted may be identical and be suitable for mounting only on the right or only on the left side of the vehicle. 2.1. The devices submitted for EC component type approval must bear: 2.1.1. the trade name or mark of the manufacturer; 2.1.2. in the case of lamps with replaceable light sources: the type(s) of filament lamp prescribed; 2.1.3. in the case of lamps with non-replaceable light sources: the nominal voltage and wattage. 2.2. These markings shall be clearly legible and indelible and shall be affixed to the illuminating surface, or to one of the illuminating surfaces, of the device. They shall be visible from the exterior when the device is fitted to the vehicle. 2.3. Each device shall have sufficient space for the component type-approval mark. This space shall be indicated on the drawings referred to in Appendix 1. 
+3.1. If the relevant requirements are satisfied, EC type-approval pursuant to Article 4(3) and, if applicable, Article 4(4) of Directive 70/156/EEC shall be granted. 3.2. A model for the EC type-approval certificate is given in Appendix 2. 
+3.3. An approval number in accordance with Annex VII to Directive 70/156/EEC shall be assigned to each type of parking lamp approved. The same Member State shall not assign the same number to another type of parking lamp. 3.4. Where EC component type approval is requested for a type of lighting and light-signalling device comprising a parking lamp and other lamps, a single EC component type-approval number may be assigned provided that the parking lamp complies with the requirements of this Directive and that each of the other lamps forming part of the lighting and light-signalling device for which EC component type approval is requested complies with the separate Directive applying to it. 4.1. In addition to the markings referred to in item 2.1., every parking lamp conforming to the type approved pursuant to this Directive shall bear an EC component type-approval mark. 4.2. This mark shall consist of: 4.2.1. a rectangle surrounding the letter 'e' followed by the distinguishing number or letters of the Member State which has granted type approval: 1
+for Germany
+2
+for France
+3
+for Italy
+4
+for the Netherlands
+5
+for Sweden
+6
+for Belgium
+▼A4
+7
+for Hungary
+8
+for the Czech Republic
+▼M2
+9
+for Spain
+11
+for the United Kingdom
+12
+for Austria
+13
+for Luxembourg
+17
+for Finland
+18
+for Denmark
+▼M3
+19
+for Romania
+▼A4
+20
+for Poland
+▼M2
+21
+for Portugal
+23
+for Greece
+▼M4
+25
+for Croatia
+▼A4
+26
+for Slovenia
+27
+for Slovakia
+29
+for Estonia
+32
+for Latvia
+▼M3
+34
+for Bulgaria
+▼A4
+36
+for Lithuania
+CY
+for Cyprus
+▼M2
+IRL
+for Ireland; ▼A4
+MT
+for Malta; ▼M2
+4.2.2. in the vicinity of the rectangle the 'base approval number' contained in section 4 of the type-approval number referred to in Annex VII of Directive 70/156/EEC, preceded by the two figures indicating the sequence number assigned to the most recent major technical amendment to Directive 77/540/EEC on the date EEC type-approval was granted. In this Directive the sequence number is 00; 4.2.3. when a lamp emits a light of amber colour towards the front and rear, the lamp must be marked with an arrow indicating its orientation, the arrow showing to the front of the vehicle. 4.3. The EC component type-approval mark shall be affixed to the lens of the lamp or one of the lenses in such a way as to be indelible and clearly legible even when the lamps are fitted to the vehicle. 4.4. An example of the EC component type-approval mark is given in Appendix 3. 
+4.5. Where a single EC component type-approval number is issued, as per item 3.4. above, for a type of lighting and light-signalling device comprising a parking lamp and other lamps, a single EC component type-approval mark may be affixed, consisting of: 4.5.1. a rectangle surrounding the letter 'e' followed by the distinguishing number or letters of the Member State which has granted type approval (see item 4.2.1.);
+4.5.2. the base approval number (see item 4.2.2., first half-sentence); 4.5.3. if necessary, the required arrow, in so far as it relates to the lamp assembly as a whole. 4.6. This mark may be located anywhere on the lamps which are grouped, combined or reciprocally incorporated, provided that: 4.6.1. it is visible after the installation of the lamps; 4.6.2. no light-transmitting components of the grouped, combined or reciprocally incorporated lamps can be removed without simultaneously removing the approval mark. 4.7. The identification symbol for each lamp corresponding to each Directive pursuant to which EC component type approval was granted, together with the sequence number (see item 4.2.2, second half-sentence) and, where necessary, the letter 'D' and the required arrow shall be marked: 4.7.1. either on the appropriate light-emitting surface; 4.7.2. or in a group, in such a way that each of the grouped, combined or reciprocally incorporated lamps may be clearly identified. 4.8. The dimensions of the components of this mark must not be less than the minimum dimensions specified for individual marks by the various Directives pursuant to which EC component type approval was granted. 5.1. In the case of modifications of the type approved pursuant to this Directive, the provisions of Article 5 of Directive 70/156/EEC shall apply. 6.1. As a general rule, measures to ensure the conformity of production shall be taken in accordance with the provisions laid down in Article 10 of Directive 70/156/EEC. 6.2. Every parking lamp shall comply with the conditions specified in this Directive. Nevertheless, in the case of a parking lamp selected at random from series production, the requirements as to minimum intensity of the light emitted (measured with a standard filament lamp as referred to in paragraph 8 (
+5
+)) shall be limited in each relevant direction to 80 % of the minimum values specified in paragraphs 7.1 and 7.2 (5) . Under the same conditions, the prescribed maximum values may be exceeded by 20 %. Appendix 1
+Appendix 2
+Appendix 3
+EXAMPLE OF THE EC COMPONENT TYPE-APPROVAL MARK
+The device bearing the EC component type-approval mark shown above is a parking lamp, type approved in Germany (e1) pursuant to this Directive (00) under the base approval number 1471.
+Article 12
+This Directive is addressed to the Member States.
+
+▼M2
+LIST OF ANNEXES
+ANNEX I: Administrative provisions for type approval
+Appendix 1: Information document
+Appendix 2:
+Type-approval certificate
+Appendix 3: Models of the EC component type-approval mark
+ANNEX II: Technical requirements
+ANNEX IADMINISTRATIVE PROVISIONS FOR TYPE APPROVAL1. APPLICATION FOR EC COMPONENT TYPE-APPROVAL
+1.1. The application for EC component type-approval pursuant to Article 3(4) of Directive 70/156/EEC of a type of parking lamp shall be submitted by the manufacturer. 1.2. A model for the information document is given in Appendix 1. 
+1.3. The following must be submitted to the technical service responsible for conducting the type-approval tests: 1.3.1. Two samples, equipped with the lamp or lamps recommended; if the parking lamps are such that they can be mounted only on one side of the vehicle, the two samples submitted may be identical and be suitable for mounting only on the right or only on the left side of the vehicle. 2. MARKINGS
+2.1. The devices submitted for EC component type approval must bear: 2.1.1. the trade name or mark of the manufacturer; 2.1.2. in the case of lamps with replaceable light sources: the type(s) of filament lamp prescribed; 2.1.3. in the case of lamps with non-replaceable light sources: the nominal voltage and wattage. 2.2. These markings shall be clearly legible and indelible and shall be affixed to the illuminating surface, or to one of the illuminating surfaces, of the device. They shall be visible from the exterior when the device is fitted to the vehicle. 2.3. Each device shall have sufficient space for the component type-approval mark. This space shall be indicated on the drawings referred to in Appendix 1. 3. GRANTING OF EC COMPONENT TYPE-APPROVAL
+3.1. If the relevant requirements are satisfied, EC type-approval pursuant to Article 4(3) and, if applicable, Article 4(4) of Directive 70/156/EEC shall be granted. 3.2. A model for the EC type-approval certificate is given in Appendix 2. 
+3.3. An approval number in accordance with Annex VII to Directive 70/156/EEC shall be assigned to each type of parking lamp approved. The same Member State shall not assign the same number to another type of parking lamp. 3.4. Where EC component type approval is requested for a type of lighting and light-signalling device comprising a parking lamp and other lamps, a single EC component type-approval number may be assigned provided that the parking lamp complies with the requirements of this Directive and that each of the other lamps forming part of the lighting and light-signalling device for which EC component type approval is requested complies with the separate Directive applying to it. 4. EC COMPONENT TYPE-APPROVAL MARK
+4.1. In addition to the markings referred to in item 2.1., every parking lamp conforming to the type approved pursuant to this Directive shall bear an EC component type-approval mark. 4.2. This mark shall consist of: 4.2.1. a rectangle surrounding the letter 'e' followed by the distinguishing number or letters of the Member State which has granted type approval: 1
+for Germany
+2
+for France
+3
+for Italy
+4
+for the Netherlands
+5
+for Sweden
+6
+for Belgium
+▼A4
+7
+for Hungary
+8
+for the Czech Republic
+▼M2
+9
+for Spain
+11
+for the United Kingdom
+12
+for Austria
+13
+for Luxembourg
+17
+for Finland
+18
+for Denmark
+▼M3
+19
+for Romania
+▼A4
+20
+for Poland
+▼M2
+21
+for Portugal
+23
+for Greece
+▼M4
+25
+for Croatia
+▼A4
+26
+for Slovenia
+27
+for Slovakia
+29
+for Estonia
+32
+for Latvia
+▼M3
+34
+for Bulgaria
+▼A4
+36
+for Lithuania
+CY
+for Cyprus
+▼M2
+IRL
+for Ireland; ▼A4
+MT
+for Malta; ▼M2
+4.2.2. in the vicinity of the rectangle the 'base approval number' contained in section 4 of the type-approval number referred to in Annex VII of Directive 70/156/EEC, preceded by the two figures indicating the sequence number assigned to the most recent major technical amendment to Directive 77/540/EEC on the date EEC type-approval was granted. In this Directive the sequence number is 00; 4.2.3. when a lamp emits a light of amber colour towards the front and rear, the lamp must be marked with an arrow indicating its orientation, the arrow showing to the front of the vehicle. 4.3. The EC component type-approval mark shall be affixed to the lens of the lamp or one of the lenses in such a way as to be indelible and clearly legible even when the lamps are fitted to the vehicle. 4.4. An example of the EC component type-approval mark is given in Appendix 3. 
+4.5. Where a single EC component type-approval number is issued, as per item 3.4. above, for a type of lighting and light-signalling device comprising a parking lamp and other lamps, a single EC component type-approval mark may be affixed, consisting of: 4.5.1. a rectangle surrounding the letter 'e' followed by the distinguishing number or letters of the Member State which has granted type approval (see item 4.2.1.);
+4.5.2. the base approval number (see item 4.2.2., first half-sentence); 4.5.3. if necessary, the required arrow, in so far as it relates to the lamp assembly as a whole. 4.6. This mark may be located anywhere on the lamps which are grouped, combined or reciprocally incorporated, provided that: 4.6.1. it is visible after the installation of the lamps; 4.6.2. no light-transmitting components of the grouped, combined or reciprocally incorporated lamps can be removed without simultaneously removing the approval mark. 4.7. The identification symbol for each lamp corresponding to each Directive pursuant to which EC component type approval was granted, together with the sequence number (see item 4.2.2, second half-sentence) and, where necessary, the letter 'D' and the required arrow shall be marked: 4.7.1. either on the appropriate light-emitting surface; 4.7.2. or in a group, in such a way that each of the grouped, combined or reciprocally incorporated lamps may be clearly identified. 4.8. The dimensions of the components of this mark must not be less than the minimum dimensions specified for individual marks by the various Directives pursuant to which EC component type approval was granted. 5. MODIFICATIONS OF THE TYPE AND AMENDMENTS TO APPROVALS
+5.1. In the case of modifications of the type approved pursuant to this Directive, the provisions of Article 5 of Directive 70/156/EEC shall apply. 6. CONFORMITY OF PRODUCTION
+6.1. As a general rule, measures to ensure the conformity of production shall be taken in accordance with the provisions laid down in Article 10 of Directive 70/156/EEC. 6.2. Every parking lamp shall comply with the conditions specified in this Directive. Nevertheless, in the case of a parking lamp selected at random from series production, the requirements as to minimum intensity of the light emitted (measured with a standard filament lamp as referred to in paragraph 8 (
+5
+)) shall be limited in each relevant direction to 80 % of the minimum values specified in paragraphs 7.1 and 7.2 (5) . Under the same conditions, the prescribed maximum values may be exceeded by 20 %. Appendix 1
+{{IMAGE:Image_0}}
+{{IMAGE:Image_1}}
+Appendix 2
+{{IMAGE:Image_2}}
+Appendix 3EXAMPLE OF THE EC COMPONENT TYPE-APPROVAL MARK
+The device bearing the EC component type-approval mark shown above is a parking lamp, type approved in Germany (e1) pursuant to this Directive (00) under the base approval number 1471. ANNEX IITECHNICAL REQUIREMENTS 1. The technical requirements are those set out in paragraphs 2, 6 to 9 and Annexes 3 to 5 of UN-ECE Regulation No 77 which consists of a consolidation of the following documents: — the Regulation in its original form (00) (
+6
+),
+— supplements 1 and 2 to Regulation No 77 including modifications (
+7
+),
+— supplement 3 to Regulation No 77 (
+8
+),
+— supplement 4 to Regulation No 77 (
+9
+),
+except that: 1.1. Where reference is made to 'Regulation No 48', this shall be understood as 'Directive 76/756/EEC'.
+Article 9
+For the purposes of this Directive, 'vehicle' means any motor vehicle intended for use on the road, with or without bodywork, having at least four wheels and a maximum design speed exceeding 25 km/h, and its trailers, with the exception of vehicles which run on rails and of agricultural and forestry tractors and all mobile machinery.
+
+▼B
+Article 6
+Any decision taken pursuant to the provisions adopted in implementation of this Directive, to refuse or withdraw EEC component type-approval for a parking lamp or prohibit its placing on the market or use, shall set out in detail the reasons on which it is based.
+
+Such decisions shall be notified to the party concerned, who shall at the same time be informed of the remedies available to him under the laws in force in the Member States and of the time limits allowed for the exercise of such remedies.
+Article 3
+1. No Member State may prohibit the placing on the market of parking lamps on grounds relating to their construction or method of functioning if they bear the EEC component type-approval mark.2.
+
+Nevertheless, a Member State may prohibit the placing on the market of parking lamps bearing the EEC component type-approval mark which consistently fail to conform to the approved type. That State shall inform the other Member States and the Commission forthwith of the measures taken, specifying the reasons for its decision. ▼M2
+6. CONFORMITY OF PRODUCTION
+ANNEX I
+6. CONFORMITY OF PRODUCTION
+ADMINISTRATIVE PROVISIONS FOR TYPE APPROVAL
+1.1. The application for EC component type-approval pursuant to Article 3(4) of Directive 70/156/EEC of a type of parking lamp shall be submitted by the manufacturer.
+
+1.2. A model for the information document is given in Appendix 1. 
+1.3. The following must be submitted to the technical service responsible for conducting the type-approval tests: 1.3.1. Two samples, equipped with the lamp or lamps recommended; if the parking lamps are such that they can be mounted only on one side of the vehicle, the two samples submitted may be identical and be suitable for mounting only on the right or only on the left side of the vehicle. 2.1. The devices submitted for EC component type approval must bear: 2.1.1. the trade name or mark of the manufacturer; 2.1.2. in the case of lamps with replaceable light sources: the type(s) of filament lamp prescribed; 2.1.3. in the case of lamps with non-replaceable light sources: the nominal voltage and wattage. 2.2. These markings shall be clearly legible and indelible and shall be affixed to the illuminating surface, or to one of the illuminating surfaces, of the device. They shall be visible from the exterior when the device is fitted to the vehicle. 2.3. Each device shall have sufficient space for the component type-approval mark. This space shall be indicated on the drawings referred to in Appendix 1. 
+3.1. If the relevant requirements are satisfied, EC type-approval pursuant to Article 4(3) and, if applicable, Article 4(4) of Directive 70/156/EEC shall be granted. 3.2. A model for the EC type-approval certificate is given in Appendix 2. 
+3.3. An approval number in accordance with Annex VII to Directive 70/156/EEC shall be assigned to each type of parking lamp approved. The same Member State shall not assign the same number to another type of parking lamp. 3.4. Where EC component type approval is requested for a type of lighting and light-signalling device comprising a parking lamp and other lamps, a single EC component type-approval number may be assigned provided that the parking lamp complies with the requirements of this Directive and that each of the other lamps forming part of the lighting and light-signalling device for which EC component type approval is requested complies with the separate Directive applying to it. 4.1. In addition to the markings referred to in item 2.1., every parking lamp conforming to the type approved pursuant to this Directive shall bear an EC component type-approval mark. 4.2. This mark shall consist of: 4.2.1. a rectangle surrounding the letter 'e' followed by the distinguishing number or letters of the Member State which has granted type approval: 1
+for Germany
+2
+for France
+3
+for Italy
+4
+for the Netherlands
+5
+for Sweden
+6
+for Belgium
+▼A4
+7
+for Hungary
+8
+for the Czech Republic
+▼M2
+9
+for Spain
+11
+for the United Kingdom
+12
+for Austria
+13
+for Luxembourg
+17
+for Finland
+18
+for Denmark
+▼M3
+19
+for Romania
+▼A4
+20
+for Poland
+▼M2
+21
+for Portugal
+23
+for Greece
+▼A4
+26
+for Slovenia
+27
+for Slovakia
+29
+for Estonia
+32
+for Latvia
+▼M3
+34
+for Bulgaria
+▼A4
+36
+for Lithuania
+CY
+for Cyprus
+▼M2
+IRL
+for Ireland; ▼A4
+MT
+for Malta; ▼M2
+4.2.2. in the vicinity of the rectangle the 'base approval number' contained in section 4 of the type-approval number referred to in Annex VII of Directive 70/156/EEC, preceded by the two figures indicating the sequence number assigned to the most recent major technical amendment to Directive 77/540/EEC on the date EEC type-approval was granted. In this Directive the sequence number is 00; 4.2.3. when a lamp emits a light of amber colour towards the front and rear, the lamp must be marked with an arrow indicating its orientation, the arrow showing to the front of the vehicle. 4.3. The EC component type-approval mark shall be affixed to the lens of the lamp or one of the lenses in such a way as to be indelible and clearly legible even when the lamps are fitted to the vehicle. 4.4. An example of the EC component type-approval mark is given in Appendix 3. 
+4.5. Where a single EC component type-approval number is issued, as per item 3.4. above, for a type of lighting and light-signalling device comprising a parking lamp and other lamps, a single EC component type-approval mark may be affixed, consisting of: 4.5.1. a rectangle surrounding the letter 'e' followed by the distinguishing number or letters of the Member State which has granted type approval (see item 4.2.1.);
+4.5.2. the base approval number (see item 4.2.2., first half-sentence); 4.5.3. if necessary, the required arrow, in so far as it relates to the lamp assembly as a whole. 4.6. This mark may be located anywhere on the lamps which are grouped, combined or reciprocally incorporated, provided that: 4.6.1. it is visible after the installation of the lamps; 4.6.2. no light-transmitting components of the grouped, combined or reciprocally incorporated lamps can be removed without simultaneously removing the approval mark. 4.7. The identification symbol for each lamp corresponding to each Directive pursuant to which EC component type approval was granted, together with the sequence number (see item 4.2.2, second half-sentence) and, where necessary, the letter 'D' and the required arrow shall be marked: 4.7.1. either on the appropriate light-emitting surface; 4.7.2. or in a group, in such a way that each of the grouped, combined or reciprocally incorporated lamps may be clearly identified. 4.8. The dimensions of the components of this mark must not be less than the minimum dimensions specified for individual marks by the various Directives pursuant to which EC component type approval was granted. 5.1. In the case of modifications of the type approved pursuant to this Directive, the provisions of Article 5 of Directive 70/156/EEC shall apply. 6.1. As a general rule, measures to ensure the conformity of production shall be taken in accordance with the provisions laid down in Article 10 of Directive 70/156/EEC. 6.2. Every parking lamp shall comply with the conditions specified in this Directive. Nevertheless, in the case of a parking lamp selected at random from series production, the requirements as to minimum intensity of the light emitted (measured with a standard filament lamp as referred to in paragraph 8 (
+5
+)) shall be limited in each relevant direction to 80 % of the minimum values specified in paragraphs 7.1 and 7.2 (5) . Under the same conditions, the prescribed maximum values may be exceeded by 20 %. Appendix 1
+Appendix 2
+Appendix 3
+EXAMPLE OF THE EC COMPONENT TYPE-APPROVAL MARK
+The device bearing the EC component type-approval mark shown above is a parking lamp, type approved in Germany (e1) pursuant to this Directive (00) under the base approval number 1471.
+Article 12
+This Directive is addressed to the Member States.
+
+▼M2
+LIST OF ANNEXES
+ANNEX I: Administrative provisions for type approval
+Appendix 1: Information document
+Appendix 2:
+Type-approval certificate
+Appendix 3: Models of the EC component type-approval mark
+ANNEX II: Technical requirements
+ANNEX IADMINISTRATIVE PROVISIONS FOR TYPE APPROVAL1. APPLICATION FOR EC COMPONENT TYPE-APPROVAL
+1.1. The application for EC component type-approval pursuant to Article 3(4) of Directive 70/156/EEC of a type of parking lamp shall be submitted by the manufacturer. 1.2. A model for the information document is given in Appendix 1. 
+1.3. The following must be submitted to the technical service responsible for conducting the type-approval tests: 1.3.1. Two samples, equipped with the lamp or lamps recommended; if the parking lamps are such that they can be mounted only on one side of the vehicle, the two samples submitted may be identical and be suitable for mounting only on the right or only on the left side of the vehicle. 2. MARKINGS
+2.1. The devices submitted for EC component type approval must bear: 2.1.1. the trade name or mark of the manufacturer; 2.1.2. in the case of lamps with replaceable light sources: the type(s) of filament lamp prescribed; 2.1.3. in the case of lamps with non-replaceable light sources: the nominal voltage and wattage. 2.2. These markings shall be clearly legible and indelible and shall be affixed to the illuminating surface, or to one of the illuminating surfaces, of the device. They shall be visible from the exterior when the device is fitted to the vehicle. 2.3. Each device shall have sufficient space for the component type-approval mark. This space shall be indicated on the drawings referred to in Appendix 1. 3. GRANTING OF EC COMPONENT TYPE-APPROVAL
+3.1. If the relevant requirements are satisfied, EC type-approval pursuant to Article 4(3) and, if applicable, Article 4(4) of Directive 70/156/EEC shall be granted. 3.2. A model for the EC type-approval certificate is given in Appendix 2. 
+3.3. An approval number in accordance with Annex VII to Directive 70/156/EEC shall be assigned to each type of parking lamp approved. The same Member State shall not assign the same number to another type of parking lamp. 3.4. Where EC component type approval is requested for a type of lighting and light-signalling device comprising a parking lamp and other lamps, a single EC component type-approval number may be assigned provided that the parking lamp complies with the requirements of this Directive and that each of the other lamps forming part of the lighting and light-signalling device for which EC component type approval is requested complies with the separate Directive applying to it. 4. EC COMPONENT TYPE-APPROVAL MARK
+4.1. In addition to the markings referred to in item 2.1., every parking lamp conforming to the type approved pursuant to this Directive shall bear an EC component type-approval mark. 4.2. This mark shall consist of: 4.2.1. a rectangle surrounding the letter 'e' followed by the distinguishing number or letters of the Member State which has granted type approval: 1
+for Germany
+2
+for France
+3
+for Italy
+4
+for the Netherlands
+5
+for Sweden
+6
+for Belgium
+▼A4
+7
+for Hungary
+8
+for the Czech Republic
+▼M2
+9
+for Spain
+11
+for the United Kingdom
+12
+for Austria
+13
+for Luxembourg
+17
+for Finland
+18
+for Denmark
+▼M3
+19
+for Romania
+▼A4
+20
+for Poland
+▼M2
+21
+for Portugal
+23
+for Greece
+▼A4
+26
+for Slovenia
+27
+for Slovakia
+29
+for Estonia
+32
+for Latvia
+▼M3
+34
+for Bulgaria
+▼A4
+36
+for Lithuania
+CY
+for Cyprus
+▼M2
+IRL
+for Ireland; ▼A4
+MT
+for Malta; ▼M2
+4.2.2. in the vicinity of the rectangle the 'base approval number' contained in section 4 of the type-approval number referred to in Annex VII of Directive 70/156/EEC, preceded by the two figures indicating the sequence number assigned to the most recent major technical amendment to Directive 77/540/EEC on the date EEC type-approval was granted. In this Directive the sequence number is 00; 4.2.3. when a lamp emits a light of amber colour towards the front and rear, the lamp must be marked with an arrow indicating its orientation, the arrow showing to the front of the vehicle. 4.3. The EC component type-approval mark shall be affixed to the lens of the lamp or one of the lenses in such a way as to be indelible and clearly legible even when the lamps are fitted to the vehicle. 4.4. An example of the EC component type-approval mark is given in Appendix 3. 
+4.5. Where a single EC component type-approval number is issued, as per item 3.4. above, for a type of lighting and light-signalling device comprising a parking lamp and other lamps, a single EC component type-approval mark may be affixed, consisting of: 4.5.1. a rectangle surrounding the letter 'e' followed by the distinguishing number or letters of the Member State which has granted type approval (see item 4.2.1.);
+4.5.2. the base approval number (see item 4.2.2., first half-sentence); 4.5.3. if necessary, the required arrow, in so far as it relates to the lamp assembly as a whole. 4.6. This mark may be located anywhere on the lamps which are grouped, combined or reciprocally incorporated, provided that: 4.6.1. it is visible after the installation of the lamps; 4.6.2. no light-transmitting components of the grouped, combined or reciprocally incorporated lamps can be removed without simultaneously removing the approval mark. 4.7. The identification symbol for each lamp corresponding to each Directive pursuant to which EC component type approval was granted, together with the sequence number (see item 4.2.2, second half-sentence) and, where necessary, the letter 'D' and the required arrow shall be marked: 4.7.1. either on the appropriate light-emitting surface; 4.7.2. or in a group, in such a way that each of the grouped, combined or reciprocally incorporated lamps may be clearly identified. 4.8. The dimensions of the components of this mark must not be less than the minimum dimensions specified for individual marks by the various Directives pursuant to which EC component type approval was granted. 5. MODIFICATIONS OF THE TYPE AND AMENDMENTS TO APPROVALS
+5.1. In the case of modifications of the type approved pursuant to this Directive, the provisions of Article 5 of Directive 70/156/EEC shall apply. 6. CONFORMITY OF PRODUCTION
+6.1. As a general rule, measures to ensure the conformity of production shall be taken in accordance with the provisions laid down in Article 10 of Directive 70/156/EEC. 6.2. Every parking lamp shall comply with the conditions specified in this Directive. Nevertheless, in the case of a parking lamp selected at random from series production, the requirements as to minimum intensity of the light emitted (measured with a standard filament lamp as referred to in paragraph 8 (
+5
+)) shall be limited in each relevant direction to 80 % of the minimum values specified in paragraphs 7.1 and 7.2 (5) . Under the same conditions, the prescribed maximum values may be exceeded by 20 %. Appendix 1
+{{IMAGE:Image_0}}
+{{IMAGE:Image_1}}
+Appendix 2
+{{IMAGE:Image_2}}
+Appendix 3EXAMPLE OF THE EC COMPONENT TYPE-APPROVAL MARK
+The device bearing the EC component type-approval mark shown above is a parking lamp, type approved in Germany (e1) pursuant to this Directive (00) under the base approval number 1471. ANNEX IITECHNICAL REQUIREMENTS 1. The technical requirements are those set out in paragraphs 2, 6 to 9 and Annexes 3 to 5 of UN-ECE Regulation No 77 which consists of a consolidation of the following documents: — the Regulation in its original form (00) (
+6
+),
+— supplements 1 and 2 to Regulation No 77 including modifications (
+7
+),
+— supplement 3 to Regulation No 77 (
+8
+),
+— supplement 4 to Regulation No 77 (
+9
+),
+except that: 1.1. Where reference is made to 'Regulation No 48', this shall be understood as 'Directive 76/756/EEC'. 1.2. Where reference is made to 'Regulation No 37', this shall be understood as 'Annex VII to Directive 76/761/EEC.'
+Article 9
+For the purposes of this Directive, 'vehicle' means any motor vehicle intended for use on the road, with or without bodywork, having at least four wheels and a maximum design speed exceeding 25 km/h, and its trailers, with the exception of vehicles which run on rails and of agricultural and forestry tractors and all mobile machinery.
+
+▼B
+Article 6
+Any decision taken pursuant to the provisions adopted in implementation of this Directive, to refuse or withdraw EEC component type-approval for a parking lamp or prohibit its placing on the market or use, shall set out in detail the reasons on which it is based.
+
+Such decisions shall be notified to the party concerned, who shall at the same time be informed of the remedies available to him under the laws in force in the Member States and of the time limits allowed for the exercise of such remedies.
+Article 3
+1. No Member State may prohibit the placing on the market of parking lamps on grounds relating to their construction or method of functioning if they bear the EEC component type-approval mark.2.
+
+Nevertheless, a Member State may prohibit the placing on the market of parking lamps bearing the EEC component type-approval mark which consistently fail to conform to the approved type. That State shall inform the other Member States and the Commission forthwith of the measures taken, specifying the reasons for its decision. ▼M2
+Article 5
+1. If the Member State which has granted EEC component type-approval finds that a number of parking lamps bearing the same EEC component type-approval mark do not conform to the type which it has approved, it shall take the necessary measures to ensure that production models conform to the approved type.
+
+The competent authorities of that State shall advise those of the other Member States of the measures taken which may, where there is consistent failure to conform, extend to withdrawal of EEC component type-approval. The said authorities shall take the same measures if they are informed by the competent authorities of another Member State of such failure to conform.2. The competent authorities of Member States shall inform each other within one month of any withdrawal of EEC component type-approval, and of the reasons for such a measure.
+Article 2
+▼M2
+Member States shall, for each type of parking lamp which they approve pursuant to Article 1, issue to the manufacturer an EC component type-approval mark conforming to the model shown in Annex I, Appendix 3.
+
+▼B
+Member States shall take all appropriate measures to prevent the use of marks liable to create confusion between parking lamps which have been type-approved pursuant to Article 1 and other devices.
+Article 8
+No Member State may refuse or prohibit the sale, registration, entry into service or use of any vehicle on grounds relating to its parking lamps if these bear the EEC component type-approval mark and are fitted in accordance with the requirements laid down in Directive 76/756/EEC.
+
+▼M2
+Council Directive 77/540/EEC of 28 June 1977 on the approximation of the laws of the Member States relating to parking lamps for motor vehicles
+COUNCIL DIRECTIVE of 28 June 1977 on the approximation of the laws of the Member States relating to parking lamps for motor vehicles (77/540/EEC) THE COUNCIL OF THE EUROPEAN COMMUNITIES, Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof, Having regard to the proposal from the Commission, Having regard to the opinion of the European Parliament (1), Having regard to the opinion of the Economic and Social Committee (2), Whereas the technical requirements which motor vehicles must satisfy pursuant to national laws relate inter alia to their parking lamps; Whereas these requirements differ from one Member State to another ; whereas it is therefore necessary that all Member States adopt the same requirements either in addition to or in place of their existing rules, in order, in particular, to allow the EEC type-approval procedure which was the subject of Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (3) to be introduced in respect of each type of vehicle; Whereas in Directive 76/756/EEC (4), the Council laid down the common requirements for the installation of lighting and light-signalling devices on motor vehicles and trailers; Whereas a harmonized component type-approval procedure for parking lamps makes it possible for each Member State to check compliance with the common construction and testing requirements and to inform the other Member States of its findings by sending a copy of the component type-approval certificate completed for each type of parking lamp ; whereas the placing of an EEC component type-approval mark on all parking lamps manufactured in conformity with the approved type obviates any need for technical checks on these parking lamps in the other Member States; Whereas the approximation of national laws relating to motor vehicles entails reciprocal recognition by Member States of the tests carried out by each of them on the basis of the common requirements, HAS ADOPTED THIS DIRECTIVE: Article 1 1. Each Member State shall grant EEC component type-approval for any type of parking lamp which satisfies the construction and testing requirements laid down in Annexes I, II, IV, V and VI. 2.
+
+The Member State which has granted EEC component type-approval shall take the measures required in order to verify that production models conform to the approved type, in so far as this is necessary and if need be in cooperation with the competent authorities in the other Member States. Such verification shall be limited to spot checks. Article 2 Member States shall for each type of parking lamp which they approve pursuant to Article 1 issue to the manufacturer, or to his authorized representative, an EEC component type-approval mark conforming to the model shown in Annex IV. Member States shall take all appropriate measures to prevent the use of marks liable to create confusion between parking lamps which have been type-approved pursuant to Article 1 and other devices. Article 3 1. No Member State may prohibit the placing on the market of parking lamps on grounds relating to their construction or method of functioning if they bear the EEC component type-approval mark. (1)OJ No C 118, 16.5.1977, p. 29. (2)OJ No C 114, 11.5.1977, p. 4. (3)OJ No L 42, 23.2.1970, p. 1. (4)OJ No L 262, 27.9.1976, p. 1. 2. Nevertheless, a Member State may prohibit the placing on the market of parking lamps bearing the EEC component type-approval mark which consistently fail to conform to the approved type. That State shall inform the other Member States and the Commission forthwith of the measures taken, specifying the reasons for its decision. Article 4 The competent authorities of each Member State shall within one month send to the competent authorities of the other Member States a copy of the component type-approval certificates, an example of which is given in Annex III, completed for each type of parking lamp which they approve or refuse to approve. Article 5 1. If the Member State which has granted EEC component type-approval finds that a number of parking lamps bearing the same EEC component type-approval mark do not conform to the type which it has approved, it shall take the necessary measures to ensure that production models conform to the approved type. The competent authorities of that State shall advise those of the other Member States of the measures taken which may, where there is consistent failure to conform, extend to withdrawal of EEC component type-approval. The said authorities shall take the same measures if they are informed by the competent authorities of another Member State of such failure to conform. 2. The competent authorities of Member States shall inform each other within one month of any withdrawal of EEC component type-approval, and of the reasons for such a measure. Article 6 Any decision taken pursuant to the provisions adopted in implementation of this Directive, to refuse or withdraw EEC component type-approval for a parking lamp or prohibit its placing on the market or use, shall set out in detail the reasons on which it is based. Such decisions shall be notified to the party concerned, who shall at the same time be informed of the remedies available to him under the laws in force in the Member States and of the time limits allowed for the exercise of such remedies. Article 7 No Member State may refuse to grant EEC type-approval or national type-approval of a vehicle on grounds relating to its parking lamps if these bear the EEC component type-approval mark and are fitted in accordance with the requirements laid down in Directive 76/756/EEC. Article 8 No Member State may refuse or prohibit the sale, registration, entry into service or use of any vehicle on grounds relating to its parking lamps if these bear the EEC component type-approval mark and are fitted in accordance with the requirements laid down in Directive 76/756/EEC. Article 9 For the purposes of this Directive, "vehicle" means any motor vehicle intended for use on the road, with or without bodywork, having at least four wheels and a maximum design speed exceeding 25 km/h, with the exception of vehicles which run on rails, agricultural or forestry tractors and machinery and public works vehicles. Article 10 Any amendments necessary to adjust the requirements of the Annexes to take account of technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 70/156/EEC. Article 11 1. Member States shall bring into force the provisions needed in order to comply with this Directive within 18 months of its notification and shall forthwith inform the Commission thereof. 2. Member States shall ensure that the texts of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission. Article 12 This Directive is addressed to the Member States. Done at Luxembourg, 28 June 1977. For the Council The President W. RODGERS LIST OF ANNEXES >PIC FILE= "T9001013"> ANNEX I DEFINITIONS, GENERAL SPECIFICATIONS, INTENSITY OF LIGHT EMITTED, TEST PROCEDURE, COLOUR OF LIGHT EMITTED, CONFORMITY OF PRODUCTION, NOTE CONCERNING COLOUR 1. DEFINITIONS 1.1. "Parking lamp" means the lamp used to draw attention to the presence of a stationary vehicle in a built-up area. 1.2. "Axis of reference" (or reference axis) means the characteristic axis of the light signal, determined by the manufacturer for use as the direction of reference (H = 0º, V = 0º) for photometric measurements and when fitting the lamp on the vehicle. 1.3. "Centre of reference" means the intersection of the axis of reference with the exterior light-emitting surface specified by the manufacturer of the lamp.
+Article 11
+1. Member States shall bring into force the provisions needed in order to comply with this Directive within 18 months of its notification and shall forthwith inform the Commission thereof.2.
+
+Member States shall ensure that the texts of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission.
+ANNEX II
+ANNEX II
+TECHNICAL REQUIREMENTS 1. The technical requirements are those set out in paragraphs 2, 6 to 9 and Annexes 3 to 5 of UN-ECE Regulation No 77 which consists of a consolidation of the following documents: — the Regulation in its original form (00) (
+6
+),
+— supplements 1 and 2 to Regulation No 77 including modifications (
+7
+),
+— supplement 3 to Regulation No 77 (
+8
+),
+— supplement 4 to Regulation No 77 (
+9
+),
+except that: 1.1. Where reference is made to 'Regulation No 48', this shall be understood as 'Directive 76/756/EEC'. 1.2. Where reference is made to 'Regulation No 37', this shall be understood as 'Annex VII to Directive 76/761/EEC.'
+
+| E/ECE/324 | Rev. 1/Add. 76. |
+|---|---|
+| E/ECE/TRANS/505 | Rev. 1/Add. 76. |
+
+| E/ECE/324 | Rev. 1/Add. 76/Amend. 1. |
+|---|---|
+| E/ECE/TRANS/505 | Rev. 1/Add. 76/Amend. 1. |
+
+| E/ECE/324 | Rev. 1/Add. 76/Amend. 2. |
+|---|---|
+| E/ECE/TRANS/505 | Rev. 1/Add. 76/Amend. 2. |
+
+(
+9
+) TRANS/WP.29/530
+Introduction
+COUNCIL DIRECTIVEof 28 June 1977on the approximation of the laws of the Member States relating to parking lamps for motor vehicles
+(77/540/EEC)
+(OJ L 220, 29.8.1977, p.83)Amended by:
+
+Official Journal
+ No
+page
+date
+ M1
+COUNCIL DIRECTIVE 87/354/EEC of 25 June 1987
+ L 192
+43
+11.7.1987
+ ►M2
+COMMISSION DIRECTIVE 1999/16/EC Text with EEA relevance of 16 March 1999
+ L 97
+33
+12.4.1999
+ ►M3
+COUNCIL DIRECTIVE 2006/96/EC of 20 November 2006
+ L 363
+81
+20.12.2006
+Amended by: A1
+Act of Accession of Greece
+ L 291
+17
+19.11.1979
+ A2
+Act of Accession of Spain and Portugal
+ L 302
+23
+15.11.1985
+ A3
+Act of Accession of Austria, Sweden and Finland
+ C 241
+21
+29.8.1994
+(adapted by Council Decision 95/1/EC, Euratom, ECSC)
+ L 001
+1
+.. ►A4
+Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded
+ L 236
+33
+23.9.2003
+Corrected by: C1
+Corrigendum, OJ L 284, 10.10.1978, p. 11 (77/540)
+▼B
+COUNCIL DIRECTIVEof 28 June 1977on the approximation of the laws of the Member States relating to parking lamps for motor vehicles(77/540/EEC)
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,
+Having regard to the proposal from the Commission,
+Having regard to the opinion of the European Parliament (
+1
+),
+Having regard to the opinion of the Economic and Social Committee (
+2
+),
+Whereas the technical requirements which motor vehicles must satisfy pursuant to national laws relate inter alia to their parking lamps; Whereas these requirements differ from one Member State to another; whereas it is therefore necessary that all Member States adopt the same requirements either in addition to or in place of their existing rules, in order, in particular, to allow the EEC type-approval procedure which was the subject of Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (
+3
+) to be introduced in respect of each type of vehicle; Whereas in Directive 76/756/EEC (
+4
+), the Council laid down the common requirements for the installation of lighting and light-signalling devices on motor vehicles and trailers; Whereas a harmonized component type-approval procedure for parking lamps makes it possible for each Member State to check compliance with the common construction and testing requirements and to inform the other Member States of its findings by sending a copy of the component type-approval certificate completed for each type of parking lamp; whereas the placing of an EEC component type-approval mark on all parking lamps manufactured in conformity with the approved type obviates any need for technical checks on these parking lamps in the other Member States; Whereas the approximation of national laws relating to motor vehicles entails reciprocal recognition by Member States of the tests carried out by each of them on the basis of the common requirements,
+HAS ADOPTED THIS DIRECTIVE:
+Article 10
+Any amendments necessary to adjust the requirements of the Annexes to take account of technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 70/156/EEC.
+Article 7
+No Member State may refuse to grant EEC type-approval or national type-approval of a vehicle on grounds relating to its parking lamps if these bear the EEC component type-approval mark and are fitted in accordance with the requirements laid down in Directive 76/756/EEC.
+Article 4
+The competent authorities of the Member States shall inform each other, by means of the procedures specified in Article 4(6) of Directive 70/156/EEC, of each approval which they have granted, refused or withdrawn pursuant to this Directive.
+
+▼B
+Article 1
+▼M2
+1. Each Member State shall grant EC component type-approval for any type of parking lamp which satisfies the construction and testing requirements laid down in the relevant Annexes.
+
+▼B
+2. The Member State which has granted EEC component type-approval shall take the measures required in order to verify that production models conform to the approved type, in so far as this is necessary and if need be in cooperation with the competent authorities in the other Member States. Such verification shall be limited to spot checks.
+1.2. Where reference is made to 'Regulation No 37', this shall be understood as 'Annex VII to Directive 76/761/EEC.' (
+1
+) OJ No C 118, 16. 5. 1977, p. 29.(
+2
+) OJ No C 114, 11. 5. 1977, p. 4.(
+3
+) OJ No L 42, 23. 2. 1970, p. 1.(
+4
+) OJ No L 262, 27. 9. 1976, p. 1.(
+5
+) Of the documents referred to in point 1 of Annex II to this Directive.(
+6
+) 
+E/ECE/324
+Rev. 1/Add. 76. E/ECE/TRANS/505
+(
+7
+) 
+E/ECE/324
+Rev. 1/Add. 76/Amend. 1. E/ECE/TRANS/505
+(
+8
+) 
+E/ECE/324
+Rev. 1/Add. 76/Amend. 2. E/ECE/TRANS/505
+(
+9
+) TRANS/WP.29/530
+1.3. "Centre of reference" means the intersection of the axis of reference with the exterior light-emitting surface specified by the manufacturer of the lamp. 1.4. "Type of parking lamp" means parking lamps which do not differ in such essential respects as: 1.4.1. the trade name or mark; 1.4.2. the characteristics of the optical system; 1.4.3. the type of filament lamp. 2. GENERAL SPECIFICATIONS 2.1. Each sample referred to in 1.2.3 of Annex IV shall conform to the specifications set forth in 3 and 5. 2.2. The parking lamps shall be so designed and constructed that under normal conditions of use, notwithstanding any vibration to which they may be subjected during such use, their satisfactory operation remains assured and they retain the characteristics prescribed by this Directive. 3. INTENSITY OF LIGHT EMITTED 3.1. In the reference axis, the light emitted by each of the two samples referred to in 1.2.3 of Annex II shall be of not less than the minimum intensity and of not more than the maximum intensity specified below: >PIC FILE= "T0011099"> 3.2. Outside the reference axis and within the angular fields defined in the diagrams in Annex II, the intensity of the light emitted by each of the two samples must: 3.2.1. in each direction corresponding to the points in the luminous intensity distribution table reproduced in Annex V be not less than the value shown, in the said table for the direction in question, expressed as a percentage of the minimum specified in 3.1; 3.2.2. in any direction within the space from which the lamp in question is visible, not exceed the maximum specified in 3.1; 3.2.3. however, a luminous intensity of 60 cd shall be permitted for parking lamps incorporated with stop lamps (see 3.1.2) below a plane forming an angle of 5º with and downward from the horizontal plane; 3.2.4. moreover, 3.2.4.1. throughout the fields defined in Annex II, the intensity of the light emitted must be not less than 0 705 cd; 3.2.4.2. the requirements of 2.2 of Annex V on local variations of intensity must be observed. 3.3. The intensities must be measured with the filament lamp(s) continuously alight and, in the case of devices emitting red or amber light, in coloured light. 3.4. Annex V, to which reference is made in 3.2.1, gives particulars of the methods of measurement to be used. 4. TEST PROCEDURE All measurements shall be carried out with colourless standard filament lamps of the types recommended for the parking lamp, and so regulated as to produce the normal luminous flux prescribed for those types of lamp. 5. COLOUR OF LIGHT EMITTED The colour of the light emitted, measured by using a source of light with a colour temperature of 2 854 K, corresponding to illuminant A of the International Commission on Illumination (CIE), must be within the limits of the coordinates prescribed for the colour in question in Annex VI. 6. CONFORMITY OF PRODUCTION Every parking lamp bearing an EEC component type-approval mark must conform to the type approved and comply with the photometric conditions specified in 3 and 5. Nevertheless, in the case of a parking lamp picked at random from series production, the requirements as to minimum intensity of the light emitted (measured with a standard filament lamp as referred to in 4) shall be limited in each relevant direction to 80 % of the minimum values specified in 3.1 and 3.2. 7. NOTE CONCERNING COLOUR EEC component type-approval shall be granted if the colour emitted by the parking lamp is that laid down in 3.13 of Annex I to Directive 76/756/EEC. ANNEX II >PIC FILE= "T0011100"> ANNEX III >PIC FILE= "T0011101"> ANNEX IV EEC COMPONENT TYPE-APPROVAL AND MARKING REQUIREMENTS 1. APPLICATION FOR EEC COMPONENT TYPE-APPROVAL 1.1. The application for EEC component type-approval shall be submitted by the holder of the trade name or mark or by his authorized representative. 1.2. For each type of parking lamp the application shall be accompanied by: 1.2.1. a brief technical description stating, in particular, the type(s) of filament lamp(s) recommended, which must comply with the specifications of the International Commission on Illumination (CIE) 1.2.2. drawings (three copies), in sufficient detail to permit identification of the type of the parking lamp and showing geometrically the position in which the lamp is to be mounted on the vehicle, the axis of observation to be taken as the axis of reference in the tests (horizontal angle H = 0º, vertical angle V = 0º), and the point to be taken as the centre of reference in the said tests; 1.2.3. two samples ; if the parking lamps are such that they can be mounted only on one side of the vehicle, the two samples submitted may be identical and be suitable for mounting only on the right or only on the left side of the vehicle. 2. MARKINGS 2.1. The samples of a type of parking lamp submitted for EEC component type-approval must bear: 2.1.1. the trade name or mark of the applicant, which must be clearly legible and indelible; 2.1.2. a clearly legible and indelible marking indicating the type(s) of filament lamp(s) recommended; 2.1.3. and incorporate a space large enough to contain the EEC component type-approval mark, including the additional symbols prescribed in 4 ; this space shall be shown in the drawings mentioned in 1.2.2. 3. EEC COMPONENT TYPE-APPROVAL 3.1. If the two samples submitted in accordance with 1 meet the requirements of Annexes I, II, IV, V and VI, EEC component type-approval shall be granted and a component type-approval number assigned. 3.2. This number shall not be assigned to any other type of parking lamp. 3.3. Where EEC component type-approval is requested for a type of lighting and light-signalling device comprising a parking lamp and other lamps, a single EEC component type-approval mark may be issued provided that the lamp in question complies with the requirements of this Directive and that each of the other lamps forming part of the lighting and light-signalling device for which EEC component type-approval is requested, complies with the specific Directive applying to it. 4. MARKS 4.1. Every parking lamp conforming to a type approved under this Directive shall bear an EEC component type-approval mark. 4.2. This mark shall consist of a rectangle surrounding the lower-case letter "e", followed by the distinguishing number or letter(s) of the Member State which has granted the component type-approval: 1 for Germany, 2 for France, 3 for Italy, 4 for the Netherlands, 6 for Belgium, 11 for the United Kingdom, 13 for Luxembourg, 18 for Denmark, IRL for Ireland. It must also include the EEC component type-approval number which corresponds to the number of the EEC component type-approval certificate issued for the type of parking lamp in question. 4.3. In the following cases the EEC component type-approval mark shall be supplemented by an additional symbol "P". 4.4. The EEC component type-approval number must be placed in any convenient position near the rectangle surrounding the letter "e". 4.5. The EEC component type-approval mark and the additional symbols must be affixed to the lens of the lamp or one of the lenses in such a way as to be indelible and clearly legible even when the parking lamps are fitted on the vehicle. 4.6. An example of the EEC component type-approval mark and additional symbol is given in the Appendix. 4.7. Where a single EEC component type-approval number is issued, as under 3.3, for a type of lighting and light-signalling device comprising a parking lamp and other lamps, one EEC component type-approval mark only may be affixed, consisting of: - a rectangle surrounding the letter "e" followed by the distinguishing number or letter(s) of the Member State which has granted the EEC component type-approval, - the EEC component type-approval number, - the additional symbols required by the various Directives under which EEC component type-approval was granted.
+1.1. Where reference is made to 'Regulation No 48', this shall be understood as 'Directive 76/756/EEC'. 1.2. Where reference is made to 'Regulation No 37', this shall be understood as 'Annex VII to Directive 76/761/EEC.' (
+1
+) OJ No C 118, 16. 5. 1977, p. 29.(
+2
+) OJ No C 114, 11. 5. 1977, p. 4.(
+3
+) OJ No L 42, 23. 2. 1970, p. 1.(
+4
+) OJ No L 262, 27. 9. 1976, p. 1.(
+5
+) Of the documents referred to in point 1 of Annex II to this Directive.(
+6
+) 
+E/ECE/324
+Rev. 1/Add. 76. E/ECE/TRANS/505
+(
+7
+) 
+E/ECE/324
+Rev. 1/Add. 76/Amend. 1. E/ECE/TRANS/505
+(
+8
+) 
+E/ECE/324
+Rev. 1/Add. 76/Amend. 2. E/ECE/TRANS/505
+(
+9
+) TRANS/WP.29/530
+4.7. Where a single EEC component type-approval number is issued, as under 3.3, for a type of lighting and light-signalling device comprising a parking lamp and other lamps, one EEC component type-approval mark only may be affixed, consisting of: - a rectangle surrounding the letter "e" followed by the distinguishing number or letter(s) of the Member State which has granted the EEC component type-approval, - the EEC component type-approval number, - the additional symbols required by the various Directives under which EEC component type-approval was granted. 4.8. The dimensions of the various components of this mark shall not be less than the largest of the minimum dimensions specified for individual markings by the Directives under which the EEC component type-approval was granted. Appendix >PIC FILE= "T0011102"> ANNEX V PHOTOMETRIC MEASUREMENTS 1. MEASUREMENT METHODS 1.1. During photometric measurements, stray reflections shall be prevented by appropriate masking. 1.2. Should the results of measurements be challenged, measurements shall be carried out in such a way as to meet the following requirements: 1.2.1. the distance of measurement shall be such that the law of the inverse of the square of the distance is applicable; 1.2.2. the measuring equipment shall be such that the angular aperture of the receiver viewed from the reference centre of the lamp is between 10' and 1º. 1.2.3. the intensity requirement for a particular direction of observation shall be deemed to be satisfied if that requirement is met in a direction deviating by not more than 15' from the direction of observation. >PIC FILE= "T0011103"> 2.1. The direction H = 0º and V = 0º corresponds to the reference axis (which, when the lamp is mounted on the vehicle, must be horizontal, parallel to the median longitudinal plane of the vehicle and oriented in the required direction of visibility). It passes through the centre of reference. The values shown in the table give, for the various directions of measurement, the minimum intensities as a percentage of the minimum required in the axis for each lamp (in the direction H = 0º and V = 0º). 2.2. If visual examination of a lamp appears to reveal substantial local variations of intensity, a check shall be made to ensure that no intensity measured between two of the directions of measurement referred to in 2.1 is: 2.2.1. for a minimum specification, below 50 % of the lower of the two minimum intensities prescribed for these directions of measurement; 2.2.2. for a maximum specification, above the lower of the two maximum intensities prescribed for these directions of measurement, increased by a fraction, expressed as a linear function, of the difference between the intensities prescribed for the said directions of measurement. ANNEX VI >PIC FILE= "T0011104">

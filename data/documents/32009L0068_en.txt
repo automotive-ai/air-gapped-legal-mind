@@ -1,0 +1,105 @@
+Article 8
+This Directive is addressed to the Member States.
+| Council Directive 79/532/EEC (OJ L 145, 13.6.1979, p. 16) |  |
+|---|---|
+| Council Directive 82/890/EEC (OJ L 378, 31.12.1982, p. 45) | Only as regards the reference to Directive 79/532/EEC in Article 1(1) |
+| Directive 97/54/EC of the European Parliament and of the Council (OJ L 277, 10.10.1997, p. 24) | Only as regards the reference to Directive 79/532/EEC in Article 1, first indent |
+
+| Directive | Time-limit for transposition | Date of application |
+|---|---|---|
+| 79/532/EEC | 21 November 1980 | — |
+| 82/890/EEC | 21 June 1984 | — |
+| 97/54/EC | 22 September 1998 | 23 September 1998 |
+recital 2
+(2) Directive 79/532/EEC is one of the separate Directives of the EC type-approval system provided for in Council Directive 74/150/EEC of 4 March 1974 on the approximation of the laws of the Member States relating to the type-approval of wheeled agricultural or forestry tractors, as replaced by Directive 2003/37/EC of the European Parliament and of the Council of 26 May 2003 on type-approval of agricultural or forestry tractors, their trailers and interchangeable towed machinery, together with their systems, components and separate technical units (5), and lays down technical prescriptions concerning the design and construction of agricultural or forestry tractors as regards the lighting and light-signalling devices.
+
+Those technical prescriptions concern the approximation of the laws of the Member States to enable the EC type-approval procedure provided for in Directive 2003/37/EC to be applied in respect of each type of tractor. Consequently, the provisions laid down in Directive 2003/37/EC relating to agricultural or forestry tractors, their trailers and interchangeable towed machinery, together with their systems, components and separate technical units, apply to this Directive.
+Article 1
+1. For the purposes of this Directive, 'tractor' (agricultural or forestry) means any motor vehicle, fitted with wheels or endless tracks and having at least two axles, the main function of which lies in its tractive power and which is specially designed to tow, push, carry or power certain tools, machinery or trailers intended for agricultural or forestry use.
+
+It may be equipped to carry a load and passengers. 2. This Directive shall apply only to tractors defined in paragraph 1 which are equipped with pneumatic tyres and have a maximum design speed of between 6 and 40 km/h.
+Introduction
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,
+Having regard to the proposal from the Commission,
+Having regard to the opinion of the European Economic and Social Committee (1),
+Acting in accordance with the procedure laid down in Article 251 of the Treaty (2),
+Whereas:
+
+(1) Council Directive 79/532/EEC of 17 May 1979 on the approximation of the laws of the Member States relating to the component type-approval of lighting and light-signalling devices on wheeled agricultural or forestry tractors (3) has been substantially amended several times (4). In the interests of clarity and rationality the said Directive should be codified. (2) Directive 79/532/EEC is one of the separate Directives of the EC type-approval system provided for in Council Directive 74/150/EEC of 4 March 1974 on the approximation of the laws of the Member States relating to the type-approval of wheeled agricultural or forestry tractors, as replaced by Directive 2003/37/EC of the European Parliament and of the Council of 26 May 2003 on type-approval of agricultural or forestry tractors, their trailers and interchangeable towed machinery, together with their systems, components and separate technical units (5), and lays down technical prescriptions concerning the design and construction of agricultural or forestry tractors as regards the lighting and light-signalling devices. Those technical prescriptions concern the approximation of the laws of the Member States to enable the EC type-approval procedure provided for in Directive 2003/37/EC to be applied in respect of each type of tractor. Consequently, the provisions laid down in Directive 2003/37/EC relating to agricultural or forestry tractors, their trailers and interchangeable towed machinery, together with their systems, components and separate technical units, apply to this Directive. (3) In Directive 2009/61/EC of the European Parliament and of the Council of 13 July 2009 relating to the installation of lighting and light-signalling devices on wheeled agricultural and forestry tractors (6) common requirements were laid down for the installation of lighting and light-signalling devices on wheeled agricultural or forestry tractors. Such lighting and light-signalling devices possess the same characteristics as those fitted to motor vehicles. Therefore, devices having received an EC component type-approval mark in accordance with the Directives already adopted on this subject in connection with the EC type-approval of motor vehicles and their trailers may also be used on tractors. (4) This Directive should be without prejudice to the obligations of the Member States relating to the time-limits for transposition into national law and application of the Directives set out in Part B of Annex II,
+HAVE ADOPTED THIS DIRECTIVE:
+recital 1
+(1) Council Directive 79/532/EEC of 17 May 1979 on the approximation of the laws of the Member States relating to the component type-approval of lighting and light-signalling devices on wheeled agricultural or forestry tractors (3) has been substantially amended several times (4).
+
+In the interests of clarity and rationality the said Directive should be codified.
+ANNEX I
+ANNEX I
+ 1. 
+ Headlamps which function as main-beam and/or dipped-beam headlamps and incandescent electric filament lamps for such headlamps:
+
+The EC component type-approval mark is that laid down in Council Directive 76/761/EEC of 27 July 1976 on the approximation of the laws of the Member States relating to motor-vehicle headlamps which function as main-beam and/or dipped-beam headlamps and to light sources (filament lamps and others) for use in approved lamp units of motor vehicles and of their trailers (1). The provisions of Directive 76/761/EEC also apply to the component type-approval of special headlamps for agricultural or forestry tractors designed to provide both a main beam and a dipped beam of less than 160 mm, diameter D, with the following amendments: (a) the minimum illumination values fixed in point 2.1 of Annexes II to VI, VIII and IX to Directive 76/761/EEC are reduced according to the ratio
+((D - 45)/(160 - 45))2
+subject to the following absolute lower limits: —
+3 lux, either at point 75 R or at point 75 L,
+—
+5 lux, either at point 50 R or at point 50 L,
+—
+1,5 lux, in Zone IV. Note: If the apparent surface of the reflector is not circular, the diameter is that of a circle with the same area as the apparent useful surface of the reflector. (b) the symbol M inside an inverted triangle is affixed on the headlamp instead of the symbol CR provided for in point 5.2.3.5 of Annex I to Directive 76/761/EEC. 2. 
+ End-outline marker lamps, front position (side) lamps, rear position (side) lamps and stop lamps: The EC component type-approval mark is that laid down in Council Directive 76/758/EEC of 27 July 1976 on the approximation of the laws of the Member States relating to end-outline marker lamps, front position (side) lamps, rear position (side) lamps, stop lamps, daytime running lamps and side marker lamps for motor vehicles and their trailers (2). 3. 
+ Direction indicator lamps: The EC component type-approval mark is that laid down in Council Directive 76/759/EEC of 27 July 1976 on the approximation of the laws of the Member States relating to direction indicator lamps for motor vehicles and their trailers (3). 4. 
+ Reflex reflectors: The EC component type-approval mark is that laid down in Council Directive 76/757/EEC of 27 July 1976 on the approximation of the laws of the Member States relating to retro-reflectors for motor vehicles and their trailers (4). 5. 
+ Rear registration-plate lamps: The EC component type-approval mark is that laid down in Council Directive 76/760/EEC of 27 July 1976 on the approximation of the laws of the Member States relating to rear registration plate lamps for motor vehicles and their trailers (5). 6. 
+ Front fog lamps: The EC component type-approval mark is that laid down in Council Directive 76/762/EEC of 27 July 1976 on the approximation of the laws of the Member States relating to front fog lamps for motor vehicles (6). 7. 
+ Rear fog lamps: The EC component type-approval mark is that laid down in Council Directive 77/538/EEC of 28 June 1977 on the approximation of the laws of the Member States relating to rear fog lamps for motor vehicles and their trailers (7). 8. 
+ Reversing lamps: The EC component type-approval mark is that laid down in Council Directive 77/539/EEC of 28 June 1977 on the approximation of the laws of the Member States relating to reversing lamps for motor vehicles and their trailers (8). 9. 
+ Parking lamps: The EC component type-approval mark is that laid down in Council Directive 77/540/EEC of 28 June 1977 on the approximation of the laws of the Member States relating to parking lamps for motor vehicles (9). (1) OJ L 262, 27.9.1976, p. 96. (2) OJ L 262, 27.9.1976, p. 54. (3) OJ L 262, 27.9.1976, p. 71. (4) OJ L 262, 27.9.1976, p. 32. (5) OJ L 262, 27.9.1976, p. 85. (6) OJ L 262, 27.9.1976, p. 122. (7) OJ L 220, 29.8.1977, p. 60. (8) OJ L 220, 29.8.1977, p. 72. (9) OJ L 220, 29.8.1977, p. 83.
+recital 4
+(4) This Directive should be without prejudice to the obligations of the Member States relating to the time-limits for transposition into national law and application of the Directives set out in Part B of Annex II,
+HAVE ADOPTED THIS DIRECTIVE:
+citation
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,
+Having regard to the proposal from the Commission,
+Having regard to the opinion of the European Economic and Social Committee (1),
+Acting in accordance with the procedure laid down in Article 251 of the Treaty (2),
+Whereas:
+Article 7
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2010.
+Article 6
+Directive 79/532/EEC, as amended by the Directives listed in Part A of Annex II, is repealed, without prejudice to the obligations of the Member States relating to the time-limits for transposition into national law and application of the Directives set out in Part B of Annex II.
+
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex III.
+Article 5
+Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+Article 4
+The amendments necessary to adapt to technical progress the requirements of Annex I shall be adopted in accordance with the procedure referred to in Article 20(3) of Directive 2003/37/EC.
+Article 3
+No Member State may refuse the registration, or prohibit the sale, entry into service or use, of a tractor on grounds relating to the following lamps or reflectors, if these bear the EC component type-approval mark as provided for in Annex I and are installed in accordance with the requirements laid down in Directive 2009/61/EC:
+
+(a) headlamps which function as main-beam and/or dipped-beam headlamps or incandescent electric filament lamps for such headlamps; (b) end-outline marker lamps; (c) front position (side) lamps; (d) rear position (side) lamps; (e) stop lamps; (f) direction indicator lamps; (g) reflex reflectors; (h) rear registration-plate lamps; (i) front fog lamps and filament lamps for such lamps; (j) rear fog lamps; (k) reversing lamps; (l) parking lamps.
+Article 2
+No Member State may refuse to grant EC type-approval or national type-approval of a tractor on grounds relating to the following lamps or reflectors, if these bear the EC component type-approval mark as provided for in Annex I and are installed in accordance with the requirements laid down in Directive 2009/61/EC:
+
+(a) headlamps which function as main-beam and/or dipped-beam headlamps or incandescent electric filament lamps for such headlamps; (b) end-outline marker lamps; (c) front position (side) lamps; (d) rear position (side) lamps; (e) stop lamps; (f) direction indicator lamps; (g) reflex reflectors; (h) rear registration-plate lamps; (i) front fog lamps and filament lamps for such lamps; (j) rear fog lamps; (k) reversing lamps; (l) parking lamps.
+| Directive 79/532/EEC | This Directive |
+|---|---|
+| Article 1 | Article 1 |
+| Article 2, introductory sentence and final wording | Article 2, introductory sentence |
+| Article 2, indents | Article 2(a)-(l) |
+| Article 3, introductory sentence and final wording | Article 3, introductory sentence |
+| Article 3, indents | Article 3(a)-(l) |
+| Article 4 | Article 4 |
+| Article 5(1) | — |
+| Article 5(2) | Article 5 |
+| — | Article 6 |
+| — | Article 7 |
+| Article 6 | Article 8 |
+| Annex | Annex I |
+| — | Annex II |
+| — | Annex III |
+recital 3
+(3) In Directive 2009/61/EC of the European Parliament and of the Council of 13 July 2009 relating to the installation of lighting and light-signalling devices on wheeled agricultural and forestry tractors (6) common requirements were laid down for the installation of lighting and light-signalling devices on wheeled agricultural or forestry tractors.
+
+Such lighting and light-signalling devices possess the same characteristics as those fitted to motor vehicles. Therefore, devices having received an EC component type-approval mark in accordance with the Directives already adopted on this subject in connection with the EC type-approval of motor vehicles and their trailers may also be used on tractors.

@@ -1,0 +1,59 @@
+Corrigendum to Regulation (EU) 2019/2144 of the European Parliament and of the Council of 27 November 2019 on type-approval requirements for motor vehicles and their trailers, and systems, components and separate technical units intended for such vehicles, as regards their general safety and the protection of vehicle occupants and vulnerable road users, amending Regulation (EU) 2018/858 of the European Parliament and of the Council and repealing Regulations (EC) No 78/2009, (EC) No 79/2009 and (EC) No 661/2009 of the European Parliament and of the Council and Commission Regulations (EC) No 631/2009, (EU) No 406/2010, (EU) No 672/2010, (EU) No 1003/2010, (EU) No 1005/2010, (EU) No 1008/2010, (EU) No 1009/2010, (EU) No 19/2011, (EU) No 109/2011, (EU) No 458/2011, (EU) No 65/2012, (EU) No 130/2012, (EU) No 347/2012, (EU) No 351/2012, (EU) No 1230/2012 and (EU) 2015/166
+(
+Official Journal of the European Union L 325 of 16 December 2019
+)
+Corrigendum to Regulation (EU) 2019/2144 of the European Parliament and of the Council of 27 November 2019 on type-approval requirements for motor vehicles and their trailers, and systems, components and separate technical units intended for such vehicles, as regards their general safety and the protection of vehicle occupants and vulnerable road users, amending Regulation (EU) 2018/858 of the European Parliament and of the Council and repealing Regulations (EC) No 78/2009, (EC) No 79/2009 and (EC) No 661/2009 of the European Parliament and of the Council and Commission Regulations (EC) No 631/2009, (EU) No 406/2010, (EU) No 672/2010, (EU) No 1003/2010, (EU) No 1005/2010, (EU) No 1008/2010, (EU) No 1009/2010, (EU) No 19/2011, (EU) No 109/2011, (EU) No 458/2011, (EU) No 65/2012, (EU) No 130/2012, (EU) No 347/2012, (EU) No 351/2012, (EU) No 1230/2012 and (EU) 2015/166
+(
+Official Journal of the European Union L 325 of 16 December 2019
+)
+ 1. On page 3, recital (14):
+for:
+'(14) Any processing of personal data, such as information about the driver processed in event data recorders or information about the driver's drowsiness and attention or the driver's distraction, should be carried out in accordance with with Union data protection law, ….',
+read:
+
+'(14) Any processing of personal data, such as information about the driver processed in event data recorders or information about the driver's drowsiness and attention or the driver's distraction, should be carried out in accordance with Union data protection law, ….'. 2. On page 13, Article 9(2):
+for:
+'2. Vehicles of categories M2, M3, N2 and N3 shall be equipped with a lane departure warning system and an advanced emergency braking system, both of which shall comply with the the technical specifications ….',
+read: '2. Vehicles of categories M2, M3, N2 and N3 shall be equipped with a lane departure warning system and an advanced emergency braking system, both of which shall comply with the technical specifications ….'. 3. On page 16, point (b) of Article 16: for:
+'(b) with effect from the dates specified Annex II, with respect to a particular requirement …',
+read: '(b) with effect from the dates specified in Annex II, with respect to a particular requirement …'. 4. On page 19, Annex I, column 'Subject', row 'UN Regulation Number' 48: for: 'Installation of lighting and light-signalling devices on motor vehicles',
+read: 'Installation of lighting and light-signalling devices on vehicles'. 5. On page 22, Annex I, column 'Scope covered by the UN Regulation', row 'UN Regulation Number' 137: for: 'M1',
+read: 'M1
+ '. 6. On page 25, Annex II, column 'Additional specific technical provisions', row 'A20 Frontal off-set impact': for: 'Applies to vehicle categories M1 with a maximum mass ≤ 3 500 kg and N1 with a maximum mass... ',
+read: 'Applies to vehicle categories M1 with a maximum mass ≤ 3 500 kg and N1 with a maximum mass …'. 7. On page 25, Annex II, column 'Additional specific technical provisions', row ' A25 Side impact': for: 'Applies to all vehicles of categories M1 and N1 including…',
+read: 'Applies to all vehicles of categories M1 and N1 including…'. 8. On page 26, Annex II, column 'Additional specific technical provisions', row 'A27 Rear impact': for: 'Applies to vehicle categories M1 with a maximum mass ≤ 3 500 kg and N1. Post-crash …',
+read: 'Applies to vehicle categories M1 with a maximum mass ≤ 3 500 kg and N1. Post-crash ...'. 9. On page 26, Annex II, column 'Additional specific technical provisions', row 'B8 Forward vision': for: 'Applies to vehicle categories M1 and N1',
+read: 'Applies to vehicle categories M1 and N1.'. 10. On page 28, Annex II, column 'Additional specific technical provisions', row 'C13 Tyre pressure monitoring for light-duty vehicles': for: 'Applies to vehicle categories M1 with a maximum mass ≤ 3 500 kg and N1.',
+read: 'Applies to vehicle categories M1 with a maximum mass ≤ 3 500 kg and N1. '. 11. On page 32, Annex II, footnote (4):
+for:
+'(4) The following vehicles are exempted: —
+semi-trailer towing vehicles of category N2 with a maximum mass exceeding 3,5 tonnes but not exceeding 8 tonnes,
+—
+vehicles of categories M2 and M3 of Class A, Class I and Class II as defined in paragraph 2.1 of UN Regulation No 107,
+—
+articulated buses of category M3 of Class A, Class I and Class II as defined in paragraph 2.1 of UN Regulation No 107,
+—
+off-road vehicles of categories M2, M3, N2 and N3,
+—
+special purpose vehicles of categories M2, M3, N2 and N3, and
+—
+vehicles of categories M2, M3, N2 and N3 with more than three axles.',
+read: '(4) The following vehicles are exempted: —
+semi-trailer towing vehicles of category N2 with a maximum mass exceeding 3,5 tonnes but not exceeding 8 tonnes,
+—
+vehicles of categories M2 and M3 of Class A, Class I and Class II as defined in paragraph 2.1 of UN Regulation No 107,
+—
+articulated buses of category M3 of Class A, Class I and Class II as defined in paragraph 2.1 of UN Regulation No 107,
+—
+off-road vehicles of categories M2, M3, N2 and N3,
+—
+special purpose vehicles of categories M2, M3, N2 and N3, and
+—
+vehicles of categories M2, M3, N2 and N3 with more than three axles.'. 12. On page 35, Annex III, point (f) of point (2): for:
+'(i) the table "Part I: Vehicles belonging to category M1" is amended as follows:',
+read: '(i) the table "Part I: Vehicles belonging to category M1" is amended as follows:'. 13. On page 36, Annex III, point (f) of point (2): for:
+'(ii) the table "Part II Vehicles belonging to category N1" is amended as follows:',
+read: '(ii) the table "Part II Vehicles belonging to category N1" is amended as follows:'. 14. On page 37, Annex III, point (iv) of point (4)(c):
+for:
+'(iv) the following point is added: "5. Points 1 to 4 also apply to vehicles of category M1 that are not categorised as special purpose vehicles but are wheelchair accessible vehicles.";',
+read: '(iv) the following point is added: "5. Points 1 to 4 also apply to vehicles of category M1 that are not categorised as special purpose vehicles but are wheelchair accessible vehicles.";'.

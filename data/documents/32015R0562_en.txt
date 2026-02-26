@@ -1,0 +1,59 @@
+Article 1
+Annex II to Regulation (EU) No 347/2012 is amended in accordance with the Annex to this Regulation.
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor (1), and in particular Article 14(1)(a) thereof,
+Whereas:
+
+(1) Regulation (EC) No 661/2009 is a separate Regulation for the purposes of the type-approval procedure provided for by Directive 2007/46/EC of the European Parliament and of the Council (2). (2) Regulation (EC) No 661/2009 lays down basic requirements for the type-approval of motor vehicles of categories M2, M3, N2 and N3 with regard to the installation of advanced emergency braking systems (AEBS). It is necessary to set out the specific procedures, tests and requirements for such type-approval. (3) Regulation (EC) No 661/2009 lays down a general obligation for vehicles of categories M2, M3, N2 and N3 to be equipped with an AEBS. (4) Commission Regulation (EU) No 347/2012 (3) lays down the specific procedures, tests and requirements for the type-approval of motor vehicles with regard to AEBS, and provides for the implementation of those requirements in two stages. As part of the first stage, certain new vehicle types were to be subject, as of 1 November 2013, to approval level 1. As part of the second stage, those vehicle types, together with certain other vehicle types that had not been subject to approval level 1, would be required to obtain approval level 2, entailing compliance with further and more extensive requirements. Regulation (EU) No 347/2012 further provided that approval level 2 would be implemented as of 1 November 2016 for new vehicle types. (5) The time-frame for the implementation of approval level 2 was set to ensure there would be sufficient lead-in time for gaining further experience with AEBS systems and to enable further technical developments in this field. In addition, the time-frame was intended to enable the Commission to take account of international harmonised performance and test requirements that the United Nations Economic Commission for Europe (UNECE) was to adopt with respect to the types of vehicle of the categories covered by UN Regulation No 131 relating to AEBS. (6) It was therefore envisaged that the Commission would adopt, no later than two years before the implementation date for approval level 2, the warning and braking activation test criteria for types of vehicle of category M2 and of category N2 with a gross vehicle mass equal to or less than 8 tonnes, taking into consideration the further developments at UNECE level on this issue. (7) UNECE has specified the target speed value applicable for the moving target scenario in approval level 2 for the testing of types of vehicles of category M2 and of category N2 with a maximum mass not exceeding 8 tonnes. The target speed values have been set conservatively, so as to allow for further experience with AEBS systems to be gained and to enable further technical developments in this field for the vehicle types concerned. (8) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee — Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+ANNEX
+ANNEX
+Annex II of Regulation (EU) No 347/2012 is amended as follows: (1) Point 2.4.2.1 is replaced by the following: '2.4.2.1. (a) For approval level 1: at least one haptic or acoustic warning mode shall be provided not later than the values specified in Column B of the table in Appendix 1. (b) For approval level 2: at least one warning mode shall be provided not later than the values specified in Column B of the table in Appendix 2, as follows: —
+in the case of vehicle categories referred to in Row 1 of the table in Appendix 2: the warning shall be haptic or acoustic, and
+—
+in the case of vehicle categories referred to in Row 2 of the table in Appendix 2: the warning shall be haptic, acoustic or optical.' (2) Point 2.4.2.2. is replaced by the following: '2.4.2.2. At least two warning modes shall be provided no later than the values specified in: for approval level 1: Column C of the table in Appendix 1; for approval level 2: Column C of the table in Appendix 2.' . (3) The last sentence in points 2.5.2.1 and 2.5.2.2 is deleted. (4) Appendix 2 is replaced by the following:
+
+| Row | A | B | C | D | E | F | G | H |
+|---|---|---|---|---|---|---|---|---|
+| 0 | Vehicle category | Stationary target | Stationary target | Stationary target | Moving target | Moving target | Moving target | Moving target |
+| 0 | Vehicle category | Timing of warning modes | Timing of warning modes | Speed reduction of subject vehicle | Timing of warning modes | Timing of warning modes | Speed reduction of subject vehicle | Target speed |
+| 0 | Vehicle category | At least 1 | At least 2 | Speed reduction of subject vehicle | At least 1 | At least 2 | Speed reduction of subject vehicle | Target speed |
+| 0 | Vehicle category | (ref. point 2.4.2.1) | (ref. point 2.4.2.2) | (ref. point 2.4.5) | (ref. point 2.5.2.1) | (ref. point 2.5.2.2) | (ref. point 2.5.3) | (ref. point 2.5.1) |
+| 1 | M3 (1), N3 and N2> 8t | Not later than 1,4 s. before the start of the emergency braking phase | Not later than 0,8 s. before the start of the emergency braking phase | Not less than 20 km/h | Not later than 1,4 s. before the start of the emergency braking phase | Not later than 0,8 s. before the start of the emergency braking phase | Subject vehicle shall not impact with the moving target | 12 ± 2 km/h |
+| 2 | N2≤ 8t (2) (4) and M2 (2) (4) | Not later than 0,8 s. before the start of the emergency braking phase | Before the start of the emergency braking phase (3) | Not less than 10 km/h | Not later than 0,8 s. before the start of the emergency braking phase | Before the start of the emergency braking phase (3) | Subject vehicle shall not impact with the moving target | 67 ± 2 km/h (5) |
+
+. (1) Vehicles of category M3 with hydraulic braking system are subject to the requirements of row 2. (2) Vehicles with pneumatic braking system are subject to the requirements of row 1. (3) Values shall be specified by the vehicle manufacturer at the time of type-approval (see Annex I, Part 2, Addendum, point 4.4). (4) Manufacturers of vehicle categories covered by row 2 may elect to gain vehicle type-approval in accordance with the values specified in row 1; in this instance compliance with all the values specified in row 1 shall be demonstrated. (5) The values for the target speed in cell H2 shall be reviewed before 1 November 2021.'
+recital 8
+(8) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee — Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+recital 7
+(7) UNECE has specified the target speed value applicable for the moving target scenario in approval level 2 for the testing of types of vehicles of category M2 and of category N2 with a maximum mass not exceeding 8 tonnes.
+
+The target speed values have been set conservatively, so as to allow for further experience with AEBS systems to be gained and to enable further technical developments in this field for the vehicle types concerned.
+recital 6
+(6) It was therefore envisaged that the Commission would adopt, no later than two years before the implementation date for approval level 2, the warning and braking activation test criteria for types of vehicle of category M2 and of category N2 with a gross vehicle mass equal to or less than 8 tonnes, taking into consideration the further developments at UNECE level on this issue.
+recital 5
+(5) The time-frame for the implementation of approval level 2 was set to ensure there would be sufficient lead-in time for gaining further experience with AEBS systems and to enable further technical developments in this field.
+
+In addition, the time-frame was intended to enable the Commission to take account of international harmonised performance and test requirements that the United Nations Economic Commission for Europe (UNECE) was to adopt with respect to the types of vehicle of the categories covered by UN Regulation No 131 relating to AEBS.
+recital 4
+(4) Commission Regulation (EU) No 347/2012 (3) lays down the specific procedures, tests and requirements for the type-approval of motor vehicles with regard to AEBS, and provides for the implementation of those requirements in two stages.
+
+As part of the first stage, certain new vehicle types were to be subject, as of 1 November 2013, to approval level 1. As part of the second stage, those vehicle types, together with certain other vehicle types that had not been subject to approval level 1, would be required to obtain approval level 2, entailing compliance with further and more extensive requirements. Regulation (EU) No 347/2012 further provided that approval level 2 would be implemented as of 1 November 2016 for new vehicle types.
+recital 3
+(3) Regulation (EC) No 661/2009 lays down a general obligation for vehicles of categories M2, M3, N2 and N3 to be equipped with an AEBS.
+recital 2
+(2) Regulation (EC) No 661/2009 lays down basic requirements for the type-approval of motor vehicles of categories M2, M3, N2 and N3 with regard to the installation of advanced emergency braking systems (AEBS).
+
+It is necessary to set out the specific procedures, tests and requirements for such type-approval.
+recital 1
+(1) Regulation (EC) No 661/2009 is a separate Regulation for the purposes of the type-approval procedure provided for by Directive 2007/46/EC of the European Parliament and of the Council (2).
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor (1), and in particular Article 14(1)(a) thereof,
+Whereas:
+Article 2
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.

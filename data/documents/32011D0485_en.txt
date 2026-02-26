@@ -1,0 +1,51 @@
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Decision No 676/2002/EC of the European Parliament and of the Council of 7 March 2002 on a regulatory framework for radio spectrum policy in the European Community (Radio Spectrum Decision) (1), and in particular Article 4(3) thereof,
+Whereas:
+
+(1) On 7 November 2008, the Commission issued a mandate to the European Conference of Postal and Telecommunications Administrations (CEPT) to undertake technical studies on automotive short-range radar systems in support of the fundamental review pursuant to Article 5(2) of Commission Decision 2005/50/EC (2) and to undertake radio compatibility studies with regard to possible alternative approaches to the use of the 24 GHz range. (2) CEPT reports 36 and 37 delivered pursuant to this mandate and the fundamental review carried out pursuant to Decision 2005/50/EC on evolution regarding the 24 GHz and 79 GHz bands indicate that the reference date of 30 June 2013 provided in Article 2(5) of that Decision is still valid, and that considering the current absence of harmful impact on other users of the 24 GHz band, there is no need to move it forward. (3) Development of automotive short-range radar technology in the 79 GHz range is progressing. However, there are strong indications that integration of the applications of that technology in car manufacturing will not be achieved by the deadline set for short-range technology in the 24 GHz range and that, considering the time still necessary for the development, integration and testing phases, it is likely that integration of 79 GHz radars in cars to allow for a mass market distribution will be feasible by 2018 or a few years before at the earliest. (4) Moreover, an additional period will be necessary in order to ensure the transition from the 24 GHz technology to the 79 GHz technology on car lines using 24 GHz technology which will exist when the new car lines equipped with the 79 GHz technology appear. (5) It is essential to ensure continuity of the existing and future production of cars equipped with 24 GHz radars, considering their importance for traffic safety and the need to encourage the development of such applications in as many of the existing vehicles as possible; therefore a discontinuity of usable spectrum for radars must be avoided and a temporary solution is needed in order to ensure the transition between 1 July 2013 and 1 January 2018. To allow for an additional transition period, the date of 1 January 2018 should be extended by 4 years for automotive short-range radar equipment mounted on motor vehicles for which a type-approval application has been granted before 1 January 2018. (6) Considering the international protection granted to radio astronomy, earth exploration satellite and space research passive services in the 23,60 GHz to 24 GHz band, and the exceptional character of the designation of that band for short-range radars by Decision 2005/50/EC, a prolongation of such designation is not a viable option. Moreover, the band 24 GHz to 24,25 GHz has been designated for industrial, scientific and medical purposes (ISM band). (7) CEPT compatibility studies, including some military systems, indicate that the 24,25 GHz to 27,50 GHz band may be a technically feasible alternative solution. The band above 26,50 GHz has been identified by NATO as a planned military band for fixed and mobile systems. (8) The threshold of a 7 % penetration rate imposed by Decision 2005/50/EC should be maintained, as there is no indication that such a limit would be exceeded before the switch-over to the 79 GHz band and to underline that the 24 GHz band remains a transitional solution. (9) The Commission, assisted by the Member States, should continue to monitor the application of this Decision, in particular regarding the threshold limit, and the absence of harmful interference to other users of the band or to neighbouring bands, whether or not the threshold of 7 % is exceeded. (10) Decision 2005/50/EC should therefore be amended accordingly. (11) The measures provided for in this Decision are in accordance with the opinion of the Radio Spectrum Committee,
+HAS ADOPTED THIS DECISION:
+recital 9
+(9) The Commission, assisted by the Member States, should continue to monitor the application of this Decision, in particular regarding the threshold limit, and the absence of harmful interference to other users of the band or to neighbouring bands, whether or not the threshold of 7 % is exceeded.
+recital 4
+(4) Moreover, an additional period will be necessary in order to ensure the transition from the 24 GHz technology to the 79 GHz technology on car lines using 24 GHz technology which will exist when the new car lines equipped with the 79 GHz technology appear.
+Article 1
+Decision 2005/50/EC is amended as follows:
+
+1. in Article 2, point 5 is replaced by the following: '5. "reference dates" means 30 June 2013 for the frequency between 21,65 and 24,25 GHz and 1 January 2018 for the frequency between 24,25 and 26,65 GHz;'; 2. Article 3 is amended as follows: (a) in the second paragraph, the words 'reference date' are replaced by 'reference dates'; (b) in the third paragraph, the words 'that date' are replaced in two places by 'those dates'; (c) the following paragraph is added after the third paragraph: 'However, the date of 1 January 2018 shall be extended by 4 years for automotive short-range radar equipment mounted on motor vehicles for which a type-approval application has been submitted pursuant to Article 6(6) of Directive 2007/46/EC of the European Parliament and of the Council (*1) and has been granted before 1 January 2018. (*1)
+OJ L 263, 9.10.2007, p. 1.';" 3. Article 5 is amended as follows: (a) in point (d) of paragraph 1, the words 'the reference date' are replaced by 'the reference dates'; (b) paragraphs 2 and 3 are deleted; (c) paragraph 4 is replaced by the following: '4. The Member States shall assist the Commission to carry out the scrutiny referred to in paragraph 1 by ensuring that the necessary information is collected and provided to the Commission in a timely manner, in particular the information set out in the Annex.'.
+recital 10
+(10) Decision 2005/50/EC should therefore be amended accordingly.
+recital 5
+(5) It is essential to ensure continuity of the existing and future production of cars equipped with 24 GHz radars, considering their importance for traffic safety and the need to encourage the development of such applications in as many of the existing vehicles as possible; therefore a discontinuity of usable spectrum for radars must be avoided and a temporary solution is needed in order to ensure the transition between 1 July 2013 and 1 January 2018.
+
+To allow for an additional transition period, the date of 1 January 2018 should be extended by 4 years for automotive short-range radar equipment mounted on motor vehicles for which a type-approval application has been granted before 1 January 2018.
+Article 2
+This Decision is addressed to the Member States.
+recital 11
+(11) The measures provided for in this Decision are in accordance with the opinion of the Radio Spectrum Committee,
+HAS ADOPTED THIS DECISION:
+recital 8
+(8) The threshold of a 7 % penetration rate imposed by Decision 2005/50/EC should be maintained, as there is no indication that such a limit would be exceeded before the switch-over to the 79 GHz band and to underline that the 24 GHz band remains a transitional solution.
+recital 7
+(7) CEPT compatibility studies, including some military systems, indicate that the 24,25 GHz to 27,50 GHz band may be a technically feasible alternative solution.
+
+The band above 26,50 GHz has been identified by NATO as a planned military band for fixed and mobile systems.
+recital 6
+(6) Considering the international protection granted to radio astronomy, earth exploration satellite and space research passive services in the 23,60 GHz to 24 GHz band, and the exceptional character of the designation of that band for short-range radars by Decision 2005/50/EC, a prolongation of such designation is not a viable option.
+
+Moreover, the band 24 GHz to 24,25 GHz has been designated for industrial, scientific and medical purposes (ISM band).
+recital 3
+(3) Development of automotive short-range radar technology in the 79 GHz range is progressing.
+
+However, there are strong indications that integration of the applications of that technology in car manufacturing will not be achieved by the deadline set for short-range technology in the 24 GHz range and that, considering the time still necessary for the development, integration and testing phases, it is likely that integration of 79 GHz radars in cars to allow for a mass market distribution will be feasible by 2018 or a few years before at the earliest.
+recital 2
+(2) CEPT reports 36 and 37 delivered pursuant to this mandate and the fundamental review carried out pursuant to Decision 2005/50/EC on evolution regarding the 24 GHz and 79 GHz bands indicate that the reference date of 30 June 2013 provided in Article 2(5) of that Decision is still valid, and that considering the current absence of harmful impact on other users of the 24 GHz band, there is no need to move it forward.
+recital 1
+(1) On 7 November 2008, the Commission issued a mandate to the European Conference of Postal and Telecommunications Administrations (CEPT) to undertake technical studies on automotive short-range radar systems in support of the fundamental review pursuant to Article 5(2) of Commission Decision 2005/50/EC (2) and to undertake radio compatibility studies with regard to possible alternative approaches to the use of the 24 GHz range.
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Decision No 676/2002/EC of the European Parliament and of the Council of 7 March 2002 on a regulatory framework for radio spectrum policy in the European Community (Radio Spectrum Decision) (1), and in particular Article 4(3) thereof,
+Whereas:

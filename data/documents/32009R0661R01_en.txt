@@ -1,0 +1,14 @@
+Corrigendum to Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor
+(
+Official Journal of the European Union L 200 of 31 July 2009
+)
+Corrigendum to Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor
+(
+Official Journal of the European Union L 200 of 31 July 2009
+)
+On page 14, Article 20, third and fourth paragraphs:
+
+for:
+'Article 13(15), Article 14 and points 1(a)(iii), 1(b)(iii) and (iv), 2(c), 3(a)(iii), 3(b)(iii), 3(c)(iii), 3(d)(iii), 3(e)(iii) and 3(f)(i) of Annex III shall apply from 20 August 2009. Points 1(a)(i), 1(b)(i), 2(a), 3(a)(i), 3(b)(i), 3(c)(i), 3(d)(i), 3(e)(i) and 3(f)(ii) of Annex III shall apply from 1 November 2014.',
+read: 'Article 13(15), Article 14 and points 1(a)(iii), 1(b)(iii) and (iv), 2(c), 3(a)(iii), 3(b)(iii), 3(c)(iii), 3(d)(iii), 3(e)(iii) and 3(f)(ii) of Annex III shall apply from 20 August 2009. Points 1(a)(i), 1(b)(i), 2(a), 3(a)(i), 3(b)(i), 3(c)(i), 3(d)(i), 3(e)(i) and 3(f)(i) of Annex III shall apply from 1 November 2014.'; on page 17, Annex II, Part B, the sentence following Table 2
+for: 'For snow tyres, the limits in Table 2 shall be increased by 1 kg/tonne.' read: 'For snow tyres, the limits in Table 1 and Table 2 shall be increased by 1 kg/tonne.'.

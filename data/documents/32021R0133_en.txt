@@ -1,0 +1,86 @@
+Article 1 - The means of exchange of data
+1. The manufacturer shall make available an electronic version of the certificate of conformity in accordance with the format and structure of the data elements and standardised messages set out in Article 2 through any national access point of the European Vehicle and Driving Licence Information System (EUCARIS) in the Union to the type-approval authority that has granted the whole-vehicle type-approval.
+
+2. The approval authority shall use EUCARIS as the means of exchange of data of the certificate of conformity as structured data in electronic format referred to in point (c) of Article 37(8) of Regulation (EU) 2018/858.
+Article 4 - Entry into force and application
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2023.
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC (1), and in particular Article 37(8) thereof,
+Whereas:
+recital 3
+(3) In order to make it possible for the approval authority and the manufacturer to implement the amendments to the data elements for the certificate of conformity in paper format referred to in Article 36(1) of Regulation (EU) 2018/858 in their data network it is necessary to lay down practical arrangements for such amendments.
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC (1), and in particular Article 37(8) thereof,
+Whereas:
+
+(1) To ensure that Member States have sufficient time to establish the organisation and structure of their data network, to enable data supply and reception of the certificates of conformity as structured data in electronic format, it is appropriate to designate the European Vehicle and Driving Licence Information System (EUCARIS) (2)for the exchange of that data. EUCARIS has been developed by and for governmental authorities to share vehicle and driving license registration information. (2) In order to ensure that the certificates of conformity are exchanged in a uniform manner and that the data elements and messages they contain are harmonised, the format and structure of the data elements of the certificates of conformity should be based on Extensible Markup Language (XML) schema structure and principles. The manufacturer and the approval authority should use the standardised Initial Vehicle Information (IVI) messages developed by the EUCARIS nominated party for operation, for their exchange as structured data in electronic format. (3) In order to make it possible for the approval authority and the manufacturer to implement the amendments to the data elements for the certificate of conformity in paper format referred to in Article 36(1) of Regulation (EU) 2018/858 in their data network it is necessary to lay down practical arrangements for such amendments. (4) In order to enable type-approval authorities, market surveillance authorities and registration authorities of the Member States as well as manufacturers to prepare for the application of the new rules introduced by this Regulation, the date of application should be deferred. (5) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee - Motor Vehicles (TCMV),
+HAS ADOPTED THIS REGULATION:
+Article 3 - Procedure for amending the data elements
+1. After consulting the Forum for Exchange of Information on Enforcement ('the Forum') referred to in Article 11 of Regulation (EU) 2018/858, the Commission shall inform the EUCARIS nominated party for operation of the amendments to the specifications of the data elements for the certificate of conformity in paper format referred to in Article 36(1) of Regulation (EU) 2018/858.
+
+2. The EUCARIS nominated party for operation shall make the necessary amendments referred to in paragraph 1 in the IVI messages within 3 months of the publication date in the Official Journal of the European Union of the amendments to the certificate of conformity in paper format referred to in Article 36(1) of Regulation (EU) 2018/858. 3. The EUCARIS nominated party for operation shall plan the release date or dates of the amended version of the IVI messages established in accordance with paragraph 2 in an annual overview and inform the Forum and the Commission thereof at the beginning of each year. The number of releases of the IVI messages shall be limited to two per year. 4. The Commission shall communicate to the Forum the amended version of the IVI messages and EUCARIS's annual planned release dates. 5. The approval authorities, market surveillance authorities, registration authorities of the Member States and the manufacturers shall implement the amended version of the IVI messages in their respective systems within 12 months of the publication date in the Official Journal of the European Union of the amendments to the certificate of conformity in paper format referred to in Article 36(1) of Regulation (EU) 2018/858. 6. The certificate of conformity that the manufacturer makes available in accordance with Article 1(1) shall be based on the most recent IVI messages reflecting the latest amendments to the certificate of conformity in paper format referred to in Article 36(1) of Regulation (EU) 2018/858. 7. The Commission shall determine the dates of application of the amendments to the certificate of conformity in paper format referred to in Article 36(1) of Regulation (EU) 2018/858 by taking into consideration the annual planned release dates of the IVI messages.
+recital 4
+(4) In order to enable type-approval authorities, market surveillance authorities and registration authorities of the Member States as well as manufacturers to prepare for the application of the new rules introduced by this Regulation, the date of application should be deferred.
+Introduction
+COMMISSION IMPLEMENTING REGULATION (EU) 2021/133of 4 February 2021
+implementing Regulation (EU) 2018/858 of the European Parliament and of the Council as regards the basic format, structure and the means of exchange of the data of the certificate of conformity in electronic format
+(OJ L 042 5.2.2021, p. 1)Amended by:
+
+Official Journal
+ No
+page
+date
+ ►M1
+ COMMISSION IMPLEMENTING REGULATION (EU) 2024/1061 of 10 April 2024
+ L 1061
+1
+11.4.2024
+Article 3 - Procedure for amending the data elements
+1.
+
+After consulting the Forum for Exchange of Information on Enforcement ('the Forum') referred to in Article 11 of Regulation (EU) 2018/858, the Commission shall inform the EUCARIS nominated party for operation of the amendments to the specifications of the data elements for the certificate of conformity in paper format referred to in Article 36(1) of Regulation (EU) 2018/858. 2. 
+ The EUCARIS nominated party for operation shall make the necessary amendments referred to in paragraph 1 in the IVI messages within 3 months of the publication date in the Official Journal of the European Union of the amendments to the certificate of conformity in paper format referred to in Article 36(1) of Regulation (EU) 2018/858. 3. 
+ The EUCARIS nominated party for operation shall plan the release date or dates of the amended version of the IVI messages established in accordance with paragraph 2 in an annual overview and inform the Forum and the Commission thereof at the beginning of each year. The number of releases of the IVI messages shall be limited to two per year. 4. 
+ The Commission shall communicate to the Forum the amended version of the IVI messages and EUCARIS's annual planned release dates. 5. 
+ The approval authorities, market surveillance authorities, registration authorities of the Member States and the manufacturers shall implement the amended version of the IVI messages in their respective systems within 12 months of the publication date in the Official Journal of the European Union of the amendments to the certificate of conformity in paper format referred to in Article 36(1) of Regulation (EU) 2018/858. 6. 
+ The certificate of conformity that the manufacturer makes available in accordance with Article 1(1) shall be based on the most recent IVI messages reflecting the latest amendments to the certificate of conformity in paper format referred to in Article 36(1) of Regulation (EU) 2018/858. 7. 
+ The Commission shall determine the dates of application of the amendments to the certificate of conformity in paper format referred to in Article 36(1) of Regulation (EU) 2018/858 by taking into consideration the annual planned release dates of the IVI messages.
+recital 2
+(2) In order to ensure that the certificates of conformity are exchanged in a uniform manner and that the data elements and messages they contain are harmonised, the format and structure of the data elements of the certificates of conformity should be based on Extensible Markup Language (XML) schema structure and principles.
+
+The manufacturer and the approval authority should use the standardised Initial Vehicle Information (IVI) messages developed by the EUCARIS nominated party for operation, for their exchange as structured data in electronic format.
+recital 5
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee - Motor Vehicles (TCMV),
+HAS ADOPTED THIS REGULATION:
+Article 2 - Basic format and structure of the data elements and standardised messages
+1.
+
+The format and structure of the data elements of the certificates of conformity in electronic format and the messages used in the exchange, referred to in point (a) of Article 37(8) of Regulation (EU) 2018/858, shall be based on Extensible Markup Language (XML) schema structure and principles. 2. The manufacturer and the approval authority shall use the standardised Initial Vehicle Information (IVI) messages developed by the EUCARIS nominated party for operation, for the exchange of the certificates of conformity as structured data in electronic format. 3. The IVI messages shall include all data elements of the certificate of conformity in paper format referred to in Article 36(1) of Regulation (EU) 2018/858.
+Article 4 - Entry into force and application
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2023.
+Article 2 - Basic format and structure of the data elements and standardised messages
+1. 
+ The format and structure of the data elements of the certificates of conformity in electronic format and the messages used in the exchange, referred to in point (a) of Article 37(8) of Regulation (EU) 2018/858, shall be based on Extensible Markup Language (XML) schema structure and principles.
+
+2. 
+ The manufacturer and the approval authority shall use the standardised Initial Vehicle Information (IVI) messages developed by the EUCARIS nominated party for operation, for the exchange of the certificates of conformity as structured data in electronic format. 3. 
+ The IVI messages shall include all data elements of the certificate of conformity in paper format referred to in Article 36(1) of Regulation (EU) 2018/858.
+Article 1 - The means of exchange of data
+1.
+
+The manufacturer shall make available an electronic version of the certificate of conformity in accordance with the format and structure of the data elements and standardised messages set out in Article 2 through any national access point of the European Vehicle and Driving Licence Information System (EUCARIS) in the Union to the type-approval authority that has granted the whole-vehicle type-approval. 2. 
+ The approval authority shall use EUCARIS as the means of exchange of data of the certificate of conformity as structured data in electronic format referred to in point (c) of Article 37(8) of Regulation (EU) 2018/858.
+Article 3a - Exemption for manufacturers of particular vehicle categories and types of vehicle that are produced in small series
+By way of derogation from Articles 1 and 2, for manufacturers of particular vehicle categories and types of vehicle that are produced in small series, it shall be sufficient to make available the data elements of the electronic version of the certificate of conformity by means of manual input or through the upload of an IVI XML file.
+recital 1
+(1) To ensure that Member States have sufficient time to establish the organisation and structure of their data network, to enable data supply and reception of the certificates of conformity as structured data in electronic format, it is appropriate to designate the European Vehicle and Driving Licence Information System (EUCARIS) (2)for the exchange of that data.
+
+EUCARIS has been developed by and for governmental authorities to share vehicle and driving license registration information.

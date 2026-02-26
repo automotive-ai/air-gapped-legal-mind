@@ -1,0 +1,133 @@
+Article 1 - Subject and scope
+1. This Regulation sets out the guiding principles and criteria for defining the procedures for verifying that the CO2 emission and fuel consumption values recorded in the certificates of conformity correspond to the CO2 emissions from and the fuel consumption of vehicles in-service.
+
+It also sets out the procedures for verifying the presence of any strategies on board or relating to the vehicles that artificially improve the vehicle's performance in the tests performed for the purpose of type-approval ('in-service verification'). 2. This Regulation does not apply to the following: (a) vehicles which are exempt from measurement of CO2 emissions; (b) manufacturers which, together with all of their connected undertakings, have been responsible for fewer than 1 000 new passenger cars or for fewer than 1 000 new light commercial vehicles registered in the Union in the calendar year two years before the calendar year in which in-service verification families are selected in accordance with Article 3(1).
+Article 2 - Definitions
+For the purposes of this Regulation, the definitions in Article 2 of Commission Regulation (EU) 2017/1151 (3), and Article 3 of Regulation (EU) 2019/631 shall apply.
+
+The following definitions shall also apply: (1) 'granting type-approval authority' means the type-approval authority that granted the emission type-approval in accordance with Regulation (EC) No 715/2007 of the European Parliament and of the Council (4), or where applicable, in accordance with Regulation (EC) No 595/2009 of the European Parliament and of the Council (5); (2) 'in-service verification family' means all M1 or N1 vehicles, for which one type-approval authority granted the emission type-approval in accordance with Regulation (EC) No 715/2007 or, where applicable, Regulation (EC) No 595/2009 on the basis of the same Type 1 test as set out in Annex XXI to Regulation (EU) 2017/1151 for 'vehicle high' or 'vehicle low'; (3) 'road load family' means road load family or road load matrix family as defined in paragraphs 6.3.3. and 6.3.4. of UN Regulation No 154; in case of N1 vehicles type-approved according to Regulation (EC) No 595/2009, a road load family consists of all vehicles of the in-service verification family concerned; (4) 'artificial strategies' means strategies on board or relating to the sampled vehicles that artificially improve the vehicle's performance in the tests performed for the purpose of type-approval.
+Article 6 - Funding of the in-service verifications
+The granting type-approval authority shall ensure that sufficient resources are available to cover the costs for the in-service verification.
+
+Those costs shall be recovered by fees that can be levied on the manufacturer by the granting type-approval authority. The fees shall cover the steps of the in-service verification needed in order for the granting type-approval authority to come to a conclusion as referred to in Article 5(2).
+recital 1
+(1) Regulation (EU) 2019/631 provides for verification of the CO2 emissions and fuel consumption of passenger cars and light commercial vehicles in-service ('in-service verification').
+(1) 'granting type-approval authority' means the type-approval authority that granted the emission type-approval in accordance with Regulation (EC) No 715/2007 of the European Parliament and of the Council
+Article 6 - Funding of the in-service verifications
+The granting type-approval authority shall ensure that sufficient resources are available to cover the costs for the in-service verification.
+
+Those costs shall be recovered by fees that can be levied on the manufacturer by the granting type-approval authority. The fees shall cover the steps of the in-service verification needed in order for the granting type-approval authority to come to a conclusion as referred to in Article 5(2).
+Article 3 - Selection of in-service verification families
+Each granting type-approval authority shall annually select a sample of in-service verification families for which it has issued emissions type-approvals.
+
+The selection shall include at least one in-service verification family per manufacturer for which the granting type-approval authority has issued emissions type-approvals in the three calendar years preceding the in-service verification.
+Article 7 - Entry into force
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+recital 2
+(2) All vehicle manufacturers should be subject to in-service verification, except for those manufacturers placing a limited number of vehicles on the market, in order to avoid excessive testing burden, while not significantly affecting the overall CO2 emission performance.
+Article 7 - Entry into force
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+Article 4 - In-service verification tests
+1. For each in-service verification family selected in accordance with Article 3, the granting type-approval authority shall, for the purpose of the tests referred to in paragraph 2, select vehicles in-service which are in a state representative of a vehicle properly maintained and used and have characteristics covered by those recorded in the certificate of conformity.
+
+2. The granting type-approval authority shall verify that the specific CO2 emission and fuel consumption values recorded in the certificates of conformity of vehicles selected in accordance with paragraph 1 correspond to the CO2 emissions from, and fuel consumption of, vehicles in-service and whether artificial strategies are present, by means of any of the following tests: (a) for a number of vehicles determined on the basis of a statistical evaluation method: chassis dynamometer tests in accordance with Annex B6 and Annex B8 of UN Regulation No 154; (b) for a number of vehicles determined on the basis of a statistical evaluation method and belonging to one road load family: road-load tests in accordance with Annex B4 of UN Regulation No 154; (c) for an adequate number of vehicles: dedicated tests using virtual or physical testing methods. 3. The granting type-approval authority shall entrust the tests referred to in paragraph 2 to a technical service that did not perform, for the in-service verification family concerned, the Type 1 test as set out in Annex XXI to Regulation (EU) 2017/1151 for the purpose of emission type-approval in accordance with Regulation (EC) No 715/2007 or, where applicable, Regulation (EC) No 595/2009. 4. The granting type-approval authority shall evaluate the test results of the individual test vehicles and establish whether the CO2 emissions and fuel consumption values of vehicles in-service are higher than the specific emissions of CO2 and fuel consumption values recorded in the certificates of conformity, taking into account the statistical evaluation of the tests referred to in paragraph 2(a) and (b), and whether artificial strategies are present. 5. Each manufacturer shall on request provide the granting type-approval authority and any entity performing in-service verification tests with all information, documentation and technical specifications or support that is needed for adequately performing the in-service verification.
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) 2019/631 of the European Parliament and of the Council of 17 April 2019 setting CO2 emission performance standards for new passenger cars and for new light commercial vehicles, and repealing Regulations (EC) No 443/2009 and (EU) No 510/2011 (1), and in particular Article 13(4), second subparagraph thereof,
+Whereas:
+
+(1) Regulation (EU) 2019/631 provides for verification of the CO2 emissions and fuel consumption of passenger cars and light commercial vehicles in-service ('in-service verification'). (2) All vehicle manufacturers should be subject to in-service verification, except for those manufacturers placing a limited number of vehicles on the market, in order to avoid excessive testing burden, while not significantly affecting the overall CO2 emission performance. (3) The CO2 emission and fuel consumption values recorded in the certificates of conformity should be verified using the road-load and chassis dynamometer test procedures set out in UN Regulation No 154 (2), but in order to verify the presence of strategies that artificially improve the vehicle's performance in the type-approval tests additional, dedicated tests should also be carried out. (4) In order to reduce the possibility of a conflict of interests, the in-service verification tests should be performed by a technical service that was not involved in the tests for type-approval of the vehicles concerned. Chassis dynamometer tests should be performed at the technical service's own facility and not by witness testing at a manufacturer's facility. (5) In order to allow the granting type-approval authority to come to a conclusion for the entire vehicle family concerned, on the basis of the test results for the vehicles sampled, an appropriate statistical evaluation method should be established. (6) Manufacturers should ensure that the CO2 emission and fuel consumption values recorded in the certificates of conformity correspond to the CO2 emissions from, and fuel consumption of, vehicles in-service, to be verified by the granting type-approval authority. In order for these in-service verification activities to be adequately funded, the granting type-approval authority should charge proportionate fees to the manufacturers. (7) In order to reduce testing burden and costs, where possible and appropriate, the same vehicles or tests should be used for both in-service verification of CO2 emissions and in-service conformity checks of pollutant emissions,
+HAS ADOPTED THIS REGULATION:
+recital 7
+(7) In order to reduce testing burden and costs, where possible and appropriate, the same vehicles or tests should be used for both in-service verification of CO2 emissions and in-service conformity checks of pollutant emissions,
+HAS ADOPTED THIS REGULATION:
+recital 5
+(5) In order to allow the granting type-approval authority to come to a conclusion for the entire vehicle family concerned, on the basis of the test results for the vehicles sampled, an appropriate statistical evaluation method should be established.
+Article 5 - Documentation, duty to inform and conclusion of the granting type-approval authority
+1. The granting type-approval authority shall ensure that the tests performed in accordance with Article 4 are documented, and that the test reports are made available to the Commission, to the manufacturer of the vehicles concerned and, on request, to other type-approval authorities, market surveillance authorities and third parties complying with the requirements of Commission Implementing Regulation (EU) 2022/163 (6).
+
+2. The granting type-approval authority shall, within 10 months after starting a test, come to a conclusion on whether or not the in-service verification has identified a lack of correspondence between the CO2 emission and fuel consumption values of the in-service vehicles and the values recorded in the certificates of conformity, or the presence of artificial strategies. 3. A conclusion by the granting type-approval authority in accordance with paragraph 2 shall apply to all vehicles of the in-service verification family concerned or, where based on road load test results, to all vehicles of the road load family concerned, that have first entered into service in the Union.
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) 2019/631 of the European Parliament and of the Council of 17 April 2019 setting CO2 emission performance standards for new passenger cars and for new light commercial vehicles, and repealing Regulations (EC) No 443/2009 and (EU) No 510/2011 (1), and in particular Article 13(4), second subparagraph thereof,
+Whereas:
+recital 3
+(3) The CO2 emission and fuel consumption values recorded in the certificates of conformity should be verified using the road-load and chassis dynamometer test procedures set out in UN Regulation No 154 (2), but in order to verify the presence of strategies that artificially improve the vehicle's performance in the type-approval tests additional, dedicated tests should also be carried out.
+recital 4
+(4) In order to reduce the possibility of a conflict of interests, the in-service verification tests should be performed by a technical service that was not involved in the tests for type-approval of the vehicles concerned.
+
+Chassis dynamometer tests should be performed at the technical service's own facility and not by witness testing at a manufacturer's facility.
+recital 6
+(6) Manufacturers should ensure that the CO2 emission and fuel consumption values recorded in the certificates of conformity correspond to the CO2 emissions from, and fuel consumption of, vehicles in-service, to be verified by the granting type-approval authority.
+
+In order for these in-service verification activities to be adequately funded, the granting type-approval authority should charge proportionate fees to the manufacturers.
+Article 1 - Subject and scope
+1. 
+ This Regulation sets out the guiding principles and criteria for defining the procedures for verifying that the CO2 emission and fuel consumption values recorded in the certificates of conformity correspond to the CO2 emissions from and the fuel consumption of vehicles in-service.
+
+It also sets out the procedures for verifying the presence of any strategies on board or relating to the vehicles that artificially improve the vehicle's performance in the tests performed for the purpose of type-approval ('in-service verification'). 2. 
+ This Regulation does not apply to the following: (a) 
+vehicles which are exempt from measurement of CO2 emissions; (b) 
+manufacturers which, together with all of their connected undertakings, have been responsible for fewer than 1 000 new passenger cars or for fewer than 1 000 new light commercial vehicles registered in the Union in the calendar year two years before the calendar year in which in-service verification families are selected in accordance with Article 3(1).
+Article 2 - Definitions
+For the purposes of this Regulation, the definitions in Article 2 of Commission Regulation (EU) 2017/1151 (
+1
+), and Article 3 of Regulation (EU) 2019/631 shall apply.
+
+The following definitions shall also apply: (1) 
+'granting type-approval authority' means the type-approval authority that granted the emission type-approval in accordance with Regulation (EC) No 715/2007 of the European Parliament and of the Council (
+2
+), or where applicable, in accordance with Regulation (EC) No 595/2009 of the European Parliament and of the Council (
+3
+); (2) 
+'in-service verification family' means all M1 or N1 vehicles, for which one type-approval authority granted the emission type-approval in accordance with Regulation (EC) No 715/2007 or, where applicable, Regulation (EC) No 595/2009 on the basis of the same Type 1 test as set out in Annex XXI to Regulation (EU) 2017/1151 for 'vehicle high' or 'vehicle low'; (3) 
+'road load family' means road load family or road load matrix family as defined in paragraphs 6.3.3. and 6.3.4. of UN Regulation No 154; in case of N1 vehicles type-approved according to Regulation (EC) No 595/2009, a road load family consists of all vehicles of the in-service verification family concerned; (4) 
+'artificial strategies' means strategies on board or relating to the sampled vehicles that artificially improve the vehicle's performance in the tests performed for the purpose of type-approval.
+Article 3 - Selection of in-service verification families
+Each granting type-approval authority shall annually select a sample of in-service verification families for which it has issued emissions type-approvals.
+
+The selection shall include at least one in-service verification family per manufacturer for which the granting type-approval authority has issued emissions type-approvals in the three calendar years preceding the in-service verification.
+Article 4 - In-service verification tests
+1.
+
+For each in-service verification family selected in accordance with Article 3, the granting type-approval authority shall, for the purpose of the tests referred to in paragraph 2, select vehicles in-service which are in a state representative of a vehicle properly maintained and used and have characteristics covered by those recorded in the certificate of conformity. 2. 
+ The granting type-approval authority shall verify that the specific CO2 emission and fuel consumption values recorded in the certificates of conformity of vehicles selected in accordance with paragraph 1 correspond to the CO2 emissions from, and fuel consumption of, vehicles in-service and whether artificial strategies are present, by means of any of the following tests: (a) 
+for a number of vehicles determined on the basis of a statistical evaluation method: chassis dynamometer tests in accordance with Annex B6 and Annex B8 of UN Regulation No 154; (b) 
+for a number of vehicles determined on the basis of a statistical evaluation method and belonging to one road load family: road-load tests in accordance with Annex B4 of UN Regulation No 154; (c) 
+for an adequate number of vehicles: dedicated tests using virtual or physical testing methods. 3. 
+ The granting type-approval authority shall entrust the tests referred to in paragraph 2 to a technical service that did not perform, for the in-service verification family concerned, the Type 1 test as set out in Annex XXI to Regulation (EU) 2017/1151 for the purpose of emission type-approval in accordance with Regulation (EC) No 715/2007 or, where applicable, Regulation (EC) No 595/2009. 4. 
+ The granting type-approval authority shall evaluate the test results of the individual test vehicles and establish whether the CO2 emissions and fuel consumption values of vehicles in-service are higher than the specific emissions of CO2 and fuel consumption values recorded in the certificates of conformity, taking into account the statistical evaluation of the tests referred to in paragraph 2(a) and (b), and whether artificial strategies are present. 5. 
+ Each manufacturer shall on request provide the granting type-approval authority and any entity performing in-service verification tests with all information, documentation and technical specifications or support that is needed for adequately performing the in-service verification.
+Article 5 - Documentation, duty to inform and conclusion of the granting type-approval authority
+1. 
+ The granting type-approval authority shall ensure that the tests performed in accordance with Article 4 are documented, and that the test reports are made available to the Commission, to the manufacturer of the vehicles concerned and, on request, to other type-approval authorities, market surveillance authorities and third parties complying with the requirements of Commission Implementing Regulation (EU) 2022/163 (
+4
+).
+
+2. 
+ The granting type-approval authority shall, within 10 months after starting a test, come to a conclusion on whether or not the in-service verification has identified a lack of correspondence between the CO2 emission and fuel consumption values of the in-service vehicles and the values recorded in the certificates of conformity, or the presence of artificial strategies. 3. 
+ A conclusion by the granting type-approval authority in accordance with paragraph 2 shall apply to all vehicles of the in-service verification family concerned or, where based on road load test results, to all vehicles of the road load family concerned, that have first entered into service in the Union.
+(1) 'granting type-approval authority' means the type-approval authority that granted the emission type-approval in accordance with Regulation (EC) No 715/2007 of the European Parliament and of the Council ( 2 ), or where applicable, in accordance with Regulation (EC) No 595/2009 of the European Parliament and of the Council ( 3 );
+Introduction
+COMMISSION DELEGATED REGULATION (EU) 2023/2867of 5 October 2023
+ supplementing Regulation (EU) 2019/631 of the European Parliament and of the Council by setting out the guiding principles and criteria for defining the procedures for the verification of the CO2 emissions and fuel consumption values of passenger cars and light commercial vehicles in-service (in-service verification)
+(Text with EEA relevance)
+(OJ L 2867 18.12.2023, p. 1)Amended by:
+
+Official Journal
+ No
+page
+date
+ M1
+ COMMISSION DELEGATED REGULATION (EU) 2024/1294 of 1 March 2024
+ L 1294
+1
+6.5.2024
+(2) 'in-service verification family' means all M1 or N1 vehicles, for which one type-approval authority granted the emission type-approval in accordance with Regulation (EC) No 715/2007 or, where applicable, Regulation (EC) No 595/2009 on the basis of the same Type 1 test as set out in Annex XXI to Regulation (EU) 2017/1151 for 'vehicle high' or 'vehicle low';
+(2) 'in-service verification family' means all M1 or N1 vehicles, for which one type-approval authority granted the emission type-approval in accordance with Regulation (EC) No 715/2007 or, where applicable, Regulation (EC) No 595/2009 on the basis of the same Type 1 test as set out in Annex XXI to Regulation (EU) 2017/1151 for 'vehicle high' or 'vehicle low';
+(3) 'road load family' means road load family or road load matrix family as defined in paragraphs
+(3) 'road load family' means road load family or road load matrix family as defined in paragraphs
+(4) 'artificial strategies' means strategies on board or relating to the sampled vehicles that artificially improve the vehicle's performance in the tests performed for the purpose of type-approval.
+(4) 'artificial strategies' means strategies on board or relating to the sampled vehicles that artificially improve the vehicle's performance in the tests performed for the purpose of type-approval.

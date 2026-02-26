@@ -1,0 +1,117 @@
+recital 13
+(13) Any manufacturer wishing to benefit from a reduction of its average specific CO2 emissions for the purpose of meeting its specific emissions target by means of the CO2 savings from the use of the innovative technology approved by this Decision, should in accordance with Article 11(1) of Implementing Regulation (EU) No 725/2011, refer to this Decision in its application for an EC type-approval certificate for the vehicles concerned.
+recital 11
+(11) The Commission finds that the verification report has been prepared by Vehicles Certification Agency which is an independent and certified body and that the report supports the findings set out in the application.
+Article 1
+1. The efficient exterior lighting system including low-beam headlamp, high-beam headlamp, front position, front fog, rear fog, front turn signal, rear turn signal, licence plate and reversing lamp fitted with light emitting diodes (LEDs) intended for use in M1 vehicles is approved as an innovative technology within the meaning of Article 12 of Regulation (EC) No 443/2009.
+
+2. The CO2 emissions reduction from the use of the efficient exterior lighting system including all, or an appropriate combination of the lighting functions referred to in paragraph 1 shall be determined using the methodology set out in the Annex. 3. The individual eco-innovation code to be entered into type-approval documentation to be used for the innovative technology approved through this Implementing Decision shall be '15'.
+1. TESTING METHODOLOGY — INTRODUCTION
+ANNEX
+1. Testing methodology — Introduction
+In order to determine the CO2 emission reductions that can be attributed to the efficient exterior lighting system including all, or an appropriate combination of low-beam headlamps, high-beam headlamps, front position, front fog, rear fog, front turn signal, rear turn signal, licence plate and reversing lamps fitted with light emitting diodes (LED) in an M1 vehicle, it is necessary to establish the following: (a) the testing conditions; (b) the test procedure; (c) the formulae for calculating the CO2 savings; (d) the formulae for calculating the standard deviation; (e) the determination of the CO2 savings for the certification by type approval authorities. 2. Testing conditions
+The requirements of Regulation UN/ECE No 112 (1) on uniform provisions concerning the approval of motor vehicle headlamps emitting an asymmetrical passing beam or a driving beam or both and equipped with filament lamps and/or light-emitting diode (LED) modules shall apply. For determining the power consumption, the reference is to be made to point 6.1.4 of Regulation No 112, and points 3.2.1 and 3.2.2 of Annex 10 to Regulation No 112. 3. The testing procedure
+Measurements are to be performed as shown in the figure. The following equipment is to be used: —
+a power supply unit (i.e. variable voltage supplier),
+—
+two digital multi-meters, one for measuring the DC current, and the other for measuring the DC voltage. In the figure the test set-up shows the possible case of the DC voltage meter integrated in the power supply unit. {{IMAGE:Image_0, Caption:Schematic diagram of the test setup for an LED lamp, featuring a variable voltage supplier, a current monitor, and the LED lamp connected in a series circuit.}} Variable voltage supplier
+Current monitor
+LED lamp
+In total, five measurements on the current should be done at 13,2 V for each type of lighting used in the vehicle (i.e. low-beam headlamp, high-beam headlamp, front position, front fog, rear fog, front turn signal, rear turn signal, licence plate and reversing lamps). LED module(s) operated by an electronic light source control gear, shall be measured as specified by the applicant. As an alternative, other measurements on the current can be done at other additional voltages. The manufacturer must hand over verified documentation on the necessity to perform these other measurements to the type-approval authority. In total, five measurements on the current are to be done at each of these additional voltages. The exact installed voltages and the measured current are to be recorded in four decimals. 4. Formulae
+The following steps are to be taken to determine the CO2 savings and to determine whether the threshold value of 1 gCO2/km is met: Step 1: Calculation of the power savings
+Step 2: Calculation of the CO2 savings
+Step 3: Calculation of the error in the CO2 savings
+Step 4: Verification of the threshold value. 4.1 Calculation of the power savings
+For each of the five measurements the power which is used is to be calculated by multiplying the installed voltage with the measured current. When a stepper motor or electronic controller is used for the supply of the electricity to the LED lamps, then the electric load of this component part is to be excluded from the measurement. This will result in five values. Each value must be expressed in four decimals. Then the mean value of the used power will be calculated, which is the sum of the five values for the power divided by five. The resulting power savings are to be calculated with the following formula: Formula (1):
+ΔP = Pbaseline - Peco-innovation
+Where: ΔP
+Power savings [W];
+Pbaseline
+Power of the baseline, specified in Table 1 [W];
+Peco-innovation
+Mean value of the used power of the eco-innovation [W].
+
+| Type of lighting | Total electric power [W] |
+|---|---|
+| Low-beam headlamp | 137 |
+| High-beam headlamp | 150 |
+| Front position | 12 |
+| Licence plate | 12 |
+| Front fog lamp | 124 |
+| Rear fog lamp | 26 |
+| Front turn signal lamp | 13 |
+| Rear turn signal lamp | 13 |
+| Reversing lamp | 52 | 4.2 Calculation of the CO2 savings
+The total CO2 savings of the innovative technology (efficient exterior lighting system) are to be calculated by formulae (2), (3) and (4). For a petrol-fuelled vehicle: Formula(2): {{IMAGE:Image_1, Caption:Formula (2) for calculating CO2 savings ($C_{CO_2}$) for a petrol-fuelled vehicle.}} For a diesel-fuelled vehicle: {{IMAGE:Image_2, Caption:Formula (3) for calculating the total CO2 savings for a diesel-fuelled vehicle.}} For a petrol-fuelled vehicle with turbo charger: {{IMAGE:Image_3, Caption:Formula (2) for calculating CO2 savings for a petrol-fuelled vehicle.}} These formulae present the total CO2 savings of the innovative technology (efficient exterior lighting system) in gCO2/km.
+
+| Type of lighting | Usage factor UF |
+|---|---|
+| Low-beam headlamp | 033 |
+| High-beam headlamp | 003 |
+| Front position | 036 |
+| Licence plate | 036 |
+| Front fog lamp | 001 |
+| Rear fog lamp | 001 |
+| Front turn signal lamp | 015 |
+| Rear turn signal lamp | 015 |
+| Reversing lamp | 001 |
+
+4.3 Calculation of the statistical error in the CO2 savings
+The statistical error in the CO2 savings is to be determined in two steps. In the first step the error value of the power is to be determined as a standard deviation being equivalent to a confidence interval of 68 % around the mean. This is to be done by formula (5). Formula (5): {{IMAGE:Image_4, Caption:Formula (2) for calculating the standard error of the mean ($s_{\bar{x}}$).}} Where: {{IMAGE:Image_5, Caption:Mathematical notation showing the symbol S with a subscript x-bar ($S_{\bar{x}}$).}} {{IMAGE:Image_6, Caption:The mathematical symbol X-bar ($\overline{X}$).}} Mean of the sample data [W]
+n
+Number of observations of the sample, which is five. In order to calculate the error in the CO2 savings for petrol, petrol turbo and diesel-fuelled vehicles, the propagation law, expressed in formula (6), is to be applied. Formula (6): {{IMAGE:Image_7, Caption:Mathematical formula for calculating the standard deviation of CO2 savings ($s_{C_{CO_2}}$) using the law of propagation of uncertainty.}} Where: {{IMAGE:Image_17, Caption:Mathematical symbol $S_{C_{CO_2}}$ representing CO2 savings.}} {{IMAGE:Image_9, Caption:Mathematical expression representing the partial derivative of CO2 with respect to power Pj.}} {{IMAGE:Image_10, Caption:Mathematical symbol $S_{\overline{P}_j}$ used in CO2 savings formulae.}} {{IMAGE:Image_11, Caption:Mathematical symbol P-bar subscript j ($\overline{P}_j$).}} [W]
+m
+Number of types of lighting in the innovative technology package
+Substituting formula (2) in formula (6) results in formula (7) for calculating the error in CO2 savings for petrol-fuelled vehicles. {{IMAGE:Image_12, Caption:Mathematical formula defining the calculation for the standard deviation of CO2 savings ($s_{C_{CO_2}}$).}} Substituting formula (3) in formula (6) results in formula (8) for calculating the error in CO2 savings for diesel-fuelled vehicles. Formula(8): {{IMAGE:Image_13, Caption:Mathematical formula for calculating CO2 savings ($S_{C_{CO_2}}$), incorporating a specific emission factor and a summation of usage and power terms.}} Substituting formula (4) in formula (6) results in formula (9) for calculating the error in CO2 savings for petrol-fuelled vehicles with turbo charger. Formula (9): {{IMAGE:Image_14, Caption:Mathematical formula for calculating CO2 savings ($s_{C_{CO_2}}$) for a petrol-fuelled vehicle.}} 4.4 Verification of the threshold value
+In order to demonstrate that the 1,0 gCO2/km threshold is exceeded with statistical relevance, the following formula (10) should be used. Formula 10: {{IMAGE:Image_15, Caption:Mathematical formula defining the Minimum Threshold (MT) as 1.0 gCO2/km, which must be less than or equal to the difference between the CO2 coefficient and its associated term.}}
+recital 9
+(9) Since the activation of the exterior lighting is not required for the CO2 emissions type-approval test referred to in Regulation (EC) No 715/2007 of the European Parliament and of the Council (4) and Commission Regulation (EC) No 692/2008 (5), the Commission is satisfied that the lighting functions in question are not covered by the standard test cycle.
+recital 7
+(7) The applicant has provided a methodology for testing the CO2 reductions which includes formulae that are consistent with the formulae described in the Technical Guidelines for the simplified approach with regard to lighting functions.
+
+The Commission considers that the testing methodology will provide testing results that are verifiable, repeatable and comparable and that it is capable of demonstrating in a realistic manner the CO2 emissions benefits of the innovative technology with strong statistical significance in accordance with Article 6 of Implementing Regulation (EU) No 725/2011.
+recital 3
+(3) The application refers to an efficient exterior lighting system including low-beam headlamp, high-beam headlamp, front position, front fog, rear fog, front turn signal, rear turn signal, licence plate and reversing lamps fitted with LEDs..
+recital 5
+(5) The applicant has demonstrated that the use of the LEDs in the in the low-beam headlamp, the high-beam headlamp, the front position, front fog lamp, rear fog lamp, front turn signal, rear turn signal, licence plate and reversing lamp did not exceed 3 % of the new passenger cars registered in the reference year 2009.
+
+In support of this the applicant has referred to the Technical Guidelines, which provides for the summary of the CLEPA Light Sight Safety report. The applicant has used predefined functions and averaged data in line with the simplified approach specified in the Technical Guidelines (version February 2013).
+recital 8
+(8) Against that background the Commission finds that the applicant has demonstrated satisfactorily that the emission reduction achieved by the efficient exterior lighting system including the low-beam headlamp, high-beam headlamp, front position lamp, front fog lamp, rear fog lamp and licence plate lamp is at least 1 gCO2/km.
+
+It should therefore also be concluded that an efficient exterior lighting system including not only those lamps but also the front turn signal, rear turn signal and the reversing lamps fitted with LEDs or another appropriate combination of those lamps could achieve a CO2 reduction of at least 1 gCO2/km.
+recital 12
+(12) Against that background, the Commission finds that no objections should be raised as regards the approval of the innovative technology in question.
+recital 6
+(6) The applicant has in accordance with the simplified approach described in the Technical Guidelines used halogen lighting as baseline technology for demonstrating the CO2-reducing capacity of the efficient exterior lighting system with the use of LEDs in the low-beam headlamp, the high-beam headlamp, the front position, front fog lamp, rear fog lamp, front turn signal, rear turn signal, licence plate and reversing lamp.
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 443/2009 of the European Parliament and of the Council of 23 April 2009 setting emissions performance standards for new passenger cars as part of the Community's integrated approach to reduce CO2 emissions from light-duty vehicles (1), and in particular Article 12(4) thereof,
+Whereas:
+
+(1) The manufacturer Toyota Motor Europe NV/SA (the 'Applicant') submitted an application for the approval of an efficient exterior lighting system with the use of light emitting diodes (LEDs) as an innovative technology on 15 April 2015. The completeness of that application was assessed in accordance with Article 4 of Commission Implementing Regulation (EU) No 725/2011 (2). The Commission identified certain relevant information as missing in the original application and requested the applicant to complete it. The applicant provided the required information on 26 May 2015. The application was found to be complete and the period for the Commission's assessment of the application started on the day following the date of official receipt of the complete information, i.e. 27 May 2015. (2) The application has been assessed in accordance with Article 12 of Regulation (EC) No 443/2009, Implementing Regulation (EU) No 725/2011 and the Technical Guidelines for the preparation of applications for the approval of innovative technologies pursuant to Regulation (EC) No 443/2009 (the Technical Guidelines, version February 2013) (3). (3) The application refers to an efficient exterior lighting system including low-beam headlamp, high-beam headlamp, front position, front fog, rear fog, front turn signal, rear turn signal, licence plate and reversing lamps fitted with LEDs.. (4) The Commission finds that the information provided in the application demonstrates that the conditions and criteria referred to in Article 12 of Regulation (EC) No 443/2009 and in Articles 2 and 4 of Implementing Regulation (EU) No 725/2011 have been met. (5) The applicant has demonstrated that the use of the LEDs in the in the low-beam headlamp, the high-beam headlamp, the front position, front fog lamp, rear fog lamp, front turn signal, rear turn signal, licence plate and reversing lamp did not exceed 3 % of the new passenger cars registered in the reference year 2009. In support of this the applicant has referred to the Technical Guidelines, which provides for the summary of the CLEPA Light Sight Safety report. The applicant has used predefined functions and averaged data in line with the simplified approach specified in the Technical Guidelines (version February 2013). (6) The applicant has in accordance with the simplified approach described in the Technical Guidelines used halogen lighting as baseline technology for demonstrating the CO2-reducing capacity of the efficient exterior lighting system with the use of LEDs in the low-beam headlamp, the high-beam headlamp, the front position, front fog lamp, rear fog lamp, front turn signal, rear turn signal, licence plate and reversing lamp. (7) The applicant has provided a methodology for testing the CO2 reductions which includes formulae that are consistent with the formulae described in the Technical Guidelines for the simplified approach with regard to lighting functions. The Commission considers that the testing methodology will provide testing results that are verifiable, repeatable and comparable and that it is capable of demonstrating in a realistic manner the CO2 emissions benefits of the innovative technology with strong statistical significance in accordance with Article 6 of Implementing Regulation (EU) No 725/2011. (8) Against that background the Commission finds that the applicant has demonstrated satisfactorily that the emission reduction achieved by the efficient exterior lighting system including the low-beam headlamp, high-beam headlamp, front position lamp, front fog lamp, rear fog lamp and licence plate lamp is at least 1 gCO2/km. It should therefore also be concluded that an efficient exterior lighting system including not only those lamps but also the front turn signal, rear turn signal and the reversing lamps fitted with LEDs or another appropriate combination of those lamps could achieve a CO2 reduction of at least 1 gCO2/km. (9) Since the activation of the exterior lighting is not required for the CO2 emissions type-approval test referred to in Regulation (EC) No 715/2007 of the European Parliament and of the Council (4) and Commission Regulation (EC) No 692/2008 (5), the Commission is satisfied that the lighting functions in question are not covered by the standard test cycle. (10) The activation of the lighting functions concerned is mandatory to ensure the safe operation of the vehicle and as a consequence not dependent on the choice of the driver. On that basis the Commission finds that the manufacturer should be considered accountable for the CO2 emission reduction due to the use of the innovative technology. (11) The Commission finds that the verification report has been prepared by Vehicles Certification Agency which is an independent and certified body and that the report supports the findings set out in the application. (12) Against that background, the Commission finds that no objections should be raised as regards the approval of the innovative technology in question. (13) Any manufacturer wishing to benefit from a reduction of its average specific CO2 emissions for the purpose of meeting its specific emissions target by means of the CO2 savings from the use of the innovative technology approved by this Decision, should in accordance with Article 11(1) of Implementing Regulation (EU) No 725/2011, refer to this Decision in its application for an EC type-approval certificate for the vehicles concerned. (14) For the purposes of determining the general eco-innovation code to be used in the relevant type-approval documents in accordance with Annexes I, VIII and IX to Directive 2007/46/EC of the European Parliament and of the Council (6), the individual code to be used for the innovative technology approved through this Implementing Decision should be specified,
+HAS ADOPTED THIS DECISION:
+recital 1
+(1) The manufacturer Toyota Motor Europe NV/SA (the 'Applicant') submitted an application for the approval of an efficient exterior lighting system with the use of light emitting diodes (LEDs) as an innovative technology on 15 April 2015.
+
+The completeness of that application was assessed in accordance with Article 4 of Commission Implementing Regulation (EU) No 725/2011 (2). The Commission identified certain relevant information as missing in the original application and requested the applicant to complete it. The applicant provided the required information on 26 May 2015. The application was found to be complete and the period for the Commission's assessment of the application started on the day following the date of official receipt of the complete information, i.e. 27 May 2015.
+recital 2
+(2) The application has been assessed in accordance with Article 12 of Regulation (EC) No 443/2009, Implementing Regulation (EU) No 725/2011 and the Technical Guidelines for the preparation of applications for the approval of innovative technologies pursuant to Regulation (EC) No 443/2009 (the Technical Guidelines, version February 2013) (3).
+recital 4
+(4) The Commission finds that the information provided in the application demonstrates that the conditions and criteria referred to in Article 12 of Regulation (EC) No 443/2009 and in Articles 2 and 4 of Implementing Regulation (EU) No 725/2011 have been met.
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 443/2009 of the European Parliament and of the Council of 23 April 2009 setting emissions performance standards for new passenger cars as part of the Community's integrated approach to reduce CO2 emissions from light-duty vehicles (1), and in particular Article 12(4) thereof,
+Whereas:
+recital 10
+(10) The activation of the lighting functions concerned is mandatory to ensure the safe operation of the vehicle and as a consequence not dependent on the choice of the driver.
+
+On that basis the Commission finds that the manufacturer should be considered accountable for the CO2 emission reduction due to the use of the innovative technology.
+recital 14
+(14) For the purposes of determining the general eco-innovation code to be used in the relevant type-approval documents in accordance with Annexes I, VIII and IX to Directive 2007/46/EC of the European Parliament and of the Council (6), the individual code to be used for the innovative technology approved through this Implementing Decision should be specified,
+HAS ADOPTED THIS DECISION:
+Article 2
+This Decision shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+Where: {{IMAGE:Image_16, Caption:Mathematical symbol C with subscript CO2.}} {{IMAGE:Image_17, Caption:Mathematical symbol $S_{C_{CO_2}}$ representing CO2 savings.}} Standard deviation of the total CO2 saving [gCO2/km], which must be expressed in four decimals. Where the total CO2 emission savings of the innovative technology (efficient exterior lighting system), as a result of the calculation using formula (10), are below the threshold specified in Article 9(1) of Implementing Regulation (EU) No 725/2011, the second subparagraph of Article 11(2) of that Regulation shall apply. (1) E/ECE/324/Rev.2/Add.111/Rev.3 — E/ECE/TRANS/505/Rev.2/Add.111/Rev.3, 9 January 2013.

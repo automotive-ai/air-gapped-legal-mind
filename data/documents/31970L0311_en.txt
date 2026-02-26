@@ -1,0 +1,350 @@
+COUNCIL DIRECTIVE
+of 8 June 1970
+on the approximation of the laws of the Member States relating to the steering equipment for motor vehicles and their trailers
+Consolidated TEXT: 31970L0311 — EN — 01.11.2014
+Top
+01970L0311 — EN — 01.11.2014 — 004.001
+This text is meant purely as a documentation tool and has no legal effect.
+
+The Union's institutions do not assume any liability for its contents. The authentic versions of the relevant acts, including their preambles, are those published in the Official Journal of the European Union and available in EUR-Lex. Those official texts are directly accessible through the links embedded in this document
+►B
+COUNCIL DIRECTIVE
+of 8 June 1970
+on the approximation of the laws of the Member States relating to the steering equipment for motor vehicles and their trailers
+(70/311/EEC)
+(OJ L 133, 18.6.1970, p.10)
+Repealed by: Official Journal
+No
+page
+date
+Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009
+L 200
+1
+31.7.2009
+The final consolidated version before repeal is available at: http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01970L0311-19990216
+Council Directive 70/311/EEC of 8 June 1970 on the approximation of the laws of the Member States relating to the steering equipment for motor vehicles and their trailers
+COUNCIL DIRECTIVE of 8 June 1970 on the approximation of the laws of the Member States relating to the steering equipment for motor vehicles and their trailers (70/311/EEC) THE COUNCIL OF THE EUROPEAN COMMUNITIES, Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof; Having regard to the proposal from the Commission; Having regard to the Opinion of the European Parliament (1); Having regard to the Opinion of the Economic and Social Committee (2); Whereas the technical requirements which motor vehicles must satisfy pursuant to national laws relate, inter alia, to their steering equipment; Whereas those requirements differ from one Member State to another ; whereas it is therefore necessary that all Member States adopt the same requirements either in addition to or in place of their existing rules, in order, in particular, to allow the EEC type approval procedure which was the subject of the Council Directive (3) of 6 February 1970 on the approximation of the laws of the Member States relating to the type approval of motor vehicles and their trailers to be applied in respect of each type of vehicle; HAS ADOPTED THIS DIRECTIVE: Article 1 For the purposes of this Directive, "vehicle" means any motor vehicle intended for use on the road, with or without bodywork, having at least four wheels and a maximum design speed exceeding 25 kilometres per hour, and its trailers, with the exception of vehicles which run on rails, agricultural tractors and machinery and public works vehicles.
+
+Article 2 No Member State may refuse to grant EEC type approval or national type approval of a vehicle on grounds relating to its steering equipment if this equipment satisfies the requirements set out in the Annex. Article 3 The amendments necessary for adjusting the requirements of the Annex so as to take account of technical progress shall be adopted in accordance with the procedure laid down in Article 13 of the Council Directive of 6 February 1970 on the type approval of motor vehicles and their trailers. Article 4 1. Member States shall put into force the provisions containing the requirements needed in order to comply with this Directive within eighteen months of its notification and shall forthwith inform the Commission thereof. 2. Member States shall ensure that the text of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission. Article 5 This Directive is addressed to the Member States. Done at Brussels, 8 June 1970. For the Council The President P. HARMEL (1)OJ No C 160, 18.12.1969, p. 7. (2)OJ No C 10, 27.1.1970, p. 18. (3)OJ No L 42, 23.2.1970, p. 1. ANNEX 1. DEFINITIONS 1.1 Steering equipment "Steering equipment" means all the equipment the purpose of which is to alter the direction of movement of the vehicle. The steering equipment may be considered to include: - the steering control; - the steering gear; - the steered wheels; - where applicable, special equipment to produce additional or independent power 1.1.1 Steering control "Steering control" means the part directly operated by the driver in order to steer the vehicle. 1.1.2 Steering gear 1.1.2.1 In the case of motor vehicles, "steering gear" means all the components between the steering control and the steered wheels, with the exception of the special equipment referred to in item 1.1.4. The steering gear may be mechanical, hydraulic, pneumatic, electric or a combination of any of these. 1.1.2.2 In the case of trailers, "steering gear" means all the components which transmit to the steered wheels the force necessary in order to obtain a change in the direction of movement of the vehicle. 1.1.3 Steered wheels "Steered wheels" means the wheels the alignment of which may be altered directly or indirectly in relation to that of the vehicle in order to obtain a change in the direction of movement of the vehicle. 1.1.4 Special equipment "Special equipment" means that part of the steering equipment by which additional or independent power is produced. Additional or independent power may be produced by any mechanical, hydraulic, pneumatic or electrical system, or by any combination of these (for example by an oil pump, air pump or battery). 1.2 Different types of steering equipment 1.2.1 Depending on the source of power which is necessary for the deflection of the steered wheels, the following types of steering equipment are distinguished: 1.2.1.1 manual steering equipment in which the steering power is provided solely by the muscular power of the driver; 1.2.1.2 assisted steering equipment in which the steering power is provided both by the muscular power of the driver and by the special equipment referred to in item 1.1.4. 1.2.1.3 servo-steering equipment in which the steering power is provided solely by the special equipment referred to in item 1.1.4. 1.3 Steering effort "Steering effort" means the force exerted by the driver on the steering control in order to steer the vehicle. 2. CONSTRUCTION, FITTING AND INSPECTION REQUIREMENTS 2.1 General requirements 2.1.1 The steering equipment must ensure easy and safe handling of the vehicle ; if necessary, the vehicle must be equipped with assisted steering. 2.2 Detailed requirements 2.2.1 Steering control 2.2.1.1 The steering control must be easy to use and easy to handle. It must be designed in such a way as to permit gradual deflection. The direction of movement of the steering control must correspond clearly to the desired change in the direction of the vehicle. 2.2.1.2 The steering effort required to achieve a turning circle of 12 metres radius, starting from the dead ahead position, must not exceed 25 kilogrammes. In the case of assisted steering devices, if the auxiliary power supply fails the steering effort required must not exceed 60 kilogrammes. 2.2.1.3 In order to check compliance with the requirement in item 2.2.1.2 above, the vehicle shall describe a spiral movement at a speed of 10 kilometres per hour, starting from the dead ahead position. The steering effort on the steering wheel shall be noted up to the moment when the steering wheel reaches the position corresponding to the vehicle entering a turning circle of 12 metres radius ; the steering effort must not exceed the values laid down. The duration of the manoeuvre (time between the moment when the steering control is first operated and the moment when it reaches the position where the measurements are taken) must not exceed four seconds in normal cases and six seconds if the additional power supply fails. One manoeuvre must be made to the right and one to the left. For the test, the vehicle must be loaded to its technically permissible maximum weight ; the tyre pressures and also the distribution of the weight between the axles must be as indicated by the manufacturer. 2.2.2 Steering gear 2.2.2.1 It must be possible to steer the vehicle even in the event of total or partial failure of the hydraulic, pneumatic or electrical components of the steering gear. 2.2.2.2 Mechanical steering gear must be designed in such a way as to meet any operational requirements. They must be easily accessible for maintenance and inspection. 2.2.3 Steered wheels 2.2.3.1 The rear wheels must not be the only steered wheels. This requirement does nut apply to semi-trailers.
+Consolidated text: Council Directive of 8 June 1970 on the approximation of the laws of the Member States relating to the steering equipment for motor vehicles and their trailers (70/311/EEC)
+Consolidated TEXT: 31970L0311 — EN — 16.02.1999
+1970L0311 — EN — 16.02.1999 — 003.001
+This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents
+►B
+COUNCIL DIRECTIVE
+of 8 June 1970
+on the approximation of the laws of the Member States relating to the steering equipment for motor vehicles and their trailers
+(70/311/EEC)
+(OJ L 133, 18.6.1970, p.10)
+Amended by:
+
+Official Journal
+ No
+page
+date
+►M1
+Commission Directive 92/62/EEC of 2 July 1992
+ L 199
+33
+18.7.1992
+►M2
+Commission Directive 1999/7/EC Text with EEA relevance of 26 January 1999
+ L 40
+36
+13.2.1999
+Amended by: ►A1
+Act of Accession of Denmark, Ireland and the United Kingdom of Great Britain and Northern Ireland
+ L 73
+14
+27.3.1972
+▼B
+COUNCIL DIRECTIVE
+of 8 June 1970
+on the approximation of the laws of the Member States relating to the steering equipment for motor vehicles and their trailers
+(70/311/EEC)
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof; Having regard to the proposal from the Commission; Having regard to the Opinion of the European Parliament (
+1
+);
+Having regard to the Opinion of the Economic and Social Committee (
+2
+);
+Whereas the technical requirements which motor vehicles must satisfy pursuant to national laws relate, inter alia, to their steering equipment; Whereas those requirements differ from one Member State to another; whereas it is therefore necessary that all Member States adopt the same requirements either in addition to or in place of their existing rules, in order, in particular, to allow the EEC type approval procedure which was the subject of the Council Directive (
+3
+) of 6 February 1970 on the approximation of the laws of the Member States relating to the type approval of motor vehicles and their trailers to be applied in respect of each type of vehicle; HAS ADOPTED THIS DIRECTIVE: ▼M2
+Article 1
+For the purpose of this Directive, 'vehicle' means any vehicle as defined in Article 2 of Directive 70/156/EEC. ▼B
+Article 2
+No Member State may refuse to grant EEC type approval or national type approval of a vehicle on grounds relating to its steering equipment if this equipment satisfies the requirements set out in the 
+►M1
+ Annexes ◄ . ▼A1
+Article 2a
+No Member State may refuse or prohibit the sale or registration, entry into service or use of a vehicle on grounds relating to its steering equipment, if this equipment satisfies the requirements set out in the Annex. ▼B
+Article 3
+The amendments necessary for adjusting the requirements of the 
+►M2
+ Annexes ◄ so as to take account of technical progress shall be adopted in accordance with the procedure laid down in Article 13 of the Council Directive of 6 February 1970 on the type approval of motor vehicles and their trailers. Article 4
+1. Member States shall put into force the provisions containing the requirements needed in order to comply with this Directive within eighteen months of its notification and shall forthwith inform the Commission thereof. 2. Member States shall ensure that the text of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission. Article 5
+This Directive is addressed to the Member States. ▼M2
+LIST OF ANNEXES
+1. Annex I:
+Scope, definitions, application for EC type-approval, granting of EC type-approval construction provisions, test provisions, modifications of the type and amendments to approvals, conformity of production
+Appendix 1: Information document
+Appendix 2:
+Type-approval certificate
+2. Annex II: Braking performance for vehicles using the same energy source for steering and braking
+3. Annex III: Additional provisions for vehicles with auxiliary steering equipment (ASE)
+4. Annex IV: Provisions for trailers having purely hydraulic steering transmissions
+▼M1
+ANNEX I
+SCOPE, DEFINITIONS, APPLICATION FOR EC TYPE-APPROVAL, GRANTING OF EC TYPE-APPROVAL CONSTRUCTION PROVISIONS, TEST PROVISIONS, MODIFICATIONS OF THE TYPE AND AMENDMENTS TO APPROVALS, CONFORMITY OF PRODUCTION
+▼M2
+0. SCOPE
+0.1. This Directive applies to the steering equipment of vehicles of categories M, N and O as defined in Annex IIA to Directive 70/156/EEC. 0.2. It does not cover steering equipment with a purely pneumatic, purely electric or purely hydraulic transmission except: 0.2.1. auxiliary steering equipment (ASE) with a purely electric or a purely hydraulic transmission for vehicles of categories M and N;
+0.2.2. steering equipment with a purely hydraulic transmission for vehicles of category O. ▼M1
+1. DEFINITIONS
+For the purposes of this Directive: 1.1. Approval of a vehicle means the approval of a vehicle type with regard to its steering equipment; 1.2. Vehicle type means a category of vehicle which does not differ with respect to the manufacturer's designation of the vehicle type and/or variations which can affect its steering; 1.3. Steering equipment means all the equipment the purpose of which is to determine the direction of movement of the vehicle. The steering equipment consists of: — the steering control,
+— the steering transmission,
+— the steered wheels,
+— the energy supply, if any; 1.3.1. Steering control means the part of the steering equipment which controls its operation, it may be operated with or without direct intervention of the driver. For steering equipment in which the steering forces are provided solely or partly by the muscular effort of the driver the steering control includes all parts up to the point where the steering effort is transformed by mechanical, hydraulic or electrical means; 1.3.2. Steering transmission includes all parts of the steering equipment which are the means of transmitting the steering forces between the steering control and the steered wheels; it includes all parts down from the point where the steering control effort is transformed by mechanical, hydraulic or electrical means; 1.3.3. Steered wheels means the wheels the alignment of which may be altered directly or indirectly in relation to the longitudinal axis the vehicle in order to determine the direction of movement of the vehicle. (The steered wheels include the axis around which they are rotated in order to determine the direction of movement of the vehicle); 1.3.4. Energy supply includes those parts of the steering equipment which provide it with energy, control the energy and where appropriate, process and store it. It also includes any storage reservoirs for the operating medium and the return lines, but not the vehicle's engine (except for the purposes of item 4.1.3) or its drive to the energy source; 1.3.4.1. Energy source means that part of the energy supply which provides the energy in the required form e.g. hydraulic pump, air compressor; 1.3.4.2. Energy reservoir means that part of the energy supply in which the energy provided by the energy source is stored; 1.3.4.3. Storage reservoir means that part of the energy supply in which the operating medium is stored at or near to the atmospheric pressure. 1.4. Steering parameters
+1.4.1. Steering control effort means the force applied to the steering control in order to steer the vehicle; 1.4.2. Steering time means the period of time from the beginning of the movement of the steering control to the moment at which the steered wheels have reached a specific steering angle; 1.4.3. Steering angle means the angle between the projection of a longitudinal axis of the vehicle and the line of intersection of the wheelplane (being the central plane of the tyre, normal to the spin axis of the wheel) and the road surface; 1.4.4. Steering forces mean all the forces operating in the steering transmission;
+This requirement does nut apply to semi-trailers. 2.2.3.2 Motor vehicles the rear wheels of which are also steered must be subjected to the following test: 2.2.3.2.1 The driver must be able to keep the rear wheels in a straight line, without making any abnormal steering correction, on a flat and horizontal road at a speed of 80 kilometres per hour or at the maximum design speed if this is less than 80 kilometres per hour. 2.2.3.3 Trailers must also be subjected to the test specified in item 2.2.3.2.1, at a speed of 80 kilometres per hour or at the technically permissible speed stated by the manufacturer if the latter is less than 80 kilometres per hour, in the following cases: - where the trailer is equipped with more than one axle having steered wheels, - where the trailer is a semi-trailer equipped with at least one axle having steered wheels*. 2.2.4 Special equipment 2.2.4.1 Servo-steering equipment is not permitted. 2.2.4.2 When an assisted steering device does not have its own source of additional power, it must include a power reservoir. If the source of power used is compressed air, the reservoir of compressed air must be protected by a non-return valve. 2.2.4.3 It must be possible to steer the vehicle even if the special equipment fails. * As corrected by the corrigendum published in OJ No L 196 of 3 September 1970.
+Steering forces mean all the forces operating in the steering transmission; 1.4.5 
+Mean steering ratio means the ratio of the angular displacement of the steering control to the mean of the swept steering angle of the steered wheels for a full lock-to-lock turn; 1.4.6. Turning circle means the circle within which are located the projections onto the ground plane of all the points of the vehicle, excluding the external mirrors and the front direction indicators, when the vehicle is driven in a circle; 1.4.7. Nominal radius of steering control means in the case of a steering wheel the shortest dimension from its centre of rotation to the outer edge of the rim. In the case of any other form of control, it means the distance between its centre of rotation and the point at which the steering effort is applied. If more than one such point is provided, the one requiring the greatest effort shall be used. 1.5. Types of steering equipmentDepending on the way the steering forces are produced, the following types of steering equipment are distinguished: 1.5.1. For motor vehicles
+1.5.1.1. Manual steering equipment in which the steering forces result solely from the muscular effort of the driver; 1.5.1.2. Power assisted steering equipment in which the steering forces result from both the muscular effort of the driver and the energy supply (supplies); 1.5.1.2.1. Steering equipment in which the steering forces result solely from one or more energy supplies when the equipment is intact, but in which the steering forces can be provided by the muscular effort of the driver alone if there is a fault in the steering (integrated power systems), is also considered to be power assisted steering equipment; 1.5.1.3. Full-power steering equipment in which the steering forces are provided solely by one or more energy supplies; 1.5.1.4. Self-tracking equipment is a system designed to create a change of steering angle on one or more wheels only when acted upon by forces and/or moments applied to the tyre to road contact. 1.5.2. For trailers
+1.5.2.1. Self-tracking equipment
+see item 1.5.1.4 above. 1.5.2.2. Articulated steering equipment in which the steering forces are produced by a change in direction of the towing vehicle and in which the movement of the steered trailer wheels is firmly linked to the relative angle between the longitudinal axis of the towing vehicle and that of the trailer; 1.5.2.3. Self-steering equipment in which the steering forces are produced by a change in direction of the towing vehicle and in which the movement of the steered, trailer wheels is firmly linked to the relative angle between the longitudinal axis of the trailer frame or a load replacing it and the longitudinal axis of the sub-frame to which the axle(s) is (are) attached. 1.5.3. Depending on the arrangement of the steered wheels, the following types of steering equipment are distinguished: 1.5.3.1. Front-wheel steering equipment in which only the wheels of the front axle(s) are steered. This includes all wheels which are steered in the same direction; 1.5.3.2. Rear-wheel steering equipment in which only the wheels of the rear axle(s) are steered. This includes all wheels which are steered in the same direction; 1.5.3.3. Multi-wheel steering equipment in which the wheels of one or more of each of the front and the rear axle(s) are steered; 1.5.3.3.1. All-wheel steering equipment in which all the wheels are steered; 1.5.3.3.2. Buckle steering equipment in which the movement of chassis parts relative to each other is directly produced by the steering forces. ▼M2
+1.5.3.4. Auxiliary steering equipment (ASE) in which the wheels of axle(s) of vehicles of categories M and N are steered in addition to the wheels providing principal steering input not purely electric, hydraulic or pneumatic, in the same direction or in the opposite direction to the wheels providing principal steering input, and/or the steering angle of the front, centre and/or the rear wheels may be adjusted relative to vehicle behaviour. ▼M1
+1.6. Types of steering transmissionDepending on the way the steering forces are transmitted, the following types of steering transmission are distinguished: 1.6.1. Purely mechanical steering transmission means a steering transmission in which the steering forces are transmitted entirely by mechanical means; 1.6.2. Purely hydraulic steering transmission means a steering transmission in which the steering forces, somewhere in the transmission, are transmitted only by hydraulic means; 1.6.3. Purely electric steering transmission means a steering transmission in which the steering forces, somewhere in the transmission, are transmitted only through electric means; 1.6.4. Hybrid steering transmission means a transmission in which part of the steering forces are transmitted through one and the other part through another of the abovementioned means; 1.6.4.1. Hybrid mechanical steering transmission means a steering transmission where a part of the steering forces is transmitted by purely mechanical means and the other parts either by: 1.6.4.1.1. hydraulic or mechanical/hydraulic
+or
+1.6.4.1.2. electric or mechanical/electric
+or
+1.6.4.1.3. pneumatic or mechanical/pneumatic means. In either case, where the mechanical part of the transmission is designed only to give position feedback and is too weak to transmit the total sum of the steering forces, this system shall be considered to be purely hydraulic, respectively purely electric, or purely pneumatic steering transmission; 1.6.4.2. Other hybrid steering transmission means any other combination of the abovementioned steering transmissions. 2. APPLICATION FOR EEC TYPE-APPROVAL
+▼M2
+2.1. The application for EC type-approval pursuant to Article 3(4) of Directive 70/156/EEC of a vehicle type with regard to its steering equipment shall be submitted by the manufacturer. 2.2. A model for the information document is given in Appendix 1. ▼M1
+2.3. A vehicle representative of the vehicle type to be approved shall be submitted to the technical service responsible for conducting approval tests. ▼M2
+3. GRANTING OF EC TYPE-APPROVAL OF A VEHICLE TYPE
+3.1. If the relevant requirements are satisfied, EC type-approval pursuant to Article 4(3) and, if applicable, 4(4) of Directive 70/156/EEC shall be granted. 3.2. A model for the EC type-approval certificate is given in Appendix 2. 3.3. A type-approval number in accordance with Annex VII to Directive 70/156/EEC shall be assigned to each type of vehicle approved. The same Member State shall not assign the same number to another type of vehicle. ▼M1
+4. CONSTRUCTION PROVISIONS
+4.1. General provisions
+4.1.1. The steering equipment shall ensure easy and safe handling of the vehicle up to its maximum design speed or, in the case of a trailer, up to its technically permitted maximum speed. There must be a tendency to self-centre when tested in accordance with item 5. The vehicle shall meet the requirements of item 5.2 in the case of motor vehicles and of item 5.3 in the case of trailers. If a vehicle is fitted with ASE, it shall also meet the requirements of 
+►M2
+ Annex III ◄ . Trailers equipped with purely hydraulic steering transmissions shall also comply with 
+►M2
+ Annex IV ◄ .
+4.1.1.1. It must be possible to travel along a straight section of the road without unusual steering correction by the driver and without unusual vibration in the steering system at a maximum design speed of the vehicle. 4.1.1.2. There must be travel synchronization between the steering control and the steered wheels, except for the wheels steered by ASE. 4.1.1.3. There must be time synchronization between the steering control and the steered wheels except for the wheels steered by ASE. 4.1.2. The steering equipment shall be designed, constructed and fitted in such a way that it is capable of withstanding the stresses arising during normal operation of the vehicle, or combination of vehicles.
+The steering equipment shall be designed, constructed and fitted in such a way that it is capable of withstanding the stresses arising during normal operation of the vehicle, or combination of vehicles. The maximum steering angle shall not be limited by any part of steering transmission unless specifically designed for this purpose. 4.1.2.1. Unless otherwise specified, it will be assumed that for the purposes of this Directive, not more than one failure can occur in the steering equipment at any one time and two axles on one bogie shall be considered as one axle. 4.1.3. Should the engine stop or a part of the steering equipment fail, with the exception of those parts listed in item 4.1.4, the steering equipment shall always meet the requirements of item 5.2.6 in the case of motor vehicles and of item 5.3 in the case of trailers. 4.1.4. For the purposes of this Directive the steered wheels, the steering control and all mechanical parts of the steering transmission shall not be regarded as liable to breakage if they are amply dimensioned, are readily accessible for maintenance, and exhibit safety features at least equal to those prescribed for other essential components (such as the braking system) of the vehicle. Where the failure of any such part would be likely to result in loss of control of the vehicle, that part must be made of metal or of a material with equivalent characteristics and must not be subject to significant distortion in normal operation of the steering system. 4.1.5. Any failure in transmission other than purely mechanical shall clearly be brought to the attention of the vehicle driver; in the case of a motor vehicle, an increase in steering effort is considered to be a warning signal; in the case of a trailer, a mechanical indicator is permitted. When a failure occurs, a change in the average steering ratio is permissible if the steering effort given in item 5.2.6 below is not exceeded. ▼M2 —————
+▼M1
+4.2. Special provisions
+4.2.1. Steering control
+4.2.1.1. If the steering control is directly handled by the driver,
+4.2.1.1.1. it must be manageable; 4.2.1.1.2. the direction of operation of the steering control must correspond to the intended change in direction of the vehicle; 4.2.1.1.3. except for ASE, there must be a continuous and monotonic relation between the steering control angle and the steering angle. 4.2.2. Steering transmission
+4.2.2.1. Adjustment devices for steering geometry must be such that after adjustment a positive connection can be established between the adjustable components by appropriate locking devices. 4.2.2.2. Steering transmission which can be disconnected to cover different configurations of a vehicle (e.g. on extendible trailers), must have locking devices which ensure positive relocation of components; where locking is automatic, there must be an additional safety lock which is operated manually. 4.2.3. Steered wheels
+4.2.3.1. The steered wheels shall not be solely the rear wheels. This requirement does not apply to semi-trailers. 4.2.3.2. Trailers (with the exception of semi-trailers) which have more than one axle with steered wheels and semi-trailers which have at least one axle with steered wheels must fulfil the conditions given in item 5.3 below. However, for trailers with self-tracking equipment a test under item 5.3 is not necessary if the axle load ratio between the unsteered and the self-tracking axles equals or exceeds 1,6 under all loading conditions. 4.2.4. Energy supply
+4.2.4.1. The same energy source may be used to supply the steering equipment and the braking device. However, in the case of a failure of either the energy supply or a failure in one of the two systems the following conditions must be fulfilled: 4.2.4.1.1. The steering equipment shall meet the requirements of item 5.2.6.
+4.2.4.1.2. If an energy source failure occurs, the braking performance shall not drop below the prescribed service brake performance, as given in 
+►M2
+ Annex II ◄ 
+►M2
+ (
+4
+) ◄ , on the first brake application. 4.2.4.1.3. If an energy supply failure occurs, the braking performance must comply with the prescriptions of 
+►M2
+ Annex II ◄ 
+►M2
+ (
+5
+) ◄ .
+4.2.4.1.4. If the fluid in the storage reservoir drops to a level liable to cause an increase in steering or braking effort an acoustic or optical warning must be given to the driver. This warning may be combined with a device provided to warn of brake failure; the satisfactory condition of the signal must be easily verifiable by the driver. 4.2.4.2. The same energy source may be used to supply the steering equipment and systems other than the braking device if, when the fluid level in the storage reservoir drops to a level liable to cause an increase in steering effort, an acoustic or optical warning is given to the driver; the satisfactory condition of the signal must be easily verifiable by the driver. 4.2.4.3. The warning devices must be directly and permanently connected to the circuit. When the engine is running under normal operating conditions and there are no faults in the steering equipment, the alarm device must give no signal except during the time required for charging the energy reservoir(s) after start-up of the engine. 5. TEST PROVISIONS
+5.1. General provisions
+5.1.1. The test shall be conducted on a level surface affording good adhesion. 5.1.2. During the test(s), the vehicle shall be loaded to its technically permissible maximum mass and its maximum technically permissible load on the steered axle(s). In the case of axles fitted with ASE, this test shall be repeated with the vehicle loaded to its technically permissible maximum mass and the axle equipped with ASE loaded to its maximum permissible load. 5.1.3. Before the test begins, the tyre pressures shall be as prescribed by the manufacturer for the load specified in item 5.1.2 when the vehicle is stationary. 5.2. Provisions for motor vehicles
+5.2.1. It must be possible to leave a curve with a radius of 50 m at a tangent without unusual vibration in the steering equipment at the following speed: ▼M2
+— category M1 vehicles: 50 km/h,
+— categories M2, M3, N1, N2 and N3 vehicles: 40 km/h,
+▼M1
+or the maximum design speed if this is below the speeds given above. 5.2.2. The requirements of items 4.1.1.1, 4.1.1.2 and 5.2.1 shall also be satisfied with a failure in the steering equipment. 5.2.3. When the vehicle is driven in a circle with its steered wheels at approximately half lock and at a constant speed of at least 10 km/h, the turning circle must remain the same or become larger if the steering control is released. 5.2.4. During the measurement of the control effort, forces with a duration of less than 0,2 seconds shall not be taken into account. 5.2.5. The measurement of steering efforts on motor vehicles with intact steering equipment
+5.2.5.1. The vehicle shall be driven from straight ahead into a spiral at a speed of 10 km/h. The steering effort shall be measured at the nominal radius of the steering control until the position of the steering control corresponds to turning radius given in the table below for the particular category of vehicle with intact steering. One steering movement shall be made to the right and one to the left. 5.2.5.2. The maximum permitted steering time and the maximum permitted steering control effort with intact steering equipment are given in the table below for each category of vehicle. 5.2.6. The measurement of steering efforts on motor vehicles with a failure in the steering equipment
+5.2.6.1. The test described in item 5.2.5 shall be repeated with a failure in the steering equipment. The steering effort shall be measured until the position of the steering control corresponds to the turning radius given in the table below for the particular category of vehicle with a failure in the steering equipment. 5.2.6.2.
+5.2.6.2. The maximum permitted steering time and the maximum permitted steering control effort with a failure in the steering equipment are given in the table below for each category of vehicle. Steering control effort requirements
+Vehicle category
+Intact
+With a failure
+Maximum effort
+(daN)
+Time
+(s)
+Turning radius
+(m)
+Maximum effort
+(daN)
+Time
+(s)
+Turning radius
+(m)
+M1
+15
+4
+12
+30
+4
+20
+M2
+15
+4
+12
+30
+4
+20
+M3
+20
+4
+12
+ ►M2
+(1)
+ ◄ 
+45
+6
+20
+N1
+20
+4
+12
+30
+4
+20
+N2
+25
+4
+12
+40
+4
+20
+N3
+20
+4
+12 (1)
+45 (2)
+6
+20
+(1) Or full lock if 12 is not attainable. (2) 50 for rigid vehicles with two or more steered axles excluding self-tracking equipment. 5.3. Provisions for trailers
+5.3.1. The trailer must travel without excessive deviation or unusual vibration in its steering equipment when the towing vehicle is travelling in a straight line on a flat and horizontal road at a speed of 80 km/h or the technically permissible maximum speed indicated by the trailer manufacturer if this is less than 80 km/h.
+5.3.2. With the towing vehicle and trailer having adopted a steady state turn so that the front outside edge of the towing vehicle is turning alongside a circle of radius 25 m in accordance with item 1.4.6, at a constant speed of 5 km/h, the circle described by the rearmost outer edge of the trailer shall be measured. This manoeuvre shall be repeated under the same conditions but a speed of 25 km/h ± 1 km/h. During these manoeuvres, the rearmost outer edge of the trailer travelling at a speed of 25 km/h ± 1 km/h shall not move outside the circle described at a constant speed of 5 km/h by more than 0,7 m.
+5.3.3. No part of the trailer must move more than 0,5 m beyond the tangent to a circle with a radius of 25 m when towed by a vehicle leaving the circular path described in item 5.3.2 along the tangent and travelling at a speed of 25 km/h. This requirement must be met from the point the tangent meets the circle to a point 40 m along the tangent. After that point, the trailer must fulfil the condition specified in item 5.3.1.
+5.3.4. The tests described in items 53.2 and 5.3.3 shall be conducted with one steering movement to the left and one to the right. ▼M2
+6. MODIFICATIONS OF THE TYPE AND AMENDMENTS TO APPROVALS
+6.1. In the case of modifications of the type approved pursuant to this Directive, the provisions of Article 5 of Directive 70/156/EEC shall apply. 7. CONFORMITY OF PRODUCTION
+7.1. Measures to ensure the conformity of production shall be taken in accordance with the provisions laid down in Article 10 of Directive 70/156/EEC. Appendix 1
+Appendix 2
+▼M2 —————
+▼M1
+ANNEX 
+►M2
+ II ◄ 
+BRAKING PERFORMANCE FOR VEHICLES USING THE SAME ENERGY SOURCE TO SUPPLY STEERING EQUIPMENT AND BRAKING DEVICE
+1. If an energy source failure occurs, service braking performance on the first brake application shall achieve the values given in the table below. Category
+V (km/h)
+m/s2
+Force (daN)
+M1
+80
+5,8
+50
+M2 and M3
+60
+5,0
+70
+N1
+80
+5,0
+70
+N2 and N3
+60
+5,0
+70
+2. After any failure in the steering equipment, or the energy supply, it shall be possible after eight full stroke actuations of the service brake control, to achieve at the ninth application, at least the performance prescribed for the secondary (emergency) braking system (see table below). In the case where secondary performance requiring the use of stored energy is achieved by a separate control, it shall still be possible after eight full stroke actuations of the service brake control to achieve at the ninth application, the residual performance (see table below). Secondary and residual efficiency
+Category
+V (km/h)
+Secondary braking
+(m/s2)
+Residual braking
+(m/s2)
+M1
+80
+2,9
+1,7
+M2
+60
+2,5
+1,5
+M3
+60
+2,5
+1,5
+N1
+70
+2,2
+1,3
+N2
+50
+2,2
+1,3
+N3
+40
+2,2
+1,3
+▼M2 —————
+▼M1
+ANNEX 
+►M2
+ III ◄ 
+ADDITIONAL PROVISIONS FOR VEHICLES EQUIPPED WITH ASE
+1. GENERAL PROVISIONS
+This Annex does not require vehicles to be fitted with ASE. However, if vehicles are fitted with such a device, they shall comply with the provisions of this Annex. 2. SPECIFIC PROVISIONS
+2.1. Transmission
+2.1.1. Mechanical steering transmissions
+Item 4.1.4 of Annex I to this Directive applies. 2.1.2. Hydraulic steering transmissions
+The hydraulic steering transmission must be protected from exceeding the maximum permitted service pressure T.
+2.1.3. Electric steering transmissions
+The electric steering transmission must be protected from excess energy supply. 2.1.4. Combination of steering transmissions
+A combination of mechanical, hydraulic and electric transmissions shall comply with the requirements specified in items 2.1.1, 2.1.2 and 2.1.3 above. 2.2. Testing requirements for failure
+2.2.1. Malfunction or failure of any part of the ASE (except for parts not considered to be susceptible to breakdown as specified in item 4.1.4 of Annex I to this Directive) shall not result in sudden significant change in vehicle behaviour and the requirements of items 5.2.1 to 5.2.4 and 5.2.6 of Annex I to this Directive shall still be met. Furthermore, it must be possible to control the vehicle without abnormal steering correction. This shall be verified by the following tests: ▼M2
+2.2.1.1. Circular test
+Vehicle category
+R (1)
+V (2) (3)
+M1, N1
+100
+80
+M2, N2
+50
+50
+M3, N3
+50
+45
+(1) If the ASE is in a mechanically locked position at this specified speed, the test speed will be modified to correspond to the maximum speed where the system is functioning. Maximum speed means the speed when ASE becomes locked, minus 5 km/h. (2) If the dimensional characteristics of the vehicle imply an overturning risk, the manufacturer shall provide to the technical service behaviour simulation data demonstrating a lower maximum safe speed for conducting the test. Then the technical service will choose this test speed. (3) If, due to the configuration of the test site, the values of the radii cannot be observed, the tests may be carried out on tracks with other radii (maximum deviation ±25 %), provided that the speed is varied to obtain the transverse acceleration resulting from the radius and speed indicated in the table for the particular category of vehicle. The failure shall be introduced when the specified speed has been reached. The test shall include driving in a clockwise direction and in a counter-clockwise direction. ▼M1
+2.2.1.2. Transient test
+Until uniform test procedures have been agreed, the vehicle manufacturer shall provide the technical services with their test procedures and results for transient behaviour of the vehicle in the case of a failure. 2.3. Warning signals in case of failure
+2.3.1. Except for parts of ASE not considered susceptible to breakdown as specified in item 4.1.4 of Annex I of this Directive, the following failure of ASE shall be clearly brought to the attention of the driver: 2.3.1.1. A general cut-off of the ASE electrical or hydraulic control; 2.3.1.2. Failure of the ASE energy supply; 2.3.1.3. A break in the external wiring of the electrical control if fitted. 2.4. Electromagnetic interference
+2.4.1. The operation of the ASE must not be adversely affected by electromagnetic fields. Until uniform test procedures have been agreed, the vehicle manufacturer shall provide the technical services with their test procedures and results. ANNEX 
+►M2
+ IV ◄ 
+PROVISIONS FOR TRAILERS HAVING PURELY HYDRAULIC STEERING TRANSMISSIONS
+1. If vehicles are fitted with purely hydraulic steering transmissions, they shall comply with the provisions of this Annex. 2. SPECIFIC PROVISIONS2.1. Performance of hydraulic lines and hose assemblies
+2.1.1. The hydraulic lines of purely hydraulic transmissions must be capable of withstanding a pressure of at least four times the maximum normal service pressure (T) specified by the manufacturer. Hose assemblies shall comply with the following ISO Standards: 1402 (1984), 6605 (1986) and 7751 (1983).
+Hose assemblies shall comply with the following ISO Standards: 1402 (1984), 6605 (1986) and 7751 (1983). 2.2. In systems dependent on an energy supply
+2.2.1. The energy supply must be protected from excess pressure by a pressure limiting valve which operates at the pressure T.
+2.3. Protection of steering transmission
+2.3.1. The steering transmission must be protected from excess pressure by a pressure limiting valve which operates between 1,5T and 2,2T. 2.4. Tractor/trailer alignment
+2.4.1. With the tractor of a tractor/trailer combination travelling in a straight line, the trailer must remain in alignment with the tractor; 2.4.2. In order to maintain steering alignment in accordance with item 2.4.1 above, trailers shall be provided with a means of readjustment, which may be either automatic or manual. 2.5. Steerability with a failure in the steering transmission
+2.5.1. The steerability of vehicles with purely hydraulic steering transmissions shall be maintained with a failure in any part of the transmission. Vehicles shall be tested in this (failed) condition and satisfy the requirements of item 5.3 of Annex I to this Directive. In particular the 5 km/h and 25 km/h tests specified at item 5.3.2 shall be conducted with the steering transmission in the intact and failed conditions respectively. 2.6. Electromagnetic interference
+2.6.1. The operation of steering equipment must not be adversely affected by electromagnetic fields. Until uniform test procedures have been agreed, the vehicle manufacturer shall provide the technical services with his test procedures and results. (
+1
+) OJ No C 160, 18.12.1969, p. 7. (
+2
+) OJ No C 10, 27.1.1970, p. 18. (
+3
+) OJ No L 42, 23.2.1970, p. 1. (
+4
+) The requirements set out in Annex II may also be checked during approval tests according to Directive 71/320/EEC. (
+5
+) The requirements set out in Annex II may also be checked during approval tests according to Directive 71/320/EEC.

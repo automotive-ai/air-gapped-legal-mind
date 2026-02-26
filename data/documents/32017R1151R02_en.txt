@@ -1,0 +1,20 @@
+Corrigendum to Commission Regulation (EU) 2017/1151 of 1 June 2017 supplementing Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information, amending Directive 2007/46/EC of the European Parliament and of the Council, Commission Regulation (EC) No 692/2008 and Commission Regulation (EU) No 1230/2012 and repealing Commission Regulation (EC) No 692/2008
+(
+Official Journal of the European Union L 175 of 7 July 2017
+)
+Corrigendum to Commission Regulation (EU) 2017/1151 of 1 June 2017 supplementing Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information, amending Directive 2007/46/EC of the European Parliament and of the Council, Commission Regulation (EC) No 692/2008 and Commission Regulation (EU) No 1230/2012 and repealing Commission Regulation (EC) No 692/2008
+(
+Official Journal of the European Union L 175 of 7 July 2017
+)
+On page 135, Annex IIIA, Appendix 2, point 4.3.5(c)(ii):
+for:
+
+' {{IMAGE:Image_0, Caption:A mathematical formula defining H as the ratio of G to E, followed by an equals sign and the number 100.}} ',
+read: {{IMAGE:Image_1, Caption:Mathematical formula defining H as the ratio of G to E multiplied by 100.}} '.
+On page 178, Annex IIIA, Appendix 7a, point 3.1.2: for: ' {{IMAGE:Image_2, Caption:Mathematical formula $d_i = \frac{v_i}{3}$ from a corrigendum to Commission Regulation (EU) 2017/1151.}} , 6, i = 1 to Nt
+ ',
+read: {{IMAGE:Image_3, Caption:Mathematical formula defining the variable d_i as the quotient of v_i and 3.6.}} , i = 1 to Nt
+ '. On page 434, Sub-Annex 2 to Annex XXI, point 3.5(b):
+for:
+'(b) Pavailable_i,i ≥ Prequired,j',
+read: '(b) Pavailable_i,j ≥ Prequired,j'.

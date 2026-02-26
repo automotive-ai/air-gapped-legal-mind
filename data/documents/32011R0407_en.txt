@@ -1,0 +1,151 @@
+recital 2
+(2) By Decision 97/836/EC, the Union has also acceded to UNECE Regulations Nos 1, 3, 4, 6, 7, 8, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 23, 25, 26, 28, 31, 34, 37, 38, 39, 43, 44, 46, 48, 58, 66, 73, 77, 79, 80, 87, 89, 90, 91, 93, 97, 98, 99, 100, and 102.
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor (1), and in particular Article 14(1) thereof,
+Whereas:
+recital 4
+(4) By Council Decision 2000/710/EC (3), the Union has acceded to UNECE Regulation No 67 on the approval of special equipment for motor vehicles fuelled by liquefied petroleum gas.
+recital 15
+(15) By Council Decision 2009/433/EC (11), the Union has acceded to UNECE Regulation No 61 on uniform provisions for the approval of commercial vehicles with regard to their external projections forward of the cab's rear panel.
+Article 5
+This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Union.
+Article 3
+1. Subject to paragraphs 2 and 3 and Article 4, the UNECE Regulations with the series of amendments and supplements as indicated in the Annex shall apply for the purpose of registration, sale and entry into service of new vehicles and their trailers and sale and entry into service of new systems, components and separate technical units intended therefor from 1 November 2014.
+
+2. With effect from 1 November 2014, UNECE Regulation No 13, supplement 3 to the 11 series of amendments, or UNECE Regulation No 13 H, supplement 9, shall apply for the purpose of registration, sale and entry into service of new vehicles of category N1. 3. With effect from the implementation dates set out in Table 2 of Annex V to Regulation (EC) No 661/2009, UNECE Regulation No 13, supplement 3 to the 11 series of amendments, shall apply for the purpose of registration, sale and entry into service of new vehicles of categories M2, M3, N2, N3, O3 and O4 regarding electronic stability control systems.
+Article 1
+Annex IV to Regulation (EC) No 661/2009 is replaced by the Annex to this Regulation.
+| Regulation number | Subject | Series of amendments | OJ reference | Applicability |
+|---|---|---|---|---|
+| 1 | Headlamps emitting an asymmetrical passing beam and/or driving beam equipped with filament lamps R2 and/or HS1 | 02 series of amendments | OJ L 177, 10.7.2010, p. 1 | M, N (1) |
+| 3 | Retro-reflecting devices for power-driven vehicles | Supplement 10 to the 02 series of amendments | OJ L 31, 31.1.2009, p. 1 | M, N, O |
+| 4 | Illumination of rear-registration plates of power-driven vehicles and their trailers | Supplement 14 to the original version of the Regulation | OJ L 31, 31.1.2009, p. 35 | M, N, O |
+| 6 | Direction indicators for power-driven vehicles and their trailers | Supplement 19 to the 01 series of amendments | OJ L 177, 10.7.2010, p. 40 | M, N, O |
+| 7 | Front and rear position (side) lamps, stop-lamps and end-outline marker lamps for power-driven vehicles and their trailers | Supplement 16 to the 02 series of amendments | OJ L 148, 12.6.2010, p. 1 | M, N, O |
+| 8 | Motor vehicles headlamps (H1, H2, H3, HB3, HB4, H7, H8, H9, HIR1, HIR2 and/or H11) | 05 series of amendments Corrigendum 1 to Revision 4 | OJ L 177, 10.7.2010, p. 71 | M, N (1) |
+| 10 | Electromagnetic compatibility | 03 series of amendments | OJ L 116, 8.5.2010, p. 1 | M, N, O |
+| 11 | Door latches and door retention components | Supplement 2 to the 03 series of amendments | OJ L 120, 13.5.2010, p. 1 | M1, N1 |
+| 12 | Protection of the driver against the steering mechanism in the event of impact | Supplement 3 to the 03 series of amendments | OJ L 165, 26.6.2008, p. 11 | M1, N1 |
+| 13 | Braking on vehicles of categories M, N and O | Supplement 5 to the 10 series of amendments Corrigenda 1 and 2 to Revision 6 Supplement 3 to the 11 series of amendments | OJ L 257, 30.9.2010, p. 1 OJ L 297, 13.11.2010, p. 183 | M, N, O (2) |
+| 13-H | Braking of passenger cars | Supplement 9 to the original version of the Regulation | OJ L 230, 31.8.2010, p. 1 | M1, N1 (3) |
+| 14 | Safety-belt anchorages, Isofix anchorages systems and Isofix top tether anchorages | Supplement 2 to the 06 series of amendments | OJ L 321, 6.12.2007, p. 1 | M, N |
+| 16 | Safety-belts, restraint systems, child restraint systems and Isofix child restraint systems | Supplement 17 to the 04 series of amendments | OJ L 313, 30.11.2007, p. 58 | M, N |
+| 17 | Seats, their anchorages and any head restraints | 08 series of amendments | OJ L 230, 31.8.2010, p. 81 | M, N |
+| 18 | Protection of motor vehicles against unauthorised use | Supplement 2 to the 03 series of amendments | OJ L 120, 13.5.2010, p. 29 | M2, M3, N2, N3 |
+| 19 | Power-driven vehicle front fog lamps | Supplement 2 to the 03 series of amendments | OJ L 177, 10.7.2010, p. 113 | M, N |
+| 20 | Headlamps emitting an asymmetrical passing beam or a driving beam or both and equipped with halogen filament lamps (H4) | 03 series of amendments | OJ L 177, 10.7.2010, p. 170 | M, N (1) |
+| 21 | Interior fittings | Supplement 3 to the 01 series of amendments | OJ L 188, 16.7.2008, p. 32 | M1 |
+| 23 | Reversing lights for power-driven vehicles and their trailers | Supplement 15 to the original version of the Regulation | OJ L 148, 12.6.2010, p. 34 | M, N, O |
+| 25 | Head restraints (headrests), whether or not incorporated in vehicle seats | 04 series of amendments Corrigendum 2 to Revision 1 | OJ L 215, 14.8.2010, p. 1 | M, N |
+| 26 | External projections | Supplement 1 to the 03 series of amendments | OJ L 215, 14.8.2010, p. 27 | M1 |
+| 28 | Audible warning devices and signals | Supplement 3 to the original version of the Regulation | OJ L 185, 17.7.2010, p. 1 | M, N |
+| 31 | Power-driven vehicle's sealed-beam headlamps (SB) emitting an European asymmetrical passing beam or a driving beam or both | Supplement 7 to the 02 series of amendments | OJ L 185, 17.7.2010, p. 15 | M, N |
+| 34 | Prevention of fire risks (liquid fuel tanks) | Supplement 2 to the 02 series of amendments | OJ L 194, 23.7.2008, p. 14 | M, N, O |
+| 37 | Filament lamps for use in approved lamp units of power-driven vehicles and their trailers | Supplement 34 to the 03 series of amendments | OJ L 297, 13.11.2010, p. 1 | M, N, O |
+| 38 | Rear fog lamps for power-driven vehicles and their trailers | Supplement 14 to the original version of the Regulation Corrigendum 1 to Supplement 12 | OJ L 148, 12.6.2010, p. 55 | M, N, O |
+| 39 | Speedometer equipment including its installation | Supplement 5 to the original version of the Regulation | OJ L 120, 13.5.2010, p. 40 | M, N |
+| 43 | Safety glazing materials | Supplement 12 to the original version of the Regulation | OJ L 230, 31.8.2010, p. 119 | M, N, O |
+| 44 | Restraining devices for child occupants of power-driven vehicles (child restraint system) | 04 series of amendments Corrigendum 3 to Revision 2 | OJ L 306, 23.11.2007, p. 1 | M, N |
+| 46 | Devices for indirect vision and their installation | Supplement 4 to the 02 series of amendments Corrigendum 1 to Supplement 4 to the 02 series | OJ L 177, 10.7.2010, p. 211 | M, N |
+| 48 | Installation of lighting and light-signalling devices on motor vehicles | 04 series of amendments | OJ L 135, 23.5.2008, p. 1 | M, N, O |
+| 55 | Mechanical coupling components of combinations of vehicles | Supplement 1 to the 01 series of amendments | OJ L 227, 28.8.2010, p. 1 | M, N, O |
+| 58 | Rear underrun protective devices (RUPDs) and their installation; Rear underrun protection (RUP) | 02 series of amendments | OJ L 232, 30.8.2008, p. 13 | N2, N3, O3, O4 |
+| 61 | Commercial vehicles with regard to their external projections forward of the cab's rear panel | Supplement 1 to the original version of the Regulation | OJ L 164, 30.6.2010, p. 1 | N |
+| 66 | Strength of the superstructure of large passenger vehicles | 02 series of amendments | OJ L 84, 30.3.2011, p. 1 | M2, M3 |
+| 67 | Motor vehicles using LPG | Supplement 7 to the 01 series of amendments | OJ L 72, 14.3.2008, p. 1 | M, N |
+| 73 | Lateral protection of goods vehicles | Supplement 1 to the original version of the Regulation | OJ L 120, 13.5.2010, p. 49 | N2, N3, O3, O4 |
+| 77 | Parking lamps for power-driven vehicles | Supplement 12 to the original version of the Regulation | OJ L 130, 28.5.2010, p. 1 | M, N |
+| 79 | Steering equipment | Supplement 3 to the 01 series of amendments | OJ L 137, 27.5.2008, p. 25 | M, N, O |
+| 80 | Seats of large passenger vehicles | Supplement 3 to the 01 series of amendments Corrigendum 1 to the 01 series of amendments | OJ L 164, 30.6.2010, p. 18 | M2, M3 |
+| 87 | Daytime running lamps for power-driven vehicles | Supplement 14 to the original version of the Regulation Correction 1 to Revision 2 | OJ L 164, 30.6.2010, p. 46 | M, N |
+| 89 | Speed limitation of vehicles | Supplement 1 to the original version of the Regulation | OJ L 158, 19.6.2007, p. 1 | M, N |
+| 90 | Replacement brake lining assemblies and drum brake linings for power-driven vehicles and their trailers | Supplement 11 to the 01 series of amendments | OJ L 130, 28.5.2010, p. 19 | M, N, O |
+| 91 | Side-marker lamps for motor vehicles and their trailers | Supplement 11 to the original version of the Regulation | OJ L 164, 30.6.2010, p. 69 | M, N, O |
+| 93 | Front underrun protective devices (FUPDs) and their installation; front underrun protection (FUP) | Original version of the Regulation | OJ L 185, 17.7.2010, p. 56 | N2, N3 |
+| 94 | Protection of occupants in the event of a frontal collision | Supplement 3 to the 01 series of amendments Corrigendum 2 to the 01 series of amendments Corrigendum 1 to Revision 1 | OJ L 130, 28.5.2010, p. 50 | M1 |
+| 95 | Protection of occupants in the event of a lateral collision | Supplement 1 to the 02 series of amendments | OJ L 313, 30.11.2007, p. 1 | M1, N1 |
+| 97 | Vehicle alarm systems (VAS) | Revision 1 — Amendment 1 | OJ L 351, 30.12.2008, p. 1 | M1, N1 |
+recital 23
+(23) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee — Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+recital 21
+(21) Regulation (EC) No 661/2009 should therefore be amended accordingly.
+recital 19
+(19) Therefore, Regulation (EC) No 661/2009 provides for the repeal of several Directives concerning the type-approval of motor vehicles, their trailers and systems, components and separate technical units intended therefore, which, for the purposes of EC type-approval in accordance with that Regulation should be replaced by corresponding UNECE Regulations.
+recital 18
+(18) Replacing Union legislation by UNECE Regulations helps to avoid duplication not only of technical requirements but also of certification and administrative procedures.
+
+In addition, type-approval that is directly based on internationally agreed standards should improve market access in third countries, in particular in those which are contracting parties to the Revised 1958 Agreement, thus enhancing Union industry's competitiveness.
+recital 17
+(17) The possibility to apply UNECE Regulations for the purpose of EC vehicle type-approval on a compulsory basis and to replace Union legislation by those UNECE Regulations is provided for in Directive 2007/46/EC.
+
+According to Regulation (EC) No 661/2009 type-approval in accordance with UNECE Regulations which apply on a compulsory basis is to be considered as EC type-approval in accordance with that Regulation and its implementing measures.
+recital 16
+(16) In accordance with Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (12), vehicles manufacturers seeking approval for their systems, components, or separate technical units have the choice of meeting the requirements of either the relevant Directives or the corresponding UNECE Regulations.
+
+Most of the requirements under Directives on vehicle parts are taken over from the corresponding UNECE Regulations. As technology progresses, UNECE Regulations are constantly amended and the relevant Directives have to be regularly updated to keep them in line with the content of the respective UNECE Regulations. In order to avoid this duplication, the CARS 21 High Level Group recommended the replacement of several Directives by the corresponding UNECE Regulations.
+recital 14
+(14) By Council Decision 2007/159/EC (10), the Union has approved UNECE Regulation No 125 concerning the approval of motor vehicles with regard to the forward field of vision of the motor vehicle driver.
+recital 13
+(13) By Council Decision 2006/874/EC (9), the Union has acceded to UNECE Regulation No 107 on uniform provisions concerning the approval of categories M2 or M3 vehicles with regard to their general construction.
+recital 12
+(12) By Council Decision 2006/444/EC (8), the Union has acceded to UNECE Regulation No 55 on provisions concerning the approval of mechanical coupling components of combinations of vehicles.
+recital 11
+(11) By Council Decision 2006/364/EC (7), the Union has approved UNECE Regulation No 123 concerning the approval of adaptive front-lighting systems (AFS) for motor vehicles.
+recital 10
+(10) By Council Decision 2005/614/EC (6), the Union has acceded to UNECE Regulation No 94 on provisions concerning the approval of vehicles with regard to the protection of the occupants in the event of a frontal collision and to UNECE Regulation No 95 on provisions concerning the approval of vehicles with regard to the protection of the occupants in the event of a lateral collision.
+recital 9
+(9) By Council Decision of 14 March 2005, the Union has acceded to UNECE Regulation No 121 on uniform provisions concerning the approval of vehicles with regard to the location and identification of hand controls, tell-tales and indicators and to UNECE Regulation No 122 on uniform technical prescriptions concerning the approval of vehicles of categories M, N and O with regards to their heating systems.
+recital 8
+(8) By Council Decision of 29 April 2004, the Union has acceded to UNECE Regulation No 116 on uniform prescriptions concerning the protection of motor vehicles against unauthorised use and to UNECE Regulation No 118 on uniform technical prescriptions concerning the burning behaviour of materials used in the interior construction of certain categories of motor vehicles.
+recital 7
+(7) By Council Decision 2001/505/EC (5), the Union has acceded to UNECE Regulation No 105 on the approval of vehicles intended for the carriage of dangerous goods with regard to their specific constructional features.
+recital 6
+(6) By Council Decision 2001/395/EC (4), the Union has acceded to UNECE Regulation No 13 H on the component approval of passenger cars in respect of their braking.
+recital 5
+(5) By Council Decision of 7 November 2000, the Union has acceded to UNECE No Regulation 112 on uniform provisions concerning the approval of motor vehicle headlamps emitting an asymmetrical passing beam or a driving beam or both and equipped with filament lamps and/or light-emitting diode (LED) modules.
+recital 22
+(22) The UNECE Regulations listed in the Annex to this Regulation should apply following the implementation dates set out in Article 13 of Regulation (EC) No 661/2009.
+Article 4
+1. Without prejudice to the provisions of paragraph 2, UNECE Regulation No 100, series of amendments 00 (15), shall apply for the purpose of EC whole vehicle type-approval in accordance with Directive 2007/46/EC and EC type-approval of a vehicle with regard to electric safety as of 1 May 2011 referred to in Article 5 of the present Regulation.
+
+2. With effect from 1 January 2012, UNECE Regulation No 100, series of amendments 00, shall apply for the purpose of registration, sale and entry into service of new vehicles. 3. With effect from 4 December 2012, UNECE Regulation No 100, series of amendments 01 (16), shall apply for the purpose of EC whole vehicle type-approval in accordance with Directive 2007/46/EC and EC type-approval of a vehicle with regard to electric safety.
+Article 2
+1. Subject to paragraphs 2, 3 and 4 and Article 4, the UNECE Regulations with the series of amendments and supplements as indicated in the Annex shall apply for the purpose of EC type-approval of new types of vehicles, their trailers and systems, components and separate technical units intended therefor from 1 November 2012.
+
+2. With effect from 1 November 2011, UNECE Regulation No 13 H, supplement 9 (13) shall apply for the purpose of EC type-approval of new types of vehicles of category M1. 3. With effect from 1 November 2011, UNECE Regulation No 13, supplement 3 to the 11 series of amendments (14) or UNECE Regulation No 13 H, supplement 9, shall apply for the purpose of EC type-approval of new types of vehicles of category N1. 4. With effect from the implementation dates set out in Table 1 of Annex V to Regulation (EC) No 661/2009, UNECE Regulation No 13, supplement 3 to the 11 series of amendments, shall apply for the purpose of EC type-approval of new types of vehicles of categories M2, M3, N2, N3, O3 and O4 regarding electronic stability control systems.
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor (1), and in particular Article 14(1) thereof,
+Whereas:
+
+(1) By Council Decision 97/836/EC (2) the Union has acceded to the Agreement of the United Nations Economic Commission for Europe concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions (Revised 1958 Agreement). (2) By Decision 97/836/EC, the Union has also acceded to UNECE Regulations Nos 1, 3, 4, 6, 7, 8, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 23, 25, 26, 28, 31, 34, 37, 38, 39, 43, 44, 46, 48, 58, 66, 73, 77, 79, 80, 87, 89, 90, 91, 93, 97, 98, 99, 100, and 102. (3) By Council Decision of 28 February 2000, the Union has acceded to UNECE Regulation No 110 on specific components of motor vehicles using compressed natural gas (CNG) in their propulsion system and on vehicles with regard to the installation of specific components of an approved type for the use of compressed natural gas (CNG) in their propulsion system. (4) By Council Decision 2000/710/EC (3), the Union has acceded to UNECE Regulation No 67 on the approval of special equipment for motor vehicles fuelled by liquefied petroleum gas. (5) By Council Decision of 7 November 2000, the Union has acceded to UNECE No Regulation 112 on uniform provisions concerning the approval of motor vehicle headlamps emitting an asymmetrical passing beam or a driving beam or both and equipped with filament lamps and/or light-emitting diode (LED) modules. (6) By Council Decision 2001/395/EC (4), the Union has acceded to UNECE Regulation No 13 H on the component approval of passenger cars in respect of their braking. (7) By Council Decision 2001/505/EC (5), the Union has acceded to UNECE Regulation No 105 on the approval of vehicles intended for the carriage of dangerous goods with regard to their specific constructional features. (8) By Council Decision of 29 April 2004, the Union has acceded to UNECE Regulation No 116 on uniform prescriptions concerning the protection of motor vehicles against unauthorised use and to UNECE Regulation No 118 on uniform technical prescriptions concerning the burning behaviour of materials used in the interior construction of certain categories of motor vehicles. (9) By Council Decision of 14 March 2005, the Union has acceded to UNECE Regulation No 121 on uniform provisions concerning the approval of vehicles with regard to the location and identification of hand controls, tell-tales and indicators and to UNECE Regulation No 122 on uniform technical prescriptions concerning the approval of vehicles of categories M, N and O with regards to their heating systems. (10) By Council Decision 2005/614/EC (6), the Union has acceded to UNECE Regulation No 94 on provisions concerning the approval of vehicles with regard to the protection of the occupants in the event of a frontal collision and to UNECE Regulation No 95 on provisions concerning the approval of vehicles with regard to the protection of the occupants in the event of a lateral collision. (11) By Council Decision 2006/364/EC (7), the Union has approved UNECE Regulation No 123 concerning the approval of adaptive front-lighting systems (AFS) for motor vehicles. (12) By Council Decision 2006/444/EC (8), the Union has acceded to UNECE Regulation No 55 on provisions concerning the approval of mechanical coupling components of combinations of vehicles. (13) By Council Decision 2006/874/EC (9), the Union has acceded to UNECE Regulation No 107 on uniform provisions concerning the approval of categories M2 or M3 vehicles with regard to their general construction. (14) By Council Decision 2007/159/EC (10), the Union has approved UNECE Regulation No 125 concerning the approval of motor vehicles with regard to the forward field of vision of the motor vehicle driver. (15) By Council Decision 2009/433/EC (11), the Union has acceded to UNECE Regulation No 61 on uniform provisions for the approval of commercial vehicles with regard to their external projections forward of the cab's rear panel. (16) In accordance with Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (12), vehicles manufacturers seeking approval for their systems, components, or separate technical units have the choice of meeting the requirements of either the relevant Directives or the corresponding UNECE Regulations. Most of the requirements under Directives on vehicle parts are taken over from the corresponding UNECE Regulations. As technology progresses, UNECE Regulations are constantly amended and the relevant Directives have to be regularly updated to keep them in line with the content of the respective UNECE Regulations. In order to avoid this duplication, the CARS 21 High Level Group recommended the replacement of several Directives by the corresponding UNECE Regulations. (17) The possibility to apply UNECE Regulations for the purpose of EC vehicle type-approval on a compulsory basis and to replace Union legislation by those UNECE Regulations is provided for in Directive 2007/46/EC. According to Regulation (EC) No 661/2009 type-approval in accordance with UNECE Regulations which apply on a compulsory basis is to be considered as EC type-approval in accordance with that Regulation and its implementing measures. (18) Replacing Union legislation by UNECE Regulations helps to avoid duplication not only of technical requirements but also of certification and administrative procedures. In addition, type-approval that is directly based on internationally agreed standards should improve market access in third countries, in particular in those which are contracting parties to the Revised 1958 Agreement, thus enhancing Union industry's competitiveness. (19) Therefore, Regulation (EC) No 661/2009 provides for the repeal of several Directives concerning the type-approval of motor vehicles, their trailers and systems, components and separate technical units intended therefore, which, for the purposes of EC type-approval in accordance with that Regulation should be replaced by corresponding UNECE Regulations. (20) For that reason, it is appropriate to include UNECE Regulations Nos 1, 3, 4, 6, 7, 8, 10, 11, 12, 13, 13 H, 14, 16, 17, 18, 19, 20, 21, 23, 25, 26, 28, 31, 34, 37, 38, 39, 43, 44, 46, 48, 55, 58, 61, 66, 67, 73, 77, 79, 80, 87, 89, 90, 91, 93, 94, 95, 97, 98, 99, 100, 102, 105, 107, 110, 112, 116, 118, 121, 122, 123 and 125 into Annex IV to Regulation (EC) No 661/2009, which lists the UNECE Regulations that apply on a compulsory basis. (21) Regulation (EC) No 661/2009 should therefore be amended accordingly. (22) The UNECE Regulations listed in the Annex to this Regulation should apply following the implementation dates set out in Article 13 of Regulation (EC) No 661/2009. (23) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee — Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+recital 20
+(20) For that reason, it is appropriate to include UNECE Regulations Nos 1, 3, 4, 6, 7, 8, 10, 11, 12, 13, 13 H, 14, 16, 17, 18, 19, 20, 21, 23, 25, 26, 28, 31, 34, 37, 38, 39, 43, 44, 46, 48, 55, 58, 61, 66, 67, 73, 77, 79, 80, 87, 89, 90, 91, 93, 94, 95, 97, 98, 99, 100, 102, 105, 107, 110, 112, 116, 118, 121, 122, 123 and 125 into Annex IV to Regulation (EC) No 661/2009, which lists the UNECE Regulations that apply on a compulsory basis.
+recital 3
+(3) By Council Decision of 28 February 2000, the Union has acceded to UNECE Regulation No 110 on specific components of motor vehicles using compressed natural gas (CNG) in their propulsion system and on vehicles with regard to the installation of specific components of an approved type for the use of compressed natural gas (CNG) in their propulsion system.
+recital 1
+(1) By Council Decision 97/836/EC (2) the Union has acceded to the Agreement of the United Nations Economic Commission for Europe concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions (Revised 1958 Agreement).
+| Regulation number | Subject | Series of amendments | OJ reference | Applicability |
+|---|---|---|---|---|
+| 97 | Vehicle alarm systems (VAS) | Revision 1 — Amendment 1 | OJ L 351, 30.12.2008, p. 1 | M1, N1 |
+| 98 | Motor vehicle headlamps equipped with gas-discharge light sources | Supplement 13 to the original version of the Regulation | OJ L 164, 30.6.2010, p. 92 | M, N |
+| 99 | Gas-discharge light sources for use in approved gas-discharge lamp units of power-driven vehicles | Supplement 5 to the original version of the Regulation | OJ L 164, 30.6.2010, p. 151 | M, N |
+| 100 | Electric safety | Supplement 1 to the original version of the Regulation 01 series of amendments | OJ L 45, 14.2.2009, p. 17 OJ L 57, 2.3.2011, p. 54 | M, N |
+| 102 | Close-coupling device (CCD); fitting of an approved type of CCD | Original version of the Regulation | OJ L 351, 30.12.2008, p. 44 | N2, N3, O3, O4 |
+| 105 | Vehicles for the carriage of dangerous goods | Supplement 1 to the 04 series of amendments | OJ L 230, 31.8.2010, p. 253 | N, O |
+| 107 | M2 and M3 vehicles | 03 series of amendments | OJ L 255, 29.9.2010 | M2, M3 |
+| 110 | Specific components for CNG | Supplement 6 to the original version of the Regulation | OJ L 72, 14.3.2008, p. 113 | M, N |
+| 112 | Motor vehicle headlamps emitting an asymmetrical passing beam or a driving beam or both and equipped with filament lamps and/or LED modules | Supplement 12 to the original version of the Regulation | OJ L 230, 31.8.2010, p. 264 | M, N |
+| 116 | Protection of motor vehicles against unauthorised use | Supplement 2 to the original version of the Regulation | OJ L 164, 30.6.2010, p. 181 | M1, N1 |
+| 118 | Burning behaviour of materials used in the interior construction of certain categories of motor vehicles | Original Regulation | OJ L 177, 10.7.2010, p. 263 | M3 |
+| 121 | Location and identification of hand controls, tell-tales and indicators | Supplement 3 to the original version of the Regulation | OJ L 177, 10.7.2010, p. 290 | M, N |
+| 122 | Heating system of vehicles of categories M, N and O | Supplement 1 to the original version of the Regulation | OJ L 164, 30.6.2010, p. 231 | M, N, O |
+| 123 | Adaptive front-lighting systems (AFS) for motor vehicles | Supplement 4 to the original version of the Regulation | OJ L 222, 24.8.2010, p. 1 | M, N |
+| 125 | Forward field of vision | Supplement 2 to the original version of the Regulation | OJ L 200, 31.7.2010, p. 38 | M1 |
+
+(1) UNECE Regulations Nos 1, 8 and 20 are not applicable for EC type-approval of new vehicles. (2) Including, for the purpose of EC type-approval of new types of vehicles of category N1 and of registration, sale and entry into service of new vehicles of category N1, the requirements on roll-over control and directional control set out in its Annex 21. (3) Including, for the purposes of EC type-approval of new types of vehicles of categories N1 and M1 and of registration, sale and entry into service of new vehicles of categories N1 and M1, the requirements set out in its Annex 9.'

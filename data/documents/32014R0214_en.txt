@@ -1,0 +1,882 @@
+Article 3
+This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.
+
+Article 1, point (2), Article 2 and Points 1(a) and 2(b)(i) of the Annex shall apply from 1 November 2014.
+Article 2
+From 1 November 2014, National authorities shall consider certificates of conformity for vehicles to be no longer valid for the purpose of Article 26(1) unless the type-approvals concerned have been updated to the requirements of Annex XI to Directive 2007/46/EC as amended by this Regulation.
+
+However, the additional requirements on the patient compartment of ambulances in Appendix 1 of Annex XI to Directive 2007/46/EC and the Additional requirements for testing the wheel chair tie down and occupant restraint system of wheelchair accessible vehicles in Appendix 3 of Annex XI to Directive 2007/46/EC shall apply from 1 November 2014 only to new types of vehicles.
+Article 1
+Directive 2007/46/EC is amended as follows:
+
+(1) Annexes II, IV, XI and XII are amended in accordance with the Annex to this Regulation; (2) Annex XVIII is deleted.
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (1), and in particular Article 39(2) thereof,
+Whereas:
+
+(1) Directive 2007/46/EC establishes an harmonised framework containing the administrative provisions and general technical requirements for all new vehicles. In particular, it lists the regulatory acts laying down the technical requirements with which vehicles have to comply in order to be granted EC vehicle type-approval. Furthermore, Directive 2007/46/EC made the EC whole-vehicle type-approval mandatory for special purpose vehicles in accordance with the timetable set out in its Annex XIX. (2) Regulation (EC) No 661/2009 of the European Parliament and of the Council (2), introduced new safety features for vehicles and provided for the repeal of several directives and their replacement by the corresponding United Nations Economic Commission for Europe (UNECE) Regulations. (3) Annex XI to Directive 2007/46/EC contains a list of regulatory acts for the EC type-approval of special purpose vehicles, as well as specific provisions for such vehicles. It is essential to adapt Annex XI to take into account the changes introduced by Regulation (EC) No 661/2009. The date of application of Regulation (EC) No 661/2009 shall apply. (4) To achieve the harmonisation of the technical requirements applying for the EC whole-vehicle type-approval of special purpose vehicles, it is essential to amend Annex II to Directive 2007/46/EC and to establish stricter requirements on ambulances and wheelchair accessible vehicles. In order to give time to industry to adapt their vehicles, those sticter requirements shall only apply to new vehicle types. (5) Annex XVIII to Directive 2007/46/EC was relevant for the registration of special purpose vehicles based on incomplete vehicles holding a national type-approval. Since EC type-approvals will replace national type-approvals in accordance with the dates set out in Annex XIX to Directive 2007/46/EC, it is appropriate to delete Annex XVIII at the end of the transitional period foreseen by Annex XIX to Directive 2007/46/EC. (6) Part II of Annex IV to Directive 2007/46/EC lists the UNECE Regulations recognised as an alternative to the directives mentioned in Part I of Annex IV. With the repeal of most of those directives by Regulation (EC) No 661/2009 from 1 November 2014 and the adoption of a new UNECE Regulation on pedestrian safety, it is appropriate to update the relevant entries in Part II of Annex IV to Directive 2007/46/EC. Furthermore, it is appropriate to correct several errors in Annex IV to that directive. (7) Annex XII to Directive 2007/46/EC was amended the same day by Commission Regulation (EU) 1229/2012 (3) and by Commission Regulation (EU) 1230/2012 (4), which may lead to an unclear situation regarding the number of units allowed for vehicles holding a small series type-approval because Regulation (EU) 1229/2012 was drafted to be published after Regulation (EU) 1230/2012. To remove this uncertainty, it is appropriate to publish again the consolidated version of Annex XII as amended by these two legal texts. (8) Directive 2007/46/EC should therefore be amended accordingly. (9) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee — Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+ANNEX
+ANNEX
+Directive 2007/46/EC is amended as follows: (1) In Annex II, Part A,
+(a) Point 5.3 is amended as follows: (b) the following points 5.11 and 5.12 are added:
+
+| '5.11. | Exceptional load transport motor vehicle | SL | a road tractor or tractor unit for semi-trailer of category N3 meeting all the following conditions: (a) having more than two axles and at least half of the axles (two axles out of three in the case of a three axle vehicle and mutatis mutandis in the case of a five axle vehicle) designed to be driven simultaneously, irrespective of whether one powered axle can be disengaged, (b) which is designed for towing and pushing exceptional load transport trailer of category O 4 , (c) which has a minimum engine power of 350 kW, and (d) which can be equipped with an additional front coupling device for heavy towable masses |
+|---|---|---|---|
+| 5.12. | Multi-equipment carrier | SM | an off-road vehicle of category N (as defined in point 2.3) designed and constructed for pulling, pushing, carrying and actuating certain inter-changeable equipment, (a) with not less than two mounting areas for this equipment, (b) with standardised, mechanical, hydraulic and/or electrical interfaces (e.g. Power take off) for powering and actuating the above mentioned equipment and (c) which fulfills the definition of ISO 3833-1977, section 3.1.4 (special vehicle). If the vehicle is equipped with an auxiliary load platform, its maximum length shall not exceed: (a) 1,4 times of the front or rear track width of the vehicle, whichever is the larger in the case of two axle vehicles, or (b) 2,0 times of the front or rear track width of the vehicle, whichever is the larger in the case of vehicles having more than two axles' | (2) Annex IV is amended as follows: (a) Part I, is amended as follows: (i) In the Table, entry 2 is renumbered 2A and entry 38A is amended as follows: (ii) In Appendix 1, Table 1, the following entries 3B and 38A are inserted:
+
+| '3B | Rear underrun protective devices (RUPDs) and their installation; rear underrun protection (RUP) | Regulation (EC) No 661/2009 UNECE Regulation No 58 |  | B' |
+|---|---|---|---|---|
+| 0 | 1 | 2 | 3 | 4 |
+| '38A | Head restraints | Regulation (EC) No 661/2009 UNECE Regulation No 25 |  | X' | (iii) In Appendix 1, Table 2, entry 38 is deleted and the following 3B is inserted: (b) Part II is amended as follows: (i) Points 2 to 57 of the table are deleted
+(ii) The following point 58 is inserted:
+
+| '58. | Pedestrian protection | 127 | 00 |
+|---|---|---|---|
+| '58. | Braking (brake assist) | 13-H | 00 (Supplement 9 and above)' | (3) Annex XI is replaced by the following:
+
+| Item | Subject | Regulatory act reference | M1 ≤ 2 500 kg (*1) | M1 > 2 500 kg (*1) | M2 | M3 |
+|---|---|---|---|---|---|---|
+| 1 | Permissible Sound level | Directive 70/157/EEC | H | G+H | G+H | G+H |
+| 2 | Emissions (Euro 5 and 6) light duty vehicles/access to information | Regulation (EC) 715/2007 | Q (1) | G+Q (1) | G+Q (1) |  |
+| 3 | Fuel tanks/rear protective devices | Directive 70/221/EEC | F (2) | F (2) | F (2) | F (2) |
+| 3A | Prevention of fire risks (liquid fuel tanks) | Regulation (EC) No 661/2009 UNECE Regulation No 34 | F (2) | F (2) | F (2) | F (2) |
+| 3B | Rear underrun protective devices (RUPDs) and their installation; rear underrun protection (RUP) | Regulation (EC) No 661/2009 UNECE Regulation No 58 | X | X | X | X |
+| 4 | Rear registration plate space | Directive 70/222/EEC | X | X | X | X |
+| 4A | Space for mounting and fixing rear registration plates | Regulation (EC) No 661/2009 Regulation (EU) No 1003/2010 | X | X | X | X |
+| 5 | Steering effort | Directive 70/311/EEC | X | G | G | G |
+| 5A | Steering equipment | Regulation (EC) No 661/2009 UNECE Regulation No 79 | X | G | G | G |
+| 6 | Door latches and hinges | Directive 70/387/EEC | B | G+B |  |  |
+| 6A | Vehicle access and manoeuvrability | Regulation (EC) No 661/2009 Regulation (EU) No 130/2012 | X | X |  |  |
+| 6B | Door latches and door retention components | Regulation (EC) No 661/2009 UNECE Regulation No 11 | B | G+B |  |  |
+| 7 | Audible warning | Directive 70/388/EEC | X | X | X | X |
+| 7A | Audible warning devices and signals | Regulation (EC) No 661/2009 UNECE Regulation No 28 | X | X | X | X |
+| 8 | Devices for indirect vision | Directive 2003/97/EC | X | G | G | G |
+| 8A | Devices for indirect vision and their installation | Regulation (EC) No 661/2009 UNECE Regulation No 46 | X | G | G | G |
+| 9 | Braking | Directive 71/320/EEC | X | G | G | G |
+| 9A | Braking of vehicles and trailers | Regulation (EC) No 661/2009 UNECE Regulation No 13-H | X (4) | G+A1 |  |  |
+| 9B | Braking of vehicles and trailers | Regulation (EC) No 661/2009 UNECE Regulation No 13 |  |  | G(3) | G(3) |
+| 10 | Radio interference (electromagnetic compatibility) | Directive 72/245/EEC | X | X | X | X |
+| 10A | Electromagnetic compatibility | Regulation (EC) No 661/2009 UNECE Regulation No 10 | X | X | X | X |
+| 12 | Interior fittings | Directive 74/60/EEC | C | G+C |  |  |
+| 12A | Interior fittings | Regulation (EC) No 661/2009 UNECE Regulation No 21 | C | G+C |  |  |
+| 13 | Anti-theft and immobiliser | Directive 74/61/EEC | X | G | G | G |
+| 13A | Protection of motor vehicles against unauthorised use | Regulation (EC) No 661/2009 UNECE Regulation No 18 |  |  | G (4A) | G (4A) |
+| 13B | Protection of motor vehicles against unauthorised use | Regulation (EC) No 661/2009 UNECE Regulation No 116 | X | G |  |  |
+| 14 | Protective steering | Directive 74/297/EEC | X | G |  |  |
+| 14A | Protection of the driver against the steering mechanism in the event of impact | Regulation (EC) No 661/2009 UNECE Regulation No 12 | X | G |  |  |
+| 15 | Seat strength | Directive 74/408/EEC | D | G+D | G+D | G+D |
+| 15A | Seats, their anchorages and any head restraints | Regulation (EC) No 661/2009 UNECE Regulation No 17 | D | G+D | G+D (4B) | G+D (4B) |
+| 15B | Seats of large passenger vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 80 |  |  | X | X |
+| 16 | Exterior projections | Directive 74/483/EEC | X for the cab; A+Z for the remaining part | G for the cab; A+Z for the remaining part |  |  |
+| 16A | External projections | Regulation (EC) No 661/2009 UNECE Regulation No 26 | X for the cab; A+Z for the remaining part | G for the cab; A+Z for the remaining part |  |  |
+| 17 | Speedometer and reverse gear | Directive 75/443/EEC | X | X | X | X |
+| 17A | Vehicle access and manoeuvrability | Regulation (EC) No 661/2009 Regulation (EU) No 130/2012 | X | X | X | X |
+| 17B | Speedometer equipment including its installation | Regulation (EC) No 661/2009 UNECE Regulation No 39 | X | X | X | X |
+| 18 | Plates (statutory) | Directive 76/114/EEC | X | X | X | X |
+| 18A | Manufacturer's statutory plate and vehicle identification number | Regulation (EC) No 661/2009 Regulation (EU) No 19/2011 | X | X | X | X |
+| 19 | Seat belt anchorages | Directive 76/115/EEC | D | G+L | G+L | G+L |
+| 19A | Safety-belt anchorages, Isofix anchorages systems and Isofix top tether anchorages | Regulation (EC) No 661/2009 UNECE Regulation No 14 | D | G+L | G+L | G+L |
+| 20 | Installation of lighting and light signalling devices | Directive 76/756/EEC | A+N | A+G+N for the cab; A+N for the remaining part | A+G+N for the cab; A+N for the remaining part | A+G+N for the cab; A+N for the remaining part |
+| 20A | Installation of lighting and light-signalling devices on vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 48 | A+N | A+G+N for the cab; A+N for the remaining part | A+G+N for the cab; A+N for the remaining part | A+G+N for the cab; A+N for the remaining part |
+| 21 | Retro reflectors | Directive 76/757/EEC | X | X | X | X |
+| 21A | Retro-reflecting devices for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 3 | X | X | X | X |
+| 22 | End-outline, front-side, rear-side, stop, day time running, side-marker lamps | Directive 76/758/EEC | X | X | X | X |
+| Item | Subject | Regulatory act reference | M1 ≤ 2 500 kg (*1) | M1 > 2 500 kg (*1) | M2 | M3 |
+|---|---|---|---|---|---|---|
+| 22 | End-outline, front-side, rear-side, stop, day time running, side-marker lamps | Directive 76/758/EEC | X | X | X | X |
+| 22A | Front and rear position lamps, stop-lamps and end-ouline marker lamps for motor vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 7 | X | X | X | X |
+| 22B | Daytime running lamps for power-driven vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 87 | X | X | X | X |
+| 22C | Side-marker lamps for motor vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 91 | X | X | X | X |
+| 23 | Direction indicators | Directive 76/759/EEC | X | X | X | X |
+| 23A | Direction indicators for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 6 | X | X | X | X |
+| 24 | Rear registration plate lamps | Directive 76/760/EEC | X | X | X | X |
+| 24A | Illumination of rear-registration plates of power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 4 | X | X | X | X |
+| 25 | Head lamps (including bulbs) | Directive 76/761/EEC | X | X | X | X |
+| 25A | Power-driven vehicle's sealed-beam headlamps (SB) emitting an European asymmetrical passing beam or a driving beam or both | Regulation (EC) No 661/2009 UNECE Regulation No 31 | X | X | X | X |
+| 25B | Filament lamps for use in approved lamp units of power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 37 | X | X | X | X |
+| 25C | Motor vehicle headlamps equipped with gas-discharge light sources | Regulation (EC) No 661/2009 UNECE Regulation No 98 | X | X | X | X |
+| 25D | Gas-discharge light sources for use in approved gas-discharge lamp units of power-driven vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 99 | X | X | X | X |
+| 25E | Motor vehicle headlamps emitting an asymmetrical passing beam or a driving beam or both and equipped with filament lamps and/or LED modules | Regulation (EC) No 661/2009 UNECE Regulation No 112 | X | X | X | X |
+| 25F | Adaptive front-lighting systems (AFS) for motor vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 123 | X | X | X | X |
+| 26 | Front fog lamps | Directive 76/762/EEC | X | X | X | X |
+| 26A | Power-driven vehicle front fog lamps | Regulation (EC) No 661/2009 UNECE Regulation No 19 | X | X | X | X |
+| 27 | Towing hooks | Directive 77/389/EEC | E | E | E | E |
+| 27A | Towing device | Regulation (EC) No 661/2009 Regulation (EU) No 1005/2010 | E | E | E | E |
+| 28 | Rear fog lamps | Directive 77/538/EEC | X | X | X | X |
+| 28A | Rear fog lamps for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 38 | X | X | X | X |
+| 29 | Reversing lamps | Directive 77/539/EEC | X | X | X | X |
+| 29A | Reversing lights for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 23 | X | X | X | X |
+| 30 | Parking lamps | Directive 77/540/EEC | X | X | X | X |
+| 30A | Parking lamps for power-driven vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 77 | X | X | X | X |
+| 31 | Seat belts and restraint systems | Directive 77/541/EEC | D | G+M | G+M | G+M |
+| 31A | Safety-belts, restraint systems, child restraint systems and Isofix child restraint systems | Regulation (EC) No 661/2009 UNECE Regulation No 16 | D | G+M | G+M | G+M |
+| 32 | Forward vision | Directive 77/649/EEC | X | G |  |  |
+| 32A | Forward field of vision | Regulation (EC) No 661/2009 UNECE Regulation No 125 | X | G |  |  |
+| 33 | Identification of controls, tell-tales and indicators | Directive 78/316/EEC | X | X | X | X |
+| 33A | Location and identification of hand controls, tell-tales and indicators | Regulation (EC) No 661/2009 UNECE Regulation No 121 | X | X | X | X |
+| 34 | Defrost/demist | Directive 78/317/EEC | X | G (5) | (5) | (5) |
+| 34A | Windscreen defrosting and demisting systems | Regulation (EC) No 661/2009 Regulation (EU) No 672/2010 | X | G (5) | (5) | (5) |
+| 35 | Wash/wipe | Directive 78/318/EEC | X | G (6) | (6) | (6) |
+| 35A | Windscreen wiper and washer systems | Regulation (EC) No 661/2009 Regulation (EU) No 1008/2010 | X | G (6) | (6) | (6) |
+| 36 | Heating systems | Directive 2001/56/EC | X | X | X | X |
+| 36A | Heating systems | Regulation (EC) No 661/2009 UNECE Regulation No 122 | X | X | X | X |
+| 37 | Wheel guards | Directive 78/549/EEC | X | G |  |  |
+| 37A | Wheel guards | Regulation (EC) No 661/2009 Regulation (EU) No 1009/2010 | X | G |  |  |
+| 38 | Head restraints | Directive 78/932/EEC | D | G+D |  |  |
+| 38A | Head restraints (headrests), whether or not incorporated in vehicle seats | Regulation (EC) No 661/2009 UNECE Regulation No 25 | D | G+D | A | A |
+| 41 | Emissions (Euro IV and V) heavy duty vehicles | Directive 2005/55/EC | H (8) | G+H (8) | G+H (8) | G+H (8) |
+| 41A | Emissions (Euro VI) heavy duty vehicles/access to information | Regulation (EC) No 595/2009 | G+H (9) | G+H (9) | G+H (9) | G+H (9) |
+| 44 | Masses and dimensions (cars) | Directive 92/21/EEC | X | X |  |  |
+| 44A | Masses and dimensions | Regulation (EC) No 661/2009 Regulation (EU) No 1230/2012 | X | X |  |  |
+| 45 | Safety glazing | Directive 92/22/EEC | J | G+J | G+J | G+J |
+| 45A | Safety glazing materials and their installation on vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 43 | J | G+J | G+J | G+J |
+| 46 | Tyres | Directive 92/23/EEC | X | G | G | G |
+| 46A | Installation of tyres | Regulation (EC) No 661/2009 Regulation (EU) No 458/2011 | X | G | G | G |
+| 46B | Pneumatic tyres for motor vehicles and their trailers (Class C1) | Regulation (EC) No 661/2009 UNECE Regulation No 30 | X | G |  |  |
+| 46C | Pneumatic tyres for commercial vehicles and their trailers (Classes C2 and C3) | Regulation (EC) No 661/2009 UNECE Regulation No 54 | — | G | G | G |
+| 46D | Tyre rolling sound emissions, adhesion on wet surfaces and rolling resistance (Classes C1, C2 and C3) | Regulation (EC) No 661/2009 UNECE Regulation No 117 | X | G | G | G |
+| 46E | Temporary-use spare unit, run-flat tyres/system and tyre pressure monitoring system | Regulation (EC) No 661/2009 UNECE Regulation No 64 | X | G |  |  |
+| 47 | Speed limitation devices | Directive 92/24/EEC |  |  | X | X |
+| 47A | Speed limitation of vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 89 |  |  | X | X |
+| 48 | Masses and dimensions (other than vehicles referred to in item 44) | Directive 97/27/EC |  |  | X | X |
+| 48A | Masses and dimensions | Regulation (EC) No 661/2009 Regulation (EU) No 1230/2012 |  |  | X | X |
+| 50 | Couplings | Directive 94/20/EC | X (10) | G (10) | G (10) | G (10) |
+| 50A | Mechanical coupling components of combinations of vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 55 | X (10) | G (10) | G (10) | G (10) |
+| 51 | Flammability | Directive 95/28/EC |  |  |  | G for the cab; X for the remaining part |
+| 51A | Burning behaviour of materials used in the interior construction of certain categories of motor vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 118 |  |  |  | G for the cab; X for the remaining part |
+| 52 | Buses and coaches | Directive 2001/85/EC |  |  | A | A |
+| 52A | M2 and M3 vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 107 |  |  | A | A |
+| 52B | Strength of the superstructure of large passenger vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 66 |  |  | A | A |
+| 53 | Frontal impact | Directive 96/79/EC |  |  |  |  |
+| 53A | Protection of occupants in the event of a frontal collision | Regulation (EC) No 661/2009 UNECE Regulation No 94 |  |  |  |  |
+| 54 | Side impact | Directive 96/27/EC |  |  |  |  |
+| 54A | Protection of occupants in the event of lateral collision | Regulation (EC) No 661/2009 UNECE Regulation No 95 |  |  |  |  |
+| Item | Subject | Regulatory act reference | M1 ≤ 2 500 kg (*1) | M1 > 2 500 kg (*1) | M2 | M3 |
+|---|---|---|---|---|---|---|
+| 54A | Protection of occupants in the event of lateral collision | Regulation (EC) No 661/2009 UNECE Regulation No 95 |  |  |  |  |
+| 58 | Pedestrian protection | Regulation (EC) No 78/2009 | X | N/A. However, any frontal protection systems supplied with the vehicle shall comply and shall be marked |  |  |
+| 59 | Recyclability | Directive 2005/64/EC |  |  |  |  |
+| 61 | Air-conditioning system | Directive 2006/40/EC | X | G (14) |  |  |
+| 62 | Hydrogen system | Regulation (EC) No 79/2009 | X | X | X | X |
+| 63 | General Safety | Regulation (EC) No 661/2009 | X (15) | X (15) | X (15) | X (15) |
+| 64 | Gear shift indicators | Regulation (EC) No 661/2009 Regulation (EU) No 65/2012 | X | G |  |  |
+| 65 | Advanced emergency braking system | Regulation (EC) No 661/2009 Regulation (EU) No 347/2012 |  |  | N/A (16) | N/A (16) |
+| 66 | Lane departure warning system | Regulation (EC) No 661/2009 Regulation (EU) No 351/2012 |  |  | N/A (17) | N/A (17) |
+| 67 | Specific components for liquefied petroleum gases (LPG) and their installation on motor vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 67 | X | X | X | X |
+| 68 | Vehicle alarm systems (VAS) | Regulation (EC) No 661/2009 UNECE Regulation No 97 | X | G |  |  |
+| 69 | Electrical safety | Regulation (EC) No 661/2009 UNECE Regulation No 100 | X | X | X | X |
+| 70 | Specific components for CNG and their installation on motor vehicules | Regulation (EC) No 661/2009 UNECE Regulation No 110 | X | X | X | X | Additional requirements for ambulances
+The patient compartment of ambulances shall comply with the requirements of EN 1789:2007 +A1: 2010 +A2:2014 on Medical vehicles and their equipment - Road ambulances with the exception of Section 6.5, list of equipment. Proof of compliance shall be provided with a test report of a technical service. If a Wheelchair space is foreseen, the requirements of Appendix 3 relating to the wheelchair tie down and occupant restraint systems shall apply.
+
+| Item | Subject | Reference to regulatory act | M1 | M2 | M3 | N1 | N2 | N3 | O1 | O2 | O3 | O4 |
+| 1 | Permissible sound level | Directive 70/157/EEC | X | X | X | X | X | X |  |  |  |  |
+| 2 | Emissions (Euro 5 and 6) light duty vehicles/access to information | Regulation (EC) No 715/2007 | A (1) | A (1) |  | A (1) | A (1) |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 3 | Fuel tanks/rear protective devices | Directive 70/221/EEC | X (2) | X (2) | X (2) | X (2) | X (2) | X (2) | X | X | X | X |
+| 3A | Prevention of fire risks (liquid fuel tanks) | Regulation (EC) No 661/2009 UNECE Regulation No 34 | X (2) | X (2) | X (2) | X (2) | X (2) | X (2) | X | X | X | X |
+| 3B | Rear underrun protective devices (RUPDs) and their installation; rear underrun protection (RUP) | Regulation (EC) No 661/2009 UNECE Regulation No 58 | X | X | X | X | A | A | X | X | X | X |
+| 4 | Rear registration plate space | Directive 70/222/EEC | X | X | X | X | X | X | X | X | X | X |
+| 4A | Space for mounting and fixing rear registration plates | Regulation (EC) No 661/2009 Regulation (EU) No 1003/2010 | X | X | X | X | X | X | X | X | X | X |
+| 5 | Steering effort | Directive 70/311/EEC | X | X | X | X | X | X | X | X | X | X |
+| 5A | Steering equipment | Regulation (EC) No 661/2009 UNECE Regulation No 79 | X | X | X | X | X | X | X | X | X | X |
+| 6 | Door latches and hinges | Directive 70/387/EEC | X |  |  | X | X | X |  |  |  |  |
+| 6A | Vehicle access and manoeuvrability | Regulation (EC) No 661/2009 Regulation (EU) No 130/2012 | X | X | X | X | X | X |  |  |  |  |
+| 6B | Door latches and door retention components | Regulation (EC) No 661/2009 UNECE Regulation No 11 | X |  |  | X |  |  |  |  |  |  |
+| 7 | Audible warning | Directive 70/388/EEC | A+K | A+K | A+K | A+K | A+K | A+K |  |  |  |  |
+| 7A | Audible warning devices and signals | Regulation (EC) No 661/2009 UNECE Regulation No 28 | A+K | A+K | A+K | A+K | A+K | A+K |  |  |  |  |
+| 8 | Indirect vision devices | Directive 2003/97/EC | A | A | A | A | A | A |  |  |  |  |
+| 8A | Devices for indirect vision and their installation | Regulation (EC) No 661/2009 UNECE Regulation No 46 | A | A | A | A | A | A |  |  |  |  |
+| 9 | Braking | Directive 71/320/EEC | X | X | X | X | X | X | X | X | X | X |
+| 9A | Braking of vehicles and trailers | Regulation (EC) No 661/2009 UNECE Regulation No 13 |  | X (3) | X (3) | X (3) | X (3) | X (3) | X (3) | X (3) | X (3) | X (3) |
+| 9B | Braking of passenger cars | Regulation (EC) No 661/2009 UNECE Regulation No 13-H | X (4) |  |  | X (4) |  |  |  |  |  |  |
+| 10 | Radio interference (electromagnetic compatibility) | Directive 72/245/EEC | X | X | X | X | X | X | X | X | X | X |
+| 10A | Electromagnetic compatibility | Regulation (EC) No 661/2009 UNECE Regulation No 10 | X | X | X | X | X | X | X | X | X | X |
+| 12 | Interior fittings | Directive 74/60/EEC | A |  |  |  |  |  |  |  |  |  |
+| 12A | Interior fittings | Regulation (EC) No 661/2009 UNECE Regulation No 21 | A |  |  |  |  |  |  |  |  |  |
+| 13 | Anti-theft and immobiliser | Directive 74/61/EEC | X | X | X | X | X | X |  |  |  |  |
+| 13A | Protection of motor vehicles against unauthorised use | Regulation (EC) No 661/2009 UNECE Regulation No 18 |  | X (4A) | X (4A) |  | X (4A) | X (4A) |  |  |  |  |
+| 13B | Protection of motor vehicles against unauthorised use | Regulation (EC) No 661/2009 UNECE Regulation No 116 | X |  |  | X |  |  |  |  |  |  |
+| 14 | Protective steering | Directive 74/297/EEC |  |  |  |  |  |  |  |  |  |  |
+| 14A | Protection of the driver against the steering mechanism in the event of impact | Regulation (EC) No 661/2009 UNECE Regulation No 12 |  |  |  |  |  |  |  |  |  |  |
+| 15 | Seat strength | Directive 74/408/EEC | X | D | D | D | D | D |  |  |  |  |
+| 15A | Seats, their anchorages and any head restraints | Regulation (EC) No 661/2009 UNECE Regulation No 17 | X | D (4B) | D (4B) | D | D | D |  |  |  |  |
+| 15B | Seats of large passenger vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 80 |  | D | D |  |  |  |  |  |  |  |
+| 16 | Exterior projections | Directive 74/483/EEC | A |  |  |  |  |  |  |  |  |  |
+| 16A | External projections | Regulation (EC) No 661/2009 UNECE Regulation No 26 | A |  |  |  |  |  |  |  |  |  |
+| 17 | Speedometer and reverse gear | Directive 75/443/EEC | X | X | X | X | X | X |  |  |  |  |
+| 17A | Vehicle access and manoeuvrability | Regulation (EC) No 661/2009 Regulation (EU) No 130/2012 | X | X | X | X | X | X |  |  |  |  |
+| 17B | Speedometer equipment including its installation | Regulation (EC) No 661/2009 UNECE Regulation No 39 | X | X | X | X | X | X |  |  |  |  |
+| 18 | Statutory plates | Directive 76/114/EEC | X | X | X | X | X | X | X | X | X | X |
+| 18A | Manufacturer's statutory plate and vehicle identification number | Regulation (EC) No 661/2009 Regulation (EU) No 19/2011 | X | X | X | X | X | X | X | X | X | X |
+| 19 | Seat belt anchorages | Directive 76/115/EEC | A | A | A | A | A | A |  |  |  |  |
+| 19A | Safety-belt anchorages, Isofix anchorages systems and Isofix top tether anchorages | Regulation (EC) No 661/2009 UNECE Regulation No 14 | A | A | A | A | A | A |  |  |  |  |
+| 20 | Installation of lighting and light signalling devices | Directive 76/756/EEC | A+N | A+N | A+N | A+N | A+N | A+N | A+N | A+N | A+N | A+N |
+| 20A | Installation of lighting and light-signalling devices on vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 48 | A+N | A+N | A+N | A+N | A+N | A+N | A+N | A+N | A+N | A+N |
+| 21 | Retro reflectors | Directive 76/757/EEC | X | X | X | X | X | X | X | X | X | X |
+| 21A | Retro-reflecting devices for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 3 | X | X | X | X | X | X | X | X | X | X |
+| Item | Subject | Reference to regulatory act | M1 | M2 | M3 | N1 | N2 | N3 | O1 | O2 | O3 | O4 |
+| 1 | Permissible sound level | Directive 70/157/EEC | X | X | X | X | X | X |  |  |  |  |
+| 2 | Emissions (Euro 5 and 6) light duty vehicles/access to information | Regulation (EC) No 715/2007 | A (1) | A (1) |  | A (1) | A (1) |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 21A | Retro-reflecting devices for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 3 | X | X | X | X | X | X | X | X | X | X |
+| 22 | End-outline, front-position (side), rear-position (side), stop, side marker, daytime running lamps | Directive 76/758/EEC | X | X | X | X | X | X | X | X | X | X |
+| 22A | Front and rear position lamps, stop-lamps and end-ouline marker lamps for motor vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 7 | X | X | X | X | X | X | X | X | X | X |
+| 22B | Daytime running lamps for power-driven vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 87 | X | X | X | X | X | X |  |  |  |  |
+| 22C | Side-marker lamps for motor vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 91 | X | X | X | X | X | X | X | X | X | X |
+| 23 | Direction indicators | Directive 76/759/EEC | X | X | X | X | X | X | X | X | X | X |
+| 23A | Direction indicators for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 6 | X | X | X | X | X | X | X | X | X | X |
+| 24 | Rear registration plate lamps | Directive 76/760/EEC | X | X | X | X | X | X | X | X | X | X |
+| 24A | Illumination of rear-registration plates of power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 4 | X | X | X | X | X | X | X | X | X | X |
+| 25 | Headlamps (including bulbs) | Directive 76/761/EEC | X | X | X | X | X | X |  |  |  |  |
+| 25A | Power-driven vehicle's sealed-beam headlamps (SB) emitting an European asymmetrical passing beam or a driving beam or both | Regulation (EC) No 661/2009 UNECE Regulation No 31 | X | X | X | X | X | X |  |  |  |  |
+| 25B | Filament lamps for use in approved lamp units of power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 37 | X | X | X | X | X | X | X | X | X | X |
+| 25C | Motor vehicle headlamps equipped with gas-discharge light sources | Regulation (EC) No 661/2009 UNECE Regulation No 98 | X | X | X | X | X | X |  |  |  |  |
+| 25D | Gas-discharge light sources for use in approved gas-discharge lamp units of power-driven vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 99 | X | X | X | X | X | X |  |  |  |  |
+| 25E | Motor vehicle headlamps emitting an asymmetrical passing beam or a driving beam or both and equipped with filament lamps and/or LED modules | Regulation (EC) No 661/2009 UNECE Regulation No 112 | X | X | X | X | X | X |  |  |  |  |
+| 25F | Adaptive front-lighting systems (AFS) for motor vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 123 | X | X | X | X | X | X |  |  |  |  |
+| 26 | Front fog lamps | Directive 76/762/EEC | X | X | X | X | X | X |  |  |  |  |
+| 26A | Power-driven vehicle front fog lamps | Regulation (EC) No 661/2009 UNECE Regulation No 19 | X | X | X | X | X | X |  |  |  |  |
+| 27 | Towing hooks | Directive 77/389/EEC | A | A | A | A | A | A |  |  |  |  |
+| 27A | Towing device | Regulation (EC) No 661/2009 Regulation (EU) No 1005/2010 | A | A | A | A | A | A |  |  |  |  |
+| 28 | Rear fog lamps | Directive 77/538/EEC | X | X | X | X | X | X | X | X | X | X |
+| 28A | Rear fog lamps for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 38 | X | X | X | X | X | X | X | X | X | X |
+| 29 | Reversing lamps | Directive 77/539/EEC | X | X | X | X | X | X | X | X | X | X |
+| 29A | Reversing lights for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 23 | X | X | X | X | X | X | X | X | X | X |
+| 30 | Parking lamps | Directive 77/540/EEC | X | X | X | X | X | X |  |  |  |  |
+| 30A | Parking lamps for power-driven vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 77 | X | X | X | X | X | X |  |  |  |  |
+| 31 | Seat belts and restraint systems | Directive 77/541/EEC | A | A | A | A | A | A |  |  |  |  |
+| 31A | Safety-belts, restraint systems, child restraint systems and Isofix child restraint systems | Regulation (EC) No 661/2009 UNECE Regulation No 16 | A | A | A | A | A | A |  |  |  |  |
+| 32 | Forward vision | Directive 77/649/EEC | S |  |  |  |  |  |  |  |  |  |
+| 32A | Forward field of vision | Regulation (EC) No 661/2009 UNECE Regulation No 125 | S |  |  |  |  |  |  |  |  |  |
+| 33 | Identification of controls, tell-tales and indicators | Directive 78/316/EEC | X | X | X | X | X | X |  |  |  |  |
+| 33A | Location and identification of hand controls, tell-tales and indicators | Regulation (EC) No 661/2009 UNECE Regulation No 121 | X | X | X | X | X | X |  |  |  |  |
+| 34 | Defrost/demist | Directive 78/317/EEC | A | (5) | (5) | (5) | (5) | (5) |  |  |  |  |
+| 34A | Windscreen defrosting and demisting systems | Regulation (EC) No 661/2009 Regulation (EU) No 672/2010 | A | (5) | (5) | (5) | (5) | (5) |  |  |  |  |
+| 35 | Wash/wipe | Directive 78/318/EEC | A | (6) | (6) | (6) | (6) | (6) |  |  |  |  |
+| 35A | Windscreen wiper and washer systems | Regulation (EC) No 661/2009 Regulation (EU) No 1008/2010 | A | (6) | (6) | (6) | (6) | (6) |  |  |  |  |
+| 36 | Heating systems | Directive 2001/56/EC | X | X | X | X | X | X | X | X | X | X |
+| 36A | Heating systems | Regulation (EC) No 661/2009 UNECE Regulation No 122 | X | X | X | X | X | X | X | X | X | X |
+| 37 | Wheel guards | Directive 78/549/EEC | X |  |  |  |  |  |  |  |  |  |
+| 37A | Wheel guards | Regulation (EC) No 661/2009 Regulation (EU) No 1009/2010 | X |  |  |  |  |  |  |  |  |  |
+| 38 | Head restraints | Directive 78/932/EEC | X |  |  |  |  |  |  |  |  |  |
+| 38A | Head restraints (headrests), whether or not incorporated in vehicle seats | Regulation (EC) No 661/2009 UNECE Regulation No 25 | X |  |  |  |  |  |  |  |  |  |
+| 41 | Emissions (Euro IV and V) heavy duty vehicles. | Directive 2005/55/EC | A (8) | X (8) | X | X (8) | X (8) | X |  |  |  |  |
+| 41A | Emissions (Euro VI) heavy duty vehicles/access to information | Regulation (EC) No 595/2009 | X (9) | X (9) | X | X (9) | X (9) | X |  |  |  |  |
+| 42 | Lateral protection | Directive 89/297/EEC |  |  |  |  | X | X |  |  | X | X |
+| 42A | Lateral protection of goods vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 73 |  |  |  |  | X | X |  |  | X | X |
+| 43 | Spray-suppression systems | Directive 91/226/EEC |  |  |  | X | X | X | X | X | X | X |
+| 43A | Spray suppression systems | Regulation (EC) No 661/2009 Regulation (EU) No 109/2011 |  |  |  | X | X | X | X | X | X | X |
+| 44 | Masses and dimensions (cars) | Directive 92/21/EEC | X |  |  |  |  |  |  |  |  |  |
+| 44A | Masses and dimensions | Regulation (EC) No 661/2009 Regulation (EU) No 1230/2012 | X |  |  |  |  |  |  |  |  |  |
+| 45 | Safety glazing | Directive 92/22/EEC |  |  |  |  |  |  |  |  |  |  |
+| 45A | Safety glazing materials and their installation on vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 43 |  |  |  |  |  |  |  |  |  |  |
+| 46 | Tyres | Directive 92/23/EEC | A | A | A | A | A | A | A | A | A | A |
+| 46A | Installation of tyres | Regulation (EC) No 661/2009 Regulation (EU) No 458/2011 | A | A | A | A | A | A | A | A | A | A |
+| 46B | Pneumatic tyres for motor vehicles and their trailers (Class C1) | Regulation (EC) No 661/2009 UNECE Regulation No 30 | A |  |  | A |  |  | A | A |  |  |
+| 46C | Pneumatic tyres for commercial vehicles and their trailers (Classes C2 and C3) | Regulation (EC) No 661/2009 UNECE Regulation No 54 |  | A | A | A | A | A |  |  | A | A |
+| Item | Subject | Reference to regulatory act | M1 | M2 | M3 | N1 | N2 | N3 | O1 | O2 | O3 | O4 |
+| 1 | Permissible sound level | Directive 70/157/EEC | X | X | X | X | X | X |  |  |  |  |
+| 2 | Emissions (Euro 5 and 6) light duty vehicles/access to information | Regulation (EC) No 715/2007 | A (1) | A (1) |  | A (1) | A (1) |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 46C | Pneumatic tyres for commercial vehicles and their trailers (Classes C2 and C3) | Regulation (EC) No 661/2009 UNECE Regulation No 54 |  | A | A | A | A | A |  |  | A | A |
+| 46D | Tyre rolling sound emissions, adhesion on wet surfaces and rolling resistance (Classes C1, C2 and C3) | Regulation (EC) No 661/2009 UNECE Regulation No 117 | A | A | A | A | A | A | A | A | A | A |
+| 46E | Temporary-use spare unit, run-flat tyres/system and tyre pressure monitoring system | Regulation (EC) No 661/2009 UNECE Regulation No 64 | A (9A) |  |  | A (9A) |  |  |  |  |  |  |
+| 47 | Speed limitation devices | Directive 92/24/EEC |  | X | X |  | X | X |  |  |  |  |
+| 47A | Speed limitation of vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 89 |  | X | X |  | X | X |  |  |  |  |
+| 48 | Masses and dimensions (other than vehicles referred to in item 44) | Directive 97/27/EC |  | X | X | X | X | X | X | X | X | X |
+| 48A | Masses and dimensions | Regulation (EC) No 661/2009 Regulation (EU) No 1230/2012 |  | X | X | X | X | X | X | X | X | X |
+| 49 | External projections of cabs | Directive 92/114/EEC |  |  |  | A | A | A |  |  |  |  |
+| 49A | Commercial vehicles with regard to their external projections forward of the cab's rear panel | Regulation (EC) No 661/2009 UNECE Regulation No 61 |  |  |  | A | A | A |  |  |  |  |
+| 50 | Couplings | Directive 94/20/EC | X (10) | X (10) | X (10) | X (10) | X (10) | X (10) | X | X | X | X |
+| 50A | Mechanical coupling components of combinations of vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 55 | X (10) | X (10) | X (10) | X (10) | X (10) | X (10) | X | X | X | X |
+| 50B | Close-coupling device (CCD); fitting of an approved type of CCD | Regulation (EC) No 661/2009 UNECE Regulation No 102 |  |  |  |  | X (10) | X (10) |  |  | X (10) | X (10) |
+| 51 | Flammability | Directive 95/28/EC |  |  | X |  |  |  |  |  |  |  |
+| 51A | Burning behaviour of materials used in the interior construction of certain categories of motor vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 118 |  |  | X |  |  |  |  |  |  |  |
+| 52 | Buses and coaches | Directive 2001/85/EC |  | A | A |  |  |  |  |  |  |  |
+| 52A | M2 and M3 vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 107 |  | A | A |  |  |  |  |  |  |  |
+| 52B | Strength of the superstructure of large passenger vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 66 |  | A | A |  |  |  |  |  |  |  |
+| 53 | Frontal impact | Directive 96/79/EC |  |  |  |  |  |  |  |  |  |  |
+| 53A | Protection of occupants in the event of a frontal collision | Regulation (EC) No 661/2009 UNECE Regulation No 94 |  |  |  |  |  |  |  |  |  |  |
+| 54 | Side impact | Directive 96/27/EC |  |  |  |  |  |  |  |  |  |  |
+| 54A | Protection of occupants in the event of lateral collision | Regulation (EC) No 661/2009 UNECE Regulation No 95 |  |  |  |  |  |  |  |  |  |  |
+| 55 | (empty) |  |  |  |  |  |  |  |  |  |  |  |
+| 56 | Vehicles intended for the transport of dangerous goods | Directive 98/91/EC |  |  |  | X (13) | X (13) | X (13) | X (13) | X (13) | X (13) | X (13) |
+| 56A | Vehicles for the carriage of dangerous goods | Regulation (EC) No 661/2009 UNECE Regulation No 105 |  |  |  | X (13) | X (13) | X (13) | X (13) | X (13) | X (13) | X (13) |
+| 57 | Front underrun protection | Directive 2000/40/EC |  |  |  |  | X | X |  |  |  |  |
+| 57A | Front underrun protective devices (FUPDs) and their installation; front underrun protection (FUP) | Regulation (EC) No 661/2009 UNECE Regulation No 93 |  |  |  |  | X | X |  |  |  |  |
+| 58 | Pedestrian protection | Regulation (EC) No 78/2009 |  |  |  |  |  |  |  |  |  |  |
+| 59 | Recyclability | Directive 2005/64/EC |  |  |  |  |  | — |  |  |  |  |
+| 60 | (empty) |  |  |  |  |  |  |  |  |  |  |  |
+| 61 | Air-conditioning systems | Directive 2006/40/EC | X |  |  | X (14) |  |  |  |  |  |  |
+| 62 | Hydrogen system | Regulation (EC) No 79/2009 | A | A | A | A | A | A |  |  |  |  |
+| 63 | General Safety | Regulation (EC) No 661/2009 | X (15) | X (15) | X (15) | X (15) | X (15) | X (15) | X (15) | X (15) | X (15) | X (15) |
+| 64 | Gear shift indicators | Regulation (EC) No 661/2009 Regulation (EU) No 65/2012 | X |  |  |  |  |  |  |  |  |  |
+| 65 | Advanced emergency braking system | Regulation (EC) No 661/2009 Regulation (EU) No 347/2012 |  | (16) | (16) |  | (16) | (16) |  |  |  |  |
+| 66 | Lane departure warning system | Regulation (EC) No 661/2009 Regulation (EU) No 351/2012 |  | (17) | (17) |  | (17) | (17) |  |  |  |  |
+| 67 | Specific components for liquefied petroleum gases (LPG) and their installation on motor vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 67 | X | X | X | X | X | X |  |  |  |  |
+| 68 | Vehicle alarm systems (VAS) | Regulation (EC) No 661/2009 UNECE Regulation No 97 | X |  |  | X |  |  |  |  |  |  |
+| 69 | Electrical safety | Regulation (EC) No 661/2009 UNECE Regulation No 100 | X | X | X | X | X | X |  |  |  |  |
+| 70 | Specific components for CNG and their installation on motor vehicules | Regulation (EC) No 661/2009 UNECE Regulation No 110 | X | X | X | X | X | X |  |  |  |  |
+
+| Item | Subject | Regulatory act | M1 |
+|---|---|---|---|
+| 1 | Permissible sound level | Directive 70/157/EEC | G+W0 |
+| 2 | Emissions (Euro 5 and 6) light duty vehicles/access to information | Regulation (EC) No 715/2007 | G+W1 |
+| 3 | Fuel tanks/rear protective devices | Directive 70/221/EEC | X+W2 |
+| 3A | Prevention of fire risks (liquid fuel tanks) | Regulation (EC) No 661/2009 UNECE Regulation No 34 | X+W2 |
+| 3B | Rear underrun protective devices (RUPDs) and their installation; rear underrun protection (RUP) | Regulation (EC) No 661/2009 UNECE Regulation No 58 | X |
+| 4 | Rear registration plate space | Directive 70/222/EEC | X |
+| 4A | Space for mounting and fixing rear registration plates | Regulation (EC) No 661/2009 Regulation (EU) No 1003/2010 | X |
+| 5 | Steering effort | Directive 70/311/EEC | G |
+| 5A | Steering equipment | Regulation (EC) No 661/2009 UNECE Regulation No 79 | G |
+| 6 | Door latches and hinges | Directive 70/387/EEC | X |
+| 6A | Vehicle access and manoeuvrability | Regulation (EC) No 661/2009 Regulation (EU) No 130/2012 | X |
+| 6B | Door latches and door retention components | Regulation (EC) No 661/2009 UNECE Regulation No 11 | X |
+| 7 | Audible warning | Directive 70/388/EEC | X |
+| 7A | Audible warning devices and signals | Regulation (EC) No 661/2009 UNECE Regulation No 28 | X |
+| 8 | Indirect vision devices | Directive 2003/97/EC | X |
+| 8A | Devices for indirect vision and their installation | Regulation (EC) No 661/2009 UNECE Regulation No 46 | X |
+| 9 | Braking | Directive 71/320/EEC | G |
+| 9B | Braking of passenger cars | Regulation (EC) No 661/2009 UNECE Regulation No 13-H | G+A1 |
+| 10 | Radio interference (electromagnetic compatibility) | Directive 72/245/EEC | X |
+| 10A | Electromagnetic compatibility | Regulation (EC) No 661/2009 UNECE Regulation No 10 | X |
+| 12 | Interior fittings | Directive 74/60/EEC | G+C |
+| 12A | Interior fittings | Regulation (EC) No 661/2009 UNECE Regulation No 21 | G+C |
+| 13 | Anti-theft and immobiliser | Directive 74/61/EEC | X |
+| 13B | Protection of motor vehicles against unauthorised use | Regulation (EC) No 661/2009 UNECE Regulation No 116 | X |
+| 14 | Protective steering | Directive 74/297/EEC | G |
+| 14A | Protection of the driver against the steering mechanism in the event of impact | Regulation (EC) No 661/2009 UNECE Regulation No 12 | G |
+| 15 | Seat strength | Directive 74/408/EEC | G+W3 |
+| Item | Subject | Regulatory act | M1 |
+|---|---|---|---|
+| 15 | Seat strength | Directive 74/408/EEC | G+W3 |
+| 15A | Seats, their anchorages and any head restraints | Regulation (EC) No 661/2009 UNECE Regulation No 17 | G+W3 |
+| 16 | Exterior projections | Directive 74/483/EEC | G+W4 |
+| 16A | External projections | Regulation (EC) No 661/2009 UNECE Regulation No 26 | G+W4 |
+| 17 | Speedometer and reverse gear | Directive 75/443/EEC | X |
+| 17A | Vehicle access and manoeuvrability | Regulation (EC) No 661/2009 Regulation (EU) No 130/2012 | X |
+| 17B | Speedometer equipment including its installation | Regulation (EC) No 661/2009 UNECE Regulation No 39 | X |
+| 18 | Statutory plates | Directive 76/114/EEC | X |
+| 18A | Manufacturer's statutory plate and vehicle identification number | Regulation (EC) No 661/2009 Regulation (EU) No 19/2011 | X |
+| 19 | Seat belt anchorages | Directive 76/115/EEC | X+W5 |
+| 19A | Safety-belt anchorages, Isofix anchorages systems and Isofix top tether anchorages | Regulation (EC) No 661/2009 UNECE Regulation No 14 | X+W5 |
+| 20 | Installation of lighting and light signalling devices | Directive 76/756/EEC | X |
+| 20A | Installation of lighting and light-signalling devices on vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 48 | X |
+| 21 | Retro reflectors | Directive 76/757/EEC | X |
+| 21A | Retro-reflecting devices for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 3 | X |
+| 22 | End-outline, front-position (side), rear-position (side), stop, side marker, daytime running lamps | Directive 76/758/EEC | X |
+| 22A | Front and rear position lamps, stop-lamps and end-ouline marker lamps for motor vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 7 | X |
+| 22B | Daytime running lamps for power-driven vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 87 | X |
+| 22C | Side-marker lamps for motor vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 91 | X |
+| 23 | Direction indicators | Directive 76/759/EEC | X |
+| 23A | Direction indicators for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 6 | X |
+| 24 | Rear registration plate lamps | Directive 76/760/EEC | X |
+| 24A | Illumination of rear-registration plates of power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 4 | X |
+| 25 | Headlamps (including bulbs) | Directive 76/761/EEC | X |
+| 25A | Power-driven vehicle's sealed-beam headlamps (SB) emitting an European asymmetrical passing beam or a driving beam or both | Regulation (EC) No 661/2009 UNECE Regulation No 31 | X |
+| 25B | Filament lamps for use in approved lamp units of power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 37 | X |
+| 25C | Motor vehicle headlamps equipped with gas-discharge light sources | Regulation (EC) No 661/2009 UNECE Regulation No 98 | X |
+| 25D | Gas-discharge light sources for use in approved gas-discharge lamp units of power-driven vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 99 | X |
+| 25E | Motor vehicle headlamps emitting an asymmetrical passing beam or a driving beam or both and equipped with filament lamps and/or LED modules | Regulation (EC) No 661/2009 UNECE Regulation No 112 | X |
+| 25F | Adaptive front-lighting systems (AFS) for motor vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 123 | X |
+| 26 | Front fog lamps | Directive 76/762/EEC | X |
+| 26A | Power-driven vehicle front fog lamps | Regulation (EC) No 661/2009 UNECE Regulation No 19 | X |
+| 27 | Towing hooks | Directive 77/389/EEC | E |
+| 27A | Towing device | Regulation (EC) No 661/2009 Regulation (EU) No 1005/2010 | E |
+| 28 | Rear fog lamps | Directive 77/538/EEC | X |
+| 28A | Rear fog lamps for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 38 | X |
+| 29 | Reversing lamps | Directive 77/539/EEC | X |
+| 29A | Reversing lights for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 23 | X |
+| 30 | Parking lamps | Directive 77/540/EEC | X |
+| 30A | Parking lamps for power-driven vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 77 | X |
+| 31 | Seat belts and restraint systems | Directive 77/541/EEC | X+W6 |
+| 31A | Safety-belts, restraint systems, child restraint systems and Isofix child restraint systems | Regulation (EC) No 661/2009 UNECE Regulation No 16 | X+W6 |
+| 32 | Forward vision | Directive 77/649/EEC | G |
+| 32A | Forward field of vision | Regulation (EC) No 661/2009 UNECE Regulation No 125 | G |
+| 33 | Identification of controls, tell-tales and indicators | Directive 78/316/EEC | X |
+| 33A | Location and identification of hand controls, tell-tales and indicators | Regulation (EC) No 661/2009 UNECE Regulation No 121 | X |
+| 34 | Defrost/demist | Directive 78/317/EEC | G (5) |
+| 34A | Windscreen defrosting and demisting systems | Regulation (EC) No 661/2009 Regulation (EU) No 672/2010 | G(5) |
+| 35 | Wash/wipe | Directive 78/318/EEC | G(6) |
+| 35A | Windscreen wiper and washer systems | Regulation (EC) No 661/2009 Regulation (EU) No 1008/2010 | G(6) |
+| 36 | Heating systems | Directive 2001/56/EC | X |
+| 36A | Heating systems | Regulation (EC) No 661/2009 UNECE Regulation No 122 | X |
+| 37 | Wheel guards | Directive 78/549/EEC | G |
+| 37A | Wheel guards | Regulation (EC) No 661/2009 Regulation (EU) No 1009/2010 | G |
+| 38 | Head restraints | Directive 78/932/EEC | X |
+| 38A | Head restraints (headrests), whether or not incorporated in vehicle seats | Regulation (EC) No 661/2009 UNECE Regulation No 25 | X |
+| 41 | Emissions (Euro IV and V) heavy duty vehicles. | Directive 2005/55/EC | X+W1 (8) |
+| 41A | Emissions (Euro VI) heavy duty vehicles/access to information | Regulation (EC) No 595/2009 | X+W1 (9) |
+| 44 | Masses and dimensions (cars) | Directive 92/21/EEC | X+W8 |
+| 44A | Masses and dimensions | Regulation (EC) No 661/2009 Regulation (EU) No 1230/2012 | X+W8 |
+| 45 | Safety glazing | Directive 92/22/EEC | G |
+| 45A | Safety glazing materials and their installation on vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 43 | G |
+| 46 | Tyres | Directive 92/23/EEC | X |
+| 46A | Installation of tyres | Regulation (EC) No 661/2009 Regulation (EU) No 458/2011 | X |
+| 46B | Pneumatic tyres for motor vehicles and their trailers (Class C1) | Regulation (EC) No 661/2009 UNECE Regulation No 30 | X |
+| 46D | Tyre rolling sound emissions, adhesion on wet surfaces and rolling resistance (Classes C1, C2 and C3) | Regulation (EC) No 661/2009 UNECE Regulation No 117 | X |
+| 46E | Temporary-use spare unit, run-flat tyres/system and tyre pressure monitoring system | Regulation (EC) No 661/2009 UNECE Regulation No 64 | G(9A) |
+| 50 | Couplings | Directive 94/20/EC | X(10) |
+| 50A | Mechanical coupling components of combinations of vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 55 | X(10) |
+| 53 | Frontal impact | Directive 96/79/EC |  |
+| 53A | Protection of occupants in the event of a frontal collision | Regulation (EC) No 661/2009 UNECE Regulation No 94 |  |
+| 54 | Side impact | Directive 96/27/EC |  |
+| 54A | Protection of occupants in the event of lateral collision | Regulation (EC) No 661/2009 UNECE Regulation No 95 |  |
+| 58 | Pedestrian protection | Regulation (EC) No 78/2009 | G |
+| 59 | Recyclability | Directive 2005/64/EC |  |
+| 61 | Air-conditioning systems | Directive 2006/40/EC | G |
+| 62 | Hydrogen system | Regulation (EC) No 79/2009 | X |
+| 63 | General Safety | Regulation (EC) No 661/2009 | X(15) |
+| 64 | Gear shift indicators | Regulation (EC) No 661/2009 Regulation (EU) No 65/2012 | G |
+| 67 | Specific components for liquefied petroleum gases (LPG) and their installation on motor vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 67 | X |
+| 68 | Vehicle alarm systems (VAS) | Regulation (EC) No 661/2009 UNECE Regulation No 97 | X |
+| Item | Subject | Regulatory act | M1 |
+|---|---|---|---|
+| 68 | Vehicle alarm systems (VAS) | Regulation (EC) No 661/2009 UNECE Regulation No 97 | X |
+| 69 | Electric safety | Regulation (EC) No 661/2009 UNECE Regulation No 100 | X |
+| 70 | Specific components for CNG and their installation on motor vehicules | Regulation (EC) No 661/2009 UNECE Regulation No 110 | X | Additional requirements for testing the wheelchair tie down and occupant restraint system
+Note: The following sections 1. and either section 2. or 3. shall apply. 0. Definitions
+0.1. Surrogate wheelchair (SWC) is a rigid, re-usable test wheelchair, as defined in section 3 of ISO 10542-1:2012. 0.2. Point P is a representation of the position of the wheelchair occupant's hip when seated in the SWC, as defined in section 3 of ISO 10542-1:2012. 1. General requirements
+1.1. Each wheelchair location shall be provided with anchorages to which a wheelchair tie-down and occupant restraint system (WTORS) shall be fitted. 1.2. The wheelchair occupant's lower belt anchorages shall be located in accordance with UNECE Regulation 14-07, paragraph 5.4.2.2, relative to Point P on the SWC when placed in the travelling position designated by the manufacturer. The upper actual anchorage (s) shall be located at least 1 100 mm above the horizontal plane passing through the points of contact between the rear tyres of the SWC and the vehicle floor. This condition shall still be satisfied after the test carried out according to paragraph 2. below. 1.3. An assessment shall be made of the WTORS occupant belt to ensure compliance with the provisions of UNECE Regulation 16-06 paragraphs 8.2.2 to 8.2.2.4 and 8.3.1 to 8.3.4. 1.4. The minimum number of ISOFIX child seat anchorages need not to be provided. In the case of a multi-stage approval where an ISOFIX anchorage system has been affected by the conversion, the system shall either be re-tested or the anchorages shall be rendered unusable. In the latter case the ISOFIX labels shall be removed and appropriate information given to the vehicle purchaser. 2. Static in-vehicle testing
+2.1. Wheelchair occupant restraint anchorages
+2.1.1. The wheelchair occupant restraint anchorages shall resist the static forces prescribed for occupant restraint anchorages in UNECE Regulation 14-07 simultaneously with the static forces applied to the wheelchair tie-down anchorages as specified in 2.2 below. 2.2. Wheelchair tie-down anchorages
+The wheelchair tie-down anchorages shall resist the following forces, for at least 0.2 seconds, applied via the SWC (or a suitable surrogate wheelchair having a wheelbase, seat height and tie-down attachment points in accordance with the specification for the SWC), at a height of 300 +/- 100 mm from the surface on which the SWC rests: 2.2.1. In the case of a forward-facing wheelchair, a simultaneous force, coincident with the force applied to the occupant restraint anchorages, of 24,5 kN and
+2.2.2. a second test applying a static force of 8,2 kN directed towards the rear of the vehicle. 2.2.3. In the case of a rearward-facing wheelchair, a simultaneous force, coincident with the force applied to the occupant restraint anchorages, of 8,2 kN and
+2.2.4. a second test applying a static force of 24,5 kN directed towards the front of the vehicle. 2.3. Components of the system
+2.3.1. All components of the WTORS shall meet the relevant requirements of ISO 10542-1:2012. However, the dynamic test specified in Annex A and paragraphs 5.2.2 and 5.2.3 of ISO 10542-1:2012 shall be carried out on the complete WTORS using the vehicle anchorage geometry instead of the test geometry specified in Annex A of ISO 10542-1:2012. This may be carried out within the vehicle structure or on a surrogate structure representative of the vehicle's WTORS anchorage geometry. The location of each anchorage shall lie within the tolerance provided for in point 7.7.1 of UNECE Regulation No 16-06. 2.3.2. Where the occupant restraint part of the WTORS is approved according to UNECE Regulation No 16-06, it shall be subject to the dynamic test of the complete WTORS specified in paragraph 2.3.1, but the requirements of Paragraphs 5.1, 5.3 and 5.4 of ISO10542-1:2012 shall be considered to have been met. 3. Dynamic in-vehicle testing
+3.1. The full assembly of the WTORS system shall be tested by an in-vehicle dynamic test in line with paragraphs 5.2.2 and 5.2.3 and Annex A of ISO 10542-1:2012, testing all components/anchorages simultaneously, using a vehicle body-in-white or representative structure. 3.2. The component parts of the WTORS shall meet the relevant requirements of ISO10542-1:2012 paragraphs 5.1, 5.3 and 5.4. These requirements shall be deemed to have been met in respect of the occupant restraint if it is approved according to UNECE Regulation No 16-06. 'Appendix 4
+Other Special Purpose Vehicles (including special group, multi-equipment carrier and trailer Caravans)
+The requirements of Annex IV shall be fulfilled to the greatest extent: Application of the exemptions is only permitted if the manufacturer demonstrates to the satisfaction of the approval authority that the vehicle, due to the special function, cannot meet all the requirements.
+
+| Item | Subject | Reference to regulatory act | M2 | M3 | N1 | N2 | N3 | O1 | O2 | O3 | O4 |
+| 1 | Permissible sound level | Directive 70/157/EEC | H | H | H | H | H |  |  |  |  |
+| 2 | Emissions (Euro 5 and 6) light duty vehicles/access to information | Regulation (EC) No 715/2007 | Q(1) |  | Q+V1 (1) | Q+V1 (1) |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 3 | Fuel tanks/rear protective devices | Directive 70/221/EEC | F (2) | F (2) | F (2) | F (2) | F (2) | X | X | X | X |
+| 3A | Prevention of fire risks (liquid fuel tanks) | Regulation (EC) No 661/2009 UNECE Regulation No 34 | F | F | F | F | F | X | X | X | X |
+| 3B | Rear underrun protective devices (RUPDs) and their installation; rear underrun protection (RUP) | Regulation (EC) No 661/2009 UNECE Regulation No 58 | X | X | A | A | A | X | X | X | X |
+| 4 | Rear registration plate space | Directive 70/222/EEC | A+R | A+R | A+R | A+R | A+R | A+R | A+R | A+R | A+R |
+| 4A | Space for mounting and fixing rear registration plates | Regulation (EC) No 661/2009 Regulation (EU) No 1003/2010 | A+R | A+R | A+R | A+R | A+R | A+R | A+R | A+R | A+R |
+| 5 | Steering effort | Directive 70/311/EEC | X | X | X | X | X | X | X | X | X |
+| 5A | Steering equipment | Regulation (EC) No 661/2009 UNECE Regulation No 79 | X | X | X | X | X | X | X | X | X |
+| 6 | Door latches and hinges | Directive 70/387/EEC |  |  | B | B | B |  |  |  |  |
+| 6A | Vehicle access and manoeuvrability | Regulation (EC) No 661/2009 Regulation (EU) No 130/2012 | X | X | B | B | B |  |  |  |  |
+| 6B | Door latches and door retention components | Regulation (EC) No 661/2009 UNECE Regulation No 11 |  |  | B |  |  |  |  |  |  |
+| 7 | Audible warning | Directive 70/388/EEC | X | X | X | X | X |  |  |  |  |
+| 7A | Audible warning devices and signals | Regulation (EC) No 661/2009 UNECE Regulation No 28 | X | X | X | X | X |  |  |  |  |
+| 8 | Indirect vision devices | Directive 2003/97/EC | X | X | X | X | X |  |  |  |  |
+| 8A | Devices for indirect vision and their installation | Regulation (EC) No 661/2009 UNECE Regulation No 46 | X | X | X | X | X |  |  |  |  |
+| 9 | Braking | Directive 71/320/EEC | X | X | X | X | X | X | X | X | X |
+| 9A | Braking of vehicles and trailers | Regulation (EC) No 661/2009 UNECE Regulation No 13 | X (3) | X (3) | X (3) | X+U1 (3) | X+U1 (3) | X | X | X (3) | X (3) |
+| 9B | Braking of passenger cars | Regulation (EC) No 661/2009 UNECE Regulation No 13-H |  |  | X (4) |  |  |  |  |  |  |
+| 10 | Radio interference (electromagnetic compatibility) | Directive 72/245/EEC | X | X | X | X | X | X | X | X | X |
+| 10A | Electromagnetic compatibility | Regulation (EC) No 661/2009 UNECE Regulation No 10 | X | X | X | X | X | X | X | X | X |
+| Item | Subject | Reference to regulatory act | M2 | M3 | N1 | N2 | N3 | O1 | O2 | O3 | O4 |
+| 1 | Permissible sound level | Directive 70/157/EEC | H | H | H | H | H |  |  |  |  |
+| 2 | Emissions (Euro 5 and 6) light duty vehicles/access to information | Regulation (EC) No 715/2007 | Q(1) |  | Q+V1 (1) | Q+V1 (1) |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 10A | Electromagnetic compatibility | Regulation (EC) No 661/2009 UNECE Regulation No 10 | X | X | X | X | X | X | X | X | X |
+| 13 | Anti-theft and immobiliser | Directive 74/61/EEC | X | X | X | X | X |  |  |  |  |
+| 13A | Protection of motor vehicles against unauthorised use | Regulation (EC) No 661/2009 UNECE Regulation No 18 | X (4A) | X (4A) |  | X (4A) | X (4A) |  |  |  |  |
+| 13B | Protection of motor vehicles against unauthorised use | Regulation (EC) No 661/2009 UNECE Regulation No 116 |  |  | X |  |  |  |  |  |  |
+| 14 | Protective steering | Directive 74/297/EEC |  |  | X |  |  |  |  |  |  |
+| 14A | Protection of the driver against the steering mechanism in the event of impact | Regulation (EC) No 661/2009 UNECE Regulation No 12 |  |  | X |  |  |  |  |  |  |
+| 15 | Seat strength | Directive 74/408/EEC | D | D | D | D | D |  |  |  |  |
+| 15A | Seats, their anchorages and any head restraints | Regulation (EC) No 661/2009 UNECE Regulation No 17 | D (4B) | D (4B) | D | D | D |  |  |  |  |
+| 15B | Seats of large passenger vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 80 | D | D |  |  |  |  |  |  |  |
+| 17 | Speedometer and reverse gear | Directive 75/443/EEC | X | X | X | X | X |  |  |  |  |
+| 17A | Vehicle access and manoeuvrability | Regulation (EC) No 661/2009 Regulation (EU) No 130/2012 | X | X | X | X | X |  |  |  |  |
+| 17B | Speedometer equipment including its installation | Regulation (EC) No 661/2009 UNECE Regulation No 39 | X | X | X | X | X |  |  |  |  |
+| 18 | Statutory plates | Directive 76/114/EEC | X | X | X | X | X | X | X | X | X |
+| 18A | Manufacturer's statutory plate and vehicle identification number | Regulation (EC) No 661/2009 Regulation (EU) No 19/2011 | X | X | X | X | X | X | X | X | X |
+| 19 | Seat belt anchorages | Directive 76/115/EEC | D | D | D | D | D |  |  |  |  |
+| 19A | Safety-belt anchorages, Isofix anchorages systems and Isofix top tether anchorages | Regulation (EC) No 661/2009 UNECE Regulation No 14 | D | D | D | D | D |  |  |  |  |
+| 20 | Installation of lighting and light signalling devices | Directive 76/756/EEC | A+N | A+N | A+N | A+N | A+N | A+N | A+N | A+N | A+N |
+| 20A | Installation of lighting and light-signalling devices on vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 48 | A+N | A+N | A+N | A+N | A+N | A+N | A+N | A+N | A+N |
+| 21 | Retro reflectors | Directive 76/757/EEC | X | X | X | X | X | X | X | X | X |
+| 21A | Retro-reflecting devices for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 3 | X | X | X | X | X | X | X | X | X |
+| 22 | End-outline, front-position (side), rear-position (side), stop, side marker, daytime running lamps | Directive 76/758/EEC | X | X | X | X | X | X | X | X | X |
+| 22A | Front and rear position lamps, stop-lamps and end-ouline marker lamps for motor vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 7 | X | X | X | X | X | X | X | X | X |
+| 22B | Daytime running lamps for power-driven vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 87 | X | X | X | X | X |  |  |  |  |
+| 22C | Side-marker lamps for motor vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 91 | X | X | X | X | X | X | X | X | X |
+| 23 | Direction indicators | Directive 76/759/EEC | X | X | X | X | X | X | X | X | X |
+| 23A | Direction indicators for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 6 | X | X | X | X | X | X | X | X | X |
+| 24 | Rear registration plate lamps | Directive 76/760/EEC | X | X | X | X | X | X | X | X | X |
+| 24A | Illumination of rear-registration plates of power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 4 | X | X | X | X | X | X | X | X | X |
+| 25 | Headlamps (including bulbs) | Directive 76/761/EEC | X | X | X | X | X |  |  |  |  |
+| 25A | Power-driven vehicle's sealed-beam headlamps (SB) emitting an European asymmetrical passing beam or a driving beam or both | Regulation (EC) No 661/2009 UNECE Regulation No 31 | X | X | X | X | X |  |  |  |  |
+| 25B | Filament lamps for use in approved lamp units of power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 37 | X | X | X | X | X | X | X | X | X |
+| 25C | Motor vehicle headlamps equipped with gas-discharge light sources | Regulation (EC) No 661/2009 UNECE Regulation No 98 | X | X | X | X | X |  |  |  |  |
+| 25D | Gas-discharge light sources for use in approved gas-discharge lamp units of power-driven vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 99 | X | X | X | X | X |  |  |  |  |
+| 25E | Motor vehicle headlamps emitting an asymmetrical passing beam or a driving beam or both and equipped with filament lamps and/or LED modules | Regulation (EC) No 661/2009 UNECE Regulation No 112 | X | X | X | X | X |  |  |  |  |
+| 25F | Adaptive front-lighting systems (AFS) for motor vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 123 | X | X | X | X | X |  |  |  |  |
+| 26 | Front fog lamps | Directive 76/762/EEC | X | X | X | X | X |  |  |  |  |
+| 26A | Power-driven vehicle front fog lamps | Regulation (EC) No 661/2009 UNECE Regulation No 19 | X | X | X | X | X |  |  |  |  |
+| 27 | Towing hooks | Directive 77/389/EEC | A | A | A | A | A |  |  |  |  |
+| 27A | Towing device | Regulation (EC) No 661/2009 Regulation (EU) No 1005/2010 | A | A | A | A | A |  |  |  |  |
+| 28 | Rear fog lamps | Directive 77/538/EEC | X | X | X | X | X | X | X | X | X |
+| 28A | Rear fog lamps for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 38 | X | X | X | X | X | X | X | X | X |
+| 29 | Reversing lamps | Directive 77/539/EEC | X | X | X | X | X | X | X | X | X |
+| 29A | Reversing lights for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 23 | X | X | X | X | X | X | X | X | X |
+| 30 | Parking lamps | Directive 77/540/EEC | X | X | X | X | X |  |  |  |  |
+| 30A | Parking lamps for power-driven vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 77 | X | X | X | X | X |  |  |  |  |
+| 31 | Seat belts and restraint systems | Directive 77/541/EEC | D | D | D | D | D |  |  |  |  |
+| 31A | Safety-belts, restraint systems, child restraint systems and Isofix child restraint systems | Regulation (EC) No 661/2009 UNECE Regulation No 16 | D | D | D | D | D |  |  |  |  |
+| 33 | Identification of controls, tell-tales and indicators | Directive 78/316/EEC | X | X | X | X | X |  |  |  |  |
+| 33A | Location and identification of hand controls, tell-tales and indicators | Regulation (EC) No 661/2009 UNECE Regulation No 121 | X | X | X | X | X |  |  |  |  |
+| 34 | Defrost/demist | Directive 78/317/EEC | (5) | (5) | (5) | (5) | (5) |  |  |  |  |
+| 34A | Windscreen defrosting and demisting systems | Regulation (EC) No 661/2009 Regulation (EU) No 672/2010 | (5) | (5) | (5) | (5) | (5) |  |  |  |  |
+| 35 | Wash/wipe | Directive 78/318/EEC | (6) | (6) | (6) | (6) | (6) |  |  |  |  |
+| 35A | Windscreen wiper and washer systems | Regulation (EC) No 661/2009 Regulation (EU) No 1008/2010 | (6) | (6) | (6) | (6) | (6) |  |  |  |  |
+| 36 | Heating systems | Directive 2001/56/EC | X | X | X | X | X | X | X | X | X |
+| 36A | Heating systems | Regulation (EC) No 661/2009 UNECE Regulation No 122 | X | X | X | X | X | X | X | X | X |
+| 38A | Head restraints (headrests), whether or not incorporated in vehicle seats | Regulation (EC) No 661/2009 UNECE Regulation No 25 | X |  |  |  |  |  |  |  |  |
+| Item | Subject | Reference to regulatory act | M2 | M3 | N1 | N2 | N3 | O1 | O2 | O3 | O4 |
+| 1 | Permissible sound level | Directive 70/157/EEC | H | H | H | H | H |  |  |  |  |
+| 2 | Emissions (Euro 5 and 6) light duty vehicles/access to information | Regulation (EC) No 715/2007 | Q(1) |  | Q+V1 (1) | Q+V1 (1) |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 38A | Head restraints (headrests), whether or not incorporated in vehicle seats | Regulation (EC) No 661/2009 UNECE Regulation No 25 | X |  |  |  |  |  |  |  |  |
+| 41 | Emissions (Euro IV and V) heavy duty vehicles. | Directive 2005/55/EC | H (8) | H | H (8) | H (8) | H |  |  |  |  |
+| 41A | Emissions (Euro VI) heavy duty vehicles/access to information | Regulation (EC) No 595/2009 | H (9) | H | H (9) | H (9) | H |  |  |  |  |
+| 42 | Lateral protection | Directive 89/297/EEC |  |  |  | X | X |  |  | X | X |
+| 42A | Lateral protection of goods vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 73 |  |  |  | X | X |  |  | X | X |
+| 43 | Spray-suppression systems | Directive 91/226/EEC |  |  | X | X | X | X | X | X | X |
+| 43A | Spray suppression systems | Regulation (EC) No 661/2009 Regulation (EU) No 109/2011 |  |  | X | X | X | X | X | X | X |
+| 45 | Safety glazing | Directive 92/22/EEC | J | J | J | J | J | J | J | J | J |
+| 45A | Safety glazing materials and their installation on vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 43 | J | J | J | J | J | J | J | J | J |
+| 46 | Tyres | Directive 92/23/EEC | X | X | X | X | X | X | X | X | X |
+| 46A | Installation of tyres | Regulation (EC) No 661/2009 Regulation (EU) No 458/2011 | X | X | X | X | X | X | X | X | X |
+| 46B | Pneumatic tyres for motor vehicles and their trailers (Class C1) | Regulation (EC) No 661/2009 UNECE Regulation No 30 |  |  | X |  |  | X | X |  |  |
+| 46C | Pneumatic tyres for commercial vehicles and their trailers (Classes C2 and C3) | Regulation (EC) No 661/2009 UNECE Regulation No 54 | X | X | X | X | X |  |  | X | X |
+| 46D | Tyre rolling sound emissions, adhesion on wet surfaces and rolling resistance (Classes C1, C2 and C3) | Regulation (EC) No 661/2009 UNECE Regulation No 117 | X | X | X | X | X | X | X | X | X |
+| 46E | Temporary-use spare unit, run-flat tyres/system and tyre pressure monitoring system | Regulation (EC) No 661/2009 UNECE Regulation No 64 |  |  | X (9A) |  |  |  |  |  |  |
+| 47 | Speed limitation devices | Directive 92/24/EEC | X | X |  | X | X |  |  |  |  |
+| 47A | Speed limitation of vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 89 | X | X |  | X | X |  |  |  |  |
+| 48 | Masses and dimensions (other than vehicles referred to in item 44) | Directive 97/27/EC | X | X | X | X | X | X | X | X | X |
+| 48A | Masses and dimensions | Regulation (EC) No 661/2009 Regulation (EU) No 1230/2012 | X | X | X | X | X | X | X | X | X |
+| 49 | External projections of cabs | Directive 92/114/EEC |  |  | X | X | X |  |  |  |  |
+| 49A | Commercial vehicles with regard to their external projections forward of the cab's rear panel | Regulation (EC) No 661/2009 UNECE Regulation No 61 |  |  | X | X | X |  |  |  |  |
+| 50 | Couplings | Directive 94/20/EC | X (10) | X (10) | X (10) | X (10) | X (10) | X | X | X | X |
+| 50A | Mechanical coupling components of combinations of vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 55 | X (10) | X (10) | X (10) | X (10) | X (10) | X | X | X | X |
+| 50B | Close-coupling device (CCD); fitting of an approved type of CCD | Regulation (EC) No 661/2009 UNECE Regulation No 102 |  |  |  | X (10) | X (10) |  |  | X (10) | X (10) |
+| 51 | Flammability | Directive 95/28/EC |  | X |  |  |  |  |  |  |  |
+| 51A | Burning behaviour of materials used in the interior construction of certain categories of motor vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 118 |  | X |  |  |  |  |  |  |  |
+| 52 | Buses and coaches | Directive 2001/85/EC | X | X |  |  |  |  |  |  |  |
+| 52A | M2 and M3 vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 107 | X | X |  |  |  |  |  |  |  |
+| 52B | Strength of the superstructure of large passenger vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 66 | X | X |  |  |  |  |  |  |  |
+| 54 | Side impact | Directive 96/27/EC |  |  | A |  |  |  |  |  |  |
+| 54A | Protection of occupants in the event of lateral collision | Regulation (EC) No 661/2009 UNECE Regulation No 95 |  |  | A |  |  |  |  |  |  |
+| 56 | Vehicles intended for the transport of dangerous goods | Directive 98/91/EC |  |  | X (13) | X (13) | X (13) | X (13) | X (13) | X (13) | X (13) |
+| 56A | Vehicles for the carriage of dangerous goods | Regulation (EC) No 661/2009 UNECE Regulation No 105 |  |  | X (13) | X (13) | X (13) | X (13) | X (13) | X (13) | X (13) |
+| 57 | Front underrun protection | Directive 2000/40/EC |  |  |  | X | X |  |  |  |  |
+| 57A | Front underrun protective devices (FUPDs) and their installation; front underrun protection (FUP) | Regulation (EC) No 661/2009 UNECE Regulation No 93 |  |  |  | X | X |  |  |  |  |
+| 58 | Pedestrian protection | Regulation (EC) No 78/2009 |  |  | N/A (*2) |  |  |  |  |  |  |
+| 59 | Recyclability | Directive 2005/64/EC |  |  |  |  | — |  |  |  |  |
+| 61 | Air-conditioning systems | Directive 2006/40/EC |  |  | X (14) |  |  |  |  |  |  |
+| 62 | Hydrogen system | Regulation (EC) No 79/2009 | X | X | X | X | X |  |  |  |  |
+| 63 | General Safety | Regulation (EC) No 661/2009 | X (15) | X (15) | X (15) | X (15) | X (15) | X (15) | X (15) | X (15) | X (15) |
+| 65 | Advanced emergency braking system | Regulation (EC) No 661/2009 Regulation (EU) No 347/2012 |  |  |  |  |  |  |  |  |  |
+| 66 | Lane departure warning system | Regulation (EC) No 661/2009 Regulation (EU) No 351/2012 |  |  |  |  |  |  |  |  |  |
+| 67 | Specific components for liquefied petroleum gases (LPG) and their installation on motor vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 67 | X | X | X | X | X |  |  |  |  |
+| 68 | Vehicle alarm systems (VAS) | Regulation (EC) No 661/2009 UNECE Regulation No 97 |  |  | X |  |  |  |  |  |  |
+| 69 | Electric safety | Regulation (EC) No 661/2009 UNECE Regulation No 100 | X | X | X | X | X |  |  |  |  |
+| 70 | Specific components for CNG and their installation on motor vehicules | Regulation (EC) No 661/2009 UNECE Regulation No 110 | X | X | X | X | X |  |  |  |  |
+
+| Item | Subject | Reference to regulatory act | N3 |
+|---|---|---|---|
+| 1 | Permissible sound level | Directive 70/157/EEC | T+Z1 |
+| 3 | Fuel tanks/rear protective devices | Directive 70/221/EEC | X (2) |
+| 3A | Prevention of fire risks (liquid fuel tanks) | Regulation (EC) No 661/2009 UNECE Regulation No 34 | X |
+| 3B | Rear underrun protective devices (RUPDs) and their installation; rear underrun protection (RUP) | Regulation (EC) No 661/2009 UNECE Regulation No 58 | A |
+| 4 | Rear registration plate space | Directive 70/222/EEC | X |
+| 4A | Space for mounting and fixing rear registration plates | Regulation (EC) No 661/2009 Regulation (EU) No 1003/2010 | X |
+| 5 | Steering effort | Directive 70/311/EEC | X Crab steering allowed |
+| 5A | Steering equipment | Regulation (EC) No 661/2009 UNECE Regulation No 79 | X Crab steering allowed |
+| 6 | Door latches and hinges | Directive 70/387/EEC | A |
+| 6A | Vehicle access and manoeuvrability | Regulation (EC) No 661/2009 Regulation (EU) No 130/2012 | A |
+| 7 | Audible warning | Directive 70/388/EEC | X |
+| 7A | Audible warning devices and signals | Regulation (EC) No 661/2009 UNECE Regulation No 28 | X |
+| 8 | Indirect vision devices | Directive 2003/97/EC | A |
+| 8A | Devices for indirect vision and their installation | Regulation (EC) No 661/2009 UNECE Regulation No 46 | X |
+| 9 | Braking | Directive 71/320/EEC | U |
+| 9A | Braking of vehicles and trailers | Regulation (EC) No 661/2009 UNECE Regulation No 13 | U (3) |
+| 10 | Radio interference (electromagnetic compatibility) | Directive 72/245/EEC | X |
+| Item | Subject | Reference to regulatory act | N3 |
+|---|---|---|---|
+| 10 | Radio interference (electromagnetic compatibility) | Directive 72/245/EEC | X |
+| 10A | Electromagnetic compatibility | Regulation (EC) No 661/2009 UNECE Regulation No 10 | X |
+| 13 | Anti-theft and immobiliser | Directive 74/61/EEC | X |
+| 13A | Protection of motor vehicles against unauthorised use | Regulation (EC) No 661/2009 UNECE Regulation No 18 | X (4A) |
+| 15 | Seat strength | Directive 74/408/EEC | D |
+| 15A | Seats, their anchorages and any head restraints | Regulation (EC) No 661/2009 UNECE Regulation No 17 | X |
+| 17 | Speedometer and reverse gear | Directive 75/443/EEC | X |
+| 17A | Vehicle access and manoeuvrability | Regulation (EC) No 661/2009 Regulation (EU) No 130/2012 | X |
+| 17B | Speedometer equipment including its installation | Regulation (EC) No 661/2009 UNECE Regulation No 39 | X |
+| 18 | Statutory plates | Directive 76/114/EEC | X |
+| 18A | Manufacturer's statutory plate and vehicle identification number | Regulation (EC) No 661/2009 Regulation (EU) No 19/2011 | X |
+| 19 | Seat belt anchorages | Directive 76/115/EEC | D |
+| 19A | Safety-belt anchorages, Isofix anchorages systems and Isofix top tether anchorages | Regulation (EC) No 661/2009 UNECE Regulation No 14 | X |
+| 20 | Installation of lighting and light signalling devices | Directive 76/756/EEC | A+Y |
+| 20A | Installation of lighting and light-signalling devices on vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 48 | A+Y |
+| 21 | Retro reflectors | Directive 76/757/EEC | X |
+| 21A | Retro-reflecting devices for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 3 | X |
+| 22 | End-outline, front-position (side), rear-position (side), stop, side marker, daytime running lamps | Directive 76/758/EEC | X |
+| 22A | Front and rear position lamps, stop-lamps and end-ouline marker lamps for motor vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 7 | X |
+| 22B | Daytime running lamps for power-driven vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 87 | X |
+| 22C | Side-marker lamps for motor vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 91 | X |
+| 23 | Direction indicators | Directive 76/759/EEC | X |
+| 23A | Direction indicators for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 6 | X |
+| 24 | Rear registration plate lamps | Directive 76/760/EEC | X |
+| 24A | Illumination of rear-registration plates of power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 4 | X |
+| 25 | Headlamps (including bulbs) | Directive 76/761/EEC | X |
+| 25A | Power-driven vehicle's sealed-beam headlamps (SB) emitting an European asymmetrical passing beam or a driving beam or both | Regulation (EC) No 661/2009 UNECE Regulation No 31 | X |
+| 25B | Filament lamps for use in approved lamp units of power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 37 | X |
+| 25C | Motor vehicle headlamps equipped with gas-discharge light sources | Regulation (EC) No 661/2009 UNECE Regulation No 98 | X |
+| 25D | Gas-discharge light sources for use in approved gas-discharge lamp units of power-driven vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 99 | X |
+| 25E | Motor vehicle headlamps emitting an asymmetrical passing beam or a driving beam or both and equipped with filament lamps and/or LED modules | Regulation (EC) No 661/2009 UNECE Regulation No 112 | X |
+| 25F | Adaptive front-lighting systems (AFS) for motor vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 123 | X |
+| 26 | Front fog lamps | Directive 76/762/EEC | X |
+| 26A | Power-driven vehicle front fog lamps | Regulation (EC) No 661/2009 UNECE Regulation No 19 | X |
+| 27 | Towing hooks | Directive 77/389/EEC | A |
+| 27A | Towing device | Regulation (EC) No 661/2009 Regulation (EU) No 1005/2010 | A |
+| 28 | Rear fog lamps | Directive 77/538/EEC | X |
+| 28A | Rear fog lamps for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 38 | X |
+| 29 | Reversing lamps | Directive 77/539/EEC | X |
+| 29A | Reversing lights for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 23 | X |
+| 30 | Parking lamps | Directive 77/540/EEC | X |
+| 30A | Parking lamps for power-driven vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 77 | X |
+| 31 | Seat belts and restraint systems | Directive 77/541/EEC | D |
+| 31A | Safety-belts, restraint systems, child restraint systems and Isofix child restraint systems | Regulation (EC) No 661/2009 UNECE Regulation No 16 | X |
+| 33 | Identification of controls, tell-tales and indicators | Directive 78/316/EEC | X |
+| 33A | Location and identification of hand controls, tell-tales and indicators | Regulation (EC) No 661/2009 UNECE Regulation No 121 | X |
+| 34 | Defrost/demist | Directive 78/317/EEC | (5) |
+| 34A | Windscreen defrosting and demisting systems | Regulation (EC) No 661/2009 Regulation (EU) No 672/2010 | (5) |
+| 35 | Wash/wipe | Directive 78/318/EEC | (6) |
+| 35A | Windscreen wiper and washer systems | Regulation (EC) No 661/2009 Regulation (EU) No 1008/2010 | (6) |
+| 36 | Heating systems | Directive 2001/56/EC | X |
+| 36A | Heating systems | Regulation (EC) No 661/2009 UNECE Regulation No 122 | X |
+| 41 | Emissions (Euro IV and V) heavy duty vehicles. | Directive 2005/55/EC | V |
+| 41A | Emissions (Euro VI) heavy duty vehicles/access to information | Regulation (EC) No 595/2009 | V |
+| 42 | Lateral protection | Directive 89/297/EEC | X |
+| 42A | Lateral protection of goods vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 73 | A |
+| 43 | Spray-suppression systems | Directive 91/226/EEC | X |
+| 43A | Spray suppression systems | Regulation (EC) No 661/2009 Regulation (EU) No 109/2011 | Z1 |
+| 45 | Safety glazing | Directive 92/22/EEC | J |
+| 45A | Safety glazing materials and their installation on vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 43 | J |
+| 46 | Tyres | Directive 92/23/EEC | X |
+| 46A | Installation of tyres | Regulation (EC) No 661/2009 Regulation (EU) No 458/2011 | X |
+| 46C | Pneumatic tyres for commercial vehicles and their trailers (Classes C2 and C3) | Regulation (EC) No 661/2009 UNECE Regulation No 54 | X |
+| 46D | Tyre rolling sound emissions, adhesion on wet surfaces and rolling resistance (Classes C1, C2 and C3) | Regulation (EC) No 661/2009 UNECE Regulation No 117 | X |
+| 47 | Speed limitation devices | Directive 92/24/EEC | X |
+| 47A | Speed limitation of vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 89 | X |
+| 48 | Masses and dimensions (other than vehicles referred to in item 44) | Directive 97/27/EC | X |
+| 48A | Masses and dimensions | Regulation (EC) No 661/2009 Regulation (EU) No 1230/2012 | A |
+| 49 | External projections of cabs | Directive 92/114/EEC | X |
+| 49A | Commercial vehicles with regard to their external projections forward of the cab's rear panel | Regulation (EC) No 661/2009 UNECE Regulation No 61 | A |
+| 50 | Couplings | Directive 94/20/EC | X (10) |
+| 50A | Mechanical coupling components of combinations of vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 55 | X (10) |
+| 50B | Close-coupling device (CCD); fitting of an approved type of CCD | Regulation (EC) No 661/2009 UNECE Regulation No 102 | X (10) |
+| 57 | Front underrun protection | Directive 2000/40/EC | Z1 |
+| 57A | Front underrun protective devices (FUPDs) and their installation; front underrun protection (FUP) | Regulation (EC) No 661/2009 UNECE Regulation No 93 | X |
+| 62 | Hydrogen system | Regulation (EC) No 79/2009 | X |
+| 63 | General Safety | Regulation (EC) No 661/2009 | X (15) |
+| 65 | Advanced emergency braking system | Regulation (EC) No 661/2009 Regulation (EU) No 347/2012 | N/A (16) |
+| Item | Subject | Reference to regulatory act | N3 |
+|---|---|---|---|
+| 65 | Advanced emergency braking system | Regulation (EC) No 661/2009 Regulation (EU) No 347/2012 | N/A (16) |
+| 66 | Lane departure warning system | Regulation (EC) No 661/2009 Regulation (EU) No 351/2012 | N/A (17) |
+| 67 | Specific components for liquefied petroleum gases (LPG) and their installation on motor vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 67 | X |
+| 69 | Electric safety | Regulation (EC) No 661/2009 UNECE Regulation No 100 | X |
+| 70 | Specific components for CNG and their installation on motor vehicules | Regulation (EC) No 661/2009 UNECE Regulation No 110 | X |
+
+| Item | Subject | Reference to regulatory act | N3 | O4 |
+|---|---|---|---|---|
+| 1 | Permissible sound level | Directive 70/157/EEC | T |  |
+| 3 | Fuel tanks/rear protective devices | Directive 70/221/EEC | X (2) | X |
+| 3A | Prevention of fire risks (liquid fuel tanks) | Regulation (EC) No 661/2009 UNECE Regulation No 34 | X | X |
+| 3B | Rear underrun protective devices (RUPDs) and their installation; rear underrun protection (RUP) | Regulation (EC) No 661/2009 UNECE Regulation No 58 | A | A |
+| 4 | Rear registration plate space | Directive 70/222/EEC | X | A+R |
+| 4A | Space for mounting and fixing rear registration plates | Regulation (EC) No 661/2009 Regulation (EU) No 1003/2010 | X | A+R |
+| 5 | Steering effort | Directive 70/311/EEC | X Crab steering allowed | X |
+| 5A | Steering equipment | Regulation (EC) No 661/2009 UNECE Regulation No 79 | X Crab steering allowed | X |
+| 6 | Door latches and hinges | Directive 70/387/EEC | X |  |
+| 6A | Vehicle access and manoeuvrability | Regulation (EC) No 661/2009 Regulation (EU) No 130/2012 | X |  |
+| 7 | Audible warning | Directive 70/388/EEC | X |  |
+| 7A | Audible warning devices and signals | Regulation (EC) No 661/2009 UNECE Regulation No 28 | X |  |
+| 8 | Indirect vision devices | Directive 2003/97/EC | X |  |
+| 8A | Devices for indirect vision and their installation | Regulation (EC) No 661/2009 UNECE Regulation No 46 | X |  |
+| 9 | Braking | Directive 71/320/EEC | U | X |
+| 9A | Braking of vehicles and trailers | Regulation (EC) No 661/2009 UNECE Regulation No 13 | U (3) | X (3) |
+| 10 | Radio interference (electromagnetic compatibility) | Directive 72/245/EEC | X | X |
+| 10A | Electromagnetic compatibility | Regulation (EC) No 661/2009 UNECE Regulation No 10 | X | X |
+| 13 | Anti-theft and immobiliser | Directive 74/61/EEC | X |  |
+| 13A | Protection of motor vehicles against unauthorised use | Regulation (EC) No 661/2009 UNECE Regulation No 18 | X (4A) |  |
+| 15 | Seat strength | Directive 74/408/EEC | X |  |
+| 15A | Seats, their anchorages and any head restraints | Regulation (EC) No 661/2009 UNECE Regulation No 17 | X |  |
+| 17 | Speedometer and reverse gear | Directive 75/443/EEC | X |  |
+| 17A | Vehicle access and manoeuvrability | Regulation (EC) No 661/2009 Regulation (EU) No 130/2012 | X |  |
+| 17B | Speedometer equipment including its installation | Regulation (EC) No 661/2009 UNECE Regulation No 39 | X |  |
+| 18 | Statutory plates | Directive 76/114/EEC | X | X |
+| 18A | Manufacturer's statutory plate and vehicle identification number | Regulation (EC) No 661/2009 Regulation (EU) No 19/2011 | X | X |
+| 19 | Seat belt anchorages | Directive 76/115/EEC | X |  |
+| 19A | Safety-belt anchorages, Isofix anchorages systems and Isofix top tether anchorages | Regulation (EC) No 661/2009 UNECE Regulation No 14 | X |  |
+| 20 | Installation of lighting and light signalling devices | Directive 76/756/EEC | X | A+N |
+| 20A | Installation of lighting and light-signalling devices on vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 48 | X | A+N |
+| 21 | Retro reflectors | Directive 76/757/EEC | X | X |
+| 21A | Retro-reflecting devices for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 3 | X | X |
+| 22 | End-outline, front-position (side), rear-position (side), stop, side marker, daytime running lamps | Directive 76/758/EEC | X | X |
+| 22A | Front and rear position lamps, stop-lamps and end-ouline marker lamps for motor vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 7 | X | X |
+| 22B | Daytime running lamps for power-driven vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 87 | X |  |
+| 22C | Side-marker lamps for motor vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 91 | X | X |
+| 23 | Direction indicators | Directive 76/759/EEC | X | X |
+| 23A | Direction indicators for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 6 | X | X |
+| 24 | Rear registration plate lamps | Directive 76/760/EEC | X | X |
+| 24A | Illumination of rear-registration plates of power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 4 | X | X |
+| 25 | Headlamps (including bulbs) | Directive 76/761/EEC | X |  |
+| 25A | Power-driven vehicle's sealed-beam headlamps (SB) emitting an European asymmetrical passing beam or a driving beam or both | Regulation (EC) No 661/2009 UNECE Regulation No 31 | X |  |
+| 25B | Filament lamps for use in approved lamp units of power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 37 | X | X |
+| 25C | Motor vehicle headlamps equipped with gas-discharge light sources | Regulation (EC) No 661/2009 UNECE Regulation No 98 | X |  |
+| 25D | Gas-discharge light sources for use in approved gas-discharge lamp units of power-driven vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 99 | X |  |
+| 25E | Motor vehicle headlamps emitting an asymmetrical passing beam or a driving beam or both and equipped with filament lamps and/or LED modules | Regulation (EC) No 661/2009 UNECE Regulation No 112 | X |  |
+| 25F | Adaptive front-lighting systems (AFS) for motor vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 123 | X |  |
+| 26 | Front fog lamps | Directive 76/762/EEC | X |  |
+| 26A | Power-driven vehicle front fog lamps | Regulation (EC) No 661/2009 UNECE Regulation No 19 | X |  |
+| 27 | Towing hooks | Directive 77/389/EEC | A |  |
+| 27A | Towing device | Regulation (EC) No 661/2009 Regulation (EU) No 1005/2010 | A |  |
+| 28 | Rear fog lamps | Directive 77/538/EEC | X | X |
+| 28A | Rear fog lamps for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 38 | X | X |
+| 29 | Reversing lamps | Directive 77/539/EEC | X | X |
+| 29A | Reversing lights for power-driven vehicles and their trailers | Regulation (EC) No 661/2009 UNECE Regulation No 23 | X | X |
+| 30 | Parking lamps | Directive 77/540/EEC | X |  |
+| 30A | Parking lamps for power-driven vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 77 | X |  |
+| 31 | Seat belts and restraint systems | Directive 77/541/EEC | X |  |
+| 31A | Safety-belts, restraint systems, child restraint systems and Isofix child restraint systems | Regulation (EC) No 661/2009 UNECE Regulation No 16 | X |  |
+| 33 | Identification of controls, tell-tales and indicators | Directive 78/316/EEC | X |  |
+| 33A | Location and identification of hand controls, tell-tales and indicators | Regulation (EC) No 661/2009 UNECE Regulation No 121 | X |  |
+| 34 | Defrost/demist | Directive 78/317/EEC | (5) |  |
+| 34A | Windscreen defrosting and demisting systems | Regulation (EC) No 661/2009 Regulation (EU) No 672/2010 | (5) |  |
+| 35 | Wash/wipe | Directive 78/318/EEC | (6) |  |
+| 35A | Windscreen wiper and washer systems | Regulation (EC) No 661/2009 Regulation (EU) No 1008/2010 | (6) |  |
+| 36 | Heating systems | Directive 2001/56/EC | X |  |
+| 36A | Heating systems | Regulation (EC) No 661/2009 UNECE Regulation No 122 | X |  |
+| 41 | Emissions (Euro IV and V) heavy duty vehicles. | Directive 2005/55/EC | X (8) |  |
+| 41A | Emissions (Euro VI) heavy duty vehicles/access to information | Regulation (EC) No 595/2009 | X (9) |  |
+| Item | Subject | Reference to regulatory act | N3 | O4 |
+|---|---|---|---|---|
+| 41A | Emissions (Euro VI) heavy duty vehicles/access to information | Regulation (EC) No 595/2009 | X (9) |  |
+| 42 | Lateral protection | Directive 89/297/EEC | X | A |
+| 42A | Lateral protection of goods vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 73 | X | A |
+| 43 | Spray-suppression systems | Directive 91/226/EEC | X | A |
+| 43A | Spray suppression systems | Regulation (EC) No 661/2009 Regulation (EU) No 109/2011 | X | A |
+| 45 | Safety glazing | Directive 92/22/EEC | X |  |
+| 45A | Safety glazing materials and their installation on vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 43 | X |  |
+| 46 | Tyres | Directive 92/23/EEC | X | I |
+| 46A | Installation of tyres | Regulation (EC) No 661/2009 Regulation (EU) No 458/2011 | X | I |
+| 46C | Pneumatic tyres for commercial vehicles and their trailers (Classes C2 and C3) | Regulation (EC) No 661/2009 UNECE Regulation No 54 | X | I |
+| 46D | Tyre rolling sound emissions, adhesion on wet surfaces and rolling resistance (Classes C1, C2 and C3) | Regulation (EC) No 661/2009 UNECE Regulation No 117 | X | I |
+| 47 | Speed limitation devices | Directive 92/24/EEC | X |  |
+| 47A | Speed limitation of vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 89 | X |  |
+| 48 | Masses and dimensions (other than vehicles referred to in item 44) | Directive 97/27/EC | X | X |
+| 48A | Masses and dimensions | Regulation (EC) No 661/2009 Regulation (EU) No 1230/2012 | A | A |
+| 49 | External projections of cabs | Directive 92/114/EEC | A |  |
+| 49A | Commercial vehicles with regard to their external projections forward of the cab's rear panel | Regulation (EC) No 661/2009 UNECE Regulation No 61 | A |  |
+| 50 | Couplings | Directive 94/20/EC | X (10) | X |
+| 50A | Mechanical coupling components of combinations of vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 55 | X(10) | X |
+| 50B | Close-coupling device (CCD); fitting of an approved type of CCD | Regulation (EC) No 661/2009 UNECE Regulation No 102 | X(10) | X(10) |
+| 56 | Vehicles intended for the transport of dangerous goods | Directive 98/91/EC | X (13) | X(13) |
+| 56A | Vehicles for the carriage of dangerous goods | Regulation (EC) No 661/2009 UNECE Regulation No 105 | X(13) | X(13) |
+| 57 | Front underrun protection | Directive 2000/40/EC | A |  |
+| 57A | Front underrun protective devices (FUPDs) and their installation; front underrun protection (FUP) | Regulation (EC) No 661/2009 UNECE Regulation No 93 | A |  |
+| 62 | Hydrogen system | Regulation (EC) No 79/2009 | X |  |
+| 63 | General Safety | Regulation (EC) No 661/2009 | X (15) | X(15) |
+| 65 | Advanced emergency braking system | Regulation (EC) No 661/2009 Regulation (EU) No 347/2012 | N/A (16) |  |
+| 66 | Lane departure warning system | Regulation (EC) No 661/2009 Regulation (EU) No 351/2012 | N/A (17) |  |
+| 67 | Specific components for liquefied petroleum gases (LPG) and their installation on motor vehicles | Regulation (EC) No 661/2009 UNECE Regulation No 67 | X |  |
+| 69 | Electric safety | Regulation (EC) No 661/2009 UNECE Regulation No 100 | X |  |
+| 70 | Specific components for CNG and their installation on motor vehicules | Regulation (EC) No 661/2009 UNECE Regulation No 110 | X |  |
+
+Meaning of notes: X
+The requirements of the relevant act are applicable. The series of amendments of the UNECE Regulations which applies on a compulsory basis are listed in Annex IV to Regulation (EC) No 661/2009. Series of amendments adopted subsequently are accepted as an alternative. Member States may grant extensions to existing type-approvals granted according to the former EU Directives repealed by Regulation (EC) 661/2009 under the conditions fixed by Article 13(14) of Regulation (EC) 661/2009. N/A
+This regulatory act is not applicable to this vehicle (no requirements). (1) For vehicles with a reference mass not exceeding 2 610 kg. At the manufacturer's request, may apply to vehicles with a reference mass not exceeding 2 840 kg. With regard to Access to information, for other parts (e.g. living compartment) than the base vehicle, it is sufficient that the manufacturer provide access to repair and maintenance information in a readily accessible and prompt manner. (2) In case of vehicles equipped with a LPG or CNG installation, a vehicle type-approval in accordance with UNECE Regulation No 67 or UNECE Regulation No 110 is required. (3) The fitting of an ESC system is required in accordance with Article 12 of Regulation (EC) No 661/2009. The implementation dates set out in Annex V to Regulation (EC) No 661/2009 apply. In accordance with UNECE Regulation 13, the fitting of an electronic stability control ('ESC') system is not required for special purpose vehicles of categories M2, M3, N2 and N3 and for vehicles for exceptional load transport and trailers with areas for standing passengers. N1 vehicles may be approved according to UNECE Regulation 13 or UNECE Regulation 13-H. (4) The fitting of an ESC system is required in accordance with Article 12 of Regulation (EC) No 661/2009. Therefore, the requirements set out in Part A of Annex 9 to UNECE Regulation No 13-H shall be complied with for the purposes of EC type-approval of new types of vehicles as well as for the registration, sale and entry into service of new vehicles. The implementation dates set out in Article 13 of Regulation (EC) No 661/2009 apply. N1 vehicles may be approved according to UNECE Regulation 13 or UNECE Regulation 13-H. (4A)
+If fitted, the protective device shall fulfill the requirements of UNECE Regulation No 18. (4B)
+This Regulation applies to seats not falling within the scope of UNECE Regulation No 80. For other options, see Article 2 of Regulation (EC) No 595/2009. (5) Vehicles of categories other than M1 do not need to fully comply with act but shall be fitted with a suitable windscreen defrosting and demisting device. (6) Vehicles of categories other than M1 do not need to fully comply with act but shall be fitted with a suitable windscreen washing and wiping devices. (8) For vehicles with a reference mass exceeding 2 610 kg and which did not benefit from the possibility offered in note (1). (9) For vehicles with a reference mass exceeding 2 610 kg which are not type-approved (at the manufacturer's request and provided their reference mass does not exceed 2 840 kg) under Regulation (EC) No 715/2007. For other parts than the base vehicle, it is sufficient that the manufacturer provide access to repair and maintenance information in a readily accessible and prompt manner
+(9A)
+Applies only where such vehicles are fitted with equipment covered by UNECE Regulation No 64. Tyre pressure monitoring system for M1 vehicles applies on a compulsory basis in accordance with Article 9(2) of Regulation (EC) No 661/2009. (10) Applies only to vehicles equipped with coupling(s). (11) Applies to vehicles with a technically permissible maximum laden mass not exceeding 2,5 tonnes. (12) Only applicable to vehicles where the "Seating Reference Point ('R' point)" of the lowest seat is not more than 700 mm above the ground level. (13) Applies only when the manufacturer applies for type-approval of vehicles intended for the transport of dangerous goods. (14) Applies only for vehicles of category N1, class I (reference mass ≤ 1 305 kg)
+(15) At the request of the manufacturer, a type-approval may be granted under this item, as an alternative to obtaining type-approvals under each individual item covered by Regulation (EC) No 661/2009. (16) The fitting of an Advanced emergency braking system is not required for special purpose vehicles in accordance with Article 1 of Regulation (EU) No 347/2012. (17) The fitting of a Lane departure warning system is not required for special purpose vehicles in accordance with Article 1 of Regulation (EU) No 351/2012. A
+The requirements shall be fulfilled to the greatest extent.
+A
+The requirements shall be fulfilled to the greatest extent.
+
+The type-approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted shall be described on the vehicle type-approval certificate and the certificate of conformity (remark -entry 52). A1
+The fitting of ESC is not mandatory. In the case of multi-stage approvals, where the modifications made at a particular stage are likely to affect the function of the base vehicle's ESC system, the manufacturer may either disable the system or demonstrate that the vehicle has not been rendered unsafe or unstable. This may be demonstrated, e.g., by performing rapid double lane-change manoeuvres in each direction at 80 km/h with sufficient severity to cause intervention by the ESC system. These interventions shall be well-controlled and shall act to improve stability of the vehicle. The Technical Service shall have the right to request further testing if deemed necessary. B
+Application limited to doors giving access to the seats designated for normal use when the vehicle is travelling on the road and where the distance between the R point of the seat and the average plane of the door surface, measured perpendicular to the longitudinal medium plane of the vehicle, does not exceed 500 mm. C
+Application limited to that part of the vehicle in front of the rearmost seat designated for normal use when the vehicle is travelling on the road and also limited to the head impact zone as defined in the legal act. D
+Application limited to seats designated for normal use when the vehicle is travelling on the road. Seats which are not designated for use when the vehicle is travelling on the road shall be clearly identified to users either by means of a pictogram or a sign with an appropriate text. The luggage retention requirements of UNECE Regulations No. 17 shall not apply. E
+Front only. F
+Modification to the routing and length of the refuelling duct and re-positioning of the tank inboard is permissible. G
+In case of multi-stage approval, requirements according to the category of the base/incomplete vehicle (e.g. the chassis of which was used to build the special purpose vehicle) may also be used. H
+Modification of exhaust system length after the last silencer not exceeding 2 m is permissible without any further test. I
+Tyres shall be type-approved according to the requirements of UNECE Regulation No. 54 even if the design speed of the vehicle is less than 80 km/h. The load capacity may be adjusted in relation to the maximum design speed of the trailer in agreement with the tyre manufacturer. J
+For all window glazing other than driver's cab glazing (windshield and side glasses), the material may be either of safety glass or rigid plastic glazing. K
+Additional panic alarm devices permitted. L
+Application limited to seats designated for normal use when the vehicle is travelling on the road. At least anchorages for lap belts are required in the rear seating positions. Seats which are not designated for use when the vehicle is travelling on the road shall be clearly identified to users either by means of a pictogram or a sign with an appropriate text. ISOFIX is not required on Ambulances and hearses. M
+Application limited to seats designated for normal use when the vehicle is travelling on the road. At least lap belts are required in all rear seating positions. Seats which are not designated for use when the vehicle is travelling on the road shall be clearly identified to users either by means of a pictogram or a sign with an appropriate text. ISOFIX is not required on Ambulances and hearses. N
+Provided that all mandatory lighting devices are installed and that the geometric visibility is not affected. Q
+Modification of exhaust system length after the last silencer not exceeding 2 m is permissible without any further test. An EC type-approval issued to the most representative base vehicle remains valid irrespective of change in the reference weight. R
+Provided that the registration plates of all Member States can be mounted and remain visible. S
+The light transmission factor is at least 60 %, also the "A" pillar obstruction angle is not more than 10o. T
+Test to be performed only with the complete/completed vehicle. The vehicle can be tested according to Directive 70/157/EEC. Concerning item 5.2.2.1 of Annex I to Directive 70/157/EEC the following limit values are applicable: (a) 81 dB(A) for vehicles with an engine power of less than 75 kW; (b) 83 dB(A) for vehicles with an engine power of not less than 75 kW but less than 150 kW; (c) 84 dB(A) for vehicles with an engine power of not less than 150 kW. U
+Test to be performed only with the complete/completed vehicle. Vehicles up to 4 axles shall comply with all the requirements laid down by regulatory act. Derogations are admitted for vehicles having more than 4 axles, provided that: —
+they are justified by the particular construction
+—
+all the braking performances, related to parking, service and secondary braking laid down by the regulatory act are fulfilled. U1
+ABS is not mandatory for vehicles with hydrostatic drive. V
+As alternative, Directive 97/68/EC may also be applied. V1
+For vehicles with hydrostatic drive, Directive 97/68/EC may also be aplied as alternative. W0
+Modification of exhaust system length is permitted without any further test, provided the back pressure is similar. If a new test is required, an extra 2dB(A) above the applicable limit shall be allowed. W1
+Requirements shall be complied with, but modification in the exhaust system is permitted without any further test of tailpipe emissions and CO2/fuel consumption provided the emission control devices including particulate filters (if any) are not affected. No new evaporative test shall be required on the modified vehicle on condition that the evaporative control devices are kept as fitted by the manufacturer of the base vehicle. An EC type approval issued to the most representative base vehicle remains valid irrespective of change in the reference mass. W2
+Modification of the routing, length of the refuelling duct, fuel hoses and fuel vapour pipes is permitted without further test. Re-location of the original fuel tank is permitted provided all requirements are met. However further testing according to Annex 5 to UNECE Regulation No. 34 shall not be required. W3
+The longitudinal plane of the intended wheelchair-travelling position shall be parallel to the longitudinal plane of the vehicle. Appropriate information shall be made available to the vehicle owner that, in order to be capable of withstanding the forces transmitted by the tie-down mechanism during the various driving conditions, a wheelchair with a structure meeting the relevant part of ISO 7176-19:2008 is recommended. Appropriate adaptations may be made to the seats of the vehicle without further testing provided if it can be demonstrated to the technical service that their anchorages, mechanisms and head restraints provide the same level of performance. The luggage retention requirements of UNECE Regulation No. 17 shall not apply. W4
+Compliance with the legal act(s) shall be required for the boarding aids when in the resting position. W5
+Each wheelchair location shall be provided with anchorages to which a wheelchair tie-down and occupant restraint system (WTORS) shall be fitted, and which comply with the additional provisions of Appendix 3. W6
+Each wheelchair location shall be provided with occupant restraint belt that comply with the additional provisions of Appendix 3
+When, due to the conversion, anchorage points for the safety belts need to be moved outside the tolerance provided for in point 7.7.1 of UNECE Regulation No.16-06, the technical service shall check whether the alteration constitutes a worst case or not. If that is the case, the test provided for in point 7.7.1. of UNECE Regulation No.16-06 shall be performed.
+If that is the case, the test provided for in point 7.7.1. of UNECE Regulation No.16-06 shall be performed. Extension to the EC type-approval does not need to be issued. The test may be performed using components that have not undergone the conditioning test prescribed by UNECE Regulation No.16-06. W8
+For the purposes of calculations, the mass of the wheel-chair including the user shall be assumed to be 160 kg. The mass shall be concentrated at the P point of the surrogate wheelchair in its travelling position declared by the manufacturer. Any limitation in the passenger capacity resulting from the use of wheelchair(s) shall be recorded in the owner's handbook, on side 2 of the EU type-approval certificate and in the the certificate of conformity (remark section). Y
+Provided that all mandatory lighting devices are installed. Z
+The requirements on the protrusion of open windows shall not apply to the living compartment. Z1
+Mobile cranes with more than six axles are considered to be off-road vehicles (N3G) when at least three axles are driven and provided they meet the provisions of Annex II, point 4.3 b) ii) and iii) as well as point 4.3 c). '
+(4) Annex XII is replaced by the following: 'ANNEX XII
+SMALL SERIES AND END-OF-SERIES LIMITS
+A. SMALL SERIES LIMITS 1. The number of units of one type of vehicle to be registered, sold or put into service per year in the European Union pursuant to Article 22 may not exceed the figures shown below for the vehicle category in question:
+
+| Category | Units |
+|---|---|
+| M1 | 1 000 |
+| M2, M3 | 0 |
+| N1 | 1 000 |
+| N2, N3 | 0 |
+| O1, O2 | 0 |
+| O3, O4 | 0 | 2. The number of units of one type of vehicle to be registered, sold or put into service per year in one Member State pursuant to Article 23 shall be determined by that Member State but shall not exceed the figures shown below for the vehicle category in question:
+
+| Category | Units |
+|---|---|
+| M1 | 100 |
+| M2, M3 | 250 |
+| N1 | 500 until 31October 2016 250 from 1 November 2016 |
+| N2, N3 | 250 |
+| O1, O2 | 500 |
+| O3, O4 | 250 | 3. The number of units of one type of vehicle to be registered, sold or put into service per year in one Member State for the purposes of Article 6(2) of Commission Regulation (EU) No 1230/2012 shall be determined by each Member State but shall not exceed the figures shown below for the vehicle category in question:
+
+| Category | Units |
+|---|---|
+| M2, M3 | 1 000 |
+| N2, N3 | 1 200 |
+| O3, O4 | 2 000 |
+
+B. END-OF-SERIES LIMITS
+The maximum number of complete and completed vehicles put into service in each Member State under the procedure "End-of-Series" shall be restricted in one of the following ways to be chosen by the Member State: 1. The maximum number of vehicles of one or more types may not exceed 10 %, in the case of category M1, and may not exceed 30 % of the vehicles of all types concerned put into service in that Member State during the previous year, in the case of all other categories. Should 10 %, respectively 30 %, be less than 100 vehicles, then the Member State may allow the putting into service of a maximum of 100 vehicles. 2. Vehicles of any one type shall be restricted to those for which a valid certificate of conformity was issued on or after the date of manufacture and which remained valid for at least three months after its date of issue but subsequently lost its validity due to the entry into force of a regulatory act.' (*1) Technically permissible maximum laden mass
+(*2) Any frontal protection system supplied with the vehicle shall comply with the requirements of Regulation (EC) No 78/2009 and shall be provided with a type-approval number and shall be marked accordingly.

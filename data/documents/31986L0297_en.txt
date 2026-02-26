@@ -1,0 +1,654 @@
+Consolidated text: Council Directive of 26 May 1986 on the approximation of the laws of the Member States relating to the power take-offs of wheeled agricultural and forestry tractors and their protection (86/297/EEC)
+Consolidated TEXT: 31986L0297 — EN — 30.10.1997
+1986L0297 — EN — 30.10.1997 — 001.001
+This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents
+►B
+COUNCIL DIRECTIVE
+of 26 May 1986
+on the approximation of the laws of the Member States relating to the power take-offs of wheeled agricultural and forestry tractors and their protection
+(86/297/EEC)
+(OJ L 186, 8.7.1986, p.19)
+Amended by:
+
+Official Journal
+ No
+page
+date
+►M1
+Directive 97/54/EC of the European Parliament and of the Council of 23 September 1997
+ L 277
+24
+10.10.1997
+▼B
+COUNCIL DIRECTIVE
+of 26 May 1986
+on the approximation of the laws of the Member States relating to the power take-offs of wheeled agricultural and forestry tractors and their protection
+(86/297/EEC)
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,
+Having regard to the proposal from the Commission (
+1
+),
+Having regard to the opinion of the European Parliament (
+2
+),
+Having regard to the opinion of the Economic and Social Committee (
+3
+),
+Whereas the technical requirements with which wheeled agricultural or forestry tractors must comply pursuant to national laws relate, inter alia, to the power take-off and its protection; Whereas those requirements differ from one Member State to another; whereas it is therefore necessary that all Member States adopt the same requirements, either in addition to, or in place of, their existing rules, in particular in order to allow the EEC type-approval procedure which was the subject of Council Directive 74/150/EEC of 4 March 1974 on the approximation of the laws of the Member States relating to the type-approval of wheeled agricultural or forestry tractors (
+4
+), as last amended by the Act of Accession of Spain and Portugal, to be applied in respect of each tractor type; Whereas the Council Resolution of 29 June 1978 concerning an action programme of the European Communities on safety and health at work (
+5
+) provides for the application of the principles of accident prevention in the design and creation of plant and machinery, including the agricultural sector; whereas the provisions concerning power take-offs and their protection constitute safety factors; Whereas the approximation of the national laws relating to wheeled agricultural or forestry tractors entails reciprocal recognition by Member States of the checks carried out by each of them on the basis of common requirements,
+HAS ADOPTED THIS DIRECTIVE: Article 1
+1. 'Agricultural or forestry tractors' means any motor vehicle, fitted with wheels or endless tracks, having at least two axles, the main function of which lies in its tractive power and which is specially designed to tow, push, carry or power certain tools, machinery or trailers intended for agricultural or forestry use. It may be equipped to carry a load or passengers. 2. This Directive shall apply only to the tractors defined in paragraph 1, which are fitted with pneumatic tyres and have at least two axles and a maximum design speed of between 6 and 
+►M1
+ 40 km/h ◄ .
+Article 2
+No Member State may refuse to grant EEC type-approval or national type-approval in respect of a tractor, or refuse or prohibit its sale, registration, entry into service or use, on grounds relating to the power take-off and its protection if the latter satisfy the requirements set out in Annex I.
+Article 3
+This Directive shall not affect the right of Member States to specify, with due observance of the Treaty, the requirements they deem necessary to ensure that workers are protected when using the tractors in question, provided this does not mean that the power take-off and its protection are modified in a way unspecified in this Directive. Article 4
+Any amendments necessary to adapt the requirements of Annex I and the model Annex to the EEC type-approval certificate shown in Annex II to technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 74/150/EEC. Article 5
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive within 18 months of its adoption. They shall forthwith inform the Commission thereof. However, the requirements of section 5.2 of Annex I shall not apply until 1 October 1995. 2. Member States shall ensure that the text of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission. Article 6
+This Directive is addressed to the Member States. ANNEX I
+DEFINITION AND SCOPE, APPLICATION FOR EEC TYPE-APPROVAL, EEC, TYPE-APPROVAL, TYPES OF POWER TAKE-OFF AND DESIGN AND POSITIONING REQUIREMENTS IN RESPECT OF THE LATTER AND THEIR PROTECTIVE GUARDS
+1. DEFINITION AND SCOPE
+1.1. 'Power take-off' (PTO) means the projecting part of the tractor drive shaft which transmits motion to a machine. 1.2. The provisions of this Directive shall apply only to power take-offs as defined in 1.1 and located at the rear of the tractor. However, section 5.2 below shall apply only to tractors with a minimum fixed or adjustable track at one of the drive axles of at least 1 150 mm. 2. APPLICATION FOR EEC TYPE-APPROVAL
+2.1. The application for the type approval of a tractor type as regards the power take-off and its protection must be submitted by the tractor manufacturer or his authorized representative. 2.2. It must be accompanied by drawings, in triplicate, on an appropriate and suitably detailed scale, of those parts of the tractor subject to the requirements of this Directive. 2.3. A tractor representative of the type submitted for approval or those part(s) of the tractor considered essential for the execution of the tests required by this Directive must be supplied to the technical service responsible for conducting the type-approval tests. 3. EEC TYPE-APPROVAL
+3.1. A certificate conforming to the model which appears in Annex II must be attached to the EEC type-approval certificate for each approval granted or refused. 4. TYPES OF POWER TAKE-OFF
+4.1. The characteristics of PTOs must conform to one of the types described in Table 1: 4.2. It must be possible to maintain the rotation speed of the PTO by suitable means. 4.3. Should more than one ratio between the engine speed and the PTO rotation speed be provided, any change of ratio must be perceptible. In addition, specific design measures must be taken to ensure that unintentional changes of ratio — in particular changing to a higher rotation speed — cannot occur. This safety device must operate each time the PTO is engaged. 4.4. Means must be provided by which the selected PTO rotation speed is clearly indicated at all times. 5. DESIGN AND POSITIONING REQUIREMENTS
+5.1. Direction of rotation of the rear PTO
+Clockwise when the PTO is observed in the direction of travel of the tractor. 5.2. Zone of clearance around the PTO
+The PTO zone of clearance must be in conformity with the drawings in Figure 1 and the dimensions in Table 2. {{IMAGE:Image_0, Caption:Technical drawing illustrating the zone of clearance around a Power Take-Off (PTO), featuring a cross-section (Section A-A), a side profile with dimensional labels and angles, and a top-down view.}} Figure 1
+Zone of clearance around PTO
+TABLE 2
+Dimensions of the clearance zone
+Type
+a min. b max. c max. f min. g min. i min. R spheric max. α min. 1
+76
+80
+60
+120
+240
+280
+76
+55°
+2
+3
+89
+100
+65
+145
+290
+295
+89
+51°
+5.3. Protection of PTOs
+5.3.1. Protection
+5.3.1.1.
+Article 1
+1. For the purposes of this Directive, 'tractor' means a tractor as defined in Article 2(j) of Directive 2003/37/EC of the European Parliament and of the Council (
+6
+).2. For the purposes of this Directive, the tractor categories defined in Annex II to Directive 2003/37/EC shall apply.
+
+▼B
+Article 4
+Any amendments necessary to adapt the requirements of Annex I and the model Annex to the EEC type-approval certificate shown in Annex II to technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 74/150/EEC.
+Article 5
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive within 18 months of its adoption.
+
+They shall forthwith inform the Commission thereof. However, the requirements of section 5.2 of Annex I shall not apply until 1 October 1995.2. Member States shall ensure that the text of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission.
+Article 6
+This Directive is addressed to the Member States.
+
+▼M2
+ANNEX I
+General provisions and requirements for power take-offs
+1. Definition and scope
+1.1. 'Power take-off' (PTO) means an external shaft of the tractor to provide rotational power to implements. 1.2. The provisions of this Directive apply only to power take-offs as defined in point 1.1 and located at the rear or the front of the tractor. 2. Application for EC type-approval
+2.1. The application for the type approval of a tractor type as regards the power take-off and its protection must be submitted by the tractor manufacturer or his authorised representative, using the information document, the model of which appears in Annex II, Part 1. 2.2. It must be accompanied by drawings, in triplicate, on an appropriate and suitably detailed scale, of those parts of the tractor subject to the requirements of this Directive. 2.3. A tractor representative of the type submitted for approval or those part(s) of the tractor considered essential for the execution of the tests required by this Directive must be supplied to the technical service responsible for conducting the type-approval tests. 3. EC type-approval certificate
+A certificate conforming to the model which appears in Annex II, Part 2 must be completed for each approval granted or refused.4. General Provisions
+Where tractors are equipped with power take-offs, these must comply with the requirements of this Annex.For the purposes of this Directive, the standards referred to in points 4.1 and 4.2 apply.4.1. Provisions for rear power take-offs
+The specifications of ISO 500-1:2004 together with Technical Corrigendum 1:2005 and ISO 500-2:2004 apply to tractors with rear power take-offs according to Table 1. Table 1
+Application of standards for rear power take-offs of the different tractor categories
+Standard applicable
+T1
+C1
+T2
+C2
+T3
+C3
+T4.1
+C4.1
+T4.2
+C4.2
+T4.3
+C4.3
+T5
+C5
+ISO 500-1:2004 (1) (3) X
+--
+X1)
+X1)
+X1)
+X
+X1)
+ISO 500-2:2004 (2) --
+X
+X2)
+X2)
+X2)
+--
+X2)
+(1) In the standard ISO 500-1:2004, the last sentence in section 6.2 is not applicable. (2) For the purposes of this Directive, this standard also applies to tractors with a power take-off, the power of which exceeds 20 kW, measured in accordance with ISO 789-1:1990. (3) For power take-offs of type 3 and where it is possible to reduce the dimension of the opening of the protective guard in order to adapt to the coupling elements to be used, the user manual must contain the following elements:— warning relating to the consequences and risks caused by the reduced dimension of the protective guard,
+— instructions and specific warnings relating to coupling and releasing the power take-offs,
+— instructions and specific warnings relating to the use of tools or machines coupled to the rear power take-off. X Standard applicable. -- Standard not applicable. X1) Standard applicable for tractors with a track width of more than 1 150 mm. X2) Standard applicable for tractors with a track width of 1 150 mm or less. 4.2. Provisions for front power take-offs
+The specifications of ISO 8759-1:1998 apply to tractors with front power take-offs according to Table 2. Table 2
+Application of standards for front power take-offs of the different tractor categories
+Standard applicable
+T1
+C1
+T2
+C2
+T3
+C3
+T4.1
+C4.1
+T4.2
+C4.2
+T4.3
+C4.3
+T5
+C5
+ISO 8759-1:1998
+X
+X
+X3)
+X4)
+X
+X4)
+X
+X Standard applicable. X3) Standard applicable when the tractor is equipped with power take-offs as specified in this standard. X4) Standard applicable, except clause 4.2. ANNEX II
+Part 1
+INFORMATION DOCUMENT No […]pursuant to Annex I to Directive 2003/37/EC relating to EC type-approval of a tractor with respect to the power take-offs of tractorsThe following information, if applicable, shall be supplied in triplicate and include a list of contents.Any drawings shall be supplied in appropriate scale and in sufficient detail in A4 format. Photographs, if any, shall show sufficient detail.0. GENERAL
+0.1. Make(s) (trade mark registered by the manufacturer):
+0.2. Type (specify any variants and versions): 0.3. Means of identification of type, if marked on the vehicle: 0.3.1. Manufacturer's plate (location and method of affixing):
+0.4. Category of vehicle (
+7
+):
+0.5. Name and address of manufacturer: 0.8. Name(s) and address(es) of assembly plant(s): 4.12. Power take-off(s) (revolutions per minute and ratio of this figure to that of the engine) (number, type and position)
+4.12.1. Main power take-off(s):
+4.12.2. Other(s):
+4.12.3. Power take-off guard(s) (description, dimensions, drawings, photographs):
+Part 2
+TYPE-APPROVAL DOCUMENTATIONMODEL
+(maximum format: A4 (210 × 297 mm))
+EC TYPE-APPROVAL CERTIFICATEStamp of administrationCommunication concerning the
+— type approval (
+8
+)
+— extension of type approval (8) 
+— refusal of type approval (8) 
+— withdrawal of type approval (8) 
+of a type of tractor with regard to Directive 86/297/EEC,Type-approval number: …Reason for extension: …
+Section I
+0.1. Make (trade name of manufacturer):
+0.2. Tractor type: 0.3. Means of identification of tractor type if marked on the tractor (
+9
+):
+0.3.1. Location of that marking: 0.4. Category of vehicle (
+10
+):
+0.5. Name and address of manufacturer: 0.8. Name(s) and address(es) of assembly plant(s):
+Section II
+ 1. Additional information (where applicable): See Addendum
+ 2. Technical service responsible for carrying out the tests: 3. Date of test report: 4. Number of test report: 5. Remarks (if any): See Addendum
+ 6. Place: 7. Date: 8. Signature: 9. The index to the information package lodged with the approval authority, which may be obtained on request, is attached. (
+1
+) OJ No C 164, 23. 6. 1983, p. 5.(
+2
+) OJ No C 307, 14. 11. 1983, p. 104.(
+3
+) OJ No C 341, 19. 12. 1983, p. 2.(
+4
+) OJ No L 84, 28. 3. 1974, p. 10.(
+5
+) OJ No C 165, 11. 7. 1978, p. 3.(
+6
+) OJ L 171, 9.7.2003, p. 1.(
+7
+) As defined in Annex II to Directive 2003/37/EC.(
+8
+) Delete where not applicable.(
+9
+) Where the means of identification of tractor type contains characters not relevant to describe the tractor types covered by this type-approval certificate, such characters are represented in the documentation by the symbol '?' (e.g. ABC?123?).(
+10
+) As defined in Annex II to Directive 2003/37/EC.
+Introduction
+COUNCIL DIRECTIVEof 26 May 1986on the approximation of the laws of the Member States relating to the power take-offs of tractors and their protection
+(86/297/EEC)
+▼B
+(OJ L 186, 8.7.1986, p.19)Amended by:
+
+Official Journal
+ No
+page
+date
+ M1
+DIRECTIVE 97/54/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 September 1997
+ L 277
+24
+10.10.1997
+ ►M2
+COMMISSION DIRECTIVE 2010/62/EU Text with EEA relevance of 8 September 2010
+ L 238
+7
+9.9.2010
+ ▼B
+▼M2
+COUNCIL DIRECTIVEof 26 May 1986on the approximation of the laws of the Member States relating to the power take-offs of tractors and their protection(86/297/EEC)
+▼B
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,
+Having regard to the proposal from the Commission (
+1
+),
+Having regard to the opinion of the European Parliament (
+2
+),
+Having regard to the opinion of the Economic and Social Committee (
+3
+),
+Whereas the technical requirements with which wheeled agricultural or forestry tractors must comply pursuant to national laws relate, inter alia, to the power take-off and its protection; Whereas those requirements differ from one Member State to another; whereas it is therefore necessary that all Member States adopt the same requirements, either in addition to, or in place of, their existing rules, in particular in order to allow the EEC type-approval procedure which was the subject of Council Directive 74/150/EEC of 4 March 1974 on the approximation of the laws of the Member States relating to the type-approval of wheeled agricultural or forestry tractors (
+4
+), as last amended by the Act of Accession of Spain and Portugal, to be applied in respect of each tractor type; Whereas the Council Resolution of 29 June 1978 concerning an action programme of the European Communities on safety and health at work (
+5
+) provides for the application of the principles of accident prevention in the design and creation of plant and machinery, including the agricultural sector; whereas the provisions concerning power take-offs and their protection constitute safety factors; Whereas the approximation of the national laws relating to wheeled agricultural or forestry tractors entails reciprocal recognition by Member States of the checks carried out by each of them on the basis of common requirements,
+HAS ADOPTED THIS DIRECTIVE: ▼M2
+4.2. PROVISIONS FOR FRONT POWER TAKE-OFFS
+ANNEX I
+4.2. Provisions for front power take-offs
+1.1. 'Power take-off' (PTO) means an external shaft of the tractor to provide rotational power to implements. 1.2. The provisions of this Directive apply only to power take-offs as defined in point 1.1 and located at the rear or the front of the tractor. 2.1. The application for the type approval of a tractor type as regards the power take-off and its protection must be submitted by the tractor manufacturer or his authorised representative, using the information document, the model of which appears in Annex II, Part 1. 2.2. It must be accompanied by drawings, in triplicate, on an appropriate and suitably detailed scale, of those parts of the tractor subject to the requirements of this Directive. 2.3. A tractor representative of the type submitted for approval or those part(s) of the tractor considered essential for the execution of the tests required by this Directive must be supplied to the technical service responsible for conducting the type-approval tests. A certificate conforming to the model which appears in Annex II, Part 2 must be completed for each approval granted or refused. Where tractors are equipped with power take-offs, these must comply with the requirements of this Annex.For the purposes of this Directive, the standards referred to in points 4.1 and 4.2 apply.The specifications of ISO 500-1:2004 together with Technical Corrigendum 1:2005 and ISO 500-2:2004 apply to tractors with rear power take-offs according to Table 1.
+
+| Standard applicable | T1 C1 | T2 C2 | T3 C3 | T4.1 C4.1 | T4.2 C4.2 | T4.3 C4.3 | T5 C5 |
+|---|---|---|---|---|---|---|---|
+| ISO 500-1:2004 (1) (3) | X | -- | X1) | X1) | X1) | X | X1) |
+| ISO 500-2:2004 (2) | -- | X | X2) | X2) | X2) | -- | X2) |
+TYPE-APPROVAL DOCUMENTATION
+ANNEX II
+TYPE-APPROVAL DOCUMENTATION
+The following information, if applicable, shall be supplied in triplicate and include a list of contents.Any drawings shall be supplied in appropriate scale and in sufficient detail in A4 format.
+
+Photographs, if any, shall show sufficient detail. 0.1. Make(s) (trade mark registered by the manufacturer):
+0.2. Type (specify any variants and versions): 0.3. Means of identification of type, if marked on the vehicle: 0.3.1. Manufacturer's plate (location and method of affixing):
+0.4. Category of vehicle (
+7
+):
+0.5. Name and address of manufacturer: 0.8. Name(s) and address(es) of assembly plant(s): 4.12. Power take-off(s) (revolutions per minute and ratio of this figure to that of the engine) (number, type and position)
+4.12.1. Main power take-off(s):
+4.12.2. Other(s):
+4.12.3. Power take-off guard(s) (description, dimensions, drawings, photographs):
+MODEL
+(maximum format: A4 (210 × 297 mm))
+EC TYPE-APPROVAL CERTIFICATEStamp of administrationCommunication concerning the
+— type approval (
+8
+)
+— extension of type approval (8) 
+— refusal of type approval (8) 
+— withdrawal of type approval (8) 
+of a type of tractor with regard to Directive 86/297/EEC,Type-approval number: …Reason for extension: …
+Section I
+0.1. Make (trade name of manufacturer):
+0.2. Tractor type: 0.3. Means of identification of tractor type if marked on the tractor (
+9
+):
+0.3.1. Location of that marking: 0.4. Category of vehicle (
+10
+):
+0.5. Name and address of manufacturer: 0.8. Name(s) and address(es) of assembly plant(s):
+Section II
+ 1. Additional information (where applicable): See Addendum
+ 2. Technical service responsible for carrying out the tests: 3. Date of test report: 4. Number of test report: 5. Remarks (if any): See Addendum
+ 6. Place: 7. Date: 8. Signature: 9. The index to the information package lodged with the approval authority, which may be obtained on request, is attached. (
+1
+) OJ No C 164, 23. 6. 1983, p. 5.(
+2
+) OJ No C 307, 14. 11. 1983, p. 104.(
+3
+) OJ No C 341, 19. 12. 1983, p. 2.(
+4
+) OJ No L 84, 28. 3. 1974, p. 10.(
+5
+) OJ No C 165, 11. 7. 1978, p. 3.(
+6
+) OJ L 171, 9.7.2003, p. 1.(
+7
+) As defined in Annex II to Directive 2003/37/EC.(
+8
+) Delete where not applicable.(
+9
+) Where the means of identification of tractor type contains characters not relevant to describe the tractor types covered by this type-approval certificate, such characters are represented in the documentation by the symbol '?' (e.g. ABC?123?).(
+10
+) As defined in Annex II to Directive 2003/37/EC.
+Introduction
+COUNCIL DIRECTIVEof 26 May 1986on the approximation of the laws of the Member States relating to the power take-offs of tractors and their protection
+(86/297/EEC)
+▼B
+(OJ L 186, 8.7.1986, p.19)Amended by:
+
+Official Journal
+ No
+page
+date
+ M1
+DIRECTIVE 97/54/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 September 1997
+ L 277
+24
+10.10.1997
+ ►M2
+COMMISSION DIRECTIVE 2010/62/EU Text with EEA relevance of 8 September 2010
+ L 238
+7
+9.9.2010
+ ►M3
+COMMISSION DIRECTIVE 2012/24/EU Text with EEA relevance of 8 October 2012
+ L 274
+24
+9.10.2012
+ ▼B
+▼M2
+COUNCIL DIRECTIVEof 26 May 1986on the approximation of the laws of the Member States relating to the power take-offs of tractors and their protection(86/297/EEC)
+▼B
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,
+Having regard to the proposal from the Commission (
+1
+),
+Having regard to the opinion of the European Parliament (
+2
+),
+Having regard to the opinion of the Economic and Social Committee (
+3
+),
+Whereas the technical requirements with which wheeled agricultural or forestry tractors must comply pursuant to national laws relate, inter alia, to the power take-off and its protection; Whereas those requirements differ from one Member State to another; whereas it is therefore necessary that all Member States adopt the same requirements, either in addition to, or in place of, their existing rules, in particular in order to allow the EEC type-approval procedure which was the subject of Council Directive 74/150/EEC of 4 March 1974 on the approximation of the laws of the Member States relating to the type-approval of wheeled agricultural or forestry tractors (
+4
+), as last amended by the Act of Accession of Spain and Portugal, to be applied in respect of each tractor type; Whereas the Council Resolution of 29 June 1978 concerning an action programme of the European Communities on safety and health at work (
+5
+) provides for the application of the principles of accident prevention in the design and creation of plant and machinery, including the agricultural sector; whereas the provisions concerning power take-offs and their protection constitute safety factors; Whereas the approximation of the national laws relating to wheeled agricultural or forestry tractors entails reciprocal recognition by Member States of the checks carried out by each of them on the basis of common requirements,
+HAS ADOPTED THIS DIRECTIVE: ▼M2
+TYPE-APPROVAL DOCUMENTATION
+ANNEX II
+TYPE-APPROVAL DOCUMENTATION
+The following information, if applicable, shall be supplied in triplicate and include a list of contents.Any drawings shall be supplied in appropriate scale and in sufficient detail in A4 format.
+
+Photographs, if any, shall show sufficient detail. 0.1. Make(s) (trade mark registered by the manufacturer):
+0.2. Type (specify any variants and versions): 0.3. Means of identification of type, if marked on the vehicle: 0.3.1. Manufacturer's plate (location and method of affixing):
+0.4. Category of vehicle (
+7
+):
+0.5. Name and address of manufacturer: 0.8. Name(s) and address(es) of assembly plant(s): 4.12. Power take-off(s) (revolutions per minute and ratio of this figure to that of the engine) (number, type and position)
+4.12.1. Main power take-off(s):
+4.12.2. Other(s):
+4.12.3. Power take-off guard(s) (description, dimensions, drawings, photographs):
+MODEL
+(maximum format: A4 (210 × 297 mm))
+EC TYPE-APPROVAL CERTIFICATEStamp of administrationCommunication concerning the
+— type approval (
+8
+)
+— extension of type approval (8) 
+— refusal of type approval (8) 
+— withdrawal of type approval (8) 
+of a type of tractor with regard to Directive 86/297/EEC,Type-approval number: …Reason for extension: …
+Section I
+0.1. Make (trade name of manufacturer):
+0.2. Tractor type: 0.3. Means of identification of tractor type if marked on the tractor (
+9
+):
+0.3.1. Location of that marking: 0.4. Category of vehicle (
+10
+):
+0.5. Name and address of manufacturer: 0.8. Name(s) and address(es) of assembly plant(s):
+Section II
+ 1. Additional information (where applicable): See Addendum
+ 2. Technical service responsible for carrying out the tests: 3. Date of test report: 4. Number of test report: 5. Remarks (if any): See Addendum
+ 6. Place: 7. Date: 8. Signature: 9. The index to the information package lodged with the approval authority, which may be obtained on request, is attached. (
+1
+) OJ No C 164, 23. 6. 1983, p. 5.(
+2
+) OJ No C 307, 14. 11. 1983, p. 104.(
+3
+) OJ No C 341, 19. 12. 1983, p. 2.(
+4
+) OJ No L 84, 28. 3. 1974, p. 10.(
+5
+) OJ No C 165, 11. 7. 1978, p. 3.(
+6
+) OJ L 171, 9.7.2003, p. 1.(
+7
+) As defined in Annex II to Directive 2003/37/EC.(
+8
+) Delete where not applicable.(
+9
+) Where the means of identification of tractor type contains characters not relevant to describe the tractor types covered by this type-approval certificate, such characters are represented in the documentation by the symbol '?' (e.g. ABC?123?).(
+10
+) As defined in Annex II to Directive 2003/37/EC.
+Council Directive 86/297/EEC of 26 May 1986 on the approximation of the laws of the Member States relating to the power take-offs of wheeled agricultural and forestry tractors and their protection
+COUNCIL DIRECTIVEof 26 May 1986on the approximation of the laws of the Member States relating to the power take-offs of wheeled agricultural and forestry tractors and their protection(86/297/EEC)THE COUNCIL OF THE EUROPEAN COMMUNITIES,Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,Having regard to the proposal from the Commission (1),Having regard to the opinion of the European Parliament (2),Having regard to the opinion of the Economic and Social Committee (3),Whereas the technical requirements with which wheeled agricultural or forestry tractors must comply pursuant to national laws relate, inter alia, to the power take-off and its protection;Whereas those requirements differ from one Member State to another; whereas it is therefore necessary that all Member States adopt the same requirements, either in addition to, or in place of, their existing rules, in particular in order to allow the EEC type-approval procedure which was the subject of Council Directive 74/150/EEC of 4 March 1974 on the approximation of the laws of the Member States relating to the type-approval of wheeled agricultural or forestry tractors (4), as last amended by the Act of Accession of Spain and Portugal, to be applied in respect of each tractor type;Whereas the Council Resolution of 29 June 1978 concerning an action programme of the European Communities on safety and health at work (5) provides for the application of the principles of accident prevention in the design and creation of plant and machinery, including the agricultural sector; whereas the provisions concerning power take-offs and their protection constitute safety factors;Whereas the approximation of the national laws relating to wheeled agricultural or forestry tractors entails reciprocal recognition by Member States of the checks carried out by each of them on the basis of common requirements,HAS ADOPTED THIS DIRECTIVE:Article 11.
+
+'Agricultural or forestry tractors' means any motor vehicle, fitted with wheels or endless tracks, having at leasttwo axles, the main function of which lies in its tractive power and which is specially designed to tow, push, carry or power certain tools, machinery or trailers intended for agricultural or forestry use. It may be equipped to carry a load or passengers.2. This Directive shall apply only to the tractors defined in paragraph 1, which are fitted with pneumatic tyres and have at least two axles and a maximum design speed of between 6 and 30 km/h.Article 2N° Member State may refuse to grant EEC type-approval or national type-approval in respect of a tractor, or refuse or prohibit its sale, registration, entry into service or use, on grounds relating to the power take-off and its protection if the latter satisfy the requirements set out in Annex I.Article 3This Directive shall not affect the right of Member States to specify, with due observance of the Treaty, the requirements they deem necessary to ensure that workers are protected when using the tractors in question, provided this does not mean that the power take-off and its protection are modified in a way unspecified in this Directive.Article 4Any amendments necessary to adapt the requirements of Annex I and the model Annex to the EEC type-approval certificate shown in Annex II to technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 74/150/EEC.Article 51. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive within 18 months of its adoption. They shall forthwith inform the Commission thereof. However, the requirements of section 5.2 of Annex I shall not apply until 1 October 1995. 2. Member States shall ensure that the text of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission.Article 6This Directive is addressed to the Member States. Done at Brussels, 26 May 1986.For the CouncilThe PresidentG. BRAKS (1) OJ N° C 164, 23. 6. 1983, p. 5. (2) OJ N° C 307, 14. 11. 1983, p. 104. (3) OJ N° C 341, 19. 12. 1983, p. 2. (4) OJ N° L 84, 28. 3. 1974, p. 10. (5) OJ N° C 165, 11. 7. 1978, p. 3. ANNEX IDEFINITION AND SCOPE, APPLICATION FOR EEC TYPE-APPROVAL, EEC, TYPE-APPROVAL, TYPES OF POWER TAKE-OFF AND DESIGN AND POSITIONING REQUIREMENTS IN RESPECT OF THE LATTER AND THEIR PROTECTIVE GUARDS1.DEFINITION AND SCOPE1.1.'Power take-off' (PTO) means the projecting part of the tractor drive shaft which transmits motion to a machine.1.2.The provisions of this Directive shall apply only to power take-offs as defined in 1.1 and located at the rear of the tractor. However, section 5.2 below shall apply only to tractors with a minimum fixed or adjustable track at one of the drive axles of at least 1 150 mm.2.APPLICATION FOR EEC TYPE-APPROVAL2.1.The application for the type approval of a tractor type as regards the power take-off and its protection must be submitted by the tractor manufacturer or his authorized representative.2.2.It must be accompanied by drawings, in triplicate, on an appropriate and suitably detailed scale, of those parts of the tractor subject to the requirements of this Directive.2.3.A tractor representative of the type submitted for approval or those part(s) of the tractor considered essential for the execution of the tests required by this Directive must be supplied to the technical service responsible for conducting the type-approval tests.3.EEC TYPE-APPROVAL3.1.A certificate conforming to the model which appears in Annex II must be attached to the EEC type-approval certificate for each approval granted or refused.4.TYPES OF POWER TAKE-OFF4.1.The characteristics of PTOs must conform to one of the types described in Table 1:>TABLE>4.2.It must be possible to maintain the rotation speed of the PTO by suitable means.4.3.Should more than one ratio between the engine speed and the PTO rotation speed be provided, any change of ratio must be perceptible. In addition, specific design measures must be taken to ensure that unintentional changes of ratio - in particular changing to a higher rotation speed - cannot occur. This safety device must operate each time the PTO is engaged.4.4.Means must be provided by which the selected PTO rotation speed is clearly indicated at all times.5.DESIGN AND POSITIONING REQUIREMENTS5.1.Direction of rotation of the rear PTOClockwise when the PTO is observed in the direction of travel of the tractor.5.2.Zone of clearance around the PTOThe PTO zone of clearance must be in conformity with the drawings in Figure 1 and the dimensions in Table 2. >START OF GRAPHIC>Section A Aabview from above Figure 1Zone of clearance around PTO>TABLE>5.3.Protection of PTOs5.3.1.Protection5.3.1.1.The power take-off must be protected by a guard mounted on the tractor which covers at least the top part and the two sides of the PTO as shown in Figure 2 below, or by other means providing a similar degree of protection such as the location of the PTO in a recess that is part of the tractor or is formed by a separate part (tow-hook mounts, coupling cover, etc.).5.3.1.2.The dimensions of the protective guard are laid down, as a function of the type of PTO, in Table 3 below.5.3.1.3.An additional non-rotating protective device which fully covers the PTO must also be supplied with the tractor to protect the PTO when the latter is not in use.5.3.2.Characteristics of protective guards5.3.2.1.The protective guard must be designed so as not to impede (or in order to facilitate) the use and maintenance of the tractor.It must be possible to carry out maintenance operations without removing the protective guard.
+4.2. PROVISIONS FOR FRONT POWER TAKE-OFFS
+ANNEX I
+4.2. Provisions for front power take-offs
+1.1. 'Power take-off' (PTO) means an external shaft of the tractor to provide rotational power to implements. 1.2. The provisions of this Directive apply only to power take-offs as defined in point 1.1 and located at the rear or the front of the tractor. 2.1. The application for the type approval of a tractor type as regards the power take-off and its protection must be submitted by the tractor manufacturer or his authorised representative, using the information document, the model of which appears in Annex II, Part 1. 2.2. It must be accompanied by drawings, in triplicate, on an appropriate and suitably detailed scale, of those parts of the tractor subject to the requirements of this Directive. 2.3. A tractor representative of the type submitted for approval or those part(s) of the tractor considered essential for the execution of the tests required by this Directive must be supplied to the technical service responsible for conducting the type-approval tests. A certificate conforming to the model which appears in Annex II, Part 2 must be completed for each approval granted or refused. Where tractors are equipped with power take-offs, these must comply with the requirements of this Annex.For the purposes of this Directive, the standards referred to in points 4.1 and 4.2 apply.The specifications of ISO 500-1:2004 together with Technical Corrigendum 1:2005 and ISO 500-2:2004 apply to tractors with rear power take-offs according to Table 1.
+
+| Standard applicable | T1 C1 | T2 C2 | T3 C3 | T4.1 C4.1 | T4.2 C4.2 | T4.3 C4.3 | T5 C5 |
+|---|---|---|---|---|---|---|---|
+| ISO 500-1:2004 (1) (3) | X | -- | X1) | X1) | X1) | X | X1) |
+| ISO 500-2:2004 (2) | -- | X | X2) | X2) | X2) | -- | X2) |
+Article 5
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive within 18 months of its adoption.
+
+They shall forthwith inform the Commission thereof. However, the requirements of section 5.2 of Annex I shall not apply until 1 October 1995.2. Member States shall ensure that the text of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission.
+Article 4
+Any amendments necessary to adapt the requirements of Annex I and the model Annex to the EEC type-approval certificate shown in Annex II to technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 74/150/EEC.
+Article 3
+This Directive shall not affect the right of Member States to specify, with due observance of the Treaty, the requirements they deem necessary to ensure that workers are protected when using the tractors in question, provided this does not mean that the power take-off and its protection are modified in a way unspecified in this Directive.
+Article 6
+This Directive is addressed to the Member States.
+
+▼M2
+ANNEX I
+General provisions and requirements for power take-offs
+1. Definition and scope
+1.1. 'Power take-off' (PTO) means an external shaft of the tractor to provide rotational power to implements. 1.2. The provisions of this Directive apply only to power take-offs as defined in point 1.1 and located at the rear or the front of the tractor. 2. Application for EC type-approval
+2.1. The application for the type approval of a tractor type as regards the power take-off and its protection must be submitted by the tractor manufacturer or his authorised representative, using the information document, the model of which appears in Annex II, Part 1. 2.2. It must be accompanied by drawings, in triplicate, on an appropriate and suitably detailed scale, of those parts of the tractor subject to the requirements of this Directive. 2.3. A tractor representative of the type submitted for approval or those part(s) of the tractor considered essential for the execution of the tests required by this Directive must be supplied to the technical service responsible for conducting the type-approval tests. 3. EC type-approval certificate
+A certificate conforming to the model which appears in Annex II, Part 2 must be completed for each approval granted or refused.4. General Provisions
+Where tractors are equipped with power take-offs, these must comply with the requirements of this Annex.For the purposes of this Directive, the standards referred to in points 4.1 and 4.2 apply.4.1. Provisions for rear power take-offs
+The specifications of ISO 500-1:2004 together with Technical Corrigendum 1:2005 and ISO 500-2:2004 apply to tractors with rear power take-offs according to Table 1. Table 1
+Application of standards for rear power take-offs of the different tractor categories
+Standard applicable
+T1
+C1
+T2
+C2
+T3
+C3
+T4.1
+C4.1
+T4.2
+C4.2
+T4.3
+C4.3
+T5
+C5
+ISO 500-1:2004 (1) (3) X
+--
+X1)
+X1)
+X1)
+X
+X1)
+ISO 500-2:2004 (2) --
+X
+X2)
+X2)
+X2)
+--
+X2)
+(1) In the standard ISO 500-1:2004, the last sentence in section 6.2 is not applicable. (2) For the purposes of this Directive, this standard also applies to tractors with a power take-off, the power of which exceeds 20 kW, measured in accordance with ISO 789-1:1990. (3) For power take-offs of type 3 and where it is possible to reduce the dimension of the opening of the protective guard in order to adapt to the coupling elements to be used, the user manual must contain the following elements:— warning relating to the consequences and risks caused by the reduced dimension of the protective guard,
+— instructions and specific warnings relating to coupling and releasing the power take-offs,
+— instructions and specific warnings relating to the use of tools or machines coupled to the rear power take-off. X Standard applicable. -- Standard not applicable. X1) Standard applicable for tractors with a track width of more than 1 150 mm. X2) Standard applicable for tractors with a track width of 1 150 mm or less. ▼M3
+4.2. Provisions for front power take-offs
+The specifications of ISO 8759-1:1998, with the exception of its clause 4.2, apply to tractors of all T and C categories which are equipped with front power take-offs as specified in this standard. ▼M3 —————
+▼M2
+ANNEX II
+Part 1
+INFORMATION DOCUMENT No […]pursuant to Annex I to Directive 2003/37/EC relating to EC type-approval of a tractor with respect to the power take-offs of tractorsThe following information, if applicable, shall be supplied in triplicate and include a list of contents.Any drawings shall be supplied in appropriate scale and in sufficient detail in A4 format. Photographs, if any, shall show sufficient detail.0. GENERAL
+0.1. Make(s) (trade mark registered by the manufacturer):
+0.2. Type (specify any variants and versions): 0.3. Means of identification of type, if marked on the vehicle: 0.3.1. Manufacturer's plate (location and method of affixing):
+0.4. Category of vehicle (
+7
+):
+0.5. Name and address of manufacturer: 0.8. Name(s) and address(es) of assembly plant(s): 4.12. Power take-off(s) (revolutions per minute and ratio of this figure to that of the engine) (number, type and position)
+4.12.1. Main power take-off(s):
+4.12.2. Other(s):
+4.12.3. Power take-off guard(s) (description, dimensions, drawings, photographs):
+Part 2
+TYPE-APPROVAL DOCUMENTATIONMODEL
+(maximum format: A4 (210 × 297 mm))
+EC TYPE-APPROVAL CERTIFICATEStamp of administrationCommunication concerning the
+— type approval (
+8
+)
+— extension of type approval (8) 
+— refusal of type approval (8) 
+— withdrawal of type approval (8) 
+of a type of tractor with regard to Directive 86/297/EEC,Type-approval number: …Reason for extension: …
+Section I
+0.1. Make (trade name of manufacturer):
+0.2. Tractor type: 0.3. Means of identification of tractor type if marked on the tractor (
+9
+):
+0.3.1. Location of that marking: 0.4. Category of vehicle (
+10
+):
+0.5. Name and address of manufacturer: 0.8. Name(s) and address(es) of assembly plant(s):
+Section II
+ 1. Additional information (where applicable): See Addendum
+ 2. Technical service responsible for carrying out the tests: 3. Date of test report: 4. Number of test report: 5. Remarks (if any): See Addendum
+ 6. Place: 7. Date: 8. Signature: 9. The index to the information package lodged with the approval authority, which may be obtained on request, is attached. (
+1
+) OJ No C 164, 23. 6. 1983, p. 5.(
+2
+) OJ No C 307, 14. 11. 1983, p. 104.(
+3
+) OJ No C 341, 19. 12. 1983, p. 2.(
+4
+) OJ No L 84, 28. 3. 1974, p. 10.(
+5
+) OJ No C 165, 11. 7. 1978, p. 3.(
+6
+) OJ L 171, 9.7.2003, p. 1.(
+7
+) As defined in Annex II to Directive 2003/37/EC.(
+8
+) Delete where not applicable.(
+9
+) Where the means of identification of tractor type contains characters not relevant to describe the tractor types covered by this type-approval certificate, such characters are represented in the documentation by the symbol '?' (e.g. ABC?123?).(
+10
+) As defined in Annex II to Directive 2003/37/EC.
+Article 2
+No Member State may refuse to grant EEC type-approval or national type-approval in respect of a tractor, or refuse or prohibit its sale, registration, entry into service or use, on grounds relating to the power take-off and its protection if the latter satisfy the requirements set out in Annex I.
+Article 1
+1. For the purposes of this Directive, 'tractor' means a tractor as defined in Article 2(j) of Directive 2003/37/EC of the European Parliament and of the Council (
+6
+).2. For the purposes of this Directive, the tractor categories defined in Annex II to Directive 2003/37/EC shall apply.
+
+▼B
+Article 2
+No Member State may refuse to grant EEC type-approval or national type-approval in respect of a tractor, or refuse or prohibit its sale, registration, entry into service or use, on grounds relating to the power take-off and its protection if the latter satisfy the requirements set out in Annex I.
+Article 3
+This Directive shall not affect the right of Member States to specify, with due observance of the Treaty, the requirements they deem necessary to ensure that workers are protected when using the tractors in question, provided this does not mean that the power take-off and its protection are modified in a way unspecified in this Directive.
+| Standard applicable | T1 C1 | T2 C2 | T3 C3 | T4.1 C4.1 | T4.2 C4.2 | T4.3 C4.3 | T5 C5 |
+|---|---|---|---|---|---|---|---|
+| ISO 500-2:2004 (2) | -- | X | X2) | X2) | X2) | -- | X2) |
+| (1) In the standard ISO 500-1:2004, the last sentence in section 6.2 is not applicable. (2) For the purposes of this Directive, this standard also applies to tractors with a power take-off, the power of which exceeds 20 kW, measured in accordance with ISO 789-1:1990. (3) For power take-offs of type 3 and where it is possible to reduce the dimension of the opening of the protective guard in order to adapt to the coupling elements to be used, the user manual must contain the following elements:— warning relating to the consequences and risks caused by the reduced dimension of the protective guard, — instructions and specific warnings relating to coupling and releasing the power take-offs, — instructions and specific warnings relating to the use of tools or machines coupled to the rear power take-off. X Standard applicable. -- Standard not applicable. X1) Standard applicable for tractors with a track width of more than 1 150 mm. X2) Standard applicable for tractors with a track width of 1 150 mm or less. | (1) In the standard ISO 500-1:2004, the last sentence in section 6.2 is not applicable. (2) For the purposes of this Directive, this standard also applies to tractors with a power take-off, the power of which exceeds 20 kW, measured in accordance with ISO 789-1:1990. (3) For power take-offs of type 3 and where it is possible to reduce the dimension of the opening of the protective guard in order to adapt to the coupling elements to be used, the user manual must contain the following elements:— warning relating to the consequences and risks caused by the reduced dimension of the protective guard, — instructions and specific warnings relating to coupling and releasing the power take-offs, — instructions and specific warnings relating to the use of tools or machines coupled to the rear power take-off. X Standard applicable. -- Standard not applicable. X1) Standard applicable for tractors with a track width of more than 1 150 mm. X2) Standard applicable for tractors with a track width of 1 150 mm or less. | (1) In the standard ISO 500-1:2004, the last sentence in section 6.2 is not applicable. (2) For the purposes of this Directive, this standard also applies to tractors with a power take-off, the power of which exceeds 20 kW, measured in accordance with ISO 789-1:1990. (3) For power take-offs of type 3 and where it is possible to reduce the dimension of the opening of the protective guard in order to adapt to the coupling elements to be used, the user manual must contain the following elements:— warning relating to the consequences and risks caused by the reduced dimension of the protective guard, — instructions and specific warnings relating to coupling and releasing the power take-offs, — instructions and specific warnings relating to the use of tools or machines coupled to the rear power take-off. X Standard applicable. -- Standard not applicable. X1) Standard applicable for tractors with a track width of more than 1 150 mm. X2) Standard applicable for tractors with a track width of 1 150 mm or less. | (1) In the standard ISO 500-1:2004, the last sentence in section 6.2 is not applicable. (2) For the purposes of this Directive, this standard also applies to tractors with a power take-off, the power of which exceeds 20 kW, measured in accordance with ISO 789-1:1990. (3) For power take-offs of type 3 and where it is possible to reduce the dimension of the opening of the protective guard in order to adapt to the coupling elements to be used, the user manual must contain the following elements:— warning relating to the consequences and risks caused by the reduced dimension of the protective guard, — instructions and specific warnings relating to coupling and releasing the power take-offs, — instructions and specific warnings relating to the use of tools or machines coupled to the rear power take-off. X Standard applicable. -- Standard not applicable. X1) Standard applicable for tractors with a track width of more than 1 150 mm. X2) Standard applicable for tractors with a track width of 1 150 mm or less. | (1) In the standard ISO 500-1:2004, the last sentence in section 6.2 is not applicable. (2) For the purposes of this Directive, this standard also applies to tractors with a power take-off, the power of which exceeds 20 kW, measured in accordance with ISO 789-1:1990. (3) For power take-offs of type 3 and where it is possible to reduce the dimension of the opening of the protective guard in order to adapt to the coupling elements to be used, the user manual must contain the following elements:— warning relating to the consequences and risks caused by the reduced dimension of the protective guard, — instructions and specific warnings relating to coupling and releasing the power take-offs, — instructions and specific warnings relating to the use of tools or machines coupled to the rear power take-off. X Standard applicable. -- Standard not applicable. X1) Standard applicable for tractors with a track width of more than 1 150 mm. X2) Standard applicable for tractors with a track width of 1 150 mm or less. | (1) In the standard ISO 500-1:2004, the last sentence in section 6.2 is not applicable. (2) For the purposes of this Directive, this standard also applies to tractors with a power take-off, the power of which exceeds 20 kW, measured in accordance with ISO 789-1:1990. (3) For power take-offs of type 3 and where it is possible to reduce the dimension of the opening of the protective guard in order to adapt to the coupling elements to be used, the user manual must contain the following elements:— warning relating to the consequences and risks caused by the reduced dimension of the protective guard, — instructions and specific warnings relating to coupling and releasing the power take-offs, — instructions and specific warnings relating to the use of tools or machines coupled to the rear power take-off. X Standard applicable. -- Standard not applicable. X1) Standard applicable for tractors with a track width of more than 1 150 mm. X2) Standard applicable for tractors with a track width of 1 150 mm or less. | (1) In the standard ISO 500-1:2004, the last sentence in section 6.2 is not applicable. (2) For the purposes of this Directive, this standard also applies to tractors with a power take-off, the power of which exceeds 20 kW, measured in accordance with ISO 789-1:1990. (3) For power take-offs of type 3 and where it is possible to reduce the dimension of the opening of the protective guard in order to adapt to the coupling elements to be used, the user manual must contain the following elements:— warning relating to the consequences and risks caused by the reduced dimension of the protective guard, — instructions and specific warnings relating to coupling and releasing the power take-offs, — instructions and specific warnings relating to the use of tools or machines coupled to the rear power take-off. X Standard applicable. -- Standard not applicable. X1) Standard applicable for tractors with a track width of more than 1 150 mm. X2) Standard applicable for tractors with a track width of 1 150 mm or less. | (1) In the standard ISO 500-1:2004, the last sentence in section 6.2 is not applicable. (2) For the purposes of this Directive, this standard also applies to tractors with a power take-off, the power of which exceeds 20 kW, measured in accordance with ISO 789-1:1990. (3) For power take-offs of type 3 and where it is possible to reduce the dimension of the opening of the protective guard in order to adapt to the coupling elements to be used, the user manual must contain the following elements:— warning relating to the consequences and risks caused by the reduced dimension of the protective guard, — instructions and specific warnings relating to coupling and releasing the power take-offs, — instructions and specific warnings relating to the use of tools or machines coupled to the rear power take-off. X Standard applicable. -- Standard not applicable. X1) Standard applicable for tractors with a track width of more than 1 150 mm. X2) Standard applicable for tractors with a track width of 1 150 mm or less. |
+| Standard applicable | T1 C1 | T2 C2 | T3 C3 | T4.1 C4.1 | T4.2 C4.2 | T4.3 C4.3 | T5 C5 |
+|---|---|---|---|---|---|---|---|
+| ISO 500-2:2004 (2) | -- | X | X2) | X2) | X2) | -- | X2) |
+| (1) In the standard ISO 500-1:2004, the last sentence in section 6.2 is not applicable. (2) For the purposes of this Directive, this standard also applies to tractors with a power take-off, the power of which exceeds 20 kW, measured in accordance with ISO 789-1:1990. (3) For power take-offs of type 3 and where it is possible to reduce the dimension of the opening of the protective guard in order to adapt to the coupling elements to be used, the user manual must contain the following elements:— warning relating to the consequences and risks caused by the reduced dimension of the protective guard, — instructions and specific warnings relating to coupling and releasing the power take-offs, — instructions and specific warnings relating to the use of tools or machines coupled to the rear power take-off. X Standard applicable. -- Standard not applicable. X1) Standard applicable for tractors with a track width of more than 1 150 mm. X2) Standard applicable for tractors with a track width of 1 150 mm or less. | (1) In the standard ISO 500-1:2004, the last sentence in section 6.2 is not applicable. (2) For the purposes of this Directive, this standard also applies to tractors with a power take-off, the power of which exceeds 20 kW, measured in accordance with ISO 789-1:1990. (3) For power take-offs of type 3 and where it is possible to reduce the dimension of the opening of the protective guard in order to adapt to the coupling elements to be used, the user manual must contain the following elements:— warning relating to the consequences and risks caused by the reduced dimension of the protective guard, — instructions and specific warnings relating to coupling and releasing the power take-offs, — instructions and specific warnings relating to the use of tools or machines coupled to the rear power take-off. X Standard applicable. -- Standard not applicable. X1) Standard applicable for tractors with a track width of more than 1 150 mm. X2) Standard applicable for tractors with a track width of 1 150 mm or less. | (1) In the standard ISO 500-1:2004, the last sentence in section 6.2 is not applicable. (2) For the purposes of this Directive, this standard also applies to tractors with a power take-off, the power of which exceeds 20 kW, measured in accordance with ISO 789-1:1990. (3) For power take-offs of type 3 and where it is possible to reduce the dimension of the opening of the protective guard in order to adapt to the coupling elements to be used, the user manual must contain the following elements:— warning relating to the consequences and risks caused by the reduced dimension of the protective guard, — instructions and specific warnings relating to coupling and releasing the power take-offs, — instructions and specific warnings relating to the use of tools or machines coupled to the rear power take-off. X Standard applicable. -- Standard not applicable. X1) Standard applicable for tractors with a track width of more than 1 150 mm. X2) Standard applicable for tractors with a track width of 1 150 mm or less. | (1) In the standard ISO 500-1:2004, the last sentence in section 6.2 is not applicable. (2) For the purposes of this Directive, this standard also applies to tractors with a power take-off, the power of which exceeds 20 kW, measured in accordance with ISO 789-1:1990. (3) For power take-offs of type 3 and where it is possible to reduce the dimension of the opening of the protective guard in order to adapt to the coupling elements to be used, the user manual must contain the following elements:— warning relating to the consequences and risks caused by the reduced dimension of the protective guard, — instructions and specific warnings relating to coupling and releasing the power take-offs, — instructions and specific warnings relating to the use of tools or machines coupled to the rear power take-off. X Standard applicable. -- Standard not applicable. X1) Standard applicable for tractors with a track width of more than 1 150 mm. X2) Standard applicable for tractors with a track width of 1 150 mm or less. | (1) In the standard ISO 500-1:2004, the last sentence in section 6.2 is not applicable. (2) For the purposes of this Directive, this standard also applies to tractors with a power take-off, the power of which exceeds 20 kW, measured in accordance with ISO 789-1:1990. (3) For power take-offs of type 3 and where it is possible to reduce the dimension of the opening of the protective guard in order to adapt to the coupling elements to be used, the user manual must contain the following elements:— warning relating to the consequences and risks caused by the reduced dimension of the protective guard, — instructions and specific warnings relating to coupling and releasing the power take-offs, — instructions and specific warnings relating to the use of tools or machines coupled to the rear power take-off. X Standard applicable. -- Standard not applicable. X1) Standard applicable for tractors with a track width of more than 1 150 mm. X2) Standard applicable for tractors with a track width of 1 150 mm or less. | (1) In the standard ISO 500-1:2004, the last sentence in section 6.2 is not applicable. (2) For the purposes of this Directive, this standard also applies to tractors with a power take-off, the power of which exceeds 20 kW, measured in accordance with ISO 789-1:1990. (3) For power take-offs of type 3 and where it is possible to reduce the dimension of the opening of the protective guard in order to adapt to the coupling elements to be used, the user manual must contain the following elements:— warning relating to the consequences and risks caused by the reduced dimension of the protective guard, — instructions and specific warnings relating to coupling and releasing the power take-offs, — instructions and specific warnings relating to the use of tools or machines coupled to the rear power take-off. X Standard applicable. -- Standard not applicable. X1) Standard applicable for tractors with a track width of more than 1 150 mm. X2) Standard applicable for tractors with a track width of 1 150 mm or less. | (1) In the standard ISO 500-1:2004, the last sentence in section 6.2 is not applicable. (2) For the purposes of this Directive, this standard also applies to tractors with a power take-off, the power of which exceeds 20 kW, measured in accordance with ISO 789-1:1990. (3) For power take-offs of type 3 and where it is possible to reduce the dimension of the opening of the protective guard in order to adapt to the coupling elements to be used, the user manual must contain the following elements:— warning relating to the consequences and risks caused by the reduced dimension of the protective guard, — instructions and specific warnings relating to coupling and releasing the power take-offs, — instructions and specific warnings relating to the use of tools or machines coupled to the rear power take-off. X Standard applicable. -- Standard not applicable. X1) Standard applicable for tractors with a track width of more than 1 150 mm. X2) Standard applicable for tractors with a track width of 1 150 mm or less. | (1) In the standard ISO 500-1:2004, the last sentence in section 6.2 is not applicable. (2) For the purposes of this Directive, this standard also applies to tractors with a power take-off, the power of which exceeds 20 kW, measured in accordance with ISO 789-1:1990. (3) For power take-offs of type 3 and where it is possible to reduce the dimension of the opening of the protective guard in order to adapt to the coupling elements to be used, the user manual must contain the following elements:— warning relating to the consequences and risks caused by the reduced dimension of the protective guard, — instructions and specific warnings relating to coupling and releasing the power take-offs, — instructions and specific warnings relating to the use of tools or machines coupled to the rear power take-off. X Standard applicable. -- Standard not applicable. X1) Standard applicable for tractors with a track width of more than 1 150 mm. X2) Standard applicable for tractors with a track width of 1 150 mm or less. |
+This safety device must operate each time the PTO is engaged.4.4.Means must be provided by which the selected PTO rotation speed is clearly indicated at all times.5.DESIGN AND POSITIONING REQUIREMENTS5.1.Direction of rotation of the rear PTOClockwise when the PTO is observed in the direction of travel of the tractor.5.2.Zone of clearance around the PTOThe PTO zone of clearance must be in conformity with the drawings in Figure 1 and the dimensions in Table 2. >START OF GRAPHIC>Section A Aabview from above Figure 1Zone of clearance around PTO>TABLE>5.3.Protection of PTOs5.3.1.Protection5.3.1.1.The power take-off must be protected by a guard mounted on the tractor which covers at least the top part and the two sides of the PTO as shown in Figure 2 below, or by other means providing a similar degree of protection such as the location of the PTO in a recess that is part of the tractor or is formed by a separate part (tow-hook mounts, coupling cover, etc.).5.3.1.2.The dimensions of the protective guard are laid down, as a function of the type of PTO, in Table 3 below.5.3.1.3.An additional non-rotating protective device which fully covers the PTO must also be supplied with the tractor to protect the PTO when the latter is not in use.5.3.2.Characteristics of protective guards5.3.2.1.The protective guard must be designed so as not to impede (or in order to facilitate) the use and maintenance of the tractor.It must be possible to carry out maintenance operations without removing the protective guard. 5.3.2.2.The materials used must be able to withstand bad weather, must retain their mechanical properties in cold weather and must be sufficiently sturdy.5.3.2.3.The protective guard must have no points or sharp edges; it must contain no orifices exceeding 8 mm diameter or side of a square or rectangle other than that necessary for attaching the chain of the protective device for the universal-joint drive shaft and must be able to bear a weight of 120 daN, unless it is designed in such a way that it cannot be used as a step.>START OF GRAPHIC>Optional shapes75 mm minHole oe 16 mmSize of angle optional16,5 mmFigure 2Protective guard for type 1, 2 and 3 PTOs>TABLE> ANNEX IIMODELName of administrationANNEX TO THE EEC TYPE-APPROVED CERTIFICATE FOR A TRACTOR TYPE WITH REGARD TO THE POWER TAKE-OFF AND ITS PROTECTION(Articles 4 (2) and 10 of Council Directive 74/150/EEC of March 1974 on the approximation of the laws of the Member States relating to the type approval of wheeled agricultural or forestry tractors)EEC type-approval No: 1Trade name or mark of tractor: 2Tractor type: 3Name and address of manufacturer: 4If applicable, name and address of manufacturer's authorized representative: 5Brief description of type of power take-off and its protection: 6Date tractor submitted for type-approval: 7Technical service responsible for type-approval tests: 8Date of report by that service: 9Number of report issued by that service: 10EEC type-approval with regard to the power take-off and its protection has been granted/refused (;).11The following drawings bearing the abovementioned type-approval N° are attached to this communication:A set of drawings of those parts of the tractor considered of interest for the purposes of Council Directive 86/297/EEC of 26 May 1986 on the approximation of the laws of the Member States relating to power take-offs of wheeled agricultural on foresty tractors and their protection.These drawings will be supplied to the competent authorities of the Member States at their express request.12Remarks, if any: 13Place: 14Date: 15Signature: (;) Delete where inapplicable.
+1
+76
+80
+60
+120
+240
+280
+76
+55°
+2
+3
+89
+100
+65
+145
+290
+295
+89
+51°
+5.3. Protection of PTOs
+5.3.1. Protection
+5.3.1.1.
+
+The power take-off must be protected by a guard mounted on the tractor which covers at least the top part and the two sides of the PTO as shown in Figure 2 below, or by other means providing a similar degree of protection such as the location of the PTO in a recess that is part of the tractor or is formed by a separate part (tow-hook mounts, coupling cover, etc.). 5.3.1.2. The dimensions of the protective guard are laid down, as a function of the type of PTO, in Table 3 below. 5.3.1.3. An additional non-rotating protective device which fully covers the PTO must also be supplied with the tractor to protect the PTO when the latter is not in use. 5.3.2. Characteristics of protective guards
+5.3.2.1. The protective guard must be designed so as not to impede (or in order to facilitate) the use and maintenance of the tractor. It must be possible to carry out maintenance operations without removing the protective guard. 5.3.2.2. The materials used must be able to withstand bad weather, must retain their mechanical properties in cold weather and must be sufficiently sturdy. 5.3.2.3. The protective guard must have no points or sharp edges; it must contain no orifices exceeding 8 mm diameter or side of a square or rectangle other than that necessary for attaching the chain of the protective device for the universal-joint drive shaft and must be able to bear a weight of 120 daN, unless it is designed in such a way that it cannot be used as a step. {{IMAGE:Image_1, Caption:Technical drawing illustrating the design and dimensions of a protective guard for Power Take-Off (PTO) units, detailing optional shapes, angles, and mounting hole specifications.}} Figure 2
+Protective guard for type 1, 2 and 3 PTOs
+TABLE 3
+Dimensions of the power take-off protective guard
+Type
+Dimensions of protective guard (1)
+(mm)
+a
+b ± 5
+c ± 5
+d ± 5
+1
+70
+125
+85
+285
+2
+70
+125
+85
+285
+3
+80
+150
+100
+300
+(1) In the case of tractors having two rear PTO shafts, the dimensions b and/or d may be adjusted in order to maintain equivalent clearance areas between the shafts and the protective guard. {{IMAGE:Image_2, Caption:A blank template for the Annex to the EEC Type-Approval Certificate concerning tractor power take-offs and their protection.}} (
+1
+) OJ No C 164, 23. 6. 1983, p. 5. (
+2
+) OJ No C 307, 14. 11. 1983, p. 104. (
+3
+) OJ No C 341, 19. 12. 1983, p. 2. (
+4
+) OJ No L 84, 28. 3. 1974, p. 10. (
+5
+) OJ No C 165, 11. 7. 1978, p. 3.
+The specifications of ISO 8759-1:1998 apply to tractors with front power take-offs according to Table 2.
+
+| Standard applicable | T1 C1 | T2 C2 | T3 C3 | T4.1 C4.1 | T4.2 C4.2 | T4.3 C4.3 | T5 C5 |
+|---|---|---|---|---|---|---|---|
+| ISO 8759-1:1998 | X | X | X3) | X4) | X | X4) | X |
+| X Standard applicable. X3) Standard applicable when the tractor is equipped with power take-offs as specified in this standard. X4) Standard applicable, except clause 4.2. | X Standard applicable. X3) Standard applicable when the tractor is equipped with power take-offs as specified in this standard. X4) Standard applicable, except clause 4.2. | X Standard applicable. X3) Standard applicable when the tractor is equipped with power take-offs as specified in this standard. X4) Standard applicable, except clause 4.2. | X Standard applicable. X3) Standard applicable when the tractor is equipped with power take-offs as specified in this standard. X4) Standard applicable, except clause 4.2. | X Standard applicable. X3) Standard applicable when the tractor is equipped with power take-offs as specified in this standard. X4) Standard applicable, except clause 4.2. | X Standard applicable. X3) Standard applicable when the tractor is equipped with power take-offs as specified in this standard. X4) Standard applicable, except clause 4.2. | X Standard applicable. X3) Standard applicable when the tractor is equipped with power take-offs as specified in this standard. X4) Standard applicable, except clause 4.2. | X Standard applicable. X3) Standard applicable when the tractor is equipped with power take-offs as specified in this standard. X4) Standard applicable, except clause 4.2. |
+▼M3
+The specifications of ISO 8759-1:1998, with the exception of its clause 4.2, apply to tractors of all T and C categories which are equipped with front power take-offs as specified in this standard.
+
+▼M3 —————
+▼M2

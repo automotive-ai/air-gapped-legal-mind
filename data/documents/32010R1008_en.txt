@@ -1,0 +1,1051 @@
+recital 3
+(3) The scope of this Regulation should be in line with that of Directive 78/318/EEC and thus limited to vehicles of category M1.
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor (1), and in particular Article 14(1)(a) thereof,
+Whereas:
+ADMINISTRATIVE DOCUMENTS FOR EC TYPE-APPROVAL OF WINDSCREEN WASHER SYSTEMS AS SEPARATE TECHNICAL UNITS
+ANNEX II
+Administrative documents for EC type-approval of windscreen washer systems as separate technical units
+PART 1
+Information document
+MODEL
+Information document No … relating to the EC type-approval as a separate technical unit of windscreen washer systems. The following information shall be supplied in triplicate and include a list of contents. Any drawings shall be supplied in appropriate scale and in sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, shall show sufficient detail. If the systems, components or separate technical units referred to in this information document have electronic controls, information concerning their performance shall be supplied. 0. GENERAL
+0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.3. Means of identification of type, if marked on the separate technical unit (b): …
+0.3.1. Location of that marking: …
+0.5. Name and address of manufacturer: …
+0.7. In case of separate technical units, location and method of affixing the EC approval mark: …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+9.7. Windscreen washer
+9.7.1. Detailed technical description (including photographs or drawings): …
+Explanatory notes
+PART 2
+EC type-approval certificate
+MODEL
+Format: A4 (210 × 297 mm)
+EC TYPE-APPROVAL CERTIFICATE
+Stamp of type-approval authority
+Communication concerning:
+
+| — EC type-approval ( 1 ) — extension of EC type-approval ( 1 ) — refusal of EC type-approval ( 1 ) — withdrawal of EC type-approval ( 1 ) | of a type of windscreen washer system as a separate technical unit |
+|---|---|
+| with regard to Regulation (EU) No 1008/2010, as last amended by Regulation (EU) No …/… (1) | with regard to Regulation (EU) No 1008/2010, as last amended by Regulation (EU) No …/… (1) |
+| EC type-approval number: … | EC type-approval number: … |
+| Reason for extension: … | Reason for extension: … | SECTION I
+0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.3. Means of identification of type, if marked on the separate technical unit (2): …
+0.3.1. Location of that marking: …
+0.5. Name and address of manufacturer: …
+0.7. Location and method of affixing of the EC approval mark: …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+SECTION II
+1. Additional information: see Addendum. 2. Technical service responsible for carrying out the tests: …
+3. Date of test report: …
+4. Number of test report: …
+5. Remarks (if any): see Addendum. 6. Place: …
+7. Date: …
+8. Signature: …
+Attachments
+:
+Information package
+Test report
+Addendum
+to EC type-approval certificate No … 1. 
+ Additional information: 1.1. Brief description of the type of separate technical unit: …
+1.2. Detailed description of the washer system: 1.2.1. Number of nozzles: …
+1.2.2. Number of outlet ports per nozzle: …
+1.2.3. Description of washer line hoses and its mounting to pump and nozzles: …
+1.2.4. Description of washer pump: …
+1.2.5. Fluid storage capacity (litre): … 2. 
+ Suitable for hand of drive: left/right (3) 3. 
+ Any part of the system may be situated in the engine compartment: yes/no (3) 4. 
+ Separate technical unit: universal/vehicle specific (3) 5. 
+ Remarks: … 6. 
+ List of vehicle types for which the separate technical unit has been approved (if applicable): …
+PART 3
+EC separate technical unit type-approval mark
+1. The EC separate technical unit type-approval mark shall consist of: 1.1. A rectangle surrounding the lower-case letter 'e' followed by the distinguishing number of the Member State which has granted the EC separate technical unit type-approval:
+
+| 1 | for Germany |
+|---|---|
+| 2 | for France |
+| 3 | for Italy |
+| 4 | for The Netherlands |
+| 5 | for Sweden |
+| 6 | for Belgium |
+| 7 | for Hungary |
+| 8 | for the Czech Republic |
+| 9 | for Spain |
+| 11 | for the United Kingdom |
+| 12 | for Austria |
+| 13 | for Luxembourg |
+| 17 | for Finland |
+| 18 | for Denmark |
+| 19 | for Romania |
+| 20 | for Poland |
+| 21 | for Portugal |
+| 23 | for Greece |
+| 24 | for Ireland |
+| 26 | for Slovenia |
+| 27 | for Slovakia |
+| 29 | for Estonia |
+| 32 | for Latvia |
+| 34 | for Bulgaria |
+| 36 | for Lithuania |
+| 49 | for Cyprus |
+| 50 | for Malta |
+
+1.2. In the vicinity of the rectangle the 'base approval number' contained in Section 4 of the type-approval number preceded by the two figures indicating the sequence number assigned to this Regulation or latest major technical amendment to this Regulation. The sequence number is '00' at present. 2. The EC separate technical unit type-approval mark shall be affixed to the windscreen washer fluid storage container in such a way as to be indelible as well as clearly and easily legible even if the device is fitted to a vehicle. 3. An example of an EC separate technical unit type-approval mark is shown in Figure 1. {{IMAGE:Image_0, Caption:Technical diagram of an EC type-approval mark showing the 'e 4' symbol and approval number '00 0046', with dimensional specifications indicating a minimum height 'a' of 3 mm.}} Explanatory note
+Legend
+The EC separate technical unit type-approval was issued by The Netherlands under number 0046. The first two digits '00' indicate that the separate technical unit was approved according to this Regulation. (b) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??). (1) Delete where not applicable. (2) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??). (3) Delete as appropriate.
+Introduction
+COMMISSION REGULATION (EU) No 1008/2010of 9 November 2010concerning type-approval requirements for windscreen wiper and washer systems of certain motor vehicles and implementing Regulation (EC) No 661/2009 of the European Parliament and of the Council concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor
+(Text with EEA relevance)
+(OJ L 292, 10.11.2010, p.2)Amended by:
+
+Official Journal
+ No
+page
+date
+ ►M1
+COMMISSION REGULATION (EU) No 519/2013 of 21 February 2013
+ L 158
+74
+10.6.2013
+ ▼B
+COMMISSION REGULATION (EU) No 1008/2010of 9 November 2010concerning type-approval requirements for windscreen wiper and washer systems of certain motor vehicles and implementing Regulation (EC) No 661/2009 of the European Parliament and of the Council concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor(Text with EEA relevance)
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor (
+1
+), and in particular Article 14(1)(a) thereof,Whereas: (1) Regulation (EC) No 661/2009 is a separate Regulation for the purposes of the type-approval procedure provided for by Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (
+2
+). (2) Regulation (EC) No 661/2009 repeals Council Directive 78/318/EEC of 21 December 1977 on the approximation of the laws of the Member States relating to the wiper and washer systems of motor vehicles (
+3
+). The requirements set out in that Directive should be carried over to this Regulation and, where necessary, amended in order to adapt them to the development of scientific and technical knowledge. (3) The scope of this Regulation should be in line with that of Directive 78/318/EEC and thus limited to vehicles of category M1. (4) Regulation (EC) No 661/2009 lays down fundamental provisions on requirements for the type-approval of motor vehicles with regard to their windscreen wiper and washer systems and the type-approval of windscreen washer systems as separate technical units. Therefore, it is necessary to set out the specific procedures, tests and requirements for such type-approval. (5) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee - Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+0. GENERAL
+ANNEX II
+0. GENERAL
+PART 1
+Information document
+MODEL
+Information document No … relating to the EC type-approval as a separate technical unit of windscreen washer systems.The following information shall be supplied in triplicate and include a list of contents. Any drawings shall be supplied in appropriate scale and in sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, shall show sufficient detail.If the systems, components or separate technical units referred to in this information document have electronic controls, information concerning their performance shall be supplied. 0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.3. Means of identification of type, if marked on the separate technical unit (
+15
+): …
+0.3.1. Location of that marking: …
+0.5. Name and address of manufacturer: …
+0.7. In case of separate technical units, location and method of affixing the EC approval mark: …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+9.7. Windscreen washer
+9.7.1. Detailed technical description (including photographs or drawings): …
+Explanatory notes
+PART 2
+EC type-approval certificate
+MODEL
+Format: A4 (210 × 297 mm)EC TYPE-APPROVAL CERTIFICATEStamp of type-approval authorityCommunication concerning:
+
+| — EC type-approval ( 1 ) — extension of EC type-approval ( 1 ) — refusal of EC type-approval ( 1 ) — withdrawal of EC type-approval ( 1 ) | of a type of windscreen washer system as a separate technical unit |
+|---|---|
+| with regard to Regulation (EU) No 1008/2010, as last amended by Regulation (EU) No …/… (1) | with regard to Regulation (EU) No 1008/2010, as last amended by Regulation (EU) No …/… (1) |
+| EC type-approval number: … | EC type-approval number: … |
+| Reason for extension: … | Reason for extension: … |
+| (1) Delete where not applicable. | (1) Delete where not applicable. |
+
+SECTION I
+0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.3. Means of identification of type, if marked on the separate technical unit (
+16
+): …
+0.3.1. Location of that marking: …
+0.5. Name and address of manufacturer: …
+0.7. Location and method of affixing of the EC approval mark: …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+SECTION II 1. Additional information: see Addendum. 2. Technical service responsible for carrying out the tests: …
+ 3. Date of test report: …
+ 4. Number of test report: …
+ 5. Remarks (if any): see Addendum. 6. Place: …
+ 7. Date: …
+ 8. Signature: …
+Attachments
+:
+Information package
+Test report
+ADDENDUM
+Addendum
+to EC type-approval certificate No …
+ 1. Additional information: 1.1. Brief description of the type of separate technical unit: …
+1.2. Detailed description of the washer system: 1.2.1. Number of nozzles: …
+1.2.2. Number of outlet ports per nozzle: …
+1.2.3. Description of washer line hoses and its mounting to pump and nozzles: …
+1.2.4. Description of washer pump: …
+1.2.5. Fluid storage capacity (litre): …
+ 2. Suitable for hand of drive: left/right (
+17
+)
+ 3. Any part of the system may be situated in the engine compartment: yes/no (17) 
+ 4. Separate technical unit: universal/vehicle specific (17) 
+ 5. Remarks: …
+ 6. List of vehicle types for which the separate technical unit has been approved (if applicable): …
+PART 3
+EC separate technical unit type-approval mark
+ 1. The EC separate technical unit type-approval mark shall consist of: 1.1. A rectangle surrounding the lower-case letter 'e' followed by the distinguishing number of the Member State which has granted the EC separate technical unit type-approval:
+
+| 1 | for Germany |
+|---|---|
+| 2 | for France |
+| 3 | for Italy |
+| 4 | for The Netherlands |
+| 5 | for Sweden |
+| 6 | for Belgium |
+| 7 | for Hungary |
+| 8 | for the Czech Republic |
+| 9 | for Spain |
+| 11 | for the United Kingdom |
+| 12 | for Austria |
+| 13 | for Luxembourg |
+| 17 | for Finland |
+| 18 | for Denmark |
+| 19 | for Romania |
+| 20 | for Poland |
+| 21 | for Portugal |
+| 23 | for Greece |
+| 24 | for Ireland |
+| ►M1 25 | for Croatia ◄ |
+| 26 | for Slovenia |
+| 27 | for Slovakia |
+| 29 | for Estonia |
+| 32 | for Latvia |
+| 34 | for Bulgaria |
+| 36 | for Lithuania |
+| 49 | for Cyprus |
+| 50 | for Malta |
+
+1.2. In the vicinity of the rectangle the 'base approval number' contained in Section 4 of the type-approval number preceded by the two figures indicating the sequence number assigned to this Regulation or latest major technical amendment to this Regulation. The sequence number is '00' at present. 2. The EC separate technical unit type-approval mark shall be affixed to the windscreen washer fluid storage container in such a way as to be indelible as well as clearly and easily legible even if the device is fitted to a vehicle. 3. An example of an EC separate technical unit type-approval mark is shown in Figure 1. Figure 1
+Example of EC separate technical unit type-approval mark
+Explanatory note
+Legend
+The EC separate technical unit type-approval was issued by The Netherlands under number 0046. The first two digits '00' indicate that the separate technical unit was approved according to this Regulation.
+Article 1 - Scope
+This Regulation applies to motor vehicles of category M1, as defined in Annex II to Directive 2007/46/EC, which are fitted with a windscreen, as well as to windscreen washer systems intended for fitment to motor vehicles of category M1.
+Article 2 - Definitions
+For the purposes of this Regulation, the following definitions shall apply:
+
+(1) 'vehicle type with regard to the windscreen wiper and washer system' means vehicles which do not differ in such essential respects as: the characteristics of the wiper and washer system or the shape, size and characteristics of the windscreen and its mounting; (2) 'type of windscreen washer system' means a group of windscreen washer systems which do not differ in such essential respects as the pump performance, materials used, storage capacity, number of nozzles, sizes, wall thicknesses or shape of the washer system; (3) 'engine' means a combustion engine running on either liquid or gaseous fuel; (4) 'windscreen wiper system' means the system consisting of a device for wiping the outer face of the windscreen, together with the accessories and controls necessary for starting and stopping the device; (5) 'wiper field' means the area(s) on the windscreen which is wiped by the wiper blade(s) when the wiper system is operating under normal conditions. (6) 'intermittent operation of the wiper system' means an automatic non-continuous mode of operation of the wiper system, where after each full cycle there is a period during which the wipers are stationary in one specific designated halting position; (7) 'windscreen washer system' means the system consisting of devices for storing, transferring and aiming fluid towards the outer face of the windscreen, together with the controls necessary for starting and stopping the device; (8) 'washer control' means the device by which the washer system is manually activated and deactivated; (9) 'washer pump' means a device for transferring fluid from the washer system storage reservoir to the outer face of the windscreen; (10) 'nozzle' means a device which serves to direct fluid onto the windscreen; (11) 'fully primed system' means a system which has been activated normally for a period of time and where fluid has been transferred through the pump, tubing and has exited the nozzle(s); (12) 'cleaned area' means the previously soiled area which does not have any traces of drops and remaining dirt after it has dried completely; (13) 'vision area A' means test area A as defined in paragraph 2.2. of Annex 18 to UNECE Regulation No 43 (
+4
+); (14) 'vision area B' means reduced test area B as defined in paragraph 2.4. of Annex 18 to UNECE Regulation No 43, without the exclusion of the area defined in paragraph 2.4.1. thereof; (15) 'design torso angle' means the angle measured between a vertical line through the R-point or seating reference point and the torso line in a position which corresponds to the design position of the seat-back as declared by the vehicle manufacturer; (16) 'R-point' or seating reference point means the design point defined by the vehicle manufacturer for each seating position with respect to the three-dimensional reference system; (17) 'three-dimensional reference system' means a reference grid which consists of a vertical longitudinal plane X-Z, a horizontal plane X-Y and a vertical transverse plane Y-Z in accordance with the provisions of Appendix 2 of Annex III to this Regulation; (18) 'primary reference marks' means holes, surfaces, marks or other identification signs on the vehicle body or chassis of which the X, Y and Z coordinates within the three-dimensional reference grid are specified by the vehicle manufacturer; (19) 'vehicle master control switch' means the device by which the vehicle's on-board electronics system is brought from being switched off, as is the case when a vehicle is parked without the driver being present, to normal operation mode;
+Article 5 - EC separate technical unit type-approval mark
+Every separate technical unit conforming to a type in respect of which EC separate technical unit type-approval has been granted pursuant to this Regulation shall bear an EC separate technical unit type-approval mark as set out in Part 3 of Annex II.
+Article 3 - EC type-approval of a vehicle with regard to its windscreen wiper and washer systems
+1.
+
+The manufacturer or his representative shall submit to the type-approval authority the application for EC type-approval of a vehicle with regard to its windscreen wiper and washer systems. 2. The application shall be drawn up in accordance with the model of the information document set out in Part 1 of Annex I. 3. If the relevant requirements set out in Annex III to this Regulation are met, the approval authority shall grant an EC type-approval and issue a type-approval number in accordance with the numbering system set out in Annex VII to Directive 2007/46/EC. A Member State may not assign the same number to another vehicle type. 4. For the purposes of paragraph 3, the type-approval authority shall deliver an EC type-approval certificate established in accordance with the model set out in Part 2 of Annex I.
+ADMINISTRATIVE DOCUMENTS FOR EC TYPE-APPROVAL OF MOTOR VEHICLES WITH REGARD TO THEIR WINDSCREEN WIPER AND WASHER SYSTEMS
+ANNEX I
+Administrative documents for EC type-approval of motor vehicles with regard to their windscreen wiper and washer systems
+PART 1
+Information document
+MODEL
+Information document No … relating to the EC type-approval of a motor vehicle with regard to its windscreen wiper and washer systems. The following information shall be supplied in triplicate and include a list of contents. Any drawings shall be supplied in appropriate scale and in sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, shall show sufficient detail. If the systems, components or separate technical units referred to in this information document have electronic controls, information concerning their performance shall be supplied. 0. GENERAL
+0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.2.1. Commercial name(s) (if available): …
+0.3. Means of identification of type, if marked on the vehicle (b): …
+0.3.1. Location of that marking: …
+0.4. Category of vehicle (c): …
+0.5. Name and address of manufacturer: …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+1. GENERAL CONSTRUCTION CHARACTERISTICS OF THE VEHICLE
+1.1. Photographs and/or drawings of a representative vehicle: …
+3. POWER PLANT (k) 
+3.2. Internal combustion engine
+3.2.1.8. Maximum net power (n): … kW at … min-1 (manufacturer's declared value)
+3.2.5. Electrical system
+3.2.5.1. Rated voltage: … V, positive/negative ground (1) 
+3.2.5.2. Generator
+3.2.5.2.1. Type: …
+3.2.5.2.2. Nominal output: … VA
+3.3. Electric motor
+3.3.1.1. Maximum hourly output: … kW
+3.3.1.2. Operating voltage: … V
+3.3.2. Battery
+3.3.2.3. Capacity: … Ah (Amp-hours)
+3.4. Engine or motor combination
+3.4.1. Hybrid electric vehicle: yes/no (1) 
+3.4.2. Category of hybrid electric vehicle: off-vehicle charging/not off-vehicle charging: (1) 
+3.4.4. Description of the energy storage device: (battery, capacitor, flywheel/generator)
+3.4.4.5. Energy: …
+(for battery: voltage and capacity Ah in 2 h, for capacitor: J, …)
+3.4.4.6. Charger: on board/external/without (1) 
+4. TRANSMISSION (p) 
+4.7. Maximum vehicle design speed (in km/h) (q): …
+9. BODYWORK
+9.2. Materials used and methods of construction: …
+9.4. Field of vision
+9.4.1. Particulars of the primary reference marks in sufficient detail to enable them to be readily identified and the position of each in relation to the others and to the R-point to be verified: …
+9.5. Windscreen and other windows
+9.5.1. Windscreen
+9.5.1.1. Materials used: …
+9.5.1.2. Method of mounting: …
+9.5.1.3. Angle of inclination: …
+9.5.1.4. Type-approval number(s): …
+9.5.1.5. Windscreen accessories and the position in which they are fitted together with a brief description of any electrical/electronic components involved: …
+9.6. Windscreen wiper system
+9.6.1. Detailed technical description (including photographs or drawings): …
+9.7. Windscreen washer system
+9.7.1. Detailed technical description (including photographs or drawings) or, if approved as separate technical unit, type-approval number: …
+9.8. Defrosting and demisting
+9.8.2. Maximum electrical consumption: …kW
+9.10. Interior arrangement
+9.10.3. Seats
+9.10.3.5. Coordinates or drawing of the R-point
+9.10.3.5.1. Driver's seat: …
+9.10.3.6. Design torso angle
+9.10.3.6.1. Driver's seat: …
+Explanatory notes
+PART 2
+EC type-approval certificate
+MODEL
+Format: A4 (210 × 297 mm)
+EC TYPE-APPROVAL CERTIFICATE
+Stamp of type-approval authority
+Communication concerning:
+
+| — EC type-approval ( 2 ) — extension of EC type-approval ( 2 ) — refusal of EC type-approval ( 2 ) — withdrawal of EC type-approval ( 2 ) | of a type of vehicle with regard to its windscreen wiper and washer systems |
+|---|---|
+| with regard to Regulation (EU) No 1008/2010, as last amended by Regulation (EU) No …/… (2) | with regard to Regulation (EU) No 1008/2010, as last amended by Regulation (EU) No …/… (2) |
+| EC type-approval number: … | EC type-approval number: … |
+| Reason for extension: … | Reason for extension: … |
+
+SECTION I
+0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.2.1. Commercial name(s) (if available): …
+0.3. Means of identification of type, if marked on the vehicle (3): …
+0.3.1. Location of that marking: …
+0.4. Category of vehicle (4): …
+0.5. Name and address of manufacturer: …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+SECTION II
+1. Additional information: see Addendum. 2. Technical service responsible for carrying out the tests: …
+3. Date of test report: …
+4. Number of test report: …
+5. Remarks (if any): see Addendum. 6. Place: …
+7. Date: …
+8. Signature: …
+Attachments
+:
+Information package
+Test report
+(b) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??). (c) Classified according to the definitions set out in Directive 2007/46/EC Part A of Annex II. (k) In the case of a vehicle that can run either on petrol, diesel, etc., or also in combination with another fuel, items shall be repeated. In the case of non-conventional engines and systems, particulars equivalent to those referred to here shall be supplied by the manufacturer. (n) Determined in accordance with the requirements of Council Directive 80/1269/EEC (OJ L 375, 31.12.1980, p. 46). (1) Delete where not applicable. (p) The specified particulars are to be given for any proposed variants. (q) With respect to trailers, maximum speed permitted by the manufacturer. (2) Delete where not applicable. (3) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??). (4) As defined in Directive 2007/46/EC, Annex II, Section A.
+Article 7 - Entry into force
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+Article 3 - EC type-approval of a vehicle with regard to its windscreen wiper and washer systems
+1.
+
+The manufacturer or his representative shall submit to the type-approval authority the application for EC type-approval of a vehicle with regard to its windscreen wiper and washer systems.2. The application shall be drawn up in accordance with the model of the information document set out in Part 1 of Annex I.3. If the relevant requirements set out in Annex III to this Regulation are met, the approval authority shall grant an EC type-approval and issue a type-approval number in accordance with the numbering system set out in Annex VII to Directive 2007/46/EC.A Member State may not assign the same number to another vehicle type.4. For the purposes of paragraph 3, the type-approval authority shall deliver an EC type-approval certificate established in accordance with the model set out in Part 2 of Annex I.
+Article 6 - Validity and extension of approvals granted under Directive 78/318/EEC
+National authorities shall permit the sale and entry into service of vehicles and separate technical units type-approved before the date referred to in Article 13(2) of Regulation (EC) No 661/2009, and continue to grant extension of approvals to those vehicles and separate technical units under the terms of Directive 78/318/EEC.
+(1) 'vehicle type with regard to the windscreen wiper and washer system' means vehicles which do not differ in such essential respects as: the characteristics of the wiper and washer system or the shape, size and characteristics of the windscreen and its mounting;
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor (1), and in particular Article 14(1)(a) thereof,
+Whereas:
+
+(1) Regulation (EC) No 661/2009 is a separate Regulation for the purposes of the type-approval procedure provided for by Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (2). (2) Regulation (EC) No 661/2009 repeals Council Directive 78/318/EEC of 21 December 1977 on the approximation of the laws of the Member States relating to the wiper and washer systems of motor vehicles (3). The requirements set out in that Directive should be carried over to this Regulation and, where necessary, amended in order to adapt them to the development of scientific and technical knowledge. (3) The scope of this Regulation should be in line with that of Directive 78/318/EEC and thus limited to vehicles of category M1. (4) Regulation (EC) No 661/2009 lays down fundamental provisions on requirements for the type-approval of motor vehicles with regard to their windscreen wiper and washer systems and the type-approval of windscreen washer systems as separate technical units. Therefore, it is necessary to set out the specific procedures, tests and requirements for such type-approval. (5) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee - Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+COMMISSION REGULATION (EU) No 1008/2010
+of 9 November 2010
+concerning type-approval requirements for windscreen wiper and washer systems of certain motor vehicles and implementing Regulation (EC) No 661/2009 of the European Parliament and of the Council concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor
+Consolidated TEXT: 32010R1008 — EN — 06.07.2022
+Top
+02010R1008 — EN — 06.07.2022 — 002.001
+This text is meant purely as a documentation tool and has no legal effect.
+
+The Union's institutions do not assume any liability for its contents. The authentic versions of the relevant acts, including their preambles, are those published in the Official Journal of the European Union and available in EUR-Lex. Those official texts are directly accessible through the links embedded in this document
+►B
+COMMISSION REGULATION (EU) No 1008/2010
+of 9 November 2010
+concerning type-approval requirements for windscreen wiper and washer systems of certain motor vehicles and implementing Regulation (EC) No 661/2009 of the European Parliament and of the Council concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor
+(Text with EEA relevance)
+(OJ L 292, 10.11.2010, p.2)
+Repealed by: Official Journal
+No
+page
+date
+Regulation (EU) 2019/2144 of the European Parliament and of the Council of 27 November 2019
+L 325
+1
+16.12.2019
+The final consolidated version before repeal is available at: http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02010R1008-20130701
+(1) 'vehicle type with regard to the windscreen wiper and washer system' means vehicles which do not differ in such essential respects as: the characteristics of the wiper and washer system or the shape, size and characteristics of the windscreen and its mounting;
+recital 2
+(2) Regulation (EC) No 661/2009 repeals Council Directive 78/318/EEC of 21 December 1977 on the approximation of the laws of the Member States relating to the wiper and washer systems of motor vehicles (3).
+
+The requirements set out in that Directive should be carried over to this Regulation and, where necessary, amended in order to adapt them to the development of scientific and technical knowledge.
+Article 1 - Scope
+This Regulation applies to motor vehicles of category M1, as defined in Annex II to Directive 2007/46/EC, which are fitted with a windscreen, as well as to windscreen washer systems intended for fitment to motor vehicles of category M1.
+Article 2 - Definitions
+For the purposes of this Regulation, the following definitions shall apply:
+
+(1) 'vehicle type with regard to the windscreen wiper and washer system' means vehicles which do not differ in such essential respects as: the characteristics of the wiper and washer system or the shape, size and characteristics of the windscreen and its mounting; (2) 'type of windscreen washer system' means a group of windscreen washer systems which do not differ in such essential respects as the pump performance, materials used, storage capacity, number of nozzles, sizes, wall thicknesses or shape of the washer system; (3) 'engine' means a combustion engine running on either liquid or gaseous fuel; (4) 'windscreen wiper system' means the system consisting of a device for wiping the outer face of the windscreen, together with the accessories and controls necessary for starting and stopping the device; (5) 'wiper field' means the area(s) on the windscreen which is wiped by the wiper blade(s) when the wiper system is operating under normal conditions. (6) 'intermittent operation of the wiper system' means an automatic non-continuous mode of operation of the wiper system, where after each full cycle there is a period during which the wipers are stationary in one specific designated halting position; (7) 'windscreen washer system' means the system consisting of devices for storing, transferring and aiming fluid towards the outer face of the windscreen, together with the controls necessary for starting and stopping the device; (8) 'washer control' means the device by which the washer system is manually activated and deactivated; (9) 'washer pump' means a device for transferring fluid from the washer system storage reservoir to the outer face of the windscreen; (10) 'nozzle' means a device which serves to direct fluid onto the windscreen; (11) 'fully primed system' means a system which has been activated normally for a period of time and where fluid has been transferred through the pump, tubing and has exited the nozzle(s); (12) 'cleaned area' means the previously soiled area which does not have any traces of drops and remaining dirt after it has dried completely; (13) 'vision area A' means test area A as defined in paragraph 2.2. of Annex 18 to UNECE Regulation No 43 (4); (14) 'vision area B' means reduced test area B as defined in paragraph 2.4. of Annex 18 to UNECE Regulation No 43, without the exclusion of the area defined in paragraph 2.4.1. thereof; (15) 'design torso angle' means the angle measured between a vertical line through the R-point or seating reference point and the torso line in a position which corresponds to the design position of the seat-back as declared by the vehicle manufacturer; (16) 'R-point' or seating reference point means the design point defined by the vehicle manufacturer for each seating position with respect to the three-dimensional reference system; (17) 'three-dimensional reference system' means a reference grid which consists of a vertical longitudinal plane X-Z, a horizontal plane X-Y and a vertical transverse plane Y-Z in accordance with the provisions of Appendix 2 of Annex III to this Regulation; (18) 'primary reference marks' means holes, surfaces, marks or other identification signs on the vehicle body or chassis of which the X, Y and Z coordinates within the three-dimensional reference grid are specified by the vehicle manufacturer; (19) 'vehicle master control switch' means the device by which the vehicle's on-board electronics system is brought from being switched off, as is the case when a vehicle is parked without the driver being present, to normal operation mode;
+Article 5 - EC separate technical unit type-approval mark
+Every separate technical unit conforming to a type in respect of which EC separate technical unit type-approval has been granted pursuant to this Regulation shall bear an EC separate technical unit type-approval mark as set out in Part 3 of Annex II.
+Article 7 - Entry into force
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+ANNEX I
+Administrative documents for EC type-approval of motor vehicles with regard to their windscreen wiper and washer systems
+PART 1
+Information document
+MODEL
+Information document No … relating to the EC type-approval of a motor vehicle with regard to its windscreen wiper and washer systems.The following information shall be supplied in triplicate and include a list of contents. Any drawings shall be supplied in appropriate scale and in sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, shall show sufficient detail.If the systems, components or separate technical units referred to in this information document have electronic controls, information concerning their performance shall be supplied.0. GENERAL
+0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.2.1. Commercial name(s) (if available): …
+0.3. Means of identification of type, if marked on the vehicle (
+5
+): …
+0.3.1. Location of that marking: …
+0.4. Category of vehicle (
+6
+): …
+0.5. Name and address of manufacturer: …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+1. GENERAL CONSTRUCTION CHARACTERISTICS OF THE VEHICLE
+1.1. Photographs and/or drawings of a representative vehicle: …
+3. POWER PLANT (
+7
+)
+3.2. Internal combustion engine
+3.2.1.8. Maximum net power (
+8
+): … kW at … min-1 (manufacturer's declared value)
+3.2.5. Electrical system
+3.2.5.1. Rated voltage: … V, positive/negative ground (
+9
+)
+3.2.5.2. Generator
+3.2.5.2.1. Type: …
+3.2.5.2.2. Nominal output: … VA
+3.3. Electric motor
+3.3.1.1. Maximum hourly output: … kW
+3.3.1.2. Operating voltage: … V
+3.3.2. Battery
+3.3.2.3. Capacity: … Ah (Amp-hours)
+3.4. Engine or motor combination
+3.4.1. Hybrid electric vehicle: yes/no (9) 
+3.4.2. Category of hybrid electric vehicle: off-vehicle charging/not off-vehicle charging: (9) 
+3.4.4. Description of the energy storage device: (battery, capacitor, flywheel/generator)
+3.4.4.5. Energy: …
+(for battery: voltage and capacity Ah in 2 h, for capacitor: J, …)
+3.4.4.6. Charger: on board/external/without (9) 
+4. TRANSMISSION (
+10
+)
+4.7. Maximum vehicle design speed (in km/h) (
+11
+): …
+9. BODYWORK
+9.2. Materials used and methods of construction: …
+9.4. Field of vision
+9.4.1. Particulars of the primary reference marks in sufficient detail to enable them to be readily identified and the position of each in relation to the others and to the R-point to be verified: …
+9.5. Windscreen and other windows9.5.1. Windscreen
+9.5.1.1. Materials used: …
+9.5.1.2. Method of mounting: …
+9.5.1.3. Angle of inclination: …
+9.5.1.4. Type-approval number(s): …
+9.5.1.5. Windscreen accessories and the position in which they are fitted together with a brief description of any electrical/electronic components involved: …
+9.6. Windscreen wiper system
+9.6.1. Detailed technical description (including photographs or drawings): …
+9.7. Windscreen washer system
+9.7.1. Detailed technical description (including photographs or drawings) or, if approved as separate technical unit, type-approval number: …
+9.8. Defrosting and demisting
+9.8.2. Maximum electrical consumption: …kW
+9.10. Interior arrangement9.10.3. Seats
+9.10.3.5. Coordinates or drawing of the R-point
+9.10.3.5.1. Driver's seat: …
+9.10.3.6. Design torso angle
+9.10.3.6.1. Driver's seat: …
+Explanatory notes
+PART 2
+EC type-approval certificate
+MODEL
+Format: A4 (210 × 297 mm)EC TYPE-APPROVAL CERTIFICATEStamp of type-approval authorityCommunication concerning: — EC type-approval (1) — extension of EC type-approval (1) — refusal of EC type-approval (1) — withdrawal of EC type-approval (1) {{IMAGE:Image_0}}
+of a type of vehicle with regard to its windscreen wiper and washer systems
+with regard to Regulation (EU) No 1008/2010, as last amended by Regulation (EU) No …/… (1) EC type-approval number: …
+Reason for extension: …
+(1) Delete where not applicable. SECTION I
+0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.2.1. Commercial name(s) (if available): …
+0.3. Means of identification of type, if marked on the vehicle (
+12
+): …
+0.3.1. Location of that marking: …
+0.4. Category of vehicle (
+13
+): …
+0.5. Name and address of manufacturer: …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+SECTION II 1. Additional information: see Addendum. 2. Technical service responsible for carrying out the tests: …
+ 3. Date of test report: …
+ 4. Number of test report: …
+ 5. Remarks (if any): see Addendum. 6. Place: …
+ 7. Date: …
+ 8. Signature: …
+Attachments
+:
+Information package
+Test report
+Addendumto EC type-approval certificate No … 1. Additional information: 1.1. Brief description of the vehicle type as regards its structure, dimensions, lines and constituent materials: …
+1.2. Description of the method of operation of the wiper and washing systems: …
+1.3. Detailed description of the wiper system (i.e. number of blades, blade lengths, wiper arm dimensions, etc.): …
+1.4. Detailed description of the washer system (i.e. number of nozzles, number of outlet ports per nozzle, washer pump, fluid storage container, washer line hoses and their mounting to pump and nozzles, etc.) …
+1.5. Fluid storage capacity (litre): …
+1.6. Maximum vehicle design speed (km/h): …
+ 2. Hand of drive: left/right (
+14
+)
+ 3. Left hand drive and mirror-opposite right hand drive systems: yes/no (14) 
+ 4. Aerodynamic spoiler fitted onto the wiper arm/wiper blade (14) at driver side/centre/passenger side/ … (14) 
+ 5. Remarks: …
+ANNEX II
+Administrative documents for EC type-approval of windscreen washer systems as separate technical units
+PART 1
+Information document
+MODEL
+Information document No … relating to the EC type-approval as a separate technical unit of windscreen washer systems.The following information shall be supplied in triplicate and include a list of contents. Any drawings shall be supplied in appropriate scale and in sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, shall show sufficient detail.If the systems, components or separate technical units referred to in this information document have electronic controls, information concerning their performance shall be supplied.0. GENERAL
+0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.3. Means of identification of type, if marked on the separate technical unit (
+15
+): …
+0.3.1. Location of that marking: …
+0.5. Name and address of manufacturer: …
+0.7. In case of separate technical units, location and method of affixing the EC approval mark: …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+9.7. Windscreen washer
+9.7.1. Detailed technical description (including photographs or drawings): …
+Explanatory notes
+PART 2
+EC type-approval certificate
+MODEL
+Format: A4 (210 × 297 mm)EC TYPE-APPROVAL CERTIFICATEStamp of type-approval authorityCommunication concerning: — EC type-approval (1) — extension of EC type-approval (1) — refusal of EC type-approval (1) — withdrawal of EC type-approval (1) of a type of windscreen washer system as a separate technical unit
+with regard to Regulation (EU) No 1008/2010, as last amended by Regulation (EU) No …/… (1) EC type-approval number: …
+Reason for extension: …
+(1) Delete where not applicable.
+Article 4 - EC separate technical unit type-approval of windscreen washer systems
+1.
+
+The manufacturer or his representative shall submit to the type-approval authority the application for EC separate technical unit type-approval for a type of windscreen washer system.The application shall be drawn up in accordance with the model of the information document set out in Part 1 of Annex II.2. If the relevant requirements set out in Annex III to this Regulation are met, the approval authority shall grant an EC separate technical unit type-approval and issue a type-approval number in accordance with the numbering system set out in Annex VII to Directive 2007/46/EC.A Member State may not assign the same number to another type of separate technical unit.3. For the purposes of paragraph 2, the type-approval authority shall deliver an EC type-approval certificate established in accordance with the model set out in Part 2 of Annex II.
+9. BODYWORK
+ANNEX I
+9. BODYWORK
+PART 1
+Information document
+MODEL
+Information document No … relating to the EC type-approval of a motor vehicle with regard to its windscreen wiper and washer systems.The following information shall be supplied in triplicate and include a list of contents. Any drawings shall be supplied in appropriate scale and in sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, shall show sufficient detail.If the systems, components or separate technical units referred to in this information document have electronic controls, information concerning their performance shall be supplied. 0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.2.1. Commercial name(s) (if available): …
+0.3. Means of identification of type, if marked on the vehicle (
+5
+): …
+0.3.1. Location of that marking: …
+0.4. Category of vehicle (
+6
+): …
+0.5. Name and address of manufacturer: …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+1.1. Photographs and/or drawings of a representative vehicle: …
+3.2.1.8. Maximum net power (
+8
+): … kW at … min-1 (manufacturer's declared value)
+3.2.5.1. Rated voltage: … V, positive/negative ground (
+9
+)
+3.2.5.2. Generator
+3.2.5.2.1. Type: …
+3.2.5.2.2. Nominal output: … VA
+3.3.1.1. Maximum hourly output: … kW
+3.3.1.2. Operating voltage: … V
+3.3.2.3. Capacity: … Ah (Amp-hours)
+3.4.1. Hybrid electric vehicle: yes/no (9) 
+3.4.2. Category of hybrid electric vehicle: off-vehicle charging/not off-vehicle charging: (9) 
+3.4.4. Description of the energy storage device: (battery, capacitor, flywheel/generator)
+3.4.4.5. Energy: …
+(for battery: voltage and capacity Ah in 2 h, for capacitor: J, …)
+3.4.4.6. Charger: on board/external/without (9) 
+4.7. Maximum vehicle design speed (in km/h) (
+11
+): …
+9.2. Materials used and methods of construction: …
+9.4. Field of vision
+9.4.1. Particulars of the primary reference marks in sufficient detail to enable them to be readily identified and the position of each in relation to the others and to the R-point to be verified: …
+9.5. Windscreen and other windows9.5.1. Windscreen
+9.5.1.1. Materials used: …
+9.5.1.2. Method of mounting: …
+9.5.1.3. Angle of inclination: …
+9.5.1.4. Type-approval number(s): …
+9.5.1.5. Windscreen accessories and the position in which they are fitted together with a brief description of any electrical/electronic components involved: …
+9.6. Windscreen wiper system
+9.6.1. Detailed technical description (including photographs or drawings): …
+9.7. Windscreen washer system
+9.7.1. Detailed technical description (including photographs or drawings) or, if approved as separate technical unit, type-approval number: …
+9.8. Defrosting and demisting
+9.8.2. Maximum electrical consumption: …kW
+9.10. Interior arrangement9.10.3. Seats
+9.10.3.5. Coordinates or drawing of the R-point
+9.10.3.5.1. Driver's seat: …
+9.10.3.6. Design torso angle
+9.10.3.6.1. Driver's seat: …
+Explanatory notes
+PART 2
+EC type-approval certificate
+MODEL
+Format: A4 (210 × 297 mm)EC TYPE-APPROVAL CERTIFICATEStamp of type-approval authorityCommunication concerning:
+
+| — EC type-approval ( 1 ) — extension of EC type-approval ( 1 ) — refusal of EC type-approval ( 1 ) — withdrawal of EC type-approval ( 1 ) | of a type of vehicle with regard to its windscreen wiper and washer systems |
+|---|---|
+| with regard to Regulation (EU) No 1008/2010, as last amended by Regulation (EU) No …/… (1) | with regard to Regulation (EU) No 1008/2010, as last amended by Regulation (EU) No …/… (1) |
+| EC type-approval number: … | EC type-approval number: … |
+| Reason for extension: … | Reason for extension: … |
+| (1) Delete where not applicable. | (1) Delete where not applicable. |
+
+SECTION I
+0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.2.1. Commercial name(s) (if available): …
+0.3. Means of identification of type, if marked on the vehicle (
+12
+): …
+0.3.1. Location of that marking: …
+0.4. Category of vehicle (
+13
+): …
+0.5. Name and address of manufacturer: …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+SECTION II 1. Additional information: see Addendum. 2. Technical service responsible for carrying out the tests: …
+ 3. Date of test report: …
+ 4. Number of test report: …
+ 5. Remarks (if any): see Addendum. 6. Place: …
+ 7. Date: …
+ 8. Signature: …
+Attachments
+:
+Information package
+Test report
+2.2. WINDSCREEN WASHER SYSTEM TEST CONDITIONS. ANNEX III
+2.2. Windscreen washer system test conditions. 1.1.1. Every vehicle shall be equipped with a windscreen wiper system which is able to function when the vehicle master control switch has been activated, without any action by the driver other than switching the operating control, needed for starting and stopping the windscreen wiper system, to the on position. 1.1.1.1. The windscreen wiper system shall consist of one or more wiper arms which shall have wiper blades that are easily replaceable. 1.1.2. The windscreen wiper field shall cover at least 98 % of vision area A, as determined in accordance with Appendix 3 to Annex III.
+1.1.3. The windscreen wiper field shall cover at least 80 % of vision area B, as determined in accordance with Appendix 3 to Annex III.
+1.1.4. The windscreen wiper field shall meet the requirements of paragraph 1.1.2. and 1.1.3. when the system is operating at a sweep frequency corresponding to paragraph 1.1.5.1. and shall be tested under the conditions as set out in paragraph 2.1.10. to 2.1.10.3. of this Annex. 1.1.5. The windscreen wiper system shall have at least two sweep frequency settings: 1.1.5.1. One frequency of not less than 10 and not more than 55 cycles per minute. 1.1.5.2. One frequency of not less than 45 complete cycles per minute. 1.1.5.3. The difference between the highest and a lower sweep frequency setting shall be at least 15 cycles per minute. 1.1.5.4. Intermittent operation of the windscreen wiper system may be used to comply with the requirements of paragraph 1.1.5.1. to 1.1.5.3. of this Annex. 1.1.6. The frequencies referred to in paragraph 1.1.5. to 1.1.5.3. shall be tested under the conditions as set out in paragraph 2.1.1. to 2.1.6 and 2.1.8. of this Annex. 1.1.7. When the windscreen wiper system is stopped as a result of switching the operating control to the off position, the wiper arm(s) and blade(s) shall return to their position of rest. 1.1.8. The windscreen wiper system shall be capable of withstanding stalling for at least 15 seconds. The use of automatic circuit protection devices is allowed, provided that for possible resetting no action is required other than operation of the windscreen wiper operating control. 1.1.9. The capability to withstand stalling of the windscreen wiper system referred to in paragraph 1.1.8. shall be tested under the conditions as set out in paragraph 2.1.7. of this Annex. 1.1.10. If the position of rest of the windscreen wiper arm(s) or blade(s) is not outside of vision area B, as determined in accordance with Appendix 3 to Annex III, it shall be possible to manually displace the wiper arm(s) in such a manner that the wiper blade(s) can be lifted from its position on the windscreen to allow that the windscreen is manually cleaned. 1.1.11. The windscreen wiper system shall be capable of operating for two minutes on a dry windscreen in an ambient temperature of - 18 °C, without degradation of performance. 1.1.12. The performance of the windscreen wiper system at - 18 °C shall be tested under the conditions as set out in paragraph 2.1.11. of this Annex. 1.1.13. The windscreen wiper system shall continue to meet the requirements of paragraph 1.1.2. of this Annex without any degradation of efficiency, when it is operating at maximum frequency and when the vehicle is subjected to a relative air speed equal to 80 % of the vehicle's maximum design speed or 160 km/h, whichever is lower. Vision area A of the windshield shall be prepared in accordance with paragraph 2.1.8. and 2.1.9. of this Annex. The aerodynamic effects associated with the size and shape of the windscreen, wiper arm(s) and wiper blade(s) shall be verified under these conditions, also taking into account paragraph 2.1.9.1. During the test, the wiper blade(s) shall remain in contact with the windscreen and complete lift-off shall not be permitted. The wiper blade(s) shall stay in full contact with the windscreen in the area as established in paragraph 1.1.2. for each complete cycle and any partial lift-off during upwards as well as downwards stroke shall not be permitted. 1.2.1. Every vehicle shall be fitted with a windscreen washer system which is able to function when the vehicle master control switch has been activated, and which is capable of withstanding the loads and pressures resulting when the nozzles are plugged and the system is actuated in accordance with the procedure set out in paragraph 2.2.1.1. to 2.2.1.1.2. of this Annex. 1.2.2. The performance of the windscreen washer system shall not be adversely affected by exposure to the temperature cycles in accordance with paragraph 2.2.1. to 2.2.5. of this Annex. 1.2.3. The windscreen washer system shall have the ability to spray fluid onto the target area of the windscreen, without any trace of leakage, disconnection of any tubing and malfunctioning of any nozzle, at normal conditions when subjected to ambient temperatures between - 18 °C and 80 °C. In addition, when the nozzles are blocked, the system shall also show no signs of leakage and disconnection of any tubing. 1.2.4. The windscreen washer system shall be capable of delivering sufficient fluid to clear at least 60 % of vision area A, as determined in accordance with Appendix 3 to Annex III, under the conditions as set out in paragraph 2.2.6. to 2.2.6.4. of this Annex. 1.2.5. The windscreen washer system shall be capable of being manually activated by means of the washer control. In addition, activation and deactivation of the system may also be coordinated and combined with any other vehicle system. 1.2.6. The capacity of the reservoir containing the liquid shall not be less than 1,0 litre. 2.1.1. The tests described below shall be carried out under the conditions as stated in paragraph 2.1.2. to 2.1.5. unless specified otherwise. 2.1.2. The ambient temperature shall be between 5 °C and 40 °C.
+2.1.3. The windscreen shall be kept constantly wet. 2.1.4. In the case of an electric windscreen wiper system, the following additional conditions shall be met. 2.1.4.1. All batteries shall be fully charged at the start of the test. 2.1.4.2. The engine, if fitted, shall run at a speed not exceeding 30 % of the speed corresponding to its maximum power output. However, if this is proven not to be practicable due to specific engine control strategies, for instance in the case of electric hybrid vehicles, a realistic scenario taking into account the engine speeds, periodical absence or complete absence of a running engine during normal driving conditions, shall be determined. If the windscreen wiper system can meet the requirements without a running engine, the engine does not have to run at all. 2.1.4.3. The passing beam headlamps shall be switched on. 2.1.4.4. All fitted heating, ventilation, defrosting and demisting systems (regardless of the location in the vehicle) shall be operating at maximum electrical consumption. 2.1.5. Compressed air or vacuum operated windscreen wiper systems shall be able to function continuously at the prescribed sweep frequencies whatever the engine speed and engine load or minimum and maximum battery charge levels specified by the manufacturer for normal operation. 2.1.6. The sweep frequencies of the windscreen wiper system shall comply with the requirements of paragraph 1.1.5. to 1.1.5.3. of this Annex after a preliminary operating time of 20 minutes on a wet windshield. 2.1.7. The requirements of paragraph 1.1.8. of this Annex shall be satisfied when the wiper arms are restrained in a position corresponding to half a cycle, for a period of 15 seconds with the windscreen wiper control set at the maximum sweep frequency. 2.1.8. The outer face of the windscreen shall be thoroughly degreased by means of methylated spirit or an equivalent degreasing agent. After drying, a solution of ammonia of not less than 3 % and not more than 10 % shall be applied.
+Article 6 - Validity and extension of approvals granted under Directive 78/318/EEC
+National authorities shall permit the sale and entry into service of vehicles and separate technical units type-approved before the date referred to in Article 13(2) of Regulation (EC) No 661/2009, and continue to grant extension of approvals to those vehicles and separate technical units under the terms of Directive 78/318/EEC.
+recital 5
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee - Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+recital 4
+(4) Regulation (EC) No 661/2009 lays down fundamental provisions on requirements for the type-approval of motor vehicles with regard to their windscreen wiper and washer systems and the type-approval of windscreen washer systems as separate technical units.
+
+Therefore, it is necessary to set out the specific procedures, tests and requirements for such type-approval.
+REQUIREMENTS FOR WINDSCREEN WIPER AND WASHER SYSTEMS
+ANNEX III
+Requirements for windscreen wiper and washer systems
+1.
+
+SPECIFIC REQUIREMENTS
+1.1. Windscreen wiper system. 1.1.1. Every vehicle shall be equipped with a windscreen wiper system which is able to function when the vehicle master control switch has been activated, without any action by the driver other than switching the operating control, needed for starting and stopping the windscreen wiper system, to the on position. 1.1.1.1. The windscreen wiper system shall consist of one or more wiper arms which shall have wiper blades that are easily replaceable. 1.1.2. The windscreen wiper field shall cover at least 98 % of vision area A, as determined in accordance with Appendix 3 to Annex III.
+1.1.3. The windscreen wiper field shall cover at least 80 % of vision area B, as determined in accordance with Appendix 3 to Annex III.
+1.1.4. The windscreen wiper field shall meet the requirements of paragraph 1.1.2. and 1.1.3. when the system is operating at a sweep frequency corresponding to paragraph 1.1.5.1. and shall be tested under the conditions as set out in paragraph 2.1.10. to 2.1.10.3. of this Annex. 1.1.5. The windscreen wiper system shall have at least two sweep frequency settings: 1.1.5.1. One frequency of not less than 10 and not more than 55 cycles per minute. 1.1.5.2. One frequency of not less than 45 complete cycles per minute. 1.1.5.3. The difference between the highest and a lower sweep frequency setting shall be at least 15 cycles per minute. 1.1.5.4. Intermittent operation of the windscreen wiper system may be used to comply with the requirements of paragraph 1.1.5.1. to 1.1.5.3. of this Annex. 1.1.6. The frequencies referred to in paragraph 1.1.5. to 1.1.5.3. shall be tested under the conditions as set out in paragraph 2.1.1. to 2.1.6 and 2.1.8. of this Annex. 1.1.7. When the windscreen wiper system is stopped as a result of switching the operating control to the off position, the wiper arm(s) and blade(s) shall return to their position of rest. 1.1.8. The windscreen wiper system shall be capable of withstanding stalling for at least 15 seconds. The use of automatic circuit protection devices is allowed, provided that for possible resetting no action is required other than operation of the windscreen wiper operating control. 1.1.9. The capability to withstand stalling of the windscreen wiper system referred to in paragraph 1.1.8. shall be tested under the conditions as set out in paragraph 2.1.7. of this Annex. 1.1.10. If the position of rest of the windscreen wiper arm(s) or blade(s) is not outside of vision area B, as determined in accordance with Appendix 3 to Annex III, it shall be possible to manually displace the wiper arm(s) in such a manner that the wiper blade(s) can be lifted from its position on the windscreen to allow that the windscreen is manually cleaned. 1.1.11. The windscreen wiper system shall be capable of operating for two minutes on a dry windscreen in an ambient temperature of - 18 °C, without degradation of performance. 1.1.12. The performance of the windscreen wiper system at - 18 °C shall be tested under the conditions as set out in paragraph 2.1.11. of this Annex. 1.1.13. The windscreen wiper system shall continue to meet the requirements of paragraph 1.1.2. of this Annex without any degradation of efficiency, when it is operating at maximum frequency and when the vehicle is subjected to a relative air speed equal to 80 % of the vehicle's maximum design speed or 160 km/h, whichever is lower. Vision area A of the windshield shall be prepared in accordance with paragraph 2.1.8. and 2.1.9. of this Annex. The aerodynamic effects associated with the size and shape of the windscreen, wiper arm(s) and wiper blade(s) shall be verified under these conditions, also taking into account paragraph 2.1.9.1. During the test, the wiper blade(s) shall remain in contact with the windscreen and complete lift-off shall not be permitted. The wiper blade(s) shall stay in full contact with the windscreen in the area as established in paragraph 1.1.2. for each complete cycle and any partial lift-off during upwards as well as downwards stroke shall not be permitted. 1.2. Windscreen washer system. 1.2.1. Every vehicle shall be fitted with a windscreen washer system which is able to function when the vehicle master control switch has been activated, and which is capable of withstanding the loads and pressures resulting when the nozzles are plugged and the system is actuated in accordance with the procedure set out in paragraph 2.2.1.1. to 2.2.1.1.2. of this Annex. 1.2.2. The performance of the windscreen washer system shall not be adversely affected by exposure to the temperature cycles in accordance with paragraph 2.2.1. to 2.2.5. of this Annex. 1.2.3. The windscreen washer system shall have the ability to spray fluid onto the target area of the windscreen, without any trace of leakage, disconnection of any tubing and malfunctioning of any nozzle, at normal conditions when subjected to ambient temperatures between - 18 °C and 80 °C. In addition, when the nozzles are blocked, the system shall also show no signs of leakage and disconnection of any tubing. 1.2.4. The windscreen washer system shall be capable of delivering sufficient fluid to clear at least 60 % of vision area A, as determined in accordance with Appendix 3 to Annex III, under the conditions as set out in paragraph 2.2.6. to 2.2.6.4. of this Annex. 1.2.5. The windscreen washer system shall be capable of being manually activated by means of the washer control. In addition, activation and deactivation of the system may also be coordinated and combined with any other vehicle system. 1.2.6. The capacity of the reservoir containing the liquid shall not be less than 1,0 litre. 2. TEST PROCEDURE
+2.1. Windscreen wiper system test conditions. 2.1.1. The tests described below shall be carried out under the conditions as stated in paragraph 2.1.2. to 2.1.5. unless specified otherwise. 2.1.2. The ambient temperature shall be between 5 °C and 40 °C.
+2.1.3. The windscreen shall be kept constantly wet. 2.1.4. In the case of an electric windscreen wiper system, the following additional conditions shall be met. 2.1.4.1. All batteries shall be fully charged at the start of the test. 2.1.4.2. The engine, if fitted, shall run at a speed not exceeding 30 % of the speed corresponding to its maximum power output. However, if this is proven not to be practicable due to specific engine control strategies, for instance in the case of electric hybrid vehicles, a realistic scenario taking into account the engine speeds, periodical absence or complete absence of a running engine during normal driving conditions, shall be determined. If the windscreen wiper system can meet the requirements without a running engine, the engine does not have to run at all. 2.1.4.3. The passing beam headlamps shall be switched on. 2.1.4.4. All fitted heating, ventilation, defrosting and demisting systems (regardless of the location in the vehicle) shall be operating at maximum electrical consumption. 2.1.5. Compressed air or vacuum operated windscreen wiper systems shall be able to function continuously at the prescribed sweep frequencies whatever the engine speed and engine load or minimum and maximum battery charge levels specified by the manufacturer for normal operation. 2.1.6. The sweep frequencies of the windscreen wiper system shall comply with the requirements of paragraph 1.1.5. to 1.1.5.3. of this Annex after a preliminary operating time of 20 minutes on a wet windshield. 2.1.7. The requirements of paragraph 1.1.8. of this Annex shall be satisfied when the wiper arms are restrained in a position corresponding to half a cycle, for a period of 15 seconds with the windscreen wiper control set at the maximum sweep frequency. 2.1.8. The outer face of the windscreen shall be thoroughly degreased by means of methylated spirit or an equivalent degreasing agent.
+recital 1
+(1) Regulation (EC) No 661/2009 is a separate Regulation for the purposes of the type-approval procedure provided for by Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (2).
+Article 4 - EC separate technical unit type-approval of windscreen washer systems
+1.
+
+The manufacturer or his representative shall submit to the type-approval authority the application for EC separate technical unit type-approval for a type of windscreen washer system. The application shall be drawn up in accordance with the model of the information document set out in Part 1 of Annex II. 2. If the relevant requirements set out in Annex III to this Regulation are met, the approval authority shall grant an EC separate technical unit type-approval and issue a type-approval number in accordance with the numbering system set out in Annex VII to Directive 2007/46/EC. A Member State may not assign the same number to another type of separate technical unit. 3. For the purposes of paragraph 2, the type-approval authority shall deliver an EC type-approval certificate established in accordance with the model set out in Part 2 of Annex II.
+(2) 'type of windscreen washer system' means a group of windscreen washer systems which do not differ in such essential respects as the pump performance, materials used, storage capacity, number of nozzles, sizes, wall thicknesses or shape of the washer system;
+The outer face of the windscreen shall be thoroughly degreased by means of methylated spirit or an equivalent degreasing agent. After drying, a solution of ammonia of not less than 3 % and not more than 10 % shall be applied. The surface shall be allowed to dry again and shall then be wiped with a dry cotton cloth. 2.1.9. A coating of the test mixture, in accordance with the specifications as laid down in Appendix 4 to Annex III, shall be applied uniformly to the outer surface of the windscreen and allowed to dry. 2.1.9.1. Where the outer face of the windscreen has been prepared in accordance with paragraph 2.1.8. and 2.1.9., the windscreen washer system may be used during the applicable tests. 2.1.10. The wiper field of the windscreen wiper system, as prescribed in paragraph 1.1.4. of this Annex, shall be determined as follows. 2.1.10.1. The outer face of the windscreen shall be treated in accordance with paragraph 2.1.8. and 2.1.9.
+2.1.10.2. In order to verify that the requirements of paragraph 1.1.2. and 1.1.3. of this Annex are met, the windscreen wiper system shall be activated, taking into account paragraph 2.1.9.1., and a trace of the wiper field shall be made and compared to a trace of the vision areas A and B, as determined in accordance with Appendix 3 to Annex III.
+2.1.10.3. The technical service may agree to an alternative test procedure (eg. virtual testing) to verify that the requirements of paragraph 1.1.2. and 1.1.3. of this Annex are met. 2.1.11. The requirements of paragraph 1.1.11. shall be met at an ambient temperature of - 18 ± 3 °C at which the vehicle has been stored for a minimum of four hours. The vehicle shall be prepared to operate under the conditions as set out in paragraph 2.1.4. to 2.1.5. During the test, the wiper system shall be operating normally, but at the maximum sweep frequency. The wiper field does not have to be observed. 2.2. Windscreen washer system test conditions. 2.2.1. Test No 1. The windscreen washer system shall be filled with water, fully primed, and placed in an ambient temperature of 20 ± 2 °C for a minimum of four hours. The water shall be stabilized at this temperature. 2.2.1.1. All nozzle outlets shall be plugged and the windscreen washer control shall be actuated six times in one minute, each time for at least three seconds. 2.2.1.1.1. If the windscreen washer system is powered by the muscular energy of the driver, the force applied shall be 11,0 to 13,5 daN in case of a hand operated pump. The force applied shall be 40,0 to 44,5 daN in case of a foot operated pump. 2.2.1.1.2. In case of electric pumps, the test voltage shall not be less than the rated voltage and not more than the rated voltage plus 2 Volt. 2.2.1.2. The performance of the windscreen washer system at the end of the test shall be in compliance with paragraph 1.2.3. of this Annex. 2.2.2. Test No 2. The windscreen washer system shall be filled with water, fully primed, and placed in an ambient temperature of - 18 ± 3 °C for a minimum of four hours. The water does not have to be stabilized at this temperature. 2.2.2.1. The windscreen washer control shall be actuated six times in one minute, each time for at least three seconds, in accordance with paragraph 2.2.1.1.1. and 2.2.1.1.2. The system shall then be placed in an ambient temperature of 20 ± 2 °C until the ice has completely thawed. The water does not have to be stabilized at this temperature. The performance of the windscreen washer system shall then be verified by actuating the system in accordance with paragraph 2.2.1.1. to 2.2.1.2.
+2.2.3. Test No 3. Low temperature cycle exposure test. 2.2.3.1. The windscreen washer system shall be filled with water, fully primed, and placed in an ambient temperature of - 18 ± 3 °C for a minimum of four hours so that the total mass of the water in the washer system is frozen. The system shall then be placed in an ambient temperature of 20 ± 2 °C until the ice has completely thawed, but in any case no longer than four hours. This freeze/thaw cycle shall be repeated six times. Finally, when the windscreen washer system is placed in the ambient temperature of 20 ± 2 °C and the ice has completely thawed, although the water does not have to be stabilized at this temperature, the performance of the windscreen washer system shall be verified by actuating the system in accordance with paragraph 2.2.1.1. to 2.2.1.2.
+2.2.3.2. The windscreen washer system shall be filled and fully primed with a low-temperature windscreen washer fluid consisting of a 50 % solution of methanol, or alternatively isopropyl alcohol, in water with a hardness not exceeding 205 mg/l (Ca). The system shall be placed in an ambient temperature of - 18 ± 3 °C for a minimum of four hours. The fluid does not have to be stabilized at this temperature. The performance of the windscreen washer system shall then be verified by actuating the system in accordance with paragraph 2.2.1.1. to 2.2.1.2.
+2.2.4. Test No 4. High temperature cycle exposure test. 2.2.4.1. If any part of the windscreen washer system is situated in the engine compartment, the system shall be filled with water, fully primed, and placed in an ambient temperature of 80 ± 3 °C for a minimum of eight hours. The water does not have to be stabilized at this temperature. The performance of the windscreen washer system shall then be verified by actuating the system in accordance with paragraph 2.2.1.1. to 2.2.1.2.
+2.2.4.2. If no part of the windscreen washer system is situated in the engine compartment, the system shall be filled with water, fully primed, and placed in an ambient temperature of 80 ± 3 °C for a minimum of eight hours. The water does not have to be stabilized at this temperature. Subsequently, the system is placed in an ambient temperature of 20 ± 2 °C. When the temperature of the water has stabilized, the performance of the windscreen washer system shall be verified by actuating the system in accordance with paragraph 2.2.1.1. to 2.2.1.2. After this, the system shall be filled with water, fully primed, and placed in an ambient temperature of 60 ± 3 °C for a minimum of eight hours. The water does not have to be stabilized at this temperature. The performance of the windscreen washer system shall then be verified by actuating the system in accordance with paragraph 2.2.1.1. to 2.2.1.2. Alternatively, the manufacturer may request that the windscreen washer system is tested under the conditions as set out in paragraph 2.2.4.1.
+2.2.5. The windscreen washer tests as set out in paragraph 2.2.1. to 2.2.4.2. shall be carried out in sequence on the same windscreen washer system. The system may be either tested as installed on the vehicle type for which EC type-approval is sought, or separately. In case EC type-approval is sought for a separate technical unit, the system shall be tested separately. 2.2.6. Test No 5. Windscreen washer system capability test
+2.2.6.1. The windscreen washer system shall be filled with water and fully primed. With the vehicle stationary and no significant wind effect, the nozzle(s) may, if possible, be adjusted as to being pointed towards the target area on the outer face of the windscreen. 2.2.6.2. The outer face of the windscreen shall be treated as prescribed in paragraph 2.1.8 and 2.1.9. of this Annex. 2.2.6.3. The windscreen washer system shall be actuated according to the manufacturer's instructions, taking into account paragraph 2.2.1.1.1 and 2.2.1.1.2. of this Annex. The total duration of the test shall not exceed 10 complete cycles of automatic operation of the windscreen wiper system operating at the maximum sweep frequency.
+After drying, a solution of ammonia of not less than 3 % and not more than 10 % shall be applied. The surface shall be allowed to dry again and shall then be wiped with a dry cotton cloth. 2.1.9. A coating of the test mixture, in accordance with the specifications as laid down in Appendix 4 to Annex III, shall be applied uniformly to the outer surface of the windscreen and allowed to dry. 2.1.9.1. Where the outer face of the windscreen has been prepared in accordance with paragraph 2.1.8. and 2.1.9., the windscreen washer system may be used during the applicable tests. 2.1.10. The wiper field of the windscreen wiper system, as prescribed in paragraph 1.1.4. of this Annex, shall be determined as follows. 2.1.10.1. The outer face of the windscreen shall be treated in accordance with paragraph 2.1.8. and 2.1.9. 2.1.10.2. In order to verify that the requirements of paragraph 1.1.2. and 1.1.3. of this Annex are met, the windscreen wiper system shall be activated, taking into account paragraph 2.1.9.1., and a trace of the wiper field shall be made and compared to a trace of the vision areas A and B, as determined in accordance with Appendix 3 to Annex III.
+2.1.10.3. The technical service may agree to an alternative test procedure (eg. virtual testing) to verify that the requirements of paragraph 1.1.2. and 1.1.3. of this Annex are met. 2.1.11. The requirements of paragraph 1.1.11. shall be met at an ambient temperature of - 18 ± 3 °C at which the vehicle has been stored for a minimum of four hours. The vehicle shall be prepared to operate under the conditions as set out in paragraph 2.1.4. to 2.1.5. During the test, the wiper system shall be operating normally, but at the maximum sweep frequency. The wiper field does not have to be observed. 2.2.1. Test No 1. The windscreen washer system shall be filled with water, fully primed, and placed in an ambient temperature of 20 ± 2 °C for a minimum of four hours. The water shall be stabilized at this temperature. 2.2.1.1. All nozzle outlets shall be plugged and the windscreen washer control shall be actuated six times in one minute, each time for at least three seconds. 2.2.1.1.1. If the windscreen washer system is powered by the muscular energy of the driver, the force applied shall be 11,0 to 13,5 daN in case of a hand operated pump. The force applied shall be 40,0 to 44,5 daN in case of a foot operated pump. 2.2.1.1.2. In case of electric pumps, the test voltage shall not be less than the rated voltage and not more than the rated voltage plus 2 Volt. 2.2.1.2. The performance of the windscreen washer system at the end of the test shall be in compliance with paragraph 1.2.3. of this Annex. 2.2.2. Test No 2. The windscreen washer system shall be filled with water, fully primed, and placed in an ambient temperature of - 18 ± 3 °C for a minimum of four hours. The water does not have to be stabilized at this temperature. 2.2.2.1. The windscreen washer control shall be actuated six times in one minute, each time for at least three seconds, in accordance with paragraph 2.2.1.1.1. and 2.2.1.1.2. The system shall then be placed in an ambient temperature of 20 ± 2 °C until the ice has completely thawed. The water does not have to be stabilized at this temperature. The performance of the windscreen washer system shall then be verified by actuating the system in accordance with paragraph 2.2.1.1. to 2.2.1.2. 
+2.2.3. Test No 3. Low temperature cycle exposure test. 2.2.3.1. The windscreen washer system shall be filled with water, fully primed, and placed in an ambient temperature of - 18 ± 3 °C for a minimum of four hours so that the total mass of the water in the washer system is frozen. The system shall then be placed in an ambient temperature of 20 ± 2 °C until the ice has completely thawed, but in any case no longer than four hours. This freeze/thaw cycle shall be repeated six times. Finally, when the windscreen washer system is placed in the ambient temperature of 20 ± 2 °C and the ice has completely thawed, although the water does not have to be stabilized at this temperature, the performance of the windscreen washer system shall be verified by actuating the system in accordance with paragraph 2.2.1.1. to 2.2.1.2. 2.2.3.2. The windscreen washer system shall be filled and fully primed with a low-temperature windscreen washer fluid consisting of a 50 % solution of methanol, or alternatively isopropyl alcohol, in water with a hardness not exceeding 205 mg/l (Ca). The system shall be placed in an ambient temperature of - 18 ± 3 °C for a minimum of four hours. The fluid does not have to be stabilized at this temperature. The performance of the windscreen washer system shall then be verified by actuating the system in accordance with paragraph 2.2.1.1. to 2.2.1.2. 
+2.2.4. Test No 4. High temperature cycle exposure test. 2.2.4.1. If any part of the windscreen washer system is situated in the engine compartment, the system shall be filled with water, fully primed, and placed in an ambient temperature of 80 ± 3 °C for a minimum of eight hours. The water does not have to be stabilized at this temperature. The performance of the windscreen washer system shall then be verified by actuating the system in accordance with paragraph 2.2.1.1. to 2.2.1.2. 2.2.4.2. If no part of the windscreen washer system is situated in the engine compartment, the system shall be filled with water, fully primed, and placed in an ambient temperature of 80 ± 3 °C for a minimum of eight hours. The water does not have to be stabilized at this temperature. Subsequently, the system is placed in an ambient temperature of 20 ± 2 °C. When the temperature of the water has stabilized, the performance of the windscreen washer system shall be verified by actuating the system in accordance with paragraph 2.2.1.1. to 2.2.1.2. After this, the system shall be filled with water, fully primed, and placed in an ambient temperature of 60 ± 3 °C for a minimum of eight hours. The water does not have to be stabilized at this temperature. The performance of the windscreen washer system shall then be verified by actuating the system in accordance with paragraph 2.2.1.1. to 2.2.1.2. Alternatively, the manufacturer may request that the windscreen washer system is tested under the conditions as set out in paragraph 2.2.4.1. 
+2.2.5. The windscreen washer tests as set out in paragraph 2.2.1. to 2.2.4.2. shall be carried out in sequence on the same windscreen washer system. The system may be either tested as installed on the vehicle type for which EC type-approval is sought, or separately. In case EC type-approval is sought for a separate technical unit, the system shall be tested separately. 2.2.6. Test No 5. Windscreen washer system capability test
+2.2.6.1. The windscreen washer system shall be filled with water and fully primed. With the vehicle stationary and no significant wind effect, the nozzle(s) may, if possible, be adjusted as to being pointed towards the target area on the outer face of the windscreen. 2.2.6.2. The outer face of the windscreen shall be treated as prescribed in paragraph 2.1.8 and 2.1.9. of this Annex. 2.2.6.3. The windscreen washer system shall be actuated according to the manufacturer's instructions, taking into account paragraph 2.2.1.1.1 and 2.2.1.1.2. of this Annex. The total duration of the test shall not exceed 10 complete cycles of automatic operation of the windscreen wiper system operating at the maximum sweep frequency. 2.2.6.4. In order to verify that the requirements of paragraph 1.2.4. of this Annex are met, a trace of the relevant cleaned area shall be made and compared to a trace of the vision area A, as determined in accordance with Appendix 3 to Annex III. If it is clearly obvious to the observer that the requirements are met, it is not required that the traces are prepared. 2.2.7.
+(2) 'type of windscreen washer system' means a group of windscreen washer systems which do not differ in such essential respects as the pump performance, materials used, storage capacity, number of nozzles, sizes, wall thicknesses or shape of the washer system;
+— EC type-approval (1) — extension of EC type-approval (1) — refusal of EC type-approval (1) — withdrawal of EC type-approval (1) of a type of windscreen washer system as a separate technical unit
+with regard to Regulation (EU) No 1008/2010, as last amended by Regulation (EU) No …/… (1) EC type-approval number: …
+Reason for extension: …
+(1) Delete where not applicable.
+
+SECTION I
+0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.3. Means of identification of type, if marked on the separate technical unit (
+16
+): …
+0.3.1. Location of that marking: …
+0.5. Name and address of manufacturer: …
+0.7. Location and method of affixing of the EC approval mark: …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+SECTION II 1. Additional information: see Addendum. 2. Technical service responsible for carrying out the tests: …
+ 3. Date of test report: …
+ 4. Number of test report: …
+ 5. Remarks (if any): see Addendum. 6. Place: …
+ 7. Date: …
+ 8. Signature: …
+Attachments
+:
+Information package
+Test report
+Addendum
+to EC type-approval certificate No …
+ 1. Additional information: 1.1. Brief description of the type of separate technical unit: …
+1.2. Detailed description of the washer system: 1.2.1. Number of nozzles: …
+1.2.2. Number of outlet ports per nozzle: …
+1.2.3. Description of washer line hoses and its mounting to pump and nozzles: …
+1.2.4. Description of washer pump: …
+1.2.5. Fluid storage capacity (litre): …
+ 2. Suitable for hand of drive: left/right (
+17
+)
+ 3. Any part of the system may be situated in the engine compartment: yes/no (17) 
+ 4. Separate technical unit: universal/vehicle specific (17) 
+ 5. Remarks: …
+ 6. List of vehicle types for which the separate technical unit has been approved (if applicable): …
+PART 3
+EC separate technical unit type-approval mark
+ 1. The EC separate technical unit type-approval mark shall consist of: 1.1. A rectangle surrounding the lower-case letter 'e' followed by the distinguishing number of the Member State which has granted the EC separate technical unit type-approval: 1
+for Germany
+2
+for France
+3
+for Italy
+4
+for The Netherlands
+5
+for Sweden
+6
+for Belgium
+7
+for Hungary
+8
+for the Czech Republic
+9
+for Spain
+11
+for the United Kingdom
+12
+for Austria
+13
+for Luxembourg
+17
+for Finland
+18
+for Denmark
+19
+for Romania
+20
+for Poland
+21
+for Portugal
+23
+for Greece
+24
+for Ireland
+►M1
+ 25
+for Croatia ◄ 
+26
+for Slovenia
+27
+for Slovakia
+29
+for Estonia
+32
+for Latvia
+34
+for Bulgaria
+36
+for Lithuania
+49
+for Cyprus
+50
+for Malta
+1.2. In the vicinity of the rectangle the 'base approval number' contained in Section 4 of the type-approval number preceded by the two figures indicating the sequence number assigned to this Regulation or latest major technical amendment to this Regulation. The sequence number is '00' at present. 2. The EC separate technical unit type-approval mark shall be affixed to the windscreen washer fluid storage container in such a way as to be indelible as well as clearly and easily legible even if the device is fitted to a vehicle. 3. An example of an EC separate technical unit type-approval mark is shown in Figure 1. Figure 1
+Example of EC separate technical unit type-approval mark
+Explanatory note
+Legend
+The EC separate technical unit type-approval was issued by The Netherlands under number 0046. The first two digits '00' indicate that the separate technical unit was approved according to this Regulation. ANNEX III
+Requirements for windscreen wiper and washer systems
+1. SPECIFIC REQUIREMENTS
+1.1. Windscreen wiper system. 1.1.1. Every vehicle shall be equipped with a windscreen wiper system which is able to function when the vehicle master control switch has been activated, without any action by the driver other than switching the operating control, needed for starting and stopping the windscreen wiper system, to the on position. 1.1.1.1. The windscreen wiper system shall consist of one or more wiper arms which shall have wiper blades that are easily replaceable. 1.1.2. The windscreen wiper field shall cover at least 98 % of vision area A, as determined in accordance with Appendix 3 to Annex III.
+1.1.3. The windscreen wiper field shall cover at least 80 % of vision area B, as determined in accordance with Appendix 3 to Annex III.
+1.1.4. The windscreen wiper field shall meet the requirements of paragraph 1.1.2. and 1.1.3. when the system is operating at a sweep frequency corresponding to paragraph 1.1.5.1. and shall be tested under the conditions as set out in paragraph 2.1.10. to 2.1.10.3. of this Annex. 1.1.5. The windscreen wiper system shall have at least two sweep frequency settings: 1.1.5.1. One frequency of not less than 10 and not more than 55 cycles per minute. 1.1.5.2. One frequency of not less than 45 complete cycles per minute. 1.1.5.3. The difference between the highest and a lower sweep frequency setting shall be at least 15 cycles per minute. 1.1.5.4. Intermittent operation of the windscreen wiper system may be used to comply with the requirements of paragraph 1.1.5.1. to 1.1.5.3. of this Annex. 1.1.6. The frequencies referred to in paragraph 1.1.5. to 1.1.5.3. shall be tested under the conditions as set out in paragraph 2.1.1. to 2.1.6 and 2.1.8. of this Annex. 1.1.7. When the windscreen wiper system is stopped as a result of switching the operating control to the off position, the wiper arm(s) and blade(s) shall return to their position of rest. 1.1.8. The windscreen wiper system shall be capable of withstanding stalling for at least 15 seconds. The use of automatic circuit protection devices is allowed, provided that for possible resetting no action is required other than operation of the windscreen wiper operating control. 1.1.9. The capability to withstand stalling of the windscreen wiper system referred to in paragraph 1.1.8. shall be tested under the conditions as set out in paragraph 2.1.7. of this Annex. 1.1.10. If the position of rest of the windscreen wiper arm(s) or blade(s) is not outside of vision area B, as determined in accordance with Appendix 3 to Annex III, it shall be possible to manually displace the wiper arm(s) in such a manner that the wiper blade(s) can be lifted from its position on the windscreen to allow that the windscreen is manually cleaned. 1.1.11. The windscreen wiper system shall be capable of operating for two minutes on a dry windscreen in an ambient temperature of - 18 °C, without degradation of performance. 1.1.12. The performance of the windscreen wiper system at - 18 °C shall be tested under the conditions as set out in paragraph 2.1.11. of this Annex. 1.1.13. The windscreen wiper system shall continue to meet the requirements of paragraph 1.1.2. of this Annex without any degradation of efficiency, when it is operating at maximum frequency and when the vehicle is subjected to a relative air speed equal to 80 % of the vehicle's maximum design speed or 160 km/h, whichever is lower. Vision area A of the windshield shall be prepared in accordance with paragraph 2.1.8. and 2.1.9. of this Annex. The aerodynamic effects associated with the size and shape of the windscreen, wiper arm(s) and wiper blade(s) shall be verified under these conditions, also taking into account paragraph 2.1.9.1. During the test, the wiper blade(s) shall remain in contact with the windscreen and complete lift-off shall not be permitted. The wiper blade(s) shall stay in full contact with the windscreen in the area as established in paragraph 1.1.2. for each complete cycle and any partial lift-off during upwards as well as downwards stroke shall not be permitted. 1.2. Windscreen washer system.
+(3) 'engine' means a combustion engine running on either liquid or gaseous fuel;
+The total duration of the test shall not exceed 10 complete cycles of automatic operation of the windscreen wiper system operating at the maximum sweep frequency. 2.2.6.4. In order to verify that the requirements of paragraph 1.2.4. of this Annex are met, a trace of the relevant cleaned area shall be made and compared to a trace of the vision area A, as determined in accordance with Appendix 3 to Annex III. If it is clearly obvious to the observer that the requirements are met, it is not required that the traces are prepared. 2.2.7. The test as set out in paragraph 2.2.6. to 2.2.6.4. shall always be performed on the vehicle type for which EC type-approval is sought, even in the case when an approved separate technical unit is installed on the vehicle. Appendix 1
+Procedure for verification of the R-point or seating reference point
+Appendix 1
+Procedure for verification of the R-point or seating reference point
+The R-point or seating reference point is established in accordance with the provisions laid down in Annex 3 to UNECE Regulation No 17 (1). (1) OJ L 373, 27.12.2006, p. 1. Appendix 2
+Procedure for determining primary reference marks in the three-dimensional reference system
+Appendix 2
+Procedure for determining primary reference marks in the three-dimensional reference system
+The dimensional relationships between primary reference marks on drawings and their position on the actual vehicle are established in accordance with the provisions laid down in Annex 4 to UNECE Regulation No 125 (1). (1) OJ L 200, 31.7.2010, p. 38. Appendix 3
+Procedure for determining vision areas on windscreens of vehicles
+Appendix 3
+Procedure for determining vision areas on windscreens of vehicles
+The vision areas A and B are established in accordance with the provisions laid down in Annex 18 to UNECE Regulation No 43. Appendix 4
+Specifications of the test mixture for testing the windscreen wiper and washer systems
+Appendix 4
+Specifications of the test mixture for testing the windscreen wiper and washer systems
+1. The test mixture referred to in paragraph 2.1.9. of Annex III shall consist of the following: 1.1. Water, with a hardness of less than 205 mg/l (Ca): 92,5 % by volume. 1.2. Aqueous saturated salt (sodium chloride), solution: 5,0 % by volume. 1.3. Dust, in accordance with the specifications of paragraph 1.3.1. to 1.3.2.6. below: 2,5 % by volume. 1.3.1. Specifications of the test dust analysis
+1.3.1.1. 68 ± 1 % SiO2 by mass
+1.3.1.2. 4 ± 1 % Fe2O3 by mass
+1.3.1.3. 16 ± 1 % Al2O3 by mass
+1.3.1.4. 3 ± 1 % CaO by mass
+1.3.1.5. 1,0 ± 0,5 % MgO by mass
+1.3.1.6. 4 ± 1 % Alkalis by mass
+1.3.1.7. 2,5 ± 0,5 % Ignition loss by mass
+1.3.2. Specifications of the particle-size distribution in course-grade dust
+1.3.2.1. 12 ± 2 % of 0 to 5 μm particle-size
+1.3.2.2. 12 ± 3 % of 5 to 10 μm particle-size
+1.3.2.3. 14 ± 3 % of 10 to 20 μm particle-size
+1.3.2.4. 23 ± 3 % of 20 to 40 μm particle-size
+1.3.2.5. 30 ± 3 % of 40 to 80 μm particle-size
+1.3.2.6. 9 ± 3 % of 80 to 200 μm particle-size
+(3) 'engine' means a combustion engine running on either liquid or gaseous fuel;
+2.2.7. The test as set out in paragraph 2.2.6. to 2.2.6.4. shall always be performed on the vehicle type for which EC type-approval is sought, even in the case when an approved separate technical unit is installed on the vehicle. Appendix 1
+Procedure for verification of the R-point or seating reference point
+The R-point or seating reference point is established in accordance with the provisions laid down in Annex 3 to UNECE Regulation No 17 (
+18
+). Appendix 2
+Procedure for determining primary reference marks in the three-dimensional reference system
+The dimensional relationships between primary reference marks on drawings and their position on the actual vehicle are established in accordance with the provisions laid down in Annex 4 to UNECE Regulation No 125 (
+19
+). Appendix 3
+Procedure for determining vision areas on windscreens of vehicles
+The vision areas A and B are established in accordance with the provisions laid down in Annex 18 to UNECE Regulation No 43. Appendix 4
+Specifications of the test mixture for testing the windscreen wiper and washer systems
+ 1. The test mixture referred to in paragraph 2.1.9. of Annex III shall consist of the following: 1.1. Water, with a hardness of less than 205 mg/l (Ca): 92,5 % by volume. 1.2. Aqueous saturated salt (sodium chloride), solution: 5,0 % by volume. 1.3. Dust, in accordance with the specifications of paragraph 1.3.1. to 1.3.2.6. below: 2,5 % by volume. 1.3.1. Specifications of the test dust analysis
+1.3.1.1. 68 ± 1 % SiO2 by mass
+1.3.1.2. 4 ± 1 % Fe2O3 by mass
+1.3.1.3. 16 ± 1 % Al2O3 by mass
+1.3.1.4. 3 ± 1 % CaO by mass
+1.3.1.5. 1,0 ± 0,5 % MgO by mass
+1.3.1.6. 4 ± 1 % Alkalis by mass
+1.3.1.7. 2,5 ± 0,5 % Ignition loss by mass
+1.3.2. Specifications of the particle-size distribution in course-grade dust
+1.3.2.1. 12 ± 2 % of 0 to 5 μm particle-size
+1.3.2.2. 12 ± 3 % of 5 to 10 μm particle-size
+1.3.2.3. 14 ± 3 % of 10 to 20 μm particle-size
+1.3.2.4. 23 ± 3 % of 20 to 40 μm particle-size
+1.3.2.5. 30 ± 3 % of 40 to 80 μm particle-size
+1.3.2.6. 9 ± 3 % of 80 to 200 μm particle-size
+(
+1
+) OJ L 200, 31.7.2009, p. 1.(
+2
+) OJ L 263, 9.10.2007, p. 1.(
+3
+) OJ L 81, 28.3.1978, p. 49.(
+4
+) OJ L 230, 31.8.2010, p. 119.(
+5
+) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??).(
+6
+) Classified according to the definitions set out in Directive 2007/46/EC Part A of Annex II.(
+7
+) In the case of a vehicle that can run either on petrol, diesel, etc., or also in combination with another fuel, items shall be repeated. In the case of non-conventional engines and systems, particulars equivalent to those referred to here shall be supplied by the manufacturer.(
+8
+) Determined in accordance with the requirements of Council Directive 80/1269/EEC (OJ L 375, 31.12.1980, p. 46).(
+9
+) Delete where not applicable.(
+10
+) The specified particulars are to be given for any proposed variants.(
+11
+) With respect to trailers, maximum speed permitted by the manufacturer.(
+12
+) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??).(
+13
+) As defined in Directive 2007/46/EC, Annex II, Section A.(
+14
+) Delete as appropriate.(
+15
+) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??).(
+16
+) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??).(
+17
+) Delete as appropriate.(
+18
+) OJ L 373, 27.12.2006, p. 1.(
+19
+) OJ L 200, 31.7.2010, p. 38.
+1.2. Windscreen washer system. 1.2.1. Every vehicle shall be fitted with a windscreen washer system which is able to function when the vehicle master control switch has been activated, and which is capable of withstanding the loads and pressures resulting when the nozzles are plugged and the system is actuated in accordance with the procedure set out in paragraph 2.2.1.1. to 2.2.1.1.2. of this Annex. 1.2.2. The performance of the windscreen washer system shall not be adversely affected by exposure to the temperature cycles in accordance with paragraph 2.2.1. to 2.2.5. of this Annex. 1.2.3. The windscreen washer system shall have the ability to spray fluid onto the target area of the windscreen, without any trace of leakage, disconnection of any tubing and malfunctioning of any nozzle, at normal conditions when subjected to ambient temperatures between - 18 °C and 80 °C. In addition, when the nozzles are blocked, the system shall also show no signs of leakage and disconnection of any tubing. 1.2.4. The windscreen washer system shall be capable of delivering sufficient fluid to clear at least 60 % of vision area A, as determined in accordance with Appendix 3 to Annex III, under the conditions as set out in paragraph 2.2.6. to 2.2.6.4. of this Annex. 1.2.5. The windscreen washer system shall be capable of being manually activated by means of the washer control. In addition, activation and deactivation of the system may also be coordinated and combined with any other vehicle system. 1.2.6. The capacity of the reservoir containing the liquid shall not be less than 1,0 litre. 2. TEST PROCEDURE
+2.1. Windscreen wiper system test conditions. 2.1.1. The tests described below shall be carried out under the conditions as stated in paragraph 2.1.2. to 2.1.5. unless specified otherwise. 2.1.2. The ambient temperature shall be between 5 °C and 40 °C.
+2.1.3. The windscreen shall be kept constantly wet. 2.1.4. In the case of an electric windscreen wiper system, the following additional conditions shall be met. 2.1.4.1. All batteries shall be fully charged at the start of the test. 2.1.4.2. The engine, if fitted, shall run at a speed not exceeding 30 % of the speed corresponding to its maximum power output. However, if this is proven not to be practicable due to specific engine control strategies, for instance in the case of electric hybrid vehicles, a realistic scenario taking into account the engine speeds, periodical absence or complete absence of a running engine during normal driving conditions, shall be determined. If the windscreen wiper system can meet the requirements without a running engine, the engine does not have to run at all. 2.1.4.3. The passing beam headlamps shall be switched on. 2.1.4.4. All fitted heating, ventilation, defrosting and demisting systems (regardless of the location in the vehicle) shall be operating at maximum electrical consumption. 2.1.5. Compressed air or vacuum operated windscreen wiper systems shall be able to function continuously at the prescribed sweep frequencies whatever the engine speed and engine load or minimum and maximum battery charge levels specified by the manufacturer for normal operation. 2.1.6. The sweep frequencies of the windscreen wiper system shall comply with the requirements of paragraph 1.1.5. to 1.1.5.3. of this Annex after a preliminary operating time of 20 minutes on a wet windshield. 2.1.7. The requirements of paragraph 1.1.8. of this Annex shall be satisfied when the wiper arms are restrained in a position corresponding to half a cycle, for a period of 15 seconds with the windscreen wiper control set at the maximum sweep frequency. 2.1.8. The outer face of the windscreen shall be thoroughly degreased by means of methylated spirit or an equivalent degreasing agent. After drying, a solution of ammonia of not less than 3 % and not more than 10 % shall be applied. The surface shall be allowed to dry again and shall then be wiped with a dry cotton cloth. 2.1.9. A coating of the test mixture, in accordance with the specifications as laid down in Appendix 4 to Annex III, shall be applied uniformly to the outer surface of the windscreen and allowed to dry. 2.1.9.1. Where the outer face of the windscreen has been prepared in accordance with paragraph 2.1.8. and 2.1.9., the windscreen washer system may be used during the applicable tests. 2.1.10. The wiper field of the windscreen wiper system, as prescribed in paragraph 1.1.4. of this Annex, shall be determined as follows. 2.1.10.1. The outer face of the windscreen shall be treated in accordance with paragraph 2.1.8. and 2.1.9. 2.1.10.2. In order to verify that the requirements of paragraph 1.1.2. and 1.1.3. of this Annex are met, the windscreen wiper system shall be activated, taking into account paragraph 2.1.9.1., and a trace of the wiper field shall be made and compared to a trace of the vision areas A and B, as determined in accordance with Appendix 3 to Annex III.
+2.1.10.3. The technical service may agree to an alternative test procedure (eg. virtual testing) to verify that the requirements of paragraph 1.1.2. and 1.1.3. of this Annex are met. 2.1.11. The requirements of paragraph 1.1.11. shall be met at an ambient temperature of - 18 ± 3 °C at which the vehicle has been stored for a minimum of four hours. The vehicle shall be prepared to operate under the conditions as set out in paragraph 2.1.4. to 2.1.5. During the test, the wiper system shall be operating normally, but at the maximum sweep frequency. The wiper field does not have to be observed. 2.2. Windscreen washer system test conditions. 2.2.1. Test No 1. The windscreen washer system shall be filled with water, fully primed, and placed in an ambient temperature of 20 ± 2 °C for a minimum of four hours. The water shall be stabilized at this temperature. 2.2.1.1. All nozzle outlets shall be plugged and the windscreen washer control shall be actuated six times in one minute, each time for at least three seconds. 2.2.1.1.1. If the windscreen washer system is powered by the muscular energy of the driver, the force applied shall be 11,0 to 13,5 daN in case of a hand operated pump. The force applied shall be 40,0 to 44,5 daN in case of a foot operated pump. 2.2.1.1.2. In case of electric pumps, the test voltage shall not be less than the rated voltage and not more than the rated voltage plus 2 Volt. 2.2.1.2. The performance of the windscreen washer system at the end of the test shall be in compliance with paragraph 1.2.3. of this Annex. 2.2.2. Test No 2. The windscreen washer system shall be filled with water, fully primed, and placed in an ambient temperature of - 18 ± 3 °C for a minimum of four hours. The water does not have to be stabilized at this temperature. 2.2.2.1. The windscreen washer control shall be actuated six times in one minute, each time for at least three seconds, in accordance with paragraph 2.2.1.1.1. and 2.2.1.1.2. The system shall then be placed in an ambient temperature of 20 ± 2 °C until the ice has completely thawed. The water does not have to be stabilized at this temperature. The performance of the windscreen washer system shall then be verified by actuating the system in accordance with paragraph 2.2.1.1. to 2.2.1.2. 
+2.2.3. Test No 3. Low temperature cycle exposure test. 2.2.3.1. The windscreen washer system shall be filled with water, fully primed, and placed in an ambient temperature of - 18 ± 3 °C for a minimum of four hours so that the total mass of the water in the washer system is frozen. The system shall then be placed in an ambient temperature of 20 ± 2 °C until the ice has completely thawed, but in any case no longer than four hours. This freeze/thaw cycle shall be repeated six times.
+(4) 'windscreen wiper system' means the system consisting of a device for wiping the outer face of the windscreen, together with the accessories and controls necessary for starting and stopping the device;
+(4) 'windscreen wiper system' means the system consisting of a device for wiping the outer face of the windscreen, together with the accessories and controls necessary for starting and stopping the device;
+This freeze/thaw cycle shall be repeated six times. Finally, when the windscreen washer system is placed in the ambient temperature of 20 ± 2 °C and the ice has completely thawed, although the water does not have to be stabilized at this temperature, the performance of the windscreen washer system shall be verified by actuating the system in accordance with paragraph 2.2.1.1. to 2.2.1.2. 2.2.3.2. The windscreen washer system shall be filled and fully primed with a low-temperature windscreen washer fluid consisting of a 50 % solution of methanol, or alternatively isopropyl alcohol, in water with a hardness not exceeding 205 mg/l (Ca). The system shall be placed in an ambient temperature of - 18 ± 3 °C for a minimum of four hours. The fluid does not have to be stabilized at this temperature. The performance of the windscreen washer system shall then be verified by actuating the system in accordance with paragraph 2.2.1.1. to 2.2.1.2. 
+2.2.4. Test No 4. High temperature cycle exposure test. 2.2.4.1. If any part of the windscreen washer system is situated in the engine compartment, the system shall be filled with water, fully primed, and placed in an ambient temperature of 80 ± 3 °C for a minimum of eight hours. The water does not have to be stabilized at this temperature. The performance of the windscreen washer system shall then be verified by actuating the system in accordance with paragraph 2.2.1.1. to 2.2.1.2. 2.2.4.2. If no part of the windscreen washer system is situated in the engine compartment, the system shall be filled with water, fully primed, and placed in an ambient temperature of 80 ± 3 °C for a minimum of eight hours. The water does not have to be stabilized at this temperature. Subsequently, the system is placed in an ambient temperature of 20 ± 2 °C. When the temperature of the water has stabilized, the performance of the windscreen washer system shall be verified by actuating the system in accordance with paragraph 2.2.1.1. to 2.2.1.2. After this, the system shall be filled with water, fully primed, and placed in an ambient temperature of 60 ± 3 °C for a minimum of eight hours. The water does not have to be stabilized at this temperature. The performance of the windscreen washer system shall then be verified by actuating the system in accordance with paragraph 2.2.1.1. to 2.2.1.2. Alternatively, the manufacturer may request that the windscreen washer system is tested under the conditions as set out in paragraph 2.2.4.1. 
+2.2.5. The windscreen washer tests as set out in paragraph 2.2.1. to 2.2.4.2. shall be carried out in sequence on the same windscreen washer system. The system may be either tested as installed on the vehicle type for which EC type-approval is sought, or separately. In case EC type-approval is sought for a separate technical unit, the system shall be tested separately. 2.2.6. Test No 5. Windscreen washer system capability test
+2.2.6.1. The windscreen washer system shall be filled with water and fully primed. With the vehicle stationary and no significant wind effect, the nozzle(s) may, if possible, be adjusted as to being pointed towards the target area on the outer face of the windscreen. 2.2.6.2. The outer face of the windscreen shall be treated as prescribed in paragraph 2.1.8 and 2.1.9. of this Annex. 2.2.6.3. The windscreen washer system shall be actuated according to the manufacturer's instructions, taking into account paragraph 2.2.1.1.1 and 2.2.1.1.2. of this Annex. The total duration of the test shall not exceed 10 complete cycles of automatic operation of the windscreen wiper system operating at the maximum sweep frequency. 2.2.6.4. In order to verify that the requirements of paragraph 1.2.4. of this Annex are met, a trace of the relevant cleaned area shall be made and compared to a trace of the vision area A, as determined in accordance with Appendix 3 to Annex III. If it is clearly obvious to the observer that the requirements are met, it is not required that the traces are prepared. 2.2.7. The test as set out in paragraph 2.2.6. to 2.2.6.4. shall always be performed on the vehicle type for which EC type-approval is sought, even in the case when an approved separate technical unit is installed on the vehicle. Appendix 1
+Procedure for verification of the R-point or seating reference point
+The R-point or seating reference point is established in accordance with the provisions laid down in Annex 3 to UNECE Regulation No 17 (
+18
+). Appendix 2
+Procedure for determining primary reference marks in the three-dimensional reference system
+The dimensional relationships between primary reference marks on drawings and their position on the actual vehicle are established in accordance with the provisions laid down in Annex 4 to UNECE Regulation No 125 (
+19
+). Appendix 3
+Procedure for determining vision areas on windscreens of vehicles
+The vision areas A and B are established in accordance with the provisions laid down in Annex 18 to UNECE Regulation No 43. Appendix 4
+Specifications of the test mixture for testing the windscreen wiper and washer systems
+ 1. The test mixture referred to in paragraph 2.1.9. of Annex III shall consist of the following: 1.1. Water, with a hardness of less than 205 mg/l (Ca): 92,5 % by volume. 1.2. Aqueous saturated salt (sodium chloride), solution: 5,0 % by volume. 1.3. Dust, in accordance with the specifications of paragraph 1.3.1. to 1.3.2.6. below: 2,5 % by volume. 1.3.1. Specifications of the test dust analysis
+1.3.1.1. 68 ± 1 % SiO2 by mass
+1.3.1.2. 4 ± 1 % Fe2O3 by mass
+1.3.1.3. 16 ± 1 % Al2O3 by mass
+1.3.1.4. 3 ± 1 % CaO by mass
+1.3.1.5. 1,0 ± 0,5 % MgO by mass
+1.3.1.6. 4 ± 1 % Alkalis by mass
+1.3.1.7. 2,5 ± 0,5 % Ignition loss by mass
+1.3.2. Specifications of the particle-size distribution in course-grade dust
+1.3.2.1. 12 ± 2 % of 0 to 5 μm particle-size
+1.3.2.2. 12 ± 3 % of 5 to 10 μm particle-size
+1.3.2.3. 14 ± 3 % of 10 to 20 μm particle-size
+1.3.2.4. 23 ± 3 % of 20 to 40 μm particle-size
+1.3.2.5. 30 ± 3 % of 40 to 80 μm particle-size
+1.3.2.6. 9 ± 3 % of 80 to 200 μm particle-size
+(
+1
+) OJ L 200, 31.7.2009, p. 1.(
+2
+) OJ L 263, 9.10.2007, p. 1.(
+3
+) OJ L 81, 28.3.1978, p. 49.(
+4
+) OJ L 230, 31.8.2010, p. 119.(
+5
+) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??).(
+6
+) Classified according to the definitions set out in Directive 2007/46/EC Part A of Annex II.(
+7
+) In the case of a vehicle that can run either on petrol, diesel, etc., or also in combination with another fuel, items shall be repeated.
+(5) 'wiper field' means the area(s) on the windscreen which is wiped by the wiper blade(s) when the wiper system is operating under normal conditions.
+1.3.1. Specifications of the test dust analysis
+1.3.1.1. 68 ± 1 % SiO2 by mass
+1.3.1.2. 4 ± 1 % Fe2O3 by mass
+1.3.1.3. 16 ± 1 % Al2O3 by mass
+1.3.1.4. 3 ± 1 % CaO by mass
+1.3.1.5. 1,0 ± 0,5 % MgO by mass
+1.3.1.6. 4 ± 1 % Alkalis by mass
+1.3.1.7. 2,5 ± 0,5 % Ignition loss by mass
+1.3.2. Specifications of the particle-size distribution in course-grade dust
+1.3.2.1. 12 ± 2 % of 0 to 5 μm particle-size
+1.3.2.2. 12 ± 3 % of 5 to 10 μm particle-size
+1.3.2.3. 14 ± 3 % of 10 to 20 μm particle-size
+1.3.2.4. 23 ± 3 % of 20 to 40 μm particle-size
+1.3.2.5. 30 ± 3 % of 40 to 80 μm particle-size
+1.3.2.6. 9 ± 3 % of 80 to 200 μm particle-size
+(
+1
+) OJ L 200, 31.7.2009, p. 1.(
+2
+) OJ L 263, 9.10.2007, p. 1.(
+3
+) OJ L 81, 28.3.1978, p. 49.(
+4
+) OJ L 230, 31.8.2010, p. 119.(
+5
+) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??).(
+6
+) Classified according to the definitions set out in Directive 2007/46/EC Part A of Annex II.(
+7
+) In the case of a vehicle that can run either on petrol, diesel, etc., or also in combination with another fuel, items shall be repeated.
+
+In the case of non-conventional engines and systems, particulars equivalent to those referred to here shall be supplied by the manufacturer.(
+8
+) Determined in accordance with the requirements of Council Directive 80/1269/EEC (OJ L 375, 31.12.1980, p. 46).(
+9
+) Delete where not applicable.(
+10
+) The specified particulars are to be given for any proposed variants.(
+11
+) With respect to trailers, maximum speed permitted by the manufacturer.(
+12
+) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??).(
+13
+) As defined in Directive 2007/46/EC, Annex II, Section A.(
+14
+) Delete as appropriate.(
+15
+) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??).(
+16
+) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??).(
+17
+) Delete as appropriate.(
+18
+) OJ L 373, 27.12.2006, p. 1.(
+19
+) OJ L 200, 31.7.2010, p. 38.
+(5) 'wiper field' means the area(s) on the windscreen which is wiped by the wiper blade(s) when the wiper system is operating under normal conditions.
+(6) 'intermittent operation of the wiper system' means an automatic non-continuous mode of operation of the wiper system, where after each full cycle there is a period during which the wipers are stationary in one specific designated halting position;
+(6) 'intermittent operation of the wiper system' means an automatic non-continuous mode of operation of the wiper system, where after each full cycle there is a period during which the wipers are stationary in one specific designated halting position;
+(7) 'windscreen washer system' means the system consisting of devices for storing, transferring and aiming fluid towards the outer face of the windscreen, together with the controls necessary for starting and stopping the device;
+(7) 'windscreen washer system' means the system consisting of devices for storing, transferring and aiming fluid towards the outer face of the windscreen, together with the controls necessary for starting and stopping the device;
+(8) 'washer control' means the device by which the washer system is manually activated and deactivated;
+(8) 'washer control' means the device by which the washer system is manually activated and deactivated;
+(9) 'washer pump' means a device for transferring fluid from the washer system storage reservoir to the outer face of the windscreen;
+(9) 'washer pump' means a device for transferring fluid from the washer system storage reservoir to the outer face of the windscreen;
+(10) 'nozzle' means a device which serves to direct fluid onto the windscreen;
+(10) 'nozzle' means a device which serves to direct fluid onto the windscreen;
+(11) 'fully primed system' means a system which has been activated normally for a period of time and where fluid has been transferred through the pump, tubing and has exited the nozzle(s);
+(11) 'fully primed system' means a system which has been activated normally for a period of time and where fluid has been transferred through the pump, tubing and has exited the nozzle(s);
+(12) 'cleaned area' means the previously soiled area which does not have any traces of drops and remaining dirt after it has dried completely;
+(12) 'cleaned area' means the previously soiled area which does not have any traces of drops and remaining dirt after it has dried completely;
+(13) 'vision area A' means test area A as defined in paragraph
+(13) 'vision area A' means test area A as defined in paragraph
+(14) 'vision area B' means reduced test area B as defined in paragraph
+(14) 'vision area B' means reduced test area B as defined in paragraph
+(15) 'design torso angle' means the angle measured between a vertical line through the R-point or seating reference point and the torso line in a position which corresponds to the design position of the seat-back as declared by the vehicle manufacturer;
+(15) 'design torso angle' means the angle measured between a vertical line through the R-point or seating reference point and the torso line in a position which corresponds to the design position of the seat-back as declared by the vehicle manufacturer;
+(16) 'R-point' or seating reference point means the design point defined by the vehicle manufacturer for each seating position with respect to the three-dimensional reference system;
+(16) 'R-point' or seating reference point means the design point defined by the vehicle manufacturer for each seating position with respect to the three-dimensional reference system;
+(17) 'three-dimensional reference system' means a reference grid which consists of a vertical longitudinal plane X-Z, a horizontal plane X-Y and a vertical transverse plane Y-Z in accordance with the provisions of Appendix 2 of Annex III to this Regulation;
+(17) 'three-dimensional reference system' means a reference grid which consists of a vertical longitudinal plane X-Z, a horizontal plane X-Y and a vertical transverse plane Y-Z in accordance with the provisions of Appendix 2 of Annex III to this Regulation;
+(18) 'primary reference marks' means holes, surfaces, marks or other identification signs on the vehicle body or chassis of which the X, Y and Z coordinates within the three-dimensional reference grid are specified by the vehicle manufacturer;
+(18) 'primary reference marks' means holes, surfaces, marks or other identification signs on the vehicle body or chassis of which the X, Y and Z coordinates within the three-dimensional reference grid are specified by the vehicle manufacturer;
+(19) 'vehicle master control switch' means the device by which the vehicle's on-board electronics system is brought from being switched off, as is the case when a vehicle is parked without the driver being present, to normal operation mode;
+(19) 'vehicle master control switch' means the device by which the vehicle's on-board electronics system is brought from being switched off, as is the case when a vehicle is parked without the driver being present, to normal operation mode;

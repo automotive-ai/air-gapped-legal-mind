@@ -1,0 +1,74 @@
+recital 7
+(7) In order to improve the implementation of the 1998 Global Agreement, a new Special Resolution No 2 (S.R.2) should be adopted.
+Introduction
+THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114, in conjunction with Article 218(9) thereof,
+Having regard to the proposal from the European Commission,
+Whereas:
+
+(1) In accordance with Council Decision 97/836/EC (1), the Union acceded to the Agreement of the United Nations Economic Commission for Europe (UNECE) concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions (the 'Revised 1958 Agreement'). (2) In accordance with Council Decision 2000/125/EC (2), the Union acceded to the Agreement concerning the establishing of global technical regulations for wheeled vehicles, equipment and parts which can be fitted and/or be used on wheeled vehicles (the 'Parallel Agreement'). (3) Directive 2007/46/EC of the European Parliament and of the Council (3) replaced the approval systems of the Member States with a Union approval procedure and established a harmonised framework containing administrative provisions and general technical requirements for all new vehicles, systems, components and separate technical units. That Directive incorporated regulations adopted under the Revised 1958 Agreement (hereinafter referred to as 'UN Regulations') in the EU type-approval system, either as requirements for type-approval or as alternatives to Union legislation. Since the adoption of that Directive, UN Regulations have increasingly been incorporated into Union legislation in the framework of the EU type-approval. (4) In the light of experience and technical developments, the requirements relating to certain elements or features covered by UN Regulations Nos. 9, 11, 13, 13-H, 14, 16, 30, 41, 44, 49, 54, 55, 60, 64, 75, 78, 79, 83, 90, 106, 113, 115, 117, 129 and 134, as well as by UN Global Technical Regulations (GTR) Nos. 15 and 16, need to be adapted to technical progress. (5) In order to lay down uniform provisions concerning the approval of Brake Assist Systems (BAS), Electronic Stability Control (ESC), Tyre Pressure Monitoring Systems (TPMS) and Tyre Installation, four new UN Regulations should be adopted. (6) In order to lay down uniform technical provisions concerning the measurement procedure for two- or three-wheeled motor vehicles with regard to certain types of emissions, a new UN Global Technical Regulation (GTR) should be adopted. (7) In order to improve the implementation of the 1998 Global Agreement, a new Special Resolution No 2 (S.R.2) should be adopted. (8) It is appropriate to establish the position to be adopted on behalf of the Union within the relevant Committees of the UNECE, namely the Administrative Committee of the Revised 1958 Agreement and the Executive Committee of the Parallel Agreement, as regards the adoption of the UN acts referred to above,
+HAS ADOPTED THIS DECISION:
+| Agenda item title | Document reference |
+|---|---|
+| Proposal for Supplement 2 to the 07 series of amendments to UN Regulation No 9 (Noise of three-wheeled vehicles) | ECE/TRANS/WP.29/2016/45 |
+| Proposal for Supplement 4 to the 03 series of amendments to UN Regulation No 11 (Door latches and hinges) | ECE/TRANS/WP.29/2016/33 |
+| Proposal for Supplement 1 to the 04 series of amendments to UN Regulation No 11 (Door latches and hinges) | ECE/TRANS/WP.29/2016/34 |
+| Proposal for Supplement 14 to the 11 series of amendments to UN Regulation No 13 (Heavy vehicle braking) | ECE/TRANS/WP.29/2016/49 |
+| Proposal for the 01 series of amendments to UN Regulation No 13-H (Brakes of M1 and N1 vehicles) | ECE/TRANS/WP.29/2016/50 |
+| Proposal for Supplement 7 to the 07 series of amendments to UN Regulation No 14 (Safety-belt, ISOFIX and i-Size anchorages) | ECE/TRANS/WP.29/2016/35 |
+| Proposal for Supplement 7 to the 06 series of amendments to UN Regulation No 16 (Safety-belts, ISOFIX and i-Size) | ECE/TRANS/WP.29/2016/36 |
+| Proposal for Supplement 18 to the 02 series of amendments to UN Regulation No 30 (Tyres for passenger cars and their trailers) | ECE/TRANS/WP.29/2016/51 |
+| Proposal for Supplement 5 to the 04 series of amendments to UN Regulation No 41 (Noise emissions of motorcycles) | ECE/TRANS/WP.29/2016/46 |
+| Proposal for Supplement 11 to the 04 series of amendments to UN Regulation No 44 (Child restraint systems) | ECE/TRANS/WP.29/2016/37 |
+| Proposal for Supplement 8 to the 05 series of amendments to UN Regulation No 49 (Emissions of compression ignition and positive ignition (LPG and CNG) engines) | ECE/TRANS/WP.29/2016/40 |
+| Proposal for Supplement 4 to the 06 series of amendments to UN Regulation No 49 (Emissions of compression ignition and positive ignition (LPG and CNG) engines) | ECE/TRANS/WP.29/2016/41 |
+| Proposal for Supplement 21 to the 01 series of amendments to UN Regulation No 54 (Tyres for commercial vehicles and their trailers) | ECE/TRANS/WP.29/2016/52 |
+| Proposal for Supplement 6 to the 01 series of amendments to UN Regulation No 55 (Mechanical couplings) | ECE/TRANS/WP.29/2016/53 |
+| Proposal for Supplement 5 to UN Regulation No 60 (Driver operated controls (mopeds/motorcycles)) | ECE/TRANS/WP.29/2016/27 |
+| Proposal for a new 03 series of amendments to UN Regulation No 64 (Temporary use spare unit, run flat tyres, run flat-system and tyre pressure monitoring system) | ECE/TRANS/WP.29/2016/54 |
+| Proposal for Supplement 16 to UN Regulation No 75 (Tyres for L-category vehicles) | ECE/TRANS/WP.29/2016/55 |
+| Proposal for Supplement 3 to the 03 series of amendments to UN Regulation No 78 (Braking (category L vehicles)) | ECE/TRANS/WP.29/2016/56 and WP.29-169-03 |
+| Proposal for Supplement 5 to the 01 series of amendments to UN Regulation No 79 (Steering equipment) | ECE/TRANS/WP.29/2016/57 |
+| Proposal for Supplement 7 to the 06 series of amendments to UN Regulation No 83 (Emissions of M1 and N1 vehicles) | ECE/TRANS/WP.29/2016/42 |
+| Proposal for Supplement 3 to the 07 series of amendments to UN Regulation No 83 (Emissions of M1 and N1 vehicles) | ECE/TRANS/WP.29/2016/43 |
+| Proposal for Supplement 3 to the 02 series of amendments to UN Regulation No 90 (Replacement braking parts) | ECE/TRANS/WP.29/2016/58 |
+| Proposal for Supplement 14 to UN Regulation No 106 (Tyres for agricultural vehicles) | ECE/TRANS/WP.29/2016/59 |
+| Proposal for Supplement 6 to the 01 series of amendments to UN Regulation No 113 (Headlamps emitting a symmetrical passing-beam) | ECE/TRANS/WP.29/2016/74 |
+| Proposal for Supplement 7 to the original version of UN Regulation No 115 (LPG and CNG retrofit systems) | ECE/TRANS/WP.29/2016/44 |
+| Proposal for Supplement 9 to the 02 series of amendments to UN Regulation No 117 (Tyres, rolling resistance, rolling noise and wet grip) | ECE/TRANS/WP.29/2016/60 |
+| Proposal for 01 series of amendments to UN Regulation No 129 (Enhanced Child Restraint Systems (ECRS)) | ECE/TRANS/WP.29/2016/38 |
+| Proposal for Supplement 2 to Supplement 2 to UN Regulation No 134 (Hydrogen and fuel cells vehicles (HFCV)) | ECE/TRANS/WP.29/2016/39 |
+| Proposal for a new UN Regulation on Brake Assist Systems (BAS) | ECE/TRANS/WP.29/2016/61 |
+| Proposal for a new UN Regulation on Electronic Stability Control (ESC) | ECE/TRANS/WP.29/2016/62 |
+| Proposal for a new UN Regulation on Tyre Pressure Monitoring Systems (TPMS) | ECE/TRANS/WP.29/2016/63 |
+| Proposal for a new UN Regulation on Tyre Installation | ECE/TRANS/WP.29/2016/64 |
+| Proposal for Amendment 1 to global technical regulation (UN GTR) No 15 (Worldwide harmonized Light vehicles Test Procedures (WLTP)) | ECE/TRANS/WP.29/2016/68 |
+| Proposal for Amendment 1 to global technical regulation (UN GTR) No 16 (Tyres) | ECE/TRANS/WP.29/2016/70 |
+| Proposal for new Special Resolution No 2 (S.R.2) — Improvement in the implementation of the 1998 Global Agreement | ECE/TRANS/WP.29/2016/65 |
+| Proposal for a Global Technical Regulation (UN GTR) on the measurement procedure for two- or three-wheeled motor vehicles equipped with a combustion engine with regard to the crankcase and evaporative emissions | ECE/TRANS/WP.29/2016/66 |
+recital 8
+(8) It is appropriate to establish the position to be adopted on behalf of the Union within the relevant Committees of the UNECE, namely the Administrative Committee of the Revised 1958 Agreement and the Executive Committee of the Parallel Agreement, as regards the adoption of the UN acts referred to above,
+HAS ADOPTED THIS DECISION:
+recital 6
+(6) In order to lay down uniform technical provisions concerning the measurement procedure for two- or three-wheeled motor vehicles with regard to certain types of emissions, a new UN Global Technical Regulation (GTR) should be adopted.
+recital 5
+(5) In order to lay down uniform provisions concerning the approval of Brake Assist Systems (BAS), Electronic Stability Control (ESC), Tyre Pressure Monitoring Systems (TPMS) and Tyre Installation, four new UN Regulations should be adopted.
+recital 4
+(4) In the light of experience and technical developments, the requirements relating to certain elements or features covered by UN Regulations Nos. 9, 11, 13, 13-H, 14, 16, 30, 41, 44, 49, 54, 55, 60, 64, 75, 78, 79, 83, 90, 106, 113, 115, 117, 129 and 134, as well as by UN Global Technical Regulations (GTR) Nos. 15 and 16, need to be adapted to technical progress.
+recital 3
+(3) Directive 2007/46/EC of the European Parliament and of the Council (3) replaced the approval systems of the Member States with a Union approval procedure and established a harmonised framework containing administrative provisions and general technical requirements for all new vehicles, systems, components and separate technical units.
+
+That Directive incorporated regulations adopted under the Revised 1958 Agreement (hereinafter referred to as 'UN Regulations') in the EU type-approval system, either as requirements for type-approval or as alternatives to Union legislation. Since the adoption of that Directive, UN Regulations have increasingly been incorporated into Union legislation in the framework of the EU type-approval.
+recital 2
+(2) In accordance with Council Decision 2000/125/EC (2), the Union acceded to the Agreement concerning the establishing of global technical regulations for wheeled vehicles, equipment and parts which can be fitted and/or be used on wheeled vehicles (the 'Parallel Agreement').
+recital 1
+(1) In accordance with Council Decision 97/836/EC (1), the Union acceded to the Agreement of the United Nations Economic Commission for Europe (UNECE) concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions (the 'Revised 1958 Agreement').
+citation
+THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114, in conjunction with Article 218(9) thereof,
+Having regard to the proposal from the European Commission,
+Whereas:
+Article 2
+This Decision shall enter into force on the date of its adoption.
+Article 1
+The position to be adopted on behalf of the Union within the Administrative Committee of the Revised 1958 Agreement and the Executive Committee of the Parallel Agreement during the period from 20 to 24 June 2016 shall be to vote in favour of the proposals listed in the Annex to this Decision.

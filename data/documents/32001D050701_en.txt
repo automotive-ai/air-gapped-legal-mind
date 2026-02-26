@@ -1,0 +1,163 @@
+2001/507/EC: Council Decision of 26 June 2001 on the accession of the European Community to Regulation 109 of the United Nations Economic Commission for Europe concerning the approval for the production of retreaded pneumatic tyres for commercial vehicles and their trailers
+Council Decisionof 26 June 2001on the accession of the European Community to Regulation 109 of the United Nations Economic Commission for Europe concerning the approval for the production of retreaded pneumatic tyres for commercial vehicles and their trailers(2001/507/EC)THE COUNCIL OF THE EUROPEAN UNION,Having regard to the Treaty establishing the European Community,Having regard to Council Decision 97/836/EC of 27 November 1997 with a view to accession by the European Community to the Agreement of the United Nations Economic Commission for Europe concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions(1) ('Revised 1958 Agreement'), and in particular Article 3(3) and the second indent of Article 4(2) thereof,Having regard to the proposal by the Commission(2),Having regard to the assent of the European Parliament(3),Whereas:(1) The aim of the uniform provisions of Regulation 109 of the United Nations Economic Commission for Europe concerning the approval for the production of retreaded pneumatic tyres for commercial vehicles and their trailers is to abolish the technical barriers to trade in motor vehicles between the Contracting Parties with regard to retreaded pneumatic tyres while ensuring a high level of safety and environmental protection.(2) Regulation 109 has been notified to the Contracting Parties and entered into force in respect of all the Contracting Parties who did not serve notice of their disagreement by the date or dates specified in the Regulation annexed to the Revised Agreement of 1958.(3) In order to enable the economic operators to take appropriate measures to abide in time by the provisions of Regulation 109 so as not to disrupt the market in retreaded pneumatic tyres, in particular by dates of entry into force that could differ from one Member State to another, the uniform application of this Regulation throughout the Community will be regulated later through a Community Directive.
+
+However, Regulation 109 will not be integrated in the system for type-approval of motor vehicles and their trailers,HAS DECIDED AS FOLLOWS:Sole ArticleThe European Community shall accede to Regulation 109 of the United Nations Economic Commission for Europe concerning the approval for the production of retreaded pneumatic tyres for commercial vehicles and their trailers.The text of the Regulation is attached to this Decision(4).Done at Luxembourg, 26 June 2001.For the CouncilThe PresidentT. Östros(1) OJ L 346, 17.12.1997, p. 78.(2) OJ C 212 E, 25.7.2000, p. 79.(3) Assent given on 15 May 2001 (not yet published in the Official Journal).(4) This Regulation shall be published in a future Official Journal.
+Introduction
+COUNCIL DECISION
+ of 26 June 2001
+ on the accession of the European Community to Regulation 109 of the United Nations Economic Commission for Europe concerning the approval for the production of retreaded pneumatic tyres for commercial vehicles and their trailers
+(2001/507/EC)
+(OJ L 183 6.7.2001, p. 35)Amended by:
+
+Official Journal
+ No
+page
+date
+ ►M1
+ COUNCIL DECISION
+ of 13 March 2006
+ L 181
+1
+4.7.2006
+{{IMAGE:Image_4, Caption:Example of the arrangement of retreaded tyre markings, including size designation, service descriptions, and inflation pressure, with indicated dimension variables.}}
+
+|  | MINIMUM HEIGHTS OF MARKINGS (mm) | MINIMUM HEIGHTS OF MARKINGS (mm) |
+|---|---|---|
+|  | Tyres of rim diameter ≤ code 20 or ≤ 508 mm or of section width ≤ 235 mm or ≤ 9" | Tyres of rim diameter > code 20 or > 508 mm or of section width > 235 mm or > 9" |
+| b | 6 | 9 |
+| c | 4 | 4 |
+| d | 6 | 6 |
+
+The above example defines a retreaded pneumatic tyre:Having a nominal section width of 295;Having a nominal aspect ratio of 80;Of radial-ply structure (R);Having a nominal rim diameter of 572 mm, for which the code is 22.5;Having load capacities of 3 550 kg (single) and 3 150 kg (twinned or dual), corresponding respectively to the load indices 152 and 148 shown in Annex 4 to this Regulation;Having a nominal speed symbol K (reference speed 110 km/h);Able to be used at the Unique Point, speed symbol L (reference speed 120 km/h); with a load capacity of 3 350 kg (single) and 3 000 kg (twinned or dual), corresponding respectively to the load indices 150 and 146 shown in Annex 4 to this Regulation;Intended to be used without an inner tube (TUBELESS) and of Snow type (M+S);Retreaded in the weeks 25, 26, 27 or 28 of the year 2003.Requiring to be inflated to 620 kPa for load/speed endurance tests, for which the PSI symbol is 90.The positioning and order of the markings constituting the tyre designation shall be as follows: (a) 
+The size designation, comprising the nominal section width, the nominal aspect ratio, the type-of-structure symbol (where applicable) and the nominal rim diameter, shall be grouped as shown in the above example, that is: 295/80 R 22,5; (b) 
+The service description, comprising the load indices and the speed symbol shall be placed together near the size designation. It may either precede the size designation or follow it or be placed above or below it; (c) 
+The symbol 'TUBELESS' and 'M+S' may be at a distance from the size-designation symbol. (d) 
+The word 'RETREAD' may be at a distance from the size-designation symbol. (e) 
+If paragraph 3.2.5 of this Regulation is applied, the additional service description (Unique Point), comprising the load indices and speed symbol, must be shown inside a circle near the nominal service description appearing on the tyre sidewall.
+| Pressure index (PSI) | bar | kPa |
+|---|---|---|
+| 20 | 14 | 140 |
+| 25 | 17 | 170 |
+| 30 | 21 | 210 |
+| 35 | 24 | 240 |
+| 40 | 28 | 280 |
+| 45 | 31 | 310 |
+| 50 | 34 | 340 |
+| 55 | 38 | 380 |
+| 60 | 41 | 410 |
+| 65 | 45 | 450 |
+| 70 | 48 | 480 |
+| 75 | 52 | 520 |
+| 80 | 55 | 550 |
+| 85 | 59 | 590 |
+| 90 | 62 | 620 |
+| 95 | 66 | 660 |
+| 100 | 69 | 690 |
+| 105 | 72 | 720 |
+| 110 | 76 | 760 |
+| 115 | 79 | 790 |
+| 120 | 83 | 830 |
+| 125 | 86 | 860 |
+| 130 | 90 | 900 |
+| 135 | 93 | 930 |
+| 140 | 97 | 970 |
+| 145 | 100 | 1 000 |
+| 150 | 103 | 1 030 |
+| ... | ... | … |
+| Load index (LI) and load capacity — kg | Load index (LI) and load capacity — kg | Load index (LI) and load capacity — kg | Load index (LI) and load capacity — kg | Load index (LI) and load capacity — kg | Load index (LI) and load capacity — kg | Load index (LI) and load capacity — kg | Load index (LI) and load capacity — kg | Load index (LI) and load capacity — kg | Load index (LI) and load capacity — kg | Load index (LI) and load capacity — kg | Load index (LI) and load capacity — kg | Load index (LI) and load capacity — kg | Load index (LI) and load capacity — kg |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| LI | kg | LI | kg | LI | kg | LI | kg | LI | kg | LI | kg | LI | kg |
+| 0 | 45 | 40 | 140 | 80 | 450 | 120 | 1 400 | 160 | 4 500 | 200 | 14 000 | 240 | 45 000 |
+| 1 | 462 | 41 | 145 | 81 | 462 | 121 | 1 450 | 161 | 4 625 | 201 | 14 500 | 241 | 46 250 |
+| 2 | 475 | 42 | 150 | 82 | 475 | 122 | 1 500 | 162 | 4 750 | 202 | 15 000 | 242 | 47 500 |
+| 3 | 487 | 43 | 155 | 83 | 487 | 123 | 1 550 | 163 | 4 875 | 203 | 15 500 | 243 | 48 750 |
+| 4 | 50 | 44 | 160 | 84 | 500 | 124 | 1 600 | 164 | 5 000 | 204 | 16 000 | 244 | 50 000 |
+| 5 | 515 | 45 | 165 | 85 | 515 | 125 | 1 650 | 165 | 5 150 | 205 | 16 500 | 245 | 51 500 |
+| 6 | 53 | 46 | 170 | 86 | 530 | 126 | 1 700 | 166 | 5 300 | 206 | 17 000 | 246 | 53 000 |
+| 7 | 545 | 47 | 175 | 87 | 545 | 127 | 1 750 | 167 | 5 450 | 207 | 17 500 | 247 | 54 500 |
+| 8 | 56 | 48 | 180 | 88 | 560 | 128 | 1 800 | 168 | 5 600 | 208 | 18 000 | 248 | 56 000 |
+| 9 | 58 | 49 | 185 | 89 | 580 | 129 | 1 850 | 169 | 5 800 | 209 | 18 500 | 249 | 58 000 |
+| 10 | 60 | 50 | 190 | 90 | 600 | 130 | 1 900 | 170 | 6 000 | 210 | 19 000 | 250 | 60 000 |
+| 11 | 615 | 51 | 195 | 91 | 615 | 131 | 1 950 | 171 | 6 150 | 211 | 19 500 | 251 | 61 500 |
+| 12 | 63 | 52 | 200 | 92 | 630 | 132 | 2 000 | 172 | 6 300 | 212 | 20 000 | 252 | 63 000 |
+| 13 | 65 | 53 | 206 | 93 | 650 | 133 | 2 060 | 173 | 6 500 | 213 | 20 600 | 253 | 65 000 |
+| 14 | 67 | 54 | 212 | 94 | 670 | 134 | 2 120 | 174 | 6 700 | 214 | 21 200 | 254 | 67 000 |
+| 15 | 69 | 55 | 218 | 95 | 690 | 135 | 2 180 | 175 | 6 900 | 215 | 21 800 | 255 | 69 000 |
+| 16 | 71 | 56 | 224 | 96 | 710 | 136 | 2 240 | 176 | 7 100 | 216 | 22 400 | 256 | 71 000 |
+| 17 | 73 | 57 | 230 | 97 | 730 | 137 | 2 300 | 177 | 7 300 | 217 | 23 000 | 257 | 73 000 |
+| 18 | 75 | 58 | 236 | 98 | 750 | 138 | 2 360 | 178 | 7 500 | 218 | 23 600 | 258 | 75 000 |
+| 19 | 775 | 59 | 243 | 99 | 775 | 139 | 2 430 | 179 | 7 750 | 219 | 24 300 | 259 | 77 500 |
+| 20 | 80 | 60 | 250 | 100 | 800 | 140 | 2 500 | 180 | 8 000 | 220 | 25 000 | 260 | 80 000 |
+| 21 | 825 | 61 | 257 | 101 | 825 | 141 | 2 575 | 181 | 8 250 | 221 | 25 750 | 261 | 82 500 |
+| 22 | 85 | 62 | 265 | 102 | 850 | 142 | 2 650 | 182 | 8 500 | 222 | 26 500 | 262 | 85 000 |
+| 23 | 875 | 63 | 272 | 103 | 875 | 143 | 2 725 | 183 | 8 750 | 223 | 27 250 | 263 | 87 500 |
+| 24 | 90 | 64 | 280 | 104 | 900 | 144 | 2 800 | 184 | 9 000 | 224 | 28 000 | 264 | 90 000 |
+| 25 | 925 | 65 | 290 | 105 | 925 | 145 | 2 900 | 185 | 9 250 | 225 | 29 000 | 265 | 92 500 |
+| 26 | 95 | 66 | 300 | 106 | 950 | 146 | 3 000 | 186 | 9 500 | 226 | 30 000 | 266 | 95 000 |
+| 27 | 975 | 67 | 307 | 107 | 975 | 147 | 3 075 | 187 | 9 750 | 227 | 30 750 | 267 | 97 500 |
+| 28 | 100 | 68 | 315 | 108 | 1 000 | 148 | 3 150 | 188 | 10 000 | 228 | 31 500 | 268 | 100 000 |
+| 29 | 103 | 69 | 325 | 109 | 1 030 | 149 | 3 250 | 189 | 10 300 | 229 | 32 500 | 269 | 103 000 |
+| 30 | 106 | 70 | 335 | 110 | 1 060 | 150 | 3 350 | 190 | 10 600 | 230 | 33 500 | 270 | 106 000 |
+| 31 | 109 | 71 | 345 | 111 | 1 090 | 151 | 3 450 | 191 | 10 900 | 231 | 34 500 | 271 | 109 000 |
+| 32 | 112 | 72 | 355 | 112 | 1 120 | 152 | 3 550 | 192 | 11 200 | 232 | 35 500 | 272 | 112 000 |
+| 33 | 115 | 73 | 365 | 113 | 1 150 | 153 | 3 650 | 193 | 11 500 | 233 | 36 500 | 273 | 115 000 |
+| 34 | 118 | 74 | 375 | 114 | 1 180 | 154 | 3 750 | 194 | 11 800 | 234 | 37 500 | 274 | 118 000 |
+| 35 | 121 | 75 | 387 | 115 | 1 215 | 155 | 3 875 | 195 | 12 150 | 235 | 38 750 | 275 | 121 500 |
+| 36 | 125 | 76 | 400 | 116 | 1 250 | 156 | 4 000 | 196 | 12 500 | 236 | 40 000 | 276 | 125 000 |
+| 37 | 128 | 77 | 412 | 117 | 1 285 | 157 | 4 125 | 197 | 12 850 | 237 | 41 250 | 277 | 128 500 |
+| 38 | 132 | 78 | 425 | 118 | 1 320 | 158 | 4 250 | 198 | 13 200 | 238 | 42 500 | 278 | 132 000 |
+| 39 | 136 | 79 | 437 | 119 | 1 360 | 159 | 4 375 | 199 | 13 600 | 239 | 43 750 | 279 | 136 000 |
+ANNEX 6
+ANNEX 6
+METHOD OF MEASURING PNEUMATIC TYRES 1.
+
+The tyre shall be mounted on the test rim specified by the retreader and inflated to the nominal inflation pressure quoted in the nominated International Tyre Standard (see paragraph 4.1.4.7 of this Regulation) in relation to the maximum load carrying capacity for that size and load index. 2. The tyre, fitted to the appropriate rim, shall be conditioned to the ambient temperature of the laboratory for at least 24 hours save as otherwise required by paragraph 6.6.3 of this Regulation. 3. The pressure shall be re-adjusted to the value in paragraph 1 of this Annex. 4. The overall width shall be measured at six equally spaced points around the tyre, taking account of the thickness of any protective ribs or bands. The highest reading obtained shall be taken as the overall width. 5. The outer diameter shall be calculated from a measurement of the maximum circumference of the inflated tyre.
+{{IMAGE:Image_3, Caption:Diagram illustrating the arrangement of the approval mark for retreaded tyres, showing the E4 certification symbol and approval number 109 R - 002439 with dimensional proportions relative to size 'a'.}} a = 12 mm (minimum)The above approval mark affixed to a retreaded tyre shows that the retreading production unit concerned has been approved in the Netherlands (E4) under approval number 109R002439 meeting the requirements of this Regulation in its original form (00).The approval number must be placed close to the circle and either above or below the 'E' or left or right of that letter. The digits of the approval number must be on the same side of the 'E' and face in the same direction. The use of Roman numerals as approval numbers should be avoided so as to prevent any confusion with other symbols.
+| Variation of load capacity (%) | Variation of load capacity (%) | Variation of load capacity (%) | Variation of load capacity (%) | Variation of load capacity (%) | Variation of load capacity (%) | Variation of load capacity (%) | Variation of load capacity (%) | Variation of load capacity (%) | Variation of load capacity (%) | Variation of load capacity (%) |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Speed (km/h) | All load indices | All load indices | All load indices | All load indices | Load indices ≥ 122 () | Load indices ≥ 122 () | Load indices ≤ 121 () | Load indices ≤ 121 () | Load indices ≤ 121 () | Load indices ≤ 121 () |
+| Speed (km/h) | Speed symbol | Speed symbol | Speed symbol | Speed symbol | Speed symbol | Speed symbol | Speed symbol | Speed symbol | Speed symbol | Speed symbol |
+|  | F | G | J | K | L | M | L | M | N | P () |
+| 0 | + 150 | + 150 | + 150 | + 150 | + 150 | + 150 | + 110 | + 110 | + 110 | + 110 |
+| 5 | + 110 | + 110 | + 110 | + 110 | + 110 | + 110 | + 90 | + 90 | + 90 | + 90 |
+| 10 | + 80 | + 80 | + 80 | + 80 | + 80 | + 80 | + 75 | + 75 | + 75 | + 75 |
+| 15 | + 65 | + 65 | + 65 | + 65 | + 65 | + 65 | + 60 | + 60 | + 60 | + 60 |
+| 20 | + 50 | + 50 | + 50 | + 50 | + 50 | + 50 | + 50 | + 50 | + 50 | + 50 |
+| 25 | + 35 | + 35 | + 35 | + 35 | + 35 | + 35 | + 42 | + 42 | + 42 | + 42 |
+| 30 | + 25 | + 25 | + 25 | + 25 | + 25 | + 25 | + 35 | + 35 | + 35 | + 35 |
+| 35 | + 19 | + 19 | + 19 | + 19 | + 19 | + 19 | + 29 | + 29 | + 29 | + 29 |
+| 40 | + 15 | + 15 | + 15 | + 15 | + 15 | + 15 | + 25 | + 25 | + 25 | + 25 |
+| 45 | + 13 | + 13 | + 13 | + 13 | + 13 | + 13 | + 22 | + 22 | + 22 | + 22 |
+| 50 | + 12 | + 12 | + 12 | + 12 | + 12 | + 12 | + 20 | + 20 | + 20 | + 20 |
+| 55 | + 11 | + 11 | + 11 | + 11 | + 11 | + 11 | 175 | 175 | 175 | 175 |
+| 60 | + 10 | + 10 | + 10 | + 10 | + 10 | + 10 | 150 | 150 | 150 | 150 |
+| 65 | 75 | 85 | 85 | 85 | 85 | 85 | 135 | 135 | 135 | 135 |
+| 70 | 50 | 70 | 70 | 70 | 70 | 70 | 125 | 125 | 125 | 125 |
+| 75 | 25 | 55 | 55 | 55 | 55 | 55 | 110 | 110 | 110 | 110 |
+| 80 | 0 | 40 | 40 | 40 | 40 | 40 | 100 | 100 | 100 | 100 |
+| 85 | - 3 | 20 | 30 | 30 | 30 | 30 | 85 | 85 | 85 | 85 |
+| 90 | - 6 | 0 | 20 | 20 | 20 | 20 | 75 | 75 | 75 | 75 |
+| 95 | - 10 | -25 | 10 | 10 | 10 | 10 | 65 | 65 | 65 | 65 |
+| 100 | - 15 | - 5 | 0 | 0 | 0 | 0 | 50 | 50 | 50 | 50 |
+| 105 |  | - 8 | - 2 | 0 | 0 | 0 | 375 | 375 | 375 | 375 |
+| 110 |  | - 13 | - 4 | 0 | 0 | 0 | 25 | 25 | 25 | 25 |
+| 115 |  |  | - 7 | - 3 | 0 | 0 | 125 | 125 | 125 | 125 |
+| 120 |  |  | - 12 | - 7 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 125 |  |  |  |  |  | 0 | -25 | 0 | 0 | 0 |
+| 130 |  |  |  |  |  | 0 | -50 | 0 | 0 | 0 |
+| 135 |  |  |  |  |  |  | -75 | -25 | 0 | 0 |
+| 140 |  |  |  |  |  |  | - 10 | - 5 | 0 | 0 |
+| 145 |  |  |  |  |  |  |  | -75 | -25 | 0 |
+| 150 |  |  |  |  |  |  |  | -100 | -50 | 0 |
+| 155 |  |  |  |  |  |  |  |  | -75 | -25 |
+| 160 |  |  |  |  |  |  |  |  | -100 | -50 |
+| (1) The load indices refer to operation in single formation. (2) Load variations are not allowed for speeds above 160 km/h. For speed symbols 'Q' and above the speed corresponding to the speed symbol specifies the maximum permissible speed for the tyre. | (1) The load indices refer to operation in single formation. (2) Load variations are not allowed for speeds above 160 km/h. For speed symbols 'Q' and above the speed corresponding to the speed symbol specifies the maximum permissible speed for the tyre. | (1) The load indices refer to operation in single formation. (2) Load variations are not allowed for speeds above 160 km/h. For speed symbols 'Q' and above the speed corresponding to the speed symbol specifies the maximum permissible speed for the tyre. | (1) The load indices refer to operation in single formation. (2) Load variations are not allowed for speeds above 160 km/h. For speed symbols 'Q' and above the speed corresponding to the speed symbol specifies the maximum permissible speed for the tyre. | (1) The load indices refer to operation in single formation. (2) Load variations are not allowed for speeds above 160 km/h. For speed symbols 'Q' and above the speed corresponding to the speed symbol specifies the maximum permissible speed for the tyre. | (1) The load indices refer to operation in single formation. (2) Load variations are not allowed for speeds above 160 km/h. For speed symbols 'Q' and above the speed corresponding to the speed symbol specifies the maximum permissible speed for the tyre. | (1) The load indices refer to operation in single formation. (2) Load variations are not allowed for speeds above 160 km/h. For speed symbols 'Q' and above the speed corresponding to the speed symbol specifies the maximum permissible speed for the tyre. | (1) The load indices refer to operation in single formation. (2) Load variations are not allowed for speeds above 160 km/h. For speed symbols 'Q' and above the speed corresponding to the speed symbol specifies the maximum permissible speed for the tyre. | (1) The load indices refer to operation in single formation. (2) Load variations are not allowed for speeds above 160 km/h. For speed symbols 'Q' and above the speed corresponding to the speed symbol specifies the maximum permissible speed for the tyre. | (1) The load indices refer to operation in single formation. (2) Load variations are not allowed for speeds above 160 km/h. For speed symbols 'Q' and above the speed corresponding to the speed symbol specifies the maximum permissible speed for the tyre. | (1) The load indices refer to operation in single formation. (2) Load variations are not allowed for speeds above 160 km/h. For speed symbols 'Q' and above the speed corresponding to the speed symbol specifies the maximum permissible speed for the tyre. |
+Sole Article
+The European Community shall accede to Regulation 109 of the United Nations Economic Commission for Europe concerning the approval for the production of retreaded pneumatic tyres for commercial vehicles and their trailers.
+
+As from 13 September 2006 the provisions of Regulation 109 as set out in the Annex shall apply as a compulsory condition for the placing on the market in the Community of retreaded tyres falling under the scope of that Regulation.
+{{IMAGE:Image_0, Caption:The symbol used to indicate a regroovable tyre, resembling an inverted Greek letter Omega.}}
+{{IMAGE:Image_5, Caption:Explanatory diagram of a tyre cross-section illustrating key components such as the tread, sidewall, bead, and carcass, along with defined dimensions including outer diameter, section height, and rim width.}}
+ANNEX 5
+ANNEX 5
+TYRE SIZE DESIGNATION AND DIMENSIONS (IN ACCORDANCE WITH ECE REGULATION NO 54)For this information refer to Annex 5 of ECE Regulation No 54Note that with reference to paragraph 6.5.4 of this Regulation, the outer diameter of a retreaded tyre may in all cases be greater than that shown in the tables in Annex 5 to Regulation No 54 but by no more than 1,5 %.

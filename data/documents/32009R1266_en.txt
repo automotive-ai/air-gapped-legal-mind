@@ -1,0 +1,425 @@
+recital 16
+(16) Only the digital tachograph of vehicles falling within category M2, M3, N2 or N3, as defined in Annex II to Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (4), should automatically record over-speeding events.
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on European Union and to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 3821/85 of 20 December 1985 on recording equipment in road transport (1), and in particular Article 17 (1) thereof,
+Whereas:
+recital 4
+(4) Annex IB to Regulation (EEC) No 3821/85 sets out the technical specifications for the construction, testing, installation and inspection of the digital tachograph.
+recital 7
+(7) The present Regulation does not require the replacement of a functioning digital tachograph installed before its date of application.
+recital 8
+(8) Manufacturers of digital tachographs have declared that any access to any intellectual property rights which could provide an essential facility will be granted to any parties under fair, reasonable and non-discriminatory conditions and on reciprocal terms.
+recital 9
+(9) To facilitate cross-homologation of individual type approved components, and ensure that new manufacturers of digital tachograph recording equipment, or components thereof, are not prevented from entering the market, it is necessary to establish the application of international standards for technical interfaces between the different components.
+recital 10
+(10) To assist transport operators and undertakings in meeting their obligations under Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (2), the number of company locks should be increased.
+recital 11
+(11) To ensure proper enforcement and control checks of vehicles, and to identify drivers, a wider set of characters sets should be integrated into the digital tachograph.
+recital 12
+(12) To support industry, manufacturers and control bodies in being able to identify the current manufacturers in the market, as well as to be able to distinguish countries and the relevant codes, based on signs used on vehicles in international traffic, as set out in the United Nations Vienna Convention on Road Traffic, 1968, the appropriate lists should be maintained by the laboratory competent for carrying out interoperability tests, and made available on a public webpage.
+recital 13
+(13) In order to assist road transport undertakings to fulfil the legal obligations to store relevant information for enforcement purposes, common test specifications for printout paper to be used when granting a type approval should be established.
+recital 14
+(14) To reduce the administrative burdens, and therefore the costs, placed on operators and drivers when using the digital tachograph, the provisions for the installation, activation, calibration and inspection of the equipment should be simplified and aimed specifically at only those vehicles used for driving that fall within the scope of the drivers' hours rules as set out in Regulation (EC) No 561/2006 of the European Parliament and of the Council of 15 March 2006 on the harmonisation of certain social legislation relating to road transport (3).
+recital 15
+(15) During periodic inspections or on other occasions when the recording equipment needs to be checked, calibrated, repaired or inspected, workshops should test the equipment for the presence, or use, of manipulation devices and should make and keep a record of such events, including absent or broken seals.
+recital 17
+(17) Following the report provided by the Joint Research Centre (Report on the Attacks to Security of the Digital Tachograph and on the Risk Associated With the Introduction of Adaptors to be fitted into Light Vehicles), the communication of electronic data between the source of vehicle movement and the motion sensor should be protected against tampering, such as by the use of magnets, and that vehicle movement data should be corroborated by additional and independent, internal and external sources.
+recital 18
+(18) It is essential for the integrity and trustworthiness of the security of the digital tachograph system to ensure that tachograph cards issued to drivers are unique.
+
+In order to prevent drivers from applying for or possessing more than one valid card, an electronic exchange of data between Member States should exist.
+recital 19
+(19) The human-machine interface for making manual entries of activities when drivers have been away from their vehicle and, during that period, are unable to record their activities onto their driver cards, should be simplified and clarified.
+recital 23
+(23) To ensure that at roadside checks driving patterns and the 'true' driving records can be determined, the driving time calculation and the rounding up to one minute of the periods of activity should be simplified.
+recital 2
+(2) Article 5 of Regulation (EEC) No 3821/85 states that a Member State shall grant type approval to any type of digital tachograph which conforms to the requirements laid down in Annex IB to the Regulation.
+recital 6
+(6) The present Regulation does not prevent Member States from type approving equipment which conforms to the requirements it lays down even before its date of application so that more secure recording equipment can be rapidly commercialised.
+
+The present Regulation does not prevent Member States from type approving software which upgrades existing digital tachographs to meet requirements of the Regulation.
+recital 22
+(22) In order to maintain the trustworthiness of the system in the face of the forthcoming obsolescence of the security mechanisms currently in use, contingency measures are required to assure the continuity of the type approval process for tachograph equipment.
+recital 1
+(1) Article 1 of Regulation (EEC) No 3821/85 requires that recording equipment in road transport shall, as regards construction, testing, installation and use, comply with the requirements of Annex I, IB and II of that Regulation.
+recital 5
+(5) In order to improve and enhance the digital tachograph with a view to reducing administrative burdens on industry and to ensuring secure information on driving time and rest periods for both transport operators and national control authorities, it is necessary to adapt Annex IB of Regulation (EEC) No 3821/85 to technical progress.
+recital 21
+(21) The time taken to download data from the recording equipment should be reduced by improvements to the technical interfaces.
+recital 24
+(24) The measures provided for in this Regulation are in accordance with the opinion of the Committee established under Article 18 of Regulation (EEC) No 3821/85.
+recital 25
+(25) Regulation (EEC) No 3821/85 should therefore be amended accordingly,
+HAS ADOPTED THIS REGULATION:
+1. AMENDMENTS TO CHAPTER I (DEFINITIONS)
+ANNEX
+Annex IB to Regulation (EEC) No 3821/85 is amended as follows:
+
+1. AMENDMENTS TO CHAPTER I (DEFINITIONS)
+1.1
+The definition (f) is replaced by the following: '(f) "calibration" means: updating or confirming vehicle parameters to be held in the data memory. Vehicle parameters include vehicle identification (VIN, VRN and registering Member State) and vehicle characteristics (w, k, l, tyre size, speed limiting device setting (if applicable), current UTC time, current odometer value);
+Any update or confirmation of UTC time only, shall be considered as a time adjustment and not as a calibration, provided it does not contradict Requirement 256. Calibrating a recording equipment requires the use of a workshop card;' 1.2
+The definition (l) is replaced by the following: '(l) "company card" means: A tachograph card issued by the authorities of a Member State to the owner or holder of vehicles fitted with recording equipment; The company card identifies the company and allows for displaying, downloading and printing of the data stored in the recording equipment which has been locked by this company or which has not been locked by any company.' 1.3
+The definition (s) is replaced by the following: '(s) "downloading" means: Copying, together with the digital signature, of a part, or of a complete set of data files stored in the data memory of the vehicle or in the memory of the tachograph card, for which these data are necessary to establish compliance with the provisions set out in Regulation (EC) No. 561/2006. Manufacturers of digital tachograph vehicle units and manufacturers of equipment designed and intended to download data files shall take all reasonable steps to ensure that the downloading of such data can be performed with the minimum delay to transport undertakings or drivers. Downloading may not alter or delete stored data. The downloading of the detailed speed file may not be necessary to establish compliance with Regulation (EC) No. 561/2006, but may be used for other purposes, such as accident investigation.' 1.4
+In footnote (1) to definitions 'n' and 'p' the following paragraph is added: 'Alternative ways of computing the continuous driving time and the cumulative break time may be used to replace these definitions if they have been made obsolete by updates in other relevant legislation'. 2. AMENDMENTS TO CHAPTER II (GENERAL CHARACTERISTICS)
+2.1
+The following new Requirement is inserted after Requirement 001: 'Requirement 001a
+ The interface between motion sensors and vehicle units shall be compliant with ISO 16844-3:2004, Cor 1:2006'. 2.2
+Requirement 010 is amended as follows: —
+The third indent is deleted. —
+The final indent is replaced by the following: 'The downloading function is not accessible in the operational mode (except as provided for in Requirement 150), and except downloading a driver card when no other card is inserted into the VU.' 2.3
+The second indent of Requirement 011 is replaced by the following: '—
+in the company mode, driver related data (requirements 081, 084 and 087) can be output only for periods where no lock exists or no other company holds a lock (as identified by the first 13 digits of the company card number).'
+3. AMENDMENTS TO CHAPTER III (FUNCTIONS AND REQUIREMENTS)
+3.1
+The following requirement is inserted after Requirement 019: 'Requirement 019a
+ To detect manipulation of motion data, information from the motion sensor shall be corroborated by vehicle motion information derived from one or more source(s) independent from the motion sensor.' 3.2
+Requirement 028 is replaced by the following: 'Requirement 028
+ UTC date and time shall be used for dating data inside the recording equipment (recordings, data exchange) and for all printouts specified in Appendix 4 "Printouts" '
+3.3
+Requirement 029 is replaced by the following: 'Requirement 029
+ In order to visualise the local time, it shall be possible to change the offset of the time displayed, in half hour steps. No other offsets than negative or positive multiples of half hours shall be allowed.' 3.4
+Requirement 040 is deleted. 3.5
+Requirement 038, Requirement 041 and Requirement 042 are replaced by the following: 'Requirement 038
+ The first change of activity to REST or AVAILABILITY arising within 120 seconds of the automatic change to WORK due to the vehicle stop shall be assumed to have happened at the time of vehicle stop (therefore possibly cancelling the change to WORK).' 'Requirement 041
+ Given a calendar minute, if DRIVING is registered as the activity of both the immediately preceding and immediately succeeding minute, the whole minute shall be regarded as DRIVING.' 'Requirement 042
+ Given a calendar minute that is not regarded as DRIVING according to the previous requirement 041, the whole minute shall be regarded to be of the same type of activity as the longest continuous activity within the minute (or the latest of equally long activities).'
+3.6
+Requirements 050, 050a and 050b are replaced by the following: 'Requirement 050
+ It shall be possible to input places where daily work periods begin and/or end through commands in the menus. If more than one such input is done within one calendar minute, only the last begin place input and the last end place input done within that time shall be kept recorded.' 'Requirement 50a
+ Upon driver (or workshop) card insertion, and only at this time, the recording equipment shall allow manual entries of activities. It shall be possible to make manual entries, if required, at the first insertion of a previously unused driver (or workshop) card. Manual entries of activities shall be performed using local time and date values of the time zone (UTC offset) currently set for the vehicle unit. At driver or workshop card insertion the cardholder shall be reminded of: —
+The date and time of his last card withdrawal. —
+Optionally: the local time offset currently set for the vehicle unit
+It shall be possible to input activities with the following restrictions: —
+Activity type shall be WORK, AVAILABILITY or BREAK/REST. —
+Start and end times for each activity shall be within the period of the last card withdrawal — current insertion only. Activities shall not be allowed to overlap mutually in time. The procedure for manual entries of activities shall include as many consecutive steps as necessary to set a type, a start time and an end time for each activity. For any part of the time period between last card withdrawal and current card insertion, the cardholder shall have the option not to declare any activity. During the manual entries associated with card insertion and if applicable, the card holder shall have the opportunity to input: —
+a place where a previous daily work period ended, associated to the relevant time (if not already entered at the last card withdrawal),
+—
+a place where the current daily work period begins, associated to the relevant time,
+If a location is entered, it shall be recorded in the relevant tachograph card. Manual entries shall be interrupted if: —
+the card is withdrawn or,
+—
+the vehicle is moving and the card is in the driver slot. Additional interruptions are allowed, e.g. a timeout after a certain period of user inactivity. If manual entries are interrupted, the recording equipment shall validate any complete place and activity entries (having either unambiguous place and time, or activity type, begin time and end time) already made. If a second driver or workshop card is inserted while manual entries of activities are in progress for a previously inserted card, the manual entries for this previous card shall be allowed to be completed before manual entries start for the second card. The cardholder shall have the option to insert manual entries according to the following minimum procedure: Enter activities manually, in chronological order, for the period last card withdrawal - current insertion.
+Article 1
+Annex IB to Regulation (EEC) No 3821/85 is amended as set out in the Annex to this Regulation.
+Article 2
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 October 2011. However, points 3.1, 3.8, 3.9, 3.11, 3.20, 8.2, 9.2, 12.3, 12.4 and 13 of the Annex shall apply from 1 October 2012 and points 7.2, 7.3 and 7.5 shall apply from the date of entry into force.
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on European Union and to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 3821/85 of 20 December 1985 on recording equipment in road transport (1), and in particular Article 17 (1) thereof,
+Whereas:
+
+(1) Article 1 of Regulation (EEC) No 3821/85 requires that recording equipment in road transport shall, as regards construction, testing, installation and use, comply with the requirements of Annex I, IB and II of that Regulation. (2) Article 5 of Regulation (EEC) No 3821/85 states that a Member State shall grant type approval to any type of digital tachograph which conforms to the requirements laid down in Annex IB to the Regulation. (3) Article 3 of Regulation (EEC) No 3821/85 requires that recording equipment shall be installed and used in relevant vehicles registered in a Member State. (4) Annex IB to Regulation (EEC) No 3821/85 sets out the technical specifications for the construction, testing, installation and inspection of the digital tachograph. (5) In order to improve and enhance the digital tachograph with a view to reducing administrative burdens on industry and to ensuring secure information on driving time and rest periods for both transport operators and national control authorities, it is necessary to adapt Annex IB of Regulation (EEC) No 3821/85 to technical progress. (6) The present Regulation does not prevent Member States from type approving equipment which conforms to the requirements it lays down even before its date of application so that more secure recording equipment can be rapidly commercialised. The present Regulation does not prevent Member States from type approving software which upgrades existing digital tachographs to meet requirements of the Regulation. (7) The present Regulation does not require the replacement of a functioning digital tachograph installed before its date of application. (8) Manufacturers of digital tachographs have declared that any access to any intellectual property rights which could provide an essential facility will be granted to any parties under fair, reasonable and non-discriminatory conditions and on reciprocal terms. (9) To facilitate cross-homologation of individual type approved components, and ensure that new manufacturers of digital tachograph recording equipment, or components thereof, are not prevented from entering the market, it is necessary to establish the application of international standards for technical interfaces between the different components. (10) To assist transport operators and undertakings in meeting their obligations under Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (2), the number of company locks should be increased. (11) To ensure proper enforcement and control checks of vehicles, and to identify drivers, a wider set of characters sets should be integrated into the digital tachograph. (12) To support industry, manufacturers and control bodies in being able to identify the current manufacturers in the market, as well as to be able to distinguish countries and the relevant codes, based on signs used on vehicles in international traffic, as set out in the United Nations Vienna Convention on Road Traffic, 1968, the appropriate lists should be maintained by the laboratory competent for carrying out interoperability tests, and made available on a public webpage. (13) In order to assist road transport undertakings to fulfil the legal obligations to store relevant information for enforcement purposes, common test specifications for printout paper to be used when granting a type approval should be established. (14) To reduce the administrative burdens, and therefore the costs, placed on operators and drivers when using the digital tachograph, the provisions for the installation, activation, calibration and inspection of the equipment should be simplified and aimed specifically at only those vehicles used for driving that fall within the scope of the drivers' hours rules as set out in Regulation (EC) No 561/2006 of the European Parliament and of the Council of 15 March 2006 on the harmonisation of certain social legislation relating to road transport (3). (15) During periodic inspections or on other occasions when the recording equipment needs to be checked, calibrated, repaired or inspected, workshops should test the equipment for the presence, or use, of manipulation devices and should make and keep a record of such events, including absent or broken seals. (16) Only the digital tachograph of vehicles falling within category M2, M3, N2 or N3, as defined in Annex II to Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (4), should automatically record over-speeding events. (17) Following the report provided by the Joint Research Centre (Report on the Attacks to Security of the Digital Tachograph and on the Risk Associated With the Introduction of Adaptors to be fitted into Light Vehicles), the communication of electronic data between the source of vehicle movement and the motion sensor should be protected against tampering, such as by the use of magnets, and that vehicle movement data should be corroborated by additional and independent, internal and external sources. (18) It is essential for the integrity and trustworthiness of the security of the digital tachograph system to ensure that tachograph cards issued to drivers are unique. In order to prevent drivers from applying for or possessing more than one valid card, an electronic exchange of data between Member States should exist. (19) The human-machine interface for making manual entries of activities when drivers have been away from their vehicle and, during that period, are unable to record their activities onto their driver cards, should be simplified and clarified. (20) It is helpful for drivers to have additional, optional information displayed for them on the display of the digital tachograph, and to suppress warnings when the vehicle is being driven out of scope of the rules. (21) The time taken to download data from the recording equipment should be reduced by improvements to the technical interfaces. (22) In order to maintain the trustworthiness of the system in the face of the forthcoming obsolescence of the security mechanisms currently in use, contingency measures are required to assure the continuity of the type approval process for tachograph equipment. (23) To ensure that at roadside checks driving patterns and the 'true' driving records can be determined, the driving time calculation and the rounding up to one minute of the periods of activity should be simplified. (24) The measures provided for in this Regulation are in accordance with the opinion of the Committee established under Article 18 of Regulation (EEC) No 3821/85. (25) Regulation (EEC) No 3821/85 should therefore be amended accordingly,
+HAS ADOPTED THIS REGULATION:
+recital 3
+(3) Article 3 of Regulation (EEC) No 3821/85 requires that recording equipment shall be installed and used in relevant vehicles registered in a Member State.
+recital 20
+(20) It is helpful for drivers to have additional, optional information displayed for them on the display of the digital tachograph, and to suppress warnings when the vehicle is being driven out of scope of the rules.
+Enter activities manually, in chronological order, for the period last card withdrawal - current insertion. Begin time of the first activity shall be set to card withdrawal time. For each subsequent entry, the start time shall be preset to immediately follow the end time of the previous entry. Activity type and end time shall be selected for each activity. The procedure shall end when the end time of a manually entered activity equals the card insertion time. The recording equipment may then optionally allow the card holder to modify any activity manually entered, until validation by selection of a specific command. Thereafter, any such modification shall be forbidden.' 'Requirement 50b
+ The recording equipment shall allow the driver to enter, in real time, the following two specific conditions: "OUT OF SCOPE" (begin, end)
+ "FERRY / TRAIN CROSSING"
+A "FERRY / TRAIN CROSSING" may not occur if an "OUT OF SCOPE" condition is opened. An opened "OUT OF SCOPE" condition shall be automatically closed, by the recording equipment, if a driver card is inserted or withdrawn. An opened "OUT OF SCOPE" condition shall inhibit the following events and warnings: —
+Driving without an appropriate card,
+—
+Warnings associated with continuous driving time.' 3.7
+Requirement 065 is replaced by the following: 'Requirement 065
+ This event shall be triggered for each over-speeding. This requirement shall apply only to vehicles falling within category M2, M3, N2 or N3, as defined in Annex II of Directive 2007/46/EC, establishing a framework for the approval of motor vehicles and their trailers'. 3.8
+The following text is inserted after Requirement 067: '9.9 bis. "Vehicle Motion Conflict" event
+Requirement 067a
+ This event shall also be triggered when a zero speed measurement is contradicted by motion information from at least one independent source for more than one uninterrupted minute. Requirement 067b
+ In cases where the vehicle unit can receive or elaborate speed values from external independent source of motion information, this event may also be triggered if such speed values significantly contradict those elaborated from the motion sensor speed signal for more than one minute'. 3.9
+In Requirement 094 the following line is inserted after 'motion data error' event:
+
+3.10
+Requirement 104 is replaced by the following: 'Requirement 104
+ The recording equipment shall record and store in its data memory the following data relevant to the 255 most recent company locks. —
+lock-in date and time,
+—
+lock-out date and time,
+—
+Company Card number and card issuing Member States,
+—
+Company name and address. Data previously locked by a lock removed from memory due to the limit above, shall be treated as not locked'. 3.11
+After Requirement 109a, the following requirement is inserted: 'Requirement 109b
+ The "Vehicle Motion Conflict" event shall not be stored on the driver and workshop cards.' 3.12
+Requirement 114a is replaced by the following: 'Requirement 114a
+ The display shall support the characters specified in Appendix 1 Chapter 4 'Character sets'. The display may use simplified glyphs (e.g. accented characters may be displayed without accent, or lower case letters may be shown as upper case letters)'. 3.13
+Requirement 121 is replaced by the following: 'Requirement 121
+ When no other information needs to be displayed, the recording equipment shall display, by default, the following: —
+the local time (as a result of UTC time + offset as set by the driver),
+—
+the mode of operation,
+—
+the current activity of the driver and the current activity of the co-driver. Information related to the driver: —
+if his current activity is DRIVING, his current continuous driving time and his current cumulative break time,
+—
+if his current activity is not DRIVING, the current duration of this activity (since it was selected) and his current cumulative break time.' 3.14
+Requirement 127 is replaced by the following: 'Requirement 127
+ It shall be possible to display selectively on request: —
+the UTC date and time, and local time offset,
+—
+the content of any of the six printouts under the same formats as the printouts themselves,
+—
+the continuous driving time and cumulative break time of the driver,
+—
+the continuous driving time and cumulative break time of the co-driver,
+—
+the cumulated driving time of the driver for the previous and the current week,
+—
+the cumulated driving time of the co-driver for the previous and the current week. Optional: —
+the current duration of co-driver activity (since it was selected),
+—
+the cumulated driving time of the driver for the current week,
+—
+the cumulated driving time of the driver for the current daily work period,
+—
+the cumulated driving time of the co-driver for the current daily work period.' 3.15
+Requirement 133a is replaced by the following: 'Requirement 133a
+ The printer shall support the characters specified in Appendix 1 Chapter 4 "Character sets" '.
+3.16
+Requirement 136 is replaced by the following: 'Requirement 136
+ The printout paper used by the recording equipment shall bear the relevant type approval mark and an indication of the type(s) of recording equipment with which it may be used.' 3.17
+The following requirements are inserted after Requirement 136: 'Requirement 136a
+ Printouts shall remain clearly legible and identifiable under normal conditions of storage, in terms of light intensity, humidity and temperature, for at least two years. Requirement 136b
+ The printout paper shall conform at least to the test specifications defined on the website of the laboratory appointed to carry out interoperability testing, as set out in Requirement 278. Requirement 136c
+ Any amendment or updating of the specifications described in the above paragraph shall only be made after the appointed laboratory has consulted the type approved digital tachograph vehicle unit manufacturer in conjunction with the type approval authorities'. 3.18
+Requirement 141 is replaced by the following: 'Requirement 141
+ The recording equipment shall warn the driver 15 minutes before and at the time of exceeding the maximum allowed continuous driving time' 3.19
+Requirement 145 is replaced by the following: 'Requirement 145
+ In the latter case it shall bear a "T" symbol.' 3.20
+After Requirement 161, the following requirement is inserted: 'Requirement 161a
+ Motion sensors shall either: —
+react to a magnetic field which disturbs vehicle motion detection. In such circumstances, the vehicle unit will record and store a sensor fault (Requirement 070) or,
+have a sensing element that is protected from, or immune to, magnetic fields.' 4. AMENDMENTS TO CHAPTER V (INSTALLATION)
+4.1
+Requirement 239 shall have the following sentence added: 'Delivery of security relevant parts of the recording equipment can be restricted if required during security certification'. 4.2
+Requirement 243 is replaced by the following: 'Requirement 243
+ Vehicle manufacturers or fitters shall activate the installed recording equipment at the latest before the vehicle is used in scope of Regulation (EC) No. 561/2006'. 4.3
+Requirement 248 and Requirement 249 are replaced by the following: 'Requirement 248
+ Installation shall be followed by a calibration. The first calibration may not necessarily include entry of the vehicle registration number (VRN), when it is not known by the approved workshop having to undertake this calibration. In these circumstances, it shall be possible, for the vehicle owner, and at this time only, to enter the VRN using his Company Card prior to using the vehicle in scope of Regulation (EC) No. 561/2006 (e.g by using commands through an appropriate menu structure of the vehicle unit's man-machine interface.) (1). Any update or confirmation of this entry shall only be possible using a Workshop Card'. 'Requirement 249
+ After the recording equipment has been checked on installation, an installation plaque which is clearly visible and easily accessible shall be affixed onto the recording equipment.
+'Requirement 249
+ After the recording equipment has been checked on installation, an installation plaque which is clearly visible and easily accessible shall be affixed onto the recording equipment. In cases where this is not possible, the plaque shall be affixed to the vehicle's "B" pillar so that it is clearly visible. For vehicles that do not have a "B" pillar, the installation plaque should be affixed to the doorframe on the driver's side of the vehicle and be clearly visible in all cases. After every inspection by an approved fitter or workshop, a new plaque shall be affixed in place of the previous one'. 4.4
+Requirement 250, sixth indent is replaced by the following: 'the date on which the characteristic coefficient of the vehicle and the effective circumference of the wheel tyres were measured'
+4.5
+After Requirement 250 the following requirement is inserted: 'Requirement 250a
+ For M1 and N1 vehicles only, and which are fitted with an adaptor in conformity with Regulation (EC) No. 68/2009 (2), and where it is not possible to include all the information necessary, as described in Requirement 250, a second, additional, plaque may be used. In such cases, this additional plaque shall contain at least the last four indents described in Requirement 250. This second, additional plaque, if used, shall be affixed next to or beside the first primary plaque described in Requirement 250, and shall have the same protection level. Furthermore the secondary plaque shall also bear the name, address or trade name of the approved fitter or workshop that carried out the installation, and the date of installation'. 5. AMENDMENTS TO CHAPTER VI (INSPECTIONS)
+5.1
+Requirement 257 is amended as follows: The fourth indent is replaced by '— that the installation plaque, as defined by Requirement 250, and the descriptive plaque, as defined by Requirement 169, are affixed' and the following indent is added: '— that there are no manipulation devices attached to the equipment'. 5.2
+The following requirements are inserted after Requirement 257: 'Requirement 257a
+ If one of the events listed in Chapter III Section 9 (Detection of Events and/or Faults) is found to have occurred since the last inspection and is considered by tachograph manufacturers and/or national authorities as potentially putting the security of the equipment at risk, the workshop shall: (a) make a comparison between the motion sensor identification data of the motion sensor plugged into the gearbox with that of the paired motion sensor registered in the vehicle unit; (b) check if the information recorded on the installation plaque matches with the information contained within the vehicle unit record; (c) by checking if the motion sensor serial number and approval number, if printed on the body of the motion sensor, matches the information contained within the vehicle unit record'. 'Requirement 257b
+ Workshops shall keep traces in their inspection reports of any findings concerning broken seals or manipulations devices. These reports shall be kept by workshops for at least two years and made available to the Competent Authority whenever requested to do so'. 6. AMENDMENTS TO CHAPTER VII (CARD ISSUING)
+6.1
+The following requirement is inserted after Requirement 268: 'Requirement 268a
+ Member States shall exchange data electronically in order to ensure the uniqueness of the tachograph Driver Card that they issue. The competent authorities of Member States may also exchange data electronically when carrying out checks of driver cards at the roadside or at company premises in order to verify the uniqueness and status of the cards.' 7. AMENDMENTS TO CHAPTER VIII (TYPE-APPROVAL)
+7.1
+In Section 1 General Points, a new sentence is added to the first paragraph: 'Any vehicle unit manufacturer may ask for type approval of its component with any type of motion sensor, and vice versa, provided each component complies with Requirement 001a'. 7.2
+After Requirement 274, the following requirements are inserted: 'Requirement 274a
+ In the exceptional circumstance that the security certification authorities refuse to certify new equipment on the grounds of obsolescence of the security mechanisms, type approval shall continue to be granted only in this specific and exceptional circumstance, and when no alternative solution, compliant with the Regulation, exists'. 'Requirement 274b
+ In this circumstance the Member State concerned shall, without delay, inform the European Commission, which shall, within twelve calendar months of the grant of type approval, launch a procedure to ensure that the level of security is restored to its original levels'. 7.3
+After Requirement 275, the following requirement is inserted: 'Requirement 275a
+ Manufacturers shall provide the relevant samples of type approved products and associated documentation required by laboratories appointed to perform functional tests, and within one month of the request being made. Any costs resulting from this request shall be borne by the requesting entity. Laboratories shall treat all commercially sensitive information in confidence'. 7.4
+After Requirement 277, the following requirement is inserted: 'Requirement 277a
+ The functional certificate of any recording equipment component shall also indicate the type approval numbers of all other type approved compatible recording equipment components'. 7.5
+Requirement 281 is replaced by: 'Requirement 281
+ No interoperability tests shall be carried out by the laboratory for recording equipment or tachograph cards that have not been granted a security certificate and a functionality certificate, except in the exceptional circumstances described in Requirement 274a.' 8. AMENDMENTS TO APPENDIX 1 (DATA DICTIONARY)
+8.1
+Section 2.2 is replaced by the following: '2.2
+Address
+An address. Address: = SEQUENCE {
+codePage INTEGER (0..255),
+address OCTET STRING (SIZE(35))
+}
+codePage specifies a character set defined in Chapter 4,
+address is an address encoded using the specified character set'. 8.2
+In Section 2.54, the line ' "0A"H to "0F"H RFU', is replaced by:
+
+| ' "0A"H | Vehicle Motion Conflict, |
+|---|---|
+| "0B"H to "0F"H | RFU,' | 8.3
+Section 2.70 is replaced with the following: '2.70
+Name
+A name. Name: = SEQUENCE {
+codePage INTEGER (0..255),
+name OCTET STRING (SIZE(35))
+}
+codePage specifies a character set defined in Chapter 4,
+name is a name encoded using the specified character set'. 8.4
+Section 2.114 is replaced with the following: '2.114
+VehicleRegistrationNumber
+Registration number of the vehicle (VRN). The registration number is assigned by the vehicle licensing authority. VehicleRegistrationNumber: = SEQUENCE {
+codePage INTEGER (0..255),
+vehicleRegNumber OCTET STRING (SIZE(13))
+}
+codePage specifies a character set defined in Chapter 4,
+vehicleRegNumber is a VRN encoded using the specified character set. Value assignment: Country specific'. 8.5
+The last paragraph of Chapter 4 is replaced by the following text:
+
+| 'Other character strings (Address, Name, VehicleRegistrationNumber) use, in addition, characters from the decimal character code range 161 - 255 of the following 8-bit, standard character sets, specified by the Code Page number: Standard Character Set | Code Page (Decimal) |
+|---|---|
+| ISO/IEC 8859-1 Latin-1 Western European | 1 |
+| ISO/IEC 8859-2 Latin-2 Central European | 2 |
+| ISO/IEC 8859-3 Latin-3 South European | 3 |
+| ISO/IEC 8859-5 Latin / Cyrillic | 5 |
+| ISO/IEC 8859-7 Latin / Greek | 7 |
+| ISO/IEC 8859-9 Latin-5 Turkish | 9 |
+| ISO/IEC 8859-13 Latin-7 Baltic Rim | 13 |
+| ISO/IEC 8859-15 Latin-9 | 15 |
+| ISO/IEC 8859-16 Latin-10 South Eastern European | 16 |
+| KOI8-R Latin / Cyrillic | 80 |
+| KOI8-U Latin / Cyrillic | 85' |
+
+8.6
+In Chapter 2, Section 2.67 is replaced by the following: '2.67
+ManufacturerCode
+Code identifying a manufacturer of type-approved equipment.
+'2.67
+ManufacturerCode
+Code identifying a manufacturer of type-approved equipment. ManufacturerCode: = INTEGER (0..255)
+The laboratory competent for interoperability tests maintains and publishes the list of manufacturer codes on its web site (requirement 290). ManufacturerCodes are provisionally assigned to developers of tachograph equipment on application to the laboratory competent for interoperability tests'. 8.7
+Section 2.71 is replaced by the following: '2.71
+NationAlpha
+Alphabetic reference to a country shall be in accordance with the distinguishing signs used on vehicles in international traffic (United Nations Vienna Convention on Road Traffic, 1968). NationAlpha: = IA5String (SIZE (3))
+The Nation Alpha and Numeric codes shall be held on a list maintained on the website of the laboratory appointed to carry out interoperability testing, as set out in Requirement 278'. 8.8
+Section 2.72 is replaced by the following: '2.72
+NationNumeric
+Numerical reference to a country. NationNumeric: = INTEGER (0.. 255)
+Value assignment: see data type 2.71 (NationAlpha)
+Any amendment or updating of the Nation Alpha or Numeric specification described in the above paragraph shall only be made out after the appointed laboratory has obtained the views of type approved digital tachograph vehicle unit manufacturers.' 9. AMENDMENTS TO APPENDIX 3 (PICTOGRAMS)
+9.1
+Requirement PIC_001 is replaced by: 'PIC_001
+ The recording equipment may optionally use the following pictograms and pictogram combinations (or pictograms and combination similar enough to be unambiguously identifiable with these)':
+9.2
+Section 2, in the 'Events' sub-sub section, the following pictogram is added: ' {{IMAGE:Image_0, Caption:"The image displays the pictogram combination for a "Vehicle Motion Conflict" event, consisting of an exclamation mark, a motion sensor symbol, and a conflict symbol."}}
+ Vehicle Motion Conflict'
+10. AMENDMENTS TO APPENDIX 4 (PRINTOUTS)
+10.1
+PRT_006 in Section 2, Data Block Specification, is replaced by: 'PRT_006
+Printouts shall use the following data blocks and/or data records, in accordance with the following meanings and formats: 1
+Date and time at which the document is printed. {{IMAGE:Image_2, Caption:T-shaped pictogram symbol used in recording equipment event logging.}} {{IMAGE:Image_2, Caption:T-shaped pictogram symbol used in recording equipment event logging.}}
+
+| Block identifier. P= people pictogram | - - - - - - - - -P- - - - - - - - - |
+|---|---|
+| Card holder surname | P Last_Name |
+| Card holder first name(s) (if any) | First_Name |
+| Card identification | Card_Identification |
+| Card expiry date (if any) | dd/mm/yyyy |
+| In the case where the card is a non-personal card, and holds no card holder surname, the company or workshop or control body name shall be printed instead. | In the case where the card is a non-personal card, and holds no card holder surname, the company or workshop or control body name shall be printed instead. | {{IMAGE:Image_1, Caption:T-shaped pictogram symbol used in recording equipment event logging.}} {{IMAGE:Image_74, Caption:A vertical rectangular pictogram divided into two stacked sections, used to represent a specific event in recording equipment.}} {{IMAGE:Image_74, Caption:A vertical rectangular pictogram divided into two stacked sections, used to represent a specific event in recording equipment.}} {{IMAGE:Image_9, Caption:A blurry pictogram showing a T-shaped symbol.}} {{IMAGE:Image_9, Caption:A blurry pictogram showing a T-shaped symbol.}} {{IMAGE:Image_9, Caption:A blurry pictogram showing a T-shaped symbol.}} {{IMAGE:Image_11, Caption:A pictogram icon depicting a vertical rectangular symbol with a white central area, used in recording equipment regulations.}} {{IMAGE:Image_11, Caption:A pictogram icon depicting a vertical rectangular symbol with a white central area, used in recording equipment regulations.}} dd/mm/yyyy hh:mm pppp
+Type of the control: Up to four pictograms. The type of control can be (a combination) of: {{IMAGE:Image_72, Caption:Pictogram symbol added to the 'Events' section of the recording equipment regulations.}} {{IMAGE:Image_13, Caption:A regulatory pictogram displaying a downward-pointing arrow extending from a horizontal bar.}} {{IMAGE:Image_14, Caption:A T-shaped pictogram resembling a hammer or sensor, added to the 'Events' section of recording equipment regulations.}} {{IMAGE:Image_15, Caption:Pictogram showing a vertical rectangle with a thick border.}} {{IMAGE:Image_54, Caption:A pixelated black-and-white pictogram showing a square border containing a central cross-like or target-shaped figure.}} 8.1 Period during which the card was not inserted
+8.1a
+Record identifier (start of period)
+- - - - - - - - - - - - - - - - - -
+8.1b
+Unknown period. {{IMAGE:Image_39, Caption:A pixelated pictogram depicting a question mark symbol, referenced in the context of recording equipment events.}} : hh:mm hhhmm
+8.1c
+Activity manually entered
+A: hh:mm hhhmm
+Activity pictogram, start time, duration. {{IMAGE:Image_2, Caption:T-shaped pictogram symbol used in recording equipment event logging.}} {{IMAGE:Image_54, Caption:A pixelated black-and-white pictogram showing a square border containing a central cross-like or target-shaped figure.}} {{IMAGE:Image_54, Caption:A pixelated black-and-white pictogram showing a square border containing a central cross-like or target-shaped figure.}} {{IMAGE:Image_54, Caption:A pixelated black-and-white pictogram showing a square border containing a central cross-like or target-shaped figure.}}
+
+| Block identifier | - - - - - - - - - -S- - - - - - - - |
+|---|---|
+| 10a Out of scope condition in the beginning of this day (leave blank if no out of scope condition open) | - - - - - - - - -OUT- - - - - - - - | 10.1 Period where no card is inserted in slot S
+Record identifier. {{IMAGE:Image_54, Caption:A pixelated black-and-white pictogram showing a square border containing a central cross-like or target-shaped figure.}} {{IMAGE:Image_72, Caption:Pictogram symbol added to the 'Events' section of the recording equipment regulations.}} {{IMAGE:Image_54, Caption:A pixelated black-and-white pictogram showing a square border containing a central cross-like or target-shaped figure.}} {{IMAGE:Image_26, Caption:A pictogram featuring a bold cross shape, designated for use in the 'Events' section of recording equipment requirements.}} Nat/VRN
+Date and time of card withdrawal from previous vehicle
+dd/mm/yyyy hh:mm
+Blank line
+Vehicle odometer at card insertion, Manual entry of driver activities flag (M if yes, Blank if No). x xxx xxx km M
+If no card insertion of a driver card happened on the day for which the printout is done then for block 10.2 the odometer data reading from the last available card insertion before that day shall be used. {{IMAGE:Image_54, Caption:A pixelated black-and-white pictogram showing a square border containing a central cross-like or target-shaped figure.}} {{IMAGE:Image_54, Caption:A pixelated black-and-white pictogram showing a square border containing a central cross-like or target-shaped figure.}} {{IMAGE:Image_29, Caption:A pixelated pictogram resembling a lightning bolt or jagged line, likely representing a power supply interruption event in the context of tachograph regulations.}} {{IMAGE:Image_54, Caption:A pixelated black-and-white pictogram showing a square border containing a central cross-like or target-shaped figure.}} {{IMAGE:Image_72, Caption:Pictogram symbol added to the 'Events' section of the recording equipment regulations.}} {{IMAGE:Image_54, Caption:A pixelated black-and-white pictogram showing a square border containing a central cross-like or target-shaped figure.}} {{IMAGE:Image_72, Caption:Pictogram symbol added to the 'Events' section of the recording equipment regulations.}} {{IMAGE:Image_54, Caption:A pixelated black-and-white pictogram showing a square border containing a central cross-like or target-shaped figure.}}
+| pi=location begin / end pictogram, time, country, region, | pihh:mm Cou Reg |
+|---|---|
+| Odometer | x xxx xxx km | {{IMAGE:Image_54, Caption:A pixelated black-and-white pictogram showing a square border containing a central cross-like or target-shaped figure.}} {{IMAGE:Image_50, Caption:A pictogram displaying a cross or 'X' shape, typically used to designate a specific event, conflict, or malfunction in recording equipment regulations.}} {{IMAGE:Image_51, Caption:A pictogram symbol designated for the 'Events' sub-section of recording equipment regulations.}} {{IMAGE:Image_52, Caption:A pixelated pictogram resembling the lowercase letter 'h' or a chair in profile.}} {{IMAGE:Image_39, Caption:A pixelated pictogram depicting a question mark symbol, referenced in the context of recording equipment events.}} {{IMAGE:Image_54, Caption:A pixelated black-and-white pictogram showing a square border containing a central cross-like or target-shaped figure.}} {{IMAGE:Image_54, Caption:A pixelated black-and-white pictogram showing a square border containing a central cross-like or target-shaped figure.}} {{IMAGE:Image_54, Caption:A pixelated black-and-white pictogram showing a square border containing a central cross-like or target-shaped figure.}} {{IMAGE:Image_50, Caption:A pictogram displaying a cross or 'X' shape, typically used to designate a specific event, conflict, or malfunction in recording equipment regulations.}} {{IMAGE:Image_51, Caption:A pictogram symbol designated for the 'Events' sub-section of recording equipment regulations.}} {{IMAGE:Image_52, Caption:A pixelated pictogram resembling the lowercase letter 'h' or a chair in profile.}} {{IMAGE:Image_50, Caption:A pictogram displaying a cross or 'X' shape, typically used to designate a specific event, conflict, or malfunction in recording equipment regulations.}} {{IMAGE:Image_51, Caption:A pictogram symbol designated for the 'Events' sub-section of recording equipment regulations.}} {{IMAGE:Image_52, Caption:A pixelated pictogram resembling the lowercase letter 'h' or a chair in profile.}} {{IMAGE:Image_54, Caption:A pixelated black-and-white pictogram showing a square border containing a central cross-like or target-shaped figure.}} {{IMAGE:Image_50, Caption:A pictogram displaying a cross or 'X' shape, typically used to designate a specific event, conflict, or malfunction in recording equipment regulations.}} {{IMAGE:Image_51, Caption:A pictogram symbol designated for the 'Events' sub-section of recording equipment regulations.}} {{IMAGE:Image_52, Caption:A pixelated pictogram resembling the lowercase letter 'h' or a chair in profile.}} {{IMAGE:Image_54, Caption:A pixelated black-and-white pictogram showing a square border containing a central cross-like or target-shaped figure.}} {{IMAGE:Image_54, Caption:A pixelated black-and-white pictogram showing a square border containing a central cross-like or target-shaped figure.}} hhhmm
+When a daily printout is required for the current day, daily summary information is computed with available data at the time of the printout. {{IMAGE:Image_71, Caption:Exclamation mark pictogram representing an event.}} {{IMAGE:Image_69, Caption:A blurred, dot-matrix style pictogram displaying a cross or 'X' shape.}} {{IMAGE:Image_72, Caption:Pictogram symbol added to the 'Events' section of the recording equipment regulations.}} {{IMAGE:Image_71, Caption:Exclamation mark pictogram representing an event.}} {{IMAGE:Image_72, Caption:Pictogram symbol added to the 'Events' section of the recording equipment regulations.}} {{IMAGE:Image_69, Caption:A blurred, dot-matrix style pictogram displaying a cross or 'X' shape.}} {{IMAGE:Image_72, Caption:Pictogram symbol added to the 'Events' section of the recording equipment regulations.}} {{IMAGE:Image_71, Caption:Exclamation mark pictogram representing an event.}} {{IMAGE:Image_71, Caption:Exclamation mark pictogram representing an event.}} {{IMAGE:Image_69, Caption:A blurred, dot-matrix style pictogram displaying a cross or 'X' shape.}} {{IMAGE:Image_71, Caption:Exclamation mark pictogram representing an event.}} {{IMAGE:Image_69, Caption:A blurred, dot-matrix style pictogram displaying a cross or 'X' shape.}} {{IMAGE:Image_71, Caption:Exclamation mark pictogram representing an event.}} {{IMAGE:Image_72, Caption:Pictogram symbol added to the 'Events' section of the recording equipment regulations.}} - - -
+The record purpose (p) is a numerical code explaining why the event or fault was recorded, coded in accordance with the data element EventFaultRecordPurpose. {{IMAGE:Image_74, Caption:A vertical rectangular pictogram divided into two stacked sections, used to represent a specific event in recording equipment.}} {{IMAGE:Image_74, Caption:A vertical rectangular pictogram divided into two stacked sections, used to represent a specific event in recording equipment.}} {{IMAGE:Image_76, Caption:A vertical rectangular pictogram associated with recording equipment events.}} {{IMAGE:Image_76, Caption:A vertical rectangular pictogram associated with recording equipment events.}} S/N
+Sensor approval number
+Apprv
+Sensor first installation date
+dd/mm/yyyy' 10.2
+Section 3.1. Driver Activities from daily card printout is replaced by the following: '3.1 Driver Activities from Card Daily Printout
+PRT_007
+The driver activities from card daily printout shall be in accordance with the following format:
+
+| 1 | Date and time at which the document is printed |
+|---|---|
+| 2 | Type of printout |
+| 3 | Controller identification (if a control card is inserted in the VU) |
+| 3 | Driver identification (from card subject of the printout) |
+| 4 | Vehicle identification (vehicle from which printout is taken) |
+| 5 | VU identification (VU from which printout is taken) |
+| 6 | Last calibration of this VU |
+| 7 | Last control the inspected driver has been subject to |
+| 8 | Driver activities delimiter |
+| 8a | Out of scope condition in the beginning of this day |
+| 8.1a / 8.1b / 8.1c / 8.2 / 8.3 / 8.3a / 8.4 | Activities of the driver in order of occurrence |
+| 11 | Daily summary delimiter |
+| 11.4 | Places entered in chronological order |
+| 11.5 | Activity totals |
+| 12.1 | Events or faults from card delimiter |
+| 12.4 | Event/Fault records (Last 5 events or faults stored in the card) |
+| 13.1 | Events or faults from VU delimiter |
+| 13.4 | Event/Fault records (Last 5 events or faults stored or on-going in the VU) |
+| 21.1 | Control place |
+| 21.2 | Controller's signature |
+| 21.5 | Driver's signature' | 10.3
+Section 3.2 Driver Activities from daily VU printout is replaced by: 'Section 3.2 Driver Activities from daily VU printout
+PRT_008
+The driver activities from VU daily printout shall be in accordance with the following format:
+
+| 1 | Date and time at which the document is printed |
+|---|---|
+| 2 | Type of printout |
+| 3 | Card holder identification (for all cards inserted in VU) |
+| 4 | Vehicle identification (vehicle from which printout is taken) |
+| 5 | VU identification (VU from which printout is taken) |
+| 6 | Last calibration of this VU |
+| 7 | Last control on this recording equipment |
+| 9 | Driver activities delimiter |
+| 10 | Driver slot delimiter (slot 1) |
+| 10a | Out of scope condition in the beginning of this day |
+| 10.1 / 10.2 / 10.3 /10.3a / 10.4 | Activities in chronological order (driver slot) |
+| 10 | Co-driver slot delimiter (slot 2) |
+| 10a | Out of scope condition in the beginning of this day |
+| 10.1 / 10.2 / 10.3 /10.3a / 10.4 | Activities in chronological order (co-driver slot) |
+| 11 | Daily summary delimiter |
+| 11.1 | Summary of periods without card in driver slot |
+| 11.4 | Places entered in chronological order |
+| 11.6 | Activity totals |
+| 11.2 | Summary of periods without card in co-driver slot |
+| 11.4 | Places entered in chronological order |
+| 11.8 | Activity totals |
+| 11.3 | Summary of activities for a driver both slots included |
+| 11.4 | Places entered by this driver in chronological order |
+| 1 | Date and time at which the document is printed |
+|---|---|
+| 11.4 | Places entered by this driver in chronological order |
+| 11.7 | Activity totals for this driver |
+| 13.1 | Events faults delimiter |
+| 13.4 | Event/Fault records (Last 5 events or faults stored or on-going in the VU) |
+| 21.1 | Control place |
+| 21.2 | Controller's signature |
+| 21.3 | From time (space available for a driver without a card to indicate |
+| 21.4 | To time which periods are relevant to himself) |
+| 21.5 | Driver's signature' |
+
+11. AMENDMENTS TO APPENDIX 7 (DATA DOWNLOADING PROTOCOL)
+11.1
+The footnote in section 2.1 associated with download procedure, is replaced by the following: '(1) The card inserted will trigger the appropriate access rights to the downloading function and to the data. It shall, however, be possible to download data from a driver card inserted into one of the VU slots when no other card is inserted in the other slot.' 12. AMENDMENTS TO APPENDIX 9 (TYPE APPROVAL - LIST OF MINIMUM REQUIRED TESTS)
+12.1
+In Chapter I the following ISO standard is added to the first paragraph: '1.2. References
+ISO 16844-3:2004, Cor 1:2006 Road vehicles - Tachograph systems - Part 3: Motion sensor interface (with vehicle units)'. 12.2
+In Chapter II VEHICLE UNIT FUNCTIONAL TESTS, the following new requirement is added to Section 3 of the Functional Tests to be carried out: '3.36
+Motion sensor interface, related requirements 001a, Requirement 099' 12.3
+In Chapter II the following new requirement is added: ' Functional Test (VU)
+3.37
+Verify that the VU detects, records and stores the event(s) and/or fault(s) defined by the VU manufacturer when a paired motion sensor reacts to magnetic fields disturbing vehicle motion detection, Requirement 161a.' 12.4
+In Chapter III the following new requirement is added: Functional Test (motion sensor)
+'3.5
+Check that the motion sensor is immune to magnetic field. Alternatively, verify that the motion sensor reacts to magnetic fields disturbing vehicle motion detection so that a paired VU can detect, record and store sensor faults, related requirement 161a.' 12.5
+In Chapter III MOTION SENSOR FUNCTIONAL TESTS, the following new requirement is added to Section 3 of the Functional Tests to be carried out: '3.4. Vehicle unit interface, Requirement 001a'. 13. AMENDMENTS TO APPENDIX 12 (ADAPTOR FOR M1 and N1 VEHICLES)
+In Chapter VII, Section 7.2 the following new requirement is added: '3.3
+Check that the adaptor is immune to magnetic fields. Alternatively, verify that the adaptor reacts to magnetic fields disturbing vehicle motion detection so that a connected VU can detect, record and store sensor faults, related requirement 161a.' (1) OJ L 102, 11.4.2006, p. 1. (2) OJ L 21, 24.1.2009, p. 3.

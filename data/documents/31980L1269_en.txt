@@ -1,0 +1,409 @@
+Council Directive 80/1269/EEC of 16 December 1980 on the approximation of the laws of the Member States relating to the engine power of motor vehicles
+COUNCIL DIRECTIVE of 16 December 1980 on the approximation of the laws of the Member States relating to the engine power of motor vehicles (80/1269/EEC) THE COUNCIL OF THE EUROPEAN COMMUNITIES, Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof, Having regard to the proposal from the Commission (1), Having regard to the opinion of the European Parliament (2), Having regard to the opinion of the Economic and Social Committee (3), Whereas the technical requirements which motor vehicles must satisfy pursuant to certain national laws relate inter alia to the method of measuring engine power which must be used to indicate the engine power of a vehicle type; Whereas those requirements differ from one Member State to another ; whereas this results in technical barriers to trade which must be eliminated by all Member States adopting the same requirements either in addition to or in place of their existing rules, in order in particular to allow the EEC type-approval procedure which was the subject of Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (4), as last amended by Directive 80/1267/EEC (5), to be introduced in respect of each type of vehicle, HAS ADOPTED THIS DIRECTIVE: Article 1 For the purposes of this Directive, "vehicle" means any motor vehicle intended for use on the road, with or without bodywork, having at least four wheels and a maximum design speed exceeding 25 km/h, with the exception of vehicles which run on rails and of agricultural tractors and machinery.
+
+Article 2 No Member State may refuse to grant EEC type-approval or national type-approval in respect of a vehicle, or refuse or prohibit the sale, registration, entry into service or use of a vehicle, on grounds relating to its engine power if this has been determined in accordance with Annexes I and II. Article 3 Any amendments necessary for adapting the requirements of the Annexes to take account of technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 70/156/EEC. Article 4 1. Member States shall bring into force the provisions necessary in order to comply with this Directive within 18 months of its notification. They shall forthwith inform the Commission thereof. (1)OJ No C 104, 28.4.1980, p. 9. (2)OJ No C 265, 13.10.1980, p. 76. (3)OJ No C 182, 21.7.1980, p. 3. (5)(4)OJ No L 42, 23.2.1970, p. 1. (6)(5)See page 34 of this Official Journal. 2. Member States shall ensure that the texts of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission. Article 5 This Directive is addressed to the Member States. Done at Brussels, 16 December 1980. For the Council The President Colette FLESCH ANNEX I DETERMINATION OF ENGINE POWER 1. EEC TYPE-APPROVAL 1.1. Application for EEC type-approval The application for EEC type-approval for a vehicle type in respect of the engine power is submitted by the vehicle manufacturer or his authorized representative. 1.1.1. It must be accompanied by three copies of the document mentioned below and of the following: 1.1.1.1. Information sheet duly completed, 1.1.1.2. Information required in Appendix 1 or 2. 1.1.2. If the technical service responsible for the type-approval tests carries out the tests itself, a vehicle representative of the vehicle type to be approved must be provided. 1.2. Documents Where an application within the meaning of 1.1 is accepted, the competent authority must prepare the document, the model for which is contained in Annex II. In order to draw up this document, the competent authority of the Member State conducting the EEC type-approval tests may use the report prepared by an approved or recognized laboratory pursuant to the provisions of this Directive. 2. SCOPE 2.1. This method applies to internal combustion engines used for the propulsion of category M and N vehicles as defined in Annex I to Directive 70/156/EEC, belonging to either of the following types. 2.1.1. Internal combustion piston engines (positive ignition or diesel), excluding free-piston engines; 2.1.2. Rotary piston engines. 2.2. This method applies to naturally aspirated or supercharged engines. 3. DEFINITIONS For the purposes of this Directive, 3.1. "Net power" means the power obtained on the test-bed at the end of the crankshaft or its equivalent at the corresponding engine speed with the auxiliaries listed in Table 1. If the power measurement can be carried out with a mounted gearbox only, the efficiency of the gearbox is to be taken into account. 3.2. "Maximum net power" means the maximum value of the net power measured at full engine load. 3.3. "Standard-production equipment" means equipment provided by the manufacturer for a particular application. 4. ACCURACY OF THE MEASUREMENTS OF FULL LOAD POWER 4.1. Torque 4.1.1. Subject to 4.1.2, the capacity of the dynamometer must be such that the first quarter of its scale is not used. The measuring system must be accurate to within ± 0 75 % of the maximum scale value (excluding the first quarter). 4.1.2. The scale region between one sixth and one quarter of the maximum scale may however be used if the system accuracy at one sixth of the scale is within ± 0 725 % of the maximum scale value. 4.2. Engine speed The measurement must be accurate to within ± 0 75 %. Engine speed must be measured preferably with an automatically synchronized revolution counter and chronometer (or counter-timer). 4.3. Fuel consumption ± 1 % overall for the apparatus used. 4.4. Engine inlet air temperature ± 2 ºC. 4.5. Barometric pressure ± 2 mbar. 4.6. Pressure In test-bed exhaust extraction duct (see note 1 to Table 1) 4.7. Pressure in inlet manifold : ± 0 75 mbar. 4.8. Pressure In vehicle exhaust pipe : ± 2 mbar. 5. NET POWER OF THE ENGINE 5.1. Tests 5.1.1. Auxiliary equipment During the test, the auxiliary equipment to be fitted as specified below must be installed on the engine, as far as possible in the same position as that in which it would be for the particular use in question. 5.1.1.1. Auxiliary equipment to be fitted The auxiliary equipment to be fitted during the test for determination of the net power of the engine is listed in Table 1 below. 5.1.1.2. Auxiliary equipment to be removed Certain auxiliary equipment which is necessary only for the operation of the vehicle and which may be mounted on the engine must be removed for the test. The following non-exhaustive list is given by way of example: - air compressor for brakes, - power steering compressor, - suspension compressor, - air-conditioning system, - cooling equipment for hydraulic transmission and/or gearbox oil. Where accessories cannot be removed, the power absorbed by them in the unloaded condition may be determined and added to the engine power measured. TABLE 1 Auxiliary equipment to be included for the test to determine net power of engine >PIC FILE= "T0013845"> >PIC FILE= "T0013846"> 5.1.1.3. Auxiliary equipment for starting diesel engines For the auxiliary equipment used in starting diesel engines, the two following cases must be considered: 5.1.1.3.1. Electrical starting : The generator is fitted and it supplies, where necessary, the auxiliary equipment essential for the operation of the engine. 5.1.1.3.2. Starting other than electrical : If there are any electrically operated accessories essential for the operation of the engine, the generator is fitted and supplies these accessories. Otherwise, it is removed. In either case., the system for producing and accumulating the energy necessary for starting is fitted and operates in the unloaded condition.
+Consolidated text: Council Directive of 16 December 1980 on the approximation of the laws of the Member States relating to the engine power of motor vehicles (80/1269/EEC)
+Consolidated TEXT: 31980L1269 — EN — 31.12.1999
+1980L1269 — EN — 31.12.1999 — 004.001
+This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents
+►B
+COUNCIL DIRECTIVE
+of 16 December 1980
+on the approximation of the laws of the Member States relating to the engine power of motor vehicles
+(80/1269/EEC)
+(OJ L 375, 31.12.1980, p.46)
+Amended by:
+
+Official Journal
+ No
+page
+date
+►M1
+Commission Directive 88/195/EEC of 24 March 1988
+ L 92
+50
+9.4.1988
+►M2
+Commission Directive 89/491/EEC of 17 July 1989
+ L 238
+43
+15.8.1989
+►M3
+Commission Directive 97/21/EC Text with EEA relevance of 18 April 1997
+ L 125
+31
+16.5.1997
+►M4
+Commission Directive 1999/99/EC Text with EEA relevance of 15 December 1999
+ L 334
+32
+28.12.1999
+Corrected by: ►C1
+Corrigendum, OJ L 105, 26.4.1988, p. 34 (88/195)
+▼B
+COUNCIL DIRECTIVE
+of 16 December 1980
+on the approximation of the laws of the Member States relating to the engine power of motor vehicles
+(80/1269/EEC)
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,
+Having regard to the proposal from the Commission (
+1
+),
+Having regard to the opinion of the European Parliament (
+2
+),
+Having regard to the opinion of the Economic and Social Committee (
+3
+),
+Whereas the technical requirements which motor vehicles must satisfy pursuant to certain national laws relate inter alia to the method of measuring engine power which must be used to indicate the engine power of a vehicle type; Whereas those requirements differ from one Member State to another; whereas this results in technical barriers to trade which must be eliminated by all Member States adopting the same requirements either in addition to or in place of their existing rules, in order in particular to allow the EEC type-approval procedure which was the subject of Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (
+4
+), as last amended by Directive 80/1267/EEC (
+5
+), to be introduced in respect of each type of vehicle,
+HAS ADOPTED THIS DIRECTIVE: ▼M3
+Article 1
+For the purposes of this Directive, 'vehicle' means any motor vehicle intended for use on the road, with or without bodywork, having at least four wheels and a maximum design speed exceeding 25 km/h, with the exception of vehicles which run on rails and of agricultural and forestry tractors and all mobile machinery. ▼B
+Article 2
+No Member State may refuse to grant EEC type-approval or national type-approval in respect of a vehicle, or refuse or prohibit the sale, registration, entry into service or use of a vehicle, on grounds relating to its engine power if this has been determined in accordance with 
+►M3
+ the relevant Annexes ◄ .
+Article 3
+Any amendments necessary for adapting the requirements of the Annexes to take account of technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 70/156/EEC. Article 4
+1. Member States shall bring into force the provisions necessary in order to comply with this Directive within 18 months of its notification. They shall forthwith inform the Commission thereof. 2. Member States shall ensure that the texts of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission. Article 5
+This Directive is addressed to the Member States. ▼M3
+LIST OF ANNEXES
+Annex I: Determination of engine power
+Appendix 1: Information document
+Appendix 2:
+Type-approval certificate
+Annex II: Test report
+▼M1
+ANNEX 1
+DETERMINATION OF ENGINE POWER
+▼M3
+1. ADMINISTRATIVE PROVISIONS FOR TYPE-APPROVAL
+1.1. Application for EC type-approval of a vehicle type
+1.1.1. The application for EC type-approval pursuant to Article 3 (4) of Directive 70/156/EEC of a vehicle type with regard to its engine power shall be submitted by the manufacturer. 1.1.2. A model for the information document is given in Appendix 1. 1.1.3. If the technical service responsible for the type-approval tests carries out the test itself, the following must be submitted: 1.1.3.1. an engine representative of the type to be approved together with the auxiliary equipment specified in Table 1. 1.2. Granting of EC type-approval of a vehicle type
+1.2.1. If the relevant requirements are satisfied, EC type-approval pursuant to Article 4 (3) and, if applicable, Article 4 (4) of Directive 70/156/EEC shall be granted. 1.2.2. A model for the EC type-approval certificate is given in Appendix 2. 1.2.3. An approval number in accordance with Annex VII to Directive 70/156/EEC shall be assigned to each type of vehicle approved. The same Member State shall not assign the same number to another type of vehicle. 1.3. Modifications of the type and amendments to approvals
+1.3.1. In the case of modifications of the type approved pursuant to this Directive, the provisions of Article 5 of Directive 70/156/EEC shall apply. 1.4. Conformity of production
+1.4.1. Measures to ensure the conformity of production shall be taken in accordance with the provisions laid down in Article 10 of Directive 70/156/EEC. ▼M1
+2. SCOPE
+2.1. This method applies to internal-combustion engines used for the propulsion of category M and N vehicles as defined in 
+►M3
+ Annex II Section A ◄ to Directive 70/156/EEC, belonging to either of the following types. 2.1.1. Internal-combustion piston engines (positive ignition or compression ignition), excluding free-piston engines; 2.1.2. Rotary-piston engines. 2.2. This method applies to naturally aspirated or supercharged engines. 3. DEFINITIONS
+For the purposes of this Directive,
+3.1. 'Net power' means the power obtained on the test-bed at the end of the crankshaft or its equivalent at the corresponding engine speed with the auxiliaries listed in Table 1. If the power measurement can be carried out with a mounted gearbox only, the efficiency of the gearbox is to be taken into account. 3.2. 'Maximum net power' means the maximum value of the net power measured at full engine load. 3.3. 'Standard-production equipment' means equipment provided by the manufacturer for a particular application. 4. ACCURACY OF THE MEASUREMENTS OF FULL LOAD POWER
+4.1. Torque: ± 1 % of measured torque (
+6
+). 4.2. Engine speedThe measurement must be accurate to within ± 0,5 %. Engine speed must be measured preferably with an automatically synchronized revolution counter and chronometer (or counter-timer). 4.3. Fuel consumption: ± 1 % of measured consumption. 4.4. Fuel temperature: ± 2 K.
+4.5. Engine inlet air temperature: ± 2 K.
+4.6. Barometric pressure: ± 100 Pa.
+4.7. Pressure in inlet manifold: ± 50 Pa (see note 1a to Table 1). 4.8. ►C1
+ Pressure in vehicle exhaust pipe: ± 200 Pa ◄ (see note 1b to Table 1). 5. TEST FOR MEASURING NET ENGINE POWER
+5.1. Auxiliaries
+5.1.1. Auxiliary equipment to be fitted
+During the test, the auxiliary equipment necessary for the engine operation in the intended application (as listed in Table 1) shall be installed on the test bench as far as possible in the same position as the intended application. 5.1.2. Auxiliary equipment to be removed
+Certain vehicle accessories necessary only for the operation of the vehicle and which may be mounted on the engine shall be removed for the test. The following non-exhaustive list is given as a sample: — air compressor for brakes,
+— power-steering compressor,
+— suspension compressor,
+— air-conditioning system. Where accessories cannot be removed, the power absorbed by them in the unloaded condition may be determined and added to the measured engine power.
+COUNCIL DIRECTIVE
+of 16 December 1980
+on the approximation of the laws of the Member States relating to the engine power of motor vehicles
+Consolidated TEXT: 31980L1269 — EN — 31.12.2013
+Top
+1980L1269 — EN — 31.12.2013 — 005.001
+This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents
+►B
+COUNCIL DIRECTIVE
+of 16 December 1980
+on the approximation of the laws of the Member States relating to the engine power of motor vehicles
+(80/1269/EEC)
+(OJ L 375, 31.12.1980, p.46)
+repealed by:
+
+Official Journal
+No
+page
+date
+Regulation (EC) No 595/2009 of the European Parliament and of the Council of 18 June 2009
+L 188
+1
+18.7.2009
+In either case., the system for producing and accumulating the energy necessary for starting is fitted and operates in the unloaded condition. 5.1.2. Setting conditions The setting conditions for the test to determine net power are indicated in Table 2. TABLE 2 Setting conditions >PIC FILE= "T0013847"> 5.1.3. Net power tests 5.1.3.1. The net power test must consist of a run at full throttle for positive ignition engines and at fixed full load injection-pump setting for diesel engines, the engine being equipped as specified in Table 1. 5.1.3.2. Performance data must be obtained under stabilized operating conditions, with an adequate fresh-air supply to the engine. The engine must have been run in accordance with the manufacturer's recommendations. Combustion chambers may contain deposits, but in limited quantity. Test conditions such as inlet air temperature must be selected as near to reference conditions (see 5.2) as possible in order to minimize the magnitude of the correction factor. 5.1.3.3. The temperature of the inlet air to the engine must be measured within 0 715 m upstream from the point of entry to the air cleaner, or, if no air cleaner is used, within 0 715 m of the air inlet horn. The thermometer or thermocouple shall be shielded from radiant heat and placed directly in the air stream. It must also be shielded from fuel spray-back. A sufficient number of locations must be used to give a representative average inlet temperature. The air flow must not be disturbed by the measuring device. 5.1.3.4. No data must be taken until torque, speed and temperature have remained substantially constant for at least one minute. 5.1.3.5. The engine speed during a measurement run must not deviate from the selected speed while readings are taken by more than ± 1 % or ± 10 rev/min, whichever is the greater. 5.1.3.6. Brake load, fuel consumption and inlet air temperature readings must be taken simultaneously ; the reading adopted for measurement purposes must be the average of two stabilized values differing by less than 2 % for brake load and fuel consumption. 5.1.3.7. A measurement time of not less than 60 seconds must be used when measuring speed or fuel consumption with a manually operated device. 5.1.3.8. Fuel 5.1.3.8.1. In the case of diesel engines, the fuel used must be as specified in Annex V to Council Directive 72/306/EEC of 21 August 1972 on the approximation of the laws of the Member States relating to the measures to be taken against the emission of pollutants from diesel engines for use in engines (1), with the addition, if necessary, of a commercial liquid or gaseous fuel recommended by the manufacturer. The fuel must not contain any smoke-suppressant additives. 5.1.3.8.2. In the case of positive ignition engines, the fuel used must be a commercial fuel, without any supplementary additive. The fuel described in Annex VI to Council Directive 70/220/EEC of 20 March 1970 on the approximation of the laws of the Member States relating to measures to be taken against air pollution by gases from positive-ignition engines of motor vehicles (2) as last amended by Directive 78/665/EEC (3), may also be used. 5.1.3.9. Cooling of the engine 5.1.3.9.1. Liquid-cooled engines The temperature of the coolant at the outlet from the engine must be kept within ±5 ºC from the upper thermostatically controlled temperature specified by the manufacturer. If no temperature is specified by the manufacturer, the temperature must be 80 ± 5 ºC. 5.1.3.9.2. Air cooled engines For air-cooled engines, the temperature at a point indicated by the manufacturer must be kept between the maximum value TM specified by the manufacturer and TM - 20 ºC. 5.1.3.10. The fuel temperature at the inlet of the injection pump or carburettor must be maintained within the limits set by the manufacturer. 5.1.3.11. The temperature of the lubricating oil measured in the oil sump or at the outlet from the oil cooler, if fitted, must be within the limits set by the manufacturer. 5.1.3.12. The exhaust gas temperature must be measured at a point in the exhaust pipe(s) adjacent to the outlet flange(s) of the exhaust manifold(s). It must not exceed the value specified by the manufacturer. 5.1.3.13. Auxiliary cooling system An auxiliary cooling system may be used if necessary to maintain the temperatures within the limits specified in 5.1.3.9. to 5.1.3.12. (1)OJ No L 190, 20.8.1972, p. 1. (2)OJ No L 76, 6.4.1970, p. 1. (3)OJ No L 223, 14.8.1978, p. 48. 5.1.4. Test procedure Take measurements at a sufficient number of engine speeds to define the full load power curve completely between the lowest and the highest engine speeds stated by the manufacturer. This range of speeds must include the speed of revolution at which the engine produces its maximum power. For each speed, the average of two stabilized measurements is taken. 5.1.5. Measurement of smoke index In the case of diesel engines, the exhaust gases must be examined during the test for compliance with the conditions set out in Annex VI to Directive 72/306/EEC. 5.2. Correction factors 5.2.1. Definition The correction factor is the coefficient K by which the observed power must be multiplied to determine the engine power under the atmospheric reference conditions specified in 5.2.2. 5.2.2. Atmospheric reference conditions 5.2.2.1. Temperature : 25 ºC. 5.2.2.2. Dry pressure (ps) : 990 mbar. 5.2.3. Conditions to be complied with in the laboratory >PIC FILE= "T0013848"> 5.2.4. Determination of correction factors 5.2.4.1. Positive-ignition engines (carburettor or injection) - factor Ka. The correction factor is obtained by applying the following formula: >PIC FILE= "T0013849"> where T = the absolute temperature in K at the air inlet to the engine; ps = the dry atmospheric pressure in mbar, in other words the total barometric pressure minus water vapour pressure. 5.2.4.2. Diesel engines - factor Kd 5.2.4.2.1. Naturally aspirated four-stroke diesel engines, and two-stroke diesel engines The correction factor is calculated by means of the following formula: >PIC FILE= "T0013850"> where T = the absolute temperature in K at the air inlet to the engine: ps = the dry atmospheric pressure in mbar. 5.2.4.2.2. Pressure charged four-stroke diesel engines 5.2.4.2.2.1. Exhaust driven turbo-charged engines No correction is made to the power. However, when the density of the ambient air differs by more than 5 % from the air density in the reference conditions (25 ºC and 1 000 mbar), the test conditions must be noted in the test report. 5.2.4.2.2.2. Mechanically supercharged engines 5.2.4.2.2.2.1. The ratio r is defined by the following formula: >PIC FILE= "T0013851"> where D = the amount of fuel delivered in mm3 for each engine cycle, V = the cylinder capacity of the engine in litres, P1 = the ambient pressure, P2 = the pressure at the engine inlet manifold, T1 = the ambient temperature in K (as defined in 5.1.3.3), T2 = the temperature at the engine inlet manifold in K. 5.2.4.2.2.2.2. The correction factor for mechanically supercharged engines is the same as that for naturally aspirated engines if r is equal to or greater than 50 mm3/litre, and it is equal to 1 if r is less than 50 mm3/litre. 5.3. Test report The test report must contain the results and all the calculations required to obtain the net power, as listed in Annex II, together with the characteristics of the engine listed in Appendix 1 or Appendix 2 to this Annex. 5.4. Modification of engine type Any modification of the engine with regard to the characteristics listed in Appendix 1 or Appendix 2 to this Annex must be reported to the competent authority. That authority may then either: 5.4.1. consider that the modifications made are not likely to have any substantial effect on the power of the engine, or 5.4.2. request that power of the engine be determined by carrying out such tests as it deems necessary.
+Where accessories cannot be removed, the power absorbed by them in the unloaded condition may be determined and added to the measured engine power. TABLE 1
+Auxiliary equipment to be included for the test to determine net power of engine
+5.1.3. Compression-ignition engine starting auxiliaries
+For the auxiliary equipment used in starting compression-ignition engines, the two following cases shall be considered: (a) Electrical starting: The generator is fitted and supplies, where necessary, the auxiliary equipment indispensable to the operation of the engine. (b) Starting other than electrical: If there are any electrically operated accessories indispensable to the operation of the engine, the generator is fitted to supply these accessories. Otherwise it is removed. In either case, the system for producing and accumulating the energy necessary for starting is fitted and operates in the unloaded condition. 5.2. Setting conditions
+The setting conditions for the test to determine the net power are indicated in Table 2. TABLE 2
+Setting conditions
+5.3. Test conditions
+5.3.1. The net power test shall consist of a run at full throttle for positive-ignition engines and at fixed full load fuel-injection-pump setting for compression-ignition engines, the engine being equipped as specified in Table 1. 5.3.2. Performance data shall be obtained under stabilized operating conditions, with an adequate fresh-air supply to the engine. The engine must have been run-in in accordance with the manufacturer's recommendations. Combustion chambers may contain deposits, but in limited quantity. Testconditions such as inlet air temperature shall be selected as near to reference conditions (see 6.2) as possible in order to minimize the magnitude of the correction factor. 5.3.3. The temperature of the inlet air to the engine (ambient air) shall be measured within 0,15 m upstream of the point of entry of the air cleaner, or, if no air cleaner is used, within 0,15 m to the air inlet horn. The thermometer or thermocouple shall be shielded from radiant heat and placed directly in the air stream. It shall also be shielded from fuel spray-back. A sufficient number of locations shall be used to give a representative average inlet temperature. 5.3.4. No data shall be taken until torque, speed and temperatures have been maintained substantially constant for at least one minute. 5.3.5. The engine speed during a run or reading shall not deviate from the selected speed by more than ± 1 % or ± 10 min−1, whichever is greater. 5.3.6. Observed brake load, fuel consumption and inlet air temperature data shall be taken simultaneously and shall be the average of two stabilized consecutive values which do not vary more than 2 % for the brake load and fuel consumption. 5.3.7. The temperature of the coolant at the outlet from the engine shall be kept within ± 5 K from the upper thermostatically controlled temperature specified by the manufacturer. If no temperature is specified by the manufacturer, the temperature shall be 353 K ± 5 K. For air-cooled engines, the temperature at a point indicated by the manufacturer shall be kept within + 0/− 20 K of the maximum value specified by the manufacturer in the reference conditions. 5.3.8. The fuel temperature shall be measured at the inlet to the carburettor or at the fuel-injection system and maintained within the limits established by the engine manufacturer. 5.3.9. The temperature of the lubricating oil measured in the oil sump or at the outlet from the oil cooler, if fitted, shall be maintained within the limits established by the engine manufacturer. 5.3.10. An auxiliary regulating system may be used if necessary to maintain the temperature within the limits specified in 5.3.7, 5.3.8 and 5.3.9. ▼M4
+5.3.11. The fuel used shall be the following: 5.3.11.1. For positive ignition engine fuelled with petrol: the fuel used shall be the one available on the market. In any case of dispute, the reference fuel specified in Annex IX, first point, of Directive 70/220/EEC, as last amended, shall be used. Instead of the abovementioned reference fuel, the reference fuels defined by the CEC (
+7
+) for petrol-fuelled engines in CEC document RF-08-A-85, may be used. 5.3.11.2. For positive ignition engines fuelled with LPG: 5.3.11.2.1. In the case of an engine with self-adaptive fuelling: the fuel used shall be the one available on the market. In any case of dispute the fuel shall be one of the reference fuels specified in Annex IX a of Directive 70/220/EEC, as last amended. 5.3.11.2.2. In the case of an engine without self-adaptive fuelling: the fuel used shall be the reference fuel specified in Annex IX a of Directive 70/220/EEC, as last amended, with the lowest C3 content, or
+5.3.11.2.3. In the case of an engine labelled for one specific fuel composition: the fuel used shall be the fuel for which the engine is labelled. 5.3.11.2.4. The fuel used shall be specified in the test report. 5.3.11.3. For positive ignition engines fuelled with NG: 5.3.11.3.1. In the case of an engine with self-adaptive fuelling: the fuel used shall be the one available on the market. In any case of dispute the fuel shall be one of the reference fuels specified in Annex IX a of Directive 70/220/EEC, as last amended. 5.3.11.3.2. In the case of an engine without self-adaptive fuelling: the fuel used shall be the one available on the market with a Wobbe index at least 52,6MJm-3 (0 °C, 101,3 kPa). In any case of dispute the fuel used shall be the reference fuel G20 specified in Annex IX a of Directive 70/220/EEC, as last amended, i.e. the fuel with the highest Wobbe Index, or
+5.3.11.3.3. In the case of an engine labelled for a specific range of fuels: the fuel used shall be the one available on the market with a Wobbe Index at least 52,6 MJm-3 (0 °C, 101,3 kPa) if the engine is labelled for the H-range of gases, or at least 47,2 MJm-3 (0 °C, 101,3 kPa) if the engine is labelled for the L-range of gases. In any case of dispute the fuel used shall be the reference fuel G20, specified in Annex IX a of Directive 70/220/EEC, as last amended, if the engine is labelled for the H-range of gases, or the reference fuel G23 if the engine is labelled for the L-range of gases, i.e. the fuel with the highest Wobbe for the relevant range, or
+5.3.11.3.4. In the case of an engine labelled for one specific fuel composition: the fuel used shall be the fuel for which the engine is labelled. 5.3.11.3.5. The fuel used shall be specified in the test report. 5.3.11.4. For compression ignition engines: the fuel used shall be the one available on the market. In any case of dispute, the reference fuel specified in Annex IX, second point, of Directive 70/220/EEC, as last amended, shall be used. Instead of the abovementioned reference fuel, the reference fuel defined by the CEC (
+8
+) for compression ignition engines in CEC documents RF-03--A-84 may be used. 5.3.11.5. Positive ignition engines of vehicles that can run either on petrol or on a gaseous fuel, are to be tested with both fuels, in accordance with the provisions in items 5.3.11.1 to 5.3.11.3. The vehicles that can be fuelled with both petrol and a gaseous fuel, but where the petrol system is fitted for emergency purposes or starting only and of which the petrol tank cannot contain more than 15 litres of petrol will be regarded for the test as vehicles that can only run a gaseous fuel. ▼M1
+5.4. Test procedure
+Measurements shall be taken at a sufficient number of engine speeds to define correctly the power curve completely between the lowest and the highest engine speeds recommended by the manufacturer. This range of speeds shall include the speed of revolution at which the engine produces its maximum power. For each speed, the average of at least two stabilized measurements is to be determined.
+For each speed, the average of at least two stabilized measurements is to be determined. 5.5. Measurement of smoke index
+In the case of compression-ignition engines, the exhaust gases shall be examined during the test for compliance with the conditions set out in Annex VI to Council Directive 72/306/EEC (
+9
+).
+5.6. Data to be recorded
+Data to be recorded are those indicated in 
+►M3
+ Annex II ◄ .
+6. POWER CORRECTION FACTORS
+6.1. Definition
+The power correction factor is the coefficient to determine the engine power under the atmospheric reference conditions specified in 6.2:
+Po = α · P
+where
+Po is the corrected power (i.e. power under reference atmospheric conditions);
+α is the correction factor (αa or αd); P is the measured power (test power). 6.2. Reference atmospheric conditions
+6.2.1. Temperature (T
+o): 298 K (25 °C)
+6.2.2. Dry pressure (p
+so): 99 kPa
+Note: The dry pressure is based on a total pressure of 100 kPa and a water vapour pressure of 1 kPa. 6.3. Test atmospheric conditions
+The atmospheric conditions during the test shall be the following: 6.3.1. Temperature (T)
+For positive-ignition engines 288 K ≤ T ≤ 308 K
+For compression-ignition engines 283 K ≤ T ≤ 313 K.
+6.3.2. Pressure (p
+s
+)
+80 kPa ≤ ps ≤ 110 kPa.
+6.4. Determination of correction factors αa and αd
+ (
+10
+)
+6.4.1. Naturally aspirated or supercharged positive-ignition engine — Factor α
+a:
+where
+T is the absolute temperature in Kelvins (K) of the air drawn in by the engine; ps is the total dry atmospheric pressure in kilopascals (kPa), that is, the total barometric pressure minus water vapour pressure. Conditions to be complied with in the laboratory. For a test to be valid, the correction factor αamust be such that: 0,93 ≤ αa ≤ 1,07
+If these limits are exceeded, the correct value obtained shall be given and the test conditions (temperature and pressure) precisely stated in the test report. 6.4.2. Compression-ignition engine — Factor α
+d
+The power correction factor (αd) for compression-ignition engines at constant fuel rate is obtained by applying the formula: ▼M3
+▼M1
+where
+fa is the atmospheric factor; fm is the characteristic parameter for each type of engine and adjustment. 6.4.2.1. Atmospheric factor fa
+This factor indicates the effects of environmental conditions (pressure, temperature and humidity) on the air drawn in by the engine. The atmospheric factor formula differs according to the type of engine. 6.4.2.1.1. Naturally aspirated and mechanically supercharged engines. 6.4.2.1.2. Turbocharged engines with or without cooling of inlet air. 6.4.2.2. Engine factor fm
+fm is a function of qc (fuel flow corrected) as follows: fm = 0,036 · qc − 1,14
+where
+qc = q/r
+where
+q is the fuel flow in milligramms per cycle per litre of total swept volume (mg/(litre · cycle)). r is the pressure ratio of compressor outlet and compressor inlet (r = 1 for naturally aspirated engines). This formula is valid for a value interval of qc included between 40 mg/(litre · cycle) and 65 mg/(litre · cycle). For qc values lower than 40 mg/(litre · cycle), a constant value of fm equal to 0,3 (fm = 0,3) will be taken. For qc values higher than 65 mg/(litre · cycle), a constant value of fm equal to 1,2 (fm = 1,2) will be taken (see figure): 6.4.2.3. Conditions to be complied with in the laboratory. For a test to be valid, the correction factor αd must be such that
+0,9 ≤ αd ≤ 1,1
+If these limits are exceeded, the corrected value obtained shall be given and the test conditions (temperature and pressure) precisely stated in the test report. ▼M3
+7. TEST REPORT
+The test report shall contain the results and all the calculations required to determine the net power, as listed in Annex II. In order to draw up this document, the competent authority may use the report prepared by an approved or recognized laboratory pursuant to the provisions of this Directive. ▼M3 —————
+▼M2
+►M3
+ 8. ◄ TOLERANCES FOR MEASURING THE NET POWER
+►M3
+ 8.1. ◄ 
+The net power indicated by the manufacturer for the type of engine shall be accepted if it does not differ by more than ± 2 % for maximum power and more than ± 4 % at, the other measurement points on the curve with a tolerance of ± 1,5 % for engine speed, from the values measured by the technical service on the engine submitted for testing. ►M4
+ (
+12
+) ◄ 
+►M3
+ 8.2. ◄ 
+During the tests to verify conformity of production the power shall be measured at two engine speeds S1 and S2 corresponding respectively to the measurement points of maximum power and maximum torque accepted for type approval. At these two engine speeds, which are subject to a tolerance of ± 5 %, the net power measured at at least one point within the ranges S1 ± 5 % and S2 ± 5 % shall not differ by more than ± 5 % from the approval figure. ▼M3
+Appendix 1
+INFORMATION DOCUMENT No. …
+pursuant to Annex I to Council Directive 70/156/EEC (
+13
+) relating to EC type-approval of a vehicle with respect to the engine power
+(Directive 80/1269/EEC, as last amended by Directive …/…/EC)
+►M4
+ ◄ 
+►M4
+ ◄ 
+Addendum to Appendix 1
+Appendix 2
+MODEL
+(maximum format: A4 (210 × 297 mm))
+Addendum to EC type-approval certificate No …
+concerning the type-approval of a vehicle with regard to Directive 80/1269/EEC, as last amended by Directive …/…/EC
+►M4
+ ◄ 
+▼B
+ANNEX II
+►M1
+ ◄ 
+►M1
+ ◄ 
+►M1
+ ◄ 
+►M1
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M1
+ ◄ 
+►M1
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M1
+ ◄ 
+►M1
+ ◄ 
+►M1
+ ◄ 
+►M1
+ ◄ 
+►M1
+ ◄ 
+►M1
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M3
+ ◄ 
+(
+1
+) OJ No C 104, 28. 4. 1980, p. 9. (
+2
+) OJ No C 265, 13. 10. 1980, p. 76. (
+3
+) OJ No C 182, 21. 7. 1980, p. 3. (
+4
+) OJ No L 42, 23. 2. 1970, p. 1. (
+5
+) See page 34 of this Official Journal. (
+6
+) The torque measuring system shall be calibrated to take friction losses into account. The accuracy in the lower half of the measuring range of the dynamometer bench may be ± 2 % of measured torque. (
+7
+) Coordinating European Council for the Development of Performance Tests for Lubricants and Engine Fuels. (
+8
+) Coordinating European Council for the Development of Performance Tests for Lubricants and Engine Fuels. (
+9
+) OJ No L 190, 20. 8. 1972, p. 1. (
+10
+) The tests may be carried out in air-conditioned test rooms where the atmospheric conditions may be controlled. (
+11
+) In the case of engines fitted with automatic air temperature control, if the device is such that at full load at 25 °C no heated air is added, the test shall be carried out with the device fully closed. If the device is still operating at 25 °C then the test is made with the device operating normally and the exponent of the temperature term in the correction factor shall be taken as zero (no temperature correction). (
+12
+) The manufacturer may only declare one value as long as the engine power is the same within one variant of the engine type. Each variant must be clearly defined. (
+13
+) The item numbers and footnotes used in this information document correspond to those set out in Annex I to Directive 70/156/EEC. Items not relevant for the purpose of this Directive are omitted.
+That authority may then either: 5.4.1. consider that the modifications made are not likely to have any substantial effect on the power of the engine, or 5.4.2. request that power of the engine be determined by carrying out such tests as it deems necessary. 6. NET POWER MEASUREMENT TOLERANCES 6.1. The net power of the engine as determined by the technical service may differ by ± 2 % from the net power specified by the manufacturer, with a 1 75 % tolerance for the engine speed. 6.2. The net power of an engine during a production conformity test may differ by ± 5 % from the net power determined in a type-approval test. Appendix 1 >PIC FILE= "T0013852"> >PIC FILE= "T0013853"> >PIC FILE= "T0013854"> >PIC FILE= "T0013855"> Appendix 2 >PIC FILE= "T0013856"> >PIC FILE= "T0013857"> >PIC FILE= "T0013858"> >PIC FILE= "T0013859"> ANNEX II >PIC FILE= "T0013860""PIC FILE= "T0013861"> >PIC FILE= "T0013862"> >PIC FILE= "T0013863">

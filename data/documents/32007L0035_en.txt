@@ -1,0 +1,50 @@
+citation
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (1), and in particular the second indent of Article 13(2) thereof,
+Having regard to Council Directive 76/756/EEC of 27 July 1976 on the approximation of the laws of the Member States relating to the installation of lighting and light-signalling devices on motor vehicles and their trailers (2), and in particular Article 4 thereof,
+Whereas:
+Article 3
+1. Member States shall adopt and publish, by 9 July 2008, at the latest, the laws, regulations and administrative provisions necessary to comply with this Directive.
+
+They shall forthwith communicate to the Commission the text of those provisions and a correlation table between those provisions and this Directive. They shall apply those provisions from 10 July 2008. When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made. 2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+Introduction
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (1), and in particular the second indent of Article 13(2) thereof,
+Having regard to Council Directive 76/756/EEC of 27 July 1976 on the approximation of the laws of the Member States relating to the installation of lighting and light-signalling devices on motor vehicles and their trailers (2), and in particular Article 4 thereof,
+Whereas:
+
+(1) Directive 76/756/EEC is one of the separate Directives in the context of the EC type-approval procedure established by Directive 70/156/EEC. The provisions of Directive 70/156/EEC relating to systems, components and separate technical units for vehicles therefore apply to Directive 76/756/EEC. (2) In order to increase road safety by improving the conspicuity of large trucks and their trailers the obligation for fitting retro reflective marking on these vehicles should be introduced into Directive 76/756/EEC. (3) In order to take into account further amendments to UN/ECE Regulation No 48 (3) on which the Community has already voted upon, it is appropriate to adapt Directive 76/756/EEC to technical progress by aligning it to the technical requirements of this UN/ECE Regulation. In the interest of clarity Annex II to Directive 76/756/EEC should be replaced. (4) Directive 76/756/EEC should therefore be amended accordingly. (5) The measures provided for in this Directive are in accordance with the opinion of the Committee for Adaptation to Technical Progress,
+HAS ADOPTED THIS DIRECTIVE:
+recital 2
+(2) In order to increase road safety by improving the conspicuity of large trucks and their trailers the obligation for fitting retro reflective marking on these vehicles should be introduced into Directive 76/756/EEC.
+Article 5
+This Directive is addressed to the Member States.
+Article 2
+With effect from 10 July 2011, if the requirements laid down in Directive 76/756/EEC, as amended by this Directive, are not complied with, Member States, on grounds related to the installation of lighting and light-signalling devices, shall consider Certificates of Conformity which accompany new vehicles in accordance with the provisions of Directive 70/156/EEC to be no longer valid for the purposes of Article 7(1) of that Directive.
+recital 5
+(5) The measures provided for in this Directive are in accordance with the opinion of the Committee for Adaptation to Technical Progress,
+HAS ADOPTED THIS DIRECTIVE:
+recital 4
+(4) Directive 76/756/EEC should therefore be amended accordingly.
+Article 4
+This Directive shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.
+ANNEX
+ANNEX
+ 'ANNEX II 1.
+
+The technical requirements are those set out in paragraphs 2, 5 and 6 of UN/ECE Regulation No 48 (*1) and Annexes 3 to 9 thereto. 2. 
+ For the purposes of the application of the provisions referred to in point 1, the following shall apply: (a) "Unladen vehicle" means a vehicle the mass of which is described in point 2.6 of Appendix 1 of Annex I to this Directive, without driver; (b) "Communication form" shall be understood as the type-approval-certificate set out in Appendix 2 of Annex I to this Directive; (c) "Contracting Parties to the respective regulations" shall be understood as Member States; (d) the reference to Regulation No 3 shall be construed as reference to Directive 76/757/EEC; (e) footnote (2) in paragraph 2.7.25 shall not apply; (f) footnote (8) in paragraph 6.19 shall not apply; (g) footnote (1) in Annex 5 shall be understood as follows: "For definitions of the categories, see Annex II A to Directive 70/156/EEC". 3. 
+ Without prejudice to the requirements of Article 8(2)(a) and (c) and (3) of Directive 70/156/EEC, of this Annex and to any requirements in any of the separate directives, the installation of any other lighting or light-signalling device than those defined in paragraph 2.7 of UN/ECE Regulation No 48 is prohibited. (*1)
+OJ L 137, 30.5.2007, p. 1.'
+recital 1
+(1) Directive 76/756/EEC is one of the separate Directives in the context of the EC type-approval procedure established by Directive 70/156/EEC.
+
+The provisions of Directive 70/156/EEC relating to systems, components and separate technical units for vehicles therefore apply to Directive 76/756/EEC.
+Article 1
+Annex II to Directive 76/756/EEC is replaced by the Annex to this Directive.
+recital 3
+(3) In order to take into account further amendments to UN/ECE Regulation No 48 (3) on which the Community has already voted upon, it is appropriate to adapt Directive 76/756/EEC to technical progress by aligning it to the technical requirements of this UN/ECE Regulation.
+
+In the interest of clarity Annex II to Directive 76/756/EEC should be replaced.

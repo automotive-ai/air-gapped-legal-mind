@@ -1,0 +1,134 @@
+| Directive 93/34/EEC | Directive 2006/27/EC | This Directive |
+| Articles 1, 2 and 3 |  | Articles 1, 2 and 3 |
+| Article 4(1) |  | — |
+|---|---|---|
+| — | Article 5(1) | Article 4(1) |
+| — | Article 5(2) | Article 4(2) |
+| Article 4(2) |  | Article 4(3) |
+| — |  | Article 5 |
+| — |  | Article 6 |
+| Article 5 |  | Article 7 |
+| Annex |  | Annex I |
+| — |  | Annex II |
+| — |  | Annex III |
+Article 6
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+It shall apply from 1 June 2010.
+recital 4
+(4) This Directive should be without prejudice to the obligations of the Member States relating to the time limits for transposition into national law and application of the Directives set out in Annex II, Part B,
+HAVE ADOPTED THIS DIRECTIVE:
+Article 5
+Directive 93/34/EEC, as amended by the Directives listed in Annex II, Part A, is repealed, without prejudice to the obligations of the Member States relating to the time limits for transposition into national law and application of the Directives set out in Annex II, Part B.
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table set out in Annex III.
+Article 4
+1. With respect to two- or three-wheel vehicles which comply with the provisions laid down in this Directive, Member States shall not, on grounds relating to statutory markings, refuse to grant EC type-approval or prohibit the registration, sale or entry into service of such a vehicle.
+
+2. Member States shall refuse, on grounds relating to statutory markings, to grant EC type-approval to any new type of two- or three-wheel motor vehicle which does not comply with the provisions laid down in this Directive. 3. Member States shall communicate to the Commission the texts of the main provisions of national law which they adopt in the field governed by this Directive.
+Article 3
+The amendments necessary to adapt to technical progress the requirements of Annex I shall be adopted in accordance with the procedure referred to in Article 18(2) of Directive 2002/24/EC.
+Article 2
+The procedure for the granting of EC component type-approval in respect of the statutory markings for a type of two- or three-wheel motor vehicle and the conditions governing the free movement of such vehicles shall be as laid down in Chapters II and III of Directive 2002/24/EC.
+Article 1
+This Directive applies to the statutory markings for all types of vehicle as referred to in Article 1 of Directive 2002/24/EC.
+REQUIREMENTS CONCERNING STATUTORY MARKINGS FOR TWO- OR THREE-WHEEL MOTOR VEHICLES
+ANNEX I
+REQUIREMENTS CONCERNING STATUTORY MARKINGS FOR TWO- OR THREE-WHEEL MOTOR VEHICLES
+1. GENERAL
+1.1. All vehicles must receive a plate and markings as described below. That plate and those markings must be affixed by the manufacturer or his authorised representative. 2. MANUFACTURER'S DATA PLATE
+2.1. A manufacturer's data plate, an example of which is shown in Appendix 1, must be firmly attached, at an easily accessible point, to a part which is normally not likely to be replaced during use; it must be easily legible and contain the following information in an indelible form, in the following order: 2.1.1. name of manufacturer; 2.1.2. type-approval mark as described in Article 8 of Directive 2002/24/EC;
+2.1.3. the vehicle identification number (VIN); 2.1.4. the stationary sound level: … dB(A) … rev/min. 2.2. The type-approval mark as required by point 2.1.2, the stationary sound level value and the number of rev/minute as required by point 2.1.4 are not included in the EC component type-approval of statutory markings. However, those pieces of information must be attached to all vehicles manufactured in conformity with the type that has been approved. 2.3. Manufacturers may affix additional information below or to one side of the mandatory markings, outside a clearly marked rectangle which contains only the information required by points 2.1.1 to 2.1.4 (see Appendix 1). 3. VEHICLE IDENTIFICATION NUMBER
+The vehicle identification number consists of a structured combination of characters assigned to each vehicle by their manufacturer. Its purpose is to enable any vehicle to be identified unambiguously via its manufacturer — without any need for any other information — for a period of 30 years. The identification must meet the following requirements: 3.1. the vehicle identification number must be entered on the manufacturer's data plate. It must also be hammered or punched in such a way as to avoid obliteration or change on the chassis or frame at a point such that it can easily be accessible, and it must be situated on the right half of the vehicle; 3.1.1. the vehicle identification number must be in three parts as indicated hereafter: 3.1.1.1. the first part consists of a code assigned to the vehicle manufacturer enabling that person to be identified. The code shall consist of three characters (letters or digits) issued by the competent authorities in the country in which the manufacturer has his registered address in line with the practice of the international agency acting on the authorisation of the International Organisation for Standardisation (ISO). The first character designates a geographical area, the second a country within a geographical area and the third character a particular manufacturer. Where the manufacturer produces fewer than 500 vehicles per year the third character is always a 9. In order to identify that manufacturer the authority referred to above shall also issue the third, fourth and fifth characters of the third part; 3.1.1.2. the second part consists of six characters (letters or digits) for the purpose of describing the general characteristics of the vehicle (type, variant, and in the case of mopeds, version); each characteristic may be represented by several characters. If its manufacturer does not use one or more of those characters the unused spaces must be filled by alphabetical or numerical characters, the choice being left to the manufacturer; 3.1.1.3. the third part consists of eight characters, the last four of which are required to be numerical and, in combination with the two other parts, must enable a particular vehicle to be clearly identified. Any unused position must be filled by a 0 in order to obtain the requisite total number of characters; 3.1.2. the vehicle identification number must, wherever possible, occupy a single line. The beginning and end of this line must be marked by a symbol which is neither an Arabic numeral nor a capital Latin letter, nor must it be possible to confuse this with any such character. By way of exception and for technical reasons it may also occupy two lines. However, in this case there must be no breaks within any of the three parts and the beginning and end of each line must be marked by a symbol which is neither an Arabic numeral nor a capital Latin letter, nor must it be possible to confuse this with any such character. The introduction of said symbol within a line between the three parts (point 3.1.1) is also authorised. There must be no spaces between the characters. 4. CHARACTERS
+4.1. Latin letters and Arabic numerals must be used for all of the markings provided for in points 2 and 3. However, the Latin letters used for the information provided for in points 2.1.1, 2.1.3 and 3 must be capital letters. 4.2. In the vehicle identification number: 4.2.1. letters I, O and Q, or dashes, asterisks or other specific signs are prohibited; 4.2.2. letters and figures shall have the following minimum heights: 4.2.2.1. 4 mm in the case of characters entered directly on the chassis or frame or any other similar vehicle structure; 4.2.2.2. 3 mm in the case of characters entered on the manufacturer's data plate. Appendix 1
+Example of manufacturer's data plate
+Appendix 1
+Example of manufacturer's data plate
+The example below in no way affects the information actually set out on manufacturer's data plates, nor the dimensions of the plate itself, the figures or letters. It is given solely by way of an example. The additional information referred to in point 2.3 may be entered below or on one side of the information required in the following rectangle. Legend: In the above example of a plate the vehicle concerned has been made by 'Stella Fabbrica Motocicli' and type-approved in Italy (e3), under number 5364. The identification number (3GSKLM3AC8B120000) gives the following information: —
+first part (3GS): — 3: geographical area (Europe),
+— G: country within the geographical area (Germany),
+— S: manufacturer (Stella Fabbrica Motocicli),
+—
+second part (KLM3AC): — KL: type of vehicle,
+— M3: variant (vehicle bodywork),
+— AC: version (vehicle engine),
+—
+third part (8B120000): —
+8B12
+:
+identification of the vehicle and combination of the two other parts of the identification number; —
+0000
+: unused positions that have been filled by a 0 in order to make up the total number of characters required. The stationary sound level is 80 dB(A) at 3 750 rev/min. Appendix 2
+Information document in respect of the statutory markings for a type of two- or three-wheel motor vehicle
+Appendix 2
+Information document in respect of the statutory markings for a type of two- or three-wheel motor vehicle
+(to be attached to the application for EC component type-approval if this is submitted separately from the application for an EC vehicle type-approval)
+Order number (assigned by the applicant): …
+The application for an EC component type-approval in respect of statutory markings for a type of two- or three-wheel motor vehicle shall contain the information set out under the following points in Part I, Section A of Annex II to Directive 2002/24/EC: —
+0.1,
+—
+0.2,
+—
+0.4 to 0.6,
+—
+9.3.1 to 9.3.3.
+
+EC component type-approval certificate in respect of statutory markings for a type of two- or three-wheel motor vehicles
+MODEL
+Report No … by technical service … date …
+EC component type-approval No: … Extension No: …
+ 1. Trade mark or name of vehicle: …
+ 2. Type of vehicle: …
+ 3. Manufacturer's name and address: …
+…
+ 4. Name and address of manufacturer's representative (if any): …
+…
+ 5. Date vehicle submitted for test: …
+ 6. EC component type-approval granted/refused (1): 7. Place: …
+ 8. Date: …
+ 9. Signature: …
+(1) Delete as appropriate.
+Introduction
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,
+Having regard to the proposal from the Commission,
+Having regard to the opinion of the European Economic and Social Committee (1),
+Acting in accordance with the procedure laid down in Article 251 of the Treaty (2),
+Whereas:
+
+(1) Council Directive 93/34/EEC of 14 June 1993 on statutory markings for two- or three-wheel motor vehicles (3) has been substantially amended several times (4). In the interests of clarity and rationality the said Directive should be codified. (2) Directive 93/34/EEC is one of the separate Directives of the EC type-approval system provided for in Council Directive 92/61/EEC of 30 June 1992 relating to the type-approval of two or three-wheel motor vehicles, as replaced by Directive 2002/24/EC of the European Parliament and of the Council of 18 March 2002 relating to the type-approval of two or three-wheel motor vehicles (5), and lays down technical prescriptions concerning the design and construction of two- or three-wheel motor vehicles as regards the statutory markings. Those technical prescriptions concern the approximation of the laws of the Member States to allow for the EC type-approval procedure provided for in Directive 2002/24/EC to be applied in respect of each type of vehicle. Consequently, the provisions laid down in Directive 2002/24/EC relating to vehicle systems, components and separate technical units apply to this Directive. (3) With regard to the statutory markings applicable to two- or three-wheel motor vehicles, this Directive should not prevent certain Member States from retaining, on a non-discriminatory basis, specific mandatory provisions for the purposes of applying traffic regulations, provided that such specific requirements concern the use of these vehicles and do not involve any modifications in their construction likely to create an obstacle to Community type-approval of this type of vehicle. (4) This Directive should be without prejudice to the obligations of the Member States relating to the time limits for transposition into national law and application of the Directives set out in Annex II, Part B,
+HAVE ADOPTED THIS DIRECTIVE:
+Article 7
+This Directive is addressed to the Member States.
+| Council Directive 93/34/EEC (OJ L 188, 29.7.1993, p. 38) |  |
+|---|---|
+| Commission Directive 1999/25/EC (OJ L 104, 21.4.1999, p. 19) |  |
+| Commission Directive 2006/27/EC (OJ L 66, 8.3.2006, p. 7) | Article 2 and Annex II only |
+
+| Directive | Time limit for transposition | Date of application |
+|---|---|---|
+| 93/34/EEC | 14 December 1994 | 14 June 1995 |
+| 1999/25/EC | 31 December 1999 | 1 January 2000 (*1) |
+| 2006/27/EC | 31 December 2006 (*2) | — |
+
+(*1) In conformity with Article 2 of Directive 1999/25/EC: '1. With effect from 1 January 2000, Member States shall not, on grounds relating to statutory markings: —
+refuse, in respect of a type of two- or three-wheel vehicle, to grant EC type-approval,
+—
+prohibit the registration, sale or entry into service of two- or three-wheel motor vehicles,
+if the statutory markings comply with the requirements of Council Directive 93/34/EEC as amended by this Directive. 2. With effect from 1 July 2000, Member States shall refuse to grant EC type-approval for any type of two- or three-wheel motor vehicle on grounds relating to the statutory markings if the requirements of Directive 93/34/EEC, as amended by this Directive, are not fulfilled.' (*2) In conformity with Article 5 of Directive 2006/27/EC: '1. With effect from 1 January 2007, with respect to two- or three-wheel vehicles which comply with the provisions laid down in Directives […], 93/34/EEC, […] respectively, as amended by this Directive, Member States shall not, on grounds relating to the subject matter of the Directive concerned, refuse to grant EC type-approval or prohibit the registration, sale or entry into service of such a vehicle. 2. With effect from 1 July 2007, Member States shall refuse, on grounds relating to the subject matter of the Directive concerned, to grant EC type-approval to any new type of two- or three-wheel motor vehicle which does not comply with the provisions laid down in Directives […], 93/34/EEC, […] respectively, as amended by this Directive.'
+recital 3
+(3) With regard to the statutory markings applicable to two- or three-wheel motor vehicles, this Directive should not prevent certain Member States from retaining, on a non-discriminatory basis, specific mandatory provisions for the purposes of applying traffic regulations, provided that such specific requirements concern the use of these vehicles and do not involve any modifications in their construction likely to create an obstacle to Community type-approval of this type of vehicle.
+recital 2
+(2) Directive 93/34/EEC is one of the separate Directives of the EC type-approval system provided for in Council Directive 92/61/EEC of 30 June 1992 relating to the type-approval of two or three-wheel motor vehicles, as replaced by Directive 2002/24/EC of the European Parliament and of the Council of 18 March 2002 relating to the type-approval of two or three-wheel motor vehicles (5), and lays down technical prescriptions concerning the design and construction of two- or three-wheel motor vehicles as regards the statutory markings.
+
+Those technical prescriptions concern the approximation of the laws of the Member States to allow for the EC type-approval procedure provided for in Directive 2002/24/EC to be applied in respect of each type of vehicle. Consequently, the provisions laid down in Directive 2002/24/EC relating to vehicle systems, components and separate technical units apply to this Directive.
+recital 1
+(1) Council Directive 93/34/EEC of 14 June 1993 on statutory markings for two- or three-wheel motor vehicles (3) has been substantially amended several times (4).
+
+In the interests of clarity and rationality the said Directive should be codified.
+citation
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,
+Having regard to the proposal from the Commission,
+Having regard to the opinion of the European Economic and Social Committee (1),
+Acting in accordance with the procedure laid down in Article 251 of the Treaty (2),
+Whereas:

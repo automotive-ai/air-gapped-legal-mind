@@ -1,0 +1,68 @@
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 443/2009 of the European Parliament and of the Council of 23 April 2009 setting emission performance standards for new passenger cars as part of the Community's integrated approach to reduce CO2 emissions from light-duty vehicles (1), and in particular the second subparagraph of Article 8(9) thereof,
+Whereas:
+recital 7
+(7) Regulation (EC) No 443/2009 should therefore be amended accordingly.
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 443/2009 of the European Parliament and of the Council of 23 April 2009 setting emission performance standards for new passenger cars as part of the Community's integrated approach to reduce CO2 emissions from light-duty vehicles (1), and in particular the second subparagraph of Article 8(9) thereof,
+Whereas:
+
+(1) Experience from the monitoring of CO2 emissions from new passenger cars in 2010 and 2011 shows that the accurate calculation of the average specific emissions and the specific emissions targets is only possible on the basis of the detailed data referred to in Article 8(1) of Regulation (EC) No 443/2009. It is therefore appropriate to adjust the aggregated data specified in the first table set out in Part C of Annex II to Regulation (EC) No 443/2009 to include only those data that are strictly necessary for the implementation of that Regulation. (2) In order to improve the quality and accuracy of the monitoring of CO2 emissions from passenger cars, it is however necessary to specify further some of the required data parameters and add other parameters that have until now been monitored on a voluntary basis. (3) The inclusion of the type-approval number as a data parameter to be monitored and reported can improve the means for manufacturers to verify the provisional calculations of their average specific emissions and specific emissions targets and, as a consequence, ensure improved accuracy in the final dataset. (4) Passenger cars that are approved nationally in small series in accordance with Article 23 of Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (2) or cars individually approved in accordance with Article 24 of that Directive are not taken into account for the calculation of the average specific emissions of a manufacturer. It is however important to monitor the number of those vehicles in a consistent way in order to assess any potential impact on the monitoring process and the attainment of the Union's average CO2 emissions target. The aggregate numbers of those registrations should therefore be provided on an annual basis. (5) It should also be ensured that the monitoring of CO2 emissions from passenger cars is aligned with that for light commercial vehicles under Regulation (EU) No 510/2011 of the European Parliament and of the Council of 11 May 2011 setting emission performance standards for light commercial vehicles as part of the Union's integrated approach to reduce CO2 emissions from light-duty vehicles (3) by including as mandatory monitoring parameters also the engine capacity and the electric energy consumption, in addition to the type-approval number. Moreover, where the certificate of conformity is not used as the primary data source and data is taken, inter alia, from type-approval documents, it should be clarified that the data in those cases should be consistent with the data provided in the certificates of conformity. (6) In order to ensure that those amendments can be taken into account for the monitoring of the data in 2013, it is appropriate to provide for an entry into force not later than the seventh day following that of the publication of this act in the Official Journal of the European Union. (7) Regulation (EC) No 443/2009 should therefore be amended accordingly. (8) The measures provided for in this Regulation are in accordance with the opinion of the Climate Change Committee,
+HAS ADOPTED THIS REGULATION:
+ANNEX
+ANNEX
+Annex II to Regulation (EC) No 443/2009 is replaced by the following: 'ANNEX II
+MONITORING AND REPORTING EMISSIONS
+PART A — Collection of data on new passenger cars and determination of CO2 monitoring information 1. Member States shall, for each calendar year, record the following detailed data for each new passenger car registered in their territory: (a) the manufacturer; (b) the type-approval number with its extension; (c) the type, variant, and version; (d) make and commercial name; (e) category of vehicle type-approved; (f) total number of new registrations; (g) mass; (h) the specific emissions of CO2; (i) footprint: the wheel base, the track width steering axle and the track width other axle; (j) the fuel type and fuel mode; (k) engine capacity; (l) electric energy consumption; (m) code for the innovative technology or group of innovative technologies and the CO2 emissions reduction due to that technology. 2. The detailed data referred to in point 1 shall be taken from the certificate of conformity of the relevant passenger car or be consistent with the certificate of conformity issued by the manufacturer of the relevant passenger car. Where the certificate of conformity is not used, Member States shall put the necessary measures in place to ensure adequate accuracy in the monitoring procedure. Where both a minimum value and a maximum value are specified for the mass or footprint values referred to in point 1(i) for a passenger car, Member States shall use only the maximum figure for the purposes of this Regulation. In the case of bi-fuelled vehicles (petrol/gas), the certificates of conformity of which bear specific CO2 emissions figures for both types of fuel, Member States shall use only the figure measured for gas. 3. Member States shall, for each calendar year, determine: (a) the sources used for the collection of the detailed data referred to in point 1; (b) the total number of new registrations of new passenger cars subject to EC type-approval; (c) the total number of new registrations of new individually approved passenger cars; (d) the total number of new registrations of new passenger cars approved nationally in small series; (e) the percentage of all fuel filling stations on their territory providing E85. PART B — Methodology for determining CO2 monitoring information for new passenger cars
+Monitoring information which Member States are required to determine in accordance with points 1 and 3 of Part A shall be determined in accordance with the methodology in this Part. 1. Number of new passenger cars registered
+Member States shall determine the number of new passenger cars registered within their territory in the respective monitoring year divided into vehicles subject to EC type-approval, individual approvals and national approvals of small series. 2. The distribution by version of new passenger cars
+For each version of each variant of each type of new passenger car, the number of newly registered passenger cars and the detailed data referred to in point 1 of Part A shall be recorded. 3. The fuel stations in their territory that supply E85 fuel shall be indicated in accordance with Article 6 of Commission Regulation (EU) No 1014/2010 (1). PART C — Format for the transmission of data
+For each year, Member States shall report the information specified in points 1 and 3 of Part A in the following formats: Aggregated data including general information specified in point 3 of Part A:
+
+| Member State (2) |
+| Year |
+| Data source |
+|---|
+| Total number of new registrations of new passenger cars subject to EC type-approval |
+| Total number of new registrations of new individually approved passenger cars |
+| Total number of new registrations of new passenger cars approved nationally in small series |
+| Percentage of all fuel filling stations providing E85, in accordance with Article 6(1) of Regulation (EU) No 1014/2010 |
+| Total number of fuel filling stations providing E85 where the proportion of those stations exceeds 30 % of all fuel filling stations, in accordance with Article 6(2) of Regulation (EU) No 1014/2010 | Detailed data specified in point 1 of Part A:
+
+| Year | Manufacturer name EU standard denomination | Manufacturer name Manufacturer denomination | Manufacturer name National Registry denomination | Type-approval number and its extension | Type | Variant | Version | Make | Commercial name | Category of vehicle type-approved | Total number of new registrations | Mass (kg) | Specific emissions of CO2 (g/km) | Wheelbase (mm) | Track width steering axle (mm) | Track width other axle (mm) | Fuel type (3) | Fuel mode (3) | Engine capacity (cm3) | Electric energy consumption (Wh/km) | Innovative technology or group of innovative technologies code (4) | Emissions reduction through innovative technologies (g/km) (4) |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Year 1 | Manuf. 1 | Manuf. 1 | Manuf. 1 | TAN 1 | Type 1 | Variant 1 | Version 1 | … | … | … | … | … | … | … | … | … | … | … | … | … | … | … |
+| Year 1 | Manuf. 1 | Manuf. 1 | Manuf. 1 | TAN 1 | Type 1 | Variant 1 | Version 2 | … | … | … | … | … | … | … | … | … | … | … | … | … | … | … |
+| Year 1 | Manuf. 1 | Manuf. 1 | Manuf. 1 | TAN 1 | Type 1 | Variant 2 | Version 1 | … | … | … | … | … | … | … | … | … | … | … | … | … | … | … |
+| Year 1 | Manuf. 1 | Manuf. 1 | Manuf. 1 | TAN 1 | Type 1 | Variant 2 | Version 2 | … | … | … | … | … | … | … | … | … | … | … | … | … | … | … |
+
+(1) OJ L 293, 11.11.2010, p. 15. (2) ISO 3166 alpha-2 codes with the exception of Greece and the United Kingdom for which the codes are "EL" and "UK" respectively. (3) In accordance with Article 6. (4) In accordance with Article 12.'
+recital 6
+(6) In order to ensure that those amendments can be taken into account for the monitoring of the data in 2013, it is appropriate to provide for an entry into force not later than the seventh day following that of the publication of this act in the Official Journal of the European Union.
+recital 5
+(5) It should also be ensured that the monitoring of CO2 emissions from passenger cars is aligned with that for light commercial vehicles under Regulation (EU) No 510/2011 of the European Parliament and of the Council of 11 May 2011 setting emission performance standards for light commercial vehicles as part of the Union's integrated approach to reduce CO2 emissions from light-duty vehicles (3) by including as mandatory monitoring parameters also the engine capacity and the electric energy consumption, in addition to the type-approval number.
+
+Moreover, where the certificate of conformity is not used as the primary data source and data is taken, inter alia, from type-approval documents, it should be clarified that the data in those cases should be consistent with the data provided in the certificates of conformity.
+recital 4
+(4) Passenger cars that are approved nationally in small series in accordance with Article 23 of Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (2) or cars individually approved in accordance with Article 24 of that Directive are not taken into account for the calculation of the average specific emissions of a manufacturer.
+
+It is however important to monitor the number of those vehicles in a consistent way in order to assess any potential impact on the monitoring process and the attainment of the Union's average CO2 emissions target. The aggregate numbers of those registrations should therefore be provided on an annual basis.
+recital 3
+(3) The inclusion of the type-approval number as a data parameter to be monitored and reported can improve the means for manufacturers to verify the provisional calculations of their average specific emissions and specific emissions targets and, as a consequence, ensure improved accuracy in the final dataset.
+recital 2
+(2) In order to improve the quality and accuracy of the monitoring of CO2 emissions from passenger cars, it is however necessary to specify further some of the required data parameters and add other parameters that have until now been monitored on a voluntary basis.
+recital 1
+(1) Experience from the monitoring of CO2 emissions from new passenger cars in 2010 and 2011 shows that the accurate calculation of the average specific emissions and the specific emissions targets is only possible on the basis of the detailed data referred to in Article 8(1) of Regulation (EC) No 443/2009.
+
+It is therefore appropriate to adjust the aggregated data specified in the first table set out in Part C of Annex II to Regulation (EC) No 443/2009 to include only those data that are strictly necessary for the implementation of that Regulation.
+Article 2
+This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Union.
+Article 1
+Annex II to Regulation (EC) No 443/2009 is replaced by the text set out in the Annex to this Regulation.
+recital 8
+(8) The measures provided for in this Regulation are in accordance with the opinion of the Climate Change Committee,
+HAS ADOPTED THIS REGULATION:

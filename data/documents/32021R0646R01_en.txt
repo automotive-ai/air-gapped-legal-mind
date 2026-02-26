@@ -1,0 +1,14 @@
+Corrigendum to Commission Implementing Regulation (EU) 2021/646 of 19 April 2021 laying down rules for the application of Regulation (EU) 2019/2144 of the European Parliament and of the Council as regards uniform procedures and technical specifications for the type-approval of motor vehicles with regard to their emergency lane-keeping systems (ELKS)
+(
+Official Journal of the European Union L 133 of 20 April 2021
+)
+Corrigendum to Commission Implementing Regulation (EU) 2021/646 of 19 April 2021 laying down rules for the application of Regulation (EU) 2019/2144 of the European Parliament and of the Council as regards uniform procedures and technical specifications for the type-approval of motor vehicles with regard to their emergency lane-keeping systems (ELKS)
+(
+Official Journal of the European Union L 133 of 20 April 2021
+)
+On page 40, in Annex I, Part 2, Technical specifications, point 3.6.2, Lane keep, in the table:
+
+for: 'No
+Scenario description 1. {{IMAGE:Image_2, Caption:Diagram illustrating a lane keep scenario where a vehicle departs to the right across a solid white line.}} {{IMAGE:Image_2, Caption:Diagram illustrating a lane keep scenario where a vehicle departs to the right across a solid white line.}} '
+read: 'No
+Scenario description 1. {{IMAGE:Image_2, Caption:Diagram illustrating a lane keep scenario where a vehicle departs to the right across a solid white line.}} {{IMAGE:Image_3, Caption:Schematic illustrating a lane keep test scenario where a vehicle departs its lane to the left across a solid white line, indicated by a red trajectory path.}} '

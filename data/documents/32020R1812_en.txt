@@ -1,0 +1,127 @@
+Article 5 - Entry into force and application
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+Article 4 - List of EU type-approvals
+1.
+
+When Member States make the lists of EU type-approvals and technical services referred to in Article 12(4) of Regulation (EU) 2018/858 accessible to the public using ETAES, they shall do so in a standardised searchable format. Member States shall keep those lists up to date. 2. The following information shall be included in the list(s) referred to in paragraph 1: (a) the distinguishing number of the Member State, in accordance with point 2.1 of Annex IV to Implementing Regulation (EU) 2020/683, that issued the EU type-approval certificate; (b) the number of the EU type-approval certificate; (c) the status of the EU type-approval 'granted', 'amended', 'refused' or 'withdrawn'; (d) the name of the technical service responsible for carrying out the tests, where applicable; (e) the approval date of the EU type-approval certificate. 3. A list of EU type-approvals and technical services referred to in Article 12(4) of Regulation (EU) 2018/858 may be published on the website of the Commission
+recital 8
+(8) The empowerments laid down in the second subparagraph of Article 12(4) and in Article 27(3) of Regulation (EU) 2018/858 set out the requirements for the use of the common secure electronic exchange system of EU type-approval information for motor vehicles and their trailers, and for systems, components and separate technical units intended for such vehicles.
+
+As those empowerments are closely linked by their subject matter, they should be bundled for the purposes of this Regulation.
+Article 3 - Procedure for the exchange of type-approval information
+1. When informing authorities on the granting of EU type-approvals, on amendments, refusals and withdrawals thereof pursuant to paragraphs 1 and 2 of Article 27 of Regulation (EU) 2018/858, the approval authority shall provide an entry for at least the following attributes in ETAES:
+
+(a) the distinguishing number of the Member State, in accordance with point 2.1 of Annex IV to Commission Implementing Regulation (EU) 2020/683 (2), that issued the EU type-approval certificate; (b) the number of the EU type-approval certificate (3); (c) the approval date of the EU type-approval certificate; (d) the name of the technical service responsible for carrying out the tests, where applicable (4); (e) the name of the manufacturer; (f) the type of vehicle, system, component or separate technical unit as specified by the manufacturer in the EU type-approval certificate; (g) the vehicle category pursuant to Article 4 of Regulation (EU) 2018/858, where applicable; (h) the Regulation applying to the EU type approved whole-vehicle-, system-, separate technical unit- or component; (i) the status of the EU type-approval 'granted', 'amended', 'refused' or 'withdrawn'; (j) the EU type-approval reference to a vehicle, system, component or a separate technical unit. 2. In the cases referred to in paragraph 1, the approval authority shall also upload the following documents separately in ETAES, in an electronic searchable format: (a) a copy of the EU type-approval certificate, with the indication 'CERT' followed by the EU type-approval certificate number (5) (6); (b) the information items to be attached to the EU type-approval certificate referred to in points (a), (c) and (d) of Article 28(1) of Regulation (EU) 2018/858, with the indication 'IF' followed by the EU type-approval certificate number (7); (c) the test report and/or the test results sheet referred to in point (b) of Article 28(1) of Regulation (EU) 2018/858, with the indication 'TR' followed by the EU type-approval certificate number (8); (d) any documents other than the ones mentioned in points (a), (b) and (c), with the indication 'OTHER' followed by the EU type-approval certificate number (9). 3. Where it is necessary to include multiple documents for the uploads referred to in paragraph 2 of this Article, an additional sequential number, starting from 1, shall follow the indications laid down in points (b), (c) and (d) of paragraph 2 of this Article (10). 4. In the case documents are amended by a revision, as provided for in Article 34 of Regulation (EU) 2018/858, the indications laid down in points (a), (b), (c) and (d) of paragraph 2 of this Article shall be followed by the indication Rev. and a two-digit sequential number starting from 01 (11).
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC (1), and in particular the second subparagraph of Article 12(4) and Article 27(3) thereof,
+Whereas:
+
+(1) Article 12(4) of Regulation (EU) 2018/858 requires Member States to use a common secure electronic exchange system in order to make accessible to the public as from 1 September 2022 a list of the EU type-approvals for vehicles, systems, components and separate technical units that they have granted, amended, refused or withdrawn, as well as a list of the technical services which have performed the tests for the respective EU type-approvals. (2) Article 27 of Regulation (EU) 2018/858 requires approval authorities to use that same system in order to make certain documents pertaining to EU type-approvals available to the approval authorities of the other Member States, to the market surveillance authorities and to the Commission, as well as to inform the approval authorities of the other Member States and the Commission of the refusal or withdrawal of any EU type-approval, including the reasons therefor. (3) The European Type Approval Exchange System ('ETAES') is a software application accessible via the internet and developed by the Member States in order to assisting the EU type-approval authorities with the practical implementation of information exchange requirements laid down in Union acts by providing a centralised communication mechanism to facilitate cross-border exchange of a copy of the EU type-approval certificate together with the attachments. A similar system, the Database for the Exchange of Type Approval documentation and information system, has been established under the auspices of the United Nations Economic Commission for Europe. It is therefore appropriate to designate ETAES as the common secure electronic exchange system referred to in Article 27(3) of Regulation (EU) 2018/858. (4) To preserve confidential data, requirements on access to ETAES and the use of secure data exchange protocols should be laid down. (5) In order to make ETAES a searchable online database, requirements regarding the upload of the EU type-approval documents referred to in Article 27(1) of Regulation (EU) 2018/858 should be laid down. (6) In order to better establish the different access rights to ETAES, approval authorities should upload the documents referred to in Article 27(1) of Regulation (EU) 2018/858 in ETAES separately on the basis of their nature and, where relevant, their status. (7) Considering that ETAES is, in its current version, a communication tool for administrative cooperation between Member States that is not open to the public, it is necessary to harmonise the format and content of the lists referred to Article 12(4) of Regulation (EU) 2018/858 to ensure that the relevant information is made accessible to the public. (8) The empowerments laid down in the second subparagraph of Article 12(4) and in Article 27(3) of Regulation (EU) 2018/858 set out the requirements for the use of the common secure electronic exchange system of EU type-approval information for motor vehicles and their trailers, and for systems, components and separate technical units intended for such vehicles. As those empowerments are closely linked by their subject matter, they should be bundled for the purposes of this Regulation. (9) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee - Motor Vehicles (TCMV),
+HAS ADOPTED THIS REGULATION:
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC (1), and in particular the second subparagraph of Article 12(4) and Article 27(3) thereof,
+Whereas:
+recital 1
+(1) Article 12(4) of Regulation (EU) 2018/858 requires Member States to use a common secure electronic exchange system in order to make accessible to the public as from 1 September 2022 a list of the EU type-approvals for vehicles, systems, components and separate technical units that they have granted, amended, refused or withdrawn, as well as a list of the technical services which have performed the tests for the respective EU type-approvals.
+recital 2
+(2) Article 27 of Regulation (EU) 2018/858 requires approval authorities to use that same system in order to make certain documents pertaining to EU type-approvals available to the approval authorities of the other Member States, to the market surveillance authorities and to the Commission, as well as to inform the approval authorities of the other Member States and the Commission of the refusal or withdrawal of any EU type-approval, including the reasons therefor.
+recital 3
+(3) The European Type Approval Exchange System ('ETAES') is a software application accessible via the internet and developed by the Member States in order to assisting the EU type-approval authorities with the practical implementation of information exchange requirements laid down in Union acts by providing a centralised communication mechanism to facilitate cross-border exchange of a copy of the EU type-approval certificate together with the attachments.
+
+A similar system, the Database for the Exchange of Type Approval documentation and information system, has been established under the auspices of the United Nations Economic Commission for Europe. It is therefore appropriate to designate ETAES as the common secure electronic exchange system referred to in Article 27(3) of Regulation (EU) 2018/858.
+recital 4
+(4) To preserve confidential data, requirements on access to ETAES and the use of secure data exchange protocols should be laid down.
+recital 5
+(5) In order to make ETAES a searchable online database, requirements regarding the upload of the EU type-approval documents referred to in Article 27(1) of Regulation (EU) 2018/858 should be laid down.
+recital 6
+(6) In order to better establish the different access rights to ETAES, approval authorities should upload the documents referred to in Article 27(1) of Regulation (EU) 2018/858 in ETAES separately on the basis of their nature and, where relevant, their status.
+recital 9
+(9) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee - Motor Vehicles (TCMV),
+HAS ADOPTED THIS REGULATION:
+Article 1 - Common secure electronic exchange system
+The European Type Approval Exchange System ('ETAES') shall be used as the common secure electronic exchange system referred to in Article 27(3) of Regulation (EU) 2018/858.
+Article 1 - Common secure electronic exchange system
+The European Type Approval Exchange System ('ETAES') shall be used as the common secure electronic exchange system referred to in Article 27(3) of Regulation (EU) 2018/858.
+Article 2 - Security measures
+The following security measures shall be observed in ETAES in order to prevent unauthorised access:
+
+(a) encryption of communication between the ETAES client and the ETAES server, using a https protocol with a Secure Sockets Layer certificate; (b) web security preventing attackers from injecting client-side scripts into the web page(s) and from using multiple layers to trick a user into clicking on a button or link to another web page; (c) a fine grained access control system that makes it possible to grant, read or write permissions for the access of authorised parties.
+recital 7
+(7) Considering that ETAES is, in its current version, a communication tool for administrative cooperation between Member States that is not open to the public, it is necessary to harmonise the format and content of the lists referred to Article 12(4) of Regulation (EU) 2018/858 to ensure that the relevant information is made accessible to the public.
+Article 2 - Security measures
+The following security measures shall be observed in ETAES in order to prevent unauthorised access:
+
+(a) 
+encryption of communication between the ETAES client and the ETAES server, using a https protocol with a Secure Sockets Layer certificate; (b) 
+web security preventing attackers from injecting client-side scripts into the web page(s) and from using multiple layers to trick a user into clicking on a button or link to another web page; (c) 
+►C1
+ a fine grained access control system that makes it possible to grant read or write permissions for the access of authorised parties. ◄
+Article 3 - Procedure for the exchange of type-approval information
+1.
+
+When informing authorities on the granting of EU type-approvals, on amendments, refusals and withdrawals thereof pursuant to paragraphs 1 and 2 of Article 27 of Regulation (EU) 2018/858, the approval authority shall provide an entry for at least the following attributes in ETAES: (a) 
+the distinguishing number of the Member State, in accordance with point 2.1 of Annex IV to Commission Implementing Regulation (EU) 2020/683 (
+1
+), that issued the EU type-approval certificate; (b) 
+the number of the EU type-approval certificate (
+2
+); (c) 
+the approval date of the EU type-approval certificate; (d) 
+the name of the technical service responsible for carrying out the tests, where applicable (
+3
+);
+(e) 
+the name of the manufacturer; (f) 
+the type of vehicle, system, component or separate technical unit as specified by the manufacturer in the EU type-approval certificate; (g) 
+the vehicle category pursuant to Article 4 of Regulation (EU) 2018/858, where applicable; (h) 
+the Regulation applying to the EU type approved whole-vehicle-, system-, separate technical unit- or component; (i) 
+the status of the EU type-approval 'granted', 'amended', 'refused' or 'withdrawn'; (j) 
+the EU type-approval reference to a vehicle, system, component or a separate technical unit. 2. 
+ In the cases referred to in paragraph 1, the approval authority shall also upload the following documents separately in ETAES, in an electronic searchable format: (a) 
+a copy of the EU type-approval certificate, with the indication 'CERT' followed by the EU type-approval certificate number (
+4
+) (
+5
+);
+(b) 
+the information items to be attached to the EU type-approval certificate referred to in points (a), (c) and (d) of Article 28(1) of Regulation (EU) 2018/858, with the indication 'IF' followed by the EU type-approval certificate number (
+6
+);
+(c) 
+the test report and/or the test results sheet referred to in point (b) of Article 28(1) of Regulation (EU) 2018/858, with the indication 'TR' followed by the EU type-approval certificate number (
+7
+); (d) 
+any documents other than the ones mentioned in points (a), (b) and (c), with the indication 'OTHER' followed by the EU type-approval certificate number (
+8
+). 3. 
+ Where it is necessary to include multiple documents for the uploads referred to in paragraph 2 of this Article, an additional sequential number, starting from 1, shall follow the indications laid down in points (b), (c) and (d) of paragraph 2 of this Article (
+9
+). 4. 
+ In the case documents are amended by a revision, as provided for in Article 34 of Regulation (EU) 2018/858, the indications laid down in points (a), (b), (c) and (d) of paragraph 2 of this Article shall be followed by the indication Rev. and a two-digit sequential number starting from 01 (
+10
+).
+Article 4 - List of EU type-approvals
+1.
+
+When Member States make the lists of EU type-approvals and technical services referred to in Article 12(4) of Regulation (EU) 2018/858 accessible to the public using ETAES, they shall do so in a standardised searchable format. Member States shall keep those lists up to date. 2. 
+ The following information shall be included in the list(s) referred to in paragraph 1: (a) 
+the distinguishing number of the Member State, in accordance with point 2.1 of Annex IV to Implementing Regulation (EU) 2020/683, that issued the EU type-approval certificate; (b) 
+the number of the EU type-approval certificate; (c) 
+the status of the EU type-approval 'granted', 'amended', 'refused' or 'withdrawn'; (d) 
+the name of the technical service responsible for carrying out the tests, where applicable; (e) 
+the approval date of the EU type-approval certificate. 3. 
+ A list of EU type-approvals and technical services referred to in Article 12(4) of Regulation (EU) 2018/858 may be published on the website of the Commission
+Article 5 - Entry into force and application
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+Introduction
+COMMISSION IMPLEMENTING REGULATION (EU) 2020/1812of 1 December 2020
+laying down rules on the online data exchange and the notification of EU type-approvals under Regulation (EU) 2018/858 of the European Parliament and of the Council
+(OJ L 404 2.12.2020, p. 5)
+Corrected by:
+
+►C1
+Corrigendum, OJ L 104, 25.3.2021, p. 55 (2020/1812)

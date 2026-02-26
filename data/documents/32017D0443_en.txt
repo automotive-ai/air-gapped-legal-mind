@@ -1,0 +1,74 @@
+recital 1
+(1) In accordance with Council Decision 97/836/EC (1), the Union acceded to the Agreement of the United Nations Economic Commission for Europe (UNECE) concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to, and/or be used on, wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of those prescriptions (the 'Revised 1958 Agreement').
+Introduction
+THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114, in conjunction with Article 218(9) thereof,
+Having regard to the proposal from the European Commission,
+Whereas:
+
+(1) In accordance with Council Decision 97/836/EC (1), the Union acceded to the Agreement of the United Nations Economic Commission for Europe (UNECE) concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to, and/or be used on, wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of those prescriptions (the 'Revised 1958 Agreement'). (2) In accordance with Council Decision 2000/125/EC (2), the Union acceded to the Agreement concerning the establishing of global technical regulations for wheeled vehicles, equipment and parts which can be fitted and/or be used on wheeled vehicles (the 'Parallel Agreement'). (3) Directive 2007/46/EC of the European Parliament and of the Council (3) replaced the approval systems of the Member States with a Union approval procedure and established a harmonised framework containing administrative provisions and general technical requirements for all new vehicles, systems, components and separate technical units. That Directive incorporated UN Regulations adopted under the Revised 1958 Agreement in the EU type-approval system, either as requirements for type-approval or as alternatives to Union legislation. Since the adoption of that Directive, such UN regulations have increasingly been incorporated into Union legislation in the framework of the EU type-approval. (4) In the light of experience and technical developments, the requirements relating to certain elements or features covered by UN Regulations Nos 3, 4, 6, 7, 13, 19, 23, 27, 28, 38, 39, 43, 45, 50, 69, 70, 73, 75, 77, 79, 83, 87, 91, 98, 99, 101, 104, 107, 109, 110, 112, 118, 119, 123 and 138, need to be adapted to technical progress. (5) In order to lay down uniform provisions concerning the construction of vehicles, the Consolidated Resolution on the Construction of Vehicles (R.E.3) should be amended by guidelines on cyber security and data protection, without hindering the ongoing development done at Union level in the framework of cooperative, connected and automated driving. (6) It is appropriate to establish the position to be adopted on behalf of the Union within the relevant Committees of the UNECE, namely the Administrative Committee of the Revised 1958 Agreement and the Executive Committee of the Parallel Agreement, as regards the adoption of those UN acts,
+HAS ADOPTED THIS DECISION:
+| Agenda item title | Document reference |
+|---|---|
+| Proposal for Supplement 17 to the 02 series of amendments to Regulation No 3 (Retro-reflecting devices) | ECE/TRANS/WP.29/2017/19 |
+| Proposal for Supplement 18 to Regulation No 4 (Illumination of rear registration plates) | ECE/TRANS/WP.29/2017/20 |
+| Proposal for Supplement 27 to the 01 series of amendments to Regulation No 6 (Direction indicators) | ECE/TRANS/WP.29/2017/21 |
+| Proposal for Supplement 26 to the 02 series of amendments to Regulation No 7 (Position, stop and end-outline lamps) | ECE/TRANS/WP.29/2017/22 |
+| Proposal for Corrigendum 2 to Revision 8 to Regulation No 13 (Heavy vehicle braking) | ECE/TRANS/WP.29/2017/45 |
+| Proposal for Supplement 9 to the 04 series of amendments to Regulation No 19 (Front fog lamps) | ECE/TRANS/WP.29/2017/23 |
+| Proposal for Supplement 21 to Regulation No 23 (Reversing lamps) | ECE/TRANS/WP.29/2017/24 |
+| Proposal for Supplement 1 to the 04 series of amendments to Regulation No 27 (Advance warning triangles) | ECE/TRANS/WP.29/2017/25 |
+| Proposal for Supplement 5 to Regulation No 28 (Audible warning devices) | ECE/TRANS/WP.29/2017/3 |
+| Proposal for Supplement 18 to Regulation No 38 (Rear fog lamps) | ECE/TRANS/WP.29/2017/26 |
+| Proposal for Supplement 1 to the 01 series of amendments to Regulation No 39 (Speedometer and odometer) | ECE/TRANS/WP.29/2017/11 |
+| Proposal for Supplement 5 to the 01 series of amendments to Regulation No 43 (Safety glazing) | ECE/TRANS/WP.29/2017/12 |
+| Proposal for Supplement 11 to the 01 series of amendments to Regulation No 45 (Headlamp cleaners) | ECE/TRANS/WP.29/2017/27 |
+| Proposal for Supplement 19 to Regulation No 50 (Position, stop, direction indicator lamps for mopeds and motorcycles) | ECE/TRANS/WP.29/2017/28 |
+| Proposal for Supplement 6 to the 01 series of amendments to Regulation No 69 (Rear-marking plates for slow moving vehicles) | ECE/TRANS/WP.29/2017/30 |
+| Proposal for Supplement 10 to the 01 series of amendments to Regulation No 70 (Rear-marking plates for heavy and long vehicles) | ECE/TRANS/WP.29/2017/31 |
+| Proposal for Supplement 1 to the 01 series of amendments to Regulation No 73 (Lateral protection devices) | ECE/TRANS/WP.29/2017/17 |
+| Proposal for Supplement 16 to Regulation No 75 (Tyres for L-category vehicles) | ECE/TRANS/WP.29/2017/8 |
+| Proposal for Supplement 17 to Regulation No 77 (Parking lamps) | ECE/TRANS/WP.29/2017/32 |
+| Proposal for Supplement 6 to the 01 series of amendments to Regulation No 79 (Steering equipment) | ECE/TRANS/WP.29/2017/10 + GRRF-83-08-Rev.3 |
+| Proposal for Supplement 9 to the 06 series of amendments to Regulation No 83 (Emissions of M1 and N1 vehicles) | ECE/TRANS/WP.29/2017/42 |
+| Proposal for Supplement 5 to the 07 series of amendments to Regulation No 83 (Emissions of M1 and N1 vehicles) | ECE/TRANS/WP.29/2017/43 |
+| Proposal for Supplement 19 to Regulation No 87 (Daytime running lamps) | ECE/TRANS/WP.29/2017/33 |
+| Proposal for Supplement 16 to Regulation No 91 (Side-marker lamps) | ECE/TRANS/WP.29/2017/34 |
+| Proposal for Supplement 8 to the 01 series of amendments to Regulation No 98 (Headlamps with gas-discharge light sources) | ECE/TRANS/WP.29/2017/35 |
+| Proposal for Supplement 13 to Regulation No 99 (Gas-discharge light sources) | ECE/TRANS/WP.29/2017/36 |
+| Proposal for Supplement 7 to the 01 series of amendments to Regulation No 101 (CO2 emissions/fuel consumption) | ECE/TRANS/WP.29/2017/44 |
+| Proposal for Supplement 9 to Regulation No 104 (Retro-reflective markings) | ECE/TRANS/WP.29/2017/37 |
+| Proposal for Corrigendum 2 to the 06 series of amendments to Regulation No 107 (M2 and M3 vehicles) | ECE/TRANS/WP.29/2017/13 |
+| Proposal for Corrigendum 1 to the 07 series of amendments to Regulation No 107 (M2 and M3 vehicles) | ECE/TRANS/WP.29/2017/14 |
+| Proposal for Supplement 8 to Regulation No 109 (Retreaded tyres for commercial vehicles and their trailers) | ECE/TRANS/WP.29/2017/9 |
+| Proposal for Supplement 6 to the 01 series of amendments to Regulation No 110 (CNG and LNG vehicles) | ECE/TRANS/WP.29/2017/15 |
+| Proposal for Supplement 7 to the 01 series of amendments to Regulation No 112 (Headlamps emitting an asymmetrical passing-beam) | ECE/TRANS/WP.29/2017/38 |
+| Proposal for Supplement 3 to the 02 series of amendments to Regulation No 118 (Burning behaviour of materials) | ECE/TRANS/WP.29/2017/16 |
+| Proposal for the 03 series of amendments to Regulation No 118 (Burning behaviour of materials) | ECE/TRANS/WP.29/2017/18 |
+| Proposal for Supplement 5 to the 01 series of amendments to Regulation No 119 (Cornering lamps) | ECE/TRANS/WP.29/2017/40 |
+| Proposal for Supplement 8 to the 01 series of amendments to Regulation No 123 (Adaptive front-lighting systems (AFS)) | ECE/TRANS/WP.29/2017/41 |
+| Proposal for Supplement 1 to Regulation No 138 (Quiet Road Transport Vehicles (QRTV)) | ECE/TRANS/WP.29/2017/6 |
+| Proposal for the 01 series of amendments to Regulation No 138 (Quiet Road Transport Vehicles (QRTV)) | ECE/TRANS/WP.29/2017/7 |
+| Proposal for draft guidelines on cyber security and data protection | ECE/TRANS/WP.29/2017/46 |
+recital 6
+(6) It is appropriate to establish the position to be adopted on behalf of the Union within the relevant Committees of the UNECE, namely the Administrative Committee of the Revised 1958 Agreement and the Executive Committee of the Parallel Agreement, as regards the adoption of those UN acts,
+HAS ADOPTED THIS DECISION:
+recital 5
+(5) In order to lay down uniform provisions concerning the construction of vehicles, the Consolidated Resolution on the Construction of Vehicles (R.E.3) should be amended by guidelines on cyber security and data protection, without hindering the ongoing development done at Union level in the framework of cooperative, connected and automated driving.
+recital 4
+(4) In the light of experience and technical developments, the requirements relating to certain elements or features covered by UN Regulations Nos 3, 4, 6, 7, 13, 19, 23, 27, 28, 38, 39, 43, 45, 50, 69, 70, 73, 75, 77, 79, 83, 87, 91, 98, 99, 101, 104, 107, 109, 110, 112, 118, 119, 123 and 138, need to be adapted to technical progress.
+recital 3
+(3) Directive 2007/46/EC of the European Parliament and of the Council (3) replaced the approval systems of the Member States with a Union approval procedure and established a harmonised framework containing administrative provisions and general technical requirements for all new vehicles, systems, components and separate technical units.
+
+That Directive incorporated UN Regulations adopted under the Revised 1958 Agreement in the EU type-approval system, either as requirements for type-approval or as alternatives to Union legislation. Since the adoption of that Directive, such UN regulations have increasingly been incorporated into Union legislation in the framework of the EU type-approval.
+recital 2
+(2) In accordance with Council Decision 2000/125/EC (2), the Union acceded to the Agreement concerning the establishing of global technical regulations for wheeled vehicles, equipment and parts which can be fitted and/or be used on wheeled vehicles (the 'Parallel Agreement').
+Article 1
+The position to be adopted on behalf of the Union within the Administrative Committee of the Revised 1958 Agreement and the Executive Committee of the Parallel Agreement during the period from 13 to 17 March 2017 shall be to vote in favour of the proposals listed in the Annex to this Decision.
+Article 2
+This Decision shall enter into force on the date of its adoption.
+citation
+THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114, in conjunction with Article 218(9) thereof,
+Having regard to the proposal from the European Commission,
+Whereas:

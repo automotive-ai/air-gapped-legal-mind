@@ -1,0 +1,235 @@
+recital 3
+(3) Given the uncertainty surrounding the future of power-train technology and the likelihood that new technologies will represent an increasingly large share of the market, it is necessary to adapt current European type-approval legislation to those technologies.
+Article 2
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 715/2007 of the European Parliament and of the Council of 20 June 2007 on type approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information (1), and in particular article 5(3)(a)(f) and (i) thereof,
+Whereas:
+
+(1) The Communication from the Commission to the European Parliament, the Council and the European Economic and Social Committee - A European strategy on clean and energy efficient vehicles (2), recognizes the existence of a wide range of technologies (electricity, hydrogen, biogas, and liquid biofuels) that are likely to contribute significantly to the Europe 2020 priorities of developing an economy based on knowledge and innovation (smart growth) and promoting a more resource efficient, greener an more competitive economy (sustainable growth). (2) The internal combustion engine (ICE) is likely to remain dominant in road vehicles in the short and medium term perspective; therefore, a smooth transition from ICE to other kinds of power-trains based on electricity (electric battery, fuel cell) could be facilitated by adapting ICE to clean fuels, such as hydrogen (H2) or mixtures of hydrogen and natural gas (H2NG). (3) Given the uncertainty surrounding the future of power-train technology and the likelihood that new technologies will represent an increasingly large share of the market, it is necessary to adapt current European type-approval legislation to those technologies. (4) Commission Regulation (EC) No 692/2008 of 18 July 2008 implementing and amending Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information (3) does not currently include H2 and H2NG among the type of fuels considered. Therefore, it is appropriate to extend the type-approval procedure established in that Regulation to cover those fuels. (5) Regulation (EC) No 79/2009 of the European Parliament and of the Council of 14 January 2009 on type-approval of hydrogen-powered motor vehicles, and amending Directive 2007/46/EC (4) established safety requirements for the type-approval of motor vehicles with regard to hydrogen propulsion. Environmental protection must also be achieved as nitrogen oxide emissions from hydrogen used as a fuel in ICEs may have an impact on the environment. (6) H2NG mixtures release into the atmosphere a certain amount of pollutants, mainly hydrocarbons, carbon monoxides, nitrogen oxides and particulate matters; these emissions have to be addressed. (7) The different formulae and parameters used for the determination of the results of the emission tests should be adapted for the specific cases of H2 and H2NG used in ICEs, as those formulae and parameters are strongly dependent on the type and characteristics of the fuel used. (8) The documents provided by the manufacturer to the national approval authorities should be updated in order to incorporate the relevant information concerning H2, H2NG and electric vehicles. (9) Regulation (EC) No 692/2008 should therefore be amended accordingly. (10) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee - Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+ANNEX
+ANNEX
+The Annexes to Regulation (EC) No 692/2008 are amended as follows: 1. Annex I is amended as follows
+(a) Point 1.1 is replaced by the following: 1.1. Additional requirements for mono fuel gas vehicles, bi-fuel gas vehicles and flex fuel H2NG vehicles.' (b) Point 1.1.1.1 is replaced by the following: '1.1.1.1. A family means a group of vehicle types fuelled by LPG, NG/biomethane, H2NG, identified by a parent vehicle.'; (c) Point 1.1.2 is replaced by the following: 1.1.2. In case of vehicles fuelled by LPG, NG/biomethane, H2NG, EC type-approval is granted subject to the following requirements:'; (d) In point 1.1.2.1. the following paragraph is added: 'In the case of a flex fuel H2NG vehicle, the composition range may vary from 0 % hydrogen to a maximum percentage of hydrogen within the mixture, which shall be specified by the manufacturer. The parent vehicle shall demonstrate its capability to adapt to any percentage, within the range specified by the manufacturer. It shall also demonstrate its capability to adapt to any NG/biomethane composition that may occur across the market, regardless of the percentage of hydrogen in the mixture.'; (e) Points 1.1.2.2, 1.1.2.3 and 1.1.2.4 are replaced by the following: '1.1.2.2. In the case of vehicles fuelled by LPG, NG/biomethane, the parent vehicle shall be tested in the type 1 test on the two extreme gas reference fuels set out in Annex IX. In the case of NG/biomethane, if the transition from one gas fuel to the other gas fuel is, in practice, aided through the use of a switch, this switch shall not be used during type-approval. In the case of flex fuel H2NG vehicles, the parent vehicle shall be tested in the type 1 test with the following fuel compositions: —
+100 % H-gas. —
+100 % L-gas. —
+The mixture of H-gas and the maximum percentage of hydrogen specified by the manufacturer. —
+The mixture of L-gas and the maximum percentage of hydrogen specified by the manufacturer. 1.1.2.3. The vehicle is considered to conform if, under the tests and reference fuels mentioned in point 1.1.2.2, the vehicle complies with the emission limits. 1.1.2.4. In the case of vehicles fuelled by LPG or NG/biomethane, the ratio of emission results "r" shall be determined for each pollutant as follows: {{IMAGE:Image_1, Caption:Mathematical formula defining the ratio 'r' as G25 divided by G20.}} '
+fuel G25
+(f) The following point 1.1.2.5 is inserted: '1.1.2.5. In the case of flex fuel H2NG vehicles, two ratios of emission results "r1" and "r2", shall be determined for each pollutant as follows: {{IMAGE:Image_2, Caption:Equation defining the parameter r1 as the ratio of G25 to G20.}} {{IMAGE:Image_3, Caption:Equation defining r2 as the ratio of H2G25 to H2G20.}} '
+Mixture of hydrogen and G25 with the maximum percentage of hydrogen specified by the manufacturer
+(g) In point 1.1.3, the first paragraph is replaced by the following: 'For the type-approval of a mono- fuel gas vehicle and bi-fuel gas vehicles operating in gas mode, fuelled by LPG or NG/biomethane, as a member of the family, a type 1 test shall be performed with one gas reference fuel. This reference fuel may be either of the gas reference fuels. The vehicle is considered to comply if the following requirements are met:'; (h) The following point 1.1.4 is inserted: 1.1.4. For the type-approval of a flex fuel H2NG vehicle as a member of a family, two type 1 tests shall be performed, the first test with 100 % of either G20 or G25, and the second test with the mixture of hydrogen and the same NG/biomethane fuel used during the first test, with the maximum hydrogen percentage specified by the manufacturer. The vehicle tested in accordance with the first paragraph shall be considered as complying if, in addition to requirements set out in points (a), (e) and (g) of point 1.1.3., the following requirements are met: (a) if the NG/biomethane fuel is the reference fuel G20, the emission result for each pollutant shall be multiplied by the relevant factors (r1 for the first test and r2 for the second test), calculated in section 1.1.2.5, if the relevant factor > 1; if the correspondent relevant factor < 1, no correction is needed; (b) if the NG/biomethane fuel is the reference fuel G25, the emission result for each pollutant shall be divided by the correspondent relevant factor (r1 for the first test and r2 for the second test) calculated in accordance with point 1.1.2.5, if the correspondent relevant factor < 1; if the correspondent relevant factor > 1, no correction is needed; (c) on the manufacturer's request the type 1 test must be performed with the four possible combinations of reference fuels, according to section 1.1.2.5, so that no correction is needed; (d) if repeated tests are made on the same engine the results on reference fuel G20, or H2G20, and those on reference fuel G25, or H2G25 with the maximum hydrogen percentage specified by the manufacturer, shall first be averaged; the "r1" and "r2" factors shall then be calculated from these averaged results.'; (i) Figure I.2.4 is replaced by the following:
+
+| Vehicle category | Vehicles with positive ignition engines including hybrids | Vehicles with positive ignition engines including hybrids | Vehicles with positive ignition engines including hybrids | Vehicles with positive ignition engines including hybrids | Vehicles with positive ignition engines including hybrids | Vehicles with positive ignition engines including hybrids | Vehicles with positive ignition engines including hybrids | Vehicles with positive ignition engines including hybrids | Vehicles with positive ignition engines including hybrids | Vehicles with compression ignition engines including hybrids | Vehicles with compression ignition engines including hybrids | Pure electric vehicles | Hydrogen Fuel cell vehicles |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Vehicle category | Mono fuel | Mono fuel | Mono fuel | Mono fuel | Bi-fuel (1) | Bi-fuel (1) | Bi-fuel (1) | Flex-fuel (1) | Flex-fuel (1) | Flex fuel | Mono fuel | Pure electric vehicles | Hydrogen Fuel cell vehicles |
+| Reference fuel | Petrol (E5) | LPG | NG/Biomethane | Hydrogen | Petrol (E5) | Petrol (E5) | Petrol (E5) | Petrol (E5) | NG/Biomethane | Diesel (B5) | Diesel (B5) | — | — |
+| Reference fuel | Petrol (E5) | LPG | NG/Biomethane | Hydrogen | LPG | NG/Biomethane | Hydrogen | Ethanol (E85) | H2NG | Biodiesel | Diesel (B5) | — | — |
+| Gaseous pollutants (Type 1 test) | Yes | Yes | Yes | Yes (4) | Yes (both fuels) | Yes (both fuels) | Yes (both fuels) (4) | Yes (both fuels) | Yes (both fuels) | Yes (B5 only) (2) | Yes | — | — |
+| Particulate mass and particulate number (Type 1 test) | Yes | — | — | — | Yes (petrol only) | Yes (petrol only) | Yes (petrol only) | Yes (both fuels) | — | Yes (B5 only) (2) | Yes | — | — |
+| Idle emissions (Type 2 test) | Yes | Yes | Yes | — | Yes (both fuels) | Yes (both fuels) | Yes (petrol only) | Yes (both fuels) | Yes (NG/biomethane only) | — | — | — | — |
+| Crankcase emissions (Type 3 test) | Yes | Yes | Yes | — | Yes (petrol only) | Yes (petrol only) | Yes (petrol only) | Yes (petrol only) | Yes (NG/biomethane only) | — | — | — | — |
+| Evaporative emissions (Type 4 test) | Yes | — | — | — | Yes (petrol only) | Yes (petrol only) | Yes (petrol only) | Yes (petrol only) | — | — | — | — | — |
+| Durability (Type 5 test) | Yes | Yes | Yes | Yes | Yes (petrol only) | Yes (petrol only) | Yes (petrol only) | Yes (petrol only) | Yes (NG/biomethane only) | Yes (B5 only) (2) | Yes | — | — |
+| Low temperature emissions (Type 6 test) | Yes | — | — | — | Yes (petrol only) | Yes (petrol only) | Yes (petrol only) | Yes (3) (both fuels) | — | — | — | — | — |
+| In-service conformity | Yes | Yes | Yes | Yes | Yes (both fuels) | Yes (both fuels) | Yes (both fuels) | Yes (both fuels) | Yes (both fuels) | Yes (B5 only) (2) | Yes | — | — |
+| On-board diagnostics | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | — | — |
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 715/2007 of the European Parliament and of the Council of 20 June 2007 on type approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information (1), and in particular article 5(3)(a)(f) and (i) thereof,
+Whereas:
+recital 1
+(1) The Communication from the Commission to the European Parliament, the Council and the European Economic and Social Committee - A European strategy on clean and energy efficient vehicles (2), recognizes the existence of a wide range of technologies (electricity, hydrogen, biogas, and liquid biofuels) that are likely to contribute significantly to the Europe 2020 priorities of developing an economy based on knowledge and innovation (smart growth) and promoting a more resource efficient, greener an more competitive economy (sustainable growth).
+recital 2
+(2) The internal combustion engine (ICE) is likely to remain dominant in road vehicles in the short and medium term perspective; therefore, a smooth transition from ICE to other kinds of power-trains based on electricity (electric battery, fuel cell) could be facilitated by adapting ICE to clean fuels, such as hydrogen (H2) or mixtures of hydrogen and natural gas (H2NG).
+Article 1
+Regulation (EC) No 692/2008 is hereby amended as follows:
+
+1. Article 2 is amended as follows: (a) Point 16 is replaced by the following: "16. ‧hybrid electric vehicle‧ (HEV) means a vehicle, including vehicles which draw energy from a consumable fuel only for the purpose of re-charging the electrical energy/power storage device, that, for the purpose of mechanical propulsion, draws energy from both of the following on-vehicle sources of stored energy/power: (a) a consumable fuel; (b) a battery, capacitor, flywheel/generator or other electrical energy/power storage device;" (b) The following points are added: "33. ‧Electric power train‧ means a system consisting of one or more electric energy storage devices, one or more electric power conditioning devices and one or more electric machines that convert stored electric energy to mechanical energy delivered at the wheels for propulsion of the vehicle; 34. ‧Pure electric vehicle‧ means a vehicle powered by an electric power train only; 35. ‧flex fuel H2NG vehicle‧ means a flex fuel vehicle that can run on different mixtures of hydrogen and NG/biomethane; 36. ‧Hydrogen fuel cell vehicle‧ means a vehicle powered by a fuel cell that converts chemical energy from hydrogen into electric energy, for propulsion of the vehicle." 2. The annexes are amended in accordance with the Annex to this Regulation.
+recital 4
+(4) Commission Regulation (EC) No 692/2008 of 18 July 2008 implementing and amending Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information (3) does not currently include H2 and H2NG among the type of fuels considered.
+
+Therefore, it is appropriate to extend the type-approval procedure established in that Regulation to cover those fuels.
+recital 5
+(5) Regulation (EC) No 79/2009 of the European Parliament and of the Council of 14 January 2009 on type-approval of hydrogen-powered motor vehicles, and amending Directive 2007/46/EC (4) established safety requirements for the type-approval of motor vehicles with regard to hydrogen propulsion.
+
+Environmental protection must also be achieved as nitrogen oxide emissions from hydrogen used as a fuel in ICEs may have an impact on the environment.
+recital 6
+(6) H2NG mixtures release into the atmosphere a certain amount of pollutants, mainly hydrocarbons, carbon monoxides, nitrogen oxides and particulate matters; these emissions have to be addressed.
+recital 7
+(7) The different formulae and parameters used for the determination of the results of the emission tests should be adapted for the specific cases of H2 and H2NG used in ICEs, as those formulae and parameters are strongly dependent on the type and characteristics of the fuel used.
+recital 8
+(8) The documents provided by the manufacturer to the national approval authorities should be updated in order to incorporate the relevant information concerning H2, H2NG and electric vehicles.
+recital 9
+(9) Regulation (EC) No 692/2008 should therefore be amended accordingly.
+recital 10
+(10) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee - Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+| Vehicle category | Vehicles with positive ignition engines including hybrids | Vehicles with positive ignition engines including hybrids | Vehicles with positive ignition engines including hybrids | Vehicles with positive ignition engines including hybrids | Vehicles with positive ignition engines including hybrids | Vehicles with positive ignition engines including hybrids | Vehicles with positive ignition engines including hybrids | Vehicles with positive ignition engines including hybrids | Vehicles with positive ignition engines including hybrids | Vehicles with compression ignition engines including hybrids | Vehicles with compression ignition engines including hybrids | Pure electric vehicles | Hydrogen Fuel cell vehicles |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| On-board diagnostics | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | — | — |
+| CO2 emissions, fuel consumption, electric energy consumption and electric range | Yes | Yes | Yes | Yes | Yes (both fuels) | Yes (both fuels) | Yes (both fuels) | Yes (both fuels) | Yes (both fuels) | Yes (B5 only) (2) | Yes | Yes | Yes |
+| Smoke opacity | — | — | — | — | — | — | — | — | — | Yes (B5 only) (2) | Yes | — | — |
+
+(j) Point 4.9 is replaced by the following: '4.9. Checking the conformity of a vehicle fuelled by LPG, natural gas or H2NG'; (k) Point 4.9.1 is replaced by the following: 4.9.1. Tests for conformity of production may be performed with a commercial fuel of which the C3/C4 ratio lies between those of the reference fuels in the case of LPG, or of which the Wobbe index lies between those of the extreme reference fuels in the case of NG or H2NG. In that case a fuel analysis shall be presented to the approval authority.'; (l) Appendix 3 is amended as follows: (i) Point 3.2.2 is replaced by the following: '3.2.2. Fuel'; (ii) Point 3.2.2.1 is inserted: '3.2.2.1. Light-duty vehicles: Diesel/Petrol/LPG/NG or Biomethane/Ethanol (E85) /Biodiesel /Hydrogen/H2NG (*1)
+ (*2)
+(*1) Delete where not applicable (there are cases where nothing needs to be deleted when more than one entry is applicable)" (*2) Vehicles can be fuelled with both petrol and a gaseous fuel but, where the petrol system is fitted for emergency purposes or starting only and of which the petrol tank cannot contain more than 15 litres of petrol, will be regarded for the test as vehicles which can only run on a gaseous fuel.';" (iii) The following points 3.2.18 to 3.2.19.4.3 are inserted: '3.2.18. Hydrogen fuelling system: yes/no (*3)
+3.2.18.1. EC type-approval number according to Regulation (EC) No 79/2009: …
+3.2.18.2. Electronic engine management control unit for hydrogen fuelling
+3.2.18.2.1. Make(s): …
+3.2.18.2.2. Type(s): …
+3.2.18.2.3. Emission-related adjustment possibilities: …
+3.2.18.3. Further documentation
+3.2.18.3.1. Description of the safeguarding of the catalyst at switch-over from petrol to hydrogen or back: …
+3.2.18.3.2. System lay-out (electrical connections, vacuum connections compensation hoses, etc.): …
+3.2.18.3.3. Drawing of the symbol: …
+3.2.19. H2NG fuelling system: yes/no (*3)
+3.2.19.1. Percentage of hydrogen in the fuel (the maximum specified by the manufacturer):
+3.2.19.2. EC type-approval number according to UN/ECE Regulation No 110 (*4) …
+3.2.19.3. Electronic engine management control unit for H2NG fuelling
+3.2.19.3.1. Make(s): …
+3.2.19.3.2. Type(s): …
+3.2.19.3.3. Emission-related adjustment possibilities: …
+3.2.19.4. Further documentation
+3.2.19.4.1. Description of the safeguarding of the catalyst at switch-over from petrol to H2NG or back: …
+3.2.19.4.2. System lay-out (electrical connections, vacuum connections compensation hoses, etc.): …
+3.2.19.4.3. Drawing of the symbol: …; (*3) Delete where not applicable (there are cases where nothing needs to be deleted when more than one entry is applicable)" (*3) Delete where not applicable (there are cases where nothing needs to be deleted when more than one entry is applicable)" (*4)
+OJ L 72, 14.3.2008, p. 113.';" (iv) The following points 3.3. to 3.3.2.4. are inserted: '3.3. Electric motor
+3.3.1. Type (winding, excitation): …
+3.3.1.1. Maximum hourly output: … Kw
+3.3.1.2. Operating voltage:… V
+3.3.2. Battery
+3.3.2.1. Number of cells: …
+3.3.2.2. Mass: … kg
+3.3.2.3. Capacity: … Ah (Amp-hours)
+3.3.2.4. Position: …' (v) Point 3.4.8 of Appendix 3 is replaced by the following: 3.4.8. Vehicle electric range … … km (in accordance to Annex 9 to UN/ECE Regulation No 101 (*5)
+(*5)
+OJ L 158, 19.6.2007, p. 34.' "
+(vi) Points 3.5.2.1. to 3.5.2.3. are replaced by the following: 3.5.2.1. Fuel consumption (urban conditions) … l/100 km or m3/100 km or kg/100 km (*6)
+3.5.2.2. Fuel consumption (extra-urban conditions) … l/100 km or m3/100 km or kg/100 km (*6)
+3.5.2.3. Fuel consumption (combined) … l/100 km or m3/100 km or kg/100 km (*6); (*6) Delete where not applicable (there are cases where nothing needs to be deleted when more than one entry is applicable).' "
+(*6) Delete where not applicable (there are cases where nothing needs to be deleted when more than one entry is applicable).' "
+(*6) Delete where not applicable (there are cases where nothing needs to be deleted when more than one entry is applicable).' " 
+(vii) The following points 3.5.3. to 3.5.4.3. are inserted: 3.5.3. Electric energy consumption for pure electric vehicles … Wh/km
+3.5.4. Electric energy consumption for externally chargeable hybrid electric vehicles
+3.5.4.1. Electric energy consumption (Condition A, combined) … Wh/km
+3.5.4.2. Electric energy consumption (Condition B, combined) … Wh/km
+3.5.4.3. Electric energy consumption (weighted combined) … Wh/km'; 2. Annex III is amended as follows: (a) Point 3.3. is replaced by the following: 3.3. The exhaust gases mentioned in paragraph 4.3.1.1 shall be understood as including methane, water and hydrogen: "… (HFID). It shall be calibrated with propane gas expressed as equivalent to carbon atoms (C1). Methane (CH4) analysis: The analyser shall be either a gas chromatograph combined with a flame ionisation (FID) type or a flame ionisation (FID) with a non-methane cutter type, calibrated with methane gas expressed as equivalent to carbon atoms (C1). Water (H2O) analysis: The analyser shall be of the non-dispersive infrared analyzer (NDIR) absorption type. The NDIR shall be calibrated either with water vapour or with propylene (C3H6). If the NDIR is calibrated with water vapour, it shall be ensured that no water condensation can occur in tubes and connections during the calibration process. If the NDIR is calibrated with propylene, the manufacturer of the analyzer shall provide the information for converting the concentration of propylene to its corresponding concentration of water vapour. The values for conversion shall be periodically checked by the manufacturer of the analyzer, and at least once per year. Hydrogen (H2) analysis: The analyser shall be of the sector field mass spectrometry type, calibrated with hydrogen. Nitrogen oxide (NOx) …".'
+(b) The following point 3.3.a. is inserted: 3.3.a. The pure gases mentioned in paragraph 4.5.1. shall be understood as including propylene: "… propane: (minimum purity 99,5 per cent). propylene: (minimum purity 99,5 per cent)".' (c) In point 3.4, the following text is added: {{IMAGE:Image_4, Caption:Mathematical formula for calculating the value of d in grams per liter (g/l).}} A being the quantity of NG/biomethane within the H2NG mixture, expressed in per cent volume'; (d) Point 3.8 is replaced by the following: 3.8. The second subparagraph of paragraph 1.3 of Appendix 8 to Annex 4 shall be understood as: '… The dilution factor is calculated as follows: {{IMAGE:Image_5, Caption:Formula for calculating the Dilution Factor (DF) using a fuel-dependent factor X and exhaust concentrations.}} For a fuel of composition CxHyOz, the general formula is: {{IMAGE:Image_6, Caption:Mathematical formula for calculating X involving variables x, y, z and the constant 3.76.}}
+{{IMAGE:Image_6, Caption:Mathematical formula for calculating X involving variables x, y, z and the constant 3.76.}} In particular for H2NG, the formula is: {{IMAGE:Image_7, Caption:Mathematical formula calculating X based on variable A.}} For hydrogen, the dilution factor is calculated as follows: {{IMAGE:Image_8, Caption:Formula for calculating the Dilution Factor (DF).}} For the reference fuels contained in Annex IX, the values of "X" are as follows:
+
+| Fuel | X |
+|---|---|
+| Petrol (E5) | 134 |
+| Diesel (B5) | 135 |
+| LPG | 119 |
+| NG/Biomethane | 95 |
+| Ethanol (E85) | 125 |
+| Ethanol (E75) | 127 |
+| Hydrogen | 3503 | In these equations: CCO2
+=
+concentration of CO2 in the diluted exhaust gas contained in the sampling bag, expressed in per cent volume,
+CHC
+=
+concentration of HC in the diluted exhaust gas contained in the sampling bag, expressed in ppm carbon equivalent,
+CCO
+=
+concentration of CO in the diluted exhaust gas contained in the sampling bag, expressed in ppm,
+CH2O
+=
+concentration of H2O in the diluted exhaust gas contained in the sampling bag, expressed in per cent volume,
+CH2O-DA
+=
+concentration of H2O in the air used for dilution, expressed in per cent volume,
+CH2
+=
+concentration of hydrogen in the diluted exhaust gas contained in the sampling bag, expressed in ppm,
+A
+=
+quantity of NG/biomethane within the H2NG mixture, expressed in per cent volume'.' 3. In Annex IV, Appendix 1, point 2.2, first sub-paragraph, the following text is added: {{IMAGE:Image_9, Caption:Mathematical formula representing a fraction with the numerator 1,256 · A + 136 and the denominator 0,654 · A.}} A being the quantity of NG/biomethane within the H2NG mixture, expressed in per cent volume.'; 4. In Annex IX, section A, subsection 1, the following is added:
+
+| Characteristics | Units | Limits | Limits | Test method |
+|---|---|---|---|---|
+| Characteristics | Units | minimum | maximum | Test method |
+| Hydrogen purity | % mole | 98 | 100 | ISO 14687-1 |
+| Total hydrocarbon | μmol/mol | 0 | 100 | ISO 14687-1 |
+| Water (5) | μmol/mol | 0 | (6) | ISO 14687-1 |
+| Oxygen | μmol/mol | 0 | (6) | ISO 14687-1 |
+| Argon | μmol/mol | 0 | (6) | ISO 14687-1 |
+| Nitrogen | μmol/mol | 0 | (6) | ISO 14687-1 |
+| CO | μmol/mol | 0 | 1 | ISO 14687-1 |
+| Sulphur | μmol/mol | 0 | 2 | ISO 14687-1 |
+| Permanent particulates (7) |  |  |  | ISO 14687-1 |
+
+| Characteristics | Units | Limits | Limits | Test method |
+|---|---|---|---|---|
+| Characteristics | Units | minimum | maximum | Test method |
+| Hydrogen fuel (8) | % mole | 9999 | 100 | ISO 14687-2 |
+| Total gases (9) | μmol/mol | 0 | 100 |  |
+| Total hydrocarbon | μmol/mol | 0 | 2 | ISO 14687-2 |
+| Water | μmol/mol | 0 | 5 | ISO 14687-2 |
+| Oxygen | μmol/mol | 0 | 5 | ISO 14687-2 |
+| Helium (He), Nitrogen (N2), Argon (Ar) | μmol/mol | 0 | 100 | ISO 14687-2 |
+| CO2 | μmol/mol | 0 | 2 | ISO 14687-2 |
+| CO | μmol/mol | 0 | 02 | ISO 14687-2 |
+| Total sulphur compounds | μmol/mol | 0 | 0004 | ISO 14687-2 |
+| Formaldehyde (HCHO) | μmol/mol | 0 | 001 | ISO 14687-2 |
+| Formic acid (HCOOH) | μmol/mol | 0 | 02 | ISO 14687-2 |
+| Ammonia (NH3) | μmol/mol | 0 | 01 | ISO 14687-2 |
+| Total halogenated compounds | μmol/mol | 0 | 005 | ISO 14687-2 |
+| Particulates size | μm | 0 | 10 | ISO 14687-2 |
+| Particulates concentration | μg/l | 0 | 1 | ISO 14687-2 | Type: H2NG
+The hydrogen and the NG/biomethane fuels composing a H2NG mixture, must comply separately with their corresponding characteristics, expressed in this Annex.'; 5. Annex XII is amended as follows: (a) The title is replaced by the following: 'DETERMINATION OF CO2 EMISSIONS, FUEL CONSUMPTION, ELECTRIC ENERGY CONSUMPTION AND ELECTRIC RANGE'; (b) The introduction is replaced by the following: 'This Annex sets out the requirements for the measurement of CO2 emissions, fuel consumption, electric energy consumption and electric range'; (c) Point 3.1. is replaced by the following: 3.1. The technical requirements and specifications for the measurement of CO2 emissions, fuel consumption, electric energy consumption and electric range shall be those set out in Annexes 6 to 10 to UN/ECE Regulation 101 with the exceptions specified below'; (d) The introductory sentence of section 1.4.3 is replaced by the following: 1.4.3. The fuel consumption, expressed in litres per 100 km (in the case of petrol, LPG, ethanol (E85) and diesel), in m3 per 100 km (in the case of NG/biomethane and H2NG) or in kg per 100 km (in the case of hydrogen) is calculated by means of the following formulae:'; (e) The following points (f) and (g) are added: '(f) for vehicles with a positive ignition engine fuelled by H2NG: {{IMAGE:Image_10, Caption:Mathematical formula for calculating fuel consumption (FC) using variable A and emissions data (HC, CO, CO2).}} (g) for vehicles fuelled by gaseous hydrogen: {{IMAGE:Image_11, Caption:Mathematical formula for calculating fuel consumption (FC) based on volume, distance, and gas state variables.}} Under previous agreement with the type-approval authority, and for vehicles fuelled either by gaseous or liquid hydrogen, the manufacturer may choose as alternative to the method above, either the formula
+FC = 0,1 · (0,1119 · H
+2
+O + H 2)
+or a method according to standard protocols such as SAE J2572.'; (f) The second paragraph is replaced by the following
+ 'In these formulae: FC= the fuel consumption in litre per 100 km (in the case of petrol, ethanol, LPG, diesel or biodiesel) in m3 per 100 km (in the case of natural gas and H2NG) or in kg per 100 km in the case of hydrogen. HC= the measured emission of hydrocarbons in g/km
+CO= the measured emission of carbon monoxide in g/km
+CO2
+= the measured emission of carbon dioxide in g/km
+H2O= the measured emission of H2O in g/km
+H2
+= the measured emission of H2 in g/km
+A= quantity of NG/biomethane within the H2NG mixture, expressed in per cent volume
+D= the density of the test fuel. In the case of gaseous fuels D is the density at 15 °C.
+d= the theoretical distance covered by a vehicle tested under the type 1 test in km. p1
+= pressure in gaseous fuel tank before the operating cycle in Pa; p2
+= pressure in gaseous fuel tank after the operating cycle in Pa; T1
+= temperature in gaseous fuel tank before the operating cycle in K.
+T2
+= temperature in gaseous fuel tank after the operating cycle in K.
+Z1
+= compressibility factor of the gaseous fuel at p1
+ and T1
+Z2
+= compressibility factor of the gaseous fuel at p2
+ and T2
+V= inner volume of the gaseous fuel tank in m3
+The compressibility factor shall be obtained from the following table:
+
+| T(k) p(bar)\ | 33 | 53 | 73 | 93 | 113 | 133 | 153 | 173 | 193 | 213 | 233 | 248 | 263 | 278 | 293 | 308 | 323 | 338 | 353 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 5 | 8589 | 9651 | 9888 | 9970 | 10004 | 10019 | 10026 | 10029 | 10030 | 10028 | 10035 | 10034 | 10033 | 10032 | 10031 | 10030 | 10029 | 10028 | 10027 |
+| 100 | 10508 | 9221 | 9911 | 10422 | 10659 | 10757 | 10788 | 10785 | 10765 | 10705 | 10712 | 10687 | 10663 | 10640 | 10617 | 10595 | 10574 | 10554 | 10535 |
+| 200 | 18854 | 14158 | 12779 | 12334 | 12131 | 11990 | 11868 | 11757 | 11653 | 11468 | 11475 | 11413 | 11355 | 11300 | 11249 | 11201 | 11156 | 11113 | 11073 |
+| 300 | 26477 | 18906 | 16038 | 14696 | 13951 | 13471 | 13123 | 12851 | 12628 | 12276 | 12282 | 12173 | 12073 | 11982 | 11897 | 11819 | 11747 | 11680 | 11617 |
+| 400 | 33652 | 23384 | 19225 | 17107 | 15860 | 15039 | 14453 | 14006 | 13651 | 13111 | 13118 | 12956 | 12811 | 12679 | 12558 | 12448 | 12347 | 12253 | 12166 |
+| 500 | 40509 | 27646 | 22292 | 19472 | 17764 | 16623 | 15804 | 15183 | 14693 | 13962 | 13968 | 13752 | 13559 | 13385 | 13227 | 13083 | 12952 | 12830 | 12718 |
+| 600 | 47119 | 31739 | 25247 | 21771 | 19633 | 18190 | 17150 | 16361 | 15739 | 14817 | 14823 | 14552 | 14311 | 14094 | 13899 | 13721 | 13559 | 13410 | 13272 |
+| T(k) p(bar)\ | 33 | 53 | 73 | 93 | 113 | 133 | 153 | 173 | 193 | 213 | 233 | 248 | 263 | 278 | 293 | 308 | 323 | 338 | 353 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 600 | 47119 | 31739 | 25247 | 21771 | 19633 | 18190 | 17150 | 16361 | 15739 | 14817 | 14823 | 14552 | 14311 | 14094 | 13899 | 13721 | 13559 | 13410 | 13272 |
+| 700 | 53519 | 35697 | 28104 | 24003 | 21458 | 19730 | 18479 | 17528 | 16779 | 15669 | 15675 | 15350 | 15062 | 14803 | 14570 | 14358 | 14165 | 13988 | 13826 |
+| 800 | 59730 | 39541 | 30877 | 26172 | 23239 | 21238 | 19785 | 18679 | 17807 | 16515 | 16521 | 16143 | 15808 | 15508 | 15237 | 14992 | 14769 | 14565 | 14377 |
+| 900 | 65759 | 43287 | 33577 | 28286 | 24978 | 22714 | 21067 | 19811 | 18820 | 17352 | 17358 | 16929 | 16548 | 16207 | 15900 | 15623 | 15370 | 15138 | 14926 |
+
+In the case that the needed input values for p and T are not indicated in the table, the compressibility factor shall be obtained by linear interpolation between the compressibility factors indicated in the table, choosing the ones that are the closest to the sought value.'. (*1) Delete where not applicable (there are cases where nothing needs to be deleted when more than one entry is applicable)
+(*2) Vehicles can be fuelled with both petrol and a gaseous fuel but, where the petrol system is fitted for emergency purposes or starting only and of which the petrol tank cannot contain more than 15 litres of petrol, will be regarded for the test as vehicles which can only run on a gaseous fuel.'; (*3) Delete where not applicable (there are cases where nothing needs to be deleted when more than one entry is applicable)
+(*4)
+OJ L 72, 14.3.2008, p. 113.'; (*5)
+OJ L 158, 19.6.2007, p. 34.' (*6) Delete where not applicable (there are cases where nothing needs to be deleted when more than one entry is applicable).' ' (1) When a bi-fuel vehicle is combined with a flex fuel vehicle, both test requirements are applicable. (2) This provision is temporary, further requirements for biodiesel shall be proposed later on. (3) Test on petrol only before the dates set out in Article 10(6) of Regulation (EC) No 715/2007. The test will be performed on both fuels after these dates. The E75 test reference fuel specified in Annex IX Section B shall be used. (4) Only NOx emissions shall be determined when the vehicle is running on hydrogen.;' (5) Not to be condensed. (6) Combined water, oxygen, nitrogen and argon: 1,900 μmol/mol. (7) The hydrogen shall not contain dust, sand, dirt, gums, oils, or other substances in an amount sufficient to damage the fuelling station equipment of the vehicle (engine) being fuelled. (8) The hydrogen fuel index is determined by subtracting the total content of non-hydrogen gaseous constituents listed in the table (Total gases), expressed in mole percent, from 100 mole percent. It is less than the sum of the maximum allowable limits of all non-hydrogen constituents shown in the Table. (9) The value of total gases is summation of the values of the non-hydrogen constituents listed in the table, except the particulates.

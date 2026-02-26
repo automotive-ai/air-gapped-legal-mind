@@ -1,0 +1,360 @@
+|  |  | Version of UN Regulation | Version of UN Regulation |
+|---|---|---|---|
+| Number | Topic | UN Regulation (1) | Series of amendments (2) |
+| 1 | Retro-reflecting devices for power-driven vehicles and their trailers | 3 | 02 |
+| 2 | Devices for the illumination of rear registration plates of power-driven vehicles and their trailers | 4 | 00 |
+| 3 | Direction indicators for power-driven vehicles and their trailers | 6 | 01 |
+| 4 | Front and rear position lamps, stop-lamps and end-outline marker lamps for motor vehicles and their trailers | 7 | 02 |
+| 5 | Vehicles with regard to electromagnetic compatibility | 10 | 05 |
+| 6 | Vehicles with regard to door latches and door retention components | 11 | 04 |
+| 7 | Vehicles with regard to the protection of the driver against the steering mechanism in the event of impact | 12 | 04 |
+| 8 | Brakes of M1 and N1 vehicles | 13-H | 01 |
+| 9 | Safety-belts, restraint systems, child restraint systems and ISOFIX child restraint systems | 16 | 06 |
+| 10 | Vehicles with regard to the seats, their anchorages and any head restraints | 17 | 08 |
+| 11 | Power-driven vehicle front fog lamps | 19* | 04 |
+| 12 | Vehicles with regard to their interior fittings | 21 | 01 |
+| 13 | Reversing and manoeuvring lamps for power-driven vehicles and their trailers | 23 | 00 |
+| 14 | Vehicles with regard to their external projections | 26 | 03 |
+| 15 | Audible warning devices and motor vehicles with regard to their audible signals | 28 | 00 |
+| 16 | Pneumatic tyres for motor vehicles and their trailers (Tyres should be type approved to UN Regulation No 30 or UN Regulation No 54) | 30 | 02 |
+| 17 | Rear fog lamps for power-driven vehicles and their trailers | 38 | 00 |
+| 18 | The speedometer and odometer equipment including installation | 39 | 01 |
+| 19 | Safety glazing materials and their installation on vehicles | 43 | 01 |
+| 20 | Restraining devices for child occupants of power-driven vehicles (only inasmuch as it relates to built-in vehicle booster cushions but not covering standalone child seats) | 44* | 04 |
+| 21 | Headlamp cleaners, and power-driven vehicles with regard to headlamp cleaners | 45* | 01 |
+| 22 | Devices for indirect vision including installation | 46 | 04 |
+| 23 | Installation of lighting and light-signalling devices | 48 | 06 |
+| 24 | Motor vehicles having at least four wheels with regard to their sound emissions | 51 | 03 |
+| 25 | Pneumatic tyres for commercial vehicles and their trailers (Tyres should be type approved to UN Regulation No 30 or UN Regulation No 54) | 54 | 00 |
+| 26 | Rear Underrun Protective Devices (RUPDs) and the installation of a RUPD of an approved type, Rear Underrun Protection (RUP) | 58 | 02 |
+| 27 | A temporary-use spare unit, run-flat tyres | 64* | 03 |
+| 28 | Parking lamps for power-driven vehicles | 77* | 00 |
+| 29 | Vehicles with regard to steering equipment | 79 | 02 |
+| 30 | Internal combustion engines or electric drive trains intended for the propulsion of motor vehicles of categories M and N with regard to the measurement of the net power and the maximum 30 minutes power of electric drive trains (Engine power) | 85 | 00 |
+| 31 | Daytime running lamps for power-driven vehicles | 87 | 00 |
+| 32 | Side marker lamps for motor vehicles and their trailers | 91* | 00 |
+| 33 | Protection of occupants in the event of a frontal collision | 94 | 02 |
+| 34 | Protection of occupants in the event of a lateral collision | 95 | 03 |
+| 35 | Motor vehicle headlamps equipped with gas-discharge light sources | 98* | 01 |
+| 36 | Vehicles with regard to specific requirements for the electric power train | 100* | 02 |
+| 37 | Motor vehicles headlamps emitting an asymmetrical passing beam or a driving beam or both and equipped with filament lamps and/or LED modules | 112* | 01 |
+| 38 | Tyres with regard to rolling sound emissions and/or to adhesion on wet surfaces and/or to rolling resistance | 117 | 02 |
+| 39 | Cornering lamps for power-driven vehicles | 119* | 01 |
+| 40 | Vehicles with regard to the location and identification of hand controls, tell-tales and indicators | 121 | 01 |
+| 41 | Adaptive Front-lighting Systems (AFS) for motor vehicles | 123* | 01 |
+| 42 | Motor vehicles with regard to the forward field of vision of the motor vehicle driver | 125 | 01 |
+| 43 | Motor vehicles with regard to their pedestrian safety performance | 127 | 02 |
+| 44 | Brake assist systems | 139 | 00 |
+| 45 | Electronic stability control systems | 140 | 00 |
+| 46 | Tyre pressure monitoring systems | 141 | 00 |
+| 47 | Tyre installation | 142 | 00 | Section II: Notification for L-IWVTA
+For notifications of Contracting Parties to the secretariat of the Administrative Committee in accordance with paragraph 13.5 of this Regulation, the form shown in the following table shall be used:
+
+| Notification of | [Name of Contracting Party] | Date to be effective | [yyyy-mm-dd] | [yyyy-mm-dd] |
+|---|---|---|---|---|
+| Number | Topic | UN Regulation | Earlier versions accepted (3) | Earlier versions accepted (3) |
+| Number | Topic | UN Regulation | Insert number of series of amendments | Delete text in this column if not applicable |
+| 1 | Retro-reflecting devices for power-driven vehicles and their trailers | 3 |  | or later |
+| 2 | Devices for the illumination of rear registration plates of power-driven vehicles and their trailers | 4 |  | or later |
+| 3 | Direction indicators for power-driven vehicles and their trailers | 6 |  | or later |
+| 4 | Front and rear position lamps, stop-lamps and end-outline marker lamps for motor vehicles and their trailers | 7 |  | or later |
+| 5 | Vehicles with regard to electromagnetic compatibility | 10 |  | or later |
+| 6 | Vehicles with regard to door latches and door retention components | 11 |  | or later |
+| 7 | Vehicles with regard to the protection of the driver against the steering mechanism in the event of impact | 12 |  | or later |
+| 8 | Brakes of M1 and N1 vehicles | 13-H |  | or later |
+| 9 | Safety-belts, restraint systems, child restraint systems and ISOFIX child restraint systems | 16 |  | or later |
+| 10 | Vehicles with regard to the seats, their anchorages and any head restraints | 17 |  | or later |
+| 11 | Power-driven vehicle front fog lamps | 19 |  | or later |
+| 12 | Vehicles with regard to their interior fittings | 21 |  | or later |
+| 13 | Reversing and manoeuvring lamps for power-driven vehicles and their trailers | 23 |  | or later |
+| 14 | Vehicles with regard to their external projections | 26 |  | or later |
+| 15 | Audible warning devices and motor vehicles with regard to their audible signals | 28 |  | or later |
+| 16 | Pneumatic tyres for motor vehicles and their trailers (Tyres should be type approved to UN Regulation No 30 or UN Regulation No 54) | 30 |  | or later |
+| 17 | Rear fog lamps for power-driven vehicles and their trailers | 38 |  | or later |
+| 18 | The speedometer and odometer equipment including installation | 39 |  | or later |
+| 19 | Safety glazing materials and their installation on vehicles | 43 |  | or later |
+| 20 | Restraining devices for child occupants of power-driven vehicles (only inasmuch as it relates to built-in vehicle booster cushions but not covering standalone child seats) | 44 |  | or later |
+| 21 | Headlamp cleaners, and power-driven vehicles with regard to headlamp cleaners | 45 |  | or later |
+| 22 | Devices for indirect vision including installation | 46 |  | or later |
+| 23 | Installation of lighting and light-signalling devices | 48 |  | or later |
+| 24 | Motor vehicles having at least four wheels with regard to their sound emissions | 51 |  | or later |
+| 25 | Pneumatic tyres for commercial vehicles and their trailers (Tyres should be type approved to UN Regulation No 30 or UN Regulation No 54) | 54 |  | or later |
+| 26 | Rear Underrun Protective Devices (RUPDs) and the installation of a RUPD of an approved type | 58 |  | or later |
+| 27 | A temporary-use spare unit, run-flat tyres | 64 |  | or later |
+1. SCOPE
+1.1. This Regulation applies to vehicles of category M1
+(1).
+
+It specifies requirements for the type approval of a whole vehicle.
+2. DEFINITIONS
+For the purposes of this Regulation and of the UN Regulations listed in Annex 4, unless specified otherwise therein:
+
+2.1. 'Manufacturer' means the person or body responsible to the approval authority for all aspects of the type approval process and for ensuring conformity of production. It is not essential that the person or body is directly involved in all stages of the construction of the vehicle which is the subject of the approval process. 2.1.1. 'Manufacturer's representative' means a natural or legal person established in the territory of one of the Contracting Parties applying this Regulation who is duly appointed by the manufacturer to represent it before the approval authority and to act on its behalf in matters covered by this Regulation. Where reference is made in this Regulation to the manufacturer, it means either the 'Manufacturer' or the 'Manufacturer's representative'. 2.2. 'IWVTA class' means a group of vehicles which does not differ in such essential respects as those specified in paragraph 1.1 of Annex 7. 2.2.1. 'IWVTA type' means a group of vehicles which can be approved within one IWVTA as defined in paragraph 1.2 of Annex 7. Vehicles within an IWVTA type belong to the same IWVTA class and have the same level of conformity to the requirements laid down in Annex 4. An IWVTA type may contain variants and versions as defined in paragraphs 1.3 and 1.4 of Annex 7. 
+2.3. 'International Whole Vehicle Type Approval (IWVTA)' means an approval of an IWVTA type to this Regulation, whereby a Contracting Party applying this Regulation certifies that an IWVTA type satisfies the relevant provisions of this Regulation. 2.3.1. 'Universal IWVTA (U-IWVTA)' means an IWVTA where all of the applicable UN Regulations listed in Annex 4, Part A, Section I are complied with according to the version of these UN Regulations as listed in that section or any later version. 2.3.2. 'IWVTA of Limited recognition (L-IWVTA)' means an IWVTA where: (a) Not all of the UN Regulations listed in Annex 4, Part A, Section I are complied with; and/or
+(b) Some or all of the UN Regulations listed in Annex 4, Part A, Section I are complied with according to an earlier version than the one listed in that section. 2.4. 'Information document' means the document set out in Annex 5 that prescribes the information to be supplied by an applicant. This may be in the form of an electronic file. 2.5. 'Information folder' means a folder that includes the information document, data, drawings, photographs, and other relevant material, supplied by the applicant. This may be in the form of an electronic file. 2.6. 'Information package' means the information folder accompanied by the test reports and all other documents added by the Technical Service or by the approval authority to the information document in the course of carrying out their functions, including an index to the information package. This may be in the form of an electronic file. 2.7. 'Index to the information package' means the document listing the contents of the information package, suitably numbered or otherwise marked so as to identify clearly all the pages. The format of the document shall be such as to present a record of the successive steps in administering the type approval, in particular when any revisions or updates occurred. 2.8. 'Technical competence' means, having regard to Article 2 of the 1958 Agreement, that a Contracting Party has the capability to verify the compliance of an IWVTA type with this Regulation, based on the individual type approvals submitted by the manufacturer in its application and the ability to confirm that the vehicle systems and components are installed pursuant to the individual UN Regulations listed in Annex 4. This means that a Contracting Party applying this Regulation need not necessarily have the technical competence required to issue type approvals with respect to all the UN Regulations listed in Annex 4. 
+2.9. 'Declaration of Conformance (DoC)' means the information for a single vehicle belonging to an IWVTA type, approved in accordance with this Regulation, certifying to which of the UN Regulations listed in Annex 4 and to which versions the IWVTA type is approved at the time of its production. 2.10. 'Component' means a vehicle equipment or part which is subject to the requirements of any of the UN Regulations listed in Annex 4 and intended to be part of a vehicle, which may be type-approved independently of a vehicle where the UN Regulation makes explicit provisions for so doing. 2.11. 'Vehicle system' means an assembly of devices combined to perform one or more specific functions in a vehicle and which is subject to the requirements of any of the UN Regulations listed in Annex 4. 
+2.12. 'Type approval certificate' means the document whereby the approval authority officially certifies that a type of vehicle, equipment or parts is approved or such approval is modified.
+3. APPLICATION FOR APPROVAL
+3.1. The application for approval of an IWVTA type with regard to IWVTA shall be submitted by the manufacturer to the approval authority of the Contracting Party according to the provisions of Schedule 3 of the 1958 Agreement.
+
+3.2. It shall be accompanied by the following documentation: 3.2.1. The information folder containing the information required under Annex 5;
+3.2.2. Type approval certificates as required by paragraph 5.1.2 (U-IWVTA) or paragraph 5.1.3 (L-IWVTA) below. 3.3. The application for approval and the accompanying documentation shall be drawn up in English language. The manufacturer shall also provide translation of the documentation into the language requested by the Contracting Party processing the application. Type approval certificates accompanying the application do not need to be translated. 3.4. (A) vehicle(s) representative of the IWVTA type to be approved shall be submitted to the approval authority or its designated technical service responsible for conducting the inspections of Annex 3. 3.5. The manufacturer shall assign a unique type designation to each IWVTA type within an IWVTA class. 3.6. All variants and versions within one IWVTA type shall be covered by the same application for IWVTA. 3.7. Applications for all IWVTA types within one IWVTA class shall be filed to the same approval authority.
+5.2. Declaration of Conformance (DoC) (3)
+5.2.1. If a Contracting Party requires so the vehicle manufacturer shall provide and upload on the UN secure internet database for all single vehicles intended to be placed on the market in that Contracting Party and belonging to a type approved according to this Regulation the necessary information to generate within that database a DoC for the vehicles concerned.
+
+The process and necessary information are set out in Annex 6. 5.2.2. Notwithstanding paragraph 5.2.1 above the vehicle manufacturer can also provide and upload the information required for all single vehicles covered by an IWVTA regardless of their destination. 5.2.3. The information referred to in paragraph 5.2.1 above shall be uploaded in due time for the placing on the market of the vehicles in the Contracting Parties. 5.2.4. The information referred to in paragraph 5.2.1 above may also be uploaded by the approval authority on behalf of the manufacturer. In this case, it is the responsibility of the manufacturer to provide the approval authority with the necessary information and remain accountable for its accuracy.
+Introduction
+Regulation No 0 of the Economic Commission for Europe of the United Nations (UNECE) — Uniform provisions concerning the International Whole Vehicle Type Approval (IWVTA) [2018/780]
+Date of entry into force: 19 July 2018
+CONTENTS
+REGULATION
+ 1. Scope
+ 2. Definitions
+ 3. Application for approval
+ 4. Approval
+ 5. Specifications
+ 6. Test procedure
+ 7. Modification of IWVTA type and modification of approval
+ 8. Conformity of production
+ 9. Penalties for non-conformity of production
+ 10.
+
+Production definitively discontinued
+ 11. Names and addresses of Technical Services responsible for conducting approval tests and of Type Approval Authorities
+ 12. Introductory and transitional provisions
+ 13. Special provisions for Contracting Parties applying this Regulation
+ANNEXES
+ 1. Communication form
+ 2. Arrangement of the type approval marking
+ 3. Procedures to be followed for IWVTA
+ 4. List of requirements for the purpose of IWVTA
+ 5. Information document for the purpose of IWVTA
+ 6. Specifications of the IWVTA Declaration of Conformance (DoC)
+ 7. Definition of the IWVTA class and IWVTA type
+ 8. Type approval number for IWVTA
+ 9. Notification if new requirements enter into force for an existing U-IWVTA
+INFORMATION DOCUMENT FOR THE PURPOSE OF IWVTA
+ANNEX 5
+INFORMATION DOCUMENT FOR THE PURPOSE OF IWVTA
+General prescriptions
+The following information shall be supplied in triplicate and include a list of contents. Any drawings shall be supplied in appropriate scale and in sufficient detail on size A4, or on a folder of A4 format. Photographs, if any, shall show sufficient detail. Submission in the form of an electronic file which is printable in A4 format is deemed to meet the requirements of the previous paragraph. Part I: Identification of the variants and versions
+Provide a suitable identification of all the variants and versions (as defined in Annex 7) within the IWVTA type for which approval is sought. The identification scheme has to be used in Part II to transparently denote which data entries in the information document apply to which variant(s) and version(s) within the IWVTA type. Part II: Information document
+Vehicles of category M1
+0. General
+0.1. Make (trade name of manufacturer): …
+0.2. IWVTA class: …
+0.2.0. IWVTA type: …
+0.2.1. Commercial name(s) (if available): …
+0.3. Means of identification of IWVTA type, if marked on the vehicle (a): 0.3.1. Location of that marking: …
+0.4. Category of vehicle (b): …
+0.5. Name and address of manufacturer: …
+0.6. Location of the approval mark: …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+1. General construction characteristics of the vehicle
+1.1. Photographs and/or drawings of a representative vehicle: …
+1.3. Number of axles and wheels: …
+1.3.3. Powered axles (number, position, interconnection): …
+1.4. Chassis (if any) (overall drawing): …
+1.6. Position and arrangement of the engine: …
+1.8. Hand of drive: left/right (1) 
+1.8.1. Vehicle is equipped to be driven in right/left (1) hand traffic
+2. Masses and dimensions
+2.8. The technically permissible maximum laden mass: …
+3. Power plant (c)
+3.1. Manufacturer of the engine: …
+3.1.1. Manufacturer's engine code (as marked on the engine or other means of identification): …
+3.2. Internal combustion engine
+3.2.1.1. Working principle: positive ignition/compression ignition (1) 
+Cycle: four stroke/two stroke/rotary (1) 
+3.2.1.2. Number and arrangement of cylinders: …
+3.2.1.3. Engine capacity (d): … cm3
+3.2.1.6. Normal engine idling speed (2): … min- 1
+3.2.1.8. Maximum net power: … kW at … min- 1
+(manufacturer's declared value)
+3.2.2.1. Light-duty vehicles: Diesel/Petrol/LPG/NG or Biomethane/Ethanol (E85)/Biodiesel/Hydrogen (1) (3) 
+3.2.2.4. Vehicle fuel type: Mono-fuel/Bi-fuel/Flex-fuel (1) 
+3.3. Electric motor
+3.3.1. Type (winding, excitation): …
+3.3.1.1.2. Maximum 30 min. power: … kW
+3.3.1.2. Operating voltage: … V
+3.3.2. Battery
+3.3.2.4. Position: …
+3.4. Engine or motor combination
+3.4.1. Hybrid electric vehicle: yes/no (1) 
+3.4.2. Category of hybrid electric vehicle: off-vehicle charging/not off-vehicle charging (1): 4. Transmission (e)
+4.2. Type (mechanical, hydraulic, electric, etc.): …
+4.5. Gearbox
+4.5.1. Type (manual/automatic/CVT (continuously variable transmission)) (1) 
+4.7. Maximum vehicle design speed (in km/h) …
+5. Axles
+5.1. Description of each axle: …
+6. Suspension
+6.2. Type and design of the suspension of each axle or wheel: …
+6.2.1. Level adjustment: yes/no/optional (1) 
+6.2.3. Air-suspension for driving axle(s): yes/no (1) 
+6.2.4. Air-suspension for non-driving axle(s): yes/no (1) 
+6.6.1. Tyre/wheel combination(s)
+(a) For tyres indicate size designation, load-capacity index, speed category symbol (f); (b) For wheels indicate rim size(s) and off-set(s). 6.6.1.1. Axles
+6.6.1.1.1. Axle 1: …
+6.6.1.1.2. Axle 2: …
+6.6.1.2. Spare wheel, if any: …
+6.6.2. Upper and lower limits of rolling radii
+6.6.2.1. Axle 1: …
+6.6.2.2. Axle 2: …
+8. Brakes
+8.5. Anti-lock braking system: yes/no/optional (1) 
+9. Bodywork
+9.1. Type of bodywork using the codes set out in paragraph 2 of Part A of Annex 7: …
+9.3. Occupant doors, latches and hinges
+9.3.1. Door configuration and number of doors: …
+9.10. Interior arrangement
+9.10.3. Seats
+9.10.3.1. Number of seating positions (g): …
+9.10.3.1.1. Location and arrangement: …
+Explanatory notes: (a) If the means of identification of IWVTA type contains characters not relevant to describe that type covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??). (b) Classified according to the definitions in the Consolidated Resolution on the Construction of Vehicles (R.E.3) (document ECE/TRANS/WP.29/78/Rev.6). (c) In the case of a vehicle that can run either on petrol, diesel, etc., or also in combination with another fuel, items shall be repeated. In the case of non-conventional engines and systems, particulars equivalent to those referred here shall be supplied by the manufacturer. (d) This value shall be calculated (π = 3,1416) and rounded off to the nearest cm3. (e) The specified particulars are to be given for any proposed variants. (f) For tyres of category Z intended to be fitted on vehicles whose maximum speed exceeds 300 km/h equivalent information shall be provided. (g) The number of seating positions to be mentioned shall be the one when the vehicle is in motion. A range can be specified in case of modular arrangement. Part III: Type approval numbers
+Supply the information required by the following table in respect of the applicable subjects for this vehicle in Annex 4. All relevant approvals for each subject shall be included. For subjects that are not applicable to this vehicle, the Regulation number for each subject shall be indicated, together with the reason for the non-application. However, information in respect of components need not be given here as long as the relevant information is included in the approval certificate relating to the installation prescriptions. Notwithstanding the above, information on type approvals pursuant to UN Regulations Nos 30, 54, and 117 is not necessary, if information on type approval pursuant to UN Regulation No 142 is supplied. Whenever the contents of this table is modified, an updated consolidated version shall be submitted.
+
+Signed: …
+Position in company: …
+Date: …
+(1) Delete where not applicable (there are cases where nothing needs to be deleted when more than one entry is applicable). (2) Specify the tolerance. (3) Vehicles can be fuelled with both petrol and a gaseous fuel but, where the petrol system is fitted for emergency purposes or starting only and of which the petrol tank cannot contain more than 15 litres of petrol, will be regarded for the test as vehicles which can only run a gaseous fuel.
+PROCEDURES TO BE FOLLOWED FOR IWVTA
+ANNEX 3
+PROCEDURES TO BE FOLLOWED FOR IWVTA
+1. Objectives and scope
+This annex sets out the procedures for IWVTA in accordance with the provisions of paragraph 4.1 of this Regulation
+2. Type approval process
+When receiving an application for IWVTA, the approval authority shall:
+
+(a) Verify that all type approval certificates issued pursuant to the UN Regulations which are applicable for IWVTA cover the IWVTA type and correspond to the prescribed requirements; (b) Ensure that the vehicle specifications and data contained in the information document (Part II of Annex 5) are included in the data in the information packages and in the type approval certificates in respect of the relevant UN Regulations; (c) When an item number in the information document (Part II of Annex 5) is not included in the information package of any of the UN Regulations, data on the relevant part or characteristic shall be treated as reference information to identify the basic vehicle; (d) On a selected sample of vehicles from the type to be approved carry out or arrange to be carried out inspections to verify that the vehicle(s) is/are built in accordance with the relevant data contained in the information package in respect of the relevant type approval certificates; (e) Carry out or arrange to be carried out relevant installation checks in respect of systems, equipment and parts where applicable. 3. Combination of technical specifications
+The number of vehicles to be submitted shall be sufficient to permit the proper check of the variants and versions of the type to be approved.
+5.1. Required certificates
+5.1.1. An IWVTA type shall meet the prescribed requirements of this Regulation as well as those specified in the UN Regulations listed in Annex 4, Part A, Section I. This shall be demonstrated by type approval certificates according to those UN Regulations covering all variants and versions of the IWVTA type.
+
+In cases where these UN Regulations contain requirements both for parts and their installation on the vehicle, both aspects shall be covered by type approvals. 5.1.2. For a U-IWVTA type approval certificates to all applicable UN Regulations listed in Annex 4, Part A, Section I according to the version listed in that section or any later version shall be included. 5.1.3. For an L-IWVTA one or more type approval certificates required by paragraph 5.1.2 above can be omitted or replaced by the certificate according to an earlier version of the respective UN Regulation.
+12. INTRODUCTORY AND TRANSITIONAL PROVISIONS
+12.1.
+
+As from 9 months after the date of entry into force of this Regulation and subject to the conditions of paragraphs 13.1 and 13.5, a Contracting Party applying this Regulation shall accept an IWVTA issued pursuant to this Regulation and shall not request separate approvals pursuant to those UN Regulations listed in Annex 4, Part A, Section I, compliance to which is certified by this IWVTA. 12.2. When granting a type approval according to this Regulation, the transitional provisions of the version of UN Regulations as listed in Annex 4 and of any later version of these UN Regulations shall be respected, however, taking into account the special provisions of paragraph 13.3 below.
+DEFINITION OF THE IWVTA CLASS AND IWVTA TYPE
+ANNEX 7
+DEFINITION OF THE IWVTA CLASS AND IWVTA TYPE
+Part A: Vehicles of category M1
+1. Definition of IWVTA class, IWVTA type, variant, and version
+1.1. IWVTA class
+1.1.1. An 'IWVTA class' shall consist of vehicles which have all of the following features in common:
+
+(a) The manufacturer's company name; A change in the legal form of ownership of the company does not require that a new approval has to be granted; (b) The design and assembly of the essential parts of the body structure in the case of a self-supporting body; The same shall apply mutatis mutandis to vehicles the bodywork of which is bolted on or welded to a separate frame. 1.1.2. By way of derogation from the requirements of paragraph 1.1.1, subparagraph (b) above, when the manufacturer uses the floor portion of the body structure as well as the essential constituent elements forming the front part of the body structure located directly in front of the windscreen bay, in the construction of different kinds of bodywork (for example a saloon and a coupe), those vehicles may be considered as belonging to the same IWVTA class. Evidence thereof shall be provided by the manufacturer. 1.1.3. An IWVTA class shall consist of at least one IWVTA type. 1.2. IWVTA type
+1.2.1. An 'IWVTA type' shall consist of vehicles which have all of the following features in common: (a) The IWVTA class; (b) the level of conformity with respect to the UN Regulations listed in Annex 4 which are applicable to the variants and versions within the IWVTA type. 1.2.2. The level of conformity cited in paragraph 1.2.1(b) is understood the following way: (a) If a UN Regulation listed in Annex 4 is applicable to different variants or versions within an IWVTA type then all these variants and versions need to comply with the same version of that UN Regulation; (b) Notwithstanding paragraph 1.2.2(a) some of the UN Regulations listed in Annex 4 may be applicable not to all variants or versions within the same IWVTA type (e.g. high voltage protection is relevant only for electric or hybrid variants); (c) In the process of extending an IWVTA the level of conformity can be raised e.g. as an existing type is amended to meet the requirements of a later version of this Regulation. However, such amendment needs to cover all variants and versions within the IWVTA type at the same time. 1.2.3. An IWVTA type shall consist of at least one variant and one version. 1.3. Variant
+1.3.1. A 'variant' within an IWVTA type shall group the vehicles which have all of the following construction features in common: (a) The number of lateral doors or the type of bodywork as defined in paragraph 2 below when the manufacturer uses the criterion of paragraph 1.1.2 above; (b) The power plant with regard to the following construction features: (i) The type of energy supply (internal combustion engine, electric motor or other); (ii) The working principle (positive ignition, compression ignition or other); (iii) The number and arrangement of cylinders in the case of internal combustion engine (L4, V6 or other). (c) The number of axles; (d) The number, and interconnection of powered axles; (e) The number of steered axles. 1.4. Version
+1.4.1. A 'version' within a variant shall group the vehicles which have all the following features in common: (a) The technically permissible maximum laden mass; (b) The engine capacity in the case of internal combustion engine; (c) The maximum net power; (d) The nature of the fuel (petrol, gas oil, LPG, bi-fuel or other); (e) The maximum number of seating positions; (f) Drive-by sound level. 2. Kinds of bodywork
+The codes of vehicles of category M1 shall be used (1) 
+(1) As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), document ECE/TRANS/WP.29/78/Rev.6, paragraph 2.9.1 — www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29resolutions.html
+TYPE APPROVAL NUMBER FOR IWVTA
+ANNEX 8
+TYPE APPROVAL NUMBER FOR IWVTA
+An approval number shall be assigned to each IWVTA type to be approved.
+
+To reflect the special situation in IWVTA, it shall differ in some respect from the generic type approval number defined in Schedule 4 of the 1958 Agreement. 1. The type approval number shall consist of 4 sections. Each section shall be separated by the '*' character. 1.1. Section 1: The capital letter 'E' followed by the distinguishing number of the Contracting Party which has granted the type approval. 1.2. Section 2: The number of the relevant UN Regulation, followed by the capital letter 'R', successively followed by: (a) Two digits (with leading zeros as applicable) indicating the series of amendments incorporating the technical provisions of the UN Regulation applied to the approval (00 for the UN Regulation in its original form); (b) A slash and the capital letter U in case of a universal IWVTA or the capital letter L in case of an IWVTA with limited recognition. 1.3. Section 3: A six-digit number consisting of: (a) A sequential four-digit number (with leading zeros as applicable) identifying the IWVTA class. The sequence shall start from 0001; (b) A slash and a sequential two-digit number (with a leading zero as applicable) identifying the IWVTA type within an IWVTA class. The sequence shall start from 01. 1.4. Section 4: A two-digit sequential number (with leading zeros if applicable) to denote the extension. The sequence shall start from 00. 2. All digits shall be Arabic digits. Example: The approval number E4*0R03/U*0025/01*02 identifies the second extension of a universal IWVTA granted by the Netherlands (E4) according to the third series of amendments to this Regulation for the first IWVTA type within the IWVTA class approved under number 0025.
+5. SPECIFICATIONS
+13. SPECIAL PROVISIONS FOR CONTRACTING PARTIES APPLYING THIS REGULATION
+13.1.
+
+Regardless of whether a Contracting Party applies any UN Regulations listed in Annex 4, Part A, Section I, it shall accept in accordance with the principles laid down in Articles 1 and 3 of the 1958 Agreement a U-IWVTA as evidence of compliance for all vehicle systems, equipment and parts approved therein. However, wheeled vehicles bearing a U-IWVTA pursuant to UN Regulation No 0 remain subject to national or regional requirements for vehicle systems, equipment and parts not covered by the UN Regulations listed in Annex 4. 13.2. Regardless of whether a Contracting Party applies any UN Regulations listed in Annex 4, Part A, Section I, it may issue type approvals to this Regulation subject to Article 2 of the 1958 Agreement, taking account of paragraph 2.8 above. 13.3. Regardless of whether a Contracting Party applies any UN Regulations listed in Annex 4, Part A, Section I it shall for the purpose of granting an IWVTA accept any type approvals issued according to UN Regulations listed in Annex 4, Part A, Section I. For U-IWVTA it shall accept type approvals issued in accordance with the version of the UN Regulations as listed in Annex 4, Part A, Section I, or type approvals issued to any later versions of the UN Regulations submitted in accordance with paragraph 5.1.2 above. If the latest version of an individual UN Regulation is not listed in Annex 4, Part A, Section I and notwithstanding the fact that the transitional provisions of this latest version are no longer obliging Contracting Parties to accept approvals to the earlier version, approvals issued according to the version of the UN Regulation listed in Annex 4, Part A, Section I shall be accepted. 13.4. Regardless of whether a Contracting Party applies any UN Regulations listed in Annex 4, Part A, Section I, it shall for the purpose of placing on the market of equipment and spare parts for vehicles covered by an IWVTA accepted by that Contracting Party, accept type approvals to the UN Regulations listed in Annex 4, Part A, Section I as evidence of compliance for the respective equipment and parts. However, a Contracting Party not applying some of the UN Regulations listed in Annex 4, Part A, Section I may notify to the secretariat of the Administrative Committee that for these UN Regulations it is not bound by this obligation of accepting the type approvals issued in accordance with these UN Regulations as evidence of compliance for the respective equipment and parts. The notification has to specifically identify the UN Regulation(s) for which UN type-approved spare parts will not be accepted without further national or regional certification. 13.5. Subject to notification to the secretariat of the Administrative Committee, a Contracting Party may accept in accordance with the principles laid down in Articles 1, 3 and 12 of the 1958 Agreement, an L-IWVTA. For that purpose, it shall notify to the secretariat of the Administrative Committee the UN Regulations and their versions for which it will accept type approvals as evidence of compliance for some or all vehicle systems, equipment and parts covered therein. Any changes to the level of acceptance shall also be notified before the date of application. For such notification, the format provided in Annex 4, Part A, Section II shall be used. The Contracting Party shall then accept as evidence of compliance an L-IWVTA which includes at least the type approvals that are in accordance with the notification by the Contracting Party regarding Annex 4, Part A, Section II. (1) As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), document ECE/TRANS/WP.29/78/Rev.6, paragraph 2.2.1 — www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29resolutions.html
+(2) Until the date specified by WP.29 after the secure internet database in accordance with Schedule 5 of the 1958 Agreement (Revision 3) is operational and includes this functionality, notice of approval or of extension, refusal or withdrawal of approval of an IWVTA type pursuant to this Regulation shall be communicated as required by Article 5.2 of Revision 3 of the 1958 Agreement, as paper copies or in electronic format, to the Contracting Parties to the Agreement applying this Regulation by means of a form conforming to the model in Annex 1 of this Regulation and photographs and/or diagrams and drawings supplied by the applicant for approval, in a format not exceeding A4 (210 × 297) mm or folded to that format and on an appropriate scale. (3) This paragraph shall apply from a date specified by WP.29 after the secure internet database in accordance with Schedule 5 of Revision 3 to the 1958 Agreement is operational and includes this functionality.
+{{IMAGE:Image_0, Caption:Model communication form for IWVTA type approval of M1 category vehicles pursuant to UN Regulation No 0.}} Text of image
+COMMUNICATION FORM
+Part A: Vehicles of category M1
+(Maximum format: A4 (210 × 297 mm))
+(1) Issued by: Name of administration
+Concerning (2): Approval granted
+Approval extended
+Approval withdrawn with effect from dd/mm/yyyy
+Approval refused
+Production definitively discontinued
+of an IWVTA type, pursuant to UN Regulation No 0
+Approval No: Extension No: Reason for extension: Section I
+0.1. Make (trade name of manufacturer):
+0.2. IWVTA class: 0.2.0. IWVTA type: 0.2.1. Commercial name(s) (3):
+0.3. Means of identification of IWVTA type if marked on the vehicle: 0.3.1. Location of that marking: 0.4. Category of vehicle (4):
+0.5. Name and address of manufacturer: 0.8. Name(s) and address(es) of assembly plant(s): 0.9. Name and address of the manufacturer's representative (if any):
+Section II (Items 1 to 4 not applicable if production is definitely discontinued)
+The undersigned hereby certifies the accuracy of the manufacturer's description in the attached information folder of the vehicle(s) described above ((a) sample(s) having been selected by the approval authority and submitted by the manufacturer as prototype(s) of the IWVTA type) and that the attached test results are applicable to the IWVTA type. 1. The IWVTA type meets/does not meet (2) the technical requirements for U-IWVTA as prescribed in paragraph 5.1.2 of this Regulation. {{IMAGE:Image_1, Caption:Section of an IWVTA approval form detailing compliance with L-IWVTA requirements, approval status options, and signature fields.}} Text of image
+ 2. The IWVTA type meets/does not meet (2) the technical requirements for L-IWVTA as prescribed in paragraph 5.1.3 of this Regulation. 3. The approval is granted/extended/withdrawn with effect from dd/mm/yyyy/refused (2) 4. The approval is granted in accordance with the procedure for new technologies as defined in Schedule 7 of the 1958 Agreement and the validity of the approval is thus limited to dd/mm/yyyy (2). (Place)
+(Signature)
+(Date)
+Attachments: Information package. (1) Distinguishing number of the country which has granted/extended/refused/withdrawn approval (see approval provisions in the Regulation). (2) Delete where not applicable. (3) If not available at the time of granting the type approval, this item shall be completed at the latest when the vehicle is introduced on the market. (4) As defined in paragraph 2 of the Consolidated Resolution on the Construction of Vehicles (R.E.3) (document ECE/TRANS/WP.29/78/Rev.6).
+4. APPROVAL
+4.1. The procedures of Annex 3 shall be followed.
+
+4.2. If the IWVTA type submitted for approval pursuant to this Regulation meets the relevant provisions of this Regulation, approval of that type shall be granted taking into account paragraph 12.2. 4.3. A type approval number shall be assigned to each IWVTA type approved in accordance with Annex 8. 4.4. Notice of approval or of extension, refusal or withdrawal of approval of an IWVTA type pursuant to this Regulation shall be communicated by means of a secure internet database in accordance with Schedule 5 of the 1958 Agreement to the Contracting Parties applying this Regulation, using the communication form conforming to the model in Annex 1 (2). 4.5. A type approval marking shall be affixed, as means to identify the IWVTA type, conspicuously and in a readily accessible place specified in the information document in Annex 5, to every vehicle conforming to an IWVTA type, approved under this Regulation. Such a type approval marking shall be in accordance with Annex 2. 4.6. The approval mark prescribed in paragraph 4.5 above may not be replaced by a Unique Identifier (UI) as referred to in Schedule 5 of the 1958 Agreement. 4.7. For vehicle systems as defined in paragraph 2.11 above the approvals of which are referenced in an IWVTA, no type approval markings need to be affixed. Approval markings for components as defined in paragraph 2.10 above need to be affixed as prescribed by the UN Regulations listed in Annex 4. 4.8. The type approval marking shall be clearly legible and be indelible. 4.9. If a vehicle data plate is fitted by the manufacturer, the type approval marking shall be placed close to or on it. 4.10. For U-IWVTA the approval marking shall be in accordance with the template of Annex 2, Section I. For L-IWVTA the approval marking shall be in accordance with the template of Annex 2, Section II. 4.11. All variants and versions within one IWVTA type shall be approved within one IWVTA. 4.12. Approvals for all IWVTA types within one IWVTA class shall be handled by the same approval authority. 4.13. A new IWVTA class is generated upon the granting of the first approval for an IWVTA type contained in this IWVTA class. Subsequent approvals for other IWVTA types may refer to this existing IWVTA class provided the conditions in paragraph 1.1 of Annex 7 are met.
+6. TEST PROCEDURE
+6.1. Where compliance to the requirements of paragraph 5.1 above is demonstrated by providing all required certificates covering all variants and versions of the IWVTA type, no further testing shall be required for the items covered by these certificates.
+7. MODIFICATION OF IWVTA TYPE AND MODIFICATION OF APPROVAL
+7.1. In the case of any change to the IWVTA type with respect to a particular item recorded in the information folder, the procedure specified in paragraph 2, Schedule 3 of the 1958 Agreement shall apply.
+
+7.1.1. The type approval authority granting the extension of approval shall update the approval number with an extension number incremented in accordance with the number of successive extensions already granted in accordance with Annex 8 and issue a revised communication form denoted by this extension number. 7.2. An existing IWVTA may only be modified by extension or revision if all of the following conditions are met: 7.2.1. The vehicles before and after modification belong to the same IWVTA class. 7.2.2. The status of the IWVTA before and after modification does not change between universal and limited recognition. 7.2.3. After modification all vehicles covered by the extension or revision comply with the same version of each UN Regulation included. 7.3. For changes that do not meet any of the conditions of paragraphs 7.2.1 and 7.2.2, a new IWVTA shall be issued. For changes not meeting the condition defined in paragraph 7.2.3 the IWVTA shall be split (see also paragraph 7.4.4). 7.4. When new requirements enter into force (resulting from amendments to Annex 4) the manufacturer owning the type approval shall notify the approval authority who issued the U-IWVTA about one of the options specified in the subparagraphs below. The notification is deemed to have been made when the manufacturer notifies the approval authority using a communication form conforming to the model in Annex 9. 7.4.1. The IWVTA type concerned is not affected by the new requirements. In that case, no amendment to the type approval shall be required. 7.4.2. The IWVTA type is affected and the manufacturer wants to maintain the universal status of the IWVTA and therefore applies for an extension of the type approval. The type approval marking shall be updated as necessary. 7.4.3. The IWVTA type is affected but the manufacturer does not want to maintain the universal status of the IWVTA. In that case, the U-IWVTA shall be withdrawn (effective at the date the IWVTA ceases to be universal). For the continued production a new L-IWVTA shall be issued. However, when granting this new L-IWVTA, transitional provisions of UN Regulation No 0 and UN Regulations listed in Annex 4 shall be interpreted as if an existing IWVTA were extended. 7.4.4. In the case the manufacturer wants to pursue both options (paragraphs 7.4.2 and 7.4.3 above) at the same time for different portions of his production, the type approval has to be split due to definition of an IWVTA type (Annex 7, Part A, paragraph 1.2.1, subparagraph (b)). In this case the existing U-IWVTA shall be extended and remain a U-IWVTA for the portion of the production that is modified to meet the newly applicable requirements. For the portion of the production that remains unchanged a new L-IWVTA with a new approval number shall be issued. However, when granting this new L-IWVTA, the transitional provisions of UN Regulation No 0 and UN Regulations listed in Annex 4 shall be interpreted as if an existing IWVTA were extended. The manufacturer's type designations shall clearly identify the different IWVTA types in these two approvals. 7.5. In the case a manufacturer performs technical changes on a type of vehicle which was covered by an L-IWVTA such that the vehicle now meets the requirements for the universal level a new U-IWVTA shall be issued. The pre-existing L-IWVTA can be continued or withdrawn if no longer needed. In the process of granting the new U-IWVTA, the following rules shall be respected: (a) The technical requirements for an existing vehicle type apply to all equipment and parts already approved in accordance with the versions of the UN Regulations listed in Annex 4, Part A, Section I and included in the pre-existing L-IWVTA provided no change has been made to the relevant equipment or parts that would result in a new type; (b) The technical requirements for a new vehicle type apply in all other cases.
+8. CONFORMITY OF PRODUCTION
+The conformity of production procedures shall comply with those set out in Schedule 1 of the 1958 Agreement with the following requirements:
+
+8.1. A vehicle approved to this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements of paragraph 5 above. 8.2. The approval authority which has granted type approval may at any time verify the conformity control methods applied in each production facility. Such verification should primarily be aimed at the whole vehicle and assembly level activities and shall not, without reasonable justification, repeat previous assessments undertaken for the separate UN Regulations comprising part of the IWVTA.
+9. PENALTIES FOR NON-CONFORMITY OF PRODUCTION
+9.1.
+
+The approval granted in respect of an IWVTA type pursuant to this Regulation may be withdrawn if the requirements are not complied with or if a vehicle bearing the type approval marking does not conform to the IWVTA type approved. 9.2. If a Contracting Party applying this Regulation withdraws an approval it has previously granted, it shall forthwith so notify the other Contracting Parties applying this Regulation by means of a communication form conforming to the example in Annex 1.
+10. PRODUCTION DEFINITIVELY DISCONTINUED
+If the holder of the approval completely ceases to manufacture an IWVTA type approved in accordance with this Regulation, they shall inform the approval authority, which granted the approval.
+
+Upon receiving the relevant communication, that approval authority shall inform the Contracting Parties applying this Regulation by means of a communication form conforming to the example in Annex 1 using the secure internet database in accordance with Schedule 5 of the 1958 Agreement, Revision 3.
+11. NAMES AND ADDRESSES OF TECHNICAL SERVICES RESPONSIBLE FOR CONDUCTING APPROVAL TESTS AND OF TYPE APPROVAL AUTHORITIES
+In accordance with the provisions of Article 2.2 of the 1958 Agreement Contracting Parties applying this Regulation shall communicate the names and addresses of the Technical Services they have designated for verifying that the relevant provisions of this Regulation have been satisfied and of the approval authorities which grant approvals and to which communication forms referred to Annex 1 are to be sent.
+ARRANGEMENT OF THE TYPE APPROVAL MARKING
+ANNEX 2
+ARRANGEMENT OF THE TYPE APPROVAL MARKING
+(See paragraph 4.5 of this Regulation)
+The prescriptions of this annex about the type approval marking for IWVTA in conjunction with Article 3.2 of the 1958 Agreement shall not preclude additional national or regional requirements concerning vehicle identification such as statutory plates or vehicle identification numbers.
+
+{{IMAGE:Image_2, Caption:Diagram illustrating the layout of the U-IWVTA type approval marking, featuring an approval mark with 'E4' inside a circle and the alphanumeric string '0 R00U- 1234/01', accompanied by dimensional specifications relative to height 'a'.}} a = 8 mm min. The above approval marking affixed to a vehicle shows that the IWVTA class concerned has, with regard to U-IWVTA, been approved in the Netherlands (E 4) pursuant to this Regulation in its original form. The letter U identifies the approval as universal (paragraph 2.3.1 of this Regulation). The approval is granted for the IWVTA class approved with the number 1234 and the IWVTA type with the number 01. {{IMAGE:Image_3, Caption:Diagram of the L-IWVTA type approval marking showing the E4 country code within a circle and the approval number 0 R00L - 1234/02, accompanied by dimensional specifications relative to size 'a'.}} a = 8 mm min. The above type approval marking affixed to a vehicle shows that the IWVTA class concerned has, with regard to L-IWVTA, been approved in the Netherlands (E 4) pursuant to this Regulation in its original form. The letter L identifies the approval as one of limited recognition (paragraph 2.3.2 of this Regulation). The approval is granted for the IWVTA class approved with the number 1234 and the IWVTA type with the number 02.
+2.1. 'Manufacturer' means the person or body responsible to the approval authority for all aspects of the type approval process and for ensuring conformity of production. It is not essential that the person or body is directly involved in all stages of the construction of the vehicle which is the subject of the approval process.
+2.1.1. 'Manufacturer's representative' means a natural or legal person established in the territory of one of the Contracting Parties applying this Regulation who is duly appointed by the manufacturer to represent it before the approval authority and to act on its behalf in matters covered by this Regulation. Where reference is made in this Regulation to the manufacturer, it means either the 'Manufacturer' or the 'Manufacturer's representative'.
+| Notification of | [Name of Contracting Party] | Date to be effective | [yyyy-mm-dd] | [yyyy-mm-dd] |
+|---|---|---|---|---|
+| 27 | A temporary-use spare unit, run-flat tyres | 64 |  | or later |
+| 28 | Parking lamps for power-driven vehicles | 77 |  | or later |
+| 29 | Vehicles with regard to steering equipment | 79 |  | or later |
+| 30 | Internal combustion engines or electric drive trains intended for the propulsion of motor vehicles of categories M and N with regard to the measurement of the net power and the maximum 30 minutes power of electric drive trains (Engine power) | 85 |  | or later |
+| 31 | Daytime running lamps for power-driven vehicles | 87 |  | or later |
+| 32 | Side marker lamps for motor vehicles and their trailers | 91 |  | or later |
+| 33 | Protection of occupants in the event of a frontal collision | 94 |  | or later |
+| 34 | Protection of occupants in the event of a lateral collision | 95 |  | or later |
+| 35 | Motor vehicle headlamps equipped with gas-discharge light sources | 98 |  | or later |
+| 36 | Vehicles with regard to specific requirements for the electric power train | 100 |  | or later |
+| 37 | Motor vehicles headlamps emitting an asymmetrical passing beam or a driving beam or both and equipped with filament lamps and/or LED modules | 112 |  | or later |
+| 38 | Tyres with regard to rolling sound emissions and/or to adhesion on wet surfaces and/or to rolling resistance | 117 |  | or later |
+| 39 | Cornering lamps for power-driven vehicles | 119 |  | or later |
+| 40 | Vehicles with regard to the location and identification of hand controls, tell-tales and indicators | 121 |  | or later |
+| 41 | Adaptive Front-lighting Systems (AFS) for motor vehicles | 123 |  | or later |
+| 42 | Motor vehicles with regard to the forward field of vision of the motor vehicle driver | 125 |  | or later |
+| 43 | Motor vehicles with regard to their pedestrian safety performance | 127 |  | or later |
+| 44 | Brake assist systems | 139 |  | or later |
+| 45 | Electronic stability control systems | 140 |  | or later |
+| 46 | Tyre pressure monitoring systems | 141 |  | or later |
+| 47 | Tyre installation | 142 |  | or later |
+
+Information about the minimum content of an L-IWVTA that will be accepted by a Contracting Party can be found in the status document ECE/TRANS/WP.29/343 as amended. (1) If a UN Regulation number is followed by an asterisk '*' this indicates that the respective requirement applies only if the corresponding system is fitted to the vehicle. This then means that for the purpose of a U-IWVTA both vehicles with or without this system are acceptable. However, where the system is fitted to the vehicle, the requirement applies. The same also applies to systems not identified by * where it can be demonstrated that the corresponding requirements are not applicable to the IWVTA type
+(2) The entry is understood as the required minimum, i.e. including all supplements in force at the time the approval is issued. Approvals to any later versions have to be equally accepted in accordance with paragraph 13.3 of this Regulation. (3) A notification is necessary only for those UN Regulations where an earlier version than that specified in Section I is also accepted. In accordance with paragraph 13.1 of this Regulation the latest version shall be accepted in any case. The entry 'none' means that topic is not regulated by the Contracting Party and therefore compliance with the respective UN Regulations is not required. The entry 'or later' has to be mentioned only if the Contracting Party also accepts approvals according to later versions of the UN Regulations than the version it has notified. In any case approvals according to the version specified in Section I of this annex as well as approvals to the latest version of the UN Regulations concerned have to be accepted in accordance with paragraphs 13.1 and 13.3 of this Regulation. Such versions therefore do not have to be mentioned with the entry 'or later'.
+2.2. 'IWVTA class' means a group of vehicles which does not differ in such essential respects as those specified in paragraph
+2.2.1. 'IWVTA type' means a group of vehicles which can be approved within one IWVTA as defined in paragraph
+2.3. 'International Whole Vehicle Type Approval (IWVTA)' means an approval of an IWVTA type to this Regulation, whereby a Contracting Party applying this Regulation certifies that an IWVTA type satisfies the relevant provisions of this Regulation.
+2.3.1. 'Universal IWVTA (U-IWVTA)' means an IWVTA where all of the applicable UN Regulations listed in Annex 4, Part A, Section I are complied with according to the version of these UN Regulations as listed in that section or any later version.
+2.3.2. 'IWVTA of Limited recognition (L-IWVTA)' means an IWVTA where: (a) Not all of the UN Regulations listed in Annex 4, Part A, Section I are complied with; and/or (b) Some or all of the UN Regulations listed in Annex 4, Part A, Section I are complied with according to an earlier version than the one listed in that section.
+2.4. 'Information document' means the document set out in Annex 5 that prescribes the information to be supplied by an applicant. This may be in the form of an electronic file.
+2.5. 'Information folder' means a folder that includes the information document, data, drawings, photographs, and other relevant material, supplied by the applicant. This may be in the form of an electronic file.
+2.6. 'Information package' means the information folder accompanied by the test reports and all other documents added by the Technical Service or by the approval authority to the information document in the course of carrying out their functions, including an index to the information package. This may be in the form of an electronic file.
+2.7. 'Index to the information package' means the document listing the contents of the information package, suitably numbered or otherwise marked so as to identify clearly all the pages. The format of the document shall be such as to present a record of the successive steps in administering the type approval, in particular when any revisions or updates occurred.
+2.8. 'Technical competence' means, having regard to Article 2 of the 1958 Agreement, that a Contracting Party has the capability to verify the compliance of an IWVTA type with this Regulation, based on the individual type approvals submitted by the manufacturer in its application and the ability to confirm that the vehicle systems and components are installed pursuant to the individual UN Regulations listed in Annex
+2.9. 'Declaration of Conformance (DoC)' means the information for a single vehicle belonging to an IWVTA type, approved in accordance with this Regulation, certifying to which of the UN Regulations listed in Annex 4 and to which versions the IWVTA type is approved at the time of its production.
+2.10. 'Component' means a vehicle equipment or part which is subject to the requirements of any of the UN Regulations listed in Annex 4 and intended to be part of a vehicle, which may be type-approved independently of a vehicle where the UN Regulation makes explicit provisions for so doing.
+2.11. 'Vehicle system' means an assembly of devices combined to perform one or more specific functions in a vehicle and which is subject to the requirements of any of the UN Regulations listed in Annex
+2.12. 'Type approval certificate' means the document whereby the approval authority officially certifies that a type of vehicle, equipment or parts is approved or such approval is modified.

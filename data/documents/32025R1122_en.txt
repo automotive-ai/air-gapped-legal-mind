@@ -1,0 +1,56 @@
+Article 2 - Entry into force
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) 2019/2144 of the European Parliament and of the Council of 27 November 2019 on type-approval requirements for motor vehicles and their trailers, and systems, components and separate technical units intended for such vehicles, as regards their general safety and the protection of vehicle occupants and vulnerable road users, amending Regulation (EU) 2018/858 of the European Parliament and of the Council and repealing Regulations (EC) No 78/2009, (EC) No 79/2009 and (EC) No 661/2009 of the European Parliament and of the Council and Commission Regulations (EC) No 631/2009, (EU) No 406/2010, (EU) No 672/2010, (EU) No 1003/2010, (EU) No 1005/2010, (EU) No 1008/2010, (EU) No 1009/2010, (EU) No 19/2011, (EU) No 109/2011, (EU) No 458/2011, (EU) No 65/2012, (EU) No 130/2012, (EU) No 347/2012, (EU) No 351/2012, (EU) No 1230/2012 and (EU) 2015/166 (1), and in particular Article 4(3) and (6) thereof,
+Whereas:
+Article 1 - Amendments to Regulation (EU) 2019/2144
+Annexes I and II to Regulation (EU) 2019/2144 are amended in accordance with the Annex to this Regulation.
+ANNEX
+ANNEX
+Annexes I and II to Regulation (EU) 2019/2144 are amended as follows: (1) Annex I is amended as follows: (a) the row for UN Regulation Number 25 is replaced by the following: (b) the row for UN Regulation Number 34 is replaced by the following: (c) the row for UN Regulation Number 79 is replaced by the following: (d) the row for UN Regulation Number 100 is replaced by the following: (e) the row for UN Regulation Number 117 is replaced by the following: (f) the row for UN Regulation Number 127 is replaced by the following: (g) the row for UN Regulation Number 152 is replaced by the following: (h) the following rows for UN Regulation Numbers 167, 169 and 171 are added:
+
+| '167 | Heavy-duty vehicles direct vision | Original version of the Regulation | OJ L, 2024/1065, 17.5.2024, ELI: http://data.europa.eu/eli/reg/2024/1065/oj | M2, M3, N2, N3 |
+|---|---|---|---|---|
+| 169 | Event Data Recorder for HDVs | Original version of the Regulation | OJ L, 2024/1218, 23.5.2024, ELI: http://data.europa.eu/eli/reg/2024/1218/oj | M2, M3, N2, N3 |
+| 171 | Driver Control Assistance Systems (DCAS) | Original version of the Regulation | OJ L, 2024/2689, 4.11.2024, ELI: http://data.europa.eu/eli/reg/2024/2689/oj | M, N' | (2) Annex II is amended as follows: (a) the row for requirement B2 is replaced by the following: (b) the row for requirement B9 is replaced by the following: (c) the row for requirement C10 is replaced by the following: (d) the rows for requirements E6 and E7 are replaced by the following: (e) in section E 'Driver and System Behaviour', the following rows for requirements E10 and E11 are added:
+
+(f) footnote (5) is replaced as follows: '(5) Compliance is required in case of automated / fully automated vehicles.'; (g) the following note is added to the Notes to the table: 'IF: Compliance is required if fitted.'. (*1) In application of the transitional provisions of 04 series of amendments to UN Regulation No 127, type approvals issued using the specific provisions related to WAD 2 100 boundary on the bonnet top shall continue to be accepted until 1 September 2029. Type approvals issued using the specific provisions of the rear physical edge of the bonnet instead of the BRRL shall continue to be accepted until 1 September 2031.';
+(*2) In application of the transitional provisions of 04 series of amendments to UN Regulation No 117, new tyres approved in accordance with the requirements of 02 or 03 series of amendments to that UN Regulation and manufactured before 7 July 2026, may continue to be fitted on vehicles in use until 6 January 2029.';
+(*3) Commission Implementing Regulation (EU) 2022/1426 of 5 August 2022 laying down rules for the application of Regulation (EU) 2019/2144 of the European Parliament and of the Council as regards uniform procedures and technical specifications for the type-approval of the automated driving system (ADS) of fully automated vehicles (OJ L 221, 26.8.2022, p. 1, ELI: http://data.europa.eu/eli/reg_impl/2022/1426/oj).';
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) 2019/2144 of the European Parliament and of the Council of 27 November 2019 on type-approval requirements for motor vehicles and their trailers, and systems, components and separate technical units intended for such vehicles, as regards their general safety and the protection of vehicle occupants and vulnerable road users, amending Regulation (EU) 2018/858 of the European Parliament and of the Council and repealing Regulations (EC) No 78/2009, (EC) No 79/2009 and (EC) No 661/2009 of the European Parliament and of the Council and Commission Regulations (EC) No 631/2009, (EU) No 406/2010, (EU) No 672/2010, (EU) No 1003/2010, (EU) No 1005/2010, (EU) No 1008/2010, (EU) No 1009/2010, (EU) No 19/2011, (EU) No 109/2011, (EU) No 458/2011, (EU) No 65/2012, (EU) No 130/2012, (EU) No 347/2012, (EU) No 351/2012, (EU) No 1230/2012 and (EU) 2015/166 (1), and in particular Article 4(3) and (6) thereof,
+Whereas:
+
+(1) Annex I to Regulation (EU) 2019/2144 lists, inter alia, UN Regulations No 34 (2), No 79 (3), No 100 (4), No 117 (5), No 127 (6) and No 152 (7). All those regulations have been amended by the World Forum for Harmonisation of Vehicle Regulations of the United Nations Economic Commission for Europe ('UNECE WP.29'). It is therefore appropriate that the list in Annex I to Regulation (EU) 2019/2144 is updated to reflect those amendments. (2) The 02 series of amendments to UN Regulation No 152 contain provisions for the advanced emergency braking system to avoid or mitigate the severity of an impact with a pedestrian and a bicycle respectively. Annex I to Regulation (EU) 2019/2144 refers to the original version to that UN Regulation that contains requirements for advanced emergency braking system to avoid or mitigate collision with a passenger car only. Therefore, in order to cover in addition to the car-to-car the car-to-pedestrian and car-to-bicycle collisions, it is appropriate to refer in Annex I to Regulation (EU) 2019/2144 to the 02 series of amendments to UN Regulation No 152. (3) The 04 series of amendments to UN Regulation No 127 contain provisions for the enlarged head impact zone to improve the pedestrian safety performance of motor vehicles in case of a collision. As Annex I to Regulation (EU) 2019/2144 refers to 02 series of amendments of that UN Regulation, it is necessary to update Annex I to Regulation (EU) 2019/2144 to refer to the 04 series of amendments of UN Regulation No 127. (4) The UNECE WP.29 also adopted: (1) UN Regulation No 167 (8); (2) UN Regulation No 169 (9); and (3) UN Regulation No 171 (10). It is therefore appropriate to introduce in Annex I to Regulation (EU) 2019/2144 references to those regulations. (5) The 04 series of amendments to UN Regulation No 117 contain provisions for the approval of tyres with regard to their wet grip in worn state. It is appropriate to provide additional time to continue to allow fitting on a vehicle in use of new tyres approved as complying with the 02 and 03 series of amendments respectively to UN Regulation No 117 until 6 January 2029. (6) At the 192th session of UNECE WP.29 in March 2024, the Union and its Member States voted in favour of the new UN Regulation on uniform provisions concerning the approval of vehicles with regards to driver control assistance systems. In order for motor vehicles fitted with those systems to comply with the provisions set out in that UN Regulation, it is necessary to include the reference to UN Regulation No 171 in Annex II to Regulation (EU) 2019/2144 that should apply on an 'if fitted' basis. (7) Regulation (EU) 2019/2144 should therefore be amended accordingly,
+HAS ADOPTED THIS REGULATION:
+recital 7
+(7) Regulation (EU) 2019/2144 should therefore be amended accordingly,
+HAS ADOPTED THIS REGULATION:
+recital 6
+(6) At the 192th session of UNECE WP.29 in March 2024, the Union and its Member States voted in favour of the new UN Regulation on uniform provisions concerning the approval of vehicles with regards to driver control assistance systems.
+
+In order for motor vehicles fitted with those systems to comply with the provisions set out in that UN Regulation, it is necessary to include the reference to UN Regulation No 171 in Annex II to Regulation (EU) 2019/2144 that should apply on an 'if fitted' basis.
+recital 5
+(5) The 04 series of amendments to UN Regulation No 117 contain provisions for the approval of tyres with regard to their wet grip in worn state.
+
+It is appropriate to provide additional time to continue to allow fitting on a vehicle in use of new tyres approved as complying with the 02 and 03 series of amendments respectively to UN Regulation No 117 until 6 January 2029.
+recital 4
+(4) The UNECE WP.29 also adopted: (1) UN Regulation No 167 (8); (2) UN Regulation No 169 (9); and (3) UN Regulation No 171 (10).
+
+It is therefore appropriate to introduce in Annex I to Regulation (EU) 2019/2144 references to those regulations.
+recital 3
+(3) The 04 series of amendments to UN Regulation No 127 contain provisions for the enlarged head impact zone to improve the pedestrian safety performance of motor vehicles in case of a collision.
+
+As Annex I to Regulation (EU) 2019/2144 refers to 02 series of amendments of that UN Regulation, it is necessary to update Annex I to Regulation (EU) 2019/2144 to refer to the 04 series of amendments of UN Regulation No 127.
+recital 2
+(2) The 02 series of amendments to UN Regulation No 152 contain provisions for the advanced emergency braking system to avoid or mitigate the severity of an impact with a pedestrian and a bicycle respectively.
+
+Annex I to Regulation (EU) 2019/2144 refers to the original version to that UN Regulation that contains requirements for advanced emergency braking system to avoid or mitigate collision with a passenger car only. Therefore, in order to cover in addition to the car-to-car the car-to-pedestrian and car-to-bicycle collisions, it is appropriate to refer in Annex I to Regulation (EU) 2019/2144 to the 02 series of amendments to UN Regulation No 152.
+recital 1
+(1) Annex I to Regulation (EU) 2019/2144 lists, inter alia, UN Regulations No 34 (2), No 79 (3), No 100 (4), No 117 (5), No 127 (6) and No 152 (7).
+
+All those regulations have been amended by the World Forum for Harmonisation of Vehicle Regulations of the United Nations Economic Commission for Europe ('UNECE WP.29'). It is therefore appropriate that the list in Annex I to Regulation (EU) 2019/2144 is updated to reflect those amendments.

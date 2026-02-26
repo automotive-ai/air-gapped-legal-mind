@@ -1,0 +1,313 @@
+COMMISSION STAFF WORKING DOCUMENT Accompanying the document REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on periodic roadworthiness tests for motor vehicles and their trailers and repealing Directive 2009/40/EC and REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the technical roadside inspection of the roadworthiness of commercial vehicles circulating in the Union and repealing Directive 2000/30/EC and DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Council Directive 1999/37/EC on the registration documents for vehicles Summary of IMPACT ASSESSMENT
+COMMISSION STAFF WORKING DOCUMENT
+Accompanying the document
+REGULATION OF THE EUROPEAN
+PARLIAMENT AND OF THE COUNCIL on periodic roadworthiness tests for motor
+vehicles and their trailers and repealing Directive 2009/40/EC
+and
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the technical
+roadside inspection of the roadworthiness of commercial vehicles circulating in
+the Union and repealing Directive 2000/30/EC
+and
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Council Directive
+1999/37/EC on the registration documents for vehicles
+Summary of IMPACT ASSESSMENT
+1. Problem definition
+Directive 2009/40/EC fixes minimum
+standards for the periodic technical inspection (PTI) of motor road vehicles.
+
+The role of PTI is to ensure that vehicles in operation are properly maintained
+and tested, so that their performance remains in accordance with the
+type-approval[1] throughout their lifetime. Directive 2009/40/EC
+is complemented by Directive 2000/30/EC, which provides the requirement to control the technical state of
+commercial vehicles in between periodic inspections (roadside inspections -
+RSI). On 20 July 2010 the Commission
+adopted policy orientations on road in whichit announced the harmonisation and
+progressive strengthening of EU legislation on roadworthiness tests and on
+technical roadside inspections; the inclusion of powered-two wheelers in
+vehicle inspections; and the possible setting-up of a European electronic
+platform with a view to harmonise and to exchange vehicle data. The stakeholder consultation and the
+analysis by the Commission allowed identifying one main problem with the
+current PTI system in Europe: there are too many vehicles with technical defects on the
+road. Indeed, studies from the UK and Germany indicate that up to 10% of
+cars at any point in time have a defect that would cause them to fail the PTI
+test. Moreover, many technical defects with serious implications for security
+(mainly related to electronic safety components such as ABS, ESC) are not even
+checked at PTI tests as conducted under current rules. Technical defects contribute heavily
+to accidents: it is estimated that they are responsible for 6% of all
+accidents, translating into 2,000 fatalities and many more injuries yearly. Also, technical defects increase
+emissions (e.g. CO, HC, NO and CO2) by some 1.2% and 5.7% on
+average, and by up to 20 times for particular vehicles. Two root causes of the problem
+have been identified. First, the scope of EU legislation is too narrow and the level
+of requirements it sets is too low. A comparative analysis of existing national
+PTI systems suggests that the requirements of EU legislation are insufficient
+for the 7 pillars of EU roadworthiness test to reduce defect occurrence to
+sustainable levels: - 
+not enough items are inspected (particularly
+electronic safety devices are not thoroughly inspected); - 
+the definitions of defects are out of date and
+the assessment not harmonised; - 
+the equipment used for PTI is not performant
+enough; - 
+the skills of inspectors are not precisely defined; - 
+many vehicle classes are not inspected at all
+(notably motorcycles, which are involved in many accidents); - 
+vehicles are not tested frequently enough (in
+particular older and commercial vehicles, which have higher damage rates); - 
+testing stations are not sufficiently supervised
+in many Member States. Second, information and data vital for the effectiveness of
+testing and enforcement of test results is not exchanged between concerned
+actors. In particular: - 
+Data for testing electronic safety components is
+often not available; - 
+Odometer readings are not collected in a
+centralised manner; - 
+PTI centrificates are not protected against
+fraud; - 
+Data on PTI results not available to enforcement
+authorities, such as police or registration authorities. Evolution of the problem (baseline scenario)
+The failures identified as drivers of the
+problem are regulatory in nature. The Netherlands and the United Kingdom
+have been looking at possibilities to reduce the frequency of PTI to
+save costs for vehicle owners, but this is a very modest indication of
+potential future changes across the EU Member States. On the EU side, the
+technical annexes to Directive 2009/40/EC will be updated regularly to take
+into account technological advances, as it has happened so far.[2] However, since the Directive
+allows only the list of test items and testing methods to be updated through
+commitology, no change to the scope and frequency of testing, and to the
+framework for data exchange, can be achieved in the baselie scenario. Available projections concur to conclude
+that the vehicle fleet in Europe will increase in the future. The Commission
+estimates that, in a no policy change scenario, the number of passenger cars
+will increase from 220.2 million in 2005 to 307.1 million in 2050.[3] More vehicles in principle
+increase the risk of accident occurrence. At the same time, the ambitious policies
+announced in the Road Safety Policy Orientations for 2010-2020 are expected to
+increase road safety. In particular, large hopes are related to the development
+and deployment of Intelligent Transport Systems (ITS) and related pervasive
+technologies and tools. On the other hand, the latter will increase the
+complexity of on-board electronic equipment, which is difficult to test under
+the present conditions since the technical data from manufacturers are not
+currently available in functional form. Overall, it is expected that the
+downwards trend in fatalities is maintained,[4]
+but it is probable that the share of accidents caused by technical defects will
+rise from the current 6%. On the environment side, pollutant emissions will be
+drastically reduced as vehicles compliant with older Euro classes are gradually
+scrapped and new, zero-emission vehicles are marketed. As it happens, the
+incidence of heavy polluters (due to technical defects) on air quality will
+become proportionally higher. 2. Analysis of subsidiarity
+The right to
+act for the EU in the field of transport is set out in the Treaty on the
+Functioning of the European Union. More particularly, Art. 91 of the Treaty
+puts on the legislators the obligation to lay down measures to improve road
+safety. Road transport
+- individual, passenger and particularly commercial - has a strong cross border
+aspect. This is particularly important for enforcement, where effectiveness
+depends on the seemless flow of information about the technical state of
+vehicles, the compliance history and fraud detection between different
+authorities in different Member States. Similarly, vehicle manufacturing is
+global, and action addressing the provision of data for PTI purpose by the
+manufacturers clearly has to be taken at the highest possible level. Under current rules, Member States have a
+lot of flexibility in the application of the Directives, allowing them notably
+to establish higher PTI standards. Experience shows that this opportunity has
+not been seized by all the MS, resulting in a diversity of testing qualities
+across the continent. This trend can be only reversed by concerted action at EU
+level. In order to avoid falling in the trap of
+looking at legislative solutions only, the Commission also analysed the impacts
+of an intervention based purely on soft-low, or on a mixed soft and legislative
+approach.
+In order to avoid falling in the trap of
+looking at legislative solutions only, the Commission also analysed the impacts
+of an intervention based purely on soft-low, or on a mixed soft and legislative
+approach.
+
+The Commission believes that some aspects of the review of
+the roadworthiness system should be left to the MS, who can achieve the goals
+in a more effective way, notably in what concerns: the organisation of roadside
+technical inspections, training of inspectors and the execution of supervision
+activities. 3. Objectives of EU initiative 
+The general objectives of this initiative
+are: 1. To contribute to the achievement of the
+goal of halving the overall number of road deaths in the European Union between
+2010 and 2020 and moving to zero fatalities in road transport by 2050, through
+measures aiming at increasing the quality and better coordinating national PTI
+and roadside inspection systems, and
+2. To contribute to the reduction of the
+emissions of GHG and air pollutants from road transport through measures aiming
+at detecting more effectively and removing from circulation vehicles which are
+over-polluting because of technical defects. These general objective can be translated into
+two specific objectives: - 
+increase the scope and the level of requirements
+for roadworthiness testing and roadside controls across the European Union; - 
+create the appropriate framework for seamless
+flow of information between actors and Member States involved in the
+enforcement of PTI results. There are two operational objectives to be
+achieved three years after the entry into force of all elements of the new
+legislation (including the set-up of the data exchange system): - 
+To reduce the number of fatalities caused by
+technical defects by as close as possible to 1100 yearly, which has been
+estimated as the maximum potential; and
+- 
+To move towards eliminating the "gross
+emitting" vehicles from the fleet in use. 4. Policy options
+A set of policy options have been considered: a no policy
+change option (Policy option 0); the discontinuation of EU action; a soft law
+approach (Policy option 1); a legislative approach (Policy option 2); a
+combination of soft law and legislative approach (Policy Option 3). Discontinuation of EU action was discarded at an early stage because it would
+not contribute to the objectives and be inconsistent with existing EU
+strategies. Policy option 1 encompasses
+an increased use of peer reviews and screening by the Commission and the
+exploration of optimal levels of investment in PTI and roadside testing
+exploring the scope for risk-based testing regimes together with Member States. The option would also include looking into the enforcement of legal
+responsibilities of individuals not presenting their vehicles to required PTI. Enforcement measures would include awareness campaigns focusing on vehicle
+owners, enhancement of roadside inspections and testing as well as supervision
+by Member States. Finally, PO1 would include recommendations for voluntary
+action by vehicle manufacturers. Policy options 2 and 3 were further declined into three
+incremental sub-options from a to c, ranging from moderate to highest increase
+of minimum EU standards for PTI and
+roadside inspections (RSI). All three sub-options have been analysed
+separately. PO 2a increases the scope of RSI beyond checking emissions
+and brakes; sets detailed requirements for the equipment to be used at PTI; puts in place the obligation for government departments to perform regular
+quality checks on PTI centres; includes motorcycles (L3,4,5,7) and
+light trailers (O2) among vehicles to be inspected at PTI; pushes
+forward the date of the first mandatory PTI from the fourth year after
+registration to the third; and sets regular training requirements for
+inspectors, both for PTI and RSI. Policy Option 2b, in addition to Policy Option 2a sets
+higher standards for testing equipment at PTI centres (including for testing
+electronic safety components) and for RSI (testing 15% of vehicles at roadside
+inspections with mobile roadside inspection units); increases the specific
+training requirements for ispectors (PTI and RSI) to 4 days a year; includes
+mopeds (L1,2,6) among vehicles tested at PTI and vans (N1)
+with commercially used small trailers (O1,2) among vehicles tested
+at RSI; increase the testing frequency for older small vehicles (every year
+instead of every two years for M1N1O1,2L3,4,5,7); sets a minimum requirement of 10% of commercially used vehicles being tested at
+RSI; and increases the quality of supervision of PTI centres. Policy Option 2c, in addition to Policy Option 2b,
+introduces emission testing for all categories of vehicles at RSI by the use of
+remote sensing technology with a target of 15% of vehicles tested; expands RSI
+to all categories of vehicles; and increase the frequency of testing of light
+vehicles (M1N1O1,2 L3,4,5,7) to
+yearly counting from the moment of registration and for heavier vehicles to
+every half a year instead of every year for M2,3N2,3O3,4. Initially, also three technical solutions
+for ensuring the exchange of data from and for PTI have been considered: centralised data store; centrally defined data store with full replication of
+all data to each Member State; and centrally defined but regionally
+administered data stores holding local information only. However, preliminary
+analysis indicated that given the particular requirements in the PTI context,
+the first two solutions would be too costly and also suboptimal from an
+operational point of view. For this reason, only the third solution was
+retained for further analysis and incorporated into Policy options 2a-c and
+3a-c.
+Table 1: Summary table of Policy Options
+ || Minimum EU standards for PTI and roadside inspections || Data exchange 
+ Policy Option 0 || No policy change 
+ Policy Option 1 (PO 1) || Soft law 
+ Policy Option 2 || Legislative approach 
+ PO 2a || Moderate increase in the minimum standards for PTI and roadside testing || Data exchange platform 
+ PO 2b || Advanced increase in the minimum standards for PTI and roadside testing 
+ PO 2c || Highest increase in the minimum standards for PTI and roadside testing 
+ Policy Option 3 || Soft law + Legislative approach 
+ PO 3a || PO 2a + PO 1 || PO 2 + PO1 
+ PO 3b || PO 2b + PO 1 
+ PO 3c || PO 2c + PO 1 
+5. Assessment of impacts
+The analysis
+of impacts follows the logic of a partial cost-benefit analysis. The main
+economic, social and environmental impacts are classified according to whether
+they constitute costs or benefits. Of course, what is a cost for one group can
+be a benefit for another: for example additional PTI generate costs for vehicle
+owners and benefits for the garages. The analysis below therefore deals with
+what can be perceived as social costs and benefits. In the end of the
+section, impacts concerning particular stakeholder groups are detailed, i.e.
+impacts on SMEs, citizens and public authorities. All the costs are presented in a monetized
+form. On the benefit side, most of the impacts related to road safety and
+environment were monetized, and gains in term of new jobs created are also
+quantified. However, some important benefits could not be quantified and are
+presented in qualitative terms. The costs are mostly related to: - 
+additional equipment and staff at PTI centres,
+borne by garages which are mostly SMEs; - 
+more frequent tests for a wider range of
+vehicles, borne by vehicle owners; - 
+supervision of garages and setting up the data exchange
+system, borne by public authorities. The benefits are mostly related to: - 
+increased road safety (nearly the totality of
+benefits of each policy option and sub-option); - 
+reduced impact on the environment; - 
+additional employment; - 
+availability of better statistics for policy
+making and better functioning of the internal market. The table below provides a summary of the
+costs and benefits of each of the options.
+The table below provides a summary of the
+costs and benefits of each of the options.
+
+Table 2: Costs and benefits of the different options
+ Policy option || Cost (€ million) || Monetized benefit (€ million) || Monetized benefit/cost ratio || Other benefits 
+ PO1 || 0.28, of which: 0.2: Communication campaigns 0.08: peer reviews || 184 (mostly related to road safety) || 656:1 || Increased average scope and level of PTI and RSI resulting from additional peer reviews and screenings and from the exploration of optimal levels of investment in PTI and roadside testing. PO2a || 459.5, of which: 125: increased testing frequency 150: more vehicle categories tested 95: more staff needed || 1,622 (mostly related to road safety) || 3.53:1 || - 1,450 additional jobs created; - increase in the rate of detected defects thanks to better training of inspectors and supervision of PTI centres; - more "heavy offenders" detected at RSI thanks to targeted roadside inspections; - better enforcement of PTI results by the authorities thanks to data exchange; - better policy making and more reliable second-hand car market thanks to data exchange. PO2b || 3,347, of which: 1,681: increased testing frequency 273: more vehicle categories tested 263: more staff needed || 5,623 (mostly related to road safety) || 1.68:1 || Benefits of PO 2a plus: - 12,000 additional jobs created - increased detection of defects at RSI due to increased scope (target numbers and all vehicle categories checked); - higher increase in the rate of detected defects thanks to better training of inspectors. PO2c || 9,227, of which: 8,541: increased testing frequency 281: more vehicle categories tested 273: more staff needed || 7,027 (mostly related to road safety) || 0.76:1 || Benefits of PO 2b plus: - 34,260 additional jobs created. PO3a || 460, of which: 125: increased testing frequency 150: more vehicle categories tested 95: more staff needed || 1,806 (mostly related to road safety) || 3.93:1 || Benefits of PO 1 plus benefits of PO 2a 
+ PO3b || 3,347, of which: 1,681: increased testing frequency 273: more vehicle categories tested 263: more staff needed || 5,807 (mostly related to road safety) || 1.73:1 || Benefits of PO 1 plus benefits of PO 2b 
+ PO3c || 9,227, of which: 8,541: increased testing frequency 281: more vehicle categories tested 273: more staff needed || 7,211 (mostly related to road safety) || 0.78:1 || Benefits of PO 1 plus benefits of PO 2c 
+6. Comparison of options
+Policy option 1 allows reaching the
+"low hanging fruit", i.e. achieving a limited increase in road safety
+and environment protection at a very low price. It is however far from
+exploiting the full potential of the roadworthiness system in contributing to
+increasing road safety, which is estimated in different studies at 900-1100
+avoided fatalities per year. The tools contained in policy option 2a are far
+more effective, since they allow avoiding 749 fatalities yearly. Policy option
+2b - after taking into account the possible margin of error in the estimation
+of impacts - probably allows unleashing the full potential of roadworthiness
+systems in avoiding accidents, injuries and fatalities. Policy option 2c goes
+beyond what can be considered as the "normal" potential with 1,441
+avoided fatalities, which explains its prohibitive cost. In the light of the above considerations
+and of the EU's overarching goals in terms of road safety, the following
+conclusions can be made: · 
+Policy option 1 is very cost-effective, but does
+not sufficiently contribute to the EU goals on road safety and environment; · 
+Policy option 2a is relatively cost effective
+and allows considerable increases in road safety and environment protection,
+but below what is commonly estimated as the "conventional" potential; · 
+Policy option 2b allows exploiting the
+"conventional" full potential of roadworthiness testing in increasing
+road safety and environment protection, and still has a positive cost-benefit
+ratio; · 
+Policy option 2c allows achieving slightly
+better results than PO 2b, but at a much higher cost (benefit to cost ratio below
+1). · 
+PO 3 in all its versions combines the advantage
+of the cost-efficiency of PO1 with the effectiveness of PO 2. PO 3b is therefore seen as the preferred option. The calculations which are behind this choice
+are relatively robust in termas shown by the results of the sensitivity
+analysis. 7. Monitoring and evaluation
+Within five years after the entry into
+force of all elements of the new legislation (including the set-up of
+the data exchange system), the Commission will report to the Council and the
+Parliament on the effectiveness of the measures in reaching the objectives. In
+particular and in line with the operational objectives, the Commission will
+commission a scientific study to estimate if the number and proportion of
+accidents, injuries, fatalities and emissions attributed to technical defects
+has decreased and to what extent. The Commission will use the results
+extracted form the national risk rating system of road transport companies for
+the monitoring of the compliance of commercial vehicles with the roadworthiness
+requirements and its impact on the number and proportion of accidents related
+to this category of vehicles. The Commission will use the potential
+synergies stemming from the revision of the legislation on type approval for
+motorcycles.[5]
+This new regulation on type-approval for powered two and three wheelers
+foresees requirements on anti-tampering measures. The enforcement of these
+measures, as indicated in the accompanying IA report, will be subject to
+roadworthiness testing (both PTI as well as RSI) and create together with the
+elements related to market surveillance a further input for monitoring. Further synergies will be used for
+monitoring and evaluation in correlation with the recently started preparation
+for a legislative initiative on re-registration[6]. As one of the main problems at re-registration, the availability of data will
+be solved via the Vehicle Administrative Platform, which will provide a deep
+insight into the functionality of the intra EU information exchange and will allow
+real time monitoring of the system.. The Commission will also use the existing
+reporting system for roadside technical inspections, as required by Article 6
+of Directive 2000/30/EC on roadside technical inspections, to monitor that
+Member States perform the required number of inspections of commercial
+vehicles. These reports will also allow to monitor the changes in the frequency
+of occurrence of defects resulting from the enhanced PTI system. [1] The "type-approval" is defined in Directive
+2007/46/EC of the European Parliament and of the Council of 5 September 2007
+establishing a framework for the approval of motor vehicles and their trailers,
+and of systems, components and separate technical units intended for such
+vehicles
+[2] The last amendment was Directive 2010/48/EU. [3] Primes-Tremove, reference scenario. [4] The goal set for the next ten years in the Policy
+Orientations on Road Safety is to reduce yearly fatalities by 50%. [5] Proposal for a Regulation of the European Parliament
+and of the Council on the approval and market surveillance of two- or
+three-wheel vehicles and quadricycles COM(2010)542 final. [6] Registration of motor vehicles previously registered
+in another Member State
+http://ec.europa.eu/enterprise/policies/single-market-goods/files/car_registration/roadmap_en.pdf.

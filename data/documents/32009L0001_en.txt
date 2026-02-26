@@ -1,0 +1,36 @@
+Article 3
+1. Member States shall adopt and publish, by 3 February 2010, at the latest, the laws, regulations and administrative provisions necessary to comply with this Directive.
+
+They shall forthwith communicate to the Commission the text of those provisions. They shall apply those provisions from 4 February 2010. When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made. 2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+recital 4
+(4) The measures provided for in this Directive are in accordance with the opinion of the Committee on the Adaptation to Technical Progress — Motor Vehicles,
+HAS ADOPTED THIS DIRECTIVE:
+recital 3
+(3) In particular, it is appropriate to ensure that competent authorities are able to verify for the purpose of reusability, recyclability and recoverability the existence of contractual arrangements between the vehicle manufacturer concerned and his suppliers and that the requirements for this purpose contained in such arrangements are properly communicated.
+recital 2
+(2) It is necessary to establish the detailed rules enabling to verify, in the framework of the preliminary assessment of the manufacturer referred to in Article 6 of Directive 2005/64/EC, whether the materials used for the construction of a vehicle type comply with the provisions of Article 4(2)(a) of Directive 2000/53/EC of the European Parliament and of the Council of 18 September 2000 on end-of life vehicles (3).
+recital 1
+(1) Directive 2005/64/EC is one of the separate Directives in the context of the EC type-approval procedure established under Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (2).
+citation
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Directive 2005/64/EC of the European Parliament and of the Council of 26 October 2005 on the type-approval of motor vehicles with regard to their reusability, recyclability and recoverability and amending Council Directive 70/156/EEC (1), and in particular the second subparagraph of Article 6(2) thereof,
+Whereas:
+Introduction
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Directive 2005/64/EC of the European Parliament and of the Council of 26 October 2005 on the type-approval of motor vehicles with regard to their reusability, recyclability and recoverability and amending Council Directive 70/156/EEC (1), and in particular the second subparagraph of Article 6(2) thereof,
+Whereas:
+
+(1) Directive 2005/64/EC is one of the separate Directives in the context of the EC type-approval procedure established under Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (2). (2) It is necessary to establish the detailed rules enabling to verify, in the framework of the preliminary assessment of the manufacturer referred to in Article 6 of Directive 2005/64/EC, whether the materials used for the construction of a vehicle type comply with the provisions of Article 4(2)(a) of Directive 2000/53/EC of the European Parliament and of the Council of 18 September 2000 on end-of life vehicles (3). (3) In particular, it is appropriate to ensure that competent authorities are able to verify for the purpose of reusability, recyclability and recoverability the existence of contractual arrangements between the vehicle manufacturer concerned and his suppliers and that the requirements for this purpose contained in such arrangements are properly communicated. (4) The measures provided for in this Directive are in accordance with the opinion of the Committee on the Adaptation to Technical Progress — Motor Vehicles,
+HAS ADOPTED THIS DIRECTIVE:
+Article 5
+This Directive is addressed to the Member States.
+Article 4
+This Directive shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.
+Article 2
+With effect from 1 January 2012, if the requirements laid down in Directive 2005/64/EC as amended by this Directive are not complied with, Member States, on grounds related to the reusability, recyclability and recoverability of motor vehicles, shall refuse to grant EC type-approval or national type-approval for new types of vehicles.
+Article 1
+Annex IV to Directive 2005/64/EC is amended by inserting a new paragraph 4 as follows:
+
+'4.1. For the purposes of preliminary assessment under Article 6 of Directive 2005/64/EC, the vehicle manufacturer shall be required to demonstrate that, through contractual arrangements with his suppliers, compliance with Article 4(2)(a) of Directive 2000/53/EC is ensured. 4.2. For the purposes of preliminary assessment under Article 6 of Directive 2005/64/EC, the vehicle manufacturer shall be required to establish procedures for the following purposes: (a) to communicate the applicable requirements to his staff and to all of his suppliers; (b) to monitor and ensure that suppliers act in accordance with those requirements; (c) to collect the relevant data through the full supply chain; (d) to check and verify the information received from suppliers; (e) to react adequately where the data received from the suppliers indicate non-compliance with the requirements under Article 4(2)(a) of Directive 2000/53/EC. 4.3. For the purposes of paragraph 4.1 and 4.2, the vehicle manufacturer shall be required to use, in agreement with the competent body, ISO 9000/14000 or other standardised quality assurance programme.'

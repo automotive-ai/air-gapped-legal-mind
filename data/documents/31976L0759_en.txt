@@ -1,0 +1,791 @@
+Article 8
+No Member State may refuse or prohibit the sale, registration, entry into service or use of any vehicle on grounds relating to its direction indicator lamps if these bear the EEC component type-approval mark and are fitted in accordance with the requirements laid down in Directive 76/756/EEC.
+
+▼M3
+ANNEX II
+ANNEX II
+TECHNICAL REQUIREMENTS 1. The technical requirements are those set out in paragraphs 1 and 5 to 8 and Annexes 1, 4 and 5 of UN-ECE Regulation No 6 which consists of a consolidation of the following documents: — the 01 series of amendments incorporating Supplements 1 to 5 to the 01 series of amendments and various Corrigenda thereto (
+7
+),
+— supplement 6 to the 01 series of amendments (
+8
+),
+— supplement 7 to the 01 series of amendments (
+9
+),
+except that: 1.1. where reference is made to 'Regulation No 48', this shall be understood as 'Directive 76/756/EEC'. 1.2. where reference is made to 'Regulation No 37', this shall be understood as 'Annex VII to Directive 76/761/EEC'.
+
+| E/ECE/324 | Rev. 1/Add. 5/Rev. 2. |
+|---|---|
+| E/ECE/TRANS/505 | Rev. 1/Add. 5/Rev. 2. |
+
+| E/ECE/324 | Rev. 1/Add. 5/Rev. 2/Amend. 1. |
+|---|---|
+| E/ECE/TRANS/505 | Rev. 1/Add. 5/Rev. 2/Amend. 1. |
+
+(
+9
+) TRANS/WP.29/518
+Introduction
+COUNCIL DIRECTIVEof 27 July 1976on the approximation of the laws of the Member States relating to direction indicator lamps for motor vehicles and their trailers
+(76/759/EEC)
+(OJ L 262, 27.9.1976, p.71)Amended by:
+
+Official Journal
+ No
+page
+date
+ M1
+COUNCIL DIRECTIVE 87/354/EEC of 25 June 1987
+ L 192
+43
+11.7.1987
+ M2
+COMMISSION DIRECTIVE 89/277/EEC of 28 March 1989
+ L 109
+25
+20.4.1989
+ ►M3
+COMMISSION DIRECTIVE 1999/15/EC Text with EEA relevance of 16 March 1999
+ L 97
+14
+12.4.1999
+ ►M4
+COUNCIL DIRECTIVE 2006/96/EC of 20 November 2006
+ L 363
+81
+20.12.2006
+Amended by: A1
+Act of Accession of Greece
+ L 291
+17
+19.11.1979
+ A2
+Act of Accession of Spain and Portugal
+ L 302
+23
+15.11.1985
+ A3
+Act of Accession of Austria, Sweden and Finland
+ C 241
+21
+29.8.1994
+(adapted by Council Decision 95/1/EC, Euratom, ECSC)
+ L 001
+1
+.. ►A4
+Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded
+ L 236
+33
+23.9.2003
+▼B
+COUNCIL DIRECTIVEof 27 July 1976on the approximation of the laws of the Member States relating to direction indicator lamps for motor vehicles and their trailers(76/759/EEC)
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,
+Having regard to the proposal from the Commission,
+Having regard to the opinion of the European Parliament (
+1
+),
+Having regard to the opinion of the Economic and Social Committee (
+2
+),
+Whereas the technical requirements which motor vehicles must satisfy pursuant to national laws relate inter alia to their direction indicator lamps; Whereas those requirements differ from one Member State to another; whereas it is therefore necessary that all Member States adopt the same requirements either in addition to or in place of their existing rules, in order, in particular, to allow the EEC type-approval procedure which was the subject of Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (
+3
+), to be introduced in respect of each type of vehicle; Whereas in Directive 76/756/EEC (
+4
+), the Council laid down the common requirements for the installation of lighting and light-signalling devices on motor vehicles and their trailers; Whereas a harmonized type-approval procedure for direction indicator lamps makes it possible for each Member State to check compliance with the common construction and testing requirements and to inform the other Member States of its findings by sending a copy of the component type-approval certificate completed for each type of direction indicator lamp; whereas the placing of an EEC component type-approval mark on all direction indicator lamps manufactured in conformity with the approved type obviates any need for technical checks on these direction indicator lamps in the other Member States; Whereas, it is desirable to take into account the technical requirements adopted by the UN Economic Commission for Europe in its Regulation No 6 ('Uniform provisions for the approval of direction indicators for motor vehicles (except motor cycles) and their trailers') (
+5
+), which is annexed to the Agreement of 20 March 1958 concerning the adoption of uniform conditions for approval and reciprocal recognition of approval for motor vehicle equipment and parts; Whereas the approximation of national laws relating to motor vehicles entails reciprocal recognition by Member States of the checks carried out by each of them on the basis of the common requirements,
+HAS ADOPTED THIS DIRECTIVE:
+Article 5
+1. If the Member State which has granted EEC component type-approval finds that a number of direction indicator lamps bearing the same EEC component type-approval mark do not conform to the type which it has approved, it shall take the necessary measures to ensure that production models conform to the approved type.
+
+The competent authorities of that State shall advise those of the other Member States of the measures taken, which may, where there is consistent failure to comform, extend to withdrawal of EEC component type-approval. The said authorities shall take the same measures if they are informed by the competent authorities of another Member State of such failure to conform.2. The competent authorities of Member States shall within one month inform each other of any withdrawal of EEC component type-approval, and of the reasons for such a measure.
+Article 2
+▼M3
+Member States shall, for each type of direction indicator lamp which they approve pursuant to Article 1, issue to the manufacturer an EC component type-approval mark conforming to the model shown in Annex I, Appendix 3.
+
+▼B
+Member States shall take all appropriate measures to prevent the use of marks liable to create confusion between direction indicator lamps which have been type-approved pursuant to Article 1, and other devices.
+ANNEX II
+ANNEX II
+TECHNICAL REQUIREMENTS 1. The technical requirements are those set out in paragraphs 1 and 5 to 8 and Annexes 1, 4 and 5 of UN-ECE Regulation No 6 which consists of a consolidation of the following documents: — the 01 series of amendments incorporating Supplements 1 to 5 to the 01 series of amendments and various Corrigenda thereto (
+7
+),
+— supplement 6 to the 01 series of amendments (
+8
+),
+— supplement 7 to the 01 series of amendments (
+9
+),
+except that: 1.1. where reference is made to 'Regulation No 48', this shall be understood as 'Directive 76/756/EEC'. 1.2. where reference is made to 'Regulation No 37', this shall be understood as 'Annex VII to Directive 76/761/EEC'.
+
+| E/ECE/324 | Rev. 1/Add. 5/Rev. 2. |
+|---|---|
+| E/ECE/TRANS/505 | Rev. 1/Add. 5/Rev. 2. |
+
+| E/ECE/324 | Rev. 1/Add. 5/Rev. 2/Amend. 1. |
+|---|---|
+| E/ECE/TRANS/505 | Rev. 1/Add. 5/Rev. 2/Amend. 1. |
+
+(
+9
+) TRANS/WP.29/518
+Introduction
+COUNCIL DIRECTIVEof 27 July 1976on the approximation of the laws of the Member States relating to direction indicator lamps for motor vehicles and their trailers
+(76/759/EEC)
+(OJ L 262, 27.9.1976, p.71)Amended by:
+
+Official Journal
+ No
+page
+date
+ M1
+COUNCIL DIRECTIVE 87/354/EEC of 25 June 1987
+ L 192
+43
+11.7.1987
+ M2
+COMMISSION DIRECTIVE 89/277/EEC of 28 March 1989
+ L 109
+25
+20.4.1989
+ ►M3
+COMMISSION DIRECTIVE 1999/15/EC Text with EEA relevance of 16 March 1999
+ L 97
+14
+12.4.1999
+ ►M4
+COUNCIL DIRECTIVE 2006/96/EC of 20 November 2006
+ L 363
+81
+20.12.2006
+ ►M5
+COUNCIL DIRECTIVE 2013/15/EU of 13 May 2013
+ L 158
+172
+10.6.2013
+Amended by: A1
+ L 291
+17
+19.11.1979
+ A2
+ L 302
+23
+15.11.1985
+ A3
+ C 241
+21
+29.8.1994
+ L 001
+1
+.. ►A4
+ L 236
+33
+23.9.2003
+▼B
+COUNCIL DIRECTIVEof 27 July 1976on the approximation of the laws of the Member States relating to direction indicator lamps for motor vehicles and their trailers(76/759/EEC)
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,
+Having regard to the proposal from the Commission,
+Having regard to the opinion of the European Parliament (
+1
+),
+Having regard to the opinion of the Economic and Social Committee (
+2
+),
+Whereas the technical requirements which motor vehicles must satisfy pursuant to national laws relate inter alia to their direction indicator lamps; Whereas those requirements differ from one Member State to another; whereas it is therefore necessary that all Member States adopt the same requirements either in addition to or in place of their existing rules, in order, in particular, to allow the EEC type-approval procedure which was the subject of Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (
+3
+), to be introduced in respect of each type of vehicle; Whereas in Directive 76/756/EEC (
+4
+), the Council laid down the common requirements for the installation of lighting and light-signalling devices on motor vehicles and their trailers; Whereas a harmonized type-approval procedure for direction indicator lamps makes it possible for each Member State to check compliance with the common construction and testing requirements and to inform the other Member States of its findings by sending a copy of the component type-approval certificate completed for each type of direction indicator lamp; whereas the placing of an EEC component type-approval mark on all direction indicator lamps manufactured in conformity with the approved type obviates any need for technical checks on these direction indicator lamps in the other Member States; Whereas, it is desirable to take into account the technical requirements adopted by the UN Economic Commission for Europe in its Regulation No 6 ('Uniform provisions for the approval of direction indicators for motor vehicles (except motor cycles) and their trailers') (
+5
+), which is annexed to the Agreement of 20 March 1958 concerning the adoption of uniform conditions for approval and reciprocal recognition of approval for motor vehicle equipment and parts; Whereas the approximation of national laws relating to motor vehicles entails reciprocal recognition by Member States of the checks carried out by each of them on the basis of the common requirements,
+HAS ADOPTED THIS DIRECTIVE:
+Article 11
+1. Member States shall adopt and publish the provisions necessary in order to comply with this Directive before 1 July 1977 and shall forthwith inform the Commission thereof.
+
+They shall apply these provisions from 1 October 1977 at the latest.2. Once this Directive has been notified, the Member States shall also ensure that the Commission is informed, in sufficient time for it to submit its comments, of any draft laws, regulations or administrative provisions which they propose to adopt in the field covered by this Directive.
+Article 5
+1. If the Member State which has granted EEC component type-approval finds that a number of direction indicator lamps bearing the same EEC component type-approval mark do not conform to the type which it has approved, it shall take the necessary measures to ensure that production models conform to the approved type.
+
+The competent authorities of that State shall advise those of the other Member States of the measures taken, which may, where there is consistent failure to comform, extend to withdrawal of EEC component type-approval. The said authorities shall take the same measures if they are informed by the competent authorities of another Member State of such failure to conform.2. The competent authorities of Member States shall within one month inform each other of any withdrawal of EEC component type-approval, and of the reasons for such a measure.
+Article 2
+▼M3
+Member States shall, for each type of direction indicator lamp which they approve pursuant to Article 1, issue to the manufacturer an EC component type-approval mark conforming to the model shown in Annex I, Appendix 3.
+
+▼B
+Member States shall take all appropriate measures to prevent the use of marks liable to create confusion between direction indicator lamps which have been type-approved pursuant to Article 1, and other devices.
+COUNCIL DIRECTIVE
+of 27 July 1976
+on the approximation of the laws of the Member States relating to direction indicator lamps for motor vehicles and their trailers
+Consolidated TEXT: 31976L0759 — EN — 01.11.2014
+Top
+1976L0759 — EN — 01.11.2014 — 010.001
+This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents
+►B
+COUNCIL DIRECTIVE
+of 27 July 1976
+on the approximation of the laws of the Member States relating to direction indicator lamps for motor vehicles and their trailers
+(76/759/EEC)
+(OJ L 262, 27.9.1976, p.71)
+repealed by:
+
+Official Journal
+No
+page
+date
+Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009
+L 200
+1
+31.7.2009
+Article 10
+Any amendments necessary to adjust the requirements of the Annexes to take account of technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 70/156/EEC.
+Article 7
+No Member State may refuse to grant EEC type-approval or national type-approval of a vehicle on grounds relating to its direction indicator lamps if these bear the EEC component type-approval mark and are fitted in accordance with the requirements laid down in Directive 76/756/EEC.
+Article 4
+The competent authorities of the Member States shall inform each other, by means of the procedures specified in Article 4(6) of Directive 70/156/EEC, of each approval which they have granted, refused or withdrawn pursuant to this Directive.
+
+▼B
+Article 1
+▼M3
+1. Each Member State shall grant EC component type-approval for any type of direction indicator lamp which satisfies the construction and testing requirements laid down in the relevant Annexes.
+
+▼B
+2. The Member State which has granted EEC component type-approval shall take the measures required in order to verify that production models conform to the approved type, in so far as this is necessary and if need be in cooperation with the competent authorities in the other Member States. Such verification shall be limited to spot checks.
+Council Directive 76/759/EEC of 27 July 1976 on the approximation of the laws of the Member States relating to direction indicator lamps for motor vehicles and their trailers
+COUNCIL DIRECTIVE of 27 July 1976 on the approximation of the laws of the Member States relating to direction indicator lamps for motor vehicles and their trailers (76/759/EEC) THE COUNCIL OF THE EUROPEAN COMMUNITIES, Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof, Having regard to the proposal from the Commission, Having regard to the opinion of the European Parliament (1), Having regard to the opinion of the Economic and Social Committee (2), Whereas the technical requirements which motor vehicles must satisfy pursuant to national laws relate inter alia to their direction indicator lamps; Whereas those requirements differ from one Member State to another ; whereas it is therefore necessary that all Member States adopt the same requirements either in addition to or in place of their existing rules, in order, in particular, to allow the EEC type-approval procedure which was the subject of Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (3), to be introduced in respect of each type of vehicle; Whereas in Directive 76/756/EEC (4), the Council laid down the common requirements for the installation of lighting and light-signalling devices on motor vehicles and their trailers; Whereas a harmonized type-approval procedure for direction indicator lamps makes it possible for each Member State to check compliance with the common construction and testing requirements and to inform the other Member States of its findings by sending a copy of the component type-approval certificate completed for each type of direction indicator lamp ; whereas the placing of an EEC component type-approval mark on all direction indicator lamps manufactured in conformity with the approved type obviates any need for technical checks on these direction indicator lamps in the other Member States; Whereas, it is desirable to take into account the technical requirements adopted by the UN Economic Commission for Europe in its Regulation No 6 ("Uniform provisions for the approval of direction indicators for motor vehicles (except motor cycles) and their trailers") (5), which is annexed to the Agreement of 20 March 1958 concerning the adoption of uniform conditions for approval and reciprocal recognition of approval for motor vehicle equipment and parts; Whereas the approximation of national laws relating to motor vehicles entails reciprocal recognition by Member States of the checks carried out by each of them on the basis of the common requirements, HAS ADOPTED THIS DIRECTIVE: Article 1 1. Each Member State shall grant EEC component type-approval for any type of direction indicator lamp which satisfies the construction and testing requirements laid down in Annexes 0, I, III, IV and V. 2.
+
+The Member State which has granted EEC component type-approval shall take the measures required in order to verify that production models conform to the approved type, in so far as this is necessary and if need be in cooperation with the competent authorities in the other Member States. Such verification shall be limited to spot checks. (1)OJ No 28, 17.2.1967, p. 458/67. (2)OJ No 224, 5.12.1966, p. 3802/66. (3)OJ No L 42, 23.2.1970, p. 1. (4)See page 1 of this Official Journal. (5)Economic Commission for Europe, Document E/ECE/324, Addendum 5 of 22 May 1967. Article 2 Member States shall, for each type of direction indicator lamp which they approve pursuant to Article 1, issue to the manufacturer, or to his authorized representative, an EEC component type-approval mark conforming to the model shown in Annex III. Member States shall take all appropriate measures to prevent the use of marks liable to create confusion between direction indicator lamps which have been type-approved pursuant to Article 1, and other devices. Article 3 1. No Member State may prohibit the placing on the market of direction indicator lamps on grounds relating to their construction or method of functioning if they bear the EEC component type-approval mark. 2. Nevertheless, a Member State may prohibit the placing on the market of direction indicator lamps bearing the EEC component type-approval mark which consistently fail to conform to the approved type. That State shall forthwith inform the other Member States and the Commission of the measures taken, specifying the reasons for its decision. Article 4 The competent authorities of each Member State shall within one month send to the competent authorities of the other Member States a copy of the component type-approval certificates, an example of which is given in Annex II, completed for each type of direction indicator lamp which they approve or refuse to approve. Article 5 1. If the Member State which has granted EEC component type-approval finds that a number of direction indicator lamps bearing the same EEC component type-approval mark do not conform to the type which it has approved, it shall take the necessary measures to ensure that production models conform to the approved type. The competent authorities of that State shall advise those of the other Member States of the measures taken, which may, where there is consistent failure to conform, extend to withdrawal of EEC component type-approval. The said authorities shall take the same measures if they are informed by the competent authorities of another Member State of such failure to conform. 2. The competent authorities of Member States shall within one month inform each other of any withdrawal of EEC component type-approval, and of the reasons for such a measure. Article 6 Any decision taken pursuant to the provisions adopted in implementation of this Directive to refuse or withdraw component type-approval for a direction indicator lamp or prohibit its placing on the market or use shall set out in detail the reasons on which it is based. Such decisions shall be notified to the party concerned, who shall at the time be informed of the remedies available to him under the laws in force in the Member States and of the time limits allowed for the exercise of such remedies. Article 7 No Member State may refuse to grant EEC type-approval or national type-approval of a vehicle on grounds relating to its direction indicator lamps if these bear the EEC component type-approval mark and are fitted in accordance with the requirements laid down in Directive 76/756/EEC. Article 8 No Member State may refuse or prohibit the sale, registration, entry into service or use of any vehicle on grounds relating to its direction indicator lamps if these bear the EEC component type-approval mark and are fitted in accordance with the requirements laid down in Directive 76/756/EEC. Article 9 For the purposes of this Directive, "vehicle" means any motor vehicle intended for use on the road, with or without bodywork, having at least four wheels and a maximum design speed exceeding 25 km/h, and its trailers, with the exception or vehicles which run on rails, agricultural tractors and machinery and public works vehicles. Article 10 Any amendments necessary to adjust the requirements of the Annexes to take account of technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 70/156/EEC. Article 11 1. Member States shall adopt and publish the provisions necessary in order to comply with this Directive before 1 July 1977 and shall forthwith inform the Commission thereof. They shall apply these provisions from 1 October 1977 at the latest.
+Article 3
+1. No Member State may prohibit the placing on the market of direction indicator lamps on grounds relating to their construction or method of functioning if they bear the EEC component type-approval mark.2.
+
+Nevertheless, a Member State may prohibit the placing on the market of direction indicator lamps bearing the EEC component type-approval mark which consistently fail to conform to the approved type.That State shall forthwith inform the other Member States and the Commission of the measures taken, specifying the reasons for its decision. ▼M3
+Article 9
+For the purposes of this Directive, 'vehicle' means any motor vehicle intended for use on the road, with or without bodywork, having at least four wheels and a maximum design speed exceeding 25 km/h, and its trailers, with the exception of vehicles which run on rails and of agricultural and forestry tractors and all mobile machinery.
+
+▼B
+Article 8
+No Member State may refuse or prohibit the sale, registration, entry into service or use of any vehicle on grounds relating to its direction indicator lamps if these bear the EEC component type-approval mark and are fitted in accordance with the requirements laid down in Directive 76/756/EEC.
+
+▼M3
+Article 7
+No Member State may refuse to grant EEC type-approval or national type-approval of a vehicle on grounds relating to its direction indicator lamps if these bear the EEC component type-approval mark and are fitted in accordance with the requirements laid down in Directive 76/756/EEC.
+Article 4
+The competent authorities of the Member States shall inform each other, by means of the procedures specified in Article 4(6) of Directive 70/156/EEC, of each approval which they have granted, refused or withdrawn pursuant to this Directive.
+
+▼B
+Article 1
+▼M3
+1. Each Member State shall grant EC component type-approval for any type of direction indicator lamp which satisfies the construction and testing requirements laid down in the relevant Annexes.
+
+▼B
+2. The Member State which has granted EEC component type-approval shall take the measures required in order to verify that production models conform to the approved type, in so far as this is necessary and if need be in cooperation with the competent authorities in the other Member States. Such verification shall be limited to spot checks.
+6. CONFORMITY OF PRODUCTION
+ANNEX I
+6. CONFORMITY OF PRODUCTION
+ADMINISTRATIVE PROVISIONS FOR TYPE APPROVAL
+1.1. The application for EC component type-approval pursuant to Article 3(4) of Directive 70/156/EEC of a type of direction indicator lamp shall be submitted by the manufacturer.
+
+1.2. A model for the information document is given in Appendix 1. 
+1.3. The following must be submitted to the technical service responsible for conducting the type-approval tests: 1.3.1. Two samples equipped with the lamp or lamps recommended; if the devices are not identical but are symmetrical and suitable for mounting one on the left and one on the right side of the vehicle, the two samples submitted may be identical and be suitable for mounting only on the right or only on the left side of the vehicle; for a direction indicator of category 2b, the application shall also be accompanied by two samples of the parts constituting the system which ensures the two levels of intensity. 2.1. The devices submitted for EC component type approval must bear: 2.1.1. the trade name or mark of the manufacturer; 2.1.2. in the case of lamps with replaceable light sources: the type(s) of filament lamp prescribed; 2.1.3. in the case of lamps with non-replaceable light sources: the nominal voltage and wattage. 2.2. These markings shall be clearly legible and indelible and shall be affixed to the illuminating surface, or to one of the illuminating surfaces, of the device. They shall be visible from the exterior when the device is fitted to the vehicle. 2.3. Each device shall have sufficient space for the component type-approval mark. This space shall be indicated on the drawings referred to in Appendix 1. 
+3.1. If the relevant requirements are satisfied, EC type-approval pursuant to Article 4(3) and, if applicable, Article 4(4) of Directive 70/156/EEC shall be granted. 3.2. A model for the EC type-approval certificate is given in Appendix 2. 
+3.3. An approval number in accordance with Annex VII to Directive 70/156/EEC shall be assigned to each type of direction indicator lamp approved. The same Member State shall not assign the same number to another type of direction indicator lamp. 3.4. Where EC component type approval is requested for a type of lighting and light-signalling device comprising a direction indicator lamp and other lamps, a single EC component type-approval number may be assigned provided that the direction indicator lamp complies with the requirements of this Directive and that each of the other lamps forming part of the lighting and light-signalling device for which EC component type approval is requested complies with the separate Directive applying to it. 4.1. In addition to the markings referred to in item 2.1., every direction indicator lamp conforming to the type approved pursuant to this Directive shall bear an EC component type-approval mark. 4.2. This mark shall consist of: 4.2.1. a rectangle surrounding the letter 'e' followed by the distinguishing number or letters of the Member State which has granted type approval: 1
+for Germany
+2
+for France
+3
+for Italy
+4
+for the Netherlands
+5
+for Sweden
+6
+for Belgium
+▼A4
+7
+for Hungary
+8
+for the Czech Republic
+▼M3
+9
+for Spain
+11
+for the United Kingdom
+12
+for Austria
+13
+for Luxembourg
+17
+for Finland
+18
+for Denmark
+▼M4
+19
+for Romania
+▼A4
+20
+for Poland
+▼M3
+21
+for Portugal
+23
+for Greece
+▼A4
+26
+for Slovenia
+27
+for Slovakia
+29
+for Estonia
+32
+for Latvia
+▼M4
+34
+for Bulgaria
+▼A4
+36
+for Lithuania
+CY
+for Cyprus
+▼M3
+IRL
+for Ireland; ▼A4
+MT
+for Malta; ▼M3
+4.2.2. in the vicinity of the rectangle the 'base approval number' contained in section 4 of the type-approval number referred to in Annex VII to Directive 70/156/EEC, preceded by the two figures indicating the sequence number assigned to the most recent major technical amendment to Directive 76/759/EEC on the date EEC type approval was granted. In this Directive the sequence number is 01; 4.2.3. additional symbols as follows: 4.2.3.1. one or more of the numbers: 1, 1a, 1b, 2a, 2b, 3, 4, 5, or 6, according to whether the device belongs to one or more categories 1, 1a, 1b, 2a, 2b, 3, 4, 5, or 6;
+4.2.3.2. on devices which cannot be mounted on either side of the vehicle indiscriminately, an arrow showing in which position the device is to be mounted (the arrow shall be directed outwards from the vehicle in the case of devices of categories 1, 1a, 1b, 2a and 2b and towards the front of the vehicle in the case of devices of categories 3, 4, 5 and 6). In addition, for devices of category 6 an indication 'R' or 'L' shall in this case be shown on the device, indicating the right or left side of the vehicle; 4.2.3.3. on devices which may be used as a single lamp and as part of an assembly of two lamps, the additional letter 'D' to the right side of the symbol mentioned in paragraph 4.2.3.1.; 4.3. The EC component type-approval mark shall be affixed to the lens of the lamp or one of the lenses in such a way as to be indelible and clearly legible even when the lamps are fitted to the vehicle. 4.4. Arrangement of the approval mark. 4.4.1. Independent lamps: Examples of the EC component type-approval mark are given in Appendix 3, Figure 1. 4.4.2. Grouped, combined or reciprocally incorporated lamps: 4.4.2.1. Where a single EC component type-approval number is issued, as per item 3.4. above, for a type of lighting and light-signalling device comprising a direction indicator lamp and other lamps, a single EC component type-approval mark may be affixed, consisting of: 4.4.2.1.1. a rectangle surrounding the letter 'e' followed by the distinguishing number or letters of the Member State which has granted type approval (see item 4.2.1.);
+4.4.2.1.2. the base approval number (see item 4.2.2., first half-sentence); 4.4.2.1.3. if necessary, the required arrow, in so far as it relates to the lamp assembly as a whole. 4.4.2.2. This mark may be located anywhere on the lamps which are grouped, combined or reciprocally incorporated, provided that: 4.4.2.2.1. it is visible after the installation of the lamps; 4.4.2.2.2. no light-transmitting components of the grouped, combined or reciprocally incorporated lamps can be removed without simultaneously removing the approval mark. 4.4.2.3. The identification symbol for each lamp corresponding to each Directive pursuant to which EC component type approval was granted, together with the sequence number (see item 4.2.2., second half-sentence) and, where necessary, the letter 'D' and the required arrow shall be marked: 4.4.2.3.1. either on the appropriate light-emitting surface; 4.4.2.3.2. or in a group, in such a way that each of the grouped, combined or reciprocally incorporated lamps may be clearly identified. 4.4.2.4. The dimensions of the components of this mark must not be less than the minimum dimensions specified for individual marks by the various Directives pursuant to which EC component type approval was granted. 4.4.2.5. Examples of an EC component type-approval mark for a lamp that is grouped, combined or reciprocally incorporated with other lamps are given in Appendix 3, Figure 2. 4.4.3. Lamps reciprocally incorporated with other lamps, of which the lens may also be used for other types of headlamps: 4.4.3.1. the provisions laid down in point 4.4.2. shall apply; 4.4.3.2. in addition, where the same lens is used, the latter may bear the different approval marks relating to the different types of headlamps or units of lamps, provided that the main body of the headlamp, even if it cannot be separated from the lens, also comprises the space described in point 2.3. and bears the approval marks of the actual functions; 4.4.3.3. if different types of headlamps comprise the same main body, the latter may bear the different approval marks.
+Article 6
+Any decision taken pursuant to the provisions adopted in implementation of this Directive to refuse or withdraw component type-approval for a direction indicator lamp or prohibit its placing on the market or use shall set out in detail the reasons on which it is based.
+
+Such decisions shall be notified to the party concerned, who shall at the time be informed of the remedies available to him under the laws in force in the Member States and of the time limits allowed for the exercise of such remedies.
+Article 11
+1. Member States shall adopt and publish the provisions necessary in order to comply with this Directive before 1 July 1977 and shall forthwith inform the Commission thereof.
+
+They shall apply these provisions from 1 October 1977 at the latest.2. Once this Directive has been notified, the Member States shall also ensure that the Commission is informed, in sufficient time for it to submit its comments, of any draft laws, regulations or administrative provisions which they propose to adopt in the field covered by this Directive.
+6. CONFORMITY OF PRODUCTION
+ANNEX I
+6. CONFORMITY OF PRODUCTION
+ADMINISTRATIVE PROVISIONS FOR TYPE APPROVAL
+1.1. The application for EC component type-approval pursuant to Article 3(4) of Directive 70/156/EEC of a type of direction indicator lamp shall be submitted by the manufacturer.
+
+1.2. A model for the information document is given in Appendix 1. 
+1.3. The following must be submitted to the technical service responsible for conducting the type-approval tests: 1.3.1. Two samples equipped with the lamp or lamps recommended; if the devices are not identical but are symmetrical and suitable for mounting one on the left and one on the right side of the vehicle, the two samples submitted may be identical and be suitable for mounting only on the right or only on the left side of the vehicle; for a direction indicator of category 2b, the application shall also be accompanied by two samples of the parts constituting the system which ensures the two levels of intensity. 2.1. The devices submitted for EC component type approval must bear: 2.1.1. the trade name or mark of the manufacturer; 2.1.2. in the case of lamps with replaceable light sources: the type(s) of filament lamp prescribed; 2.1.3. in the case of lamps with non-replaceable light sources: the nominal voltage and wattage. 2.2. These markings shall be clearly legible and indelible and shall be affixed to the illuminating surface, or to one of the illuminating surfaces, of the device. They shall be visible from the exterior when the device is fitted to the vehicle. 2.3. Each device shall have sufficient space for the component type-approval mark. This space shall be indicated on the drawings referred to in Appendix 1. 
+3.1. If the relevant requirements are satisfied, EC type-approval pursuant to Article 4(3) and, if applicable, Article 4(4) of Directive 70/156/EEC shall be granted. 3.2. A model for the EC type-approval certificate is given in Appendix 2. 
+3.3. An approval number in accordance with Annex VII to Directive 70/156/EEC shall be assigned to each type of direction indicator lamp approved. The same Member State shall not assign the same number to another type of direction indicator lamp. 3.4. Where EC component type approval is requested for a type of lighting and light-signalling device comprising a direction indicator lamp and other lamps, a single EC component type-approval number may be assigned provided that the direction indicator lamp complies with the requirements of this Directive and that each of the other lamps forming part of the lighting and light-signalling device for which EC component type approval is requested complies with the separate Directive applying to it. 4.1. In addition to the markings referred to in item 2.1., every direction indicator lamp conforming to the type approved pursuant to this Directive shall bear an EC component type-approval mark. 4.2. This mark shall consist of: 4.2.1. a rectangle surrounding the letter 'e' followed by the distinguishing number or letters of the Member State which has granted type approval: 1
+for Germany
+2
+for France
+3
+for Italy
+4
+for the Netherlands
+5
+for Sweden
+6
+for Belgium
+▼A4
+7
+for Hungary
+8
+for the Czech Republic
+▼M3
+9
+for Spain
+11
+for the United Kingdom
+12
+for Austria
+13
+for Luxembourg
+17
+for Finland
+18
+for Denmark
+▼M4
+19
+for Romania
+▼A4
+20
+for Poland
+▼M3
+21
+for Portugal
+23
+for Greece
+▼M5
+25
+for Croatia
+▼A4
+26
+for Slovenia
+27
+for Slovakia
+29
+for Estonia
+32
+for Latvia
+▼M4
+34
+for Bulgaria
+▼A4
+36
+for Lithuania
+CY
+for Cyprus
+▼M3
+IRL
+for Ireland; ▼A4
+MT
+for Malta; ▼M3
+4.2.2. in the vicinity of the rectangle the 'base approval number' contained in section 4 of the type-approval number referred to in Annex VII to Directive 70/156/EEC, preceded by the two figures indicating the sequence number assigned to the most recent major technical amendment to Directive 76/759/EEC on the date EEC type approval was granted. In this Directive the sequence number is 01; 4.2.3. additional symbols as follows: 4.2.3.1. one or more of the numbers: 1, 1a, 1b, 2a, 2b, 3, 4, 5, or 6, according to whether the device belongs to one or more categories 1, 1a, 1b, 2a, 2b, 3, 4, 5, or 6;
+4.2.3.2. on devices which cannot be mounted on either side of the vehicle indiscriminately, an arrow showing in which position the device is to be mounted (the arrow shall be directed outwards from the vehicle in the case of devices of categories 1, 1a, 1b, 2a and 2b and towards the front of the vehicle in the case of devices of categories 3, 4, 5 and 6). In addition, for devices of category 6 an indication 'R' or 'L' shall in this case be shown on the device, indicating the right or left side of the vehicle; 4.2.3.3. on devices which may be used as a single lamp and as part of an assembly of two lamps, the additional letter 'D' to the right side of the symbol mentioned in paragraph 4.2.3.1.; 4.3. The EC component type-approval mark shall be affixed to the lens of the lamp or one of the lenses in such a way as to be indelible and clearly legible even when the lamps are fitted to the vehicle. 4.4. Arrangement of the approval mark. 4.4.1. Independent lamps: Examples of the EC component type-approval mark are given in Appendix 3, Figure 1. 4.4.2. Grouped, combined or reciprocally incorporated lamps: 4.4.2.1. Where a single EC component type-approval number is issued, as per item 3.4. above, for a type of lighting and light-signalling device comprising a direction indicator lamp and other lamps, a single EC component type-approval mark may be affixed, consisting of: 4.4.2.1.1. a rectangle surrounding the letter 'e' followed by the distinguishing number or letters of the Member State which has granted type approval (see item 4.2.1.);
+4.4.2.1.2. the base approval number (see item 4.2.2., first half-sentence); 4.4.2.1.3. if necessary, the required arrow, in so far as it relates to the lamp assembly as a whole. 4.4.2.2. This mark may be located anywhere on the lamps which are grouped, combined or reciprocally incorporated, provided that: 4.4.2.2.1. it is visible after the installation of the lamps; 4.4.2.2.2. no light-transmitting components of the grouped, combined or reciprocally incorporated lamps can be removed without simultaneously removing the approval mark. 4.4.2.3. The identification symbol for each lamp corresponding to each Directive pursuant to which EC component type approval was granted, together with the sequence number (see item 4.2.2., second half-sentence) and, where necessary, the letter 'D' and the required arrow shall be marked: 4.4.2.3.1. either on the appropriate light-emitting surface; 4.4.2.3.2. or in a group, in such a way that each of the grouped, combined or reciprocally incorporated lamps may be clearly identified. 4.4.2.4. The dimensions of the components of this mark must not be less than the minimum dimensions specified for individual marks by the various Directives pursuant to which EC component type approval was granted. 4.4.2.5. Examples of an EC component type-approval mark for a lamp that is grouped, combined or reciprocally incorporated with other lamps are given in Appendix 3, Figure 2. 4.4.3. Lamps reciprocally incorporated with other lamps, of which the lens may also be used for other types of headlamps: 4.4.3.1. the provisions laid down in point 4.4.2. shall apply; 4.4.3.2. in addition, where the same lens is used, the latter may bear the different approval marks relating to the different types of headlamps or units of lamps, provided that the main body of the headlamp, even if it cannot be separated from the lens, also comprises the space described in point 2.3. and bears the approval marks of the actual functions; 4.4.3.3. if different types of headlamps comprise the same main body, the latter may bear the different approval marks.
+Article 12
+This Directive is addressed to the Member States.
+
+▼M3
+LIST OF ANNEXES
+ANNEX I: Administrative provisions for type approval
+Appendix 1: Information document
+Appendix 2:
+Type-approval certificate
+Appendix 3: Models of the EC component type-approval mark
+ANNEX II: Technical requirements
+ANNEX IADMINISTRATIVE PROVISIONS FOR TYPE APPROVAL1. APPLICATION FOR EC COMPONENT TYPE-APPROVAL
+1.1. The application for EC component type-approval pursuant to Article 3(4) of Directive 70/156/EEC of a type of direction indicator lamp shall be submitted by the manufacturer. 1.2. A model for the information document is given in Appendix 1. 
+1.3. The following must be submitted to the technical service responsible for conducting the type-approval tests: 1.3.1. Two samples equipped with the lamp or lamps recommended; if the devices are not identical but are symmetrical and suitable for mounting one on the left and one on the right side of the vehicle, the two samples submitted may be identical and be suitable for mounting only on the right or only on the left side of the vehicle; for a direction indicator of category 2b, the application shall also be accompanied by two samples of the parts constituting the system which ensures the two levels of intensity. 2. MARKINGS
+2.1. The devices submitted for EC component type approval must bear: 2.1.1. the trade name or mark of the manufacturer; 2.1.2. in the case of lamps with replaceable light sources: the type(s) of filament lamp prescribed; 2.1.3. in the case of lamps with non-replaceable light sources: the nominal voltage and wattage. 2.2. These markings shall be clearly legible and indelible and shall be affixed to the illuminating surface, or to one of the illuminating surfaces, of the device. They shall be visible from the exterior when the device is fitted to the vehicle. 2.3. Each device shall have sufficient space for the component type-approval mark. This space shall be indicated on the drawings referred to in Appendix 1. 3. GRANTING OF EC COMPONENT TYPE-APPROVAL
+3.1. If the relevant requirements are satisfied, EC type-approval pursuant to Article 4(3) and, if applicable, Article 4(4) of Directive 70/156/EEC shall be granted. 3.2. A model for the EC type-approval certificate is given in Appendix 2. 
+3.3. An approval number in accordance with Annex VII to Directive 70/156/EEC shall be assigned to each type of direction indicator lamp approved. The same Member State shall not assign the same number to another type of direction indicator lamp. 3.4. Where EC component type approval is requested for a type of lighting and light-signalling device comprising a direction indicator lamp and other lamps, a single EC component type-approval number may be assigned provided that the direction indicator lamp complies with the requirements of this Directive and that each of the other lamps forming part of the lighting and light-signalling device for which EC component type approval is requested complies with the separate Directive applying to it. 4. EC COMPONENT TYPE-APPROVAL MARK
+4.1. In addition to the markings referred to in item 2.1., every direction indicator lamp conforming to the type approved pursuant to this Directive shall bear an EC component type-approval mark. 4.2. This mark shall consist of: 4.2.1. a rectangle surrounding the letter 'e' followed by the distinguishing number or letters of the Member State which has granted type approval: 1
+for Germany
+2
+for France
+3
+for Italy
+4
+for the Netherlands
+5
+for Sweden
+6
+for Belgium
+▼A4
+7
+for Hungary
+8
+for the Czech Republic
+▼M3
+9
+for Spain
+11
+for the United Kingdom
+12
+for Austria
+13
+for Luxembourg
+17
+for Finland
+18
+for Denmark
+▼M4
+19
+for Romania
+▼A4
+20
+for Poland
+▼M3
+21
+for Portugal
+23
+for Greece
+▼M5
+25
+for Croatia
+▼A4
+26
+for Slovenia
+27
+for Slovakia
+29
+for Estonia
+32
+for Latvia
+▼M4
+34
+for Bulgaria
+▼A4
+36
+for Lithuania
+CY
+for Cyprus
+▼M3
+IRL
+for Ireland; ▼A4
+MT
+for Malta; ▼M3
+4.2.2. in the vicinity of the rectangle the 'base approval number' contained in section 4 of the type-approval number referred to in Annex VII to Directive 70/156/EEC, preceded by the two figures indicating the sequence number assigned to the most recent major technical amendment to Directive 76/759/EEC on the date EEC type approval was granted. In this Directive the sequence number is 01; 4.2.3. additional symbols as follows: 4.2.3.1. one or more of the numbers: 1, 1a, 1b, 2a, 2b, 3, 4, 5, or 6, according to whether the device belongs to one or more categories 1, 1a, 1b, 2a, 2b, 3, 4, 5, or 6;
+4.2.3.2. on devices which cannot be mounted on either side of the vehicle indiscriminately, an arrow showing in which position the device is to be mounted (the arrow shall be directed outwards from the vehicle in the case of devices of categories 1, 1a, 1b, 2a and 2b and towards the front of the vehicle in the case of devices of categories 3, 4, 5 and 6). In addition, for devices of category 6 an indication 'R' or 'L' shall in this case be shown on the device, indicating the right or left side of the vehicle; 4.2.3.3. on devices which may be used as a single lamp and as part of an assembly of two lamps, the additional letter 'D' to the right side of the symbol mentioned in paragraph 4.2.3.1.; 4.3. The EC component type-approval mark shall be affixed to the lens of the lamp or one of the lenses in such a way as to be indelible and clearly legible even when the lamps are fitted to the vehicle. 4.4. Arrangement of the approval mark. 4.4.1. Independent lamps: Examples of the EC component type-approval mark are given in Appendix 3, Figure 1. 4.4.2. Grouped, combined or reciprocally incorporated lamps: 4.4.2.1. Where a single EC component type-approval number is issued, as per item 3.4. above, for a type of lighting and light-signalling device comprising a direction indicator lamp and other lamps, a single EC component type-approval mark may be affixed, consisting of: 4.4.2.1.1. a rectangle surrounding the letter 'e' followed by the distinguishing number or letters of the Member State which has granted type approval (see item 4.2.1.);
+4.4.2.1.2. the base approval number (see item 4.2.2., first half-sentence); 4.4.2.1.3. if necessary, the required arrow, in so far as it relates to the lamp assembly as a whole. 4.4.2.2. This mark may be located anywhere on the lamps which are grouped, combined or reciprocally incorporated, provided that: 4.4.2.2.1. it is visible after the installation of the lamps; 4.4.2.2.2. no light-transmitting components of the grouped, combined or reciprocally incorporated lamps can be removed without simultaneously removing the approval mark. 4.4.2.3. The identification symbol for each lamp corresponding to each Directive pursuant to which EC component type approval was granted, together with the sequence number (see item 4.2.2., second half-sentence) and, where necessary, the letter 'D' and the required arrow shall be marked: 4.4.2.3.1. either on the appropriate light-emitting surface; 4.4.2.3.2. or in a group, in such a way that each of the grouped, combined or reciprocally incorporated lamps may be clearly identified. 4.4.2.4. The dimensions of the components of this mark must not be less than the minimum dimensions specified for individual marks by the various Directives pursuant to which EC component type approval was granted. 4.4.2.5. Examples of an EC component type-approval mark for a lamp that is grouped, combined or reciprocally incorporated with other lamps are given in Appendix 3, Figure 2. 4.4.3. Lamps reciprocally incorporated with other lamps, of which the lens may also be used for other types of headlamps: 4.4.3.1. the provisions laid down in point 4.4.2. shall apply;
+Article 9
+For the purposes of this Directive, 'vehicle' means any motor vehicle intended for use on the road, with or without bodywork, having at least four wheels and a maximum design speed exceeding 25 km/h, and its trailers, with the exception of vehicles which run on rails and of agricultural and forestry tractors and all mobile machinery.
+
+▼B
+Article 6
+Any decision taken pursuant to the provisions adopted in implementation of this Directive to refuse or withdraw component type-approval for a direction indicator lamp or prohibit its placing on the market or use shall set out in detail the reasons on which it is based.
+
+Such decisions shall be notified to the party concerned, who shall at the time be informed of the remedies available to him under the laws in force in the Member States and of the time limits allowed for the exercise of such remedies.
+Article 3
+1. No Member State may prohibit the placing on the market of direction indicator lamps on grounds relating to their construction or method of functioning if they bear the EEC component type-approval mark.2.
+
+Nevertheless, a Member State may prohibit the placing on the market of direction indicator lamps bearing the EEC component type-approval mark which consistently fail to conform to the approved type.That State shall forthwith inform the other Member States and the Commission of the measures taken, specifying the reasons for its decision. ▼M3
+Article 10
+Any amendments necessary to adjust the requirements of the Annexes to take account of technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 70/156/EEC.
+Article 12
+This Directive is addressed to the Member States.
+
+▼M3
+LIST OF ANNEXES
+ANNEX I: Administrative provisions for type approval
+Appendix 1: Information document
+Appendix 2:
+Type-approval certificate
+Appendix 3: Models of the EC component type-approval mark
+ANNEX II: Technical requirements
+ANNEX IADMINISTRATIVE PROVISIONS FOR TYPE APPROVAL1. APPLICATION FOR EC COMPONENT TYPE-APPROVAL
+1.1. The application for EC component type-approval pursuant to Article 3(4) of Directive 70/156/EEC of a type of direction indicator lamp shall be submitted by the manufacturer. 1.2. A model for the information document is given in Appendix 1. 
+1.3. The following must be submitted to the technical service responsible for conducting the type-approval tests: 1.3.1. Two samples equipped with the lamp or lamps recommended; if the devices are not identical but are symmetrical and suitable for mounting one on the left and one on the right side of the vehicle, the two samples submitted may be identical and be suitable for mounting only on the right or only on the left side of the vehicle; for a direction indicator of category 2b, the application shall also be accompanied by two samples of the parts constituting the system which ensures the two levels of intensity. 2. MARKINGS
+2.1. The devices submitted for EC component type approval must bear: 2.1.1. the trade name or mark of the manufacturer; 2.1.2. in the case of lamps with replaceable light sources: the type(s) of filament lamp prescribed; 2.1.3. in the case of lamps with non-replaceable light sources: the nominal voltage and wattage. 2.2. These markings shall be clearly legible and indelible and shall be affixed to the illuminating surface, or to one of the illuminating surfaces, of the device. They shall be visible from the exterior when the device is fitted to the vehicle. 2.3. Each device shall have sufficient space for the component type-approval mark. This space shall be indicated on the drawings referred to in Appendix 1. 3. GRANTING OF EC COMPONENT TYPE-APPROVAL
+3.1. If the relevant requirements are satisfied, EC type-approval pursuant to Article 4(3) and, if applicable, Article 4(4) of Directive 70/156/EEC shall be granted. 3.2. A model for the EC type-approval certificate is given in Appendix 2. 
+3.3. An approval number in accordance with Annex VII to Directive 70/156/EEC shall be assigned to each type of direction indicator lamp approved. The same Member State shall not assign the same number to another type of direction indicator lamp. 3.4. Where EC component type approval is requested for a type of lighting and light-signalling device comprising a direction indicator lamp and other lamps, a single EC component type-approval number may be assigned provided that the direction indicator lamp complies with the requirements of this Directive and that each of the other lamps forming part of the lighting and light-signalling device for which EC component type approval is requested complies with the separate Directive applying to it. 4. EC COMPONENT TYPE-APPROVAL MARK
+4.1. In addition to the markings referred to in item 2.1., every direction indicator lamp conforming to the type approved pursuant to this Directive shall bear an EC component type-approval mark. 4.2. This mark shall consist of: 4.2.1. a rectangle surrounding the letter 'e' followed by the distinguishing number or letters of the Member State which has granted type approval: 1
+for Germany
+2
+for France
+3
+for Italy
+4
+for the Netherlands
+5
+for Sweden
+6
+for Belgium
+▼A4
+7
+for Hungary
+8
+for the Czech Republic
+▼M3
+9
+for Spain
+11
+for the United Kingdom
+12
+for Austria
+13
+for Luxembourg
+17
+for Finland
+18
+for Denmark
+▼M4
+19
+for Romania
+▼A4
+20
+for Poland
+▼M3
+21
+for Portugal
+23
+for Greece
+▼A4
+26
+for Slovenia
+27
+for Slovakia
+29
+for Estonia
+32
+for Latvia
+▼M4
+34
+for Bulgaria
+▼A4
+36
+for Lithuania
+CY
+for Cyprus
+▼M3
+IRL
+for Ireland; ▼A4
+MT
+for Malta; ▼M3
+4.2.2. in the vicinity of the rectangle the 'base approval number' contained in section 4 of the type-approval number referred to in Annex VII to Directive 70/156/EEC, preceded by the two figures indicating the sequence number assigned to the most recent major technical amendment to Directive 76/759/EEC on the date EEC type approval was granted. In this Directive the sequence number is 01; 4.2.3. additional symbols as follows: 4.2.3.1. one or more of the numbers: 1, 1a, 1b, 2a, 2b, 3, 4, 5, or 6, according to whether the device belongs to one or more categories 1, 1a, 1b, 2a, 2b, 3, 4, 5, or 6;
+4.2.3.2. on devices which cannot be mounted on either side of the vehicle indiscriminately, an arrow showing in which position the device is to be mounted (the arrow shall be directed outwards from the vehicle in the case of devices of categories 1, 1a, 1b, 2a and 2b and towards the front of the vehicle in the case of devices of categories 3, 4, 5 and 6). In addition, for devices of category 6 an indication 'R' or 'L' shall in this case be shown on the device, indicating the right or left side of the vehicle; 4.2.3.3. on devices which may be used as a single lamp and as part of an assembly of two lamps, the additional letter 'D' to the right side of the symbol mentioned in paragraph 4.2.3.1.; 4.3. The EC component type-approval mark shall be affixed to the lens of the lamp or one of the lenses in such a way as to be indelible and clearly legible even when the lamps are fitted to the vehicle. 4.4. Arrangement of the approval mark. 4.4.1. Independent lamps: Examples of the EC component type-approval mark are given in Appendix 3, Figure 1. 4.4.2. Grouped, combined or reciprocally incorporated lamps: 4.4.2.1. Where a single EC component type-approval number is issued, as per item 3.4. above, for a type of lighting and light-signalling device comprising a direction indicator lamp and other lamps, a single EC component type-approval mark may be affixed, consisting of: 4.4.2.1.1. a rectangle surrounding the letter 'e' followed by the distinguishing number or letters of the Member State which has granted type approval (see item 4.2.1.);
+4.4.2.1.2. the base approval number (see item 4.2.2., first half-sentence); 4.4.2.1.3. if necessary, the required arrow, in so far as it relates to the lamp assembly as a whole. 4.4.2.2. This mark may be located anywhere on the lamps which are grouped, combined or reciprocally incorporated, provided that: 4.4.2.2.1. it is visible after the installation of the lamps; 4.4.2.2.2. no light-transmitting components of the grouped, combined or reciprocally incorporated lamps can be removed without simultaneously removing the approval mark. 4.4.2.3. The identification symbol for each lamp corresponding to each Directive pursuant to which EC component type approval was granted, together with the sequence number (see item 4.2.2., second half-sentence) and, where necessary, the letter 'D' and the required arrow shall be marked: 4.4.2.3.1. either on the appropriate light-emitting surface; 4.4.2.3.2. or in a group, in such a way that each of the grouped, combined or reciprocally incorporated lamps may be clearly identified. 4.4.2.4. The dimensions of the components of this mark must not be less than the minimum dimensions specified for individual marks by the various Directives pursuant to which EC component type approval was granted. 4.4.2.5. Examples of an EC component type-approval mark for a lamp that is grouped, combined or reciprocally incorporated with other lamps are given in Appendix 3, Figure 2. 4.4.3. Lamps reciprocally incorporated with other lamps, of which the lens may also be used for other types of headlamps: 4.4.3.1. the provisions laid down in point 4.4.2. shall apply;
+4.4.3.3. if different types of headlamps comprise the same main body, the latter may bear the different approval marks. 4.4.3.4. Examples of an EC component type-approval mark for lamps reciprocally incorporated with a headlamp are given in figure 3 of Appendix 3. 
+5.1. In the case of modifications of the type approved pursuant to this Directive, the provisions of Article 5 of Directive 70/156/EEC shall apply. 6.1. As a general rule, measures to ensure the conformity of production shall be taken in accordance with the provisions laid down in Article 10 of Directive 70/156/EEC. 6.2. Every direction indicator lamp shall comply with the photometric and colorimetric conditions specified in paragraphs 6 and 8 (
+6
+). Nevertheless, in the case of a device picked at random from series production, the requirements as to minimum intensity of the light emitted (measured with a standard filament lamp as referred to in paragraph 7 (6) ) shall be limited in each relevant direction to 80 per cent of the minimum values specified in paragraphs 6.1. and 6.2. (6) . Appendix 1
+Appendix 2
+Appendix 3
+EXAMPLES OF THE EC COMPONENT TYPE-APPROVAL MARK
+Figure 1The device bearing the EC component type-approval mark shown above is a direction indicator lamp of category 4, type approved in Germany (e1) purusant to this Directive (01) under the base approval number 1471, which may also be used in an assembly of two lamps. The arrow points towards the front of the vehicle.Direction in which the arrows on the approval mark point, according to the category of the device is shown below: Figure 2a
+Simplified marking of grouped, combined or reciprocally incorporated lamps when two or more lamps are part of the same assembly
+(The vertical and horizontal lines schematise the shape of the light-signalling device. These are not part of the approval mark)MODEL A
+MODEL B
+MODEL CNote:The three examples of approval marks, models A, B and C represent three possible variants of the marking of a lighting and light-signalling device when two or more lamps are part of the same unit of grouped, combined or reciprocally incorporated lamps. These approval marks show that the device was approved in Germany (e1) under the base approval number 1712 and comprises: A retro reflector of class IA approved in accordance with Directive 76/757/EEC, sequence No 02; A rear direction indicator of category 2a approved in accordance with Directive 76/759/EEC, sequence No 01; A red rear position lamp (R) approved in accordance with Annex II to Directive 76/758/EEC, sequence No 02; A rear fog lamp (F) approved in accordance with Directive 77/538/EEC, sequence No 00; A reversing lamp (AR) approved in accordance with Directive 77/539/EEC, sequence No 00; A stop lamp with two levels of intensity (S2) approved in accordance with Annex II to Directive 76/758/EEC, sequence No 02; A rear registration plate lamp (L) approved in accordance with Directive 76/740/EEC, sequence No 00. Figure 2b
+Simplified marking of grouped, combined or reciprocally incorporated lamps when two or more lamps are part of the same assembly
+(The vertical and horizontal lines schematise the shape of the light-signalling device. These are not part of the approval mark)MODEL A
+MODEL B
+MODEL C
+MODEL DNote:The four examples of approval marks, models A, B, C and D represent four possible variants of the marking of a lighting and light-signalling device when two or more lamps are part of the same unit of grouped, combined or reciprocally incorporated lamps. These approval marks show that the device was approved in Germany (e1) under the base approval number 7120 and comprises: A front position lamp (A) approved in accordance with Annex II to Directive 76/758/EEC, sequence No 02, for left-hand installation; A headlamp (HCR) with a passing beam designed for right-hand and left-hand traffic and driving beam with a maximum intensity comprised between 86 250 and 101 250 candelas (as indicated by the number 30) approved in accordance with Annex V to Directive 76/761/EEC, sequence No 02, and incorporating a lens of plastic material (PL);
+A front fog lamp (B) approved in accordance with Directive 76/762/EEC, sequence No 02, and incorporating a lens of plastic material (PL);
+A front direction indicator lamp of category 1a approved in accordance with Directive 76/759/EEC, sequence No 01. Figure 3
+Lamp reciprocally incorporated or grouped with a headlampThe above example corresponds to the marking of a lens intended to be used in different types of headlamps, namely:either:a headlamp with a passing beam designed for both traffic systems and a driving beam with a maximum luminous intensity comprised between 86 250 and 101 250 candelas (as indicated by the number 30) approved in Germany (e1) under the base approval number 7120 in accordance with the requirements of Annex IV to Directive 76/761/EEC, sequence No 04, which is reciprocally incorporated with a front direction indicator lamp approved in accordance with Directive 76/759/EEC, sequence No 01,ora headlamp with a passing beam and a driving beam, designed for both traffic systems and approved in Germany (e1) under the base approval number 7122 in accordance with the requirements of Annex II to Directive 76/761/EEC, sequence No 01, which is reciprocally incorporated with the same front direction indicator lamp as above,oreven either of the abovementioned headlamps approved as a single lamp.The main body of the headlamp shall bear the only valid approval number, for instance: or
+or
+or
+the provisions laid down in point 4.4.2. shall apply; 4.4.3.2. in addition, where the same lens is used, the latter may bear the different approval marks relating to the different types of headlamps or units of lamps, provided that the main body of the headlamp, even if it cannot be separated from the lens, also comprises the space described in point 2.3. and bears the approval marks of the actual functions; 4.4.3.3. if different types of headlamps comprise the same main body, the latter may bear the different approval marks. 4.4.3.4. Examples of an EC component type-approval mark for lamps reciprocally incorporated with a headlamp are given in figure 3 of Appendix 3. 5. MODIFICATIONS OF THE TYPE AND AMENDMENTS TO APPROVALS
+5.1. In the case of modifications of the type approved pursuant to this Directive, the provisions of Article 5 of Directive 70/156/EEC shall apply. 6. CONFORMITY OF PRODUCTION
+6.1. As a general rule, measures to ensure the conformity of production shall be taken in accordance with the provisions laid down in Article 10 of Directive 70/156/EEC. 6.2. Every direction indicator lamp shall comply with the photometric and colorimetric conditions specified in paragraphs 6 and 8 (
+6
+). Nevertheless, in the case of a device picked at random from series production, the requirements as to minimum intensity of the light emitted (measured with a standard filament lamp as referred to in paragraph 7 (6) ) shall be limited in each relevant direction to 80 per cent of the minimum values specified in paragraphs 6.1. and 6.2. (6) . Appendix 1
+{{IMAGE:Image_0}}
+{{IMAGE:Image_1}}
+Appendix 2
+{{IMAGE:Image_2}}
+Appendix 3EXAMPLES OF THE EC COMPONENT TYPE-APPROVAL MARK
+Figure 1The device bearing the EC component type-approval mark shown above is a direction indicator lamp of category 4, type approved in Germany (e1) purusant to this Directive (01) under the base approval number 1471, which may also be used in an assembly of two lamps. The arrow points towards the front of the vehicle.Direction in which the arrows on the approval mark point, according to the category of the device is shown below: Figure 2a
+Simplified marking of grouped, combined or reciprocally incorporated lamps when two or more lamps are part of the same assembly
+(The vertical and horizontal lines schematise the shape of the light-signalling device. These are not part of the approval mark)MODEL A
+MODEL B
+MODEL CNote:The three examples of approval marks, models A, B and C represent three possible variants of the marking of a lighting and light-signalling device when two or more lamps are part of the same unit of grouped, combined or reciprocally incorporated lamps. These approval marks show that the device was approved in Germany (e1) under the base approval number 1712 and comprises: A retro reflector of class IA approved in accordance with Directive 76/757/EEC, sequence No 02; A rear direction indicator of category 2a approved in accordance with Directive 76/759/EEC, sequence No 01; A red rear position lamp (R) approved in accordance with Annex II to Directive 76/758/EEC, sequence No 02; A rear fog lamp (F) approved in accordance with Directive 77/538/EEC, sequence No 00; A reversing lamp (AR) approved in accordance with Directive 77/539/EEC, sequence No 00; A stop lamp with two levels of intensity (S2) approved in accordance with Annex II to Directive 76/758/EEC, sequence No 02; A rear registration plate lamp (L) approved in accordance with Directive 76/740/EEC, sequence No 00. Figure 2b
+Simplified marking of grouped, combined or reciprocally incorporated lamps when two or more lamps are part of the same assembly
+(The vertical and horizontal lines schematise the shape of the light-signalling device. These are not part of the approval mark)MODEL A
+MODEL B
+MODEL C
+MODEL DNote:The four examples of approval marks, models A, B, C and D represent four possible variants of the marking of a lighting and light-signalling device when two or more lamps are part of the same unit of grouped, combined or reciprocally incorporated lamps. These approval marks show that the device was approved in Germany (e1) under the base approval number 7120 and comprises: A front position lamp (A) approved in accordance with Annex II to Directive 76/758/EEC, sequence No 02, for left-hand installation; A headlamp (HCR) with a passing beam designed for right-hand and left-hand traffic and driving beam with a maximum intensity comprised between 86 250 and 101 250 candelas (as indicated by the number 30) approved in accordance with Annex V to Directive 76/761/EEC, sequence No 02, and incorporating a lens of plastic material (PL);
+A front fog lamp (B) approved in accordance with Directive 76/762/EEC, sequence No 02, and incorporating a lens of plastic material (PL);
+A front direction indicator lamp of category 1a approved in accordance with Directive 76/759/EEC, sequence No 01. Figure 3
+Lamp reciprocally incorporated or grouped with a headlampThe above example corresponds to the marking of a lens intended to be used in different types of headlamps, namely:either:a headlamp with a passing beam designed for both traffic systems and a driving beam with a maximum luminous intensity comprised between 86 250 and 101 250 candelas (as indicated by the number 30) approved in Germany (e1) under the base approval number 7120 in accordance with the requirements of Annex IV to Directive 76/761/EEC, sequence No 04, which is reciprocally incorporated with a front direction indicator lamp approved in accordance with Directive 76/759/EEC, sequence No 01,ora headlamp with a passing beam and a driving beam, designed for both traffic systems and approved in Germany (e1) under the base approval number 7122 in accordance with the requirements of Annex II to Directive 76/761/EEC, sequence No 01, which is reciprocally incorporated with the same front direction indicator lamp as above,oreven either of the abovementioned headlamps approved as a single lamp.The main body of the headlamp shall bear the only valid approval number, for instance: or
+or
+or
+ANNEX IITECHNICAL REQUIREMENTS 1. The technical requirements are those set out in paragraphs 1 and 5 to 8 and Annexes 1, 4 and 5 of UN-ECE Regulation No 6 which consists of a consolidation of the following documents: — the 01 series of amendments incorporating Supplements 1 to 5 to the 01 series of amendments and various Corrigenda thereto (
+7
+),
+— supplement 6 to the 01 series of amendments (
+8
+),
+— supplement 7 to the 01 series of amendments (
+9
+),
+except that: 1.1. where reference is made to 'Regulation No 48', this shall be understood as 'Directive 76/756/EEC'. 1.2. where reference is made to 'Regulation No 37', this shall be understood as 'Annex VII to Directive 76/761/EEC'. (
+1
+) OJ No 28, 17. 2. 1967, p. 458/67.(
+2
+) OJ No 224, 5. 12. 1966, p. 3802/66.(
+3
+) OJ No L 42, 23. 2. 1970, p. 1.(
+4
+) See page 1 of this Official Journal.(
+5
+) Economic Commission for Europe, Document E/ECE/324, Addendum 5 of 22 May 1967.(
+6
+) Of the documents referred to in item 1 of Annex II to this Directive.(
+7
+) 
+E/ECE/324
+Rev. 1/Add. 5/Rev. 2. E/ECE/TRANS/505
+(
+8
+) 
+E/ECE/324
+Rev. 1/Add. 5/Rev. 2/Amend. 1. E/ECE/TRANS/505
+(
+9
+) TRANS/WP.29/518
+the provisions laid down in point 4.4.2. shall apply; 4.4.3.2. in addition, where the same lens is used, the latter may bear the different approval marks relating to the different types of headlamps or units of lamps, provided that the main body of the headlamp, even if it cannot be separated from the lens, also comprises the space described in point 2.3. and bears the approval marks of the actual functions; 4.4.3.3. if different types of headlamps comprise the same main body, the latter may bear the different approval marks. 4.4.3.4. Examples of an EC component type-approval mark for lamps reciprocally incorporated with a headlamp are given in figure 3 of Appendix 3. 5. MODIFICATIONS OF THE TYPE AND AMENDMENTS TO APPROVALS
+5.1. In the case of modifications of the type approved pursuant to this Directive, the provisions of Article 5 of Directive 70/156/EEC shall apply. 6. CONFORMITY OF PRODUCTION
+6.1. As a general rule, measures to ensure the conformity of production shall be taken in accordance with the provisions laid down in Article 10 of Directive 70/156/EEC. 6.2. Every direction indicator lamp shall comply with the photometric and colorimetric conditions specified in paragraphs 6 and 8 (
+6
+). Nevertheless, in the case of a device picked at random from series production, the requirements as to minimum intensity of the light emitted (measured with a standard filament lamp as referred to in paragraph 7 (6) ) shall be limited in each relevant direction to 80 per cent of the minimum values specified in paragraphs 6.1. and 6.2. (6) . Appendix 1
+{{IMAGE:Image_0}}
+{{IMAGE:Image_1}}
+Appendix 2
+{{IMAGE:Image_2}}
+Appendix 3EXAMPLES OF THE EC COMPONENT TYPE-APPROVAL MARK
+Figure 1The device bearing the EC component type-approval mark shown above is a direction indicator lamp of category 4, type approved in Germany (e1) purusant to this Directive (01) under the base approval number 1471, which may also be used in an assembly of two lamps. The arrow points towards the front of the vehicle.Direction in which the arrows on the approval mark point, according to the category of the device is shown below: Figure 2a
+Simplified marking of grouped, combined or reciprocally incorporated lamps when two or more lamps are part of the same assembly
+(The vertical and horizontal lines schematise the shape of the light-signalling device. These are not part of the approval mark)MODEL A
+MODEL B
+MODEL CNote:The three examples of approval marks, models A, B and C represent three possible variants of the marking of a lighting and light-signalling device when two or more lamps are part of the same unit of grouped, combined or reciprocally incorporated lamps. These approval marks show that the device was approved in Germany (e1) under the base approval number 1712 and comprises: A retro reflector of class IA approved in accordance with Directive 76/757/EEC, sequence No 02; A rear direction indicator of category 2a approved in accordance with Directive 76/759/EEC, sequence No 01; A red rear position lamp (R) approved in accordance with Annex II to Directive 76/758/EEC, sequence No 02; A rear fog lamp (F) approved in accordance with Directive 77/538/EEC, sequence No 00; A reversing lamp (AR) approved in accordance with Directive 77/539/EEC, sequence No 00; A stop lamp with two levels of intensity (S2) approved in accordance with Annex II to Directive 76/758/EEC, sequence No 02; A rear registration plate lamp (L) approved in accordance with Directive 76/740/EEC, sequence No 00. Figure 2b
+Simplified marking of grouped, combined or reciprocally incorporated lamps when two or more lamps are part of the same assembly
+(The vertical and horizontal lines schematise the shape of the light-signalling device. These are not part of the approval mark)MODEL A
+MODEL B
+MODEL C
+MODEL DNote:The four examples of approval marks, models A, B, C and D represent four possible variants of the marking of a lighting and light-signalling device when two or more lamps are part of the same unit of grouped, combined or reciprocally incorporated lamps. These approval marks show that the device was approved in Germany (e1) under the base approval number 7120 and comprises: A front position lamp (A) approved in accordance with Annex II to Directive 76/758/EEC, sequence No 02, for left-hand installation; A headlamp (HCR) with a passing beam designed for right-hand and left-hand traffic and driving beam with a maximum intensity comprised between 86 250 and 101 250 candelas (as indicated by the number 30) approved in accordance with Annex V to Directive 76/761/EEC, sequence No 02, and incorporating a lens of plastic material (PL);
+A front fog lamp (B) approved in accordance with Directive 76/762/EEC, sequence No 02, and incorporating a lens of plastic material (PL);
+A front direction indicator lamp of category 1a approved in accordance with Directive 76/759/EEC, sequence No 01. Figure 3
+Lamp reciprocally incorporated or grouped with a headlampThe above example corresponds to the marking of a lens intended to be used in different types of headlamps, namely:either:a headlamp with a passing beam designed for both traffic systems and a driving beam with a maximum luminous intensity comprised between 86 250 and 101 250 candelas (as indicated by the number 30) approved in Germany (e1) under the base approval number 7120 in accordance with the requirements of Annex IV to Directive 76/761/EEC, sequence No 04, which is reciprocally incorporated with a front direction indicator lamp approved in accordance with Directive 76/759/EEC, sequence No 01,ora headlamp with a passing beam and a driving beam, designed for both traffic systems and approved in Germany (e1) under the base approval number 7122 in accordance with the requirements of Annex II to Directive 76/761/EEC, sequence No 01, which is reciprocally incorporated with the same front direction indicator lamp as above,oreven either of the abovementioned headlamps approved as a single lamp.The main body of the headlamp shall bear the only valid approval number, for instance: or
+or
+or
+ANNEX IITECHNICAL REQUIREMENTS 1. The technical requirements are those set out in paragraphs 1 and 5 to 8 and Annexes 1, 4 and 5 of UN-ECE Regulation No 6 which consists of a consolidation of the following documents: — the 01 series of amendments incorporating Supplements 1 to 5 to the 01 series of amendments and various Corrigenda thereto (
+7
+),
+— supplement 6 to the 01 series of amendments (
+8
+),
+— supplement 7 to the 01 series of amendments (
+9
+),
+except that: 1.1. where reference is made to 'Regulation No 48', this shall be understood as 'Directive 76/756/EEC'. 1.2. where reference is made to 'Regulation No 37', this shall be understood as 'Annex VII to Directive 76/761/EEC'. (
+1
+) OJ No 28, 17. 2. 1967, p. 458/67.(
+2
+) OJ No 224, 5. 12. 1966, p. 3802/66.(
+3
+) OJ No L 42, 23. 2. 1970, p. 1.(
+4
+) See page 1 of this Official Journal.(
+5
+) Economic Commission for Europe, Document E/ECE/324, Addendum 5 of 22 May 1967.(
+6
+) Of the documents referred to in item 1 of Annex II to this Directive.(
+7
+) 
+E/ECE/324
+Rev. 1/Add. 5/Rev. 2. E/ECE/TRANS/505
+(
+8
+) 
+E/ECE/324
+Rev. 1/Add. 5/Rev. 2/Amend. 1. E/ECE/TRANS/505
+(
+9
+) TRANS/WP.29/518
+They shall apply these provisions from 1 October 1977 at the latest. 2. Once this Directive has been notified, the Member States shall also ensure that the Commission is informed, in sufficient time for it to submit its comments, of any draft laws, regulations or administrative provisions which they propose to adopt in the field covered by this Directive. Article 12 This Directive is addressed to the Member States. Done at Brussels, 27 July 1976. For the Council The President M. van der STOEL List of Annexes >PIC FILE= "T9000983"> ANNEX 0 DEFINITION, GENERAL SPECIFICATIONS, INTENSITY OF LIGHT EMITTED, TEST PROCEDURE, COLOUR OF LIGHT EMITTED, CONFORMITY OF PRODUCTION 1. DEFINITION 1.1. Direction indicator lamp "Direction indicator lamp" means the lamp used to indicate to other road-users that the driver intends to change direction to the right or to the left. (2.) (3.) (4). 5. GENERAL SPECIFICATIONS 5.1. Each sample shall conform to the specifications set forth in sections 6 and 8. 5.2. The devices shall be so designed and constructed that under normal conditions of use, notwithstanding any vibration to which they may be subjected during such use, their satisfactory operation remains assured and they retain the characteristics prescribed by this Directive. 6. INTENSITY OF LIGHT EMITTED 6.1. In the reference axis, the light emitted by each of the two samples must be of not less than the minimum intensity and of not more than the maximum intensity specified below: >PIC FILE= "T0009378"> 6.2. Outside the reference axis, within the fields specified in the arrangement diagrams in Annex I, intensity of the light emitted by each of the two samples must: 6.2.1. in each direction corresponding to the points in the luminous intensity distribution table reproduced in Annex IV, be not less than the value shown in the said table for the direction in question, expressed as a percentage of the minimum specified in 6.1; 6.2.2. in any direction within the space from which the indicator lamp is visible, nor exceed the maximum specified in 6.1. 6.2.3. Moreover, 6.2.3.1. throughout the fields defined in the diagrams in Annex I, the intensity of the light emitted must be not less than 0 73 cd for devices in categories 1, 2 and 5; 6.2.3.2. for devices in category 1, the intensity of the light emitted in the directions corresponding to the points of measurement in the luminous intensity distribution table other than 0 to 5º to the right and 0 to 5º to the left, must not exceed 400 cd; 6.2.3.3. the requirements of 2.2 of Annex IV on local variations of intensity must be observed. 6.3. The intensities shall be measured with the filament lamps continuously alight and in coloured light. 6.4. Annex IV, referred to in 6.2.1, gives particulars of the measurement methods to be used. 7. TEST PROCEDURE 7.1. All measurements shall be carried out with colourless standard filament lamps of the types recommended for the device, and so regulated as to produce the normal luminous flux prescribed for those types of lamp. (7.2.) 8. COLOUR OF LIGHT EMITTED The device must emit an amber light. The colour of the light emitted, measured by using a source of light with a colour temperature of 2854 K, corresponding to illuminant A of the International Commission on Illumination (CIE), must be within the limits of the coordinates prescribed in Annex V. 9. CONFORMITY OF PRODUCTION Every device bearing an EEC component type-approval mark must conform to the approved type and comply with the photometric conditions specified in sections 6 and 8. Nevertheless, in the case of a device picked at random from series production, the requirements as to minimum intensity of the light emitted (measured with a standard filament lamp as referred to in section 7) shall be limited in each relevant direction to 80 % of the minimum values specified in 6.1 and 6.2. (10.) (11.) (12.) ANNEX I CATEGORIES OF DIRECTION INDICATOR LAMPS MINIMUM ANGLES REQUIRED FOR LIGHT DISTRIBUTION IN SPACE (*) In all cases, the minimum vertical angles of light distribution in space of direction indicator lamps are 15º above and 15º below the horizontal. Minimum horizontal angles of light distribution in space Category 1 : Direction indicators for the front of the vehicle >PIC FILE= "T0009379"> Category 2 : Direction indicators for the rear of the vehicle >PIC FILE= "T0009380"> (*) The angles shown in these arrangements are correct for devices to be mounted on the right side of the vehicle. The arrows in these diagrams point towards the front of the vehicle. Category 5 : Repeating side indicators for use on a vehicle also equipped with category 1 and 2 direction indicators >PIC FILE= "T0009381"> ANNEX II MODEL EEC COMPONENT TYPE-APPROVAL CERTIFICATE (Maximum format : A4 (210 × 297 mm)) >PIC FILE= "T0009382"> ANNEX III EEC COMPONENT TYPE-APPROVAL AND MARKING REQUIREMENTS 1. APPLICATION FOR EEC COMPONENT TYPE-APPROVAL 1.1. The application for EEC component type-approval shall be submitted by the holder of the trade name or mark or by his authorized representative. 1.2. For each type of direction indicator lamp, the application shall be accompanied by the following: 1.2.1. an indication of which of the categories 1, 2 or 5, the device belongs to; 1.2.2. a brief technical specification stating, in particular, the type of filament lamp or lamps prescribed; 1.2.3. drawings, (three copies), in sufficient detail to permit identification of the type and category and showing, geometrically, the position in which the device is to be mounted on the vehicle, the axis of observation to be taken as the axis of reference in the tests (horizontal angle H = 0º, vertical angle V = 0º), and the point to be taken as the centre of reference in the said tests; 1.2.4. two samples ; even if the sample devices are such that they can be remounted only on one side of the vehicle, the two samples submitted may be identical and be suitable for mounting only on the right or only on the left side of the vehicle. 2. MARKINGS 2.1. Devices submitted for EEC component type-approval must bear: 2.1.1. the trade name or mark of the applicant, which shall be clearly legible and indelible; 2.1.2. a clearly legible and indelible marking indicating the type or types of filament lamp recommended; 2.1.3. and incorporate a space large enough to contain the EEC component type-approval mark and the additional symbols prescribed in section 4 ; this space shall be shown in the drawings mentioned in 1.2.3. 3. EEC COMPONENT TYPE-APPROVAL 3.1. If all the samples submitted in accordance with section 1 meet the requirements of Annexes 0, I, III, IV and V, EEC component type-approval shall be granted and a component type-approval number assigned. 3.2. This number shall not be assigned to any other type of direction indicator lamp. 3.3. Where EEC type-approval is requested for a type of lighting and light-signalling device comprising a direction indicator lamp and other lamps, a single EEC type-approval mark may be issued provided that the direction indicator lamp complies with the requirements of this Directive and that each of the other lamps forming part of the lighting and light-signalling device for which EEC type-approval is requested, complies with the specific Directive applying to it. 4. MARKS 4.1. Every direction indicator lamp conforming to a type approved under this Directive shall bear an EEC component type-approval mark. 4.2. This mark shall consist of a rectangle surrounding the lower case letter "e" followed by the distinguishing letter(s) or number of the Member State which has granted the type-approval: 1 for Germany, 2 for France, 3 for Italy, 4 for the Netherlands, 6 for Belgium, 11 for the United Kingdom, 13 for Luxembourg, DK for Denmark, IRL for Ireland. It must also include the EEC component type-approval number which corresponds to the number of the EEC component type-approval certificate issued for the type of direction indicator lamp in question.
+4.4.3.3. if different types of headlamps comprise the same main body, the latter may bear the different approval marks. 4.4.3.4. Examples of an EC component type-approval mark for lamps reciprocally incorporated with a headlamp are given in figure 3 of Appendix 3. 
+5.1. In the case of modifications of the type approved pursuant to this Directive, the provisions of Article 5 of Directive 70/156/EEC shall apply. 6.1. As a general rule, measures to ensure the conformity of production shall be taken in accordance with the provisions laid down in Article 10 of Directive 70/156/EEC. 6.2. Every direction indicator lamp shall comply with the photometric and colorimetric conditions specified in paragraphs 6 and 8 (
+6
+). Nevertheless, in the case of a device picked at random from series production, the requirements as to minimum intensity of the light emitted (measured with a standard filament lamp as referred to in paragraph 7 (6) ) shall be limited in each relevant direction to 80 per cent of the minimum values specified in paragraphs 6.1. and 6.2. (6) . Appendix 1
+Appendix 2
+Appendix 3
+EXAMPLES OF THE EC COMPONENT TYPE-APPROVAL MARK
+Figure 1The device bearing the EC component type-approval mark shown above is a direction indicator lamp of category 4, type approved in Germany (e1) purusant to this Directive (01) under the base approval number 1471, which may also be used in an assembly of two lamps. The arrow points towards the front of the vehicle.Direction in which the arrows on the approval mark point, according to the category of the device is shown below: Figure 2a
+Simplified marking of grouped, combined or reciprocally incorporated lamps when two or more lamps are part of the same assembly
+(The vertical and horizontal lines schematise the shape of the light-signalling device. These are not part of the approval mark)MODEL A
+MODEL B
+MODEL CNote:The three examples of approval marks, models A, B and C represent three possible variants of the marking of a lighting and light-signalling device when two or more lamps are part of the same unit of grouped, combined or reciprocally incorporated lamps. These approval marks show that the device was approved in Germany (e1) under the base approval number 1712 and comprises: A retro reflector of class IA approved in accordance with Directive 76/757/EEC, sequence No 02; A rear direction indicator of category 2a approved in accordance with Directive 76/759/EEC, sequence No 01; A red rear position lamp (R) approved in accordance with Annex II to Directive 76/758/EEC, sequence No 02; A rear fog lamp (F) approved in accordance with Directive 77/538/EEC, sequence No 00; A reversing lamp (AR) approved in accordance with Directive 77/539/EEC, sequence No 00; A stop lamp with two levels of intensity (S2) approved in accordance with Annex II to Directive 76/758/EEC, sequence No 02; A rear registration plate lamp (L) approved in accordance with Directive 76/740/EEC, sequence No 00. Figure 2b
+Simplified marking of grouped, combined or reciprocally incorporated lamps when two or more lamps are part of the same assembly
+(The vertical and horizontal lines schematise the shape of the light-signalling device. These are not part of the approval mark)MODEL A
+MODEL B
+MODEL C
+MODEL DNote:The four examples of approval marks, models A, B, C and D represent four possible variants of the marking of a lighting and light-signalling device when two or more lamps are part of the same unit of grouped, combined or reciprocally incorporated lamps. These approval marks show that the device was approved in Germany (e1) under the base approval number 7120 and comprises: A front position lamp (A) approved in accordance with Annex II to Directive 76/758/EEC, sequence No 02, for left-hand installation; A headlamp (HCR) with a passing beam designed for right-hand and left-hand traffic and driving beam with a maximum intensity comprised between 86 250 and 101 250 candelas (as indicated by the number 30) approved in accordance with Annex V to Directive 76/761/EEC, sequence No 02, and incorporating a lens of plastic material (PL);
+A front fog lamp (B) approved in accordance with Directive 76/762/EEC, sequence No 02, and incorporating a lens of plastic material (PL);
+A front direction indicator lamp of category 1a approved in accordance with Directive 76/759/EEC, sequence No 01. Figure 3
+Lamp reciprocally incorporated or grouped with a headlampThe above example corresponds to the marking of a lens intended to be used in different types of headlamps, namely:either:a headlamp with a passing beam designed for both traffic systems and a driving beam with a maximum luminous intensity comprised between 86 250 and 101 250 candelas (as indicated by the number 30) approved in Germany (e1) under the base approval number 7120 in accordance with the requirements of Annex IV to Directive 76/761/EEC, sequence No 04, which is reciprocally incorporated with a front direction indicator lamp approved in accordance with Directive 76/759/EEC, sequence No 01,ora headlamp with a passing beam and a driving beam, designed for both traffic systems and approved in Germany (e1) under the base approval number 7122 in accordance with the requirements of Annex II to Directive 76/761/EEC, sequence No 01, which is reciprocally incorporated with the same front direction indicator lamp as above,oreven either of the abovementioned headlamps approved as a single lamp.The main body of the headlamp shall bear the only valid approval number, for instance: or
+or
+or
+It must also include the EEC component type-approval number which corresponds to the number of the EEC component type-approval certificate issued for the type of direction indicator lamp in question. 4.3. The EEC component type-approval mark shall be supplemented by the following additional symbols: 4.3.1. one or more of the numbers 1, 2 or 5, according to whether the device belongs to one or more of the categories 1, 2 or 5, as referred to in 1.2.1, placed above the rectangle; 4.3.2. an arrow shall be placed, showing in what position the device is to be mounted on devices which are such that they can be mounted only on one side of the vehicle. The arrow shall be directed outwards from the vehicle in the case of devices in categories 1 and 2 and towards the front of the vehicle in the case of devices in category 5. 4.4. The EEC component type-approval number must be placed in any convenient position near the rectangle surrounding the letter "e". 4.5. The EEC component type-approval mark and the additional symbol(s) must be affixed to the lens or one of the lenses in such a way as to be indelible and clearly legible even when the direction indicator lamps are fitted on the vehicle. 4.6. An example of an EEC component type-approval mark is shown in the Appendix. 4.7. Where a single EEC-type-approval number is issued, as under 3.3, for a type of lighting and light-signalling device comprising a direction indicator lamp and other lamps, one EEC type-approval mark only may be affixed, consisting of: - a rectangle surrounding the letter "e" followed by the distinguishing letter(s) or number of the Member State which has granted the EEC component type-approval, - the EEC component type-approval number, - the additional symbols required by the various Directives under which EEC component type-approval was granted. 4.8. The dimensions of the various components of this mark must not be less than the largest of the minimum dimensions specified for individual markings as appended to this Annex. Appendix EXAMPLE OF AN EEC COMPONENT TYPE-APPROVAL MARK >PIC FILE= "T0009383"> The device bearing the EEC component type-approval mark shown above is a direction indicator lamp in category 5 EEC type-approved in Germany (e 1) under the number 1471. The arrow shows in what position this device, which can be mounted only on one side of the vehicle, is to be mounted. The arrow points towards the front of the vehicle. Direction in which the arrows on the approval mark point, according to the category of device >PIC FILE= "T0009384"> ANNEX IV PHOTOMETRIC MEASUREMENTS 1. MEASUREMENT METHODS 1.1. During photometric measurements, stray reflections shall be prevented by appropriate masking. 1.2. Should the results of measurements be challenged, measurements shall be carried out in such a way as to meet the following requirements: 1.2.1. the distance of measurement shall be such that the law of the inverse of the square of the distance is applicable; 1.2.2. the measuring equipment shall be such that the angular aperture of the receiver viewed from the reference centre of the light is between 10' and 1º. 1.2.3. the intensity requirement for a particular direction of observation shall be deemed to be satisfied if that requirement is met in a direction deviating by not more than 15' from the direction of observation. 2. STANDARD LUMINOUS INTENSITY DISTRIBUTION TABLE >PIC FILE= "T0009385"> 2.1. The direction H = 0º and V = 0º corresponds to the reference axis. (On the vehicle, it is horizontal, parallel to the median longitudinal plane of the vehicle and oriented in the required direction of visibility). It passes through the centre of reference. The values shown in the table give, for the various directions of measurement, the minimum intensities as a percentage of the minimum required in the axis for each light (in the direction H = 0º and V = 0º). 2.2. If visual examination of a light appears to reveal substantial local variations of intensity, a check shall be made to ensure that no intensity measured between two of the directions of measurement referred to above is: 2.2.1. for a minimum specification, below 50 % of the lower of the two minimum intensities prescribed for these directions of measurement; 2.2.2. for a maximum specification, above the lower of the two maximum intensities prescribed for these directions of measurement, increased by a fraction, expressed as a linear function of the difference between the intensities prescribed for the said directions of measurement. ANNEX V COLOUR OF LIGHT EMITTED TRICHROMATIC COORDINATES >PIC FILE= "T0009386"> For checking these colorimetric characteristics, a source of light at a colour temperature of 2854 K corresponding to illuminant A of the International Commission on Illumination (CIE) shall be used.

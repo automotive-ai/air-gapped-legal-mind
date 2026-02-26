@@ -1,0 +1,116 @@
+recital 1
+(1) By Council Decision 97/836/EC (1), the Union acceded to the Agreement of the United Nations Economic Commission for Europe (UNECE) concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of those prescriptions ('Revised 1958 Agreement').
+
+The Revised 1958 Agreement entered into force on 24 March 1998.
+Article 3
+This Decision shall enter into force on the date of its adoption.
+recital 10
+(10) The authorisation to develop amendment 4 to the GTR No 2 is incorrectly referenced on the WP.29 Secretariat's portal, and ECE/TRANS/WP.29/AC.3./36 should be corrected to read ECE/TRANS/WP.29/AC.3./36/Rev.1.
+recital 11
+(11) WP.29 working document ECE/TRANS/WP.29/2019/118 concerns a proposal for an amendment to Annex IV to the Consolidated Resolution of the Construction of Vehicles (R.E.3).
+
+That proposal has to be considered together with an informal document WP.29-179-06, which clarifies the reference to ISO standard to perform fuel quality measurements for certain parameters,
+HAS ADOPTED THIS DECISION:
+Article 1
+The position to be taken on the Union's behalf in WP.29 during its 179th session to be held between 12 and 14 November 2019 shall be to vote in favour of the proposals listed in the Annex to this Decision.
+Article 2
+The position to be taken on the Union's behalf in WP.29 during its 179th session to be held between 12 and 14 November 2019 shall be to vote against the proposal for Supplement 2 of the 03 series of amendments to UN Regulation No 79 (Steering equipment, working document ECE/TRANS/WP.29/2019/114).
+Introduction
+THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114, in conjunction with Article 218(9) thereof,
+Having regard to the proposal from the European Commission,
+Whereas:
+
+(1) By Council Decision 97/836/EC (1), the Union acceded to the Agreement of the United Nations Economic Commission for Europe (UNECE) concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of those prescriptions ('Revised 1958 Agreement'). The Revised 1958 Agreement entered into force on 24 March 1998. (2) By Council Decision 2000/125/EC (2), the Union acceded to the Agreement concerning the establishing of global technical regulations for wheeled vehicles, equipment and parts which can be fitted and/or be used on wheeled vehicles ('Parallel Agreement'). The Parallel Agreement entered into force on 15 February 2000. (3) Pursuant to Article 1 of the Revised 1958 Agreement and Article 6 of the Parallel Agreement, the UNECE World Forum for Harmonisation of Vehicle Regulations ('WP.29') may adopt, as applicable, the proposals for modifications to UN Regulations Nos 0, 16, 17, 21, 29, 43, 44, 48, 53, 55, 58, 67, 74, 80, 83, 85, 86, 98, 107, 112, 113, 115, 116, 123, 129, 135, 148, 149 and 150, the proposal for modifications to Global Technical Regulation (GTR) No 2, the proposal for amendments to Mutual Resolution MR.1, the proposals for amendments to Consolidated Resolutions R.E.3 and R.E.5 and the proposals for authorisations to develop an amendment to GTR No 6 and to develop a new GTR on the Determination of Electrified Vehicle Power. (4) WP.29, during the 179th session of the World Forum to be held between 12 and 14 November 2019, is to adopt the above acts in relation to the administrative provisions and uniform technical prescriptions for the approval of harmonised technical United Nations regulations and global technical regulations for wheeled vehicles, equipment and parts, which can be fitted and/or be used on wheeled vehicles. (5) It is appropriate to establish the position to be taken on the Union's behalf in WP.29 as regards the adoption of proposals for UN Regulations, as the UN Regulations will be binding on the Union and capable of decisively influencing the content of Union law in the field of vehicle type-approval. (6) Directive 2007/46/EC of the European Parliament and of the Council (3) replaced the approval systems of the Member States with a Union approval procedure and established a harmonised framework containing administrative provisions and general technical requirements for all new vehicles, systems, components and separate technical units. That Directive incorporated regulations adopted under the Revised 1958 Agreement ('UN Regulations') in the EU type-approval system, either as requirements for type-approval or as alternatives to Union legislation. Since the adoption of Directive 2007/46/EC, UN regulations have been increasingly incorporated into Union legislation. (7) In the light of experience and technical developments, the requirements relating to certain elements or features covered by UN Regulations Nos 0, 16, 21, 29, 43, 44, 48, 53, 55, 58, 67, 74, 80, 83, 85, 86, 98, 107, 112, 113, 115, 116, 123, 129, 135, 148, 149 and 150 need to be amended or supplemented. In addition, certain provisions in GTR No 2 need to be modified, and certain provisions in UN Regulation No 17 need to be corrected. Finally, the amendments to Mutual Resolution MR.1 and the amendments to Consolidated Resolutions R.E.3 and R.E.5 need to be adopted. (8) WP.29 working document ECE/TRANS/WP.29/2019/93 concerns a proposal for the 01 series of amendments to UN Regulation No 35 (Foot controls). Given that the Union is not applying the uniform provisions of UN Regulation 35, it is not necessary to establish a position of the Union on proposal ECE/TRANS/WP.29/2019/93. (9) WP.29 working document ECE/TRANS/WP.29/2019/114 concerns a proposal for Supplement 2 of the 03 series of amendments to UN Regulation No 79 (Steering equipment) as initially submitted by the Chair of the relevant dedicated subsidiary body of WP.29. At the last meeting of the dedicated subsidiary body, following concerns of certain Contracting Parties, the Chair agreed to submit a revised document to WP.29. As the document is currently not available on the WP.29 Secretariat's portal, and may need further discussion among the experts, it would be appropriate to refer it back to the dedicated subsidiary body. (10) The authorisation to develop amendment 4 to the GTR No 2 is incorrectly referenced on the WP.29 Secretariat's portal, and ECE/TRANS/WP.29/AC.3./36 should be corrected to read ECE/TRANS/WP.29/AC.3./36/Rev.1. (11) WP.29 working document ECE/TRANS/WP.29/2019/118 concerns a proposal for an amendment to Annex IV to the Consolidated Resolution of the Construction of Vehicles (R.E.3). That proposal has to be considered together with an informal document WP.29-179-06, which clarifies the reference to ISO standard to perform fuel quality measurements for certain parameters,
+HAS ADOPTED THIS DECISION:
+| Regulation No | Agenda item title | Document reference (1) |
+|---|---|---|
+| 0 | Proposal for Supplement 1 to the original series of UN Regulation No 0 (IWVTA) | ECE/TRANS/WP.29/2019/74 |
+| 0 | Proposal for Supplement 1 to the 01 series of UN Regulation No 0 (IWVTA) | ECE/TRANS/WP.29/2019/75 |
+| 0 | Proposal for a new 02 series of amendments to UN Regulation No 0 (IWVTA) | ECE/TRANS/WP.29/2019/76 |
+| 16 | Proposal for Supplement 12 to the 06 series of amendments to UN Regulation No 16 (Safety-belts) | ECE/TRANS/WP.29/2019/104 |
+| 16 | Proposal for Supplement 5 to the 07 series of amendments to UN Regulation No 16 (Safety-belts) | ECE/TRANS/WP.29/2019/105 |
+| 17 | Proposal for Corrigendum 1 to the 08 series of amendments to UN Regulation No 17 (Strength of seats) | ECE/TRANS/WP.29/2019/115 |
+| 17 | Proposal for Corrigendum 1 to the 09 series of amendments to UN Regulation No 17 (Strength of seats) | ECE/TRANS/WP.29/2019/116 |
+| 21 | Proposal for Supplement 4 the 01 series of amendments to UN Regulation No 21 (Interior fittings) | ECE/TRANS/WP.29/2019/106 |
+| 29 | Proposal for Supplement 5 to the 03 series of amendments to UN Regulation No 29 (Cabs of commercial vehicles) | ECE/TRANS/WP.29/2019/107 |
+| 43 | Proposal for Supplement 9 to the 01 series of amendments to UN Regulation No 43 (Safety glazing) | ECE/TRANS/WP.29/2019/95 |
+| 44 | Proposal for Supplement 17 to the 04 series of amendments to UN Regulation No 44 (Child Restraint Systems) | ECE/TRANS/WP.29/2019/108 |
+| 48 | Proposal for Supplement 13 to the 06 series of amendments to UN Regulation No 48 (Installation of lighting and light-signalling devices) | ECE/TRANS/WP.29/2019/84 |
+| 53 | Proposal for a new 03 series of amendments to UN Regulation No 53 | ECE/TRANS/WP.29/2019/80 |
+| 53 | Proposal for Supplement 3 to the 02 series of amendments to UN Regulation No 53 (Installation of lighting and light-signalling devices for L3 vehicles) | ECE/TRANS/WP.29/2019/85 |
+| 53 | Proposal for Supplement 21 to the 01 series of amendments to UN Regulation No 53 (Installation of lighting and light-signalling devices for L3 vehicles) | ECE/TRANS/WP.29/2019/86 |
+| 55 | Proposal for Supplement 8 to the 01 series of amendments to UN Regulation No 55 (Mechanical couplings) | ECE/TRANS/WP.29/2019/96 |
+| 58 | Proposal for Supplement 1 to the 03 series of amendments to UN Regulation No 58 (Rear underrun protection) | ECE/TRANS/WP.29/2019/97 |
+| 67 | Proposal for the 03 series of amendments to UN Regulation No 67 (LPG vehicles) | ECE/TRANS/WP.29/2019/94 |
+| 67 | Proposal for Supplement 2 to the 02 series of amendments to UN Regulation No 67 (LPG vehicles) | ECE/TRANS/WP.29/2019/98 |
+| 74 | Proposal for a new 02 series of amendments to UN Regulation No 74 (Installation of lighting and light-signalling devices for mopeds) | ECE/TRANS/WP.29/2019/79 |
+| 74 | Proposal for Supplement 11 to the 01 series of amendments to UN Regulation No 74 (Installation of lighting and light-signalling devices for mopeds) | ECE/TRANS/WP.29/2019/87 |
+| 80 | Proposal for the 04 series of amendments to UN Regulation No 80 (Strength of seats and their anchorages (buses)) | ECE/TRANS/WP.29/2019/103 |
+| 83 | Proposal for Supplement 10 to the 07 series of amendments to UN Regulation No 83 (Emissions of M1 and N1 vehicles) | ECE/TRANS/WP.29/2019/127 |
+| 85 | Proposal for Supplement 10 to UN Regulation No 85 (Measurement of the net power and the 30 min. power) | ECE/TRANS/WP.29/2019/112 |
+| 86 | Proposal for Supplement 2 to the 01 series of amendments to Regulation No 86 (Installation of lighting and light-signalling devices for agricultural vehicles) | ECE/TRANS/WP.29/2019/88 |
+| 98 | Proposal for Supplement 1 to the 02 series of amendments to UN Regulation No 98 (Headlamps with gas-discharge light sources) | ECE/TRANS/WP.29/2019/89 |
+| 107 | Proposal for Supplement 8 to the 06 series of amendments to UN Regulation No 107 (M2 and M3 vehicles) | ECE/TRANS/WP.29/2019/99 |
+| 107 | Proposal for Supplement 7 to the 07 series of amendments to UN Regulation No 107 (M2 and M3 vehicles) | ECE/TRANS/WP.29/2019/100 |
+| 107 | Proposal for Supplement 2 to the 08 series of amendments to UN Regulation No 107 (M2 and M3 vehicles) | ECE/TRANS/WP.29/2019/101 |
+| 112 | Proposal for Supplement 1 to the 02 series of amendments to UN Regulation No 112 (Headlamps emitting an asymmetrical passing-beam) | ECE/TRANS/WP.29/2019/90 |
+| 113 | Proposal for Supplement 1 to the 03 series of amendments to UN Regulation No 113 (Headlamps emitting a symmetrical passing-beam) | ECE/TRANS/WP.29/2019/91 |
+| 115 | Proposal for Supplement 9 to UN Regulation No 115 (LPG and CNG retrofit systems) | ECE/TRANS/WP.29/2019/113 |
+| 116 | Proposal for Supplement 7 to UN Regulation No 116 (Anti-theft and alarm systems) | ECE/TRANS/WP.29/2019/102 |
+| 123 | Proposal for Supplement 1 to the 02 series of amendments to UN Regulation No 123 (Adaptive front lighting systems (AFS)) | ECE/TRANS/WP.29/2019/92 |
+| 129 | Proposal for Supplement 3 to the 03 series of amendments to UN Regulation No 129 (Enhanced Child Restraint Systems) | ECE/TRANS/WP.29/2019/109 |
+| 135 | Proposal for Supplement 2 to the original series of UN Regulation No 135 (Pole Side Impact (PSI)) | ECE/TRANS/WP.29/2019/110 |
+| 135 | Proposal for Supplement 2 to the 01 series of amendments to UN Regulation No 135 (Pole Side Impact (PSI)) | ECE/TRANS/WP.29/2019/111 |
+| 148 | Proposal for Supplement 1 to the original series of UN Regulation No [148] on Light-Signalling Devices (LSD) | ECE/TRANS/WP.29/2019/81 |
+| 149 | Proposal for Supplement 1 to the original series of UN Regulation No [149] on Road Illumination Devices (RID) | ECE/TRANS/WP.29/2019/82 |
+| 149 | Proposal for Supplement 2 to the original series of UN Regulation No [149] on Road Illumination Devices (RID) | ECE/TRANS/WP.29/2019/125 |
+| 150 | Proposal for Supplement 1 to the original series of UN Regulation No [150] on Retro-Reflective Devices (RRD) | ECE/TRANS/WP.29/2019/83 |
+| 0 | 1 | 2 |
+| GTR No | Agenda item title | Document reference |
+| 2 | Proposal for Amendment 4 to UN GTR No 2 (on the measurement procedure for two- wheeled motorcycles equipped with a positive or compression ignition engine with regard to the emissions of gaseous pollutants, CO2 emissions and fuel consumption) | ECE/TRANS/WP.29/2019/121 |
+| 2 | Technical report on the development of Amendment 4 to UN GTR No 2 (on the measurement procedure for two- wheeled motorcycles equipped with a positive or compression ignition engine with regard to the emissions of gaseous pollutants, CO2 emissions and fuel consumption) | ECE/TRANS/WP.29/2019/122 |
+| 2 | Authorization to develop amendment 4 to the global technical regulation | ECE/TRANS/WP.29/AC.3/36/Rev.1 |
+| 0 | 1 | 2 |
+| Resolution No | Agenda item title | Document reference |
+| R.E.3 | Proposal for an amendment to the Consolidated Resolution on the Construction of Vehicles (R.E.3) | ECE/TRANS/WP.29/2019/117 |
+| R.E.3 | Proposal for an amendment to Annex IV of Consolidated Resolution on the Construction of Vehicles (R.E. 3) | ECE/TRANS/WP.29/2019/118, WP.29-179-06 |
+| R.E.5 | Proposal for amendment 4 to the Consolidated Resolution on the common specification of light source categories (R.E.5) | ECE/TRANS/WP.29/2019/126 |
+| MR.1 | Proposal for Amendment 2 to Mutual Resolution No 1 (MR.1) — Draft Addendum 3 | ECE/TRANS/WP.29/2019/119 |
+| 0 | 1 | 2 |
+| Miscellaneous | Agenda item title | Document reference |
+|  | Proposal for authorization to develop an amendment to UN GTR No 6 | ECE/TRANS/WP.29/2019/123 |
+|  | Proposal for Revision 1 to the Authorization to develop a new UN GTR on the Determination of Electrified Vehicle Power (DEVP) | ECE/TRANS/WP.29/2019/124 |
+
+(1) All documents referred to in the table are available at: http://www.unece.org/trans/main/wp29/wp29wgs/wp29gen/gen2019.html.
+citation
+THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114, in conjunction with Article 218(9) thereof,
+Having regard to the proposal from the European Commission,
+Whereas:
+recital 2
+(2) By Council Decision 2000/125/EC (2), the Union acceded to the Agreement concerning the establishing of global technical regulations for wheeled vehicles, equipment and parts which can be fitted and/or be used on wheeled vehicles ('Parallel Agreement').
+
+The Parallel Agreement entered into force on 15 February 2000.
+recital 3
+(3) Pursuant to Article 1 of the Revised 1958 Agreement and Article 6 of the Parallel Agreement, the UNECE World Forum for Harmonisation of Vehicle Regulations ('WP.29') may adopt, as applicable, the proposals for modifications to UN Regulations Nos 0, 16, 17, 21, 29, 43, 44, 48, 53, 55, 58, 67, 74, 80, 83, 85, 86, 98, 107, 112, 113, 115, 116, 123, 129, 135, 148, 149 and 150, the proposal for modifications to Global Technical Regulation (GTR) No 2, the proposal for amendments to Mutual Resolution MR.1, the proposals for amendments to Consolidated Resolutions R.E.3 and R.E.5 and the proposals for authorisations to develop an amendment to GTR No 6 and to develop a new GTR on the Determination of Electrified Vehicle Power.
+recital 4
+(4) WP.29, during the 179th session of the World Forum to be held between 12 and 14 November 2019, is to adopt the above acts in relation to the administrative provisions and uniform technical prescriptions for the approval of harmonised technical United Nations regulations and global technical regulations for wheeled vehicles, equipment and parts, which can be fitted and/or be used on wheeled vehicles.
+recital 5
+(5) It is appropriate to establish the position to be taken on the Union's behalf in WP.29 as regards the adoption of proposals for UN Regulations, as the UN Regulations will be binding on the Union and capable of decisively influencing the content of Union law in the field of vehicle type-approval.
+recital 6
+(6) Directive 2007/46/EC of the European Parliament and of the Council (3) replaced the approval systems of the Member States with a Union approval procedure and established a harmonised framework containing administrative provisions and general technical requirements for all new vehicles, systems, components and separate technical units.
+
+That Directive incorporated regulations adopted under the Revised 1958 Agreement ('UN Regulations') in the EU type-approval system, either as requirements for type-approval or as alternatives to Union legislation. Since the adoption of Directive 2007/46/EC, UN regulations have been increasingly incorporated into Union legislation.
+recital 7
+(7) In the light of experience and technical developments, the requirements relating to certain elements or features covered by UN Regulations Nos 0, 16, 21, 29, 43, 44, 48, 53, 55, 58, 67, 74, 80, 83, 85, 86, 98, 107, 112, 113, 115, 116, 123, 129, 135, 148, 149 and 150 need to be amended or supplemented.
+
+In addition, certain provisions in GTR No 2 need to be modified, and certain provisions in UN Regulation No 17 need to be corrected. Finally, the amendments to Mutual Resolution MR.1 and the amendments to Consolidated Resolutions R.E.3 and R.E.5 need to be adopted.
+recital 8
+(8) WP.29 working document ECE/TRANS/WP.29/2019/93 concerns a proposal for the 01 series of amendments to UN Regulation No 35 (Foot controls).
+
+Given that the Union is not applying the uniform provisions of UN Regulation 35, it is not necessary to establish a position of the Union on proposal ECE/TRANS/WP.29/2019/93.
+recital 9
+(9) WP.29 working document ECE/TRANS/WP.29/2019/114 concerns a proposal for Supplement 2 of the 03 series of amendments to UN Regulation No 79 (Steering equipment) as initially submitted by the Chair of the relevant dedicated subsidiary body of WP.29.
+
+At the last meeting of the dedicated subsidiary body, following concerns of certain Contracting Parties, the Chair agreed to submit a revised document to WP.29. As the document is currently not available on the WP.29 Secretariat's portal, and may need further discussion among the experts, it would be appropriate to refer it back to the dedicated subsidiary body.

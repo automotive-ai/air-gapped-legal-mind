@@ -1,0 +1,100 @@
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 715/2007 of the European Parliament and of the Council of 20 June 2007 on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (euro 5 and euro 6) and on access to vehicle repair and maintenance information (1), and in particular Article 5(3) thereof,
+Having regard to Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (2), and in particular Article 39(2) thereof,
+Whereas:
+
+(1) Regulation (EC) No 715/2007 establishes common technical requirements for the type-approval of motor vehicles and replacement parts with regard to their emissions and lays down rules for in-service conformity, durability of pollution control devices, on-board diagnostic (OBD) systems, measurement of fuel consumption and accessibility of vehicle repair and maintenance information. (2) Commission Regulation (EC) No 692/2008 of 18 July 2008 implementing and amending Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (euro 5 and euro 6) and on access to vehicle repair and maintenance information (3) lays down the administrative provisions for checking the conformity of vehicles with regard to CO2 emissions and sets out the requirements for the measurement of CO2 emissions and fuel consumption of such vehicles. (3) Regulation (EU) No 510/2011 of the European Parliament and of the Council of 11 May 2011 setting emission performance standards for new light commercial vehicles as part of the Union's integrated approach to reduce CO2 emissions from light-duty vehicles (4), lays down the obligation to set up a procedure to obtain representative values of CO2 emissions, fuel efficiency and mass of completed vehicles while ensuring that the manufacturer of the base vehicle has timely access to the mass and to the specific emissions of CO2 of the completed vehicle. (4) Pursuant to Regulation (EU) No 510/2011, the specific emissions of CO2 of completed vehicles are to be allocated to the manufacturer of the base vehicle. When establishing the monitoring procedure to ensure that the values of CO2 emissions, fuel efficiency and mass of completed vehicles are representative, the method for determining the mass and CO2 values should be set out, if appropriate, based on a table of CO2 values corresponding to different final inertia weight classes or based on only one CO2 value derived from the base vehicle mass plus a default added mass differentiated by N1 class. (5) On the basis of those alternative methods, indicated in point 7 of Part B of Annex II to Regulation (EU) No 510/2011, different options were considered and assessed in terms of accuracy, representativeness and feasibility. The option based on testing the base vehicle with a single estimated mass value, where the component corresponding to the bodywork is calculated by applying a polynomial formula dependent of the reference mass of the base vehicle, presents the best balance between accuracy in terms of CO2 emissions determination from the completed vehicle, costs involved, and ease of implementation. (6) In order to ensure that the performance of vehicle manufacturers in reducing CO2 emissions pursuant to Regulation (EU) No 510/2011 can be adequately and efficiently monitored, it is necessary to include the relevant information in the certificate of conformity. (7) Sufficient lead time should be given in order to allow manufacturers and national authorities to adapt their procedures to the new rules. (8) In the light of the experience gained from the application of the procedure for determining the CO2 emissions from completed vehicles and the monitoring of those emissions, it is appropriate to review the procedure and evaluate the representativeness of the CO2 emissions as well as the efficacy and accuracy of the monitoring of CO2 emissions at the latest by the end of 2016. (9) Directive 2007/46/EC and Regulation (EC) No 692/2008 should therefore be amended accordingly. (10) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee - Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+recital 6
+(6) In order to ensure that the performance of vehicle manufacturers in reducing CO2 emissions pursuant to Regulation (EU) No 510/2011 can be adequately and efficiently monitored, it is necessary to include the relevant information in the certificate of conformity.
+recital 10
+(10) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee - Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+Article 1
+Annexes I and IX to Directive 2007/46/EC are amended in accordance with Annex I to this Regulation.
+Article 5
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2014, with the exception of Article 4(3) which shall apply from 1 January 2013.
+recital 3
+(3) Regulation (EU) No 510/2011 of the European Parliament and of the Council of 11 May 2011 setting emission performance standards for new light commercial vehicles as part of the Union's integrated approach to reduce CO2 emissions from light-duty vehicles (4), lays down the obligation to set up a procedure to obtain representative values of CO2 emissions, fuel efficiency and mass of completed vehicles while ensuring that the manufacturer of the base vehicle has timely access to the mass and to the specific emissions of CO2 of the completed vehicle.
+recital 7
+(7) Sufficient lead time should be given in order to allow manufacturers and national authorities to adapt their procedures to the new rules.
+recital 2
+(2) Commission Regulation (EC) No 692/2008 of 18 July 2008 implementing and amending Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (euro 5 and euro 6) and on access to vehicle repair and maintenance information (3) lays down the administrative provisions for checking the conformity of vehicles with regard to CO2 emissions and sets out the requirements for the measurement of CO2 emissions and fuel consumption of such vehicles.
+Article 2
+Annexes I and XII to Regulation (EC) No 692/2008 are amended in accordance with Annex II to this Regulation.
+recital 1
+(1) Regulation (EC) No 715/2007 establishes common technical requirements for the type-approval of motor vehicles and replacement parts with regard to their emissions and lays down rules for in-service conformity, durability of pollution control devices, on-board diagnostic (OBD) systems, measurement of fuel consumption and accessibility of vehicle repair and maintenance information.
+recital 5
+(5) On the basis of those alternative methods, indicated in point 7 of Part B of Annex II to Regulation (EU) No 510/2011, different options were considered and assessed in terms of accuracy, representativeness and feasibility.
+
+The option based on testing the base vehicle with a single estimated mass value, where the component corresponding to the bodywork is calculated by applying a polynomial formula dependent of the reference mass of the base vehicle, presents the best balance between accuracy in terms of CO2 emissions determination from the completed vehicle, costs involved, and ease of implementation.
+recital 9
+(9) Directive 2007/46/EC and Regulation (EC) No 692/2008 should therefore be amended accordingly.
+ANNEX I
+ANNEX I
+Annexes I and IX to Directive 2007/46/EC are amended as follows:
+
+(1) in Annex I, the following points 2.17, 2.17.1 and 2.17.2 are added: 2.17. Vehicle submitted to multi-stage type-approval (only in the case of incomplete or completed vehicles of category N1 within the scope of Regulation (EC) No 715/2007: yes/no (1) 2.17.1. Mass of the base vehicle in running order: …kg.
+2.17.2. Default added mass, calculated in accordance with Section 5 of Annex XII to Regulation (EC) No 692/2008: …kg.' (2) Annex IX is amended as follows: (a) Part I, Complete and completed vehicles, is amended as follows: (i) in Model B - Side 1, Completed vehicles, EC certificate of conformity, the following point 0.2.2 is inserted: '0.2.2. Type-approval information of the base vehicle (q):
+Type: …
+Variant (a): …
+Version (a): …
+Type-approval number, including extension number …'
+(ii) in Model B - Side 1, Completed vehicles, EC certificate of conformity, the following point 0.5.1 is inserted: '0.5.1. Name and address of the manufacturer of the base vehicle (q) …' (iii) in Side 2 - Vehicle category N1 (complete and completed vehicles), the following point 14 is inserted: '14. Mass of the base vehicle in running order: …kg (1)(q)'
+(b) in the 'Explanatory notes relating to Annex IX', the following explanatory note (q) is added: '(q) In the case of completed vehicles of category N1 within the scope of Regulation (EC) No 715/2007.'
+Article 4
+1. For a transitional period until 1 January 2014, certificates of conformity of base vehicles of category N1 within the scope of Regulation (EC) No 715/2007 issued in accordance with Directive 2007/46/EC and Regulation (EC) No 692/2008 before the amendments introduced by this Regulation, shall continue to be valid.
+
+2. For a transitional period until 1 January 2014, certificates of conformity of completed vehicles of category N1 within scope of Regulation (EC) No 715/2007 issued in accordance with Directive 2007/46/EC and Regulation (EC) No 692/2008 before the amendments introduced by this Regulation, shall continue to be valid. 3. With effect from 1 January 2013, national authorities shall consider certificates of conformity complying with the requirements set out in this Regulation to be valid.
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 715/2007 of the European Parliament and of the Council of 20 June 2007 on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (euro 5 and euro 6) and on access to vehicle repair and maintenance information (1), and in particular Article 5(3) thereof,
+Having regard to Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (2), and in particular Article 39(2) thereof,
+Whereas:
+recital 4
+(4) Pursuant to Regulation (EU) No 510/2011, the specific emissions of CO2 of completed vehicles are to be allocated to the manufacturer of the base vehicle.
+
+When establishing the monitoring procedure to ensure that the values of CO2 emissions, fuel efficiency and mass of completed vehicles are representative, the method for determining the mass and CO2 values should be set out, if appropriate, based on a table of CO2 values corresponding to different final inertia weight classes or based on only one CO2 value derived from the base vehicle mass plus a default added mass differentiated by N1 class.
+recital 8
+(8) In the light of the experience gained from the application of the procedure for determining the CO2 emissions from completed vehicles and the monitoring of those emissions, it is appropriate to review the procedure and evaluate the representativeness of the CO2 emissions as well as the efficacy and accuracy of the monitoring of CO2 emissions at the latest by the end of 2016.
+ANNEX II
+ANNEX II
+Annexes I and XII to Regulation (EC) No 692/2008 are amended as follows:
+
+(1) in Appendix 3 of Annex I, the following points 2.17, 2.17.1 and 2.17.2 are inserted: 2.17. Vehicle submitted to multi-stage type-approval (only in the case of incomplete or completed vehicles of category N1 within the scope of Regulation (EC) No 715/2007): yes/no (1) 2.17.1. Mass of the base vehicle in running order: … kg
+2.17.2. Default added mass, calculated in accordance with Section 5 of Annex XII to Regulation (EC) No 692/2008: … kg'
+(2) in Annex XII, the following Section 5 is added: '5. DETERMINATION OF CO2 EMISSIONS AND FUEL CONSUMPTION FROM N1 VEHICLES SUBMITTED TO MULTI-STAGE TYPE-APPROVAL
+5.1. For the purpose of determining the CO2 emissions and fuel consumption of a vehicle submitted to multi-stage type-approval, as defined in Article 3(7) of Directive 2007/46/EC, the base vehicle, as defined in Article 3(18) of that Directive, shall be tested in accordance with points 2 and 3 of this Annex. 5.2. The reference mass to be used for the testing shall be the one resulting from the following formula: {{IMAGE:Image_0, Caption:Formula for calculating the reference mass (RM) for multi-stage type-approval.}} In this formula: RM
+=
+reference mass to be used for the testing in kg
+RM Base_Vehicle
+=
+reference mass of the base vehicle, as defined in Article 3(3) of Regulation (EC) No 715/2007, in kg
+DAM
+=
+default added mass, calculated in accordance with the formula set out in point 5.3, corresponding to the estimated weight of the bodywork fitted to the base vehicle, in kg. 5.3. The default added mass shall be calculated according to the following formula: {{IMAGE:Image_1, Caption:Mathematical term a × (TPMLM - RM_Base_Vehicle) used for determining reference mass in multi-stage vehicle type-approval.}} In this formula: DAM
+=
+default added mass in kg
+a
+=
+multiplying factor, calculated in accordance with the formula set out in point 5.4
+TPMLM
+=
+technically permissible maximum laden mass, stated by the manufacturer of the base vehicle, in kg
+RM Base_Vehicle
+=
+reference mass of the base vehicle, as defined in Article 3(3) of Regulation (EC) No 715/2007, in kg. 5.4. The multiplying factor shall be calculated according to the following formula: {{IMAGE:Image_2, Caption:Equation defining the coefficient 'a' based on the reference mass of the base vehicle.}} In this formula: a
+=
+multiplying factor
+RM Base_Vehicle
+=
+reference mass of the base vehicle, as defined in Article 3(3) of Regulation (EC) No 715/2007, in kg. 5.5. The manufacturer of the base vehicle is responsible for the correct application of the requirements laid down in points 5.1 to 5.4. 5.6. The manufacturer of the completed vehicle shall include, in the certificate of conformity, the information concerning the base vehicle, in accordance with Annex IX to Directive 2007/46/EC. 5.7. In the case of vehicles submitted to individual vehicle approval, the individual approval certificate shall include the following information: (a) the CO2 emissions measured according to the methodology set out in points 5.1 to 5.4; (b) the mass of the completed vehicle in running order; (c) the identification code corresponding to the type, variant and version of the base vehicle; (d) the type-approval number of the base vehicle, including the extension number; (e) the name and address of the manufacturer of the base vehicle; (f) the mass of the base vehicle in running order. 5.8. The procedure set out in points 5.1 to 5.7 shall apply to base vehicles of category N1, as defined in point 1.2.1 of Part A of Annex II to Directive 2007/46/EC, included in the scope of Regulation (EC) No 715/2007.'.
+Article 3
+The Commission shall assess the need to review the procedure set out in points 5.1 to 5.7 of Annex XII to Regulation (EC) No 692/2008 as amended by this Regulation.
+
+On the basis of that assessment and no later than 31 December 2016, the Commission shall submit a report to the European Parliament and the Council accompanied, if appropriate, by any appropriate proposals.

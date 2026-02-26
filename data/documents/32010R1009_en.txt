@@ -1,0 +1,148 @@
+ADMINISTRATIVE DOCUMENTS FOR EC TYPE-APPROVAL OF MOTOR VEHICLES WITH REGARD TO WHEEL GUARDS
+ANNEX I
+Administrative documents for EC type-approval of motor vehicles with regard to wheel guards
+PART 1
+Information document
+MODEL
+Information document No … relating to the EC type-approval of a motor vehicle with regard to wheel guards. The following information shall be supplied in triplicate and include a list of contents. Any drawings shall be supplied in appropriate scale and in sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, shall show sufficient detail. If the systems, components or separate technical units referred to in this information document have electronic controls, information concerning their performance shall be supplied. 0. GENERAL
+0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.2.1. Commercial name(s) (if available): …
+0.3. Means of identification of type, if marked on the vehicle (b): …
+0.3.1. Location of that marking: …
+0.4. Category of vehicle (c): …
+0.5. Name and address of manufacturer: …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+1. GENERAL CONSTRUCTION CHARACTERISTICS OF THE VEHICLE
+1.1. Photographs and/or drawings of a representative vehicle: …
+1.3. Number of axles and wheels: …
+1.3.1. Number and position of axles with twin wheels: …
+1.3.2. Number and position of steered axles: …
+1.3.3. Powered axles (number, position, interconnection): …
+2. MASSES AND DIMENSIONS (f) (g) 
+2.3. Axle track(s) and width(s): 2.3.1. Track of each steered axle: (1) …
+2.3.2. Track of all other axles: (1) …
+2.3.3. Width of the widest rear axle: …
+2.3.4. Width of the foremost axle (measured at the outermost part of the tyres excluding the bulging of the tyres close to the ground): …
+2.4. Range of vehicle dimensions (overall)
+2.4.1. For chassis without bodywork
+2.4.1.2. Width (2): …
+2.4.1.3. Height (in running order) (3) (for suspensions adjustable for height, indicate normal running position): …
+2.4.2. For chassis with bodywork
+2.4.2.2. Width (2): …
+2.4.2.3. Height (in running order) (3) (for suspensions adjustable for height, indicate normal running position): …
+2.6. Mass in running order
+Mass of the vehicle with bodywork and, in the case of a towing vehicle of category other than M1, with coupling device, if fitted by the manufacturer, in running order, or mass of the chassis or chassis with cab, without bodywork and/or coupling device if the manufacturer does not fit the bodywork and/or coupling device (including liquids, tools, spare wheel, if fitted, and driver and, for buses and coaches, a crew member if there is a crew seat in the vehicle) (h) (maximum and minimum for each variant): …
+6. SUSPENSION
+6.2.1. Level adjustment: yes/no/optional (1) 
+6.6. Tyres and wheels
+6.6.1. Tyre/wheel combination(s)
+(a) for tyres indicate size designation; (b) for wheels indicate rim size(s) and off-set(s) 
+6.6.1.1. Axles
+6.6.1.1.1. Axle 1: …
+6.6.1.1.2. Axle 2: …
+etc.
+6.6.4. Description of the snow traction device(s) and the tyre/wheel combination(s) on the front and/or rear axle(s) suitable for the type of vehicle, as recommended by the manufacturer: …
+9.16. Wheel guards
+9.16.1. Brief description of the vehicle with regard to its wheel guards: …
+9.16.2. Detailed drawings of the wheel guards and their position on the vehicle showing the dimensions specified in Figure 1 of Annex II of this Regulation and taking account of the extremes of tyre/wheel combinations: …
+Explanatory notes
+PART 2
+EC type-approval certificate
+MODEL
+Format: A4 (210 × 297 mm)
+EC TYPE-APPROVAL CERTIFICATE
+Stamp of type-approval authority
+Communication concerning:
+
+| — EC type-approval ( 1 ) — extension of EC type-approval ( 1 ) — refusal of EC type-approval ( 1 ) — withdrawal of EC type-approval ( 1 ) | of a type of vehicle with regard to wheel guards |
+|---|---|
+| with regard to Regulation (EU) No 1009/2010 as last amended by Regulation (EU) No …/… (1) | with regard to Regulation (EU) No 1009/2010 as last amended by Regulation (EU) No …/… (1) |
+| EC type-approval number: … | EC type-approval number: … |
+| Reason for extension: … | Reason for extension: … |
+
+SECTION I
+0.1. Make (trade name of manufacturer): …
+0.2. Type: …
+0.2.1. Commercial name(s) (if available): …
+0.3. Means of identification of type, if marked on the vehicle (2): …
+0.3.1. Location of that marking: …
+0.4. Category of vehicle (3): …
+0.5. Name and address of manufacturer: …
+0.8. Name(s) and address(es) of assembly plant(s): …
+0.9. Name and address of the manufacturer's representative (if any): …
+SECTION II
+1. Additional information: see Addendum. 2. Technical service responsible for carrying out the tests: …
+3. Date of test report: …
+4. Number of test report: …
+5. Remarks (if any): see Addendum. 6. Place: …
+7. Date: …
+8. Signature: …
+Attachments
+:
+Information package
+Test report
+(b) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??). (c) Classified according to the definitions set out in Directive 2007/46/EC Part A of Annex II. (f) Where there is one version with a normal cab and another with a sleeper cab, both sets of masses and dimensions are to be stated. (g) Standard ISO 612: 1978 - Road vehicles - Dimensions of motor vehicles and towed vehicles - terms and definitions. (1) 
+(g4)
+Term No 6.5. 
+(2) 
+(g7)
+Term No 6.2. 
+(3) 
+(g8)
+Term No 6.3. (h) The mass of the driver and, if applicable, of the crew member is assessed at 75 kg (subdivided into 68 kg occupant mass and 7 kg luggage mass according to ISO Standard 2416 - 1992), the fuel tank is filled to 90 % and the other liquid containing systems (except those for used water) to 100 % of the capacity specified by the manufacturer. (1) Delete where not applicable. (1) Delete where not applicable. (2) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??). (3) As defined in Directive 2007/46/EC, Annex II, Section A.
+(1) 'vehicle type with regard to wheel guards' means vehicles which do not differ in such essential respects as the characteristics of the wheel guards or the minimum and maximum tyre and wheel sizes suitable for fitment, taking into account the applicable tyre envelopes, rim sizes and wheel off-sets;
+Article 5 - Entry into force
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+Article 1 - Scope
+This Regulation applies to motor vehicles of category M1, as defined in Annex II to Directive 2007/46/EC.
+Article 2 - Definitions
+For the purposes of this Regulation, the following definitions shall apply:
+
+(1) 'vehicle type with regard to wheel guards' means vehicles which do not differ in such essential respects as the characteristics of the wheel guards or the minimum and maximum tyre and wheel sizes suitable for fitment, taking into account the applicable tyre envelopes, rim sizes and wheel off-sets; (2) 'tyre envelope' means the maximum section width and outer-diameter of a tyre, including tolerances, as permitted and specified according to its component approval; (3) 'snow traction device' means a snow chain or other equivalent device providing traction in snow, which shall be able to be mounted onto the vehicle's tyre/wheel combination and which is not a snow tyre, winter tyre, all-season tyre or any other tyre by itself.
+Article 3 - Provisions for EC type-approval of a vehicle with regard to wheel guards
+1. The manufacturer or his representative shall submit to the type-approval authority the application for EC type-approval of a vehicle with regard to wheel guards.
+
+2. The application shall be drawn up in accordance with the model of the information document set out in Part 1 of Annex I. 3. If the relevant requirements set out in Annex II to this Regulation are met, the approval authority shall grant an EC type-approval and issue a type-approval number in accordance with the numbering system set out in Annex VII to Directive 2007/46/EC. A Member State may not assign the same number to another vehicle type. 4. For the purposes of paragraph 3, the type-approval authority shall deliver an EC type-approval certificate established in accordance with the model set out in Part 2 of Annex I.
+Article 4 - Validity and extension of approvals granted under Directive 78/549/EEC
+National authorities shall permit the sale and entry into service of vehicles type-approved before the date referred to in Article 13(2) of Regulation (EC) No 661/2009 and continue to grant extension of approvals to those vehicles under the terms of Directive 78/549/EEC.
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor (1), and in particular Article 14 (1)(a) thereof,
+Whereas:
+recital 1
+(1) Regulation (EC) No 661/2009 is a separate Regulation for the purposes of the type-approval procedure provided for by Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (2).
+recital 2
+(2) Regulation (EC) No 661/2009 repeals Council Directive 78/549/EEC of 12 June 1978 on the approximation of the laws of the Member States relating to the wheel guards of motor vehicles (3).
+
+The requirements set out in that Directive should be carried over to this Regulation and, where necessary, amended in order to adapt them to the development of scientific and technical knowledge.
+recital 3
+(3) The scope of this Regulation should be in line with that of Directive 78/549/EEC and thus limited to vehicles of category M1.
+recital 4
+(4) Regulation (EC) No 661/2009 lays down fundamental provisions on requirements for the type-approval of certain motor vehicles with regard to wheel guards.
+
+Therefore it is necessary to also set out the specific procedures, tests and requirements for such type-approval.
+recital 5
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee - Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+REQUIREMENTS FOR WHEEL GUARDS
+ANNEX II
+Requirements for wheel guards
+1. GENERAL REQUIREMENTS
+1.1. The motor vehicle shall be provided with a wheel guard for each wheel.
+
+1.2. The wheel guard may consist of parts of the bodywork or separate mudguards and shall be so designed as to protect road users, as far as possible, against thrown-up stones, mud, ice, snow and water and to reduce the dangers due to contact with rotating wheels. 2. SPECIFIC REQUIREMENTS
+2.1. The wheel guards shall meet the following requirements with the vehicle's mass adjusted to that of the manufacturer's declared mass in running order with one additional passenger on the first seating row and the steered wheels in the straight ahead position. 2.1.1. In the part formed by radial planes at an angle of 30° towards the front and 50° towards the rear of the centre of the wheels (see Figure 1), the overall width (q) of the wheel guard shall be at least sufficient to cover the total tyre width (b) taking into account the tyre envelope as well as the extremes of the tyre/wheel combination(s) as specified by the manufacturer. In the case of twin wheels, the tyre envelopes and total width over the two tyres (t) shall be taken into account. 2.1.1.1. For the purposes of determining the widths referred to in paragraph 2.1.1, the labelling (marking) and decorations, protective bands or ribs on tyre walls are not taken into account. 2.1.2. The rear of the wheel guard shall not terminate above a horizontal plane 150 mm above the axis of rotation of the wheels, furthermore: 2.1.2.1. In case of single wheels, the intersection of the rear edge of the wheel guard with the horizontal plane as defined in paragraph 2.1.2 (see Figure 1, point A) shall lie outwards of the median longitudinal plane of the tyre. 2.1.2.2. In the case of twin wheels, the intersection of the rear edge of the wheel guard with the horizontal plane as defined in paragraph 2.1.2 (see Figure 1, point A) at the outside wheel shall lie outwards of the median longitudinal plane of the outermost tyre. 2.1.3. The contour and location of each wheel guard shall be such that they are as close to the tyres as possible. In particular within the part formed by the radial planes referred to in paragraph 2.1.1, the following requirements shall be satisfied: 2.1.3.1. The depth (p) of the recess situated in the vertical plane of the tyre axis, measured from the outward and inward edges of the wheel guard at the vertical longitudinal plane passing through the centre of the tyre inside the wheel guard, shall be at least 30 mm. This depth (p) may be reduced progressively to zero towards the radial planes specified in paragraph 2.1.1. 2.1.3.2. The distance (c) between the lower edges of the wheel guard and the axis passing through the centre of rotation of the wheels shall not exceed 2 × r, where the radius (r) is the static radius of the tyre. 2.1.4. In the case of vehicles having an adjustable suspension height, the abovementioned requirements shall be met when the vehicle is in the normal running position as specified by the vehicle manufacturer. 2.2. The wheel guards may consist of several components, provided that no gaps exist between or within the individual parts when assembled. 2.3. The wheel guards shall be firmly attached. However, they may be detachable either as a unit or in parts. 3. USE OF SNOW TRACTION DEVICES
+3.1. In the case of vehicles where only two wheels are driven, the manufacturer shall certify that the vehicle is so designed that at least one type of snow traction device can be used on at least one of the tyre and wheel combinations approved for the driven axle of the vehicle. The snow traction device and tyre/wheel combination(s) suitable for the vehicle type shall be specified by the manufacturer under item 6.6.4 in the information document. 3.2. In the case of vehicles where all wheels are driven, including vehicles where drive axles can be disengaged either manually or automatically, the manufacturer shall certify that the vehicle is so designed that at least one type of snow traction device can be used on at least one of the tyre and wheel combinations approved for the driven axle, which cannot be disengaged, of the vehicle. The snow traction device and tyre/wheel combination(s) suitable for the vehicle type shall be specified by the manufacturer under item 6.6.4 in the information document. 3.3. The vehicle manufacturer shall include relevant instructions regarding the correct use of the specified snow traction devices in the vehicle handbook and this information shall be given in the national language, or at least one of the national languages, of the country in which the vehicle is offered for sale. {{IMAGE:Image_0, Caption:Technical diagram of a wheel guard showing side, rear, and top views with specified dimensions, angles (30° and 50°), and clearances relative to the wheel axis.}} Explanatory note 1
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor (1), and in particular Article 14 (1)(a) thereof,
+Whereas:
+
+(1) Regulation (EC) No 661/2009 is a separate Regulation for the purposes of the type-approval procedure provided for by Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (2). (2) Regulation (EC) No 661/2009 repeals Council Directive 78/549/EEC of 12 June 1978 on the approximation of the laws of the Member States relating to the wheel guards of motor vehicles (3). The requirements set out in that Directive should be carried over to this Regulation and, where necessary, amended in order to adapt them to the development of scientific and technical knowledge. (3) The scope of this Regulation should be in line with that of Directive 78/549/EEC and thus limited to vehicles of category M1. (4) Regulation (EC) No 661/2009 lays down fundamental provisions on requirements for the type-approval of certain motor vehicles with regard to wheel guards. Therefore it is necessary to also set out the specific procedures, tests and requirements for such type-approval. (5) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee - Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+(2) 'tyre envelope' means the maximum section width and outer-diameter of a tyre, including tolerances, as permitted and specified according to its component approval;
+(3) 'snow traction device' means a snow chain or other equivalent device providing traction in snow, which shall be able to be mounted onto the vehicle's tyre/wheel combination and which is not a snow tyre, winter tyre, all-season tyre or any other tyre by itself.

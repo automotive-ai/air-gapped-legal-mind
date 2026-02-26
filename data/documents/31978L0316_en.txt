@@ -1,0 +1,138 @@
+Council Directive 78/316/EEC of 21 December 1977 on the approximation of the laws of the Member States relating to the interior fittings of motor vehicles (identification of controls, tell-tales and indicators)
+Council Directiveof 21 December 1977on the approximation of the laws of the Member States relating to the interior fittings of motor vehicles (identification of controls, tell-tales and indicators)(78/316/EEC)THE COUNCIL OF THE EUROPEAN COMMUNITIES,Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,Having regard to the proposal from the Commission,Having regard to the opinion of the European Parliament [1],Having regard to the opinion of the Economic and Social Committee [2],Whereas the technical requirements which motor vehicles must satisfy pursuant to national laws relate inter alia to the identification of controls, tell-tales and indicators;Whereas these requirements differ from one Member State to another; whereas it is therefore necessary that all Member States adopt the same requirements either in addition to or in place of their existing rules in order, in particular, to allow the EEC type-approval procedure, which was the subject of Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers [3], as amended by Directive 78/315/EEC [4];Whereas it is advisable to draft the technical requirements so that they have the same aim as the work being carried out on the subject in the UN Economic Commission for Europe and as certain technical requirements adopted by the International Organization for Standardization (ISO);Whereas the approximation of national laws relating to motor vehicles entails reciprocal recognition by Member States of the checks carried out by each of them on the basis of the common requirements,HAS ADOPTED THIS DIRECTIVE:Article 1For the purposes of this Directive, "vehicle" means any motor vehicle intended for use on the road, having at least four wheels and a maximum design speed exceeding 25 km/h, with the exception of vehicles which run on rails, agricultural tractors and machinery and public works vehicles.Article 2No Member State may refuse to grant EEC type-approval or national type-approval of a vehicle on grounds relating to the identification of controls, telltales and indicators, if these satisfy the requirements laid down in Annexes I to IV.Article 3No Member State may refuse or prohibit the sale, registration, entry into service or use of any vehicle on grounds relating to the identification of controls, telltales and indicators if these satisfy the requirements laid down in Annexes I to IV.Article 4Any amendments necessary to adapt the requirements of Annexes I to V to technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 70/156/EEC.Article 51.
+
+Member States shall bring into force the provisions necessary in order to comply with this Directive within 18 months of its notification and shall forthwith inform the Commission thereof.2. Member States shall ensure that the texts of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission.Article 6This Directive is addressed to the Member States.Done at Brussels, 21 December 1977.For the CouncilThe PresidentJ. Chabert[1] OJ No C 118, 16. 5. 1977, p. 33.[2] OJ No C 114, 11. 5. 1977, p. 10.[3] OJ No L 42, 23. 2. 1970, p. 1.[4] See page 1 of this Official Journal.--------------------------------------------------LIST OF ANNEXESAnnex I: | Scope, definitions, application for EEC type-approval, EEC type-approval, specifications [1] |Annex II: | Controls, tell-tales and indicators for which, when fitted, identification is mandatory, and symbols to be used for that purpose [1] |Annex III: | Controls, tell-tales and indicators for which, when fitted, identification is optional, and symbols which must be used if they are to be identified [1] |Annex IV: | Construction of the basic pattern for the symbols shown in Annexes II and III [1] |Annex V: | Annex to the EEC vehicle type-approval certificate with regard to the identification of controls, tell-tales and indicators. |[*] The technical requirements of this Annex are similar to those of the relevant UN Economic Commission for Europe draft regulation; the subdivisions have thus been observed. Where a section of the draft regulation has no counterpart in the Annexes to this Directive, the number is given in brackets for the record.--------------------------------------------------ANNEX ISCOPE, DEFINITIONS, APPLICATION FOR EEC TYPE-APPROVAL, EEC TYPE-APPROVAL, SPECIFICATIONS1. SCOPEThis Directive applies to motor vehicles with regard to the identification of manual controls, tell-tales and indicators.2. DEFINITIONS(2.1.) 2.2. Vehicle type"Vehicle type" means motor vehicles which do not differ in respect of the internal arrangements which may affect the identification of symbols for controls, tell-tales and indicators.2.3. Control"Control" means that part of a device which enables the driver to bring about a change in the state or functioning of a vehicle.2.4. On/off switch"On/off switch" means a device by which the supply to an electrical circuit can be connected or cut off.2.5. Selector switch"Selector switch" means a device by which the supply of electric current can be transferred from one of two circuits to the other without any possibility of disconnection between the two positions.2.6. Combined on/off-selector switch"Combined on/off-selector switch" means a multi-function device which on first being actuated or put into position operates as an on/off switch and on each of the subsequent occasions when it is actuated or put into position operates as a selector switch.2.7. Indicator"Indicator" means a device which presents information on the functioning or situation of a system or part of a system, for example a fluid level.2.8. Tell-tale"Tell-tale" means an optical signal which indicates the actuation of a device, correct or defective functioning or condition, or failure to function.2.9. Symbol"Symbol" means a diagram identifying a control, a tell-tale or an indicator.2.10. Master lighting switch"Master lighting switch" means a switch connecting or cutting off the supply of current to the electrical circuits of the main/dipped-beam headlamps and lamp of the devices referred to in 3.11 of Annex I to Council Directive 76/756/EEC of 27 July 1976 on the approximation of the laws of the Member States relating to the installation of lighting and light-signalling devices on motor vehicles and their trailers [1].2.11. Battery-charging indicator"Battery-charging indicator" means a device showing whether the battery is being charged or not.2.12. Battery charging tell-tale"Battery charging tell-tale" means a signal which when alight indicates that the battery is not being charged.2.13. Fuel-level indicator"Fuel-level indicator" means a device which gives information on the amount of fuel in the tank.2.14. Fuel level tell-tale"Fuel level tell-tale" means a signal which when alight indicates that the fuel level is close to zero or that the vehicle is running on its fuel reserve.2.15. Engine coolant temperature indicator"Engine coolant temperature indicator" means a device which gives information on the temperature of the coolant.2.16. Engine coolant temperature tell-tale"Engine coolant temperature tell-tale" means a signal which when alight indicates that the temperature of the engine coolant is above the normal running temperature prescribed by the manufacturer.2.17. Oil pressure indicator"Oil pressure indicator" means a device which gives information on the pressure of the oil in the engine lubrication circuit.2.18.
+Consolidated text: Council Directive of 21 December 1977 on the approximation of the laws of the Member States relating to the interior fittings of motor vehicles (identification of controls, tell-tales and indicators) (78/316/EEC)
+Consolidated TEXT: 31978L0316 — EN — 19.11.1993
+1978L0316 — EN — 19.11.1993 — 001.001
+This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents
+►B
+COUNCIL DIRECTIVE
+of 21 December 1977
+on the approximation of the laws of the Member States relating to the interior fittings of motor vehicles (identification of controls, tell-tales and indicators)
+(78/316/EEC)
+(OJ L 081, 28.3.1978, p.3)
+Amended by:
+
+Official Journal
+ No
+page
+date
+►M1
+Commission Directive 93/91/EEC of 29 October 1993
+ L 284
+25
+19.11.1993
+▼B
+COUNCIL DIRECTIVE
+of 21 December 1977
+on the approximation of the laws of the Member States relating to the interior fittings of motor vehicles (identification of controls, tell-tales and indicators)
+(78/316/EEC)
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,
+Having regard to the proposal from the Commission,
+Having regard to the opinion of the European Parliament (
+1
+),
+Having regard to the opinion of the Economic and Social Committee (
+2
+),
+Whereas the technical requirements which motor vehicles must satisfy pursuant to national laws relate inter alia to the identification of controls, tell-tales and indicators; Whereas these requirements differ from one Member State to another; whereas it is therefore necessary that all Member States adopt the same requirements either in addition to or in place of their existing rules in order, in particular, to allow the EEC type-approval procedure, which was the subject of Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (
+3
+), as amended by Directive 78/315/EEC (
+4
+);
+Whereas it is advisable to draft the technical requirements so that they have the same aim as the work being carried out on the subject in the UN Economic Commission for Europe and as certain technical requirements adopted by the International Organization for Standardization (ISO);
+Whereas the approximation of national laws relating to motor vehicles entails reciprocal recognition by Member States of the checks carried out by each of them on the basis of the common requirements,
+HAS ADOPTED THIS DIRECTIVE: Article 1
+For the purposes of this Directive, 'vehicle' means any motor vehicle intended for use on the road, having at least four wheels and a maximum design speed exceeding 25 km/h, with the exception of vehicles which run on 
+►M1
+ rails and of agricultural and forestry tractors and all mobile machinery. ◄ 
+Article 2
+No Member State may refuse to grant EEC type-approval or national type-approval of a vehicle on grounds relating to the identification of controls, telltales and indicators, if these satisfy the requirements laid down in Annexes I to IV. Article 3
+No Member State may refuse or prohibit the sale, registration, entry into service or use of any vehicle on grounds relating to the identification of controls, telltales and indicators if these satisfy the requirements laid down in Annexes I to IV. Article 4
+Any amendments necessary to adapt the requirements of Annexes I to V to technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 70/156/EEC. Article 5
+1. Member States shall bring into force the provisions necessary in order to comply with this Directive within 18 months of its notification and shall forthwith inform the Commission thereof. 2. Member States shall ensure that the texts of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission. Article 6
+This Directive is addressed to the Member States. LIST OF ANNEXES
+ ▼M1 —————
+ ▼B
+(*) The technical requirements of this Annex are similar to those of the relevant UN Economic Commission for Europe draft regulation; the subdivisions have thus been observed. Where a section of the draft regulation has no counterpart in the Annexes to this Directive, the number is given in brackets for the record. ANNEX I
+SCOPE, DEFINITIONS, APPLICATION FOR EEC TYPE-APPROVAL, EEC TYPE-APPROVAL, SPECIFICATIONS
+1. SCOPE
+This Directive applies to motor vehicles with regard to the identification of manual controls, tell-tales and indicators. 2. DEFINITIONS
+▼M1 —————
+▼B
+►M1
+ 2.1. ◄ Vehicle type
+'Vehicle type' means motor vehicles which do not differ in respect of the internal arrangements which may affect the identification of symbols for controls, tell-tales and indicators. ►M1
+ 2.2. ◄ Control
+'Control' means that part of a device which enables the driver to bring about a change in the state or functioning of a vehicle. ▼M1 —————
+▼B
+►M1
+ 2.3. ◄ Indicator
+'Indicator' means a device which presents information on the functioning or situation of a system or part of a system, for example a fluid level. ►M1
+ 2.4. ◄ Tell-tale
+'Tell-tale' means an optical signal which indicates the actuation of a device, correct or defective functioning or condition, or failure to function. ►M1
+ 2.5. ◄ Symbol
+'Symbol' means a diagram identifying a control, a tell-tale or an indicator. ▼M1
+2.6. Information display device
+'Information display device' means a display device capable of displaying more than one type of information or message. ▼M1 —————
+▼B
+3. APPLICATION FOR EEC TYPE-APPROVAL
+▼M1
+3.1.The application for EEC type-approval pursuant to Article 3 (4) of Directive 70/156/EEC of a vehicle type with regard to its identification of controls, tell-tales and indicators shall be submitted by the manufacturer. 3.2.
+A model for the information document is given in Annex V. ▼M1 —————
+▼B
+3.3.
+A vehicle representative of the type to be approved or such part or parts of the vehicle as are considered to be necessary for carrying out the checks and tests prescribed by this Directive must be submitted to the technical service responsible for conducting the type-approval tests. ▼M1
+4. GRANTING OF EEC TYPE-APPROVAL
+4.1. If the relevant requirements are satisfied, EEC type-approval pursuant to Article 4 (3) of Directive 70/156/EEC shall be granted. 4.2. A model for the EEC type-approval certificate is given in Annex VI. 4.3. An approval number in accordance with Annex VII to Directive 70/156/EEC shall be assigned to each type of vehicle approved. The same Member State shall not assign the same number to another type of vehicle. ▼B
+5. SPECIFICATIONS
+5.1. General specifications
+5.1.1. ►M1
+ Where fitted, the controls, tell-tales and indicators listed in Annex II must be identified by symbols. ◄ The symbols must be in conformity with those indicated in the said Annex. ▼M1
+5.1.2.If symbols are used for identifying the controls, tell-tales and indicators listed in Annex III, such symbols must be in conformity with those indicated in the said Annex. 5.1.3. Symbols other than those shown in Annexes II and III may be used to identify controls, telltales and indicators, other than those listed in this Directive, provided that there is no danger of confusion with those shown in the said Annexes. ▼B
+5.1.4. 'Conformity' means having proportional dimensional characteristics. ▼M1
+5.1.5.An information display device may be used to display messages from any source meeting the following requirements: 5.1.5.1. the brake, main-beam and direction-indicator tell-tales shall not appear in the same information display device; 5.1.5.2. the tell-tales and indicators in an information display device must provide relevant information whenever the situation that causes them to operate arises; 5.1.5.3.
+5.1.5.3. if two or more messages are given, they must either be repeated automatically in sequence or be indicated in such a manner as to be visible to and identifiable by the driver; 5.1.5.4. the requirements of Annex III regarding colour do not apply to tell-tales and indicators appearing in an information display device. ▼B
+5.2. Characteristics of the symbols
+5.2.1. The symbols prescribed in 5.1.1 shall be identifiable, from his seat, by a driver with normal eyesight. 5.2.2. The symbols prescribed in 5.1.1 and 5.1.2 must be on or close to the controls, tell-tales and indicators. ▼M1
+5.2.3.he symbols must stand out clearly against the background. 5.2.4. The colours used for tell-tales must be those prescribed in Annexes II and III. ▼M1
+5.2.5.Where a control, an indicator or a tell-tale are combined, a common symbol may be used for such a combination. ▼M1
+6. AMENDMENTS TO APPROVALS
+6.1. In the case of amendments to approvals granted pursuant to this Directive, the provisions of Article 5 of Directive 70/156/EEC shall apply. 7. CONFORMITY OF PRODUCTION
+7.1. Measures to ensure the conformity of production shall be taken in accordance with the provisions laid down in Article 10 of Directive 70/156/EEC. ▼M1 —————
+▼B
+ANNEX II
+CONTROLS, TELL-TALES AND INDICATORS FOR WHICH, WHEN FITTED, IDENTIFICATION IS MANDATORY, AND SYMBOLS TO BE USED FOR THAT PURPOSE
+▼M1 —————
+▼M1
+(Symbols are in accordance with International Standard ISO 2575, fourth edition — 1982-11-15.)
+▼B
+ANNEX III
+CONTROLS, TELL-TALES AND INDICATORS FOR WHICH, WHEN FITTED, IDENTIFICATION IS OPTIONAL, AND SYMBOLS WHICH MUST BE USED IF THEY ARE TO BE IDENTIFIED
+▼M1 —————
+▼M1
+(Symbols are in accordance with International Standard ISO 2575, fourth edition 1982-11-15). ▼B
+ANNEX IV
+CONSTRUCTION OF THE BASIC PATTERN FOR THE SYMBOLS SHOWN IN ANNEXES II AND III
+Figure 1
+Basic pattern
+The basic pattern comprises: 1. a basic square of side 50 mm; this dimension is equal to the nominal dimension, 'a', of the basic pattern; 2. a basic circle of 56 mm diameter having approximately the same area as the basic square (1);
+3. a second circle of 50 mm diameter, being the inscribed circle of the basic square (1);
+4. a second square whose corners touch the basic circle (2) and whose sides are parallel to those of the basic square (1);
+5 and 6. two rectangles having the same area as the basic square (1); they are mutually perpendicular, each being drawn to cross opposite sides of the basic square symmetrically; 7. a third square whose sides pass through the points of intersection of the basic square (1) and the basic circle (2) and are at an angle of 45°, giving the largest horizontal and vertical dimensions of the basic pattern; 8. an irregular octagon, formed by lines at an angle of 30° to the sides of the square (7). The basic pattern is superimposed on a 12·5 mm grid which coincides with the basic square (1). ▼M1
+ANNEX V
+▼M1
+ANNEX VI
+Appendix
+(
+1
+) OJ No C 118, 16. 5. 1977, p. 33. (
+2
+) OJ No C 114, 11. 5. 1977, p. 10. (
+3
+) OJ No L 42, 23. 2. 1970, p. 1. (
+4
+) See page 1 of this Official Journal.
+Oil pressure indicator"Oil pressure indicator" means a device which gives information on the pressure of the oil in the engine lubrication circuit.2.18. Oil pressure tell-tale"Oil pressure tell-tale" means a signal which when alight indicates that the oil pressure in the engine lubrication circuit is below the normal operating limit prescribed by the manufacturer.2.19. Safety belt tell-tale"Safety belt tell-tale" means a signal which when alight indicates that the buckle of the belt of at least one of the occupied seats is not locked.2.20. Parking brake circuit-closed tell-tale"Parking brake circuit-closed tell-tale" means a signal which when alight indicates that the parking brake control has not been released.3. APPLICATION FOR EEC TYPE-APPROVAL3.1. The application for type-approval of a vehicle type with regard to the identification of controls, tell-tales and indicators shall be submitted by the vehicle manufacturer or by his authorized representative.3.2. It must be accompanied by the following:3.2.1. drawings (three copies), on an appropriate scale and in sufficient detail, of the parts of the vehicle to which the requirements of this Directive apply and of the symbols referred to in section 5.3.3. A vehicle representative of the type to be approved or such part or parts of the vehicle as are considered to be necessary for carrying out the checks and tests prescribed by this Directive must be submitted to the technical service responsible for conducting the type-approval tests.4. EEC TYPE-APPROVAL(4.1.) (4.2.) 4.3. A certificate conforming to the model shown in Annex V shall be attached to the EEC type-approval certificate.(4.4.) (4.5.) (4.6.) (4.7.) (4.8.) 5. SPECIFICATIONS5.1. General specifications5.1.1. The controls, tell-tales and indicators listed in Annex II must be identified by symbols. The symbols must be in conformity with those indicated in the said Annex.5.1.2. If symbols are used for identifying the controls and tell-tales listed in Annex III, such symbols must be in conformity with those indicated in the said Annex.5.1.3. Symbols other than those shown in Annexes II and III may be used for other purposes, provided that there is no danger of confusion with those shown in the said Annexes.5.1.4. "Conformity" means having proportional dimensional characteristics.5.2. Characteristics of the symbols5.2.1. The symbols prescribed in 5.1.1 shall be identifiable, from his seat, by a driver with normal eyesight.5.2.2. The symbols prescribed in 5.1.1 and 5.1.2 must be on or close to the controls, tell-tales and indicators.5.2.3. The symbols must stand out clearly against the background, being either light on a dark background or dark on a light background.5.2.4. The colours used for tell-tales must be those prescribed in Annex II.[1] OJ No L 262, 27. 9. 1976, p. 1.--------------------------------------------------ANNEX IICONTROLS, TELL-TALES AND INDICATORS FOR WHICH, WHEN FITTED, IDENTIFICATION IS MANDATORY, AND SYMBOLS TO BE USED FOR THAT PURPOSENotes(a) The interior of the symbol may be entirely in a dark colour.(b) If the tell-tales for the left and right direction indicators are separate, the two arrows of the symbol may also be used separately.(c) The dark part of this symbol may be replaced by its outline, in which case the portion shown here as white must be entirely in a dark colour.(d) If the control is not separate, it may be identified by one or more symbols indicating its different functions.(e) If the indicator and tell-tale are combined, one symbol may be used for both.+++++ TIFF ++++++++++ TIFF ++++++++++ TIFF ++++++++++ TIFF ++++++++++ TIFF ++++++++++ TIFF ++++++++++ TIFF +++++Figure 8Stop lamp tell-taleIf fitted, its function must be performed by the braking system defective operation tell-tale, which is shown in figure 28.+++++ TIFF ++++++++++ TIFF ++++++++++ TIFF ++++++++++ TIFF ++++++++++ TIFF ++++++++++ TIFF ++++++++++ TIFF ++++++++++ TIFF ++++++++++ TIFF ++++++++++ TIFF ++++++++++ TIFF ++++++++++ TIFF ++++++++++ TIFF ++++++++++ TIFF ++++++++++ TIFF ++++++++++ TIFF ++++++++++ TIFF ++++++++++ TIFF ++++++++++ TIFF ++++++++++ TIFF ++++++++++ TIFF +++++[1] This tell-tale may not act as the tell-tale for the position (side) lamps.[2] If the vehicle manufacturer so wishes, section 5.1.1 of Annex I shall not apply where this control is not within the driver's field of vision from the normal driving position.--------------------------------------------------ANNEX IIICONTROLS, TELL-TALES AND INDICATORS FOR WHICH, WHEN FITTED, IDENTIFICATION IS OPTIONAL, AND SYMBOLS WHICH MUST BE USED IF THEY ARE TO BE IDENTIFIEDNoteSee note (c) in Annex II.+++++ TIFF +++++Figure 1Rear-compartment closure release control+++++ TIFF +++++Figure 2Audible warning device control--------------------------------------------------ANNEX IVCONSTRUCTION OF THE BASIC PATTERN FOR THE SYMBOLS SHOWN IN ANNEXES II AND III+++++ TIFF +++++Basic patternThe basic pattern comprises:1. a basic square of side 50 mm; this dimension is equal to the nominal dimension, "a", of the basic pattern;2. a basic circle of 56 mm diameter having approximately the same area as the basic square (1);3. a second circle of 50 mm diameter, being the inscribed circle of the basic square (1);4. a second square whose corners touch the basic circle (2) and whose sides are parallel to those of the basic square (1);5 and 6. two rectangles having the same area as the basic square (1); they are mutually perpendicular, each being drawn to cross opposite sides of the basic square symmetrically;7. a third square whose sides pass through the points of intersection of the basic square (1) and the basic circle (2) and are at an angle of 45°, giving the largest horizontal and vertical dimensions of the basic pattern;8. an irregular octagon, formed by lines at an angle of 30° to the sides of the square (7).The basic pattern is superimposed on a 12·5 mm grid which coincides with the basic square (1).--------------------------------------------------ANNEX VMODEL(Maximum format: A4 (210 × 297 mm))+++++ TIFF +++++--------------------------------------------------

@@ -1,0 +1,874 @@
+Article 1 - Subject matter
+The purpose of this Directive is to improve pedestrian and vehicle safety through passive measures.
+
+It lays down technical requirements for the type-approval of motor vehicles as regards frontal protection systems supplied as original equipment fitted to vehicles or as separate technical units.
+EC TYPE-APPROVAL CERTIFICATE
+(maximum format: A4 (210 × 297 mm))
+EC TYPE-APPROVAL CERTIFICATE
+STAMP OF ADMINISTRATIONCommunication concerning the
+— type-approval
+— extension of type-approval
+— refusal of type-approval
+— withdrawal of type-approval
+of a type of frontal protection system as a separate technical unit with regard to Directive 2005/66/EC.Type-approval number:Reason for extension:SECTION I
+0.1. Make (trade name of manufacturer):
+0.2. Type and general commercial description(s):
+0.3. Means of identification of type if marked on the frontal protection system:
+
+0.3.1. Location of that marking: 0.5. Name and address of manufacturer: 0.7. Location and method of the affixing of the EC type-approval mark: 0.8. Assembly plant address(es):
+SECTION II 1. Additional information: See Addendum
+ 2. Technical service responsible for carrying out the tests: 3. Date of test report: 4. Number of test report: 5. Remarks (if any): See Addendum
+ 6. Place: 7. Date: 8. Signature: 9. The index to the information package lodged with the approval authority, which may be obtained on request, is attached.
+TECHNICAL PROVISIONS
+ANNEX I
+TECHNICAL PROVISIONS
+2. CONSTRUCTION AND INSTALLATION PROVISIONS
+2.1. Frontal protection systems
+The following requirements apply equally to frontal protection systems as supplied fitted to new vehicles and to frontal protection systems supplied as separate technical units for fitting to specified vehicles.
+
+However, with the agreement of the competent approval authority, the requirements contained in paragraph 3 can be considered to have been satisfied wholly or in part by any equivalent testing carried out on the frontal protection system pursuant to another type-approval directive. 2.1.1. The components of the frontal protection system shall be so designed that all rigid surfaces which can be contacted by a 100 mm sphere, have a minimum radius of curvature of 5 mm. 2.1.2. The total mass of the frontal protection system, including all brackets and fixings, shall not exceed 1,2 % of the mass of the vehicle for which it is designed, subject to a maximum of 18 kg. 2.1.3. The height of the frontal protection system, when fitted to a vehicle, shall be no more than 50 mm higher at any point than the bonnet leading edge reference line, as defined in paragraph 1.8, measured on a vertical longitudinal plane through the vehicle at that point. 2.1.4. The frontal protection system shall not increase the width of the vehicle to which it is fitted. If the overall width of the frontal protection system is more than 75 % of the width of the vehicle, the ends of the system shall be turned in towards the external surface in order to minimise the risk of fouling. This requirement is considered to be satisfied if either the frontal protection system is recessed or integrated within the bodywork or the end of the system is turned so that it is not contactable by a 100 mm sphere and the gap between the end of the system and the surrounding bodywork does not exceed 20 mm. 2.1.5. Subject to paragraph 2.1.4, the gap between the components of the frontal protection system and the underlying external surface shall not exceed 80 mm. Local discontinuities in the general contour of the underlying body (such as apertures in grilles, air intakes, etc.) shall be ignored. 2.1.6. At any lateral position across the vehicle, in order to preserve the benefits of the vehicle bumper, the longitudinal distance between the most forward part of the bumper and the most forward part of the frontal protection system shall not exceed 50 mm. 2.1.7. The frontal protection system shall not reduce significantly the effectiveness of the bumper. This requirement shall be considered to be satisfied if there are no more than two vertical components and no horizontal components of the frontal protection system overlapping the bumper. 2.1.8. The frontal protection system shall not be inclined forward of the vertical. The top parts of the frontal protection system shall not extend upwards or rearwards (towards the windscreen) more than 50 mm from the bonnet leading edge reference line of the vehicle, as defined in paragraph 1.8, with the frontal protection system removed. Each point of measurement is made on a vertical longitudinal plane through the vehicle through that point. 2.1.9. Conformity with the requirements of other vehicle type-approval directives shall not be compromised by the fitting of a frontal protection system. 2.2. Frontal protection systems that are separate technical units may not be distributed, offered for sale or sold unless accompanied by a list of vehicle types for which the frontal protection system is type approved and clear assembly instructions. The assembly instructions shall contain specific instructions on installation including fixing modes for the vehicles for which the unit has been approved and to enable the approved components to be mounted on that vehicle in a manner that complies with the relevant provisions of paragraph 2.1. 
+3. TEST PROVISIONS
+3.1. In order to be approved, frontal protection systems must pass the following tests: 3.1.1. Lower Legform to Frontal Protection System. The test is performed at an impact speed of 40 km/h. The maximum dynamic knee bending angle shall not exceed 21,0°, the maximum dynamic knee shearing displacement shall not exceed 6,0 mm, and the acceleration measured at the upper end of the tibia shall not exceed 200 g.
+3.1.1.1. However, with respect to frontal protection systems approved as separate technical units for use only on specified vehicles of total permissible mass not exceeding 2,5 tonnes which have been type approved before 1 October 2005, or vehicles of total permissible mass exceeding 2,5 tonnes, the provisions of paragraph 3.1.1 may be replaced by the provisions of either paragraph 3.1.1.1.1 or paragraph 3.1.1.1.2. 
+3.1.1.1.1. The test is performed at an impact speed of 40 km/h. The maximum dynamic knee bending angle shall not exceed 26,0°, the maximum dynamic knee shearing displacement shall not exceed 7,5 mm, and the acceleration measured at the upper end of the tibia shall not exceed 250 g.
+3.1.1.1.2. Tests are performed on the vehicle with the frontal protection system fitted and without the frontal protection system fitted at an impact speed of 40 km/h. The two tests shall be performed in equivalent locations as agreed with the relevant test authority. The values for the maximum dynamic knee bending angle, the maximum dynamic knee shearing displacement and the acceleration measured at the upper end of the tibia shall be recorded. In each case the value recorded for the vehicle fitted with the frontal protection system shall not exceed 90 % of the value recorded for the vehicle without the frontal protection system fitted. 3.1.1.2. If the lower frontal protection system height is greater than 500 mm this test must be replaced by the Upper Legform to Frontal Protection System test, as specified in paragraph 3.1.2. 
+3.1.2. Upper Legform to Frontal Protection System. The test is performed at an impact speed of 40 km/h. The instantaneous sum of the impact forces with respect to time shall not exceed 7,5 kN and the bending moment on the test impactor shall not exceed 510 Nm. The Upper Legform to Frontal Protection System test shall be carried out if the lower frontal protection system height at the test position is more than 500 mm. 3.1.2.1. However, with respect to frontal protection systems approved as separate technical units for use only on specified vehicles of total permissible mass not exceeding 2,5 tonnes which have been type approved before 1 October 2005, or vehicles of total permissible mass exceeding 2,5 tonnes, the provisions of paragraph 3.1.2 may be replaced by the provisions of either paragraph 3.1.2.1.1 or paragraph 3.1.2.1.2. 
+3.1.2.1.1. The test is performed at an impact speed of 40 km/h. The instantaneous sum of the impact forces with respect to time shall not exceed 9,4 kN and the bending moment on the test impactor shall not exceed 640 Nm. 3.1.2.1.2. Tests are performed on the vehicle with the frontal protection system fitted and without the frontal protection system fitted at an impact speed of 40 km/h. The two tests shall be performed in equivalent locations as agreed with the relevant test authority. The values for the instantaneous sum of the impact forces and the bending moment on the test impactor shall be recorded. In each case the value recorded for the vehicle fitted with the frontal protection system shall not exceed 90 % of the value recorded for the vehicle without the frontal protection system fitted. 3.1.2.2. If the lower frontal protection system height is less than 500 mm this test is not required. 3.1.3. Upper Legform to Frontal Protection System Leading Edge.
+Article 2 - Definitions
+For the purposes of this Directive the following definitions and the definitions in Annex I, paragraph 1, shall apply:
+
+1. 'vehicle' means any motor vehicle of class M1 as defined in Article 2 of Directive 70/156/EEC and in Annex II thereto, of a total permissible mass not exceeding 3,5 tonnes and any motor vehicle of class N1 as defined in Article 2 of Directive 70/156/EEC and in Annex II thereto; 2. 'separate technical unit' means any separate technical unit within the meaning of Article 2 of Directive 70/156/EEC and intended for installation and use on one or more types of vehicles.
+Article 2 - Definitions
+For the purposes of this Directive the following definitions and the definitions in Annex I, paragraph 1, shall apply: 1. 'vehicle' means any motor vehicle of class M1 as defined in Article 2 of Directive 70/156/EEC and in Annex II thereto, of a total permissible mass not exceeding 3,5 tonnes and any motor vehicle of class N1 as defined in Article 2 of Directive 70/156/EEC and in Annex II thereto;
+
+2. 'separate technical unit' means any separate technical unit within the meaning of Article 2 of Directive 70/156/EEC and intended for installation and use on one or more types of vehicles.
+Article 3 - Type-approval provisions
+1. With effect from 25 August 2006, in respect of a new type of vehicle fitted with a frontal protection system which complies with the requirements laid down in Annex I and Annex II, Member States shall not, on grounds relating to frontal protection systems:
+
+(a) refuse to grant EC type-approval or national type-approval; (b) prohibit registration, sale or entry into service. 2. With effect from 25 August 2006, in respect of a new type of frontal protection system which is made available as a separate technical unit and which complies with the requirements laid down in Annex I and Annex II, Member States shall not: (a) refuse to grant EC type-approval or national type-approval; (b) prohibit sale or entry into service. 3. With effect from 25 November 2006, in respect of a new type of vehicle fitted with a frontal protection system, or a new type of frontal protection system supplied as a separate technical unit, which does not comply with the requirements laid down in Annex I and Annex II, Member States shall refuse to grant EC type-approval or national type-approval. 4. With effect from 25 May 2007, in respect of vehicles which do not comply with the requirements laid down in Annex I and Annex II, Member States shall, on grounds relating to frontal protection systems: (a) consider certificates of conformity which accompany new vehicles in accordance with Directive 70/156/EEC to be no longer valid for the purposes of Article 7(1) of that Directive; (b) prohibit the registration, sale or entry into service of new vehicles which are not accompanied by a certificate of conformity in accordance with Directive 70/156/EEC. 5. With effect from 25 May 2007, the requirements under Annex I and Annex II relating to frontal protection systems made available as separate technical units, shall apply for the purposes of Article 7(2) of Directive 70/156/EEC.
+Article 3 - Type-approval provisions
+1. With effect from 25 August 2006, in respect of a new type of vehicle fitted with a frontal protection system which complies with the requirements laid down in Annex I and Annex II, Member States shall not, on grounds relating to frontal protection systems:
+
+(a) refuse to grant EC type-approval or national type-approval; (b) prohibit registration, sale or entry into service. 2. With effect from 25 August 2006, in respect of a new type of frontal protection system which is made available as a separate technical unit and which complies with the requirements laid down in Annex I and Annex II, Member States shall not: (a) refuse to grant EC type-approval or national type-approval; (b) prohibit sale or entry into service. 3. With effect from 25 November 2006, in respect of a new type of vehicle fitted with a frontal protection system, or a new type of frontal protection system supplied as a separate technical unit, which does not comply with the requirements laid down in Annex I and Annex II, Member States shall refuse to grant EC type-approval or national type-approval.4. With effect from 25 May 2007, in respect of vehicles which do not comply with the requirements laid down in Annex I and Annex II, Member States shall, on grounds relating to frontal protection systems: (a) consider certificates of conformity which accompany new vehicles in accordance with Directive 70/156/EEC to be no longer valid for the purposes of Article 7(1) of that Directive; (b) prohibit the registration, sale or entry into service of new vehicles which are not accompanied by a certificate of conformity in accordance with Directive 70/156/EEC. 5. With effect from 25 May 2007, the requirements under Annex I and Annex II relating to frontal protection systems made available as separate technical units, shall apply for the purposes of Article 7(2) of Directive 70/156/EEC.
+Article 4 - Implementation measures and amendments
+1. Detailed technical requirements for the test provisions laid down in paragraph 3 of Annex I shall be adopted by the Commission in accordance with the procedure referred to in Article 13(3) of Directive 70/156/EEC.
+
+2. Amendments necessary for adapting this Directive shall be adopted by the Commission, in accordance with the procedure referred to in Article 13(3) of Directive 70/156/EEC.
+Article 5 - Review
+Not later than 25 August 2010, in the light of technical progress and experience, the Commission shall review the technical provisions of this Directive and, in particular, the conditions for requiring the Upper Legform to Frontal Protection System test, the inclusion of an Adult Headform to Frontal Protection System test and the specification of a Child Headform to Frontal Protection System test.
+
+The results of this review will be the subject of a report from the Commission to the European Parliament and the Council. If, as a result of this review, it is considered appropriate to adapt the technical provisions of this Directive, such adaptation shall be carried out in accordance with the procedure laid down in Article 13(3) of Directive 70/156/EEC.
+Article 6 - Amendments to Directive 70/156/EEC
+Annexes I, III, IV and XI to Directive 70/156/EEC are hereby amended in accordance with Annex III to this Directive.
+Article 7 - Transposition
+1. Member States shall adopt and publish, by 25 August 2006 at the latest, the laws, regulations and administrative provisions necessary to comply with this Directive.
+
+They shall forthwith inform the Commission thereof. They shall apply those provisions from 25 August 2006. When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such reference on the occasion of their official publication. Member States shall determine how such reference is to be made. 2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+(MODEL)
+(MODEL)
+Article 1 - Subject matter
+The purpose of this Directive is to improve pedestrian and vehicle safety through passive measures.
+
+It lays down technical requirements for the type-approval of motor vehicles as regards frontal protection systems supplied as original equipment fitted to vehicles or as separate technical units.
+Article 6 - Amendments to Directive 70/156/EEC
+Annexes I, III, IV and XI to Directive 70/156/EEC are hereby amended in accordance with Annex III to this Directive.
+Introduction
+DIRECTIVE 2005/66/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCILof 26 October 2005
+relating to the use of frontal protection systems on motor vehicles and amending Council Directive 70/156/EEC
+(OJ L 309, 25.11.2005, p.37)Amended by:
+
+Official Journal
+ No
+page
+date
+ ►M1
+COUNCIL DIRECTIVE 2006/96/EC of 20 November 2006
+ L 363
+81
+20.12.2006
+ ▼B
+DIRECTIVE 2005/66/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCILof 26 October 2005relating to the use of frontal protection systems on motor vehicles and amending Council Directive 70/156/EEC
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,
+Having regard to the proposal from the Commission,
+Having regard to the opinion of the European Economic and Social Committee (
+1
+),
+Acting in accordance with the procedure laid down in Article 251 of the Treaty (
+2
+),Whereas: (1) Systems providing additional frontal protection for motor vehicles have been increasingly used in recent years. Some of these systems constitute a risk to the safety of pedestrians and other road users in the event of a collision. Measures are therefore required in order to safeguard the public against such risks. (2) Frontal protection systems can be provided as original equipment fitted to a vehicle or marketed as separate technical units. The technical requirements for the type approval of motor vehicles with regard to any frontal protection systems that might be fitted to the vehicle should be harmonised in order to prevent the adoption of requirements that vary from one Member State to another and to ensure the proper functioning of the internal market. For the same reasons, it is necessary to harmonise the technical requirements for the type approval of frontal protection systems as separate technical units within the meaning of Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (
+3
+). (3) It is necessary to control the use of frontal protection systems and to establish the test, construction and installation requirements to be complied with by any frontal protection system either supplied as original equipment fitted to a vehicle or placed on the market as a separate technical unit. Tests should require that frontal protection systems are designed in a way that improves pedestrian safety and reduces the number of injuries. (4) These requirements should also be regarded in the context of the protection of pedestrians and other vulnerable road users and with reference to Directive 2003/102/EC of the European Parliament and of the Council of 17 November 2003 relating to the protection of pedestrians and other vulnerable road users before and in the event of a collision with a motor vehicle (
+4
+). The present Directive should be reviewed in the light of further research and experience gained during the first four years of its application. (5) This Directive is one of the separate Directives within the framework of the EC type-approval procedure established by Directive 70/156/EEC. (6) The Commission should monitor the impact of this Directive and report to the European Parliament and the Council. If it is deemed necessary to achieve further improvements in pedestrian protection, the Commission should make proposals to amend this Directive in accordance with technical progress. (7) It is recognised, however, that certain vehicles included in the scope of this Directive, and to which frontal protection systems may be fitted, will not be subject to Directive 2003/102/EC. For such vehicles it is considered that the upper leg test requirements of this Directive may be technically unfeasible. To facilitate an improvement in pedestrian safety, with respect to head injury, it may be necessary to allow alternative requirements for the upper leg test, for application to those vehicles only, whilst ensuring that the installation of any frontal protection system does not increase the risk of leg injury to pedestrians or other vulnerable road users. (8) The measures necessary for the implementation of this Directive and for its adaptation to scientific and technical progress should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission (
+5
+). (9) Since the objective of this Directive, namely to promote the safety of pedestrians and other vulnerable road users through laying down technical requirements for the type-approval of motor vehicles as regards frontal protection systems, cannot be sufficiently achieved by the Member States and can therefore be better achieved at Community level, the Community may adopt measures in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve this objective. (10) This Directive is part of the European road safety action programme and may be supplemented by national measures to prohibit or restrict the use of frontal protection systems already on the market before its entry into force. (11) Directive 70/156/EEC should therefore be amended accordingly,
+HAVE ADOPTED THIS DIRECTIVE:
+Article 8 - Separate technical units
+This Directive shall not affect the Member States' competence to prohibit or to restrict the use of frontal protection systems placed on the market as separate technical units before the entry into force of this Directive.
+DIRECTIVE 2005/66/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+of 26 October 2005
+Consolidated TEXT: 32005L0066 — EN — 24.11.2009
+Top
+2005L0066 — EN — 24.11.2009 — 002.001
+This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents
+►B
+DIRECTIVE 2005/66/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+of 26 October 2005
+relating to the use of frontal protection systems on motor vehicles and amending Council Directive 70/156/EEC
+(OJ L 309, 25.11.2005, p.37)
+repealed by:
+
+Official Journal
+No
+page
+date
+Regulation (EC) No 78/2009 of the European Parliament and of the Council of 14 January 2009
+L 35
+1
+4.2.2009
+recital 11
+(11) Directive 70/156/EEC should therefore be amended accordingly,
+HAVE ADOPTED THIS DIRECTIVE:
+1. 'vehicle' means any motor vehicle of class M1 as defined in Article 2 of Directive 70/156/EEC and in Annex II thereto, of a total permissible mass not exceeding 3,5 tonnes and any motor vehicle of class N1 as defined in Article 2 of Directive 70/156/EEC and in Annex II thereto;
+Introduction
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,
+Having regard to the proposal from the Commission,
+Having regard to the opinion of the European Economic and Social Committee (1),
+Acting in accordance with the procedure laid down in Article 251 of the Treaty (2),
+Whereas:
+
+(1) Systems providing additional frontal protection for motor vehicles have been increasingly used in recent years. Some of these systems constitute a risk to the safety of pedestrians and other road users in the event of a collision. Measures are therefore required in order to safeguard the public against such risks. (2) Frontal protection systems can be provided as original equipment fitted to a vehicle or marketed as separate technical units. The technical requirements for the type approval of motor vehicles with regard to any frontal protection systems that might be fitted to the vehicle should be harmonised in order to prevent the adoption of requirements that vary from one Member State to another and to ensure the proper functioning of the internal market. For the same reasons, it is necessary to harmonise the technical requirements for the type approval of frontal protection systems as separate technical units within the meaning of Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (3). (3) It is necessary to control the use of frontal protection systems and to establish the test, construction and installation requirements to be complied with by any frontal protection system either supplied as original equipment fitted to a vehicle or placed on the market as a separate technical unit. Tests should require that frontal protection systems are designed in a way that improves pedestrian safety and reduces the number of injuries. (4) These requirements should also be regarded in the context of the protection of pedestrians and other vulnerable road users and with reference to Directive 2003/102/EC of the European Parliament and of the Council of 17 November 2003 relating to the protection of pedestrians and other vulnerable road users before and in the event of a collision with a motor vehicle (4). The present Directive should be reviewed in the light of further research and experience gained during the first four years of its application. (5) This Directive is one of the separate Directives within the framework of the EC type-approval procedure established by Directive 70/156/EEC. (6) The Commission should monitor the impact of this Directive and report to the European Parliament and the Council. If it is deemed necessary to achieve further improvements in pedestrian protection, the Commission should make proposals to amend this Directive in accordance with technical progress. (7) It is recognised, however, that certain vehicles included in the scope of this Directive, and to which frontal protection systems may be fitted, will not be subject to Directive 2003/102/EC. For such vehicles it is considered that the upper leg test requirements of this Directive may be technically unfeasible. To facilitate an improvement in pedestrian safety, with respect to head injury, it may be necessary to allow alternative requirements for the upper leg test, for application to those vehicles only, whilst ensuring that the installation of any frontal protection system does not increase the risk of leg injury to pedestrians or other vulnerable road users. (8) The measures necessary for the implementation of this Directive and for its adaptation to scientific and technical progress should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission (5). (9) Since the objective of this Directive, namely to promote the safety of pedestrians and other vulnerable road users through laying down technical requirements for the type-approval of motor vehicles as regards frontal protection systems, cannot be sufficiently achieved by the Member States and can therefore be better achieved at Community level, the Community may adopt measures in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve this objective. (10) This Directive is part of the European road safety action programme and may be supplemented by national measures to prohibit or restrict the use of frontal protection systems already on the market before its entry into force. (11) Directive 70/156/EEC should therefore be amended accordingly,
+HAVE ADOPTED THIS DIRECTIVE:
+3. TEST PROVISIONS
+ANNEX I
+3. TEST PROVISIONS
+TECHNICAL PROVISIONSFor the purposes of this Directive the following definitions shall apply:
+
+1.1. 'Vehicle type' means a category of motor vehicle which, forward of the A-pillars, does not differ in such essential respects as: (a) the structure,
+(b) the main dimensions,
+(c) the materials of the outer surfaces of the vehicle,
+(d) the component arrangement (external or internal),
+(e) the method of fixing a frontal protection system,
+in so far as they may be considered to have an effect on the validity of the results of the impact tests prescribed in this Directive. For the purposes of frontal protection systems to be type-approved as separate technical units, any reference to vehicle may be interpreted as referring to the frame on which the system is mounted for testing and which is intended to represent the front end outer dimensions of the particular vehicle type for which the system is being type-approved; 1.2. 'normal ride attitude' means the vehicle attitude in running order, positioned on the ground, with the tyres inflated to the recommended pressures and the front wheels in the straight-ahead position, with maximum capacity of all fluids necessary for operation of the vehicle, with all standard equipment as provided by the vehicle manufacturer, with a 75 kg mass placed on the driver's seat and a 75 kg mass placed on the front passenger's seat and with the suspension set for a driving speed of 40 km/h or 35 km/h in normal running conditions specified by the manufacturer (especially for vehicles with an active suspension or a device for automatic levelling); 1.3. 'external surface' means the outside of the vehicle, forward of the A-pillars, including the bonnet, the wings, the lighting and light-signalling devices and the visible strengthening components; 1.4. 'radius of curvature' means the radius of the arc of a circle which comes closest to the rounded form of the component under consideration; 1.5. 'extreme outer edge' of the vehicle means, in relation to the sides of the vehicle, the plane parallel to the median longitudinal plane of the vehicle coinciding with its outer lateral edge, and, in relation to the front and rear ends, the perpendicular transverse plane of the vehicle coinciding with its outer front and rear edges, account not being taken of the projection: (a) of tyres near their point of contact with the ground, and connections for tyre pressure gauges; (b) of any anti-skid devices which may be mounted on the wheels; (c) of rear-view mirrors; (d) of side direction indicator lamps, end outline marker lamps, front and rear position (side) lamps and parking lamps; (e) in relation to the front and rear ends, of parts mounted on the bumpers, of towing devices and of exhaust pipes; 1.6. 'bumper' means the front, lower, outer structure of the vehicle as type-approved. It includes all structures of the vehicle that are intended to give protection to the vehicle when involved in a low speed frontal collision with another vehicle and also any attachments, such as registration fixing plates, to this structure. It does not include equipment which is fitted to the vehicle following type-approval and intended to provide additional frontal protection for the vehicle; 1.7. 'frontal protection system' means a separate structure or structures, such as a bull bar or a supplementary bumper, which is intended to protect the external surface of the vehicle, above and/or below the original-equipment bumper, from damage in the event of a collision with an object. Structures, with a maximum mass of less than 0,5 kg, intended to protect only the lights, are excluded from this definition; 1.8. 'bonnet leading edge reference line' means the geometric trace of the points of contact between a straight edge 1 000 mm long and the front surface of the bonnet, when the straight edge, held parallel to the vertical longitudinal plane of the car and inclined rearwards by 50° and with the lower end 600 mm above the ground, is traversed across and in contact with the bonnet leading edge. For vehicles having the bonnet top surface inclined at essentially 50°, so that the straight edge makes a continuous contact or multiple contacts rather than a point contact, the reference line is determined with the straight edge inclined rearwards at an angle of 40°. For vehicles of such shape that the bottom end of the straight edge makes first contact, then that contact is taken to be the bonnet leading edge reference line, at that lateral position. For vehicles of such shape that the top end of the straight edge makes first contact, then the geometric trace of 1 000 mm wrap around distance as defined in paragraph 1.13 will be used as the bonnet leading edge reference line at that lateral position. The top edge of the bumper shall also be regarded as the bonnet leading edge for the purposes of this Directive, if it is touched by the straight edge during this procedure; 1.9. 'upper frontal protection system reference line' means the upper limit to significant points of pedestrian contact with the frontal protection system or the vehicle. It is the geometric trace of the uppermost points of contact between a straight edge 700 mm long and the frontal protection system or the vehicle front (whichever is touched), when the straight edge, held parallel to the vertical longitudinal plane of the vehicle and inclined rearwards by 20°, is traversed across the front of the vehicle, while maintaining contact with the ground and with the surface of the frontal protection system or vehicle; 1.10. 'lower frontal protection system reference line' means the lower limit to significant points of pedestrian contact with the frontal protection system or the vehicle. It is the geometric trace of the lowermost points of contact between a straight edge 700 mm long and the frontal protection system, when the straight edge, held parallel to the vertical longitudinal plane of the vehicle and inclined forwards by 25°, is traversed across the front of the vehicle, while maintaining contact with the ground and with the surface of the frontal protection system or the vehicle; 1.11. 'upper frontal protection system height' means the vertical distance between the ground and the upper frontal protection system reference line, defined in paragraph 1.9 with the vehicle positioned in its normal ride attitude. 1.12. 'lower frontal protection system height' means the vertical distance between the ground and the lower frontal protection system reference line, defined in paragraph 1.10 with the vehicle positioned in its normal ride attitude; 1.13. '1 000 mm wrap around distance' means the geometric trace described on the frontal upper surface by one end of a 1 000 mm long flexible tape, when it is held in a vertical fore and aft plane of the car and traversed across the front of the bonnet bumper and frontal protection system. The tape is held taut throughout the operation with one end held in contact with the ground, vertically below the front face of the bumper and the other end held in contact with the frontal upper surface. The vehicle is positioned in the normal ride attitude; 1.14. 'frontal protection system leading edge reference line' means the geometric trace of the points of contact between a straight edge 1 000 mm long and the front surface of the frontal protection system, when the straight edge, held parallel to the vertical longitudinal plane of the car and inclined rearwards by 50°, is traversed across and in contact with the frontal protection system leading edge. For vehicles having the frontal protection system top surface inclined at essentially 50°, so that the straight edge makes a continuous contact or multiple contacts rather than a point contact, the reference line is determined with the straight edge inclined rearwards at an angle of 40°; 1.15. 'Head performance criterion (HPC)' shall be calculated using the expression:
+ANNEX III
+ANNEX III
+AMENDMENTS TO DIRECTIVE 70/156/EECThe Annexes to Directive 70/156/EEC shall be amended as follows: 1. In Annex I the following points shall be inserted: '9.[24]. Frontal protection systems
+9.[24].1. A detailed description, including photographs and/or drawings, of the vehicle with respect to the structure, the dimensions, the relevant reference lines and the constituent materials of the frontal protection system and the frontal part of the vehicle shall be provided. 9.[24].2. A detailed description, including photographs and/or drawings, of the method of fitting the frontal protection system to the vehicle shall be provided. This description shall include all bolt dimensions and required torques.' 2. In Annex III, Part I, Section A, the following points shall be inserted: '9.[24]. 9.[24].1. A detailed description, including photographs and/or drawings, of the vehicle with respect to the structure, the dimensions, the relevant reference lines and the constituent materials of the frontal protection system and the frontal part of the vehicle shall be provided. 9.[24].2. A detailed description, including photographs and/or drawings, of the method of fitting the frontal protection system to the vehicle shall be provided. This description shall include all bolt dimensions and required torques.' 3. In Annex IV, Part I, the following item shall be added:
+
+| Subject | Directive number | Official Journal reference | Applicability | Applicability | Applicability | Applicability | Applicability | Applicability | Applicability | Applicability | Applicability | Applicability |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Subject | Directive number | Official Journal reference | M1 | M2 | M3 | N1 | N2 | N3 | O1 | O2 | O3 | O4 |
+| '[60]. Frontal protection system | 2005/66/EC | L 309, 25.11.2005, p. 37. | X (1) | — | — | X | — | — |  |  |  |  |
+| (1) Not exceeding 3,5 tonnes total permissible mass.' | (1) Not exceeding 3,5 tonnes total permissible mass.' | (1) Not exceeding 3,5 tonnes total permissible mass.' | (1) Not exceeding 3,5 tonnes total permissible mass.' | (1) Not exceeding 3,5 tonnes total permissible mass.' | (1) Not exceeding 3,5 tonnes total permissible mass.' | (1) Not exceeding 3,5 tonnes total permissible mass.' | (1) Not exceeding 3,5 tonnes total permissible mass.' | (1) Not exceeding 3,5 tonnes total permissible mass.' | (1) Not exceeding 3,5 tonnes total permissible mass.' | (1) Not exceeding 3,5 tonnes total permissible mass.' | (1) Not exceeding 3,5 tonnes total permissible mass.' | (1) Not exceeding 3,5 tonnes total permissible mass.' | 4. Annex XI shall be amended as follows: (a) In Appendix 1, the following item shall be added:
+
+| Item | Subject | Directive number | M1 ≤ 2 500 (1) kg | M1 > 2 500 (1) kg | M2 | M3 |
+|---|---|---|---|---|---|---|
+| '[60] | Frontal protection system | 2005/66/EC | X | X (1) | — | — |
+| (1) Not exceeding 3,5 tonnes total permissible mass. | (1) Not exceeding 3,5 tonnes total permissible mass. | (1) Not exceeding 3,5 tonnes total permissible mass. | (1) Not exceeding 3,5 tonnes total permissible mass. | (1) Not exceeding 3,5 tonnes total permissible mass. | (1) Not exceeding 3,5 tonnes total permissible mass. | (1) Not exceeding 3,5 tonnes total permissible mass. | (b) In Appendix 2, the following item shall be added:
+
+| Item | Subject | Directive number | M1 | M2 | M3 | N1 | N2 | N3 | O1 | O2 | O3 | O4 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| [60] | Frontal protection system | 2005/66/EC | — | — | — | — | — | — | — | — | — | —' | (c) In Appendix 3, the following item shall be added:
+
+| Item | Subject | Directive number | M2 | M3 | N1 | N2 | N3 | O1 | O2 | O3 | O4 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| '[60] | Frontal protection system | 2005/66/EC | — | — | — | — | — | — | — | — | —' |
+
+(
+1
+) OJ C 112, 30.4.2004, p. 18.(
+2
+) Opinion of the European Parliament of 26 May 2005 (not yet published in the Official Journal) and Council Decision of 11 October 2005.(
+3
+) OJ L 42, 23.2.1970, p. 1. Directive as last amended by Commission Directive 2005/49/EC (OJ L 194, 26.7.2005, p. 12).(
+4
+) OJ L 321, 6.12.2003, p. 15.(
+5
+) OJ L 184, 17.7.1999, p. 23.
+ADDENDUM
+Addendum
+to EC type-approval certificate No […]
+concerning the type approval of a frontal protection system with regard to Directive 2005/66/EC
+ 1. Additional information: 1.1. Method of attachment: 1.2. Assembly and mounting instructions: 1.3. List of vehicles on which the frontal protection system may be fitted, any usage restrictions and necessary conditions for fitting: 2. Remarks:
+
+| Test | Values recorded | Values recorded | Pass/fail |
+|---|---|---|---|
+| Lower Legform to Frontal Protection System — three test positions (where performed) | Bending angle | …… …… Degrees …… |  |
+| Lower Legform to Frontal Protection System — three test positions (where performed) | Shear displacement | …… …… mm …… |  |
+| Lower Legform to Frontal Protection System — three test positions (where performed) | Acceleration at tibia | …… …… g …… |  |
+| Upper Legform to Frontal Protection System — three test positions (where performed) | Sum of impact forces | …… …… kN …… |  |
+| Upper Legform to Frontal Protection System — three test positions (where performed) | Bending moment | …… …… Nm …… |  |
+| Upper Legform to Frontal Protection System Leading Edge — three test positions (monitoring only) | Sum of impact forces | …… …… kN …… |  |
+| Upper Legform to Frontal Protection System Leading Edge — three test positions (monitoring only) | Bending moment | …… …… Nm …… |  |
+| Child/Small Adult Headform (3,5 kg) to Frontal Protection System | HPC values (at least three values) | …… …… …… |  |
+
+Appendix 5
+Example of the EC type-approval mark
+(a ≥ 12mm)The device bearing the EC type-approval mark shown above is for a frontal protection system type-approved in Germany (e1) pursuant to this Directive (01) under the base approval number 1471.The asterisk indicates that the frontal protection system was approved under the consideration, for the legform impactor test, allowed by paragraph 3.1.1.1 or 3.1.2.1 of Annex I. If this consideration is not granted by the approval authority the asterisk is replaced by a space.
+Article 10 - Addressees
+This Directive is addressed to the Member States.
+
+LIST OF ANNEXES
+ANNEX I
+Technical provisions
+ANNEX II
+Administrative provisions for type-approval: Appendix 1: Information document (vehicle)
+Appendix 2: Information document (separate technical unit)
+Appendix 3: EC-type-approval certificate (vehicle)
+Appendix 4: EC-type-approval certificate (separate technical unit)
+Appendix 5: Example of EC Type-approval mark
+ANNEX III
+Amendments to Directive 70/156/EEC
+ANNEX ITECHNICAL PROVISIONS1. DEFINITIONS
+For the purposes of this Directive the following definitions shall apply: 1.1. 'Vehicle type' means a category of motor vehicle which, forward of the A-pillars, does not differ in such essential respects as: (a) the structure,
+(b) the main dimensions,
+(c) the materials of the outer surfaces of the vehicle,
+(d) the component arrangement (external or internal),
+(e) the method of fixing a frontal protection system,
+in so far as they may be considered to have an effect on the validity of the results of the impact tests prescribed in this Directive. For the purposes of frontal protection systems to be type-approved as separate technical units, any reference to vehicle may be interpreted as referring to the frame on which the system is mounted for testing and which is intended to represent the front end outer dimensions of the particular vehicle type for which the system is being type-approved; 1.2. 'normal ride attitude' means the vehicle attitude in running order, positioned on the ground, with the tyres inflated to the recommended pressures and the front wheels in the straight-ahead position, with maximum capacity of all fluids necessary for operation of the vehicle, with all standard equipment as provided by the vehicle manufacturer, with a 75 kg mass placed on the driver's seat and a 75 kg mass placed on the front passenger's seat and with the suspension set for a driving speed of 40 km/h or 35 km/h in normal running conditions specified by the manufacturer (especially for vehicles with an active suspension or a device for automatic levelling); 1.3. 'external surface' means the outside of the vehicle, forward of the A-pillars, including the bonnet, the wings, the lighting and light-signalling devices and the visible strengthening components; 1.4. 'radius of curvature' means the radius of the arc of a circle which comes closest to the rounded form of the component under consideration; 1.5. 'extreme outer edge' of the vehicle means, in relation to the sides of the vehicle, the plane parallel to the median longitudinal plane of the vehicle coinciding with its outer lateral edge, and, in relation to the front and rear ends, the perpendicular transverse plane of the vehicle coinciding with its outer front and rear edges, account not being taken of the projection: (a) of tyres near their point of contact with the ground, and connections for tyre pressure gauges; (b) of any anti-skid devices which may be mounted on the wheels; (c) of rear-view mirrors; (d) of side direction indicator lamps, end outline marker lamps, front and rear position (side) lamps and parking lamps; (e) in relation to the front and rear ends, of parts mounted on the bumpers, of towing devices and of exhaust pipes; 1.6. 'bumper' means the front, lower, outer structure of the vehicle as type-approved. It includes all structures of the vehicle that are intended to give protection to the vehicle when involved in a low speed frontal collision with another vehicle and also any attachments, such as registration fixing plates, to this structure. It does not include equipment which is fitted to the vehicle following type-approval and intended to provide additional frontal protection for the vehicle; 1.7. 'frontal protection system' means a separate structure or structures, such as a bull bar or a supplementary bumper, which is intended to protect the external surface of the vehicle, above and/or below the original-equipment bumper, from damage in the event of a collision with an object. Structures, with a maximum mass of less than 0,5 kg, intended to protect only the lights, are excluded from this definition; 1.8. 'bonnet leading edge reference line' means the geometric trace of the points of contact between a straight edge 1 000 mm long and the front surface of the bonnet, when the straight edge, held parallel to the vertical longitudinal plane of the car and inclined rearwards by 50° and with the lower end 600 mm above the ground, is traversed across and in contact with the bonnet leading edge. For vehicles having the bonnet top surface inclined at essentially 50°, so that the straight edge makes a continuous contact or multiple contacts rather than a point contact, the reference line is determined with the straight edge inclined rearwards at an angle of 40°. For vehicles of such shape that the bottom end of the straight edge makes first contact, then that contact is taken to be the bonnet leading edge reference line, at that lateral position. For vehicles of such shape that the top end of the straight edge makes first contact, then the geometric trace of 1 000 mm wrap around distance as defined in paragraph 1.13 will be used as the bonnet leading edge reference line at that lateral position. The top edge of the bumper shall also be regarded as the bonnet leading edge for the purposes of this Directive, if it is touched by the straight edge during this procedure; 1.9. 'upper frontal protection system reference line' means the upper limit to significant points of pedestrian contact with the frontal protection system or the vehicle. It is the geometric trace of the uppermost points of contact between a straight edge 700 mm long and the frontal protection system or the vehicle front (whichever is touched), when the straight edge, held parallel to the vertical longitudinal plane of the vehicle and inclined rearwards by 20°, is traversed across the front of the vehicle, while maintaining contact with the ground and with the surface of the frontal protection system or vehicle; 1.10. 'lower frontal protection system reference line' means the lower limit to significant points of pedestrian contact with the frontal protection system or the vehicle. It is the geometric trace of the lowermost points of contact between a straight edge 700 mm long and the frontal protection system, when the straight edge, held parallel to the vertical longitudinal plane of the vehicle and inclined forwards by 25°, is traversed across the front of the vehicle, while maintaining contact with the ground and with the surface of the frontal protection system or the vehicle; 1.11. 'upper frontal protection system height' means the vertical distance between the ground and the upper frontal protection system reference line, defined in paragraph 1.9 with the vehicle positioned in its normal ride attitude. 1.12. 'lower frontal protection system height' means the vertical distance between the ground and the lower frontal protection system reference line, defined in paragraph 1.10 with the vehicle positioned in its normal ride attitude; 1.13. '1 000 mm wrap around distance' means the geometric trace described on the frontal upper surface by one end of a 1 000 mm long flexible tape, when it is held in a vertical fore and aft plane of the car and traversed across the front of the bonnet bumper and frontal protection system. The tape is held taut throughout the operation with one end held in contact with the ground, vertically below the front face of the bumper and the other end held in contact with the frontal upper surface. The vehicle is positioned in the normal ride attitude; 1.14.
+Article 9 - Entry into force
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+Article 8 - Separate technical units
+This Directive shall not affect the Member States' competence to prohibit or to restrict the use of frontal protection systems placed on the market as separate technical units before the entry into force of this Directive.
+Article 7 - Transposition
+1. Member States shall adopt and publish, by 25 August 2006 at the latest, the laws, regulations and administrative provisions necessary to comply with this Directive.
+
+They shall forthwith inform the Commission thereof.They shall apply those provisions from 25 August 2006.When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such reference on the occasion of their official publication. Member States shall determine how such reference is to be made.2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+Article 4 - Implementation measures and amendments
+1. Detailed technical requirements for the test provisions laid down in paragraph 3 of Annex I shall be adopted by the Commission in accordance with the procedure referred to in Article 13(3) of Directive 70/156/EEC.2. Amendments necessary for adapting this Directive shall be adopted by the Commission, in accordance with the procedure referred to in Article 13(3) of Directive 70/156/EEC.
+recital 9
+(9) Since the objective of this Directive, namely to promote the safety of pedestrians and other vulnerable road users through laying down technical requirements for the type-approval of motor vehicles as regards frontal protection systems, cannot be sufficiently achieved by the Member States and can therefore be better achieved at Community level, the Community may adopt measures in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty.
+
+In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve this objective.
+Article 9 - Entry into force
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+Article 10 - Addressees
+This Directive is addressed to the Member States.
+citation
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,
+Having regard to the proposal from the Commission,
+Having regard to the opinion of the European Economic and Social Committee (1),
+Acting in accordance with the procedure laid down in Article 251 of the Treaty (2),
+Whereas:
+recital 3
+(3) It is necessary to control the use of frontal protection systems and to establish the test, construction and installation requirements to be complied with by any frontal protection system either supplied as original equipment fitted to a vehicle or placed on the market as a separate technical unit.
+
+Tests should require that frontal protection systems are designed in a way that improves pedestrian safety and reduces the number of injuries.
+1. 'vehicle' means any motor vehicle of class M1 as defined in Article 2 of Directive 70/156/EEC and in Annex II thereto, of a total permissible mass not exceeding 3,5 tonnes and any motor vehicle of class N1 as defined in Article 2 of Directive 70/156/EEC and in Annex II thereto;
+recital 2
+(2) Frontal protection systems can be provided as original equipment fitted to a vehicle or marketed as separate technical units.
+
+The technical requirements for the type approval of motor vehicles with regard to any frontal protection systems that might be fitted to the vehicle should be harmonised in order to prevent the adoption of requirements that vary from one Member State to another and to ensure the proper functioning of the internal market. For the same reasons, it is necessary to harmonise the technical requirements for the type approval of frontal protection systems as separate technical units within the meaning of Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (3).
+recital 4
+(4) These requirements should also be regarded in the context of the protection of pedestrians and other vulnerable road users and with reference to Directive 2003/102/EC of the European Parliament and of the Council of 17 November 2003 relating to the protection of pedestrians and other vulnerable road users before and in the event of a collision with a motor vehicle (4).
+
+The present Directive should be reviewed in the light of further research and experience gained during the first four years of its application.
+recital 5
+(5) This Directive is one of the separate Directives within the framework of the EC type-approval procedure established by Directive 70/156/EEC.
+recital 6
+(6) The Commission should monitor the impact of this Directive and report to the European Parliament and the Council.
+
+If it is deemed necessary to achieve further improvements in pedestrian protection, the Commission should make proposals to amend this Directive in accordance with technical progress.
+recital 7
+(7) It is recognised, however, that certain vehicles included in the scope of this Directive, and to which frontal protection systems may be fitted, will not be subject to Directive 2003/102/EC.
+
+For such vehicles it is considered that the upper leg test requirements of this Directive may be technically unfeasible. To facilitate an improvement in pedestrian safety, with respect to head injury, it may be necessary to allow alternative requirements for the upper leg test, for application to those vehicles only, whilst ensuring that the installation of any frontal protection system does not increase the risk of leg injury to pedestrians or other vulnerable road users.
+AMENDMENTS TO DIRECTIVE 70/156/EEC
+ANNEX III
+AMENDMENTS TO DIRECTIVE 70/156/EEC
+The Annexes to Directive 70/156/EEC shall be amended as follows: 1. In Annex I the following points shall be inserted: '9.[24]. Frontal protection systems
+9.[24].1. A detailed description, including photographs and/or drawings, of the vehicle with respect to the structure, the dimensions, the relevant reference lines and the constituent materials of the frontal protection system and the frontal part of the vehicle shall be provided. 9.[24].2. A detailed description, including photographs and/or drawings, of the method of fitting the frontal protection system to the vehicle shall be provided. This description shall include all bolt dimensions and required torques.' 2. In Annex III, Part I, Section A, the following points shall be inserted: '9.[24]. 9.[24].1. A detailed description, including photographs and/or drawings, of the vehicle with respect to the structure, the dimensions, the relevant reference lines and the constituent materials of the frontal protection system and the frontal part of the vehicle shall be provided. 9.[24].2. A detailed description, including photographs and/or drawings, of the method of fitting the frontal protection system to the vehicle shall be provided. This description shall include all bolt dimensions and required torques.' 3. In Annex IV, Part I, the following item shall be added:
+
+| Subject | Directive number | Official Journal reference | Applicability | Applicability | Applicability | Applicability | Applicability | Applicability | Applicability | Applicability | Applicability | Applicability |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Subject | Directive number | Official Journal reference | M1 | M2 | M3 | N1 | N2 | N3 | O1 | O2 | O3 | O4 |
+| '[60]. Frontal protection system | 2005/66/EC | L 309, 25.11.2005, p. 37. | X (*1) | — | — | X | — | — |  |  |  |  | 4. Annex XI shall be amended as follows: (a) In Appendix 1, the following item shall be added:
+
+| Item | Subject | Directive number | M1 ≤ 2 500 (1) kg | M1 > 2 500 (1) kg | M2 | M3 |
+|---|---|---|---|---|---|---|
+| '[60] | Frontal protection system | 2005/66/EC | X | X (*2) | — | — | (b) In Appendix 2, the following item shall be added:
+
+| Item | Subject | Directive number | M1 | M2 | M3 | N1 | N2 | N3 | O1 | O2 | O3 | O4 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| [60] | Frontal protection system | 2005/66/EC | — | — | — | — | — | — | — | — | — | —' | (c) In Appendix 3, the following item shall be added:
+
+| Item | Subject | Directive number | M2 | M3 | N1 | N2 | N3 | O1 | O2 | O3 | O4 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| '[60] | Frontal protection system | 2005/66/EC | — | — | — | — | — | — | — | — | —' |
+
+(*1) Not exceeding 3,5 tonnes total permissible mass.' (*2) Not exceeding 3,5 tonnes total permissible mass.
+ADMINISTRATIVE PROVISIONS FOR TYPE-APPROVAL
+ANNEX II
+ADMINISTRATIVE PROVISIONS FOR TYPE-APPROVAL
+1. APPLICATION FOR EC TYPE-APPROVAL
+1.1. Application for EC type-approval of a vehicle type in respect of it being fitted with a frontal protection system.
+
+1.1.1. A model of the information document required, pursuant to Article 3(1) of Directive 70/156/EEC, is given in Appendix 1. 
+1.1.2. A vehicle representative of the type of vehicle, fitted with a frontal protection system, for which the approval is required, shall be submitted to the technical service responsible for type-approval. At the request of the technical service, specific components or samples of materials used shall likewise be submitted. 1.2. Application for EC type-approval in respect of frontal protection systems considered to be separate technical units. 1.2.1. A model of the information document required, pursuant to Article 3(4) of Directive 70/156/EEC, is given in Appendix 2. 
+1.2.2. One sample of the type of frontal protection system to be approved shall be submitted to the technical service responsible for the type-approval tests. Should the service consider it necessary, it may request further samples. The samples shall be clearly and indelibly marked with the applicant's trade name or mark and the type designation. Provision shall be made for the subsequent compulsory display of the EC type-approval mark. 2. GRANTING OF EC TYPE-APPROVAL
+2.1. Models of the EC type-approval certificates, pursuant to Article 4(3) and, if applicable, 4(4) of Directive 70/156/EEC, are provided in: (a) Appendix 3 for applications referred to in paragraph 1.1,
+(b) Appendix 4 for applications referred to in paragraph 1.2. 
+3. EC TYPE-APPROVAL MARK
+3.1. Every frontal protection system conforming to the type approved pursuant to this Directive shall bear an EC type-approval mark. 3.2. This mark shall consist of: 3.2.1. A rectangle surrounding the letter 'e' followed by the distinguishing number or letters of the Member State which has granted type-approval: 1
+for Germany
+2
+for France
+3
+for Italy
+4
+for the Netherlands
+5
+for Sweden
+6
+for Belgium
+9
+for Spain
+11
+for the United Kingdom
+12
+for Austria
+13
+for Luxembourg
+17
+for Finland
+18
+for Denmark
+21
+for Portugal
+23
+for Greece
+IRL
+for Ireland
+49
+for Cyprus
+8
+for the Czech Republic
+29
+for Estonia
+7
+for Hungary
+32
+for Latvia
+36
+for Lithuania
+50
+for Malta
+20
+for Poland
+27
+for the Slovak Republic
+26
+for Slovenia
+3.2.2. In the vicinity of the rectangle the 'base approval number' contained in section 4 of the type-approval number referred to in Annex VII of Directive 70/156/EEC, preceded by the two figures indicating the sequence number assigned to the most recent major technical amendment to this Directive on the date the EC type-approval was granted. In this Directive the sequence number is 01. An asterisk inserted after the sequence number will indicate that the frontal protection system was approved under the consideration, for the legform impactor test, allowed by paragraph 3.1.1.1 or 3.1.2.1 of Annex I. If this consideration is not granted by the approval authority the asterisk is replaced by a space. 3.3. The EC type-approval mark shall be affixed to the frontal protection system in such a way as to be indelible and clearly legible even when the system is fitted to the vehicle. 3.4. An example of the EC type-approval mark is given in Appendix 5. Appendix 1
+INFORMATION DOCUMENT No […]
+Appendix 1
+INFORMATION DOCUMENT No […]
+Pursuant to Annex I of Council Directive 70/156/EEC relating to EC type-approval of vehicles with respect to the provision of frontal protection systems
+The following information, if applicable, must be supplied in triplicate and include a list of contents. Any drawings must be supplied in appropriate scale and in sufficient detail on size A4 or folder of A4 format. Photographs, if any, must show sufficient detail. If the systems, components or separate technical units make use of specialist materials, information concerning their performance must be supplied. 0. GENERAL
+0.1. Make (trade name of manufacturer):
+0.2. Type and general commercial description(s):
+0.3. Means of identification of type, if marked on the vehicle: 0.3.1. Location of that marking: 0.4. Category of vehicle: 0.5. Name and address of manufacturer: 0.8. Address(es) of assembly plant(s):
+1. GENERAL CONSTRUCTION CHARACTERISTICS OF THE VEHICLE
+1.1. Photographs and/or drawings of a representative vehicle: 2. MASSES AND DIMENSIONS (in kg and mm)(Refer to drawings where applicable)
+2.8. Technically permissible maximum laden mass stated by the manufacturer (max. and min.):
+2.8.1. Distribution of this mass among the axles (max. and min.):
+9. BODYWORK
+9.1. Type of bodywork: 9.[11]. Frontal protection system
+9.[11].1. General arrangement (drawings or photographs) indicating the position and attachment of the frontal protection systems: 9.[11].2. Drawings and/or photographs, where relevant, of air intake grilles, radiator grille, decorative trim, badges, emblems and recesses and any other external projections and parts of the exterior surface which can be regarded as critical (e.g. lighting equipment). If the parts listed in the previous sentence are not critical, for documentation purposes they may be replaced by photographs, accompanied if necessary by dimensional details and/or text: 9.[11].3. Complete details of fittings required and full instructions, including torque requirements, for fitting: 9.[11].4. Drawing of bumpers: 9.[11].5
+Drawing of the floor line at the vehicle front end: Date: Appendix 2
+INFORMATION DOCUMENT No […]
+Appendix 2
+INFORMATION DOCUMENT No […]
+Relating to EC type approval of frontal protection systems as separate technical units (2005/66/EC)
+The following information, if applicable, must be supplied in triplicate and include a list of contents. Any drawings must be supplied in appropriate scale and in sufficient detail on size A4 or folder of A4 format. Photographs, if any, must show sufficient detail. If the systems, components or separate technical units make use of specialist materials, information concerning their performance must be supplied. 0. GENERAL
+0.1. Make (trade name of manufacturer):
+0.2. Type and general commercial description(s):
+0.5. Name and address of manufacturer: 0.7. Location and method of affixing of the EC type-approval mark: 1. DESCRIPTION OF THE DEVICE
+1.1. Detailed technical description (including photographs or drawings):
+1.2. Assembly and mounting instructions, including required torques: 1.3. Listing of vehicle types to which it may be fitted. 1.4
+Any restrictions of use and conditions for fitting: Appendix 3
+(MODEL)
+Appendix 3
+(MODEL)
+(maximum format: A4 (210 × 297 mm))
+EC TYPE-APPROVAL CERTIFICATE
+STAMP OF ADMINISTRATION
+Communication concerning the
+—
+type-approval
+—
+extension of type-approval
+—
+refusal of type-approval
+—
+withdrawal of type-approval
+of a type of a vehicle with frontal protection system fitted with regard to Directive 2005/66/EC. Type-approval number: Reason for extension: SECTION I
+0.1. Make (trade name of manufacturer):
+0.2. Type and general commercial description(s):
+0.3. Means of identification of type if marked on the vehicle: 0.3.1. Location of that marking: 0.4. Category of vehicle: 0.5. Name and address of manufacturer: 0.7. In the case of the frontal protection system, the location and method of the affixing of the EC type-approval mark: 0.8. Address(es) of assembly plant(s):
+SECTION II
+ 1. Additional information (where applicable): See Addendum
+ 2. Technical service responsible for carrying out the tests: 3. Date of test report: 4. Number of test report: 5. Remarks (if any): See Addendum
+ 6. Place: 7. Date: 8. Signature: 9. The index to the information package lodged with the approval authority, which may be obtained on request, is attached.
+recital 1
+(1) Systems providing additional frontal protection for motor vehicles have been increasingly used in recent years.
+
+Some of these systems constitute a risk to the safety of pedestrians and other road users in the event of a collision. Measures are therefore required in order to safeguard the public against such risks.
+3. EC TYPE-APPROVAL MARK
+ANNEX II
+3. EC TYPE-APPROVAL MARK
+ADMINISTRATIVE PROVISIONS FOR TYPE-APPROVAL
+1.1. Application for EC type-approval of a vehicle type in respect of it being fitted with a frontal protection system.
+
+1.1.1. A model of the information document required, pursuant to Article 3(1) of Directive 70/156/EEC, is given in Appendix 1. 
+1.1.2. A vehicle representative of the type of vehicle, fitted with a frontal protection system, for which the approval is required, shall be submitted to the technical service responsible for type-approval. At the request of the technical service, specific components or samples of materials used shall likewise be submitted. 1.2. Application for EC type-approval in respect of frontal protection systems considered to be separate technical units. 1.2.1. A model of the information document required, pursuant to Article 3(4) of Directive 70/156/EEC, is given in Appendix 2. 
+1.2.2. One sample of the type of frontal protection system to be approved shall be submitted to the technical service responsible for the type-approval tests. Should the service consider it necessary, it may request further samples. The samples shall be clearly and indelibly marked with the applicant's trade name or mark and the type designation. Provision shall be made for the subsequent compulsory display of the EC type-approval mark. 2.1. Models of the EC type-approval certificates, pursuant to Article 4(3) and, if applicable, 4(4) of Directive 70/156/EEC, are provided in: (a) Appendix 3 for applications referred to in paragraph 1.1,
+(b) Appendix 4 for applications referred to in paragraph 1.2. 
+3.1. Every frontal protection system conforming to the type approved pursuant to this Directive shall bear an EC type-approval mark. 3.2. This mark shall consist of: 3.2.1. A rectangle surrounding the letter 'e' followed by the distinguishing number or letters of the Member State which has granted type-approval: 1
+for Germany
+2
+for France
+3
+for Italy
+4
+for the Netherlands
+5
+for Sweden
+6
+for Belgium
+9
+for Spain
+11
+for the United Kingdom
+12
+for Austria
+13
+for Luxembourg
+17
+for Finland
+18
+for Denmark
+21
+for Portugal
+23
+for Greece
+IRL
+for Ireland
+49
+for Cyprus
+8
+for the Czech Republic
+29
+for Estonia
+7
+for Hungary
+32
+for Latvia
+36
+for Lithuania
+50
+for Malta
+20
+for Poland
+27
+for the Slovak Republic
+26
+for Slovenia
+▼M1
+34
+for Bulgaria
+19
+for Romania
+▼B
+3.2.2. In the vicinity of the rectangle the 'base approval number' contained in section 4 of the type-approval number referred to in Annex VII of Directive 70/156/EEC, preceded by the two figures indicating the sequence number assigned to the most recent major technical amendment to this Directive on the date the EC type-approval was granted. In this Directive the sequence number is 01. An asterisk inserted after the sequence number will indicate that the frontal protection system was approved under the consideration, for the legform impactor test, allowed by paragraph 3.1.1.1 or 3.1.2.1 of Annex I. If this consideration is not granted by the approval authority the asterisk is replaced by a space. 3.3. The EC type-approval mark shall be affixed to the frontal protection system in such a way as to be indelible and clearly legible even when the system is fitted to the vehicle. 3.4. An example of the EC type-approval mark is given in Appendix 5. Appendix 1
+9. BODYWORK
+INFORMATION DOCUMENT No […]The following information, if applicable, must be supplied in triplicate and include a list of contents. Any drawings must be supplied in appropriate scale and in sufficient detail on size A4 or folder of A4 format. Photographs, if any, must show sufficient detail.If the systems, components or separate technical units make use of specialist materials, information concerning their performance must be supplied. 0.1. Make (trade name of manufacturer):
+0.2. Type and general commercial description(s):
+0.3. Means of identification of type, if marked on the vehicle: 0.3.1. Location of that marking: 0.4. Category of vehicle: 0.5. Name and address of manufacturer: 0.8. Address(es) of assembly plant(s): 1.1. Photographs and/or drawings of a representative vehicle: 2.8. Technically permissible maximum laden mass stated by the manufacturer (max. and min.):
+2.8.1. Distribution of this mass among the axles (max. and min.):
+9.1. Type of bodywork: 9.[11]. Frontal protection system
+9.[11].1. General arrangement (drawings or photographs) indicating the position and attachment of the frontal protection systems: 9.[11].2. Drawings and/or photographs, where relevant, of air intake grilles, radiator grille, decorative trim, badges, emblems and recesses and any other external projections and parts of the exterior surface which can be regarded as critical (e.g. lighting equipment). If the parts listed in the previous sentence are not critical, for documentation purposes they may be replaced by photographs, accompanied if necessary by dimensional details and/or text: 9.[11].3. Complete details of fittings required and full instructions, including torque requirements, for fitting: 9.[11].4. Drawing of bumpers: 9.[11].5 Drawing of the floor line at the vehicle front end: Date: Appendix 2
+1. DESCRIPTION OF THE DEVICE
+INFORMATION DOCUMENT No […]The following information, if applicable, must be supplied in triplicate and include a list of contents. Any drawings must be supplied in appropriate scale and in sufficient detail on size A4 or folder of A4 format. Photographs, if any, must show sufficient detail.If the systems, components or separate technical units make use of specialist materials, information concerning their performance must be supplied. 0.1. Make (trade name of manufacturer):
+0.2. Type and general commercial description(s):
+0.5. Name and address of manufacturer: 0.7. Location and method of affixing of the EC type-approval mark: 1.1. Detailed technical description (including photographs or drawings):
+1.2. Assembly and mounting instructions, including required torques: 1.3. Listing of vehicle types to which it may be fitted. 1.4 Any restrictions of use and conditions for fitting: Appendix 3
+recital 8
+(8) The measures necessary for the implementation of this Directive and for its adaptation to scientific and technical progress should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission (5).
+Article 5 - Review
+Not later than 25 August 2010, in the light of technical progress and experience, the Commission shall review the technical provisions of this Directive and, in particular, the conditions for requiring the Upper Legform to Frontal Protection System test, the inclusion of an Adult Headform to Frontal Protection System test and the specification of a Child Headform to Frontal Protection System test.
+
+The results of this review will be the subject of a report from the Commission to the European Parliament and the Council.If, as a result of this review, it is considered appropriate to adapt the technical provisions of this Directive, such adaptation shall be carried out in accordance with the procedure laid down in Article 13(3) of Directive 70/156/EEC.
+recital 10
+(10) This Directive is part of the European road safety action programme and may be supplemented by national measures to prohibit or restrict the use of frontal protection systems already on the market before its entry into force.
+9. The index to the information package lodged with the approval authority, which may be obtained on request, is attached. Appendix 4
+(MODEL)
+Appendix 4
+(MODEL)
+(maximum format: A4 (210 × 297 mm))
+EC TYPE-APPROVAL CERTIFICATE
+STAMP OF ADMINISTRATION
+Communication concerning the
+—
+type-approval
+—
+extension of type-approval
+—
+refusal of type-approval
+—
+withdrawal of type-approval
+of a type of frontal protection system as a separate technical unit with regard to Directive 2005/66/EC. Type-approval number: Reason for extension: SECTION I
+0.1. Make (trade name of manufacturer):
+0.2. Type and general commercial description(s):
+0.3. Means of identification of type if marked on the frontal protection system: 0.3.1. Location of that marking: 0.5. Name and address of manufacturer: 0.7. Location and method of the affixing of the EC type-approval mark: 0.8. Assembly plant address(es):
+SECTION II
+ 1. Additional information: See Addendum
+ 2. Technical service responsible for carrying out the tests: 3. Date of test report: 4. Number of test report: 5. Remarks (if any): See Addendum
+ 6. Place: 7. Date: 8. Signature: 9. The index to the information package lodged with the approval authority, which may be obtained on request, is attached. {{IMAGE:Image_2, Caption:Technical diagram illustrating the layout and proportional dimensions of an EC type-approval mark, featuring the country code 'e1' and approval number '01*1471'.}} (a ≥ 12mm)
+The device bearing the EC type-approval mark shown above is for a frontal protection system type-approved in Germany (e1) pursuant to this Directive (01) under the base approval number 1471. The asterisk indicates that the frontal protection system was approved under the consideration, for the legform impactor test, allowed by paragraph 3.1.1.1 or 3.1.2.1 of Annex I. If this consideration is not granted by the approval authority the asterisk is replaced by a space.
+2. 'separate technical unit' means any separate technical unit within the meaning of Article 2 of Directive 70/156/EEC and intended for installation and use on one or more types of vehicles.
+3.1.3. Upper Legform to Frontal Protection System Leading Edge. The test is performed at an impact speed of up to 40 km/h. The instantaneous sum of the impact forces with respect to time, to the top and the bottom of the impactor, should not exceed a possible target of 5,0 kN and the bending moment on the impactor should not exceed a possible target of 300 Nm. Both results shall be recorded for monitoring purposes only. 3.1.4. Child/Small Adult Headform to Frontal Protection System. The test is performed at an impact speed of 35 km/h using a 3,5 kg headform test impactor for the child/small adult. The headform performance criterion (HPC), calculated from the resultant of the accelerometer time histories, in accordance with paragraph 1.15, shall not exceed 1 000 in all cases.
+2. 'separate technical unit' means any separate technical unit within the meaning of Article 2 of Directive 70/156/EEC and intended for installation and use on one or more types of vehicles.
+1.14. 'frontal protection system leading edge reference line' means the geometric trace of the points of contact between a straight edge 1 000 mm long and the front surface of the frontal protection system, when the straight edge, held parallel to the vertical longitudinal plane of the car and inclined rearwards by 50°, is traversed across and in contact with the frontal protection system leading edge. For vehicles having the frontal protection system top surface inclined at essentially 50°, so that the straight edge makes a continuous contact or multiple contacts rather than a point contact, the reference line is determined with the straight edge inclined rearwards at an angle of 40°; 1.15. 'Head performance criterion (HPC)' shall be calculated using the expression: {{IMAGE:Image_0, Caption:Mathematical formula for calculating the Head Performance Criterion (HPC).}} where 'a' is the resultant acceleration at the centre of gravity of the head (m/s2 as a multiple of 'g', recorded versus time and filtered at a channel frequency class 1 000 Hz; t1 and t2 are two times defining the beginning and the end of the relevant recording period for which the value of HPC is a maximum between the first and last instants of contact. Values of HPC for which the time interval (t1 - t2) is greater than 15 ms are ignored for the purposes of calculating the maximum value. 2. CONSTRUCTION AND INSTALLATION PROVISIONS
+2.1. Frontal protection systems
+The following requirements apply equally to frontal protection systems as supplied fitted to new vehicles and to frontal protection systems supplied as separate technical units for fitting to specified vehicles. However, with the agreement of the competent approval authority, the requirements contained in paragraph 3 can be considered to have been satisfied wholly or in part by any equivalent testing carried out on the frontal protection system pursuant to another type-approval directive. 2.1.1. The components of the frontal protection system shall be so designed that all rigid surfaces which can be contacted by a 100 mm sphere, have a minimum radius of curvature of 5 mm. 2.1.2. The total mass of the frontal protection system, including all brackets and fixings, shall not exceed 1,2 % of the mass of the vehicle for which it is designed, subject to a maximum of 18 kg. 2.1.3. The height of the frontal protection system, when fitted to a vehicle, shall be no more than 50 mm higher at any point than the bonnet leading edge reference line, as defined in paragraph 1.8, measured on a vertical longitudinal plane through the vehicle at that point. 2.1.4. The frontal protection system shall not increase the width of the vehicle to which it is fitted. If the overall width of the frontal protection system is more than 75 % of the width of the vehicle, the ends of the system shall be turned in towards the external surface in order to minimise the risk of fouling. This requirement is considered to be satisfied if either the frontal protection system is recessed or integrated within the bodywork or the end of the system is turned so that it is not contactable by a 100 mm sphere and the gap between the end of the system and the surrounding bodywork does not exceed 20 mm. 2.1.5. Subject to paragraph 2.1.4, the gap between the components of the frontal protection system and the underlying external surface shall not exceed 80 mm. Local discontinuities in the general contour of the underlying body (such as apertures in grilles, air intakes, etc.) shall be ignored. 2.1.6. At any lateral position across the vehicle, in order to preserve the benefits of the vehicle bumper, the longitudinal distance between the most forward part of the bumper and the most forward part of the frontal protection system shall not exceed 50 mm. 2.1.7. The frontal protection system shall not reduce significantly the effectiveness of the bumper. This requirement shall be considered to be satisfied if there are no more than two vertical components and no horizontal components of the frontal protection system overlapping the bumper. 2.1.8. The frontal protection system shall not be inclined forward of the vertical. The top parts of the frontal protection system shall not extend upwards or rearwards (towards the windscreen) more than 50 mm from the bonnet leading edge reference line of the vehicle, as defined in paragraph 1.8, with the frontal protection system removed. Each point of measurement is made on a vertical longitudinal plane through the vehicle through that point. 2.1.9. Conformity with the requirements of other vehicle type-approval directives shall not be compromised by the fitting of a frontal protection system. 2.2. Frontal protection systems that are separate technical units may not be distributed, offered for sale or sold unless accompanied by a list of vehicle types for which the frontal protection system is type approved and clear assembly instructions. The assembly instructions shall contain specific instructions on installation including fixing modes for the vehicles for which the unit has been approved and to enable the approved components to be mounted on that vehicle in a manner that complies with the relevant provisions of paragraph 2.1. 3. TEST PROVISIONS
+3.1. In order to be approved, frontal protection systems must pass the following tests: 3.1.1. Lower Legform to Frontal Protection System. The test is performed at an impact speed of 40 km/h. The maximum dynamic knee bending angle shall not exceed 21,0°, the maximum dynamic knee shearing displacement shall not exceed 6,0 mm, and the acceleration measured at the upper end of the tibia shall not exceed 200 g.
+3.1.1.1. However, with respect to frontal protection systems approved as separate technical units for use only on specified vehicles of total permissible mass not exceeding 2,5 tonnes which have been type approved before 1 October 2005, or vehicles of total permissible mass exceeding 2,5 tonnes, the provisions of paragraph 3.1.1 may be replaced by the provisions of either paragraph 3.1.1.1.1 or paragraph 3.1.1.1.2. 
+3.1.1.1.1. The test is performed at an impact speed of 40 km/h. The maximum dynamic knee bending angle shall not exceed 26,0°, the maximum dynamic knee shearing displacement shall not exceed 7,5 mm, and the acceleration measured at the upper end of the tibia shall not exceed 250 g.
+3.1.1.1.2. Tests are performed on the vehicle with the frontal protection system fitted and without the frontal protection system fitted at an impact speed of 40 km/h. The two tests shall be performed in equivalent locations as agreed with the relevant test authority. The values for the maximum dynamic knee bending angle, the maximum dynamic knee shearing displacement and the acceleration measured at the upper end of the tibia shall be recorded. In each case the value recorded for the vehicle fitted with the frontal protection system shall not exceed 90 % of the value recorded for the vehicle without the frontal protection system fitted. 3.1.1.2. If the lower frontal protection system height is greater than 500 mm this test must be replaced by the Upper Legform to Frontal Protection System test, as specified in paragraph 3.1.2. 
+3.1.2. Upper Legform to Frontal Protection System. The test is performed at an impact speed of 40 km/h. The instantaneous sum of the impact forces with respect to time shall not exceed 7,5 kN and the bending moment on the test impactor shall not exceed 510 Nm. The Upper Legform to Frontal Protection System test shall be carried out if the lower frontal protection system height at the test position is more than 500 mm.
+'Head performance criterion (HPC)' shall be calculated using the expression: {{IMAGE:Image_2}}
+where 'a' is the resultant acceleration at the centre of gravity of the head (m/s2 as a multiple of 'g', recorded versus time and filtered at a channel frequency class 1 000 Hz; t1 and t2 are two times defining the beginning and the end of the relevant recording period for which the value of HPC is a maximum between the first and last instants of contact. Values of HPC for which the time interval (t1 - t2) is greater than 15 ms are ignored for the purposes of calculating the maximum value. 2.1. Frontal protection systems
+The following requirements apply equally to frontal protection systems as supplied fitted to new vehicles and to frontal protection systems supplied as separate technical units for fitting to specified vehicles. However, with the agreement of the competent approval authority, the requirements contained in paragraph 3 can be considered to have been satisfied wholly or in part by any equivalent testing carried out on the frontal protection system pursuant to another type-approval directive. 2.1.1. The components of the frontal protection system shall be so designed that all rigid surfaces which can be contacted by a 100 mm sphere, have a minimum radius of curvature of 5 mm. 2.1.2. The total mass of the frontal protection system, including all brackets and fixings, shall not exceed 1,2 % of the mass of the vehicle for which it is designed, subject to a maximum of 18 kg. 2.1.3. The height of the frontal protection system, when fitted to a vehicle, shall be no more than 50 mm higher at any point than the bonnet leading edge reference line, as defined in paragraph 1.8, measured on a vertical longitudinal plane through the vehicle at that point. 2.1.4. The frontal protection system shall not increase the width of the vehicle to which it is fitted. If the overall width of the frontal protection system is more than 75 % of the width of the vehicle, the ends of the system shall be turned in towards the external surface in order to minimise the risk of fouling. This requirement is considered to be satisfied if either the frontal protection system is recessed or integrated within the bodywork or the end of the system is turned so that it is not contactable by a 100 mm sphere and the gap between the end of the system and the surrounding bodywork does not exceed 20 mm. 2.1.5. Subject to paragraph 2.1.4, the gap between the components of the frontal protection system and the underlying external surface shall not exceed 80 mm. Local discontinuities in the general contour of the underlying body (such as apertures in grilles, air intakes, etc.) shall be ignored. 2.1.6. At any lateral position across the vehicle, in order to preserve the benefits of the vehicle bumper, the longitudinal distance between the most forward part of the bumper and the most forward part of the frontal protection system shall not exceed 50 mm. 2.1.7. The frontal protection system shall not reduce significantly the effectiveness of the bumper. This requirement shall be considered to be satisfied if there are no more than two vertical components and no horizontal components of the frontal protection system overlapping the bumper. 2.1.8. The frontal protection system shall not be inclined forward of the vertical. The top parts of the frontal protection system shall not extend upwards or rearwards (towards the windscreen) more than 50 mm from the bonnet leading edge reference line of the vehicle, as defined in paragraph 1.8, with the frontal protection system removed. Each point of measurement is made on a vertical longitudinal plane through the vehicle through that point. 2.1.9. Conformity with the requirements of other vehicle type-approval directives shall not be compromised by the fitting of a frontal protection system. 2.2. Frontal protection systems that are separate technical units may not be distributed, offered for sale or sold unless accompanied by a list of vehicle types for which the frontal protection system is type approved and clear assembly instructions. The assembly instructions shall contain specific instructions on installation including fixing modes for the vehicles for which the unit has been approved and to enable the approved components to be mounted on that vehicle in a manner that complies with the relevant provisions of paragraph 2.1. 
+3.1. In order to be approved, frontal protection systems must pass the following tests: 3.1.1. Lower Legform to Frontal Protection System. The test is performed at an impact speed of 40 km/h. The maximum dynamic knee bending angle shall not exceed 21,0°, the maximum dynamic knee shearing displacement shall not exceed 6,0 mm, and the acceleration measured at the upper end of the tibia shall not exceed 200 g.
+3.1.1.1. However, with respect to frontal protection systems approved as separate technical units for use only on specified vehicles of total permissible mass not exceeding 2,5 tonnes which have been type approved before 1 October 2005, or vehicles of total permissible mass exceeding 2,5 tonnes, the provisions of paragraph 3.1.1 may be replaced by the provisions of either paragraph 3.1.1.1.1 or paragraph 3.1.1.1.2. 
+3.1.1.1.1. The test is performed at an impact speed of 40 km/h. The maximum dynamic knee bending angle shall not exceed 26,0°, the maximum dynamic knee shearing displacement shall not exceed 7,5 mm, and the acceleration measured at the upper end of the tibia shall not exceed 250 g.
+3.1.1.1.2. Tests are performed on the vehicle with the frontal protection system fitted and without the frontal protection system fitted at an impact speed of 40 km/h. The two tests shall be performed in equivalent locations as agreed with the relevant test authority. The values for the maximum dynamic knee bending angle, the maximum dynamic knee shearing displacement and the acceleration measured at the upper end of the tibia shall be recorded. In each case the value recorded for the vehicle fitted with the frontal protection system shall not exceed 90 % of the value recorded for the vehicle without the frontal protection system fitted. 3.1.1.2. If the lower frontal protection system height is greater than 500 mm this test must be replaced by the Upper Legform to Frontal Protection System test, as specified in paragraph 3.1.2. 
+3.1.2. Upper Legform to Frontal Protection System. The test is performed at an impact speed of 40 km/h. The instantaneous sum of the impact forces with respect to time shall not exceed 7,5 kN and the bending moment on the test impactor shall not exceed 510 Nm. The Upper Legform to Frontal Protection System test shall be carried out if the lower frontal protection system height at the test position is more than 500 mm. 3.1.2.1. However, with respect to frontal protection systems approved as separate technical units for use only on specified vehicles of total permissible mass not exceeding 2,5 tonnes which have been type approved before 1 October 2005, or vehicles of total permissible mass exceeding 2,5 tonnes, the provisions of paragraph 3.1.2 may be replaced by the provisions of either paragraph 3.1.2.1.1 or paragraph 3.1.2.1.2. 
+3.1.2.1.1. The test is performed at an impact speed of 40 km/h. The instantaneous sum of the impact forces with respect to time shall not exceed 9,4 kN and the bending moment on the test impactor shall not exceed 640 Nm. 3.1.2.1.2. Tests are performed on the vehicle with the frontal protection system fitted and without the frontal protection system fitted at an impact speed of 40 km/h. The two tests shall be performed in equivalent locations as agreed with the relevant test authority. The values for the instantaneous sum of the impact forces and the bending moment on the test impactor shall be recorded.
+The values for the instantaneous sum of the impact forces and the bending moment on the test impactor shall be recorded. In each case the value recorded for the vehicle fitted with the frontal protection system shall not exceed 90 % of the value recorded for the vehicle without the frontal protection system fitted. 3.1.2.2. If the lower frontal protection system height is less than 500 mm this test is not required. 3.1.3. Upper Legform to Frontal Protection System Leading Edge. The test is performed at an impact speed of up to 40 km/h. The instantaneous sum of the impact forces with respect to time, to the top and the bottom of the impactor, should not exceed a possible target of 5,0 kN and the bending moment on the impactor should not exceed a possible target of 300 Nm. Both results shall be recorded for monitoring purposes only. 3.1.4. Child/Small Adult Headform to Frontal Protection System. The test is performed at an impact speed of 35 km/h using a 3,5 kg headform test impactor for the child/small adult. The headform performance criterion (HPC), calculated from the resultant of the accelerometer time histories, in accordance with paragraph 1.15, shall not exceed 1 000 in all cases.
+1.1. 'Vehicle type' means a category of motor vehicle which, forward of the A-pillars, does not differ in such essential respects as: (a) the structure, (b) the main dimensions, (c) the materials of the outer surfaces of the vehicle, (d) the component arrangement (external or internal), (e) the method of fixing a frontal protection system, in so far as they may be considered to have an effect on the validity of the results of the impact tests prescribed in this Directive. For the purposes of frontal protection systems to be type-approved as separate technical units, any reference to vehicle may be interpreted as referring to the frame on which the system is mounted for testing and which is intended to represent the front end outer dimensions of the particular vehicle type for which the system is being type-approved;
+The Upper Legform to Frontal Protection System test shall be carried out if the lower frontal protection system height at the test position is more than 500 mm. 3.1.2.1. However, with respect to frontal protection systems approved as separate technical units for use only on specified vehicles of total permissible mass not exceeding 2,5 tonnes which have been type approved before 1 October 2005, or vehicles of total permissible mass exceeding 2,5 tonnes, the provisions of paragraph 3.1.2 may be replaced by the provisions of either paragraph 3.1.2.1.1 or paragraph 3.1.2.1.2. 
+3.1.2.1.1. The test is performed at an impact speed of 40 km/h. The instantaneous sum of the impact forces with respect to time shall not exceed 9,4 kN and the bending moment on the test impactor shall not exceed 640 Nm. 3.1.2.1.2. Tests are performed on the vehicle with the frontal protection system fitted and without the frontal protection system fitted at an impact speed of 40 km/h. The two tests shall be performed in equivalent locations as agreed with the relevant test authority. The values for the instantaneous sum of the impact forces and the bending moment on the test impactor shall be recorded. In each case the value recorded for the vehicle fitted with the frontal protection system shall not exceed 90 % of the value recorded for the vehicle without the frontal protection system fitted. 3.1.2.2. If the lower frontal protection system height is less than 500 mm this test is not required. 3.1.3. Upper Legform to Frontal Protection System Leading Edge. The test is performed at an impact speed of up to 40 km/h. The instantaneous sum of the impact forces with respect to time, to the top and the bottom of the impactor, should not exceed a possible target of 5,0 kN and the bending moment on the impactor should not exceed a possible target of 300 Nm. Both results shall be recorded for monitoring purposes only. 3.1.4. Child/Small Adult Headform to Frontal Protection System. The test is performed at an impact speed of 35 km/h using a 3,5 kg headform test impactor for the child/small adult. The headform performance criterion (HPC), calculated from the resultant of the accelerometer time histories, in accordance with paragraph 1.15, shall not exceed 1 000 in all cases. ANNEX IIADMINISTRATIVE PROVISIONS FOR TYPE-APPROVAL1. APPLICATION FOR EC TYPE-APPROVAL
+1.1. Application for EC type-approval of a vehicle type in respect of it being fitted with a frontal protection system. 1.1.1. A model of the information document required, pursuant to Article 3(1) of Directive 70/156/EEC, is given in Appendix 1. 
+1.1.2. A vehicle representative of the type of vehicle, fitted with a frontal protection system, for which the approval is required, shall be submitted to the technical service responsible for type-approval. At the request of the technical service, specific components or samples of materials used shall likewise be submitted. 1.2. Application for EC type-approval in respect of frontal protection systems considered to be separate technical units. 1.2.1. A model of the information document required, pursuant to Article 3(4) of Directive 70/156/EEC, is given in Appendix 2. 
+1.2.2. One sample of the type of frontal protection system to be approved shall be submitted to the technical service responsible for the type-approval tests. Should the service consider it necessary, it may request further samples. The samples shall be clearly and indelibly marked with the applicant's trade name or mark and the type designation. Provision shall be made for the subsequent compulsory display of the EC type-approval mark. 2. GRANTING OF EC TYPE-APPROVAL
+2.1. Models of the EC type-approval certificates, pursuant to Article 4(3) and, if applicable, 4(4) of Directive 70/156/EEC, are provided in: (a) Appendix 3 for applications referred to in paragraph 1.1,
+(b) Appendix 4 for applications referred to in paragraph 1.2. 3. EC TYPE-APPROVAL MARK
+3.1. Every frontal protection system conforming to the type approved pursuant to this Directive shall bear an EC type-approval mark. 3.2. This mark shall consist of: 3.2.1. A rectangle surrounding the letter 'e' followed by the distinguishing number or letters of the Member State which has granted type-approval: 1
+for Germany
+2
+for France
+3
+for Italy
+4
+for the Netherlands
+5
+for Sweden
+6
+for Belgium
+9
+for Spain
+11
+for the United Kingdom
+12
+for Austria
+13
+for Luxembourg
+17
+for Finland
+18
+for Denmark
+21
+for Portugal
+23
+for Greece
+IRL
+for Ireland
+49
+for Cyprus
+8
+for the Czech Republic
+29
+for Estonia
+7
+for Hungary
+32
+for Latvia
+36
+for Lithuania
+50
+for Malta
+20
+for Poland
+27
+for the Slovak Republic
+26
+for Slovenia
+▼M1
+34
+for Bulgaria
+19
+for Romania
+▼B
+3.2.2. In the vicinity of the rectangle the 'base approval number' contained in section 4 of the type-approval number referred to in Annex VII of Directive 70/156/EEC, preceded by the two figures indicating the sequence number assigned to the most recent major technical amendment to this Directive on the date the EC type-approval was granted. In this Directive the sequence number is 01. An asterisk inserted after the sequence number will indicate that the frontal protection system was approved under the consideration, for the legform impactor test, allowed by paragraph 3.1.1.1 or 3.1.2.1 of Annex I. If this consideration is not granted by the approval authority the asterisk is replaced by a space. 3.3. The EC type-approval mark shall be affixed to the frontal protection system in such a way as to be indelible and clearly legible even when the system is fitted to the vehicle. 3.4. An example of the EC type-approval mark is given in Appendix 5. Appendix 1INFORMATION DOCUMENT No […]Pursuant to Annex I of Council Directive 70/156/EEC relating to EC type-approval of vehicles with respect to the provision of frontal protection systemsThe following information, if applicable, must be supplied in triplicate and include a list of contents. Any drawings must be supplied in appropriate scale and in sufficient detail on size A4 or folder of A4 format. Photographs, if any, must show sufficient detail.If the systems, components or separate technical units make use of specialist materials, information concerning their performance must be supplied.0. GENERAL
+0.1. Make (trade name of manufacturer):
+0.2. Type and general commercial description(s):
+0.3. Means of identification of type, if marked on the vehicle: 0.3.1. Location of that marking: 0.4. Category of vehicle: 0.5. Name and address of manufacturer: 0.8. Address(es) of assembly plant(s):
+1. GENERAL CONSTRUCTION CHARACTERISTICS OF THE VEHICLE
+1.1. Photographs and/or drawings of a representative vehicle: 2. MASSES AND DIMENSIONS (in kg and mm)
+2.8. Technically permissible maximum laden mass stated by the manufacturer (max. and min.):
+2.8.1. Distribution of this mass among the axles (max. and min.):
+9. BODYWORK
+9.1. Type of bodywork: 9.[11]. Frontal protection system
+9.[11].1. General arrangement (drawings or photographs) indicating the position and attachment of the frontal protection systems: 9.[11].2. Drawings and/or photographs, where relevant, of air intake grilles, radiator grille, decorative trim, badges, emblems and recesses and any other external projections and parts of the exterior surface which can be regarded as critical (e.g. lighting equipment). If the parts listed in the previous sentence are not critical, for documentation purposes they may be replaced by photographs, accompanied if necessary by dimensional details and/or text: 9.[11].3. Complete details of fittings required and full instructions, including torque requirements, for fitting: 9.[11].4. Drawing of bumpers: 9.[11].5 Drawing of the floor line at the vehicle front end: Date: Appendix 2INFORMATION DOCUMENT No […]Relating to EC type approval of frontal protection systems as separate technical units (2005/66/EC)The following information, if applicable, must be supplied in triplicate and include a list of contents.
+Appendix 2INFORMATION DOCUMENT No […]Relating to EC type approval of frontal protection systems as separate technical units (2005/66/EC)The following information, if applicable, must be supplied in triplicate and include a list of contents. Any drawings must be supplied in appropriate scale and in sufficient detail on size A4 or folder of A4 format. Photographs, if any, must show sufficient detail.If the systems, components or separate technical units make use of specialist materials, information concerning their performance must be supplied.0. GENERAL
+0.1. Make (trade name of manufacturer):
+0.2. Type and general commercial description(s):
+0.5. Name and address of manufacturer: 0.7. Location and method of affixing of the EC type-approval mark: 1. DESCRIPTION OF THE DEVICE
+1.1. Detailed technical description (including photographs or drawings):
+1.2. Assembly and mounting instructions, including required torques: 1.3. Listing of vehicle types to which it may be fitted. 1.4 Any restrictions of use and conditions for fitting: Appendix 3
+(MODEL)
+(maximum format: A4 (210 × 297 mm))
+EC TYPE-APPROVAL CERTIFICATESTAMP OF ADMINISTRATIONCommunication concerning the
+— type-approval
+— extension of type-approval
+— refusal of type-approval
+— withdrawal of type-approval
+of a type of a vehicle with frontal protection system fitted with regard to Directive 2005/66/EC.Type-approval number:Reason for extension:SECTION I
+0.1. Make (trade name of manufacturer):
+0.2. Type and general commercial description(s):
+0.3. Means of identification of type if marked on the vehicle: 0.3.1. Location of that marking: 0.4. Category of vehicle: 0.5. Name and address of manufacturer: 0.7. In the case of the frontal protection system, the location and method of the affixing of the EC type-approval mark: 0.8. Address(es) of assembly plant(s):
+SECTION II 1. Additional information (where applicable): See Addendum
+ 2. Technical service responsible for carrying out the tests: 3. Date of test report: 4. Number of test report: 5. Remarks (if any): See Addendum
+ 6. Place: 7. Date: 8. Signature: 9. The index to the information package lodged with the approval authority, which may be obtained on request, is attached. Addendumto EC type-approval certificate No […]
+concerning the type approval of a vehicle with regard to the fitting of a frontal protection system
+ 1. Additional information, if any: 2. Remarks: 3. Annex I, paragraph 3, test results
+Test
+Values recorded
+Pass/fail
+Lower Legform to Frontal Protection System
+— three test positions
+(where performed)
+Bending angle
+……
+…… Degrees
+……
+Shear displacement
+……
+…… mm
+……
+Acceleration at tibia
+……
+…… g
+……
+Upper Legform to Frontal Protection System
+— three test positions
+(where performed)
+Sum of impact forces
+……
+…… kN
+……
+Bending moment
+……
+…… Nm
+……
+Upper Legform to Frontal Protection System Leading Edge
+— three test positions
+(monitoring only)
+Sum of impact forces
+……
+…… kN
+……
+Bending moment
+……
+…… Nm
+……
+Child/Small Adult Headform (3,5 kg) to Frontal Protection System
+HPC values
+(at least three values)
+……
+……
+……
+Appendix 4
+(MODEL)
+(maximum format: A4 (210 × 297 mm))
+EC TYPE-APPROVAL CERTIFICATESTAMP OF ADMINISTRATIONCommunication concerning the
+— type-approval
+— extension of type-approval
+— refusal of type-approval
+— withdrawal of type-approval
+of a type of frontal protection system as a separate technical unit with regard to Directive 2005/66/EC.Type-approval number:Reason for extension:SECTION I
+0.1. Make (trade name of manufacturer):
+0.2. Type and general commercial description(s):
+0.3. Means of identification of type if marked on the frontal protection system: 0.3.1. Location of that marking: 0.5. Name and address of manufacturer: 0.7. Location and method of the affixing of the EC type-approval mark: 0.8. Assembly plant address(es):
+SECTION II 1. Additional information: See Addendum
+ 2. Technical service responsible for carrying out the tests: 3. Date of test report: 4. Number of test report: 5. Remarks (if any): See Addendum
+ 6. Place: 7. Date: 8. Signature: 9. The index to the information package lodged with the approval authority, which may be obtained on request, is attached. Addendumto EC type-approval certificate No […]
+concerning the type approval of a frontal protection system with regard to Directive 2005/66/EC
+ 1. Additional information: 1.1. Method of attachment: 1.2. Assembly and mounting instructions: 1.3. List of vehicles on which the frontal protection system may be fitted, any usage restrictions and necessary conditions for fitting: 2. Remarks: 3. Annex I, paragraph 3, test results
+Test
+Values recorded
+Pass/fail
+Lower Legform to Frontal Protection System
+— three test positions
+(where performed)
+Bending angle
+……
+…… Degrees
+……
+Shear displacement
+……
+…… mm
+……
+Acceleration at tibia
+……
+…… g
+……
+Upper Legform to Frontal Protection System
+— three test positions
+(where performed)
+Sum of impact forces
+……
+…… kN
+……
+Bending moment
+……
+…… Nm
+……
+Upper Legform to Frontal Protection System Leading Edge
+— three test positions
+(monitoring only)
+Sum of impact forces
+……
+…… kN
+……
+Bending moment
+……
+…… Nm
+……
+Child/Small Adult Headform (3,5 kg) to Frontal Protection System
+HPC values
+(at least three values)
+……
+……
+……
+Appendix 5Example of the EC type-approval mark
+{{IMAGE:Image_1, Caption:"Diagram of the EC type-approval mark showing the layout and proportional dimensions for the "e1" identifier and approval number "01*1471"."}}
+(a ≥ 12mm)The device bearing the EC type-approval mark shown above is for a frontal protection system type-approved in Germany (e1) pursuant to this Directive (01) under the base approval number 1471.The asterisk indicates that the frontal protection system was approved under the consideration, for the legform impactor test, allowed by paragraph 3.1.1.1 or 3.1.2.1 of Annex I. If this consideration is not granted by the approval authority the asterisk is replaced by a space. ANNEX IIIAMENDMENTS TO DIRECTIVE 70/156/EECThe Annexes to Directive 70/156/EEC shall be amended as follows: 1. In Annex I the following points shall be inserted: '9.[24]. Frontal protection systems
+9.[24].1. A detailed description, including photographs and/or drawings, of the vehicle with respect to the structure, the dimensions, the relevant reference lines and the constituent materials of the frontal protection system and the frontal part of the vehicle shall be provided. 9.[24].2. A detailed description, including photographs and/or drawings, of the method of fitting the frontal protection system to the vehicle shall be provided. This description shall include all bolt dimensions and required torques.' 2. In Annex III, Part I, Section A, the following points shall be inserted: '9.[24]. 9.[24].1. A detailed description, including photographs and/or drawings, of the vehicle with respect to the structure, the dimensions, the relevant reference lines and the constituent materials of the frontal protection system and the frontal part of the vehicle shall be provided. 9.[24].2. A detailed description, including photographs and/or drawings, of the method of fitting the frontal protection system to the vehicle shall be provided. This description shall include all bolt dimensions and required torques.' 3. In Annex IV, Part I, the following item shall be added: Subject
+Directive number
+Official Journal reference
+Applicability
+M1
+M2
+M3
+N1
+N2
+N3
+O1
+O2
+O3
+O4
+'[60]. Frontal protection system
+2005/66/EC
+L 309, 25.11.2005, p. 37. X (1) —
+—
+X
+—
+—
+(1) Not exceeding 3,5 tonnes total permissible mass.' 4. Annex XI shall be amended as follows: (a) In Appendix 1, the following item shall be added: Item
+Subject
+Directive number
+M1 ≤ 2 500 (1) kg
+M1 > 2 500 (1) kg
+M2
+M3
+'[60]
+Frontal protection system
+2005/66/EC
+X
+X (1) —
+—
+(1) Not exceeding 3,5 tonnes total permissible mass. (b) In Appendix 2, the following item shall be added:
+1.2. 'normal ride attitude' means the vehicle attitude in running order, positioned on the ground, with the tyres inflated to the recommended pressures and the front wheels in the straight-ahead position, with maximum capacity of all fluids necessary for operation of the vehicle, with all standard equipment as provided by the vehicle manufacturer, with a 75 kg mass placed on the driver's seat and a 75 kg mass placed on the front passenger's seat and with the suspension set for a driving speed of 40 km/h or 35 km/h in normal running conditions specified by the manufacturer (especially for vehicles with an active suspension or a device for automatic levelling);
+(b) In Appendix 2, the following item shall be added: Item
+Subject
+Directive number
+M1
+M2
+M3
+N1
+N2
+N3
+O1
+O2
+O3
+O4
+[60]
+Frontal protection system
+2005/66/EC
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—'
+(c) In Appendix 3, the following item shall be added: Item
+Subject
+Directive number
+M2
+M3
+N1
+N2
+N3
+O1
+O2
+O3
+O4
+'[60]
+Frontal protection system
+2005/66/EC
+—
+—
+—
+—
+—
+—
+—
+—
+—' (
+1
+) OJ C 112, 30.4.2004, p. 18.(
+2
+) Opinion of the European Parliament of 26 May 2005 (not yet published in the Official Journal) and Council Decision of 11 October 2005.(
+3
+) OJ L 42, 23.2.1970, p. 1. Directive as last amended by Commission Directive 2005/49/EC (OJ L 194, 26.7.2005, p. 12).(
+4
+) OJ L 321, 6.12.2003, p. 15.(
+5
+) OJ L 184, 17.7.1999, p. 23.
+1.3. 'external surface' means the outside of the vehicle, forward of the A-pillars, including the bonnet, the wings, the lighting and light-signalling devices and the visible strengthening components;
+1.4. 'radius of curvature' means the radius of the arc of a circle which comes closest to the rounded form of the component under consideration;
+1.5. 'extreme outer edge' of the vehicle means, in relation to the sides of the vehicle, the plane parallel to the median longitudinal plane of the vehicle coinciding with its outer lateral edge, and, in relation to the front and rear ends, the perpendicular transverse plane of the vehicle coinciding with its outer front and rear edges, account not being taken of the projection: (a) of tyres near their point of contact with the ground, and connections for tyre pressure gauges; (b) of any anti-skid devices which may be mounted on the wheels; (c) of rear-view mirrors; (d) of side direction indicator lamps, end outline marker lamps, front and rear position (side) lamps and parking lamps; (e) in relation to the front and rear ends, of parts mounted on the bumpers, of towing devices and of exhaust pipes;
+1.6. 'bumper' means the front, lower, outer structure of the vehicle as type-approved. It includes all structures of the vehicle that are intended to give protection to the vehicle when involved in a low speed frontal collision with another vehicle and also any attachments, such as registration fixing plates, to this structure. It does not include equipment which is fitted to the vehicle following type-approval and intended to provide additional frontal protection for the vehicle;
+1.7. 'frontal protection system' means a separate structure or structures, such as a bull bar or a supplementary bumper, which is intended to protect the external surface of the vehicle, above and/or below the original-equipment bumper, from damage in the event of a collision with an object. Structures, with a maximum mass of less than 0,5 kg, intended to protect only the lights, are excluded from this definition;
+1.8. 'bonnet leading edge reference line' means the geometric trace of the points of contact between a straight edge 1 000 mm long and the front surface of the bonnet, when the straight edge, held parallel to the vertical longitudinal plane of the car and inclined rearwards by 50° and with the lower end 600 mm above the ground, is traversed across and in contact with the bonnet leading edge. For vehicles having the bonnet top surface inclined at essentially 50°, so that the straight edge makes a continuous contact or multiple contacts rather than a point contact, the reference line is determined with the straight edge inclined rearwards at an angle of 40°. For vehicles of such shape that the bottom end of the straight edge makes first contact, then that contact is taken to be the bonnet leading edge reference line, at that lateral position. For vehicles of such shape that the top end of the straight edge makes first contact, then the geometric trace of 1 000 mm wrap around distance as defined in paragraph
+1.9. 'upper frontal protection system reference line' means the upper limit to significant points of pedestrian contact with the frontal protection system or the vehicle. It is the geometric trace of the uppermost points of contact between a straight edge 700 mm long and the frontal protection system or the vehicle front (whichever is touched), when the straight edge, held parallel to the vertical longitudinal plane of the vehicle and inclined rearwards by 20°, is traversed across the front of the vehicle, while maintaining contact with the ground and with the surface of the frontal protection system or vehicle;
+1.10. 'lower frontal protection system reference line' means the lower limit to significant points of pedestrian contact with the frontal protection system or the vehicle. It is the geometric trace of the lowermost points of contact between a straight edge 700 mm long and the frontal protection system, when the straight edge, held parallel to the vertical longitudinal plane of the vehicle and inclined forwards by 25°, is traversed across the front of the vehicle, while maintaining contact with the ground and with the surface of the frontal protection system or the vehicle;
+1.11. 'upper frontal protection system height' means the vertical distance between the ground and the upper frontal protection system reference line, defined in paragraph
+1.12. 'lower frontal protection system height' means the vertical distance between the ground and the lower frontal protection system reference line, defined in paragraph
+1.13. '1 000 mm wrap around distance' means the geometric trace described on the frontal upper surface by one end of a 1 000 mm long flexible tape, when it is held in a vertical fore and aft plane of the car and traversed across the front of the bonnet bumper and frontal protection system. The tape is held taut throughout the operation with one end held in contact with the ground, vertically below the front face of the bumper and the other end held in contact with the frontal upper surface. The vehicle is positioned in the normal ride attitude;
+1.14. 'frontal protection system leading edge reference line' means the geometric trace of the points of contact between a straight edge 1 000 mm long and the front surface of the frontal protection system, when the straight edge, held parallel to the vertical longitudinal plane of the car and inclined rearwards by 50°, is traversed across and in contact with the frontal protection system leading edge. For vehicles having the frontal protection system top surface inclined at essentially 50°, so that the straight edge makes a continuous contact or multiple contacts rather than a point contact, the reference line is determined with the straight edge inclined rearwards at an angle of 40°;
+1.15. 'Head performance criterion (HPC)' shall be calculated using the expression: 
+[[IMAGE_0]].
+ Text of image 
+[[IMAGE_1]].
+ where 'a' is the resultant acceleration at the centre of gravity of the head (m/s2 as a multiple of 'g', recorded versus time and filtered at a channel frequency class 1 000 Hz; t1 and t2 are two times defining the beginning and the end of the relevant recording period for which the value of HPC is a maximum between the first and last instants of contact. Values of HPC for which the time interval (t1 - t2) is greater than 15 ms are ignored for the purposes of calculating the maximum value.

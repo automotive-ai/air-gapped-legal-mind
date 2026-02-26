@@ -1,0 +1,284 @@
+COUNCIL DIRECTIVE
+of 16 December 1980
+relating to the carbon dioxide emissions and the fuel consumption of motor vehicles
+Consolidated TEXT: 31980L1268 — EN — 02.01.2013
+Top
+1980L1268 — EN — 02.01.2013 — 005.001
+This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents
+►B
+COUNCIL DIRECTIVE
+of 16 December 1980
+relating to the carbon dioxide emissions and the fuel consumption of motor vehicles
+(80/1268/EEC)
+(OJ L 375, 31.12.1980, p.36)
+repealed by:
+
+Official Journal
+No
+page
+date
+Regulation (EC) No 715/2007 of the European Parliament and of the Council of 20 June 2007
+L 171
+1
+29.6.2007
+Consolidated text: Council Directive of 16 December 1980 relating to the carbon dioxide emissions and the fuel consumption of motor vehicles (80/1268/EEC)
+Consolidated TEXT: 31980L1268 — EN — 19.02.2004
+1980L1268 — EN — 19.02.2004 — 004.001
+This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents
+►B
+▼M2
+COUNCIL DIRECTIVE
+of 16 December 1980
+relating to the carbon dioxide emissions and the fuel consumption of motor vehicles
+(80/1268/EEC)
+▼B
+(OJ L 375, 31.12.1980, p.36)
+Amended by:
+
+Official Journal
+ No
+page
+date
+ M1
+Commission Directive 89/491/EEC of 17 July 1989
+ L 238
+43
+15.8.1989
+►M2
+Commission Directive 93/116/EC of 17 December 1993
+ L 329
+39
+30.12.1993
+►M3
+Commission Directive 1999/100/EC Text with EEA relevance of 15 December 1999
+ L 334
+36
+28.12.1999
+►M4
+Directive 2004/3/EC of the European Parliament and of the Council Text with EEA relevance of 11 February 2004
+ L 49
+36
+19.2.2004
+Corrected by: ►C1
+Corrigendum, OJ L 042, 15.2.1994, p. 27 (93/116)
+►C2
+Corrigendum, OJ L 163, 4.7.2000, p. 38 (99/100)
+▼B
+▼M2
+COUNCIL DIRECTIVE
+of 16 December 1980
+relating to the carbon dioxide emissions and the fuel consumption of motor vehicles
+(80/1268/EEC)
+▼B
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,
+Having regard to the proposal from the Commission (
+1
+),
+Having regard to the opinion of the European Parliament (
+2
+),
+Having regard to the opinion of the Economic and Social Committee (
+3
+),
+Whereas the technical requirements which motor vehicles must satisfy pursuant to certain national laws relate inter alia to the method of measuring fuel consumption which must be used to indicate the fuel consumption of a vehicle type; Whereas those requirements differ from one Member State to another; whereas this results in technical barriers to trade which must be eliminated by all Member States adopting the same requirements either in addition to or in place of their existing rules, in order in particular to allow the EEC type-approval procedure which was the subject of Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (
+4
+), as last amended by Directive 80/1267/EEC (
+5
+), to be introduced in respect of each type of vehicle; Whereas it is of paramount importance to establish a method of measuring fuel consumption by motor vehicles for inclusion in Community requirements; Whereas a Community method of measuring fuel consumption is also necessary to ensure, in particular, that customers and users are supplied with objective and precise information; Whereas the requirements of this Directive apply only to motor vehicles in international motor vehicle classification category M1 as set out in Directive 70/156/EEC; whereas a method of measuring the fuel consumption of the other categories of motor vehicles will be established as soon as certain technical difficulties can be resolved,
+HAS ADOPTED THIS DIRECTIVE: Article 1
+For the purpose of this Directive, 'vehicle' means any motor vehicle intended for use on the road, with or without bodywork, having at least four wheels and a maximum design speed exceeeding 25 km/h, with the exception of vehicles which run on rails and of agricultural tractors and machinery. ▼M2
+Article 2
+No Member State may refuse to grant EC type-approval or national type-approval in respect of a vehicle, or refuse or prohibit the sale, registration, entry into service or use of a vehicle, on grounds relating to its carbon dioxide emissions or its fuel consumption if the emission and consumption figures have been determined in accordance with Annexes I and II and are set out in a document given to the vehicle owner at the time of purchase in the manner and form decided by each Member State. ▼B
+Article 3
+Any amendments necessary for adapting the requirements of the Annexes to take account of technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 70/156/EEC. Article 4
+1. Member States shall bring into force the provisions necessary in order to comply with this Directive within 18 months of its notification. They shall forthwith inform the Commission thereof. 2. Member States shall ensure that the texts of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission. Article 5
+This Directive is addressed to the Member States. ▼M2
+ANNEX I
+DETERMINATION OF CO2 EMISSIONS AND FUEL CONSUMPTION
+▼M4
+1. SCOPE
+This Directive applies to the measurement of carbon dioxide (CO2)emissions and fuel consumption of motor vehicles of categories M1 and N1. It does not apply to a type of N1 vehicle if both: — the engine type fitted to that type of vehicle has received type-approval pursuant to Directive 88/77/EEC, and
+— the total annual worldwide production of N1 vehicles of the manufacturer is less than 2 000 units. ▼M2
+2. APPLICATION FOR EC TYPE-APPROVAL
+2.1. The application for EC type-approval pursuant to Article 3 (4) of Directive 70/156/EEC for a vehicle type with regard to CO2 emissions and fuel consumption shall be submitted by the manufacturer. 2.2.
+A model for the information document is given in Annex II to Directive 70/220/EEC. When already available, the type-approval number will also be reported. When appropriate, copies of other type-approvals with the relevant data are provided to enable extension of approvals in accordance with point 11. At the request of the technical service in charge of the tests or the manufacturer, complementary technical information could be considered for specific vehicles which are particularly fuel efficient. ▼M4
+2.3.For the test described in point 6, a vehicle representative of the vehicle type to be approved will be submitted when the technical service responsible for the type-approval tests carries out the tests itself. For M1 and N1 vehicles, type-approved with respect to their emissions according to Directive 70/220/EEC, the technical service will check during the test that this vehicle conforms to the limit values applicable to that type, as described in Directive 70/220/EEC. ▼M2
+3. GRANTING OF EC TYPE-APPROVAL
+3.1. If the relevant requirements are satisfied, EC type-approval pursuant to Article 4 (3) of Directive 70/156/EEC shall be granted. 3.2. A model for the EC type-approval certificate is given in Annex II. 3.3. An approval number in accordance with Annex VII to Directive 70/156/EEC shall be assigned to each vehicle type approved. The same Member State shall not assign the same number to another vehicle type. 4. GENERAL REQUIREMENTS
+▼M3
+4.1.The CO2 emissions are measured during the test cycle simulating the urban and extra-urban driving patterns as described in Appendix 1 of Annex III to Directive 70/220/EEC, as last amended. ▼M2
+4.2.The results of the test must be expressed as carbon dioxide emissions in g/km rounded to the nearest whole number. 4.3. Fuel consumptions are calculated according to point 7 by the carbon balance method using the measured emissions of CO2 and the other carbon related emissions (CO and HC). The results will be rounded to the first decimal place. ▼M3
+4.4. Test fuel
+4.4.1. Petrol and diesel vehicles
+The appropriate reference fuels as defined in Annex IX to Directive 70/220/EEC, as last amended, must be used for testing. 4.4.2. LPG and NG-fuelled vehicles
+For LPG and NG, that fuel must be used which is chosen by the manufacturer for the measurement of the net power in accordance with Annex I to Directive 80/1269/EEC. The chosen fuel shall be specified in the communication document as defined in Annex II. 4.4.3. For the purpose of calculation mentioned in 4.3, the following fuel characteristics will be used:
+Council Directive 80/1268/EEC of 16 December 1980 on the approximation of the laws of the Member States relating to the fuel consumption of motor vehicles
+COUNCIL DIRECTIVE of 16 December 1980 on the approximation of the laws of the Member States relating to the fuel consumption of motor vehicles (80/1268/EEC) THE COUNCIL OF THE EUROPEAN COMMUNITIES, Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof, Having regard to the proposal from the Commission (1), Having regard to the opinion of the European Parliament (2), Having regard to the opinion of the Economic and Social Committee (3), Whereas the technical requirements which motor vehicles must satisfy pursuant to certain national laws relate inter alia to the method of measuring fuel consumption which must be used to indicate the fuel consumption of a vehicle type; Whereas those requirements differ from one Member State to another ; whereas this results in technical barriers to trade which must be eliminated by all Member States adopting the same requirements either in addition to or in place of their existing rules, in order in particular to allow the EEC type-approval procedure which was the subject of Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (4), as last amended by Directive 80/1267/EEC (5), to be introduced in respect of each type of vehicle; Whereas it is of paramount importance to establish a method of measuring fuel consumption by motor vehicles for inclusion in Community requirements; Whereas a Community method of measuring fuel consumption is also necessary to ensure, in particular, that customers and users are supplied with objective and precise information; Whereas the requirements of this Directive apply only to motor vehicles in international motor vehicle classification category M1 as set out in Directive 70/156/EEC ; whereas a method of measuring the fuel consumption of the other categories of motor vehicles will be established as soon as certain technical difficulties can be resolved, HAS ADOPTED THIS DIRECTIVE: Article 1 For the purpose of this Directive, "vehicle" means any motor vehicle intended for use on the road, with or without bodywork, having at least four wheels and a maximum design speed exceeeding 25 km/h, with the exception of vehicles which run on rails and of agricultural tractors and machinery.
+
+Article 2 No Member State may refuse to grant EEC type-approval or national type-approval in respect of a vehicle, or refuse or prohibit the sale, registration, entry into service or use of a vehicle, on grounds relating to its fuel consumption if the consumption figures have been determined in accordance with Annexes I and II and are set out in a document given to the vehicle owner at the time of purchase in a manner and form decided on by each Member State. Article 3 Any amendments necessary for adapting the requirements of the Annexes to take account of technical progress shall be adopted in accordance with the procedure laid down in Article 13 of Directive 70/156/EEC. (1)OJ No C 104, 28.4.1980, p. 1. (2)OJ No C 265, 13.10.1980, p. 76. (3)OJ No C 182, 21.7.1980, p. 3. (4)OJ No L 42, 23.2.1970, p. 1. (5)See page 34 of this Official Journal. Article 4 1. Member States shall bring into force the provisions necessary in order to comply with this Directive within 18 months of its notification. They shall forthwith inform the Commission thereof. 2. Member States shall ensure that the texts of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission. Article 5 This Directive is addressed to the Member States. Done at Brussels, 16 December 1980. For the Council The President Colette FLESCH ANNEX I DETERMINATION OF FUEL CONSUMPTION 1. EEC TYPE-APPROVAL 1.1. Application for EEC type-approval 1.1.1. The application for EEC type-approval for a vehicle type in respect of the fuel consumption of the engine is submitted by the vehicle manufacturer or his authorized representative 1.1.2. It must be accompanied by three copies of the document mentioned below and of the following: 1.1.2.1. Information sheet duly completed; 1.1.2.2. Information necessary to prepare the document provided for in Annex II. 1.1.3. If the technical service responsible for the type-approval tests carries out the tests itself, a vehicle representative of the vehicle type to be approved must be provided. 1.2. Documents Where an application within the meaning of 1.1 is accepted, the competent authority must prepare the document, the model for which is contained in Annex II. In order to draw up this document, the competent authority of the Member State conducting the EEC type-approval tests may use the report prepared by an approved or recognized laboratory in accordance with the provisions of this Directive. 2. SCOPE This method applies to category M1 vehicles equipped with internal combustion engines. 3. GENERAL SPECIFICATIONS 3.1. Fuel consumption is determined by the following tests: 3.1.1. Cycle simulating urban driving, as described in Annex III to Council Directive 70/220/EEC of 20 March 1970 on the approximation of the laws of the Member States relating to measures to be taken against air pollution by gases from positive-ignition engines of motor vehicles (1), as last amended by Directive 78/665/EEC (2) (see section 5); 3.1.2. Constant speed test at 90 km/h (see section 6); 3.1.3. Constant speed test at 120 km/h (see section 6). This test is not performed if the vehicle's maximum design speed is less than 130 km/h. 3.2. The results of the tests must be expressed in 1/100 km rounded off to the nearest 0 71. 3.3. Distances must be measured to within an accuracy of 0 75 % and times to within an accuracy of 0 72 s. (1)OJ No L 76, 6.4.1970, p. 1. (2)OJ No L 223, 14.8.1978, p. 48. 3.4. Test fuel The fuel used must be either the reference fuel specified in Annex VI to Directive 70/220/EEC or that specified in Annex V to Council Directive 72/306/EEC, of 2 August 1972 on the approximation of the laws of the Member States relating to the measures to be taken against the emission of pollutants from diesel for use in vehicles (1), as appropriate. 4. TEST CONDITIONS 4.1. General condition of the vehicle 4.1.1. The vehicle must be clean and the windows and air intakes closed, with only the equipment necessary for the functioning of the vehicle during the test being in operation. If there is a manually controlled device on the carburettor inlet for air heating, it must be in the "summer" position. In general, the auxiliary equipment required for the normal running of the vehicle must be in operation. 4.1.2. If the radiator fan is temperature controlled, it must be operating as it would normally on the vehicle. The passenger compartment heating system must not be operating, nor must the air conditioning system, although its compressor must be operating normally. 4.1.3. If a pressure charging device is fitted, it must be operating as it would normally for the test speed. 4.1.4. The vehicle must have been run in and have covered at least 3 000 km before the test. 4.2. Lubricants All lubricants must be those recommended by the manufacturer of the vehicle and must be indicated in the test report. 4.3. Tyres The tyres must be of one of the types specified as original equipment by the vehicle manufacturer, inflated to the pressure recommended for the test load and speeds (adjusted, where necessary, for test-bed operation under test conditions). The pressures used must be indicated in the test report. 4.4. Measurement of fuel consumption 4.4.1. The fuel must be supplied to the engine through a device capable of measuring the quantity consumed to within ± 2 % ; this device must not interfere with normal supply.
+For the purpose of calculation mentioned in 4.3, the following fuel characteristics will be used: (a) density: measured on the test fuel according to ISO 3675 or an equivalent method; for petrol and diesel the measured density at 15 °C will be used; for LPG and NG, a reference density will be used, as follows: 0,538 kg/l for LPG
+0,654 kg/m3 for NG (
+6
+)
+(b) hydrogen-carbon ratio: fixed values will be used, which are:
+1,85 for petrol
+1,86 for diesel
+2,525 for LPG
+4,00 for NG
+2,93 for NG (NMHC). ▼M2
+5. TEST CONDITIONS
+5.1. Test vehicle
+5.1.1. The vehicle must be presented in good mechanical condition. It must have been run in and driven at least 3 000 kilometres, but less than 15 000 kilometres, before the test. 5.1.2. The settings of the engine and of the vehicle controls must be those prescribed by the manufacturer. This requirement also applies, in particular to the idle settings, to the cold start device and to the exhaust gas pollutant emission control system. 5.1.3. The laboratory may check that vehicle performance is as specified by the manufacturer and that it is possible to use it in normal driving conditions, particularly cold and hot start. 5.1.4. Before the test, the vehicle must be stored in a room where the temperature remains between 293 and 303 K (20 and 30 °C). This conditioning period will last at least six hours and to a point where the temperature of the engine lube oil and the engine coolant are within ± 2 K of the room temperature. At the request of the manufacturer, the test may be conducted within a maximum of 30 hours after the vehicle has been used at normal temperature. ▼M3
+At the manufacturer's request, positive ignition engined vehicles may be preconditioned according to the procedure prescribed in item 5.2.1 of Annex VI to Directive 70/220/EEC, as last amended. Compression ignition engined vehicles may be preconditioned according to the procedure described in item 5.3 of Annex III to the same Directive. ▼M2
+5.1.5. Only the equipment necessary for the functioning of the vehicle during the test shall be in operation. If there is a manually controlled device on the carburettor inlet for air heating, it must be in the 'summer' position. In general, the auxiliary equipment required for the normal running of the vehicle must be in operation. 5.1.6. If the radiator fan is temperature controlled, it must be operating as it would normally on the vehicle. The passenger compartment heating system must not be operating, nor must the air conditioning system, although its compressor must be operating normally. 5.1.7. If a pressure charging device is fitted, it must be operating as it would normally. 5.2. Lubricants
+All lubricants must be those recommended by the manufacturer of the vehicle and must be indicated on the test report. 5.3. Tyres
+The tyres must be of one of the types specified as original equipment by the vehicle manufacturer, inflated to the pressure recommended for the test load and speeds (adjusted, where necessary, for test-bed operation under test conditions). The pressures used must be indicated in the test report. 6. MEASUREMENT OF CO2 AND CARBON-RELATED EMISSIONS
+▼M3
+6.1. Test cycle
+The test cycle is described in Appendix 1 of Annex III to Directive 70/220/EEC, as last amended, including both Part I (urban driving) and Part II (extra-urban driving). All driving prescriptions contained in this Appendix will be applied for the CO2 measurement. ▼M4
+Vehicles which do not attain the acceleration and maximum speed values required in the test cycle must be operated with the accelerator control fully depressed until they once again reach the required operating curve. Deviations from the test cycle must be recorded in the test report. ▼M2
+6.2. Definition
+6.2.1. Reference mass
+Mass of the vehicle in running order less the uniform mass of the driver of 75 kg and increased by a uniform mass of 100 kg. 6.3. Dynamometer adjustments
+▼M3
+6.3.1.The load and inertia adjustments of the dynamometer are determined as defined in Annex III to Directive 70/220/EEC, as last amended. ▼M3 —————
+▼M2
+6.4. Calculation of emissions
+6.4.1. General provisions
+6.4.1.1. Emissions of gaseous pollutants are calculated by means of the following equation:Mi = Vmix · Qi · Ci · 10− 6d (1)
+where:
+Mi = mass emission of the pollutant i in grams per kilometre; Vmix = volume of the diluted exhaust gas expressed in litres per test and corrected to standard conditions (273,2 K and 101,33 kPa);
+Qi = density of the pollutant i in grams per litre at normal temperature and pressure (273,2 K and 101,33 kPa);
+Ci = concentration of the pollutant i in the diluted exhaust gas expressed in ppm and corrected by the amount of the pollutant i contained in the dilution air. If Ci is expressed in % volume, 10− 6 factor is replaced by 10− 2;
+d = driven distance during the operating cycle in km. 6.4.1.2. Volume determination
+6.4.1.2.1. Calculation of the volume when a variable dilution device with constant flow control by orifice or venturi is used. Record continuously the parameters showing the volumetric flow, and calculate the total volume for the duration of the test. 6.4.1.2.2. Calculation of volume when a positive displacement pump is used. The volume of diluted exhaust gas in systems comprising a positive displacement pump is calculated with the following formula: where:
+V = volume of the diluted exhaust gas expressed in litres per test (prior to correction);
+Vo = volume of gas delivered by the positive displacement pump on testing conditions in litres per revolution; N = number of revolutions per test. 6.4.1.2.3. Correction of the diluted exhaust-gas volume to standard conditions. The diluted exhaust-gas volume is corrected by means of the following formula:Vmix = V · K1 · PpTp (2)
+in which:K1 = 273,2101,33 = 2,6961 K · kPa− 1 (3)
+where: Pp = absolute pressure at the inlet to the positive displacement pump in kPa; Tp = average temperature of the diluted exhaust gas entering the positive displacement pump during the test (K). 6.4.1.3. Calculation of the corrected concentration of pollutants in the sampling bagCi = Ce − Cd1 − 1DF (4)
+where:
+Ci = concentration of the pollutant i in the diluted exhaust gas, expressed in ppm or % volume and corrected by the amount of i contained in the dilution air; Ce = measured concentration of pollutant i in the diluted exhaust gas, expressed in ppm, or % volume; Cd = measured concentration of pollutant i in the air used for dilution, expressed in ppm, or % volume; DF = dilution factor. ▼M3
+The dilution factor is calculated as follows: For petrol and diesel : 
+For LPG : 
+For NG : 
+where: ▼M2
+CCO
+2 = concentration of CO2 in the diluted exhaust gas contained in the sampling bag, expressed in % volume; CHC = concentration of HC in the diluted exhaust gas contained in the sampling bag, expressed in ppm carbon equivalent; CCO = concentration of CO in the diluted exhaust gas contained in the sampling bag, expressed in ppm. 6.4.1.4. Example6.4.1.4.1. Data
+6.4.1.4.1.1. Ambient conditions: ambient temperature: 23 °C = 296,2 ° K,
+barometric pressure: PB = 101,33 kPa. 6.4.1.4.1.2. Volume measured and reduced to standard conditions
+6.4.1.4.1.3. Analyser readings: Diluted exhaust
+Dilution air
+HC (1)
+92 ppm
+3,0 ppm
+CO
+470 ppm
+0 ppm
+CO2
+1,6 % volume
+0,03 % volume
+(1) In ppm carbon equivalent. 6.4.1.4.2. Calculation
+6.4.1.4.2.1. Dilution factor (DF) (see formula 5)
+6.4.1.4.2.2. Calculation of the corrected concentration of pollutants in the sampling bag:
+The fuel must be supplied to the engine through a device capable of measuring the quantity consumed to within ± 2 % ; this device must not interfere with normal supply. If the system of measurement is volumetric, the temperature of the fuel must be measured at the volume measuring point. 4.4.2. There must be a valve system to permit rapid change-over from the general fuel supply system to the measuring system. This change-over must not take longer than 0 72 s. 4.5. Reference conditions Pressure : Ho = 1 000 mbar Temperature : To = 293 K (20 ºC) 4.5.1. Air density 4.5.1.1. The air density when the vehicle is tested, calculated as described in 4.5.1.2 below, must not differ by more than 7 75 % from the air density under the reference conditions. (1)OJ No L 190, 20.8.1972, p. 1. 4.5.1.2. The air density is calculated using the formula: >PIC FILE= "T0013780"> dT = air density under test conditions; do = air density under reference conditions; HT = pressure during the test; TT = absolute temperature during the test (K). 5. MEASUREMENT OF FUEL CONSUMPTION OVER A CYCLE SIMULATING URBAN DRIVING 5.1. The test cycle is as described in Annex III to Directive 70/220/EEC 5.1.1. In the case of diesel-powered vehicles the load adjustment is determined for the corresponding petrol-driven model or by an alternative method recognized as equivalent 5.1.2. Reference mass of the vehicle The mass of the vehicle is the reference mass, as defined in section 1.2 of Annex I to Directive 70/220/EEC 5.2. The dynamometer is set to the equivalent inertia, as stipulated in section 4.2 of Annex III to Directive 70/220/EEC. 5.3. Measurement of consumption 5.3.1. Consumption is calculated on the basis of the quantity of fuel consumed during two consecutive cycles. 5.3.2. Before the measurements are made, the engine must be warmed up from cold by the completion of five full test cycles. The measurements may also be carried out immediately following the type I and type II tests described in Directive 70/220/EEC. The temperature is kept within the normal operating range for that engine, if necessary by using the auxiliary cooling device. 5.3.3. The idling period between two consecutive cycles may be extended by not more than 60 s to facilitate fuel consumption measurement. 5.4. Calculation of fuel consumption 5.4.1. If the fuel consumption is measured gravimetrically, the consumption is expressed (in litres/100 km) by converting the measurement M (fuel consumed expressed in kilograms) using the following formula: >PIC FILE= "T0013781"> Sg = density of the fuel under the reference conditions (kg/dm3); D = distance covered during the test (km). 5.4.2. If the fuel consumption is measured volumetrically, the consumption is expressed (in litres/100 km) by the following formula: >PIC FILE= "T0013782"> To = reference temperature expressed in ºC; TF = fuel temperature in ºC measured at the volume measuring point. 5.5. Expression of results 5.5.1. The standard consumption in urban driving is the arithmetic mean of three consecutive measurements carried out in accordance with the procedure described above. 5.5.2. If the extreme measurements differ by more than 5 % from the mean, further tests must be carried out in accordance with this procedure until a degree of accuracy of at least 5 % is obtained. 5.5.3. The accuracy of measurement is calculated using the formula: >PIC FILE= "T0013783"> k is given by the following table: >PIC FILE= "T0013785"> 5.5.4. If at least 5 % accuracy has not been attained after 10 measurements, the consumption is determined by using another vehicle of the same type. 6. MEASUREMENT OF FUEL CONSUMPTION AT CONSTANT SPEED 6.1. These tests may be carried out either on a dynamometer or on the road. 6.1.1. Mass of the vehicle 6.1.1.1. The mass of the vehicle is the mass in running order, as defined in 6.1.1.2, plus 180 kg, or plus half the full load if that figure exceeds 180 kg, including measuring equipment and occupants. The suspension height of the vehicle is that obtained when the centre of gravity of the load is in the middle of the straight line joining the R points of the front (side) seats. 6.1.1.2. For the purposes of this Directive, "mass of the vehicle in running order" means its total unladen mass with all tanks except the fuel tank full, the fuel tank being filled to 90 % of the capacity specified by the manufacturer, and with a set of tools and the spare wheel on board. 6.2. Gearbox If the vehicle is fitted with a manual gear change, the gear ratio used is the highest recommended by the manufacturer for driving at each of the test speeds. 6.3. Test procedure 6.3.1. Road test 6.3.1.1. Weather conditions 6.3.1.1.1. The relative humidity must be less than 95 % ; the road must be dry ; the road surface may, however, bear traces of moisture, provided that there is no appreciable film of water at any one place. 6.3.1.1.2. The average wind speed must be less than 3 m/s and gusts less than 8 m/s. 6.3.1.2. Before the measurements are taken, the vehicle must travel on the chosen circuit, at a speed close to the test speed, a sufficient distance for the running temperature to be reached ; in no case, however, must this distance be less than 10 km. 6.3.1.3. Test run The test run must be such as to allow a steady speed to be maintained and must be at least 2 km in length. It must form a closed circuit and the surface must be in good condition. A straight road may be used provided that a run of 2 km is made in both directions. The gradient must not exceed 2 % between any two points. 6.3.1.4. During each test run, the speed must be kept steady to within ± 2 km/h. The average speed for each test must not differ from the reference speed by more than 2 km/h. 6.3.1.5. To determine the consumption at each reference speed (see graph below), four tests are performed ; two at an average speed less than the reference speed and two at an average speed exceeding the reference speed. 6.3.1.6. The fuel consumption for each test run is calculated from the formulae in 5.4. 6.3.1.7. The difference between the two lower calculated values must not exceed 5 % of their average value, this same condition applying also to the two higher calculated values. The value of the fuel consumption at the appropriate reference speed is calculated by linear interpolation as shown on the graph below. 6.3.1.7.1. If the conditions in 6.3.1.7 are not achieved for either pair of calculated values, the four test runs must be repeated. If after ten attempts the required consistency has not been achieved, another vehicle must be selected and subjected to all the tests specified in this procedure. Example : Calculation for an average speed of 90 km/h. >PIC FILE= "T0013786"> The four crosses correspond to the calculated values for each test run. Co is the value calculated for the consumption at the reference speed Vo over the test distance. 6.3.2. Dynamometer test 6.3.2.1. Dynamometer setting The dynamometer must be set as described in section 4.1 of Annex III to Directive 70/220/EEC with the following amendments: - the dynamometer must be set for the appropriate test speed; - the condition of the vehicle during the test runs must be as specified in sections 4.1 to 4.3, and the weather conditions during the road test must be as specified in 6.3.1.1 to enable the correct inlet manifold depression setting to be determined. In the case of diesel-powered vehicles, the dynamometer must be set as specified in 5.1.1. 6.3.2.2. Cooling Additional air-cooling devices may be used to keep the operating conditions and the temperature of the lubricants and coolant within the range normally obtained at the same speed on the road. 6.3.2.3. Before any measurements are taken, the vehicle must cover, at a speed close to the test speed, a sufficient distance on the dynamometer for the running temperatures to be reached ; this distance must in no case be less than 10 km. 6.3.2.4.
+6.3.2.3. Before any measurements are taken, the vehicle must cover, at a speed close to the test speed, a sufficient distance on the dynamometer for the running temperatures to be reached ; this distance must in no case be less than 10 km. 6.3.2.4. The test distance must not be less than 2 km, as measured by a revolution counter on the dynamometer. 6.4. The type of dynamometer used must be indicated in the test report. 6.5. Expression of results Whatever the method of measurement used, the results must be expressed in litres/100 km under the reference conditions specified in 4.5. ANNEX II >PIC FILE= "T0013787""PIC FILE= "T0013788">
+Calculation of the corrected concentration of pollutants in the sampling bag: HC mass emissions (see formulae 4 and 1)Ci = Ce − Cd1 − 1DF (4)
+MHC = CHC · Vmix · QHC · 1d · 10− 6 (1)
+CO mass emissions (see formula 1)MCO = CCO · Vmix · QCO · 1d · 10− 6 (1)
+CO2 mass emissions (see formula 1)Ci = Ce − Cd1 − 1DF (4)
+MCO2 = CCO2 · Vmix · QCO2 · 10− 2 · 1d (1)
+6.4.2. Special provisions relating to vehicles equipped with compression ignition engines
+HC measurements for compression-ignition engines
+The average HC concentration used in determining the HC mass emissions from compression-ignition engines is calculated with the aid of the following formula:Ce = ∫t1t2 CHC · dtt2 − t1 (7)
+where: = integral of the recording of the heated FID over the test duration (t2 − t1);
+Ce = HC concentration of the diluted exhaust sample as calculated from the integrated HC trace, in ppm carbon equivalent. 6.5. Interpretation of the results
+6.5.1. The CO2 value adopted as the type-approval value shall be the value declared by the manufacturer if the value measured by the technical service does not exceed the declared value by more than 4 %. The measured value can be lower without any limitations. 6.5.2. If the measured value of CO2 exceeds the manufacturer's declared CO2 value by more than 4 %, then another test is run on the same vehicle. When the average of the two test results does not exceed the manufacturer's declared value by more than 4 %, then the value declared by the manufacturer is taken as the type-approval value. 6.5.3. If the average still exceeds the declared value by more than 4 %, a final test is run on the same vehicle. The average of the three test results is taken as the type-approval value. 7. CALCULATION OF FUEL CONSUMPTIONS
+7.1. The fuel consumptions are calculated from the emissions of hydrocarbons, carbon monoxide and carbon dioxide calculated in accordance with paragraph 6. ▼M3
+7.2.The fuel consumption, expressed in litres per 100 km (in the case of petrol, LPG or diesel) or in m3 per 100 km (in the case of NG), is calculated by means of the following formulae: (
+7
+)
+(a) for vehicles with a positive ignition engine fuelled with petrol: ►C2
+(b) for vehicles with a positive ignition engine fuelled with LPG: If the composition of the fuel used for the test differs from the composition that is assumed for the calculation of the normalised consumption, on the manufacturer's request a correction factor cf may be applied as follows:FCnorm = 0,1212/0,538 × cf × 0,825 × THC+0,429 × CO+0,273 × C02
+The correction factor 
+cf
+, which may be applied, is determined as follows: cf = 0,825+0,0693 × nactual
+where: nactual = the actual H/C ratio of the fuel used
+(c) for vehicles with a positive ignition engine fuelled with NG: (d) for vehicles with a compression ignition engine: In these formulae: FC = the fuel consumption in litre per 100 km (in the case of petrol, LPG or diesel) or in m3 per 100 km (in the case of NG)
+THC = the measured emission of total hydrocarbons in g/km
+CO = the measured emission of carbon monoxide in g/km
+CO2 = the measured emission of carbon dioxide in g/km
+D = the density of the test fuel at 15 °C. ▼M2
+8. AMENDMENTS TO APPROVALS
+8.1. In the case of amendments to approvals granted pursuant to this Directive the provisions of Article 5 of Directive 70/156/EEC shall apply. 9. CONFORMITY OF PRODUCTION FOR CO2 EMISSIONS
+9.1. As a general rule, measures to ensure the conformity of production with regard to CO2 emissions from vehicles is checked on the basis of the description in the type-approval certificate set out in Annex II to this Directive and in accordance with the provisions of Article 10 of Directive 70/156/EEC. If the authority is not satisfied with the auditing procedure of the manufacturer, then points 2.4.2 and 2.4.3 of Annex X to Directive 70/156/EEC shall apply. 9.1.1. If a vehicle type has had one or several extensions, the tests will be carried out on the vehicle(s) described in the information package which accompanied the first type-approval application. 9.1.1.1. Conformity of the vehicle for the CO2 test. 9.1.1.1.1. Three vehicles are randomly taken in the series and are tested as described in paragraph 6 of this Annex. 9.1.1.1.2. If the authority is satisfied with the production standard deviation given by the manufacturer, according to Annex X to Directive 70/156/EEC, the tests are carried out according to point 9.2 of this Annex. If the authority is not satisfied with the production standard deviation given by the manufacturer according to Annex X to Directive 70/156/EEC, the tests are carried out according to point 9.3 of this Annex. 9.1.1.1.3. The production of a series is regarded as conforming or non-conforming, on the basis of tests on the three sampled vehicles, once a pass or fail decision is reached for CO2, according to the test criteria applied in the appropriate table. If no pass decision and/or no fail decision is reached for CO2, a test is carried out on an additional vehicle (see Figure I/8). FIGURE I/8
+9.1.1.2. Notwithstanding the requirements of point 5.1.1 of this Annex, the tests will be carried out on vehicles which have not travelled any distance. 9.1.1.2.1. However, at the request of the manufacturer, the tests will be carried out on vehicles which have been run-in a maximum of 15 000 km. In this case, the running-in procedure will be conducted by the manufacturer who shall undertake not to make any adjustments to those vehicles. 9.1.1.2.2. If the manufacturer asks to conduct a running-in procedure ('x' km, where x ≤ 15 000 km), it may be carried out as follows: — the emission of CO2 will be measured at zero and at 'x' km on the first tested vehicle (which can be the type-approval vehicle),
+— the evolution coefficient of the emission between zero and 'x' km will be calculated as follows:EC = Emissions 'x' kmEmissions zero km
+— It may be less than one,
+— the following vehicles will not be subjected to the running-in procedure, but their zero km emissions will be modified by the evolution coefficient, EC. — In this case, the values to be taken will be: — 
+— the value at 'x' km for the first vehicle,
+— the values at zero km multiplied by the evolution coefficient for the following vehicles. 9.1.1.2.3. As an alternative to this procedure, the car manufacturer can use a fixed evolution coefficient EC of 0,92 and multiply all values of CO2 measured at zero km by this factor. ▼M3
+9.1.1.2.4.The reference fuels described in Annex IX and Annex IXa to Directive 70/220/EEC, as last amended, shall be used for testing. ▼M2
+9.2. Conformity of production when manufacturer's statistical data is available
+9.2.1. The following sections describe the procedure to be used to verify the CO2 conformity of production requirements when the manufacturer's production standard deviation is satisfactory. 9.2.2. With a minimum sample size of three the sampling procedure is set so that the probability of a lot passing a test with 40 % of the production defective is 0,95 (producer's risk = 5 %), while the probability of a lot being accepted with 65 % of the production defective is 0,1 (consumer's risk = 10 %). 9.2.3. The following procedure is used (see Figure I/8). Let L be the natural logarithm of the CO2 type-approval value: xi = the natural logarithm of the measurement for the i-th vehicle of the sample; s = an estimate of the production standard deviation (after taking the natural logarithm of the measurements); n = the current sample number. 9.2.4. Compute for the sample, the test statistic quantifying the sum of the standardized deviations to the limit and defined as: 9.2.5. Then:
+Then: — if the test statistic is greater than the pass decision number for the sample size given in Table I/ - /9.2.5, a pass decision is reached,
+— if the test statistic is less than the fail decision number for the sample size given in Table I/ - /9.2.5, a fail decision is reached,
+— otherwise, an additional vehicle is tested according to point 6 of this Annex and the procedure is applied to the sample with one unit more. 9.3. Conformity of production when manufacturer's statistical data is unsatisfactory or unavailable. 9.3.1. The following sections describe the procedure to be used to verify the CO2 conformity of production requirements when the manufacturer's evidence of production standard deviation is either unsatisfactory or unavailable. 9.3.2. With a minimum sample size of three the sampling procedure is set so that the probability of a lot passing a test with 40 % of the production defective is 0,95 (producer's risk = 5 %), while the probability of a lot being accepted with 65 % of the production defective is 0,1 (consumer's risk = 10 %). 9.3.3. The measurement of CO2 is considered to be log normally distributed and should first be transformed by taking the natural logarithms. Let m0 and m denote the minimum and maximum sample sizes respectively (m0 = 3 and m = 32) and let n denote the current sample number. 9.3.4. If the natural logarithms of the measurements in the series are x1, x2, …, xj and L is the natural logarithm of the CO2 type-approval value, then define: and: 9.3.5. Table I/ - /9.3.5 shows values of the pass (An) and fail (Bn) decision numbers against current sample number. The test statistic is the ratio 
+/Vn and shall be used to determine whether the series has passed or failed as follows: for m0 ≤ n ≤ m: — pass the series if
+— /Vn ≤ An,
+— fail the series if
+— /Vn ≥ Bn,
+— take another measurement if An <
+— /Vn < Bn. 9.3.6. RemarksThe following recursive formulae are useful for computing successive values of the test statistic: 10. SPECIAL PROVISIONS
+10.1. In the future, vehicles with special fuel efficient technologies may be offered which could be submitted to complementary testing programmes. These would be specified at a later stage which can be claimed by the manufacturer in order to demonstrate the advantages of the solution. ▼M4
+11. EXTENSION OF APPROVAL
+11.1. The type-approval can be extended to vehicles from the same type or from a different type differing with regard to the following characteristics of Annex II, if the CO2 emissions measured by the technical service do not exceed the type-approval value by more than 4 % for vehicles of category M1 and 6 % for vehicles of category N1: — reference mass,
+— maximum authorised mass,
+— type of bodywork: — 
+for M1: saloon, hatchback, station wagon, coupé, convertible, multipurpose vehicle
+for N1: lorry, van,
+— overall gear ratios,
+— engine equipment and accessories. 11.2. Extension of approval of vehicles of category N1 within a family: 11.2.1. For vehicles of category N1 that are approved as members of a vehicle family using the procedure in Annex I, point 12.2, the type-approval can be extended to vehicles from within the same family only if the technical service estimates that the fuel consumption of the new vehicle does not exceed the fuel consumption of the vehicle on which the family's fuel consumption is based. Approvals may also be extended to vehicles which: — are up to 110 kg heavier than the family member tested, provided that they are within 220 kg of the lightest member of the family,
+— have a lower overall transmission ratio than the family member tested due solely to a change in tyre sizes and
+— conform with the family in all other respects. 11.2.2. For vehicles of category N1 that are approved as members of a vehicle family using the procedure in Annex I, point 12.3, the type-approval can be extended to vehicles from within the same family without additional testing only if the technical service estimates that the fuel consumption of the new vehicle falls within the limits made up of those two vehicles in the family that have the lowest and the highest fuel consumption, respectively. ▼M4
+12. APPROVAL OF VEHICLES OF CATEGORY N1 WITHIN A FAMILY
+Vehicles of category N1 can be approved within a family as defined in 12.1 using one of the two alternative methods described in 12.2 and 12.3.
+12.1. N1 vehicles may be grouped together into a family for the purposes of this Directive if the following parameters are identical or within the specified limits: 12.1.1. Identical parameters are: — manufacturer and type as defined in Annex II, section I, point 0.2,
+— engine capacity,
+— emission control system type,
+— fuel system type as defined in Annex II, point 1.5.2.
+12.1.2. The following parameters have to be within the following limits: — transmission overall ratios (no more than 8 % higher than the lowest) as defined in Annex II, point 1.6.3,
+— reference mass (no more than 220 kg lighter than the heaviest),
+— frontal area (no more than 15 % smaller than the largest),
+— engine power (no more than 10 % less than the highest value). 12.2. A vehicle family, as defined in 12.1, can be approved with CO2 emission and fuel consumption data that are common to all members of the family. The technical service must select for testing the member of the family which the service considers to have the highest CO2 emission. The measurements are performed as described in point 6, and the results according to the method described in 6.5 are used as type-approval values that are common to all members of the family. 12.3. Vehicles that are grouped in a family as defined in 12.1 can be approved with individual CO2 emission and fuel consumption data for each of the family members. The technical service selects for testing the two vehicles, which the service considers to have the highest and the lowest CO2 emissions respectively. The measurements are performed as described in point 6. If the manufacturer's data for these two vehicles falls within the tolerance limits described in 6.5, the CO2emissions declared by the manufacturer for all members of the vehicle family can be used as type-approval values. If the manufacturer's data do not fall within the tolerance limits, the results according to the method described in 6.5 are used as type-approval values and the technical service shall select an appropriate number of other family members for additional tests. ▼M2
+ANNEX II
+MODEL
+(maximum format: A4 (210 × 297 mm))
+EC TYPE-APPROVAL CERTIFICATE
+►M3
+ ◄ 
+►M3
+ ◄ 
+►M4
+ ◄ 
+►M4
+ ◄ 
+►M4
+ ◄ 
+►M4
+ ◄ 
+(
+1
+) OJ No C 104, 28. 4. 1980, p. 1. (
+2
+) OJ No C 265, 13. 10. 1980, p. 76. (
+3
+) OJ No C 182, 21. 7. 1980, p. 3. (
+4
+) OJ No L 42, 23. 2. 1970, p. 1. (
+5
+) See page 34 of this Official Journal. (
+6
+) This is the mean value of the G20 and G23 reference fuels at 15 °C. (
+7
+) Repeat for petrol and gaseous fuel in the case of a vehicle that can run either on petrol or on a gaseous fuel. Vehicles that can be fuelled with both petrol and a gaseous fuel, but where the petrol system is fitted for emergency purposes or starting only and of which the petrol tank cannot contain more than 15 litres of petrol will be regarded for the test as vehicles which can only run a gaseous fuel.

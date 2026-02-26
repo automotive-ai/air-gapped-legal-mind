@@ -1,0 +1,1584 @@
+Article 31 - Protection of information transmitted
+1.
+
+Any processing of personal data carried out pursuant to this Regulation, including the exchange or transmission of personal data by the competent authorities, shall be in conformity with Regulation (EU) 2016/679. Any exchange or transmission of information by competent authorities at Union level shall be undertaken in accordance with Regulation (EU) 2018/1725. Personal data which are not relevant for the handling of a specific case shall be deleted immediately. 2. 
+ The competent authority or authorities under national law shall be regarded as controllers within the meaning of Regulation (EU) 2016/679 with respect to personal data processing under this Regulation. 3. 
+ Notwithstanding paragraphs 1 and 2, information transmitted under this Regulation shall be used by the receiving agency only for the purpose for which it was transmitted. 4. 
+ Receiving agencies shall ensure that such information remains confidential, in accordance with their national law. 5. 
+ Paragraphs 3 and 4 shall be without prejudice to national laws enabling data subjects to be informed of the use made of information transmitted under this Regulation. 6. 
+ This Regulation shall be without prejudice to Directive 2002/58/EC.
+Article 35 - Evaluation
+1.
+
+No later than five years after the date of application of Article 5 in accordance with Article 37(2), the Commission shall carry out an evaluation of this Regulation and present a report on its main findings to the European Parliament, the Council and the European Economic and Social Committee, accompanied, where appropriate, by a legislative proposal. 2. 
+ Member States shall provide the Commission with the information necessary for the preparation of the report referred to in paragraph 1.
+Article 27 - Reference implementation software
+1. 
+ The Commission shall be responsible for the creation, maintenance and future development of reference implementation software which Member States may choose to apply as their back-end system instead of a national IT system.
+
+The creation, maintenance and future development of the reference implementation software shall be financed from the general budget of the Union. 2. 
+ The Commission shall provide, maintain and support on a free-of-charge basis implementation of the software components underlying the access points.
+| REQUEST FOR SERVICE OF DOCUMENTS (Article 8(2) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1)) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. | Reference No of the transmitting agency:1. TRANSMITTING AGENCY
+1.1. Identity: 1.2. Address: 1.2.1. Street and number/PO box: 1.2.2. Place and postcode: 1.2.3. Country: 1.3. Tel.
+1.4. Fax (
+1
+):
+1.5. 
+Email: 2. RECEIVING AGENCY
+2.1. Identity: 2.2. Address: 2.2.1. Street and number/PO box: 2.2.2. Place and postcode: 2.2.3. Country: 2.3. Tel.
+2.4. Fax (1) :
+2.5. Email: 3. APPLICANT(S) (
+2
+)
+3.1. Identity: 3.2. Address: 3.2.1. Street and number/PO box: 3.2.2. Place and postcode: 3.2.3. Country: 3.3. Tel. (1) :
+3.4. 
+Fax (1) :
+3.5. Email (1) :
+4. ADDRESSEE
+4.1. Identity: 4.1.1. Date of birth, if available: 4.2. Address
+4.2.1. Street and number/PO box: 4.2.2. Place and postcode: 4.2.3. Country: 4.3. Tel. (1) :
+4.4. 
+Fax (1) :
+4.5. Email (1) :
+4.6. 
+Identification number/social security number/organisation number/or equivalent (1) :
+4.7. 
+Any other information relating to the addressee (1) :
+5. METHOD OF SERVICE
+5.1. In accordance with the law of the Member State addressed□
+5.2. By the following particular method□
+5.2.1. If this method is incompatible with the law of the Member State addressed, the document(s) should be served in accordance with the law of that Member State: 5.2.1.1. yes□
+5.2.1.2. no□
+6. DOCUMENT TO BE SERVED
+6.1. Nature of the document: 6.1.1. judicial□
+6.1.1.1. writ of summons□
+6.1.1.2. decision/judgment□
+6.1.1.3. appeal□
+6.1.1.4. other (please specify): 6.1.2. extrajudicial□
+6.2. Date or time limit after which service is no longer necessary (1) :
+(day)(month) (year)
+6.3. Language of document: 6.3.1. original BG □, ES □, CS □, DE □, ET □, EL □, EN □, FR □, GA □, HR □, IT □, LV □, LT □, HU □, MT □, NL □, PL □, PT □, RO □, SK □, SL □, FI □, SV □ (please specify)
+6.3.2. translation (1) BG □, ES □, CS □, DE □, ET □, EL □, EN □, FR □, GA □, HR □, IT □, LV □, LT □, HU □, MT □, NL □, PL □, PT □, RO □, SK □, SL □, FI □, SV □, other □ (please specify)
+6.4. Number of enclosures: 7. LANGUAGE OF INFORMATION TO THE ADDRESSEE ABOUT THE RIGHT TO REFUSE THE DOCUMENT
+For the purposes of Article 12(2) of Regulation (EU) 2020/1784, please indicate in which of the following languages, in addition to the language of the Member State addressed, the information is to be provided: ▼C2
+7.1. Official language or one of the official languages of the Member State of origin (
+3
+): BG □, ES □, CS □, DE □, ET □, EL □, EN □, FR □, GA □, HR □, IT □, LV □, LT □, HU □, MT □, NL □, PL □, PT □, RO □, SK □, SL □, FI □, SV□
+7.2. Official language of another Member State the addressee might understand: BG □, ES □, CS □, DE □, ET □, EL □, EN □, FR □, GA □, HR □, IT □, LV □, LT □, HU □, MT □, NL □, PL □, PT □, RO □, SK □, SL □, FI □, SV□
+▼B
+8. A COPY OF THE DOCUMENT TO BE RETURNED WITH THE CERTIFICATE OF SERVICE (Article 5(4) of Regulation (EU) 2020/1784)
+8.1. 
+Yes (in this case, send two copies of the document to be served)□
+8.2. 
+No□
+9. REASONS FOR NOT TRANSMITTING THROUGH THE DECENTRALISED IT SYSTEM (Article 5(4) of Regulation (EU) 2020/1784) (
+4
+)
+Electronic transmission was not possible due to: □ 
+disruption of the decentralised IT system
+□ 
+exceptional circumstances 1. You are required by Article 11(2) of Regulation (EU) 2020/1784 to take all necessary steps to effect the service of the document as soon as possible, and in any event within one month of its receipt. If it has not been possible for you to effect the service within one month of receipt, you must inform this agency by indicating that fact in item 2 of the certificate of service or non-service of documents. 2. If you cannot fulfil this request for service on the basis of the information or documents transmitted, you are required by Article 10(2) of Regulation (EU) 2020/1784 to contact this agency in order to obtain the missing information or documents using form E in Annex I to Regulation (EU) 2020/1784
+Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+
+| REQUEST TO DETERMINE THE ADDRESS OF THE PERSON TO BE SERVED (Article 7(1)(a) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1) (2) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. (2) This form applies only to the Member States which provide assistance in accordance with Article 7(1)(a) of Regulation (EU) 2020/1784. | Reference No of the transmitting agency:1. TRANSMITTING AGENCY
+1.1. Identity: 1.2. Address: 1.2.1. Street and number/PO box: 1.2.2. Place and postcode: 1.2.3. Country: 1.3. Tel. (
+6
+):
+1.4. 
+Fax (6) :
+1.5. Email: 2. REQUESTED AUTHORITY
+2.1. Identity: 2.2. Address: 2.2.1. Street and number/PO box: 2.2.2. Place and postcode: 2.2.3. Country: 2.3. Tel. (6) :
+2.4. 
+Fax (6) :
+2.5. Email: 3. ADDRESSEE
+3.1. Identity: 3.2. Last known address: 3.2.1. Street and number/PO box: 3.2.2. Place and postcode: 3.2.3. Country: 3.3. Known personal details of the addressee (if natural person), if available: 3.3.1. Name at birth: 3.3.2. Other known name(s):
+3.3.3. 
+Date and place of birth: 3.3.4. Identification number/social security number/or equivalent: 3.3.5. Mother's or father's name at birth: 3.3.6. Other information: 3.4. Known details of the addressee (if legal person), if available: 3.4.1. Registration number or equivalent: 3.4.2. Name(s) of the member(s) of the board/representative: 3.5. Tel. (6) :
+3.6. 
+Fax (6) :
+3.7. Email (6) :
+3.8. 
+Other information, if available: Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+
+| REPLY TO THE REQUEST TO DETERMINE THE ADDRESS OF THE PERSON TO BE SERVED (Article 7(1)(a) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1) (2) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. (2) This form applies only to the Member States which provide assistance in accordance with Article 7(1)(a) of Regulation (EU) 2020/1784. | ▼C1
+Reference No of the transmitting agency:Reference No of the requested authority: ▼B
+1. ADDRESSEE
+1.1. Identity: 1.2. Known address: 1.2.1. Street and number/PO box: 1.2.2. Place and postcode: 1.2.3. Country: 1.3. No address could be determined□
+1.4. Other information: Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+
+| ACKNOWLEDGEMENT OF RECEIPT (Article 10(1) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1)) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. |
+| 0 |
+| This acknowledgement of receipt should be sent through the decentralised IT system or otherwise as soon as possible after receipt of the document and in any event within seven days of receipt. (1) |
+| (1) The obligation to send the acknowledgement through the decentralised IT system only applies from the date of application of the decentralised IT system in accordance with Article 37(2) of Regulation (EU) 2020/1784. | Reference No of the transmitting agency:Reference No of the receiving agency:Addressee:1. DATE OF RECEIPT: Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+| Regulation (EC) No 1393/2007 | This Regulation |
+|---|---|
+| Article 1(1) | Article 1(1) |
+| Article 1(2) | Article 1(2) |
+| Article 1(3) | - |
+| Article 2 | Article 3 |
+| Article 3 | Article 4 |
+| Article 4(1) | Article 8(1) |
+| Article 4(2) | Article 5(1) |
+| Article 4(3) | Article 8(2) |
+| Article 4(4) | Article 8(3) |
+| Article 4(5) | Article 8(4) |
+| Article 5 | Article 9 |
+| Article 6 | Article 10 |
+| Article 7 | Article 11 |
+| Article 8(1) | Article 12(1), (2) and (3) |
+| Article 8(2) | Article 12(4) |
+| Article 8(3) | Article 12(5) |
+| Article 8(4) | Article 12(6) |
+| Article 8(5) | Article 12(7) |
+| Article 9 | Article 13 |
+| Article 10 | Article 14 |
+| Article 11 | Article 15 |
+| Article 12 | Article 16 |
+| Article 13 | Article 17 |
+| Article 14 | Article 18 |
+| Article 15 | Article 20(1) |
+| Article 16 | Article 21 |
+| Article 17 | Article 23 |
+| Article 18 | Article 26 |
+| Article 19 | Article 22 |
+| Article 20 | Article 29 |
+| Article 21 | Article 30 |
+| Article 22(1) | Article 31(3) |
+| Article 22(2) | Article 31(4) |
+| Article 22(3) | Article 31(5) |
+| Article 22(4) | Article 31(6) |
+| Article 23(1) | Article 33(1) |
+| Article 23(2) | Article 33(3) |
+| Article 23(3) | Article 33(4) |
+| Article 24 | Article 35(1) |
+| Article 25 | Article 36 |
+| Article 26 | Article 37 |
+| Annex I | Annex I |
+| Annex II | Annex I |
+| Annex III | Annex III |
+| Regulation (EC) No 1393/2007 of the European Parliament and of the Council of 13 November 2007 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents), and repealing Council Regulation (EC) No 1348/2000 (OJ L 324, 10.12.2007, p. 79). |  |
+|---|---|
+| Council Regulation (EU) No 517/2013 of 13 May 2013 adapting certain regulations and decisions in the fields of free movement of goods, freedom of movement for persons, company law, competition policy, agriculture, food safety, veterinary and phytosanitary policy, transport policy, energy, taxation, statistics, trans-European networks, judiciary and fundamental rights, justice, freedom and security, environment, customs union, external relations, foreign, security and defence policy and institutions, by reason of the accession of the Republic of Croatia (OJ L 158, 10.6.2013, p. 1). | Only amendments to Annexes I and II to Regulation (EC) No 1393/2007 |
+Introduction
+REGULATION (EU) 2020/1784 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ of 25 November 2020
+ on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents)
+(recast)
+(OJ L 405 2.12.2020, p. 40)
+Corrected by:
+
+►C1
+Corrigendum, OJ L 188, 27.7.2023, p. 61 ((EU) 2020/1784)
+ ►C2
+Corrigendum, OJ L 90049, 26.10.2023, p. 1 ((EU) 2020/1784)
+ ►C3
+Corrigendum, OJ L 90073, 2.2.2024, p. 1 ((EU) 2020/1784)
+Article 21 - Transmission and service of extrajudicial documents
+Extrajudicial documents may be transmitted to and served in another Member State in accordance with this Regulation.
+Article 7 - Assistance in address enquiries
+1. 
+ Where the address of the person to be served with the judicial or extrajudicial document in another Member State is not known, that Member State shall provide assistance in determining the address in, at least, one of the following ways:
+
+(a) 
+providing for designated authorities to which transmitting agencies may address requests on the determination of the address of the person to be served; (b) 
+allowing persons from other Member States to submit requests, including electronically, for information about addresses of persons to be served directly to domicile registries or other publicly accessible databases by means of a standard form available on the European e-Justice Portal; or
+(c) 
+providing detailed information, through the European e-Justice Portal, on how to find the addresses of persons to be served. 2. 
+ Each Member State shall provide the Commission with the following information with a view to making it available through the European e-Justice Portal: (a) 
+the means of assistance which the Member State will provide in its territory pursuant to paragraph 1; (b) 
+where applicable, the names and contact details of the authorities referred to in points (a) and (b) of paragraph 1; (c) 
+whether the authorities of the Member State addressed submit, on their own initiative, requests to domicile registries or other databases for information about addresses in cases where the address indicated in the request for service is not correct. Member States shall notify the Commission of any subsequent modification of the information referred to in the first subparagraph.
+Article 4 - Central body
+Each Member State shall designate a central body that is responsible for:
+
+(a) 
+supplying information to the transmitting agencies; (b) 
+seeking solutions to any difficulties which may arise during the transmission of documents for service; (c) 
+forwarding, in exceptional cases, a request for service to the competent receiving agency at the request of a transmitting agency. Federal Member States, Member States in which several legal systems apply and Member States with autonomous territorial units may designate more than one central body.
+recital 42
+(42) The information transmitted pursuant to this Regulation should be suitably protected.
+
+Such protection falls within the scope of Regulation (EU) 2016/679 and of Directive 2002/58/EC of the European Parliament and of the Council (12). Personal data which are not relevant for the handling of a specific case should be deleted immediately.
+recital 38
+(38) In order to update the forms in Annex I to this Regulation or to make technical changes to those forms, the power to adopt acts in accordance with Article 290 of the Treaty on the Functioning of the European Union should be delegated to the Commission in respect of amendments to that Annex.
+
+It is of particular importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level, and that those consultations be conducted in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making (10). In particular, to ensure equal participation in the preparation of delegated acts, the European Parliament and the Council receive all documents at the same time as Member States' experts, and their experts systematically have access to meetings of Commission expert groups dealing with the preparation of delegated acts.
+recital 34
+(34) It should be possible for any person with an interest in particular judicial proceedings to effect service of documents directly through the judicial officers, officials or other competent persons of the Member State in which the service is sought, provided that such direct service is permitted under the law of that Member State.
+recital 18
+(18) An acknowledgment of receipt using form D in Annex I should be sent automatically to the transmitting agency through the decentralised IT system or by other means, as soon as possible and in any event within seven days of receipt of the document.
+recital 14
+(14) The competent authority or authorities under national law should be responsible as controllers within the meaning of Regulation (EU) 2016/679 in relation to the processing of personal data that they carry out under this Regulation for the transmission of documents between Member States.
+recital 10
+(10) In order to ensure the speedy transmission of documents between Member States for the purposes of service, any appropriate modern communications technology should be used, provided that certain conditions as to the integrity and reliability of the document received are met.
+
+Therefore, as a rule, all communication and exchange of documents between the agencies and bodies designated by the Member States should be carried out through a secure and reliable decentralised IT system comprising national IT systems that are interconnected and technically interoperable, for example, and without prejudice to further technological progress, based on e-CODEX. Accordingly, a decentralised IT system should be established for data exchanges under this Regulation. The decentralised nature of that IT system would enable data exchanges exclusively between one Member State and another, without any of the Union institutions being involved in those exchanges.
+Article 2 - Definitions
+For the purposes of this Regulation, the following definitions apply:
+
+(1) 'forum Member State' means the Member State in which the judicial proceedings take place; (2) 'decentralised IT system' means a network of national IT systems and interoperable access points, operating under the individual responsibility and management of each Member State, that enables the secure and reliable cross-border exchange of information between the national IT systems.
+Article 6 - Legal effects of electronic documents
+Documents that are transmitted through the decentralised IT system shall not be denied legal effect or considered inadmissible as evidence in the proceedings solely on the grounds that they are in electronic form.
+recital 6
+(6) This Regulation should not apply to the service of documents on a party's authorised representative in the forum Member State, but should apply to the service of any document on a party in another Member State if such service is required under the law of the forum Member State, irrespective of whether the document has been served on the party's representative.
+recital 5
+(5) Cross-border service should be construed as service from one Member State to another Member State.
+recital 4
+(4) This Regulation lays down rules on the service of judicial and extrajudicial documents in the Member States in civil or commercial matters.
+
+It should not apply to the service of judicial and extrajudicial documents in other matters such as revenue, customs or administrative matters.
+recital 3
+(3) For the purposes of the proper functioning of the internal market and the development of an area of civil justice in the Union, it is necessary to further improve and expedite the transmission and service of judicial and extrajudicial documents between the Member States in civil and commercial matters, while ensuring a high level of security and protection in the transmission of such documents, safeguarding the rights of addressees and protecting privacy and personal data.
+
+This Regulation seeks to improve the effectiveness and speed of judicial procedures by simplifying and streamlining them as regards the service of judicial and extrajudicial documents in the Union, while at the same time helping to reduce delays and costs for individuals and businesses. Providing greater legal certainty and simpler, streamlined and digitalised procedures, will encourage individuals and businesses to engage in cross-border transactions, thereby boosting trade within the Union and thus the functioning of the internal market.
+recital 2
+(2) The Union has set itself the objective of maintaining and developing the Union as an area of freedom, security and justice in which the free movement of persons is ensured.
+
+To establish such an area, the Union is to adopt, among other measures, measures relating to judicial cooperation in civil matters needed for the proper functioning of the internal market.
+recital 1
+(1) Regulation (EC) No 1393/2007 of the European Parliament and of the Council (3) has been amended before.
+
+Since further substantial amendments are to be made, that Regulation should be recast in the interests of clarity.
+citation
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 81(2) thereof,
+Having regard to the proposal from the European Commission,
+After transmission of the draft legislative act to the national parliaments,
+Having regard to the opinion of the European Economic and Social Committee (1),
+After consulting the Committee of the Regions,
+Acting in accordance with the ordinary legislative procedure (2),
+Whereas:
+Article 7 - Assistance in address enquiries
+1. Where the address of the person to be served with the judicial or extrajudicial document in another Member State is not known, that Member State shall provide assistance in determining the address in, at least, one of the following ways:
+
+(a) providing for designated authorities to which transmitting agencies may address requests on the determination of the address of the person to be served; (b) allowing persons from other Member States to submit requests, including electronically, for information about addresses of persons to be served directly to domicile registries or other publicly accessible databases by means of a standard form available on the European e-Justice Portal; or
+(c) providing detailed information, through the European e-Justice Portal, on how to find the addresses of persons to be served. 2. Each Member State shall provide the Commission with the following information with a view to making it available through the European e-Justice Portal: (a) the means of assistance which the Member State will provide in its territory pursuant to paragraph 1; (b) where applicable, the names and contact details of the authorities referred to in points (a) and (b) of paragraph 1; (c) whether the authorities of the Member State addressed submit, on their own initiative, requests to domicile registries or other databases for information about addresses in cases where the address indicated in the request for service is not correct. Member States shall notify the Commission of any subsequent modification of the information referred to in the first subparagraph.
+recital 7
+(7) Where an addressee has no known address for service in the forum Member State, but has one or more known addresses for service in one or more other Member States, the document should be transmitted to such other Member State for service under this Regulation.
+
+This situation should not be construed as domestic service within the forum Member State. In particular, the document should not be served on the addressee by a fictitious method of service, such as service by posting an announcement on the court notice board or by depositing the document in the court file.
+Article 5 - Means of communication to be used by transmitting agencies, receiving agencies and central bodies
+1. Documents to be served, requests, confirmations, receipts, certificates and communications carried out on the basis of the forms in Annex I between transmitting agencies and receiving agencies, between those agencies and the central bodies, or between the central bodies of different Member States, shall be transmitted through a secure and reliable decentralised IT system.
+
+That decentralised IT system shall be based on an interoperable solution such as e-CODEX. 2. The general legal framework for the use of qualified trust services set out in Regulation (EU) No 910/2014 shall apply to the documents to be served, requests, confirmations, receipts, certificates and communications transmitted through the decentralised IT system. 3. Where the documents to be served, requests, confirmations, receipts, certificates and other communications referred to in paragraph 1 of this Article require or feature a seal or handwritten signature, qualified electronic seals or qualified electronic signatures as defined in Regulation (EU) No 910/2014 may be used instead. 4. Where transmission in accordance with paragraph 1 is not possible due to the disruption of the decentralised IT system or due to exceptional circumstances, the transmission shall be carried out by the swiftest, most appropriate alternative means, taking into account the need to ensure reliability and security.
+| REQUEST FOR SERVICE OF DOCUMENTS (Article 8(2) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1)) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. | Reference No of the transmitting agency:1. TRANSMITTING AGENCY
+1.1. Identity: 1.2. Address: 1.2.1. Street and number/PO box: 1.2.2. Place and postcode: 1.2.3. Country: 1.3. Tel.
+1.4. Fax (
+2
+):
+1.5. 
+Email: 2. RECEIVING AGENCY
+2.1. Identity: 2.2. Address: 2.2.1. Street and number/PO box: 2.2.2. Place and postcode: 2.2.3. Country: 2.3. Tel.
+2.4. Fax (2) :
+2.5. Email: 3. APPLICANT(S) (
+3
+)
+3.1. Identity: 3.2. Address: 3.2.1. Street and number/PO box: 3.2.2. Place and postcode: 3.2.3. Country: 3.3. Tel. (2) :
+3.4. 
+Fax (2) :
+3.5. Email (2) :
+4. ADDRESSEE
+4.1. Identity: 4.1.1. Date of birth, if available: 4.2. Address
+4.2.1. Street and number/PO box: 4.2.2. Place and postcode: 4.2.3. Country: 4.3. Tel. (2) :
+4.4. 
+Fax (2) :
+4.5. Email (2) :
+4.6. 
+Identification number/social security number/organisation number/or equivalent (2) :
+4.7. 
+Any other information relating to the addressee (2) :
+5. METHOD OF SERVICE
+5.1. In accordance with the law of the Member State addressed□
+5.2. By the following particular method□
+5.2.1. If this method is incompatible with the law of the Member State addressed, the document(s) should be served in accordance with the law of that Member State: 5.2.1.1. yes□
+5.2.1.2. no□
+6. DOCUMENT TO BE SERVED
+6.1. Nature of the document: 6.1.1. judicial□
+6.1.1.1. writ of summons□
+6.1.1.2. decision/judgment□
+6.1.1.3. appeal□
+6.1.1.4. other (please specify): 6.1.2. extrajudicial□
+6.2. Date or time limit after which service is no longer necessary (2) :
+(day)(month) (year)
+6.3. Language of document: 6.3.1. original BG □, ES □, CS □, DE □, ET □, EL □, EN □, FR □, GA □, HR □, IT □, LV □, LT □, HU □, MT □, NL □, PL □, PT □, RO □, SK □, SL □, FI □, SV □ (please specify)
+6.3.2. translation (2) BG □, ES □, CS □, DE □, ET □, EL □, EN □, FR □, GA □, HR □, IT □, LV □, LT □, HU □, MT □, NL □, PL □, PT □, RO □, SK □, SL □, FI □, SV □, other □ (please specify)
+6.4. Number of enclosures: 7. LANGUAGE OF INFORMATION TO THE ADDRESSEE ABOUT THE RIGHT TO REFUSE THE DOCUMENT
+For the purposes of Article 12(2) of Regulation (EU) 2020/1784, please indicate in which of the following languages, in addition to the language of the Member State addressed, the information is to be provided: ▼C2
+7.1. Official language or one of the official languages of the Member State of origin (
+4
+): BG □, ES □, CS □, DE □, ET □, EL □, EN □, FR □, GA □, HR □, IT □, LV □, LT □, HU □, MT □, NL □, PL □, PT □, RO □, SK □, SL □, FI □, SV□
+7.2. Official language of another Member State the addressee might understand: BG □, ES □, CS □, DE □, ET □, EL □, EN □, FR □, GA □, HR □, IT □, LV □, LT □, HU □, MT □, NL □, PL □, PT □, RO □, SK □, SL □, FI □, SV□
+▼B
+8. A COPY OF THE DOCUMENT TO BE RETURNED WITH THE CERTIFICATE OF SERVICE (Article 5(4) of Regulation (EU) 2020/1784)
+8.1. 
+Yes (in this case, send two copies of the document to be served)□
+8.2. 
+No□
+9. REASONS FOR NOT TRANSMITTING THROUGH THE DECENTRALISED IT SYSTEM (Article 5(4) of Regulation (EU) 2020/1784) (
+5
+)
+Electronic transmission was not possible due to: □ 
+disruption of the decentralised IT system
+□ 
+exceptional circumstances 1. You are required by Article 11(2) of Regulation (EU) 2020/1784 to take all necessary steps to effect the service of the document as soon as possible, and in any event within one month of its receipt. If it has not been possible for you to effect the service within one month of receipt, you must inform this agency by indicating that fact in item 2 of the certificate of service or non-service of documents. 2. If you cannot fulfil this request for service on the basis of the information or documents transmitted, you are required by Article 10(2) of Regulation (EU) 2020/1784 to contact this agency in order to obtain the missing information or documents using form E in Annex I to Regulation (EU) 2020/1784
+Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+
+| REQUEST TO DETERMINE THE ADDRESS OF THE PERSON TO BE SERVED (Article 7(1)(a) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1) (2) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. (2) This form applies only to the Member States which provide assistance in accordance with Article 7(1)(a) of Regulation (EU) 2020/1784. | Reference No of the transmitting agency:1. TRANSMITTING AGENCY
+1.1. Identity: 1.2. Address: 1.2.1. Street and number/PO box: 1.2.2. Place and postcode: 1.2.3. Country: 1.3. Tel. (
+7
+):
+1.4. 
+Fax (7) :
+1.5. Email: 2. REQUESTED AUTHORITY
+2.1. Identity: 2.2. Address: 2.2.1. Street and number/PO box: 2.2.2. Place and postcode: 2.2.3. Country: 2.3. Tel. (7) :
+2.4. 
+Fax (7) :
+2.5. Email: 3. ADDRESSEE
+3.1. Identity: 3.2. Last known address: 3.2.1. Street and number/PO box: 3.2.2. Place and postcode: 3.2.3. Country: 3.3. Known personal details of the addressee (if natural person), if available: 3.3.1. Name at birth: 3.3.2. Other known name(s):
+3.3.3. 
+Date and place of birth: 3.3.4. Identification number/social security number/or equivalent: 3.3.5. Mother's or father's name at birth: 3.3.6. Other information: 3.4. Known details of the addressee (if legal person), if available: 3.4.1. Registration number or equivalent: 3.4.2. Name(s) of the member(s) of the board/representative: 3.5. Tel. (7) :
+3.6. 
+Fax (7) :
+3.7. Email (7) :
+3.8. 
+Other information, if available: Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+
+| REPLY TO THE REQUEST TO DETERMINE THE ADDRESS OF THE PERSON TO BE SERVED (Article 7(1)(a) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1) (2) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. (2) This form applies only to the Member States which provide assistance in accordance with Article 7(1)(a) of Regulation (EU) 2020/1784. | ▼C1
+Reference No of the transmitting agency:Reference No of the requested authority: ▼B
+1. ADDRESSEE
+1.1. Identity: 1.2. Known address: 1.2.1. Street and number/PO box: 1.2.2. Place and postcode: 1.2.3. Country: 1.3. No address could be determined□
+1.4. Other information: Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+
+| ACKNOWLEDGEMENT OF RECEIPT (Article 10(1) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1)) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. |
+| 0 |
+| This acknowledgement of receipt should be sent through the decentralised IT system or otherwise as soon as possible after receipt of the document and in any event within seven days of receipt. (1) |
+| (1) The obligation to send the acknowledgement through the decentralised IT system only applies from the date of application of the decentralised IT system in accordance with Article 37(2) of Regulation (EU) 2020/1784. | Reference No of the transmitting agency:Reference No of the receiving agency:Addressee:1. DATE OF RECEIPT: Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+recital 47
+(47) In accordance with Article 3 and Article 4a(1) of Protocol No 21 on the position of the United Kingdom and Ireland in respect of the area of freedom, security and justice, annexed to the Treaty on European Union and to the Treaty on the Functioning of the European Union, the United Kingdom and Ireland have notified their wish to take part in the adoption and application of this Regulation.
+(1) 'forum Member State' means the Member State in which the judicial proceedings take place;
+Article 34 - Monitoring
+1.
+
+By 2 July 2023, the Commission shall establish a detailed programme for monitoring the outputs, results and impact of this Regulation. 2. 
+ The monitoring programme shall specify the action to be taken by the Commission and by the Member States to monitor the outputs, results and impact of this Regulation. It shall set out when the data referred to in paragraph 3 are to be collected for the first time, which shall be at the latest 2 July 2026, and at what further intervals those data are to be collected. 3. 
+ Member States shall provide the Commission with the following data necessary for the purposes of monitoring, where available: (a) 
+the number of requests for the service of documents transmitted in accordance with Article 8; (b) 
+the number of requests for the service of documents executed in accordance with Article 11; (c) 
+the number of cases in which the request for the service of documents was transmitted by means other than through the decentralised IT system in accordance with Article 5(4); (d) 
+the number of received certificates of non-service of documents; (e) 
+the number of refusals of documents for language reasons received by the transmitting agencies. 4. 
+ The reference implementation software and, where equipped to do so, the national back-end system shall programmatically collect the data referred to in points (a), (b) and (d) of paragraph 3 and transmit them to the Commission on a regular basis.
+Article 35 - Evaluation
+1.
+
+No later than five years after the date of application of Article 5 in accordance with Article 37(2), the Commission shall carry out an evaluation of this Regulation and present a report on its main findings to the European Parliament, the Council and the European Economic and Social Committee, accompanied, where appropriate, by a legislative proposal. 2. Member States shall provide the Commission with the information necessary for the preparation of the report referred to in paragraph 1.
+Article 22 - Defendant not entering an appearance
+1. Where a document instituting proceedings or its equivalent has had to be transmitted to another Member State for the purpose of service under this Regulation and the defendant has not entered an appearance, judgment shall not be given until it is established that the service or the delivery of the document was effected in sufficient time to enable the defendant to enter a defence and that:
+
+(a) the document was served by a method prescribed by the law of the Member State addressed for the service of documents in domestic actions upon persons who are within its territory; or
+(b) the document was in fact delivered to the defendant or to the defendant's residence by another method provided for by this Regulation. 2. Each Member State may communicate to the Commission the fact that a court, notwithstanding paragraph 1, may give judgment even if no certificate of service or delivery of the document instituting proceedings or its equivalent has been received, provided that all the following conditions are fulfilled: (a) the document was transmitted by one of the methods provided for in this Regulation; (b) a period considered adequate by the court in the particular case, which shall not be less than six months, has elapsed since the date of the transmission of the document; (c) no certificate of any kind has been received, even though every reasonable effort has been made to obtain one through the competent authorities or bodies of the Member State addressed. That information shall be made available through the European e-Justice Portal. 3. Notwithstanding paragraphs 1 and 2, in justified cases of urgency courts may order any provisional or protective measures. 4. Where a document instituting proceedings or its equivalent has had to be transmitted to another Member State for the purpose of service in accordance with this Regulation and a judgment has been given against a defendant who has not entered an appearance, the judge shall have the power to relieve the defendant from the effects of the expiry of the time for appeal from the judgment where both of the following conditions are fulfilled: (a) the defendant, without any fault on the defendant's part, did not have knowledge of the document in sufficient time to enter a defence or did not have knowledge of the judgment in sufficient time to appeal; and
+(b) the defendant has raised a prima facie defence to the action on the merits. An application for such relief may be filed only within a reasonable time after the defendant has knowledge of the judgment. Each Member State may communicate to the Commission the fact that an application for relief will not be admissible if it is filed after the expiry of a deadline set by the Member State in that communication. That deadline shall in no case be sooner than one year following the date of the judgment. That information shall be made available through the European e-Justice Portal. 5. Paragraph 4 shall not apply to judgments concerning the status or capacity of persons.
+recital 46
+(46) In order to make its provisions more easily accessible and readable, Regulation (EC) No 1393/2007 should be repealed and replaced by this Regulation.
+recital 43
+(43) In accordance with paragraphs 22 and 23 of the Interinstitutional Agreement of 13 April 2016 on Better Law-Making, the Commission should evaluate this Regulation on the basis of information collected through specific monitoring arrangements in order to assess the actual effects of this Regulation and the need for any further action.
+
+Where Member States collect data on the service of documents under this Regulation, in particular information on the numbers of requests transmitted and requests received, the number of cases in which transmission was performed by means other than through the decentralised IT system, the number of certificates of non-service of documents received and the number of notifications of refusal on the grounds of language received by the transmitting agencies, they should provide the Commission with such data for monitoring purposes. The reference implementation software developed by the Commission as a back-end system should programmatically collect the data necessary for monitoring purposes and such data should be transmitted to the Commission. Where Member States choose to use a national IT system instead of the reference implementation software developed by the Commission, that system may be equipped to programmatically collect those data and, in that case, those data should be transmitted to the Commission.
+recital 39
+(39) In order to ensure uniform conditions for the implementation of this Regulation, implementing powers should be conferred on the Commission.
+
+Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council (11).
+recital 35
+(35) Where national law and this Regulation allow the court to give judgment even if no certificate of service or delivery of the document instituting the proceedings or its equivalent has been received, every reasonable effort should be made to obtain the certificate through the competent authorities or bodies of the Member State addressed before any judgement is given, in compliance with any other requirements safeguarding the interests of the defendant.
+
+Unless incompatible with national law, all reasonable efforts should be made to inform the defendant that court proceedings have been instituted using any available channels of communication, including modern communications technology, for which an address or an account is known to the court seised of the proceedings.
+recital 19
+(19) When it receives a certificate of non-service of documents, it is important for the transmitting agency to know whether the authorities of the Member State addressed have submitted requests to domicile registries or other databases, where such registries or databases exist, for a search for a new address for the person to be served.
+
+Therefore, Member States should inform the Commission if their authorities make such requests on their own initiative in cases where the address indicated in the request for service is not correct. However, this Regulation should not impose an obligation on the authorities of the Member States to make such requests.
+recital 15
+(15) Transmission through the decentralised IT system could become impossible due to a disruption of the system.
+
+Other means of communication could be more appropriate also in exceptional circumstances, which could include situations in which converting voluminous documentation into electronic form would impose a disproportionate administrative burden on the transmitting agency or whereby the original document is needed in paper format to assess its authenticity. Where the decentralised IT system is not used, transmission should be carried out by the most appropriate alternative means. Such alternative means should entail, inter alia, transmission being performed as swiftly as possible and in a secure manner by other secure electronic means or by postal service.
+recital 11
+(11) Without prejudice to possible future technological progress, the secure decentralised IT system and its components should not be understood to necessarily constitute a qualified electronic registered delivery service as defined by Regulation (EU) No 910/2014 of the European Parliament and of the Council (4).
+recital 8
+(8) For the purposes of this Regulation, the term 'extrajudicial documents' should be understood to include documents that have been drawn up or certified by a public authority or official, and other documents of which the formal transmission to an addressee residing in another Member State is necessary for the purposes of exercising, proving or safeguarding a right or a claim in civil or commercial law.
+
+The term 'extrajudicial documents' should not be understood to include documents issued by administrative authorities for the purposes of administrative proceedings.
+(1) 'forum Member State' means the Member State in which the judicial proceedings take place;
+Article 36 - Repeal
+1. Regulation (EC) No 1393/2007 shall be repealed as from the date of application of this Regulation, with the exception of Articles 4 and 6 of Regulation (EC) No 1393/2007, which shall be repealed as from the date of application of Articles 5, 8 and 10 referred to in Article 37(2) of this Regulation.
+
+2. References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex III.
+recital 44
+(44) Since the objectives of this Regulation cannot be sufficiently achieved by the Member States because of the differences between national rules governing jurisdiction and the recognition and enforcement of decisions, but can rather, by reason of the direct applicability and binding nature of this Regulation, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union.
+
+In accordance with the principle of proportionality as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve those objectives.
+recital 40
+(40) This Regulation should prevail over the provisions contained in bilateral or multilateral agreements or arrangements concluded by the Member States that have the same scope of application as this Regulation, in particular the Hague Convention of 15 November 1965 on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters in relations between the Member States party thereto.
+
+This Regulation does not preclude Member States from maintaining or concluding agreements or arrangements to expedite or simplify the transmission of documents, provided that those agreements or arrangements are compatible with this Regulation.
+recital 36
+(36) The Commission should draw up a manual containing information relevant for the proper application of this Regulation.
+
+The manual should be made available through the European Judicial Network in Civil and Commercial Matters. The Commission and the Member States should do their utmost to ensure that the information in the manual is up to date and complete, especially as regards the contact details of receiving and transmitting agencies.
+recital 32
+(32) It should be possible for an addressee to be served electronically using qualified electronic registered delivery services within the meaning of Regulation (EU) No 910/2014, provided that the addressee has given prior express consent to use electronic means for the purpose of serving documents in the course of legal proceedings.
+
+In such cases, prior express consent could be given for specific proceedings or as a general consent to the service of documents in the course of legal proceedings by those means of service. That consent could also be given where, under the law of the forum Member State, procedural documents could be served through an electronic system and the addressee has consented to the use of that system in relation to the service of documents before serving documents on the addressee through that system.
+recital 16
+(16) In order to enhance electronic cross-border transmission of documents through the decentralised IT system, such documents should not be denied legal effect and should not be considered inadmissible as evidence in the proceedings solely on the grounds that they are in electronic form.
+
+However, that principle should be without prejudice to the assessment of the legal effects or the admissibility of such documents as evidence in accordance with national law. It should also be without prejudice to national law regarding the conversion of documents.
+recital 12
+(12) The Commission should be responsible for the creation, maintenance and future development of reference implementation software which Member States should be able to use instead of a national IT system, in accordance with the principles of data protection by design and by default.
+
+The Commission should design, develop and maintain the reference implementation software in compliance with the data protection requirements and principles laid down in Regulations (EU) 2018/1725 (5) and (EU) 2016/679 (6) of the European Parliament and of the Council, in particular the principles of data protection by design and by default. The reference implementation software should also include appropriate technical measures and enable the organisational measures necessary for ensuring a level of security and interoperability which is appropriate for the exchange of information in the context of service of documents.
+Article 4 - Central body
+Each Member State shall designate a central body that is responsible for:
+
+(a) supplying information to the transmitting agencies; (b) seeking solutions to any difficulties which may arise during the transmission of documents for service; (c) forwarding, in exceptional cases, a request for service to the competent receiving agency at the request of a transmitting agency. Federal Member States, Member States in which several legal systems apply and Member States with autonomous territorial units may designate more than one central body.
+Article 34 - Monitoring
+1.
+
+By 2 July 2023, the Commission shall establish a detailed programme for monitoring the outputs, results and impact of this Regulation. 2. 
+ The monitoring programme shall specify the action to be taken by the Commission and by the Member States to monitor the outputs, results and impact of this Regulation. It shall set out when the data referred to in paragraph 3 are to be collected for the first time, which shall be at the latest 2 July 2026, and at what further intervals those data are to be collected. 3. 
+ Member States shall provide the Commission with the following data necessary for the purposes of monitoring, where available: (a) 
+the number of requests for the service of documents transmitted in accordance with Article 8; (b) 
+the number of requests for the service of documents executed in accordance with Article 11; (c) 
+the number of cases in which the request for the service of documents was transmitted by means other than through the decentralised IT system in accordance with Article 5(4); (d) 
+the number of received certificates of non-service of documents; (e) 
+the number of refusals of documents for language reasons received by the transmitting agencies. 4. 
+ The reference implementation software and, where equipped to do so, the national back-end system shall programmatically collect the data referred to in points (a), (b) and (d) of paragraph 3 and transmit them to the Commission on a regular basis.
+Article 35 - Evaluation
+1.
+
+No later than five years after the date of application of Article 5 in accordance with Article 37(2), the Commission shall carry out an evaluation of this Regulation and present a report on its main findings to the European Parliament, the Council and the European Economic and Social Committee, accompanied, where appropriate, by a legislative proposal. 2. 
+ Member States shall provide the Commission with the information necessary for the preparation of the report referred to in paragraph 1.
+Article 37 - Entry into force and application
+1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 July 2022. 2. Articles 5, 8 and 10 shall apply from the first day of the month following the period of three years after the date of entry into force of the implementing acts referred to in Article 25.
+Article 23 - Amendment of Annex I
+The Commission is empowered to adopt delegated acts in accordance with Article 24 to amend Annex I in order to update the forms set out therein or to make technical changes to those forms.
+Article 1 - Scope
+1. 
+ This Regulation applies to the cross-border service of judicial and extrajudicial documents in civil or commercial matters.
+
+It does not apply, in particular, to revenue, customs or administrative matters or to the liability of a Member State for actions or omissions in the exercise of state authority (acta iure imperii). 2. 
+ With the exception of Article 7, this Regulation does not apply where the address of the person to be served with a document is not known. 3. 
+ This Regulation does not apply to the service of a document in the forum Member State on a representative authorised by the person to be served, regardless of the place of residence of that person.
+Article 30 - Legal aid
+This Regulation shall not affect the application of Article 24 of the Hague Convention of 1 March 1954 on Civil Procedure or Article 13 of the Convention on International Access to Justice of 25 October 1980 between the Member States party to those Conventions.
+Article 26 - Committee procedure
+1. 
+ The Commission shall be assisted by a committee.
+
+That committee shall be a committee within the meaning of Regulation (EU) No 182/2011. 2. 
+ Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+Article 25 - Adoption of implementing acts by the Commission
+1. 
+ The Commission shall adopt implementing acts establishing the decentralised IT system, setting out the following:
+
+(a) 
+the technical specifications defining the methods of communication by electronic means for the purposes of the decentralised IT system; (b) 
+the technical specifications for communication protocols; (c) 
+the information security objectives and relevant technical measures ensuring minimum information security standards for the processing and communication of information within the decentralised IT system; (d) 
+the minimum availability objectives and possible related technical requirements for the services provided by the decentralised IT system; (e) 
+the establishment of a steering committee comprising representatives of the Member States to ensure the operation and maintenance of the decentralised IT system in order to meet the objectives of this Regulation. 2. 
+ The implementing acts referred to in paragraph 1 of this Article shall be adopted by 23 March 2022 in accordance with the examination procedure referred to in Article 26(2).
+Article 24 - Exercise of the delegation
+1. 
+ The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2. 
+ The power to adopt delegated acts referred to in Article 23 shall be conferred on the Commission for a period of five years from 22 December 2020. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period. 3. 
+ The delegation of power referred to in Article 23 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force. 4. 
+ Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making. 5. 
+ As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council. 6. 
+ A delegated act adopted pursuant to Article 23 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+Article 23 - Amendment of Annex I
+The Commission is empowered to adopt delegated acts in accordance with Article 24 to amend Annex I in order to update the forms set out therein or to make technical changes to those forms.
+Article 22 - Defendant not entering an appearance
+1. 
+ Where a document instituting proceedings or its equivalent has had to be transmitted to another Member State for the purpose of service under this Regulation and the defendant has not entered an appearance, judgment shall not be given until it is established that the service or the delivery of the document was effected in sufficient time to enable the defendant to enter a defence and that:
+
+(a) 
+the document was served by a method prescribed by the law of the Member State addressed for the service of documents in domestic actions upon persons who are within its territory; or
+(b) 
+the document was in fact delivered to the defendant or to the defendant's residence by another method provided for by this Regulation. 2. 
+ Each Member State may communicate to the Commission the fact that a court, notwithstanding paragraph 1, may give judgment even if no certificate of service or delivery of the document instituting proceedings or its equivalent has been received, provided that all the following conditions are fulfilled: (a) 
+the document was transmitted by one of the methods provided for in this Regulation; (b) 
+a period considered adequate by the court in the particular case, which shall not be less than six months, has elapsed since the date of the transmission of the document; (c) 
+no certificate of any kind has been received, even though every reasonable effort has been made to obtain one through the competent authorities or bodies of the Member State addressed. That information shall be made available through the European e-Justice Portal. 3. 
+ Notwithstanding paragraphs 1 and 2, in justified cases of urgency courts may order any provisional or protective measures. 4. 
+ Where a document instituting proceedings or its equivalent has had to be transmitted to another Member State for the purpose of service in accordance with this Regulation and a judgment has been given against a defendant who has not entered an appearance, the judge shall have the power to relieve the defendant from the effects of the expiry of the time for appeal from the judgment where both of the following conditions are fulfilled: (a) 
+the defendant, without any fault on the defendant's part, did not have knowledge of the document in sufficient time to enter a defence or did not have knowledge of the judgment in sufficient time to appeal; and
+(b) 
+the defendant has raised a prima facie defence to the action on the merits. An application for such relief may be filed only within a reasonable time after the defendant has knowledge of the judgment. Each Member State may communicate to the Commission the fact that an application for relief will not be admissible if it is filed after the expiry of a deadline set by the Member State in that communication. That deadline shall in no case be sooner than one year following the date of the judgment. That information shall be made available through the European e-Justice Portal. 5. 
+ Paragraph 4 shall not apply to judgments concerning the status or capacity of persons.
+Article 3 - Transmitting and receiving agencies
+1. 
+ Each Member State shall designate the public officers, authorities or other persons competent for the transmission of judicial or extrajudicial documents to be served in another Member State ('transmitting agencies').
+
+2. 
+ Each Member State shall designate the public officers, authorities or other persons competent for the receipt of judicial or extrajudicial documents from another Member State ('receiving agencies'). 3. 
+ Member States may designate separate transmitting agencies and receiving agencies or designate one or more agencies to perform both functions. Federal Member States, Member States in which several legal systems apply and Member States with autonomous territorial units may designate more than one such agency. The designation shall have effect for a period of five years and may be renewed for further five-year periods. 4. 
+ Each Member State shall provide the Commission with the following information: (a) 
+the names and addresses of the receiving agencies referred to in paragraphs 2 and 3; (b) 
+the geographical areas in which those receiving agencies have jurisdiction; (c) 
+the means by which those receiving agencies are able to receive documents where Article 5(4) applies; and
+(d) 
+the languages that may be used for the completion of the forms set out in Annex I. Member States shall notify the Commission of any subsequent modification of the information referred to in the first subparagraph.
+Article 2 - Definitions
+For the purposes of this Regulation, the following definitions apply:
+
+(1) 
+'forum Member State' means the Member State in which the judicial proceedings take place; (2) 
+'decentralised IT system' means a network of national IT systems and interoperable access points, operating under the individual responsibility and management of each Member State, that enables the secure and reliable cross-border exchange of information between the national IT systems.
+Article 1 - Scope
+1. This Regulation applies to the cross-border service of judicial and extrajudicial documents in civil or commercial matters.
+
+It does not apply, in particular, to revenue, customs or administrative matters or to the liability of a Member State for actions or omissions in the exercise of state authority (acta iure imperii). 2. With the exception of Article 7, this Regulation does not apply where the address of the person to be served with a document is not known. 3. This Regulation does not apply to the service of a document in the forum Member State on a representative authorised by the person to be served, regardless of the place of residence of that person.
+recital 20
+(20) Where a request for service cannot be fulfilled on the basis of the information or the documents transmitted, where it falls outside the scope of this Regulation, where non-compliance with the formal conditions makes the service impossible, or where it was sent to a receiving agency not having territorial jurisdiction, the receiving agency should undertake the steps provided for in this Regulation without a delay that is unjustified, unreasonable and unnecessary in the light of the particular circumstances, including the means of communication at the disposal of the receiving agency.
+recital 17
+(17) In order to facilitate the transmission and service of documents between Member States, the forms set out in Annex I should be used.
+
+The document to be transmitted should be accompanied by a request drawn up using form A in Annex I. The form should be completed in the official language of the Member State addressed or, if there are several official languages in that Member State, in the official language or one of the official languages of the place where service is to be effected, or in another language which that Member State has indicated it can accept. Each Member State should indicate the official language or languages of the Union other than its own which it can accept.
+recital 13
+(13) In relation to the components of the decentralised IT system which are under the responsibility of the Union, the managing entity should have sufficient resources in order to ensure the proper functioning of that system.
+recital 9
+(9) Efficiency and speed in judicial proceedings in civil matters require that judicial and extrajudicial documents be transmitted directly and by rapid means between local bodies designated by the Member States.
+
+Member States should be able to designate separate transmitting agencies and receiving agencies or to designate one or more agencies to perform both functions for a period of five years. It should, however, be possible to renew that designation every five years.
+Article 3 - Transmitting and receiving agencies
+1. Each Member State shall designate the public officers, authorities or other persons competent for the transmission of judicial or extrajudicial documents to be served in another Member State ('transmitting agencies').
+
+2. Each Member State shall designate the public officers, authorities or other persons competent for the receipt of judicial or extrajudicial documents from another Member State ('receiving agencies'). 3. Member States may designate separate transmitting agencies and receiving agencies or designate one or more agencies to perform both functions. Federal Member States, Member States in which several legal systems apply and Member States with autonomous territorial units may designate more than one such agency. The designation shall have effect for a period of five years and may be renewed for further five-year periods. 4. Each Member State shall provide the Commission with the following information: (a) the names and addresses of the receiving agencies referred to in paragraphs 2 and 3; (b) the geographical areas in which those receiving agencies have jurisdiction; (c) the means by which those receiving agencies are able to receive documents where Article 5(4) applies; and
+(d) the languages that may be used for the completion of the forms set out in Annex I. Member States shall notify the Commission of any subsequent modification of the information referred to in the first subparagraph.
+recital 21
+(21) Speed in transmission requires documents to be served within days of receipt of the document.
+
+The service of documents should be effected as soon as possible, and in any event within one month of their receipt by the receiving agency.
+recital 23
+(23) To ensure that this Regulation is effective, the circumstances in which it is possible to refuse the document to be served should be confined to exceptional situations.
+recital 31
+(31) Efficiency and speed in cross-border judicial proceedings require direct, expedited and secure channels for serving documents on persons in other Member States.
+
+Consequently, it should be possible to effect the service of documents directly by electronic means on an addressee who has a known address for service in another Member State. The conditions for the use of such type of direct electronic service should be such as to ensure that electronic service is effected only by electronic means that are available under the law of the forum Member State for the domestic service of documents and should ensure that there are appropriate safeguards for the protection of the interests of the addressee, including high technical standards and a requirement for express consent by the addressee.
+recital 30
+(30) In line with the established case law of the Court of Justice of the European Union (8), direct service by postal service under this Regulation should be considered to be validly effected, even if the document was not delivered to the addressee in person, where it was served at the addressee's home address on an adult person who is living in the same household as the addressee or who is employed there by the addressee and who has the ability and is willing to accept the document, unless the law of the forum Member State only allows the service of that document on the addressee in person.
+recital 29
+(29) Each Member State should be free to effect the service of documents by postal services on persons residing in another Member State directly by registered letter with acknowledgement of receipt or equivalent.
+
+It should be possible to use a postal service, whether private or public, for the service of documents in different forms of letters, including bundles of letters.
+recital 28
+(28) In order to facilitate access to justice, Member States should lay down a single fixed fee for recourse to a judicial officer or a person competent under the law of the Member State addressed.
+
+That fee should respect the principles of proportionality and non-discrimination. The requirement of a single fixed fee should not preclude the possibility for Member States to set different fees for different types of service, as long as they respect those principles.
+recital 27
+(27) Given the differences between the Member States as regards their rules of procedure, the effective date of service varies from one Member State to another.
+
+In the light of such situations and the possible difficulties that may arise, this Regulation should provide for a system under which the law of the Member State addressed determines the date of service. However, where under the law of a Member State a document has to be served within a particular period, the date to be taken into account with respect to the applicant should be that determined by the law of that Member State. That double date system exists only in a limited number of Member States. If Member States apply that system, they should communicate that information to the Commission, which should make that information available electronically through the European Judicial Network in Civil and Commercial Matters established by Council Decision 2001/470/EC (7) and on the European e-Justice Portal.
+recital 25
+(25) If a translation is attached to the document to be served, it should be certified or otherwise deemed suitable for proceedings in accordance with the law of the Member State of origin.
+
+The translation should be made available to the Member State where service is to take place. The translation of documents into another language for the purpose of ensuring compliance with this Regulation is without prejudice to the ability of the recipient to challenge the correctness of the translation in accordance with the law of the forum Member State.
+recital 24
+(24) In all cases where the document to be served is not in the official language or one of the official languages of the place of service, the receiving agency should inform the addressee in writing using form L in Annex I that the addressee can refuse to accept the document to be served if it is neither in a language which the addressee understands nor in the official language or one of the official languages of the place of service.
+
+This rule should also apply to any subsequent service once the addressee has exercised the right of refusal. The right of refusal should also apply in respect of service by diplomatic agents or consular officers, service by postal services, electronic service and direct service. It should be possible to remedy the service of the refused document by serving a translation of the document on the addressee.
+recital 22
+(22) The receiving agency should continue to take all necessary steps to effect the service of the document even in cases where it has not been possible to effect the service within one month of the receipt of the document, for example, because the defendant was on holiday away from his or her home or was on business away from his or her office.
+
+However, in order to avoid an open-ended obligation for the receiving agency to take steps to effect the service of a document, the transmitting agency should be able to specify a time limit after which service is no longer necessary, using form A in Annex I.
+Article 2 - Definitions
+For the purposes of this Regulation, the following definitions apply:
+
+(1) 
+'forum Member State' means the Member State in which the judicial proceedings take place; (2) 
+'decentralised IT system' means a network of national IT systems and interoperable access points, operating under the individual responsibility and management of each Member State, that enables the secure and reliable cross-border exchange of information between the national IT systems.
+| Regulation (EC) No 1393/2007 of the European Parliament and of the Council of 13 November 2007 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents), and repealing Council Regulation (EC) No 1348/2000 (OJ L 324, 10.12.2007, p. 79). |  |
+|---|---|
+| Council Regulation (EU) No 517/2013 of 13 May 2013 adapting certain regulations and decisions in the fields of free movement of goods, freedom of movement for persons, company law, competition policy, agriculture, food safety, veterinary and phytosanitary policy, transport policy, energy, taxation, statistics, trans-European networks, judiciary and fundamental rights, justice, freedom and security, environment, customs union, external relations, foreign, security and defence policy and institutions, by reason of the accession of the Republic of Croatia (OJ L 158, 10.6.2013, p. 1). | Only amendments to Annexes I and II to Regulation (EC) No 1393/2007 |
+Introduction
+REGULATION (EU) 2020/1784 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ of 25 November 2020
+ on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents)
+(recast)
+(OJ L 405 2.12.2020, p. 40)Amended by:
+
+Official Journal
+ No
+page
+date
+ ►M1
+ REGULATION (EU) 2023/2844 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ of 13 December 2023
+ L 2844
+1
+27.12.2023
+Corrected by: ►C1
+Corrigendum, OJ L 188, 27.7.2023, p. 61 ((EU) 2020/1784)
+ ►C2
+Corrigendum, OJ L 90049, 26.10.2023, p. 1 ((EU) 2020/1784)
+ ►C3
+Corrigendum, OJ L 90073, 2.2.2024, p. 1 ((EU) 2020/1784)
+Article 21 - Transmission and service of extrajudicial documents
+Extrajudicial documents may be transmitted to and served in another Member State in accordance with this Regulation.
+Article 7 - Assistance in address enquiries
+1. 
+ Where the address of the person to be served with the judicial or extrajudicial document in another Member State is not known, that Member State shall provide assistance in determining the address in, at least, one of the following ways:
+
+(a) 
+providing for designated authorities to which transmitting agencies may address requests on the determination of the address of the person to be served; (b) 
+allowing persons from other Member States to submit requests, including electronically, for information about addresses of persons to be served directly to domicile registries or other publicly accessible databases by means of a standard form available on the European e-Justice Portal; or
+(c) 
+providing detailed information, through the European e-Justice Portal, on how to find the addresses of persons to be served. 2. 
+ Each Member State shall provide the Commission with the following information with a view to making it available through the European e-Justice Portal: (a) 
+the means of assistance which the Member State will provide in its territory pursuant to paragraph 1; (b) 
+where applicable, the names and contact details of the authorities referred to in points (a) and (b) of paragraph 1; (c) 
+whether the authorities of the Member State addressed submit, on their own initiative, requests to domicile registries or other databases for information about addresses in cases where the address indicated in the request for service is not correct. Member States shall notify the Commission of any subsequent modification of the information referred to in the first subparagraph.
+Article 6 - Legal effects of electronic documents
+Documents that are transmitted through the decentralised IT system shall not be denied legal effect or considered inadmissible as evidence in the proceedings solely on the grounds that they are in electronic form.
+Article 5 - Means of communication to be used by transmitting agencies, receiving agencies and central bodies
+1. 
+ Documents to be served, requests, confirmations, receipts, certificates and communications carried out on the basis of the forms in Annex I between transmitting agencies and receiving agencies, between those agencies and the central bodies, or between the central bodies of different Member States, shall be transmitted through a secure and reliable decentralised IT system.
+
+That decentralised IT system shall be based on an interoperable solution such as e-CODEX. 2. 
+ The general legal framework for the use of qualified trust services set out in Regulation (EU) No 910/2014 shall apply to the documents to be served, requests, confirmations, receipts, certificates and communications transmitted through the decentralised IT system. 3. 
+ Where the documents to be served, requests, confirmations, receipts, certificates and other communications referred to in paragraph 1 of this Article require or feature a seal or handwritten signature, qualified electronic seals or qualified electronic signatures as defined in Regulation (EU) No 910/2014 may be used instead. 4. 
+ Where transmission in accordance with paragraph 1 is not possible due to the disruption of the decentralised IT system or due to exceptional circumstances, the transmission shall be carried out by the swiftest, most appropriate alternative means, taking into account the need to ensure reliability and security.
+Article 4 - Central body
+Each Member State shall designate a central body that is responsible for:
+
+(a) 
+supplying information to the transmitting agencies; (b) 
+seeking solutions to any difficulties which may arise during the transmission of documents for service; (c) 
+forwarding, in exceptional cases, a request for service to the competent receiving agency at the request of a transmitting agency. Federal Member States, Member States in which several legal systems apply and Member States with autonomous territorial units may designate more than one central body.
+Article 3 - Transmitting and receiving agencies
+1. 
+ Each Member State shall designate the public officers, authorities or other persons competent for the transmission of judicial or extrajudicial documents to be served in another Member State ('transmitting agencies').
+
+2. 
+ Each Member State shall designate the public officers, authorities or other persons competent for the receipt of judicial or extrajudicial documents from another Member State ('receiving agencies'). 3. 
+ Member States may designate separate transmitting agencies and receiving agencies or designate one or more agencies to perform both functions. Federal Member States, Member States in which several legal systems apply and Member States with autonomous territorial units may designate more than one such agency. The designation shall have effect for a period of five years and may be renewed for further five-year periods. 4. 
+ Each Member State shall provide the Commission with the following information: (a) 
+the names and addresses of the receiving agencies referred to in paragraphs 2 and 3; (b) 
+the geographical areas in which those receiving agencies have jurisdiction; (c) 
+the means by which those receiving agencies are able to receive documents where Article 5(4) applies; and
+(d) 
+the languages that may be used for the completion of the forms set out in Annex I. Member States shall notify the Commission of any subsequent modification of the information referred to in the first subparagraph.
+| Regulation (EC) No 1393/2007 | This Regulation |
+|---|---|
+| Article 1(1) | Article 1(1) |
+| Article 1(2) | Article 1(2) |
+| Article 1(3) | - |
+| Article 2 | Article 3 |
+| Article 3 | Article 4 |
+| Article 4(1) | Article 8(1) |
+| Article 4(2) | Article 5(1) |
+| Article 4(3) | Article 8(2) |
+| Article 4(4) | Article 8(3) |
+| Article 4(5) | Article 8(4) |
+| Article 5 | Article 9 |
+| Article 6 | Article 10 |
+| Article 7 | Article 11 |
+| Article 8(1) | Article 12(1), (2) and (3) |
+| Article 8(2) | Article 12(4) |
+| Article 8(3) | Article 12(5) |
+| Article 8(4) | Article 12(6) |
+| Article 8(5) | Article 12(7) |
+| Article 9 | Article 13 |
+| Article 10 | Article 14 |
+| Article 11 | Article 15 |
+| Article 12 | Article 16 |
+| Article 13 | Article 17 |
+| Article 14 | Article 18 |
+| Article 15 | Article 20(1) |
+| Article 16 | Article 21 |
+| Article 17 | Article 23 |
+| Article 18 | Article 26 |
+| Article 19 | Article 22 |
+| Article 20 | Article 29 |
+| Article 21 | Article 30 |
+| Article 22(1) | Article 31(3) |
+| Article 22(2) | Article 31(4) |
+| Article 22(3) | Article 31(5) |
+| Article 22(4) | Article 31(6) |
+| Article 23(1) | Article 33(1) |
+| Article 23(2) | Article 33(3) |
+| Article 23(3) | Article 33(4) |
+| Article 24 | Article 35(1) |
+| Article 25 | Article 36 |
+| Article 26 | Article 37 |
+| Annex I | Annex I |
+| Annex II | Annex I |
+| Annex III | Annex III |
+Article 1 - Scope
+1. 
+ This Regulation applies to the cross-border service of judicial and extrajudicial documents in civil or commercial matters.
+
+It does not apply, in particular, to revenue, customs or administrative matters or to the liability of a Member State for actions or omissions in the exercise of state authority (acta iure imperii). 2. 
+ With the exception of Article 7, this Regulation does not apply where the address of the person to be served with a document is not known. 3. 
+ This Regulation does not apply to the service of a document in the forum Member State on a representative authorised by the person to be served, regardless of the place of residence of that person.
+Article 6 - Legal effects of electronic documents
+Documents that are transmitted through the decentralised IT system shall not be denied legal effect or considered inadmissible as evidence in the proceedings solely on the grounds that they are in electronic form.
+Article 37 - Entry into force and application
+1.
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union. It shall apply from 1 July 2022. 2. 
+ Articles 5, 8 and 10 shall apply from the first day of the month following the period of three years after the date of entry into force of the implementing acts referred to in Article 25.
+Article 33 - Communication, publication and manual
+1.
+
+Member States shall communicate to the Commission the information referred to in Articles 3, 7, 12, 14, 17, 19, 20 and 22. Member States shall communicate to the Commission if their national law requires a document to be served within a particular period as referred to in Articles 12(5) and 13(2). 2. 
+ Member States may notify the Commission if they are in a position to operate the decentralised IT system earlier than required by this Regulation. The Commission shall make such information available electronically, in particular through the European e-Justice Portal. ▼C3
+ 3. 
+ The Commission shall publish the information communicated in accordance with paragraph 1 through appropriate means, including through the European e-Justice Portal. ▼B
+ 4. 
+ The Commission shall draw up and regularly update a manual containing the information referred to in paragraph 1. It shall make the manual available electronically, in particular through the European Judicial Network in Civil and Commercial Matters and on the European e-Justice Portal.
+Article 29 - Relationship with agreements or arrangements between Member States
+1. 
+ This Regulation shall prevail in relation to matters to which it applies over other provisions contained in bilateral or multilateral agreements or arrangements concluded by Member States, and in particular the Hague Convention of 15 November 1965 on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters, in relations between the Member States party thereto.
+
+2. 
+ This Regulation shall not preclude Member States from maintaining or concluding agreements or arrangements to expedite or further simplify the transmission of documents, provided that those agreements or arrangements are compatible with this Regulation. 3. 
+ Member States shall send to the Commission: (a) 
+a copy of any agreements or arrangements referred to in paragraph 2 concluded between the Member States, as well as drafts of any such agreements or arrangements which they intend to adopt; and
+(b) 
+any denunciation of, or amendments to, those agreements or arrangements.
+recital 26
+(26) If the addressee has refused to accept the document and the court or authority seised of the legal proceedings decides upon verification that the refusal was not justified, that court or authority should consider an appropriate way of informing the addressee of that decision in accordance with national law.
+
+For the purposes of verifying whether the refusal was justified the court or authority should take into account all the relevant information on the file in order to determine the language skills of the addressee. Where relevant, when assessing the language skills of the addressee, the court or authority could take into account factual elements, for example documents written by the addressee in the language concerned, whether the addressee's profession involves particular language skills, whether the addressee is a citizen of the forum Member State or whether the addressee previously resided in that Member State for an extended period of time.
+Article 36 - Repeal
+1. 
+ Regulation (EC) No 1393/2007 shall be repealed as from the date of application of this Regulation, with the exception of Articles 4 and 6 of Regulation (EC) No 1393/2007, which shall be repealed as from the date of application of Articles 5, 8 and 10 referred to in Article 37(2) of this Regulation.
+
+2. 
+ References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex III.
+Article 22 - Defendant not entering an appearance
+1. 
+ Where a document instituting proceedings or its equivalent has had to be transmitted to another Member State for the purpose of service under this Regulation and the defendant has not entered an appearance, judgment shall not be given until it is established that the service or the delivery of the document was effected in sufficient time to enable the defendant to enter a defence and that:
+
+(a) 
+the document was served by a method prescribed by the law of the Member State addressed for the service of documents in domestic actions upon persons who are within its territory; or
+(b) 
+the document was in fact delivered to the defendant or to the defendant's residence by another method provided for by this Regulation. 2. 
+ Each Member State may communicate to the Commission the fact that a court, notwithstanding paragraph 1, may give judgment even if no certificate of service or delivery of the document instituting proceedings or its equivalent has been received, provided that all the following conditions are fulfilled: (a) 
+the document was transmitted by one of the methods provided for in this Regulation; (b) 
+a period considered adequate by the court in the particular case, which shall not be less than six months, has elapsed since the date of the transmission of the document; (c) 
+no certificate of any kind has been received, even though every reasonable effort has been made to obtain one through the competent authorities or bodies of the Member State addressed. That information shall be made available through the European e-Justice Portal. 3. 
+ Notwithstanding paragraphs 1 and 2, in justified cases of urgency courts may order any provisional or protective measures. 4. 
+ Where a document instituting proceedings or its equivalent has had to be transmitted to another Member State for the purpose of service in accordance with this Regulation and a judgment has been given against a defendant who has not entered an appearance, the judge shall have the power to relieve the defendant from the effects of the expiry of the time for appeal from the judgment where both of the following conditions are fulfilled: (a) 
+the defendant, without any fault on the defendant's part, did not have knowledge of the document in sufficient time to enter a defence or did not have knowledge of the judgment in sufficient time to appeal; and
+(b) 
+the defendant has raised a prima facie defence to the action on the merits. An application for such relief may be filed only within a reasonable time after the defendant has knowledge of the judgment. Each Member State may communicate to the Commission the fact that an application for relief will not be admissible if it is filed after the expiry of a deadline set by the Member State in that communication. That deadline shall in no case be sooner than one year following the date of the judgment. That information shall be made available through the European e-Justice Portal. 5. 
+ Paragraph 4 shall not apply to judgments concerning the status or capacity of persons.
+Article 27 - Reference implementation software
+1. The Commission shall be responsible for the creation, maintenance and future development of reference implementation software which Member States may choose to apply as their back-end system instead of a national IT system.
+
+The creation, maintenance and future development of the reference implementation software shall be financed from the general budget of the Union. 2. The Commission shall provide, maintain and support on a free-of-charge basis implementation of the software components underlying the access points.
+Article 32 - Respect for fundamental rights under Union law
+The fundamental rights and freedoms of all persons involved shall be fully observed and respected in accordance with Union law, in particular the rights to equal access to justice, to non-discrimination and to the protection of personal data and privacy.
+(1) 'forum Member State' means the Member State in which the judicial proceedings take place;
+Article 34 - Monitoring
+1.
+
+By 2 July 2023, the Commission shall establish a detailed programme for monitoring the outputs, results and impact of this Regulation. 2. The monitoring programme shall specify the action to be taken by the Commission and by the Member States to monitor the outputs, results and impact of this Regulation. It shall set out when the data referred to in paragraph 3 are to be collected for the first time, which shall be at the latest 2 July 2026, and at what further intervals those data are to be collected. 3. Member States shall provide the Commission with the following data necessary for the purposes of monitoring, where available: (a) the number of requests for the service of documents transmitted in accordance with Article 8; (b) the number of requests for the service of documents executed in accordance with Article 11; (c) the number of cases in which the request for the service of documents was transmitted by means other than through the decentralised IT system in accordance with Article 5(4); (d) the number of received certificates of non-service of documents; (e) the number of refusals of documents for language reasons received by the transmitting agencies. 4. The reference implementation software and, where equipped to do so, the national back-end system shall programmatically collect the data referred to in points (a), (b) and (d) of paragraph 3 and transmit them to the Commission on a regular basis.
+Article 33 - Communication, publication and manual
+1. Member States shall communicate to the Commission the information referred to in Articles 3, 7, 12, 14, 17, 19, 20 and 22.
+
+Member States shall communicate to the Commission if their national law requires a document to be served within a particular period as referred to in Articles 12(5) and 13(2). 2. Member States may notify the Commission if they are in a position to operate the decentralised IT system earlier than required by this Regulation. The Commission shall make such information available electronically, in particular through the European e-Justice Portal. 3. The Commission shall publish the information communicated in accordance with paragraph 1 in the Official Journal of the European Union, with the exception of the addresses and other contact details of the agencies and of the central bodies and the geographical areas in which they have jurisdiction. 4. The Commission shall draw up and regularly update a manual containing the information referred to in paragraph 1. It shall make the manual available electronically, in particular through the European Judicial Network in Civil and Commercial Matters and on the European e-Justice Portal.
+Article 32 - Respect for fundamental rights under Union law
+The fundamental rights and freedoms of all persons involved shall be fully observed and respected in accordance with Union law, in particular the rights to equal access to justice, to non-discrimination and to the protection of personal data and privacy.
+Article 31 - Protection of information transmitted
+1. Any processing of personal data carried out pursuant to this Regulation, including the exchange or transmission of personal data by the competent authorities, shall be in conformity with Regulation (EU) 2016/679.
+
+Any exchange or transmission of information by competent authorities at Union level shall be undertaken in accordance with Regulation (EU) 2018/1725. Personal data which are not relevant for the handling of a specific case shall be deleted immediately. 2. The competent authority or authorities under national law shall be regarded as controllers within the meaning of Regulation (EU) 2016/679 with respect to personal data processing under this Regulation. 3. Notwithstanding paragraphs 1 and 2, information transmitted under this Regulation shall be used by the receiving agency only for the purpose for which it was transmitted. 4. Receiving agencies shall ensure that such information remains confidential, in accordance with their national law. 5. Paragraphs 3 and 4 shall be without prejudice to national laws enabling data subjects to be informed of the use made of information transmitted under this Regulation. 6. This Regulation shall be without prejudice to Directive 2002/58/EC.
+Article 30 - Legal aid
+This Regulation shall not affect the application of Article 24 of the Hague Convention of 1 March 1954 on Civil Procedure or Article 13 of the Convention on International Access to Justice of 25 October 1980 between the Member States party to those Conventions.
+Article 29 - Relationship with agreements or arrangements between Member States
+1. This Regulation shall prevail in relation to matters to which it applies over other provisions contained in bilateral or multilateral agreements or arrangements concluded by Member States, and in particular the Hague Convention of 15 November 1965 on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters, in relations between the Member States party thereto.
+
+2. This Regulation shall not preclude Member States from maintaining or concluding agreements or arrangements to expedite or further simplify the transmission of documents, provided that those agreements or arrangements are compatible with this Regulation. 3. Member States shall send to the Commission: (a) a copy of any agreements or arrangements referred to in paragraph 2 concluded between the Member States, as well as drafts of any such agreements or arrangements which they intend to adopt; and
+(b) any denunciation of, or amendments to, those agreements or arrangements.
+Article 28 - Costs of the decentralised IT system
+1. Each Member State shall bear the costs of the installation, operation and maintenance of its access points interconnecting the national IT systems in the context of the decentralised IT system.
+
+2. Each Member State shall bear the costs of establishing and adjusting its national IT systems to make them interoperable with the access points and shall bear the costs of administering, operating and maintaining those systems. 3. Paragraphs 1 and 2 shall be without prejudice to the possibility of Member States to apply for grants to support the activities referred to in those paragraphs under the Union's financial programmes.
+Article 36 - Repeal
+1. 
+ Regulation (EC) No 1393/2007 shall be repealed as from the date of application of this Regulation, with the exception of Articles 4 and 6 of Regulation (EC) No 1393/2007, which shall be repealed as from the date of application of Articles 5, 8 and 10 referred to in Article 37(2) of this Regulation.
+
+2. 
+ References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex III.
+Article 26 - Committee procedure
+1. The Commission shall be assisted by a committee.
+
+That committee shall be a committee within the meaning of Regulation (EU) No 182/2011. 2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+Article 25 - Adoption of implementing acts by the Commission
+1. The Commission shall adopt implementing acts establishing the decentralised IT system, setting out the following:
+
+(a) the technical specifications defining the methods of communication by electronic means for the purposes of the decentralised IT system; (b) the technical specifications for communication protocols; (c) the information security objectives and relevant technical measures ensuring minimum information security standards for the processing and communication of information within the decentralised IT system; (d) the minimum availability objectives and possible related technical requirements for the services provided by the decentralised IT system; (e) the establishment of a steering committee comprising representatives of the Member States to ensure the operation and maintenance of the decentralised IT system in order to meet the objectives of this Regulation. 2. The implementing acts referred to in paragraph 1 of this Article shall be adopted by 23 March 2022 in accordance with the examination procedure referred to in Article 26(2).
+Article 24 - Exercise of the delegation
+1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2. The power to adopt delegated acts referred to in Article 23 shall be conferred on the Commission for a period of five years from 22 December 2020. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period. 3. The delegation of power referred to in Article 23 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force. 4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making. 5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council. 6. A delegated act adopted pursuant to Article 23 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+Reference No of the transmitting agency: 1. TRANSMITTING AGENCY
+1.1. Identity: 1.2. Address: 1.2.1. Street and number/PO box: 1.2.2. Place and postcode: 1.2.3. Country: 1.3. Tel.
+1.4. Fax ((*)):
+1.5. Email: 2. RECEIVING AGENCY
+2.1. Identity: 2.2. Address: 2.2.1. Street and number/PO box: 2.2.2. Place and postcode: 2.2.3. Country: 2.3. Tel.
+2.4. Fax ((*)):
+2.5. Email: 3. APPLICANT(S) (2) 
+3.1. Identity: 3.2. Address: 3.2.1. Street and number/PO box: 3.2.2. Place and postcode: 3.2.3. Country: 3.3. Tel. ((*)):
+3.4. Fax ((*)):
+3.5. Email ((*)):
+4. ADDRESSEE
+4.1. Identity: 4.1.1. Date of birth, if available: 4.2. Address
+4.2.1. Street and number/PO box: 4.2.2. Place and postcode: 4.2.3. Country: 4.3. Tel. ((*)):
+4.4. Fax ((*)):
+4.5. Email ((*)):
+4.6. Identification number/social security number/organisation number/or equivalent ((*)):
+4.7. Any other information relating to the addressee ((*)): 5. METHOD OF SERVICE
+5.1. In accordance with the law of the Member State addressed ☐
+5.2. By the following particular method ☐
+5.2.1. If this method is incompatible with the law of the Member State addressed, the document(s) should be served in accordance with the law of that Member State: 5.2.1.1. yes ☐
+5.2.1.2. no ☐
+6. DOCUMENT TO BE SERVED
+6.1. Nature of the document: 6.1.1. judicial ☐
+6.1.1.1. writ of summons ☐
+6.1.1.2. decision/judgment ☐
+6.1.1.3. appeal ☐
+6.1.1.4. other (please specify): 6.1.2. extrajudicial ☐
+6.2. Date or time limit after which service is no longer necessary ((*)):
+… (day) … (month) … (year)
+6.3. Language of document: 6.3.1. original BG ☐, ES ☐, CS ☐, DE ☐, ET ☐, EL ☐, EN ☐, FR ☐, GA ☐, HR ☐, IT ☐, LV ☐, LT ☐, HU ☐, MT ☐, NL ☐, PL ☐, PT ☐, RO ☐, SK ☐, SL ☐, FI ☐, SV ☐, other ☐ (please specify)
+6.3.2. translation ((*)) BG ☐, ES ☐, CS ☐, DE ☐, ET ☐, EL ☐, EN ☐, FR ☐, GA ☐, HR ☐, IT ☐, LV ☐, LT ☐, HU ☐, MT ☐, NL ☐, PL ☐, PT ☐, RO ☐, SK ☐, SL ☐, FI ☐, SV ☐, other ☐ (please specify)
+6.4. Number of enclosures: 7. LANGUAGE OF INFORMATION TO THE ADDRESSEE ABOUT THE RIGHT TO REFUSE THE DOCUMENT
+For the purposes of Article 12(2) of Regulation (EU) 2020/1784, please indicate in which of the following languages, in addition to the language of the Member State addressed, the information is to be provided: 7.1. Official language or one of the official languages of the Member State of origin (3): BG ☐, ES ☐, CZ ☐, DE ☐, ET ☐, EL ☐, EN ☐, FR ☐, GA ☐, HR ☐, IT ☐, LV ☐, LT ☐, HU ☐, MT ☐, NL ☐, PL ☐, PT ☐, RO ☐, SK ☐, SL ☐, FI ☐, SV ☐
+7.2. Official language of another Member State the addressee might understand: BG ☐, ES ☐, CZ ☐, DE ☐, ET ☐, EL ☐, EN ☐, FR ☐, GA ☐, HR ☐, IT ☐, LV ☐, LT ☐, HU ☐, MT ☐, NL ☐, PL ☐, PT ☐, RO ☐, SK ☐, SL ☐, FI ☐, SV ☐
+8. A COPY OF THE DOCUMENT TO BE RETURNED WITH THE CERTIFICATE OF SERVICE (Article 5(4) of Regulation (EU) 2020/1784)
+8.1. Yes (in this case, send two copies of the document to be served) ☐
+8.2. No ☐
+9. REASONS FOR NOT TRANSMITTING THROUGH THE DECENTRALISED IT SYSTEM (Article 5(4) of Regulation (EU) 2020/1784) (4) 
+Electronic transmission was not possible due to: ☐
+disruption of the decentralised IT system
+☐
+exceptional circumstances 1. You are required by Article 11(2) of Regulation (EU) 2020/1784 to take all necessary steps to effect the service of the document as soon as possible, and in any event within one month of its receipt. If it has not been possible for you to effect the service within one month of receipt, you must inform this agency by indicating that fact in item 2 of the certificate of service or non-service of documents. 2. If you cannot fulfil this request for service on the basis of the information or documents transmitted, you are required by Article 10(2) of Regulation (EU) 2020/1784 to contact this agency in order to obtain the missing information or documents using form E in Annex I to Regulation (EU) 2020/1784
+Done at: Date:
+Signature and/or stamp or electronic signature and/or electronic seal: Reference No of the transmitting agency: 1. TRANSMITTING AGENCY
+1.1. Identity: 1.2. Address: 1.2.1. Street and number/PO box: 1.2.2. Place and postcode: 1.2.3. Country: 1.3. Tel. ((*)):
+1.4. Fax ((*)):
+1.5. Email: 2. REQUESTED AUTHORITY
+2.1. Identity: 2.2. Address: 2.2.1. Street and number/PO box: 2.2.2. Place and postcode: 2.2.3. Country: 2.3. Tel. ((*)):
+2.4. Fax ((*)):
+2.5. Email: 3. ADDRESSEE
+3.1. Identity: 3.2. Last known address: 3.2.1. Street and number/PO box: 3.2.2. Place and postcode: 3.2.3. Country: 3.3. Known personal details of the addressee (if natural person), if available: 3.3.1. Name at birth: 3.3.2. Other known name(s):
+3.3.3. Date and place of birth: 3.3.4. Identification number/social security number/or equivalent: 3.3.5. Mother's or father's name at birth: 3.3.6. Other information: 3.4. Known details of the addressee (if legal person), if available: 3.4.1. Registration number or equivalent: 3.4.2. Name(s) of the member(s) of the board/representative: 3.5. Tel. ((*)):
+3.6. Fax ((*)):
+3.7. Email ((*)):
+3.8. Other information, if available: Done at: Date:
+Signature and/or stamp or electronic signature and/or electronic seal: Reference No of the requested authority: Reference No of the transmitting agency: 1. ADDRESSEE
+1.1. Identity: 1.2. Known address: 1.2.1. Street and number/PO box: 1.2.2. Place and postcode: 1.2.3. Country: 1.3. No address could be determined ☐
+1.4. Other information: Done at: Date:
+Signature and/or stamp or electronic signature and/or electronic seal:
+
+| ACKNOWLEDGEMENT OF RECEIPT (Article 10(1) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (11)) |
+|---|
+| 0 |
+| This acknowledgement of receipt should be sent through the decentralised IT system or otherwise as soon as possible after receipt of the document and in any event within seven days of receipt. (12) | Reference No of the transmitting agency: Reference No of the receiving agency: Addressee: 1. DATE OF RECEIPT: Done at: Date:
+Signature and/or stamp or electronic signature and/or electronic seal: Reference No of the transmitting agency: Reference No of the receiving agency: Addressee: 1. The request cannot be executed without the following additional information: 1.1. Addressee's identity ((*)):
+1.2. Date of birth ((*)): 1.3. Identification number/social security number/organisation number/or equivalent ((*)):
+1.4. Other (please specify): 2. The request cannot be executed without the following documents: 2.1. Documents to be served ((*)):
+2.2. Proof of payment ((*)):
+2.3. Other (please specify):
+Done at: Date:
+Signature and/or stamp or electronic signature and/or electronic seal:
+
+| NOTICE OF RETURN OF REQUEST AND DOCUMENT (Article 10(3) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (14) |
+|---|
+| 0 |
+| The request and document must be returned on receipt. | Reference No of the transmitting agency: Reference No of the receiving agency: Addressee: 1. REASON FOR RETURN: 1.1. The request is manifestly outside the scope of the Regulation: 1.1.1. address unknown ☐
+1.1.2. the matter is not civil or commercial ☐
+1.1.3. the service is not from one Member State to another Member State ☐
+1.1.4. other (please specify):
+1.2. Non-compliance with the formal conditions required makes service impossible: 1.2.1. the document is not easily legible ☐
+1.2.2. the language used to complete the form is incorrect ☐
+1.2.3. other (please specify): 1.3. The method of service is incompatible with the law of the Member State addressed (Article 11(1) of Regulation (EU) 2020/1784) ☐
+Done at: Date:
+Signature and/or stamp or electronic signature and/or electronic seal:
+Article 28 - Costs of the decentralised IT system
+1. 
+ Each Member State shall bear the costs of the installation, operation and maintenance of its access points interconnecting the national IT systems in the context of the decentralised IT system.
+
+2. 
+ Each Member State shall bear the costs of establishing and adjusting its national IT systems to make them interoperable with the access points and shall bear the costs of administering, operating and maintaining those systems. 3. 
+ Paragraphs 1 and 2 shall be without prejudice to the possibility of Member States to apply for grants to support the activities referred to in those paragraphs under the Union's financial programmes.
+Article 5 - Means of communication to be used by transmitting agencies, receiving agencies and central bodies
+1. 
+ Documents to be served, requests, confirmations, receipts, certificates and communications carried out on the basis of the forms in Annex I between transmitting agencies and receiving agencies, between those agencies and the central bodies, or between the central bodies of different Member States, shall be transmitted through a secure and reliable decentralised IT system.
+
+That decentralised IT system shall be based on an interoperable solution such as e-CODEX. 2. 
+ The general legal framework for the use of qualified trust services set out in Regulation (EU) No 910/2014 shall apply to the documents to be served, requests, confirmations, receipts, certificates and communications transmitted through the decentralised IT system. 3. 
+ Where the documents to be served, requests, confirmations, receipts, certificates and other communications referred to in paragraph 1 of this Article require or feature a seal or handwritten signature, qualified electronic seals or qualified electronic signatures as defined in Regulation (EU) No 910/2014 may be used instead. 4. 
+ Where transmission in accordance with paragraph 1 is not possible due to the disruption of the decentralised IT system or due to exceptional circumstances, the transmission shall be carried out by the swiftest, most appropriate alternative means, taking into account the need to ensure reliability and security.
+recital 37
+(37) In calculating the periods and time limits provided for in this Regulation, Council Regulation (EEC, Euratom) No 1182/71 (9) should apply.
+Introduction
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 81(2) thereof,
+Having regard to the proposal from the European Commission,
+After transmission of the draft legislative act to the national parliaments,
+Having regard to the opinion of the European Economic and Social Committee (1),
+After consulting the Committee of the Regions,
+Acting in accordance with the ordinary legislative procedure (2),
+Whereas:
+
+(1) Regulation (EC) No 1393/2007 of the European Parliament and of the Council (3) has been amended before. Since further substantial amendments are to be made, that Regulation should be recast in the interests of clarity. (2) The Union has set itself the objective of maintaining and developing the Union as an area of freedom, security and justice in which the free movement of persons is ensured. To establish such an area, the Union is to adopt, among other measures, measures relating to judicial cooperation in civil matters needed for the proper functioning of the internal market. (3) For the purposes of the proper functioning of the internal market and the development of an area of civil justice in the Union, it is necessary to further improve and expedite the transmission and service of judicial and extrajudicial documents between the Member States in civil and commercial matters, while ensuring a high level of security and protection in the transmission of such documents, safeguarding the rights of addressees and protecting privacy and personal data. This Regulation seeks to improve the effectiveness and speed of judicial procedures by simplifying and streamlining them as regards the service of judicial and extrajudicial documents in the Union, while at the same time helping to reduce delays and costs for individuals and businesses. Providing greater legal certainty and simpler, streamlined and digitalised procedures, will encourage individuals and businesses to engage in cross-border transactions, thereby boosting trade within the Union and thus the functioning of the internal market. (4) This Regulation lays down rules on the service of judicial and extrajudicial documents in the Member States in civil or commercial matters. It should not apply to the service of judicial and extrajudicial documents in other matters such as revenue, customs or administrative matters. (5) Cross-border service should be construed as service from one Member State to another Member State. (6) This Regulation should not apply to the service of documents on a party's authorised representative in the forum Member State, but should apply to the service of any document on a party in another Member State if such service is required under the law of the forum Member State, irrespective of whether the document has been served on the party's representative. (7) Where an addressee has no known address for service in the forum Member State, but has one or more known addresses for service in one or more other Member States, the document should be transmitted to such other Member State for service under this Regulation. This situation should not be construed as domestic service within the forum Member State. In particular, the document should not be served on the addressee by a fictitious method of service, such as service by posting an announcement on the court notice board or by depositing the document in the court file. (8) For the purposes of this Regulation, the term 'extrajudicial documents' should be understood to include documents that have been drawn up or certified by a public authority or official, and other documents of which the formal transmission to an addressee residing in another Member State is necessary for the purposes of exercising, proving or safeguarding a right or a claim in civil or commercial law. The term 'extrajudicial documents' should not be understood to include documents issued by administrative authorities for the purposes of administrative proceedings. (9) Efficiency and speed in judicial proceedings in civil matters require that judicial and extrajudicial documents be transmitted directly and by rapid means between local bodies designated by the Member States. Member States should be able to designate separate transmitting agencies and receiving agencies or to designate one or more agencies to perform both functions for a period of five years. It should, however, be possible to renew that designation every five years. (10) In order to ensure the speedy transmission of documents between Member States for the purposes of service, any appropriate modern communications technology should be used, provided that certain conditions as to the integrity and reliability of the document received are met. Therefore, as a rule, all communication and exchange of documents between the agencies and bodies designated by the Member States should be carried out through a secure and reliable decentralised IT system comprising national IT systems that are interconnected and technically interoperable, for example, and without prejudice to further technological progress, based on e-CODEX. Accordingly, a decentralised IT system should be established for data exchanges under this Regulation. The decentralised nature of that IT system would enable data exchanges exclusively between one Member State and another, without any of the Union institutions being involved in those exchanges. (11) Without prejudice to possible future technological progress, the secure decentralised IT system and its components should not be understood to necessarily constitute a qualified electronic registered delivery service as defined by Regulation (EU) No 910/2014 of the European Parliament and of the Council (4). (12) The Commission should be responsible for the creation, maintenance and future development of reference implementation software which Member States should be able to use instead of a national IT system, in accordance with the principles of data protection by design and by default. The Commission should design, develop and maintain the reference implementation software in compliance with the data protection requirements and principles laid down in Regulations (EU) 2018/1725 (5) and (EU) 2016/679 (6) of the European Parliament and of the Council, in particular the principles of data protection by design and by default. The reference implementation software should also include appropriate technical measures and enable the organisational measures necessary for ensuring a level of security and interoperability which is appropriate for the exchange of information in the context of service of documents. (13) In relation to the components of the decentralised IT system which are under the responsibility of the Union, the managing entity should have sufficient resources in order to ensure the proper functioning of that system. (14) The competent authority or authorities under national law should be responsible as controllers within the meaning of Regulation (EU) 2016/679 in relation to the processing of personal data that they carry out under this Regulation for the transmission of documents between Member States. (15) Transmission through the decentralised IT system could become impossible due to a disruption of the system. Other means of communication could be more appropriate also in exceptional circumstances, which could include situations in which converting voluminous documentation into electronic form would impose a disproportionate administrative burden on the transmitting agency or whereby the original document is needed in paper format to assess its authenticity. Where the decentralised IT system is not used, transmission should be carried out by the most appropriate alternative means.
+Article 23 - Amendment of Annex I
+The Commission is empowered to adopt delegated acts in accordance with Article 24 to amend Annex I in order to update the forms set out therein or to make technical changes to those forms.
+Article 24 - Exercise of the delegation
+1. 
+ The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2. 
+ The power to adopt delegated acts referred to in Article 23 shall be conferred on the Commission for a period of five years from 22 December 2020. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period. 3. 
+ The delegation of power referred to in Article 23 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force. 4. 
+ Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making. 5. 
+ As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council. 6. 
+ A delegated act adopted pursuant to Article 23 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+| Regulation (EC) No 1393/2007 | This Regulation |
+|---|---|
+| Article 1(1) | Article 1(1) |
+| Article 1(2) | Article 1(2) |
+| Article 1(3) | - |
+| Article 2 | Article 3 |
+| Article 3 | Article 4 |
+| Article 4(1) | Article 8(1) |
+| Article 4(2) | Article 5(1) |
+| Article 4(3) | Article 8(2) |
+| Article 4(4) | Article 8(3) |
+| Article 4(5) | Article 8(4) |
+| Article 5 | Article 9 |
+| Article 6 | Article 10 |
+| Article 7 | Article 11 |
+| Article 8(1) | Article 12(1), (2) and (3) |
+| Article 8(2) | Article 12(4) |
+| Article 8(3) | Article 12(5) |
+| Article 8(4) | Article 12(6) |
+| Article 8(5) | Article 12(7) |
+| Article 9 | Article 13 |
+| Article 10 | Article 14 |
+| Article 11 | Article 15 |
+| Article 12 | Article 16 |
+| Article 13 | Article 17 |
+| Article 14 | Article 18 |
+| Article 15 | Article 20(1) |
+| Article 16 | Article 21 |
+| Article 17 | Article 23 |
+| Article 18 | Article 26 |
+| Article 19 | Article 22 |
+| Article 20 | Article 29 |
+| Article 21 | Article 30 |
+| Article 22(1) | Article 31(3) |
+| Article 22(2) | Article 31(4) |
+| Article 22(3) | Article 31(5) |
+| Article 22(4) | Article 31(6) |
+| Article 23(1) | Article 33(1) |
+| Article 23(2) | Article 33(3) |
+| Article 23(3) | Article 33(4) |
+| Article 24 | Article 35(1) |
+| Article 25 | Article 36 |
+| Article 26 | Article 37 |
+| Annex I | Annex I |
+| Annex II | Annex I |
+| Annex III | Annex III |
+Article 25 - Adoption of implementing acts by the Commission
+1. 
+ The Commission shall adopt implementing acts establishing the decentralised IT system, setting out the following:
+
+(a) 
+the technical specifications defining the methods of communication by electronic means for the purposes of the decentralised IT system; (b) 
+the technical specifications for communication protocols; (c) 
+the information security objectives and relevant technical measures ensuring minimum information security standards for the processing and communication of information within the decentralised IT system; (d) 
+the minimum availability objectives and possible related technical requirements for the services provided by the decentralised IT system; (e) 
+the establishment of a steering committee comprising representatives of the Member States to ensure the operation and maintenance of the decentralised IT system in order to meet the objectives of this Regulation. 2. 
+ The implementing acts referred to in paragraph 1 of this Article shall be adopted by 23 March 2022 in accordance with the examination procedure referred to in Article 26(2).
+Article 26 - Committee procedure
+1. 
+ The Commission shall be assisted by a committee.
+
+That committee shall be a committee within the meaning of Regulation (EU) No 182/2011. 2. 
+ Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+| Regulation (EC) No 1393/2007 of the European Parliament and of the Council of 13 November 2007 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents), and repealing Council Regulation (EC) No 1348/2000 (OJ L 324, 10.12.2007, p. 79). |  |
+|---|---|
+| Council Regulation (EU) No 517/2013 of 13 May 2013 adapting certain regulations and decisions in the fields of free movement of goods, freedom of movement for persons, company law, competition policy, agriculture, food safety, veterinary and phytosanitary policy, transport policy, energy, taxation, statistics, trans-European networks, judiciary and fundamental rights, justice, freedom and security, environment, customs union, external relations, foreign, security and defence policy and institutions, by reason of the accession of the Republic of Croatia (OJ L 158, 10.6.2013, p. 1). | Only amendments to Annexes I and II to Regulation (EC) No 1393/2007 |
+Article 27 - Reference implementation software
+1. 
+ The Commission shall be responsible for the creation, maintenance and future development of reference implementation software which Member States may choose to apply as their back-end system instead of a national IT system.
+
+The creation, maintenance and future development of the reference implementation software shall be financed from the general budget of the Union. 2. 
+ The Commission shall provide, maintain and support on a free-of-charge basis implementation of the software components underlying the access points.
+Article 28 - Costs of the decentralised IT system
+1. 
+ Each Member State shall bear the costs of the installation, operation and maintenance of its access points interconnecting the national IT systems in the context of the decentralised IT system.
+
+2. 
+ Each Member State shall bear the costs of establishing and adjusting its national IT systems to make them interoperable with the access points and shall bear the costs of administering, operating and maintaining those systems. 3. 
+ Paragraphs 1 and 2 shall be without prejudice to the possibility of Member States to apply for grants to support the activities referred to in those paragraphs under the Union's financial programmes.
+Article 29 - Relationship with agreements or arrangements between Member States
+1. 
+ This Regulation shall prevail in relation to matters to which it applies over other provisions contained in bilateral or multilateral agreements or arrangements concluded by Member States, and in particular the Hague Convention of 15 November 1965 on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters, in relations between the Member States party thereto.
+
+2. 
+ This Regulation shall not preclude Member States from maintaining or concluding agreements or arrangements to expedite or further simplify the transmission of documents, provided that those agreements or arrangements are compatible with this Regulation. 3. 
+ Member States shall send to the Commission: (a) 
+a copy of any agreements or arrangements referred to in paragraph 2 concluded between the Member States, as well as drafts of any such agreements or arrangements which they intend to adopt; and
+(b) 
+any denunciation of, or amendments to, those agreements or arrangements.
+Article 30 - Legal aid
+This Regulation shall not affect the application of Article 24 of the Hague Convention of 1 March 1954 on Civil Procedure or Article 13 of the Convention on International Access to Justice of 25 October 1980 between the Member States party to those Conventions.
+Article 31 - Protection of information transmitted
+1.
+
+Any processing of personal data carried out pursuant to this Regulation, including the exchange or transmission of personal data by the competent authorities, shall be in conformity with Regulation (EU) 2016/679. Any exchange or transmission of information by competent authorities at Union level shall be undertaken in accordance with Regulation (EU) 2018/1725. Personal data which are not relevant for the handling of a specific case shall be deleted immediately. 2. 
+ The competent authority or authorities under national law shall be regarded as controllers within the meaning of Regulation (EU) 2016/679 with respect to personal data processing under this Regulation. 3. 
+ Notwithstanding paragraphs 1 and 2, information transmitted under this Regulation shall be used by the receiving agency only for the purpose for which it was transmitted. 4. 
+ Receiving agencies shall ensure that such information remains confidential, in accordance with their national law. 5. 
+ Paragraphs 3 and 4 shall be without prejudice to national laws enabling data subjects to be informed of the use made of information transmitted under this Regulation. 6. 
+ This Regulation shall be without prejudice to Directive 2002/58/EC.
+Article 21 - Transmission and service of extrajudicial documents
+Extrajudicial documents may be transmitted to and served in another Member State in accordance with this Regulation.
+Article 32 - Respect for fundamental rights under Union law
+The fundamental rights and freedoms of all persons involved shall be fully observed and respected in accordance with Union law, in particular the rights to equal access to justice, to non-discrimination and to the protection of personal data and privacy.
+Article 33 - Communication, publication and manual
+1.
+
+Member States shall communicate to the Commission the information referred to in Articles 3, 7, 12, 14, 17, 19, 20 and 22. Member States shall communicate to the Commission if their national law requires a document to be served within a particular period as referred to in Articles 12(5) and 13(2). 2. 
+ Member States may notify the Commission if they are in a position to operate the decentralised IT system earlier than required by this Regulation. The Commission shall make such information available electronically, in particular through the European e-Justice Portal. ▼C3
+ 3. 
+ The Commission shall publish the information communicated in accordance with paragraph 1 through appropriate means, including through the European e-Justice Portal. ▼B
+ 4. 
+ The Commission shall draw up and regularly update a manual containing the information referred to in paragraph 1. It shall make the manual available electronically, in particular through the European Judicial Network in Civil and Commercial Matters and on the European e-Justice Portal.
+recital 48
+(48) In accordance with Articles 1 and 2 of Protocol No 22 on the position of Denmark, annexed to the Treaty on European Union and to the Treaty on the Functioning of the European Union, Denmark is not taking part in the adoption of this Regulation and is not bound by it or subject to its application,
+recital 45
+(45) The European Data Protection Supervisor was consulted in accordance with Article 42(1) of Regulation (EU) 2018/1725 and delivered an opinion on 13 September 2019 (13).
+recital 41
+(41) The fundamental rights and freedoms of all persons involved should be fully observed and respected in accordance with Union law, in particular the rights to equal access to justice, to non-discrimination and to the protection of personal data and privacy.
+Article 37 - Entry into force and application
+1.
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union. It shall apply from 1 July 2022. 2. 
+ Articles 5, 8 and 10 shall apply from the first day of the month following the period of three years after the date of entry into force of the implementing acts referred to in Article 25. ▼M1
+ 3. 
+ Article 19a shall apply from the first day of the month following the period of two years from the date of entry into force of the implementing acts referred to in Article 10(3)(a) of Regulation (EU) 2023/2844. ▼B
+recital 33
+(33) The addressee could be served electronically without the use of qualified electronic registered delivery services within the meaning of Regulation (EU) No 910/2014, provided that the addressee has given prior express consent to the court or authority seised of the proceedings or to the party responsible for service in those proceedings to use email sent to a specified email address in the course of those proceedings, provided that proof of receipt of the document by the addressee is received.
+
+The addressee should confirm receipt of the document by signing and returning an acknowledgement of receipt or by returning an email from the email address furnished by the addressee for service. The acknowledgement of receipt could also be signed electronically. In order to guarantee the security of transmission, Member States could specify additional conditions under which they will accept electronic service by email where their law sets stricter conditions in respect of service by email or where their law does not allow such service by email. Such conditions could address issues such as the identification of the sender and the recipient, the integrity of the documents sent and the protection of the transmission against outside interference.
+Where the decentralised IT system is not used, transmission should be carried out by the most appropriate alternative means. Such alternative means should entail, inter alia, transmission being performed as swiftly as possible and in a secure manner by other secure electronic means or by postal service. (16) In order to enhance electronic cross-border transmission of documents through the decentralised IT system, such documents should not be denied legal effect and should not be considered inadmissible as evidence in the proceedings solely on the grounds that they are in electronic form. However, that principle should be without prejudice to the assessment of the legal effects or the admissibility of such documents as evidence in accordance with national law. It should also be without prejudice to national law regarding the conversion of documents. (17) In order to facilitate the transmission and service of documents between Member States, the forms set out in Annex I should be used. The document to be transmitted should be accompanied by a request drawn up using form A in Annex I. The form should be completed in the official language of the Member State addressed or, if there are several official languages in that Member State, in the official language or one of the official languages of the place where service is to be effected, or in another language which that Member State has indicated it can accept. Each Member State should indicate the official language or languages of the Union other than its own which it can accept. (18) An acknowledgment of receipt using form D in Annex I should be sent automatically to the transmitting agency through the decentralised IT system or by other means, as soon as possible and in any event within seven days of receipt of the document. (19) When it receives a certificate of non-service of documents, it is important for the transmitting agency to know whether the authorities of the Member State addressed have submitted requests to domicile registries or other databases, where such registries or databases exist, for a search for a new address for the person to be served. Therefore, Member States should inform the Commission if their authorities make such requests on their own initiative in cases where the address indicated in the request for service is not correct. However, this Regulation should not impose an obligation on the authorities of the Member States to make such requests. (20) Where a request for service cannot be fulfilled on the basis of the information or the documents transmitted, where it falls outside the scope of this Regulation, where non-compliance with the formal conditions makes the service impossible, or where it was sent to a receiving agency not having territorial jurisdiction, the receiving agency should undertake the steps provided for in this Regulation without a delay that is unjustified, unreasonable and unnecessary in the light of the particular circumstances, including the means of communication at the disposal of the receiving agency. (21) Speed in transmission requires documents to be served within days of receipt of the document. The service of documents should be effected as soon as possible, and in any event within one month of their receipt by the receiving agency. (22) The receiving agency should continue to take all necessary steps to effect the service of the document even in cases where it has not been possible to effect the service within one month of the receipt of the document, for example, because the defendant was on holiday away from his or her home or was on business away from his or her office. However, in order to avoid an open-ended obligation for the receiving agency to take steps to effect the service of a document, the transmitting agency should be able to specify a time limit after which service is no longer necessary, using form A in Annex I. (23) To ensure that this Regulation is effective, the circumstances in which it is possible to refuse the document to be served should be confined to exceptional situations. (24) In all cases where the document to be served is not in the official language or one of the official languages of the place of service, the receiving agency should inform the addressee in writing using form L in Annex I that the addressee can refuse to accept the document to be served if it is neither in a language which the addressee understands nor in the official language or one of the official languages of the place of service. This rule should also apply to any subsequent service once the addressee has exercised the right of refusal. The right of refusal should also apply in respect of service by diplomatic agents or consular officers, service by postal services, electronic service and direct service. It should be possible to remedy the service of the refused document by serving a translation of the document on the addressee. (25) If a translation is attached to the document to be served, it should be certified or otherwise deemed suitable for proceedings in accordance with the law of the Member State of origin. The translation should be made available to the Member State where service is to take place. The translation of documents into another language for the purpose of ensuring compliance with this Regulation is without prejudice to the ability of the recipient to challenge the correctness of the translation in accordance with the law of the forum Member State. (26) If the addressee has refused to accept the document and the court or authority seised of the legal proceedings decides upon verification that the refusal was not justified, that court or authority should consider an appropriate way of informing the addressee of that decision in accordance with national law. For the purposes of verifying whether the refusal was justified the court or authority should take into account all the relevant information on the file in order to determine the language skills of the addressee. Where relevant, when assessing the language skills of the addressee, the court or authority could take into account factual elements, for example documents written by the addressee in the language concerned, whether the addressee's profession involves particular language skills, whether the addressee is a citizen of the forum Member State or whether the addressee previously resided in that Member State for an extended period of time. (27) Given the differences between the Member States as regards their rules of procedure, the effective date of service varies from one Member State to another. In the light of such situations and the possible difficulties that may arise, this Regulation should provide for a system under which the law of the Member State addressed determines the date of service. However, where under the law of a Member State a document has to be served within a particular period, the date to be taken into account with respect to the applicant should be that determined by the law of that Member State. That double date system exists only in a limited number of Member States. If Member States apply that system, they should communicate that information to the Commission, which should make that information available electronically through the European Judicial Network in Civil and Commercial Matters established by Council Decision 2001/470/EC (7) and on the European e-Justice Portal. (28) In order to facilitate access to justice, Member States should lay down a single fixed fee for recourse to a judicial officer or a person competent under the law of the Member State addressed. That fee should respect the principles of proportionality and non-discrimination. The requirement of a single fixed fee should not preclude the possibility for Member States to set different fees for different types of service, as long as they respect those principles.
+| REQUEST FOR ADDITIONAL INFORMATION OR DOCUMENTS FOR THE SERVICE OF DOCUMENTS (Article 10(2) Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1)) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. | Reference No of the transmitting agency:Reference No of the receiving agency:Addressee: 1. 
+ The request cannot be executed without the following additional information: 1.1. Addressee's identity (
+9
+):
+1.2. 
+Date of birth (9) :
+1.3. 
+Identification number/social security number/organisation number/or equivalent (9) :
+1.4. 
+Other (please specify): 2. 
+ The request cannot be executed without the following documents: 2.1. Documents to be served (9) :
+2.2. 
+Proof of payment (9) :
+2.3. 
+Other (please specify):
+Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+
+| NOTICE OF RETURN OF REQUEST AND DOCUMENT (Article 10(3) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. |
+| 0 |
+| The request and document must be returned on receipt. | Reference No of the transmitting agency:Reference No of the receiving agency:Addressee:1. REASON FOR RETURN: 1.1. The request is manifestly outside the scope of the Regulation: 1.1.1. address unknown□
+1.1.2. the matter is not civil or commercial□
+1.1.3. the service is not from one Member State to another Member State□
+1.1.4. other (please specify): 1.2. Non-compliance with the formal conditions required makes service impossible:□
+1.2.1. the document is not easily legible□
+1.2.2. the language used to complete the form is incorrect□
+1.2.3. other (please specify): 1.3. The method of service is incompatible with the law of the Member State addressed (Article 11(1) of Regulation (EU) 2020/1784)□
+Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+
+| NOTICE OF RETRANSMISSION OF REQUEST AND DOCUMENT TO THE APPROPRIATE RECEIVING AGENCY (Article 10(4) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1)) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. |
+| 0 |
+| The request and document were forwarded to the following receiving agency, which has territorial jurisdiction to serve it: | Reference No of the transmitting agency:Reference No of the receiving agency:Addressee:1. APPROPRIATE RECEIVING AGENCY
+1.1. Identity: 1.2. Address: 1.2.1. Street and number/PO box: 1.2.2. Place and postcode: 1.2.3. Country: 1.3. Tel.
+1.4. Fax (
+10
+):
+1.5. 
+Email: Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+
+| ACKNOWLEDGMENT OF RECEIPT BY THE APPROPRIATE RECEIVING AGENCY HAVING TERRITORIAL JURISDICTION TO THE TRANSMITTING AGENCY (Article 10(4) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. |
+| 0 |
+| This acknowledgment of receipt should be sent through the decentralised IT system or otherwise as soon as possible after receipt of the document and in any event within seven days of receipt. (1) |
+| (1) The obligation to send the acknowledgement through the decentralised IT system only applies from the date of application of the decentralised IT system in accordance with Article 37(2) of Regulation (EU) 2020/1784. | Reference No of the transmitting agency:Reference No of the receiving agency:Addressee:DATE OF RECEIPT:Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+
+| REQUEST FOR INFORMATION ON SERVICE OR NON-SERVICE OF DOCUMENTS (Article 11(2) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1)) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. |
+| 0 |
+| Service shall be effected as soon as possible. If it has not been possible to effect service within one month of receipt, the receiving agency shall inform the transmitting agency. | Reference No of the transmitting agency:Reference No of the receiving agency (if available):1. THE REQUEST WAS SENT BUT NO INFORMATION ON SERVICE OR NON-SERVICE HAS BEEN RECEIVED
+1.1. The request was sent□
+date:…
+1.2. The acknowledgement of receipt was received□
+date:…
+1.3. Other information was received□
+2. TRANSMITTING AGENCY
+2.1. Identity: Items 2.2 to 2.6 are optional when a copy of the request for service of documents is attached: 2.2. Address: 2.2.1. Street and number/PO box: 2.2.2. Place and postcode: 2.3. Country: 2.4. Tel.
+2.5. Fax (
+12
+):
+2.6. 
+Email: 3. RECEIVING AGENCY
+3.1. Identity: These items are optional when a copy of the request for service of documents is attached: 3.2. Address: 3.2.1. Street and number/PO box: 3.2.2. Place and postcode: 3.3. Country: 3.4. Tel.
+3.5. Fax (12) :
+3.6. 
+Email: 4. ADDRESSEE
+4.1. Identity: 4.1.1. Date of birth, if available: These items are optional when a copy of the request for service of documents is attached: 4.2. Address: 4.2.1. Street and number/PO box: 4.2.2. Place and postcode: 4.2.3. Country: 4.3. Tel. (12) :
+4.4. 
+Fax (12) :
+4.5. 
+Email (12) :
+4.6. 
+Identification number/social security number/organisation number/or equivalent (12) :
+4.7. 
+Any other information relating to the addressee (12) :
+Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+
+| REPLY TO REQUEST FOR INFORMATION ON SERVICE OR NON-SERVICE OF DOCUMENTS (Article 11(2) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. | ▼C1
+Reference No of the transmitting agency:Reference No of the receiving agency: ▼B
+Addressee:1. INFORMATION ON STATUS OF SERVICE OF DOCUMENT
+1.1. The request was not received□
+1.2. The request cannot be executed within one month of receipt for the following reasons: 1.2.1. Determination of current address of addressee is in progress□
+1.2.2. Service is in progress - documents were sent to the addressee, however their delivery has not yet been confirmed□
+1.2.3. Service is in progress - documents were sent to the addressee, however the deadline for refusal has not expired□
+1.2.4. All options for service have not yet been exhausted□
+1.2.5. Service has already been executed, see copy of the certificate attached□
+1.2.6. Request replied to on (date). Reply attached□
+1.2.7. Request for additional information or document is pending□
+1.2.8. Other□
+1.3. It is estimated that the request will be executed by …
+Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+
+| CERTIFICATE OF SERVICE OR NON-SERVICE OF DOCUMENTS (Articles 11(2), 12(4) and 14 of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1)) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. |
+| 0 |
+| Service shall be effected as soon as possible. If it has not been possible to effect service within one month of receipt, the receiving agency shall inform the transmitting agency (Article 11(2) of Regulation (EU) 2020/1784) |
+
+Reference No of the transmitting agency:Reference No of the receiving agency:Addressee:1.
+(2) 'decentralised IT system' means a network of national IT systems and interoperable access points, operating under the individual responsibility and management of each Member State, that enables the secure and reliable cross-border exchange of information between the national IT systems.
+| REQUEST FOR ADDITIONAL INFORMATION OR DOCUMENTS FOR THE SERVICE OF DOCUMENTS (Article 10(2) Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1)) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. | Reference No of the transmitting agency:Reference No of the receiving agency:Addressee: 1. 
+ The request cannot be executed without the following additional information: 1.1. Addressee's identity (
+8
+):
+1.2. 
+Date of birth (8) :
+1.3. 
+Identification number/social security number/organisation number/or equivalent (8) :
+1.4. 
+Other (please specify): 2. 
+ The request cannot be executed without the following documents: 2.1. Documents to be served (8) :
+2.2. 
+Proof of payment (8) :
+2.3. 
+Other (please specify):
+Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+
+| NOTICE OF RETURN OF REQUEST AND DOCUMENT (Article 10(3) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. |
+| 0 |
+| The request and document must be returned on receipt. | Reference No of the transmitting agency:Reference No of the receiving agency:Addressee:1. REASON FOR RETURN: 1.1. The request is manifestly outside the scope of the Regulation: 1.1.1. address unknown□
+1.1.2. the matter is not civil or commercial□
+1.1.3. the service is not from one Member State to another Member State□
+1.1.4. other (please specify): 1.2. Non-compliance with the formal conditions required makes service impossible:□
+1.2.1. the document is not easily legible□
+1.2.2. the language used to complete the form is incorrect□
+1.2.3. other (please specify): 1.3. The method of service is incompatible with the law of the Member State addressed (Article 11(1) of Regulation (EU) 2020/1784)□
+Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+
+| NOTICE OF RETRANSMISSION OF REQUEST AND DOCUMENT TO THE APPROPRIATE RECEIVING AGENCY (Article 10(4) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1)) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. |
+| 0 |
+| The request and document were forwarded to the following receiving agency, which has territorial jurisdiction to serve it: | Reference No of the transmitting agency:Reference No of the receiving agency:Addressee:1. APPROPRIATE RECEIVING AGENCY
+1.1. Identity: 1.2. Address: 1.2.1. Street and number/PO box: 1.2.2. Place and postcode: 1.2.3. Country: 1.3. Tel.
+1.4. Fax (
+9
+):
+1.5. 
+Email: Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+
+| ACKNOWLEDGMENT OF RECEIPT BY THE APPROPRIATE RECEIVING AGENCY HAVING TERRITORIAL JURISDICTION TO THE TRANSMITTING AGENCY (Article 10(4) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. |
+| 0 |
+| This acknowledgment of receipt should be sent through the decentralised IT system or otherwise as soon as possible after receipt of the document and in any event within seven days of receipt. (1) |
+| (1) The obligation to send the acknowledgement through the decentralised IT system only applies from the date of application of the decentralised IT system in accordance with Article 37(2) of Regulation (EU) 2020/1784. | Reference No of the transmitting agency:Reference No of the receiving agency:Addressee:DATE OF RECEIPT:Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+
+| REQUEST FOR INFORMATION ON SERVICE OR NON-SERVICE OF DOCUMENTS (Article 11(2) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1)) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. |
+| 0 |
+| Service shall be effected as soon as possible. If it has not been possible to effect service within one month of receipt, the receiving agency shall inform the transmitting agency. | Reference No of the transmitting agency:Reference No of the receiving agency (if available):1. THE REQUEST WAS SENT BUT NO INFORMATION ON SERVICE OR NON-SERVICE HAS BEEN RECEIVED
+1.1. The request was sent□
+date:…
+1.2. The acknowledgement of receipt was received□
+date:…
+1.3. Other information was received□
+2. TRANSMITTING AGENCY
+2.1. Identity: Items 2.2 to 2.6 are optional when a copy of the request for service of documents is attached: 2.2. Address: 2.2.1. Street and number/PO box: 2.2.2. Place and postcode: 2.3. Country: 2.4. Tel.
+2.5. Fax (
+11
+):
+2.6. 
+Email: 3. RECEIVING AGENCY
+3.1. Identity: These items are optional when a copy of the request for service of documents is attached: 3.2. Address: 3.2.1. Street and number/PO box: 3.2.2. Place and postcode: 3.3. Country: 3.4. Tel.
+3.5. Fax (11) :
+3.6. 
+Email: 4. ADDRESSEE
+4.1. Identity: 4.1.1. Date of birth, if available: These items are optional when a copy of the request for service of documents is attached: 4.2. Address: 4.2.1. Street and number/PO box: 4.2.2. Place and postcode: 4.2.3. Country: 4.3. Tel. (11) :
+4.4. 
+Fax (11) :
+4.5. 
+Email (11) :
+4.6. 
+Identification number/social security number/organisation number/or equivalent (11) :
+4.7. 
+Any other information relating to the addressee (11) :
+Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+
+| REPLY TO REQUEST FOR INFORMATION ON SERVICE OR NON-SERVICE OF DOCUMENTS (Article 11(2) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. | ▼C1
+Reference No of the transmitting agency:Reference No of the receiving agency: ▼B
+Addressee:1. INFORMATION ON STATUS OF SERVICE OF DOCUMENT
+1.1. The request was not received□
+1.2. The request cannot be executed within one month of receipt for the following reasons: 1.2.1. Determination of current address of addressee is in progress□
+1.2.2. Service is in progress - documents were sent to the addressee, however their delivery has not yet been confirmed□
+1.2.3. Service is in progress - documents were sent to the addressee, however the deadline for refusal has not expired□
+1.2.4. All options for service have not yet been exhausted□
+1.2.5. Service has already been executed, see copy of the certificate attached□
+1.2.6. Request replied to on (date). Reply attached□
+1.2.7. Request for additional information or document is pending□
+1.2.8. Other□
+1.3. It is estimated that the request will be executed by …
+Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+
+| CERTIFICATE OF SERVICE OR NON-SERVICE OF DOCUMENTS (Articles 11(2), 12(4) and 14 of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1)) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. |
+| 0 |
+| Service shall be effected as soon as possible. If it has not been possible to effect service within one month of receipt, the receiving agency shall inform the transmitting agency (Article 11(2) of Regulation (EU) 2020/1784) |
+
+Reference No of the transmitting agency:Reference No of the receiving agency:Addressee:1.
+| NOTICE OF RETRANSMISSION OF REQUEST AND DOCUMENT TO THE APPROPRIATE RECEIVING AGENCY (Article 10(4) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (15)) |
+|---|
+| 0 |
+| The request and document were forwarded to the following receiving agency, which has territorial jurisdiction to serve it: | Reference No of the transmitting agency: Reference No of the receiving agency: Addressee: 1. APPROPRIATE RECEIVING AGENCY
+1.1. Identity: 1.2. Address: 1.2.1. Street and number/PO box: 1.2.2. Place and postcode: 1.2.3. Country: 1.3. Tel.
+1.4. Fax ((*)):
+1.5. Email: Done at: Date:
+Signature and/or stamp or electronic signature and/or electronic seal:
+
+| ACKNOWLEDGMENT OF RECEIPT BY THE APPROPRIATE RECEIVING AGENCY HAVING TERRITORIAL JURISDICTION TO THE TRANSMITTING AGENCY (Article 10(4) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (16) |
+|---|
+| 0 |
+| This acknowledgment of receipt should be sent through the decentralised IT system or otherwise as soon as possible after receipt of the document and in any event within seven days of receipt. (17) | Reference No of the transmitting agency: Reference No of the receiving agency: Addressee: DATE OF RECEIPT: Done at: Date:
+Signature and/or stamp or electronic signature and/or electronic seal:
+
+| REQUEST FOR INFORMATION ON SERVICE OR NON-SERVICE OF DOCUMENTS (Article 11(2) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (19)) |
+|---|
+| 0 |
+| Service shall be effected as soon as possible. If it has not been possible to effect service within one month of receipt, the receiving agency shall inform the transmitting agency. | Reference No of the transmitting agency: Reference No of the receiving agency (if available): 1. THE REQUEST WAS SENT BUT NO INFORMATION ON SERVICE OR NON-SERVICE HAS BEEN RECEIVED
+1.1. The request was sent ☐
+date: …
+1.2. The acknowledgement of receipt was received ☐
+date: …
+1.3. Other information was received ☐
+2. TRANSMITTING AGENCY
+2.1. Identity: Items 2.2 to 2.6 are optional when a copy of the request for service of documents is attached: 2.2. Address: 2.2.1. Street and number/PO box: 2.2.2. Place and postcode: 2.3. Country: 2.4. Tel.
+2.5. Fax ((*)):
+2.6. Email: 3. RECEIVING AGENCY
+3.1. Identity: These items are optional when a copy of the request for service of documents is attached: 3.2. Address: 3.2.1. Street and number/PO box: 3.2.2. Place and postcode: 3.3. Country: 3.4. Tel.
+3.5. Fax ((*)):
+3.6. Email: 4. ADDRESSEE
+4.1. Identity: 4.1.1. Date of birth, if available: These items are optional when a copy of the request for service of documents is attached: 4.2. Address: 4.2.1. Street and number/PO box: 4.2.2. Place and postcode: 4.2.3. Country: 4.3. Tel. ((*)):
+4.4. Fax ((*)):
+4.5. Email ((*)):
+4.6. Identification number/social security number/organisation number/or equivalent ((*)):
+4.7. Any other information relating to the addressee ((*)): Done at: Date:
+Signature and/or stamp or electronic signature and/or electronic seal: Reference No of the requested authority: Reference No of the transmitting agency: Addressee: 1. INFORMATION ON STATUS OF SERVICE OF DOCUMENT
+1.1. The request was not received ☐
+1.2. The request cannot be executed within one month of receipt for the following reasons: 1.2.1. Determination of current address of addressee is in progress ☐
+1.2.2. Service is in progress - documents were sent to the addressee, however their delivery has not yet been confirmed ☐
+1.2.3. Service is in progress - documents were sent to the addressee, however the deadline for refusal has not expired ☐
+1.2.4. All options for service have not yet been exhausted ☐
+1.2.5. Service has already been executed, see copy of the certificate attached ☐
+1.2.6. Request replied to on … (date). Reply attached ☐
+1.2.7. Request for additional information or document is pending ☐
+1.2.8. Other ☐
+1.3. It is estimated that the request will be executed by …
+Done at: Date:
+Signature and/or stamp or electronic signature and/or electronic seal:
+
+| CERTIFICATE OF SERVICE OR NON-SERVICE OF DOCUMENTS (Articles 11(2), 12(4) and 14 of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (22)) |
+|---|
+| 0 |
+| Service shall be effected as soon as possible. If it has not been possible to effect service within one month of receipt, the receiving agency shall inform the transmitting agency (Article 11(2) of Regulation (EU) 2020/1784) | Reference No of the transmitting agency: Reference No of the receiving agency: Addressee: 1. COMPLETION OF SERVICE (Article 14)
+1.1. Date and address of service
+1.2. The document was
+1.2.1. served in accordance with the law of the Member State addressed, namely
+1.2.1.1. handed to ☐
+1.2.1.1.1. the addressee in person ☐
+1.2.1.1.2. another person ☐
+1.2.1.1.2.1. Name: 1.2.1.1.2.2. Address: 1.2.1.1.2.2.1. Street and number/PO box: 1.2.1.1.2.2.2. Place and postcode: 1.2.1.1.2.2.3. Country: 1.2.1.1.2.3. Nature of relationship with the addressee: family ☐ employee ☐ other ☐
+1.2.1.1.3. the addressee's address ☐
+1.2.1.1.4. another address (please specify) ☐ (23) 1.2.1.2. served by postal services ☐
+1.2.1.2.1. without acknowledgement of receipt ☐
+1.2.1.2.2. with the enclosed acknowledgement of receipt ☐
+1.2.1.2.2.1. from the addressee ☐
+1.2.1.2.2.2. from another person ☐
+1.2.1.2.2.2.1. Name: 1.2.1.2.2.2.2. Address: 1.2.1.2.2.2.2.1. Street and number/PO box: 1.2.1.2.2.2.2.2. Place and postcode: 1.2.1.2.2.2.2.3. Country: 1.2.1.2.2.2.3. Nature of relationship with the addressee: family ☐ employee ☐ other ☐
+1.2.1.3. served electronically (please state how): ☐
+1.2.1.4. served by another method (please state how): ☐
+1.2.2. served by the following particular method (please state how): ☐
+1.3. The addressee of the document was informed, in accordance with Article 12(2) of Regulation (EU) 2020/1784, in writing that the addressee may refuse to accept the document if it is not written in or accompanied by a translation into either a language which he or she understands or the official language or one of the official languages of the place of service. 2. INFORMATION IN ACCORDANCE WITH ARTICLE 11(2) OF REGULATION (EU) 2020/1784
+It was not possible to effect service within one month of receipt ☐
+3. REFUSAL OF DOCUMENT (Article 12(4) of Regulation (EU) 2020/1784)
+3.1. The addressee refused to accept the document due to the language used ☐
+3.1.1. Date of attempt of service: 3.1.2. Date of refusal, if available: 3.2. The document is annexed to this certificate. 3.2.1. Yes ☐
+3.2.2. No ☐
+4. REASON FOR NON-SERVICE OF DOCUMENT
+4.1. Address unknown
+4.1.1. Steps to establish the address were undertaken (24) yes ☐ no ☐
+4.2. Addressee cannot be located ☐
+4.3. Document could not be served before the date or time limit stated in item 6.2 in the request for service of documents (Form A) ☐
+4.4. Other (please specify) ☐
+4.5. The document is annexed to this certificate yes ☐ no ☐
+Done at: Date:
+Signature and/or stamp or electronic signature and/or electronic seal:
+
+Addressee: I. INFORMATION TO THE ADDRESSEE
+The enclosed document is served in accordance with Regulation (EU) 2020/1784
+You may refuse to accept the enclosed document if it is not written in or accompanied by a translation into either a language which you understand or the official language or one of the official languages of the place of service.
+(2) 'decentralised IT system' means a network of national IT systems and interoperable access points, operating under the individual responsibility and management of each Member State, that enables the secure and reliable cross-border exchange of information between the national IT systems.
+(2) 'decentralised IT system' means a network of national IT systems and interoperable access points, operating under the individual responsibility and management of each Member State, that enables the secure and reliable cross-border exchange of information between the national IT systems.
+Reference No of the transmitting agency:Reference No of the receiving agency:Addressee:1. COMPLETION OF SERVICE (Article 14)
+1.1. 
+Date and address of service
+1.2. The document was
+1.2.1. served in accordance with the law of the Member State addressed, namely
+1.2.1.1. handed to□
+1.2.1.1.1. the addressee in person□
+1.2.1.1.2. another person□
+1.2.1.1.2.1. 
+Name: 1.2.1.1.2.2. Address: 1.2.1.1.2.2.1. Street and number/PO box: 1.2.1.1.2.2.2. Place and postcode: 1.2.1.1.2.2.3. Country: 1.2.1.1.2.3. Nature of relationship with the addressee: family□ employee□ other□
+1.2.1.1.3. the addressee's address□
+1.2.1.1.4. another address (please specify) (
+14
+)
+1.2.1.2. served by postal services□
+1.2.1.2.1. without acknowledgement of receipt□
+1.2.1.2.2. with the enclosed acknowledgement of receipt□
+1.2.1.2.2.1. from the addressee□
+1.2.1.2.2.2. from another person□
+1.2.1.2.2.2.1. 
+Name: 1.2.1.2.2.2.2. Address: 1.2.1.2.2.2.2.1. Street and number/PO box: 1.2.1.2.2.2.2.2. Place and postcode: 1.2.1.2.2.2.2.3. Country: 1.2.1.2.2.2.3. Nature of relationship with the addressee: family□ employee□ other□
+1.2.1.3. served electronically (please state how):□
+1.2.1.4. served by another method (please state how):□
+1.2.2. served by the following particular method (please state how):□
+1.3. The addressee of the document was informed, in accordance with Article 12(2) of Regulation (EU) 2020/1784, in writing that the addressee may refuse to accept the document if it is not written in or accompanied by a translation into either a language which he or she understands or the official language or one of the official languages of the place of service. 2. INFORMATION IN ACCORDANCE WITH ARTICLE 11(2) OF REGULATION (EU) 2020/1784
+It was not possible to effect service within one month of receipt□3. REFUSAL OF DOCUMENT (Article 12(4) of Regulation (EU) 2020/1784)
+3.1. 
+The addressee refused to accept the document due to the language used□
+3.1.1. Date of attempt of service: 3.1.2. Date of refusal, if available: 3.2. The document is annexed to this certificate. 3.2.1. Yes□
+3.2.2. No□
+4. REASON FOR NON-SERVICE OF DOCUMENT
+4.1. Address unknown
+4.1.1. Steps to establish the address were undertaken (
+15
+) yes□ no□
+4.2. Addressee cannot be located□
+4.3. Document could not be served before the date or time limit stated in item 6.2 in the request for service of documents (Form A)□
+4.4. 
+Other (please specify)□
+4.5. The document is annexed to this certificate yes□ no□
+Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+
+| INFORMATION TO THE ADDRESSEE ABOUT THE RIGHT TO REFUSE TO ACCEPT A DOCUMENT (Article 12(2) and (3) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1)) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. | Addressee:I. INFORMATION TO THE ADDRESSEE
+The enclosed document is served in accordance with Regulation (EU) 2020/1784You may refuse to accept the enclosed document if it is not written in or accompanied by a translation into either a language which you understand or the official language or one of the official languages of the place of service.If you wish to exercise this right, you must refuse to accept the document at the time of service directly with the person serving the document or within two weeks of service by returning, to the address indicated below, this form completed by you, or a written declaration indicating that you refuse to accept the enclosed document because of the language in which it was provided.Please note that if you refuse to accept the enclosed document but the court or authority seised of the legal proceedings in the course of which the service became necessary subsequently decides that the refusal was not justified, it may apply legal consequences provided for by the law of the forum Member State, such as deeming the service valid, for unjustified refusals.II. ADDRESS TO WHICH THE FORM SHOULD BE RETURNED (
+16
+): 1. 
+ Identity: 2. 
+ Address: 2.1. Street and number/PO Box: 2.2. Place and postcode: 2.3. Country: 3. 
+ Reference No: 4. 
+ Tel. 5. 
+ Fax (
+17
+): 6. 
+ Email: III. DECLARATION OF THE ADDRESSEE (
+18
+):
+I refuse to accept the document because it is not written in, or accompanied by a translation into, either a language which I understand or the official language or one of the official languages of the place of service.I understand the following language(s):
+
+| Bulgarian | □ | Lithuanian | □ |
+|---|---|---|---|
+| Spanish | □ | Hungarian | □ |
+| Czech | □ | Maltese | □ |
+| German | □ | Dutch | □ |
+| Estonian | □ | Polish | □ |
+| Greek | □ | Portuguese | □ |
+| English | □ | Romanian | □ |
+| French | □ | Slovak | □ |
+| Irish | □ | Slovenian | □ |
+| Croatian | □ | Finnish | □ |
+| Italian | □ | Swedish | □ |
+| Latvian | □ | □ | □ |
+
+Other□ (please specify):Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+I. INFORMATION TO THE ADDRESSEE
+The enclosed document is served in accordance with Regulation (EU) 2020/1784
+You may refuse to accept the enclosed document if it is not written in or accompanied by a translation into either a language which you understand or the official language or one of the official languages of the place of service. If you wish to exercise this right, you must refuse to accept the document at the time of service directly with the person serving the document or within two weeks of service by returning, to the address indicated below, this form completed by you, or a written declaration indicating that you refuse to accept the enclosed document because of the language in which it was provided. Please note that if you refuse to accept the enclosed document but the court or authority seised of the legal proceedings in the course of which the service became necessary subsequently decides that the refusal was not justified, it may apply legal consequences provided for by the law of the forum Member State, such as deeming the service valid, for unjustified refusals. II. ADDRESS TO WHICH THE FORM SHOULD BE RETURNED (26): 1. Identity: 2. Address: 2.1. Street and number/PO Box: 2.2. Place and postcode: 2.3. Country: 3. Reference No: 4. Tel. 5. Fax ((*)):
+ 6. Email: III. DECLARATION OF THE ADDRESSEE (27):
+I refuse to accept the document because it is not written in, or accompanied by a translation into, either a language which I understand or the official language or one of the official languages of the place of service. I understand the following language(s):
+
+| Bulgarian | ☐ | Lithuanian | ☐ |
+|---|---|---|---|
+| Spanish | ☐ | Hungarian | ☐ |
+| Czech | ☐ | Maltese | ☐ |
+| German | ☐ | Dutch | ☐ |
+| Estonian | ☐ | Polish | ☐ |
+| Greek | ☐ | Portuguese | ☐ |
+| English | ☐ | Romanian | ☐ |
+| French | ☐ | Slovak | ☐ |
+| Irish | ☐ | Slovenian | ☐ |
+| Croatian | ☐ | Finnish | ☐ |
+| Italian | ☐ | Swedish | ☐ |
+| Latvian | ☐ | ☐ | ☐ |
+
+Other ☐ (please specify): …
+Done at: Date:
+Signature and/or stamp or electronic signature and/or electronic seal: (1) OJ L 405, 2.12.2020, p. 40. ((*)) This item is optional. (2) Where there is more than one applicant, please provide information as set out in items 3.1 to 3.5. (3) This item applies only to the MS which have several official languages. (4) This item only applies from the date of application of the decentralised IT system in accordance with Article 37(2) of Regulation (EU) 2020/1784. (5) The use of this form is optional. (6) OJ L 405, 2.12.2020, p. 40. (7) This form applies only to the Member States which provide assistance in accordance with Article 7(1)(a) of Regulation (EU) 2020/1784. ((*)) This item is optional. (8) The use of this form is optional. (9) OJ L 405, 2.12.2020, p. 40. (10) This form applies only to the Member States which provide assistance in accordance with Article 7(1)(a) of Regulation (EU) 2020/1784. (11) OJ L 405, 2.12.2020, p. 40. (12) The obligation to send the acknowledgement through the decentralised IT system only applies from the date of application of the decentralised IT system in accordance with Article 37(2) of Regulation (EU) 2020/1784. (13) OJ L 405, 2.12.2020, p. 40. ((*)) This item is optional. (14) OJ L 405, 2.12.2020, p. 40. (15) OJ L 405, 2.12.2020, p. 40. ((*)) This item is optional. (16) OJ L 405, 2.12.2020, p. 40. (17) The obligation to send the acknowledgement through the decentralised IT system only applies from the date of application of the decentralised IT system in accordance with Article 37(2) of Regulation (EU) 2020/1784. (18) The use of this form is optional. (19) OJ L 405, 2.12.2020, p. 40. ((*)) This item is optional. (20) The use of this form is optional. (21) OJ L 405, 2.12.2020, p. 40. (22) OJ L 405, 2.12.2020, p. 40. (23) Address established by the receiving agency in accordance with Article 7(2)(c) of Regulation (EU) 2020/1784. (24) This item applies only to the MS which provide the assistance in accordance with Article 7(2)(c) of Regulation (EU) 2020/1784. (25) OJ L 405, 2.12.2020, p. 40. (26) To be filled in by the authority effecting the service. ((*)) This item is optional. (27) To be filled in and signed by the addressee.
+Reference No of the transmitting agency:Reference No of the receiving agency:Addressee:1. COMPLETION OF SERVICE (Article 14)
+1.1. 
+Date and address of service
+1.2. The document was
+1.2.1. served in accordance with the law of the Member State addressed, namely
+1.2.1.1. handed to□
+1.2.1.1.1. the addressee in person□
+1.2.1.1.2. another person□
+1.2.1.1.2.1. 
+Name: 1.2.1.1.2.2. Address: 1.2.1.1.2.2.1. Street and number/PO box: 1.2.1.1.2.2.2. Place and postcode: 1.2.1.1.2.2.3. Country: 1.2.1.1.2.3. Nature of relationship with the addressee: family□ employee□ other□
+1.2.1.1.3. the addressee's address□
+1.2.1.1.4. another address (please specify) (
+13
+)□
+1.2.1.2. served by postal services□
+1.2.1.2.1. without acknowledgement of receipt□
+1.2.1.2.2. with the enclosed acknowledgement of receipt□
+1.2.1.2.2.1. from the addressee□
+1.2.1.2.2.2. from another person□
+1.2.1.2.2.2.1. 
+Name: 1.2.1.2.2.2.2. Address: 1.2.1.2.2.2.2.1. Street and number/PO box: 1.2.1.2.2.2.2.2. Place and postcode: 1.2.1.2.2.2.2.3. Country: 1.2.1.2.2.2.3. Nature of relationship with the addressee: family□ employee□ other□
+1.2.1.3. served electronically (please state how):□
+1.2.1.4. served by another method (please state how):□
+1.2.2. served by the following particular method (please state how):□
+1.3. The addressee of the document was informed, in accordance with Article 12(2) of Regulation (EU) 2020/1784, in writing that the addressee may refuse to accept the document if it is not written in or accompanied by a translation into either a language which he or she understands or the official language or one of the official languages of the place of service. 2. INFORMATION IN ACCORDANCE WITH ARTICLE 11(2) OF REGULATION (EU) 2020/1784
+It was not possible to effect service within one month of receipt□3. REFUSAL OF DOCUMENT (Article 12(4) of Regulation (EU) 2020/1784)
+3.1. 
+The addressee refused to accept the document due to the language used□
+3.1.1. Date of attempt of service: 3.1.2. Date of refusal, if available: 3.2. The document is annexed to this certificate. 3.2.1. Yes□
+3.2.2. No□
+4. REASON FOR NON-SERVICE OF DOCUMENT
+4.1. Address unknown
+4.1.1. Steps to establish the address were undertaken (
+14
+) yes□ no□
+4.2. Addressee cannot be located□
+4.3. Document could not be served before the date or time limit stated in item 6.2 in the request for service of documents (Form A)□
+4.4. 
+Other (please specify)□
+4.5. The document is annexed to this certificate yes□ no□
+Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+
+| INFORMATION TO THE ADDRESSEE ABOUT THE RIGHT TO REFUSE TO ACCEPT A DOCUMENT (Article 12(2) and (3) of Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (1)) |
+|---|
+| (1) OJ L 405, 2.12.2020, p. 40. | Addressee:I. INFORMATION TO THE ADDRESSEE
+The enclosed document is served in accordance with Regulation (EU) 2020/1784You may refuse to accept the enclosed document if it is not written in or accompanied by a translation into either a language which you understand or the official language or one of the official languages of the place of service.If you wish to exercise this right, you must refuse to accept the document at the time of service directly with the person serving the document or within two weeks of service by returning, to the address indicated below, this form completed by you, or a written declaration indicating that you refuse to accept the enclosed document because of the language in which it was provided.Please note that if you refuse to accept the enclosed document but the court or authority seised of the legal proceedings in the course of which the service became necessary subsequently decides that the refusal was not justified, it may apply legal consequences provided for by the law of the forum Member State, such as deeming the service valid, for unjustified refusals.II. ADDRESS TO WHICH THE FORM SHOULD BE RETURNED (
+15
+): 1. 
+ Identity: 2. 
+ Address: 2.1. Street and number/PO Box: 2.2. Place and postcode: 2.3. Country: 3. 
+ Reference No: 4. 
+ Tel. 5. 
+ Fax (
+16
+): 6. 
+ Email: III. DECLARATION OF THE ADDRESSEE (
+17
+):
+I refuse to accept the document because it is not written in, or accompanied by a translation into, either a language which I understand or the official language or one of the official languages of the place of service.I understand the following language(s):
+
+| Bulgarian | □ | Lithuanian | □ |
+|---|---|---|---|
+| Spanish | □ | Hungarian | □ |
+| Czech | □ | Maltese | □ |
+| German | □ | Dutch | □ |
+| Estonian | □ | Polish | □ |
+| Greek | □ | Portuguese | □ |
+| English | □ | Romanian | □ |
+| French | □ | Slovak | □ |
+| Irish | □ | Slovenian | □ |
+| Croatian | □ | Finnish | □ |
+| Italian | □ | Swedish | □ |
+| Latvian | □ | □ | □ |
+
+Other□ (please specify):Done at:Date:Signature and/or stamp or electronic signature and/or electronic seal:
+The requirement of a single fixed fee should not preclude the possibility for Member States to set different fees for different types of service, as long as they respect those principles. (29) Each Member State should be free to effect the service of documents by postal services on persons residing in another Member State directly by registered letter with acknowledgement of receipt or equivalent. It should be possible to use a postal service, whether private or public, for the service of documents in different forms of letters, including bundles of letters. (30) In line with the established case law of the Court of Justice of the European Union (8), direct service by postal service under this Regulation should be considered to be validly effected, even if the document was not delivered to the addressee in person, where it was served at the addressee's home address on an adult person who is living in the same household as the addressee or who is employed there by the addressee and who has the ability and is willing to accept the document, unless the law of the forum Member State only allows the service of that document on the addressee in person. (31) Efficiency and speed in cross-border judicial proceedings require direct, expedited and secure channels for serving documents on persons in other Member States. Consequently, it should be possible to effect the service of documents directly by electronic means on an addressee who has a known address for service in another Member State. The conditions for the use of such type of direct electronic service should be such as to ensure that electronic service is effected only by electronic means that are available under the law of the forum Member State for the domestic service of documents and should ensure that there are appropriate safeguards for the protection of the interests of the addressee, including high technical standards and a requirement for express consent by the addressee. (32) It should be possible for an addressee to be served electronically using qualified electronic registered delivery services within the meaning of Regulation (EU) No 910/2014, provided that the addressee has given prior express consent to use electronic means for the purpose of serving documents in the course of legal proceedings. In such cases, prior express consent could be given for specific proceedings or as a general consent to the service of documents in the course of legal proceedings by those means of service. That consent could also be given where, under the law of the forum Member State, procedural documents could be served through an electronic system and the addressee has consented to the use of that system in relation to the service of documents before serving documents on the addressee through that system. (33) The addressee could be served electronically without the use of qualified electronic registered delivery services within the meaning of Regulation (EU) No 910/2014, provided that the addressee has given prior express consent to the court or authority seised of the proceedings or to the party responsible for service in those proceedings to use email sent to a specified email address in the course of those proceedings, provided that proof of receipt of the document by the addressee is received. The addressee should confirm receipt of the document by signing and returning an acknowledgement of receipt or by returning an email from the email address furnished by the addressee for service. The acknowledgement of receipt could also be signed electronically. In order to guarantee the security of transmission, Member States could specify additional conditions under which they will accept electronic service by email where their law sets stricter conditions in respect of service by email or where their law does not allow such service by email. Such conditions could address issues such as the identification of the sender and the recipient, the integrity of the documents sent and the protection of the transmission against outside interference. (34) It should be possible for any person with an interest in particular judicial proceedings to effect service of documents directly through the judicial officers, officials or other competent persons of the Member State in which the service is sought, provided that such direct service is permitted under the law of that Member State. (35) Where national law and this Regulation allow the court to give judgment even if no certificate of service or delivery of the document instituting the proceedings or its equivalent has been received, every reasonable effort should be made to obtain the certificate through the competent authorities or bodies of the Member State addressed before any judgement is given, in compliance with any other requirements safeguarding the interests of the defendant. Unless incompatible with national law, all reasonable efforts should be made to inform the defendant that court proceedings have been instituted using any available channels of communication, including modern communications technology, for which an address or an account is known to the court seised of the proceedings. (36) The Commission should draw up a manual containing information relevant for the proper application of this Regulation. The manual should be made available through the European Judicial Network in Civil and Commercial Matters. The Commission and the Member States should do their utmost to ensure that the information in the manual is up to date and complete, especially as regards the contact details of receiving and transmitting agencies. (37) In calculating the periods and time limits provided for in this Regulation, Council Regulation (EEC, Euratom) No 1182/71 (9) should apply. (38) In order to update the forms in Annex I to this Regulation or to make technical changes to those forms, the power to adopt acts in accordance with Article 290 of the Treaty on the Functioning of the European Union should be delegated to the Commission in respect of amendments to that Annex. It is of particular importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level, and that those consultations be conducted in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making (10). In particular, to ensure equal participation in the preparation of delegated acts, the European Parliament and the Council receive all documents at the same time as Member States' experts, and their experts systematically have access to meetings of Commission expert groups dealing with the preparation of delegated acts. (39) In order to ensure uniform conditions for the implementation of this Regulation, implementing powers should be conferred on the Commission. Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council (11). (40) This Regulation should prevail over the provisions contained in bilateral or multilateral agreements or arrangements concluded by the Member States that have the same scope of application as this Regulation, in particular the Hague Convention of 15 November 1965 on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters in relations between the Member States party thereto. This Regulation does not preclude Member States from maintaining or concluding agreements or arrangements to expedite or simplify the transmission of documents, provided that those agreements or arrangements are compatible with this Regulation. (41) The fundamental rights and freedoms of all persons involved should be fully observed and respected in accordance with Union law, in particular the rights to equal access to justice, to non-discrimination and to the protection of personal data and privacy. (42) The information transmitted pursuant to this Regulation should be suitably protected.
+(42) The information transmitted pursuant to this Regulation should be suitably protected. Such protection falls within the scope of Regulation (EU) 2016/679 and of Directive 2002/58/EC of the European Parliament and of the Council (12). Personal data which are not relevant for the handling of a specific case should be deleted immediately. (43) In accordance with paragraphs 22 and 23 of the Interinstitutional Agreement of 13 April 2016 on Better Law-Making, the Commission should evaluate this Regulation on the basis of information collected through specific monitoring arrangements in order to assess the actual effects of this Regulation and the need for any further action. Where Member States collect data on the service of documents under this Regulation, in particular information on the numbers of requests transmitted and requests received, the number of cases in which transmission was performed by means other than through the decentralised IT system, the number of certificates of non-service of documents received and the number of notifications of refusal on the grounds of language received by the transmitting agencies, they should provide the Commission with such data for monitoring purposes. The reference implementation software developed by the Commission as a back-end system should programmatically collect the data necessary for monitoring purposes and such data should be transmitted to the Commission. Where Member States choose to use a national IT system instead of the reference implementation software developed by the Commission, that system may be equipped to programmatically collect those data and, in that case, those data should be transmitted to the Commission. (44) Since the objectives of this Regulation cannot be sufficiently achieved by the Member States because of the differences between national rules governing jurisdiction and the recognition and enforcement of decisions, but can rather, by reason of the direct applicability and binding nature of this Regulation, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve those objectives. (45) The European Data Protection Supervisor was consulted in accordance with Article 42(1) of Regulation (EU) 2018/1725 and delivered an opinion on 13 September 2019 (13). (46) In order to make its provisions more easily accessible and readable, Regulation (EC) No 1393/2007 should be repealed and replaced by this Regulation. (47) In accordance with Article 3 and Article 4a(1) of Protocol No 21 on the position of the United Kingdom and Ireland in respect of the area of freedom, security and justice, annexed to the Treaty on European Union and to the Treaty on the Functioning of the European Union, the United Kingdom and Ireland have notified their wish to take part in the adoption and application of this Regulation. (48) In accordance with Articles 1 and 2 of Protocol No 22 on the position of Denmark, annexed to the Treaty on European Union and to the Treaty on the Functioning of the European Union, Denmark is not taking part in the adoption of this Regulation and is not bound by it or subject to its application,
+HAVE ADOPTED THIS REGULATION:

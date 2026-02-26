@@ -1,0 +1,264 @@
+recital 8
+(8) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee — Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+recital 1
+(1) Article 12 of Regulation (EC) No 443/2009 of the European Parliament and of the Council of 23 April 2009 setting emission performance standards for new passenger cars as part of the Community's integrated approach to reduce CO2 emissions from light-duty vehicles (3), provides that the CO2 savings achieved through the use of innovative technologies shall be considered for the calculation of each manufacturer's average specific emissions of CO2.
+
+Detailed rules on the approval and certification of innovative technologies are set out in Commission Implementing Regulation (EU) No 725/2011 of 25 July 2011 establishing a procedure for the approval and certification of innovative technologies for reducing CO2 emissions from passenger cars pursuant to Regulation (EC) No 443/2009 of the European Parliament and of the Council (4).
+recital 2
+(2) Paragraph 4 of Article 13 of Regulation (EC) No 443/2009 provides that the Commission shall review Directive 2007/46/EC, so that each type/variant/version corresponds to a unique set of innovative technologies.
+recital 3
+(3) In order to ensure efficient monitoring of the specific CO2 savings for individual vehicles, vehicles fitted with eco-innovations should be certified as part of the type approval of a vehicle and the savings must, in accordance with Article 11(2) of Implementing Regulation (EU) No 725/2011, be specified separately in both the type approval documentation and the certificate of conformity in accordance with Directive 2007/46/EC.
+recital 4
+(4) In consequence, it becomes necessary to modify the documents used in the type-approval process, in order to adequately reflect the information related to eco-innovations.
+recital 5
+(5) The amendment of the documents used for type-approval aims, on the one hand, at providing the approval authorities with the adequate data for certifying vehicles fitted with eco-innovations, and, on the other hand, at integrating the CO2 savings of the eco-innovations as part of the representative information of a specific type, variant or version of vehicle.
+recital 6
+(6) It is necessary to adapt Annex VIII to Directive 2007/46/EC, in order to include the relevant information about test results, as provided in the relevant emission legislation on pollutants from light duty and heavy duty vehicles.
+recital 7
+(7) Directive 2007/46/EC and Regulation (EC) No 692/2008 should therefore be amended accordingly.
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (1), and in particular Article 39(2) thereof,
+Having regard to Commission Regulation (EC) No 692/2008 of 18 July 2008, implementing and amending Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information (2), and in particular Articles 4(3), 5(4), 6(2) and Article 12 thereof,
+Whereas:
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (1), and in particular Article 39(2) thereof,
+Having regard to Commission Regulation (EC) No 692/2008 of 18 July 2008, implementing and amending Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information (2), and in particular Articles 4(3), 5(4), 6(2) and Article 12 thereof,
+Whereas:
+
+(1) Article 12 of Regulation (EC) No 443/2009 of the European Parliament and of the Council of 23 April 2009 setting emission performance standards for new passenger cars as part of the Community's integrated approach to reduce CO2 emissions from light-duty vehicles (3), provides that the CO2 savings achieved through the use of innovative technologies shall be considered for the calculation of each manufacturer's average specific emissions of CO2. Detailed rules on the approval and certification of innovative technologies are set out in Commission Implementing Regulation (EU) No 725/2011 of 25 July 2011 establishing a procedure for the approval and certification of innovative technologies for reducing CO2 emissions from passenger cars pursuant to Regulation (EC) No 443/2009 of the European Parliament and of the Council (4). (2) Paragraph 4 of Article 13 of Regulation (EC) No 443/2009 provides that the Commission shall review Directive 2007/46/EC, so that each type/variant/version corresponds to a unique set of innovative technologies. (3) In order to ensure efficient monitoring of the specific CO2 savings for individual vehicles, vehicles fitted with eco-innovations should be certified as part of the type approval of a vehicle and the savings must, in accordance with Article 11(2) of Implementing Regulation (EU) No 725/2011, be specified separately in both the type approval documentation and the certificate of conformity in accordance with Directive 2007/46/EC. (4) In consequence, it becomes necessary to modify the documents used in the type-approval process, in order to adequately reflect the information related to eco-innovations. (5) The amendment of the documents used for type-approval aims, on the one hand, at providing the approval authorities with the adequate data for certifying vehicles fitted with eco-innovations, and, on the other hand, at integrating the CO2 savings of the eco-innovations as part of the representative information of a specific type, variant or version of vehicle. (6) It is necessary to adapt Annex VIII to Directive 2007/46/EC, in order to include the relevant information about test results, as provided in the relevant emission legislation on pollutants from light duty and heavy duty vehicles. (7) Directive 2007/46/EC and Regulation (EC) No 692/2008 should therefore be amended accordingly. (8) The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee — Motor Vehicles,
+HAS ADOPTED THIS REGULATION:
+ANNEX II
+ANNEX II
+ 'ANNEX VIII
+Test Results
+(To be completed by the type-approval authority and attached to the vehicle EC type-approval certificate)
+In each case, the information must make clear to which variant and version it is applicable. One version may not have more than one result. However, a combination of several results per version indicating the worst case is permissible. In the latter case, a note shall state that for items marked (*) only worst case results are given. 1. Results of the sound level tests
+Number of the base regulatory act and latest amending regulatory act applicable to the approval. In case of a regulatory act with two or more implementation stages, indicate also the implementation stage:
+
+| Variant/Version: | … | … | … |
+|---|---|---|---|
+| Moving (dB(A)/E): | … | … | … |
+| Stationary (dB(A)/E): | … | … | … |
+| at (min-1): | … | … | … | 2. Results of the exhaust emission tests
+2.1. Emissions from motor vehicles tested under the test procedure for light duty vehicles
+Indicate the latest amending regulatory act applicable to the approval. In case the regulatory act has two or more implementation stages, indicate also the implementation stage:
+
+| Variant/Version: | … | … | … |
+|---|---|---|---|
+| CO (mg/km) | … | … | … |
+| THC (mg/km) | … | … | … |
+| NMHC (mg/km) | … | … | … |
+| NOx (mg/km) | … | … | … |
+| THC + NOx (mg/km) | … | … | … |
+| Mass of particulate matter (PM) (mg/km) | … | … | … |
+| Number of particles (P) (#/km) (1) | … | … | … | 2.1.2. Type 2 test (2) (3) (emissions data required at type-approval for roadworthiness purposes)
+Type 2, low idle test:
+
+| Variant/Version: | … | … | … |
+|---|---|---|---|
+| CO (% vol.) | … | … | … |
+| Engine speed (min-1) | … | … | … |
+| Engine oil temperature (°C) | … | … | … | Type 2, high idle test:
+
+| Variant/Version: | … | … | … |
+|---|---|---|---|
+| CO (% vol.) | … | … | … |
+| Lambda Value | … | … | … |
+| Engine speed (min-1) | … | … | … |
+| Engine oil temperature (°C) | … | … | … | 2.1.3. Type 3 test (emissions of crankcase gases): …
+2.1.4. Type 4 test (evaporative emissions): …g/test
+2.1.5. Type 5 test (durability of anti-pollution control devices): —
+Ageing distance covered (km)(e.g. 160 000 km): …
+—
+Deterioration factor DF: calculated/fixed (1) —
+Values:
+
+| Variant/Version: | … | … | … |
+|---|---|---|---|
+| CO (mg/km) | … | … | … |
+| THC (mg/km) | … | … | … |
+| NMHC (mg/km) | … | … | … |
+| NOx (mg/km) | … | … | … |
+| THC + NOx (mg/km) | … | … | … |
+| Mass of particulate matter (PM) (mg/km) | … | … | … |
+| Number of particles (P) (#/km) (1) | … | … | … | 2.1.6. Type 6 test (average emissions at low ambient temperatures):
+
+| Variant/Version: | … | … | … |
+|---|---|---|---|
+| CO (g/km) | … | … | … |
+| THC (g/km) | … | … | … | 2.1.7. OBD: yes/no (1) 2.2. Emissions from engines tested under the test procedure for heavy-duty vehicles. Indicate the latest amending regulatory act applicable to the approval.
+
+| Variant/Version: | … | … | … |
+|---|---|---|---|
+| CO (mg/kWh) | … | … | … |
+| THC (mg/kWh) | … | … | … |
+| NOx (mg/kWh) | … | … | … |
+| NH3 (ppm) (1) | … | … | … |
+| PM mass (mg/kWh) | … | … | … |
+| PM number (#/kWh) (1) | … | … | … |
+
+| Variant/Version: | … | … | … |
+|---|---|---|---|
+| Smoke value:…m-1 | … | … | … |
+
+| Variant/Version: | … | … | … |
+|---|---|---|---|
+| CO (mg/kWh) | … | … | … |
+| THC (mg/kWh) | … | … | … |
+| NMHC (mg/kWh) (1) | … | … | … |
+| CH4 (mg/kWh) (1) | … | … | … |
+| NOx (mg/kWh) | … | … | … |
+| NH3 (ppm) (1) | … | … | … |
+| PM mass (mg/kWh) | … | … | … |
+| PM number (#/kWh) (1) | … | … | … |
+
+| Variant/Version: | … | … | … |
+|---|---|---|---|
+| CO (% vol.) | … | … | … |
+| Lambda Value (1) | … | … | … |
+| Engine speed (min-1) | … | … | … |
+| Engine oil temperature (°C) | … | … | … | 2.3. Diesel smoke
+Indicate the latest amending regulatory act applicable to the approval. In case the regulatory act has two or more implementation stages, indicate also the implementation stage:
+
+| Variant/Version: | … | … | … |
+|---|---|---|---|
+| Corrected value of the absorption coefficient (m-1) | … | … | … |
+| Normal engine idling speed | … | … | … |
+| Maximum engine speed | … | … | … |
+| Oil temperature (min./max.) | … | … | … | 3. Results of the CO2 emission, fuel/electric energy consumption, and electric range tests
+Number of the base regulatory act and the latest amending regulatory act applicable to the approval:
+
+| Variant/Version: | … | … | … |
+|---|---|---|---|
+| CO2 mass emission (urban conditions) (g/km) | … | … | … |
+| CO2 mass emission (extra-urban conditions) (g/km) | … | … | … |
+| CO2 mass emission (combined) (g/km) | … | … | … |
+| Fuel consumption (urban conditions) (l/100 km) (7) | … | … | … |
+| Fuel consumption (extra-urban conditions) (l/100 km) (7) | … | … | … |
+| Fuel consumption (combined) (l/100 km) (7) | … | … | … |
+
+| Variant/Version: | … | … | … |
+|---|---|---|---|
+| CO2 mass emission (Condition A, combined) (g/km) | … | … | … |
+| CO2 mass emission (Condition B, combined) (g/km) | … | … | … |
+| CO2 mass emission (weighted, combined) (g/km) | … | … | … |
+| Fuel consumption (Condition A, combined) (l/100 km) (g) | … | … | … |
+| Fuel consumption (Condition B, combined) (l/100 km) (g) | … | … | … |
+| Fuel consumption (weighted, combined) (l/100 km) (g) | … | … | … |
+| Electric energy consumption (Condition A, combined) (Wh/km) | … | … | … |
+| Electric energy consumption (Condition B, combined) (Wh/km) | … | … | … |
+| Electric energy consumption (weighted and combined) (Wh/km) | … | … | … |
+| Pure electric range (km) | … | … | … |
+
+| Variant/Version: | … | … | … |
+|---|---|---|---|
+| Electric energy consumption (Wh/km) | … | … | … |
+| Range (km) | … | … | … |
+
+| Variant/Version: | … | … | … |
+|---|---|---|---|
+| Fuel consumption (kg/100 km) | … | … | … |
+
+{{IMAGE:Image_3, Caption:Mathematical formula representing a calculation sequence: ((1 - 2) - (3 - 4)) * 5.}} xxxx/201x
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+Total CO2 emissions saving (g/km) (7) …
+4.1. General code of the eco-innovation(s) (8) Explanatory notes
+(h) Eco-innovations. (1) When restrictions for the fuel are applicable, indicate these restrictions (e.g. for natural gas the L range or the H range). (2) For bi fuel vehicles, the table shall be repeated for both fuels. (3) For flex fuel vehicles, when the test is to be performed on both fuels, according to Figure I.2.4 of Annex I to Regulation (EC) No 692/2008, and for vehicles running on LPG or NG/Biomethane, either bi-fuel or mono-fuel, the table shall be repeated for the different reference gases used in the test, and an additional table shall display the worst results obtained. When applicable, in accordance with sections 1.1.2.4 and 1.1.2.5 of Annex I to Regulation (EC) No 692/2008, it shall be shown if the results are measured or calculated. (1) Delete where not applicable. (2) If applicable. (4) For Euro VI, ESC shall be understood as WHSC andETC as WHTC. (5) For Euro VI, if CNG and LPG fuelled engines are tested on different reference fuels, the table shall be reproduced for each reference fuel tested. (6) Repeat the table for each reference fuel tested. (7) The unit "l/100 km" is replaced by "m3/100 km" for vehicles fuelled with NG and H2NG, and by "kg/100 km" for vehicles fuelled with hydrogen. (1) 
+(h1)
+Repeat the table for each Variant/Version. (2) 
+(h2)
+Repeat the table for each reference fuel tested. (3) 
+(h3)
+Expand the table if necessary, using one extra row per eco-innovation. (4) 
+(h4)
+Number of the Commission Decision approving the eco-innovation. (5) 
+(h5)
+Assigned in the Commission Decision approving the eco-innovation. (6) 
+(h6)
+If a modelling methodology is applied instead of the type 1 test cycle, this value shall be the one provided by the modelling methodology. (7) 
+(h7)
+Sum of the CO2 emissions savings of each individual eco-innovation. (8) 
+(h8)
+(The general code of the eco-innovation(s) shall consist of the following elements each separated by a blank space:
+ANNEX III
+ANNEX III
+Annexes I and XII to Regulation (EC) No 692/2008 are amended as follows: (1) Annex I is amended as follows: (a) the following points 4.3.5, 4.3.5.1 and 4.3.5.2 are inserted: '4.3.5. Vehicle fitted with eco-innovations
+4.3.5.1. In the case of a vehicle type fitted with one or more eco-innovations, within the meaning of Article 12 of Regulation (EC) No 443/2009 and Implementing Regulation (EU) No 725/2011, the conformity of production shall be demonstrated with respect to the eco-innovations, by performing the tests provided for in the Commission Decision(s) approving the eco-innovation(s) in question. 4.3.5.2. Points 4.3.1., 4.3.2. and 4.3.4 shall apply.'; (b) in the Appendix 3, the following points 3.5.3, 3.5.3.1, 3.5.3.2 and 3.5.3.3 are inserted: {{IMAGE:Image_3, Caption:Mathematical formula representing a calculation sequence: ((1 - 2) - (3 - 4)) * 5.}} xxxx/201x (1) 
+Total CO2 emissions saving (g/km) (4) 
+(*1) Delete where not applicable." (*2) If applicable." (*1) Delete where not applicable." (*3) Repeat the table for each reference fuel tested." (*4) Expand the table if necessary, using one extra row per eco-innovation.';" (c) Addendum to Appendix 4 is amended as follows: (i) in point 2.1, the table corresponding to the Type 6 test is replaced by the following:
+
+(ii) point 2.1.1 is replaced by the following: 2.1.1. For bi fuel vehicles, the type 1 table shall be repeated for both fuels. For flex fuel vehicles, when the type 1 test is to be performed on both fuels according to Figure I.2.4 of Annex I to Regulation (EC) No 692/2008, and for vehicles running on LPG or NG/Biomethane, either mono fuel or bi fuel, the table shall be repeated for the different reference gases used in the test, and an additional table shall display the worst results obtained. When applicable, in accordance with sections 1.1.2.4 and 1.1.2.5 of Annex I to Regulation (EC) No 692/2008, it shall be shown if the results are measured or calculated.'; (iii) the following points 2.6 and 2.6.1 are inserted: {{IMAGE:Image_3, Caption:Mathematical formula representing a calculation sequence: ((1 - 2) - (3 - 4)) * 5.}} xxxx/201x
+Total CO2 emissions saving (g/km) (8) 
+2.6.1. General code of the eco-innovation(s) (*7)
+(*5) Repeat the table for each reference fuel tested." (*6) Expand the table if necessary, using one extra row per eco-innovation." (*7)
+ The general code of the eco-innovation(s) shall consist of the following elements each separated by a blank space: —
+Code of the type approval authority as defined in Annex VII to Directive 2007/46/EC,
+—
+Individual code of each eco-innovation fitted in the vehicle, indicated in chronological order of the Commission approval decisions. E.g. the general code of three eco-innovations approved chronologically as 10, 15 and 16 and fitted to a vehicle certified by the German type approval authority should be: "e1 10 15 16".)';
+"
+(2) In Annex XII the following point 4 is added: '4. TYPE-APPROVAL OF VEHICLES FITTED WITH ECO-INNOVATIONS
+4.1. According to Article 11(1) of Implementing Regulation (EU) No 725/2011, a manufacturer that wants to benefit from a reduction of its average specific CO2 emissions, as result of the savings achieved by one or more eco-innovations fitted in a vehicle, shall apply to an approval authority for an EC type-approval certificate of the vehicle fitted with the eco-innovations. 4.2. The CO2 emissions savings from the vehicle fitted with eco-innovations shall, for the purpose of type-approval, be determined using the procedure and testing methodology specified in the decision by the Commission approving the eco-innovation, in accordance with Article 10 of Implementing Regulation (EU) No 725/2011. 4.3. The performance of the necessary tests for the determination of the CO2 emission savings achieved by the eco-innovations, shall be understood without prejudice of the demonstration of compliance of the eco-innovations with the technical prescriptions laid down in Directive 2007/46/EC, if applicable. 4.4. The type-approval shall not be awarded if the eco-innovation vehicle does not show a minimum of 1 g CO2/km of emissions reduction with respect to the baseline vehicle, as defined in article 5 of Implementing Regulation (EU) No 725/2011.'. (*1) Delete where not applicable. (*2) If applicable. (*3) Repeat the table for each reference fuel tested. (*4) Expand the table if necessary, using one extra row per eco-innovation.'; (*5) Repeat the table for each reference fuel tested. (*6) Expand the table if necessary, using one extra row per eco-innovation. (*7) The general code of the eco-innovation(s) shall consist of the following elements each separated by a blank space:' —
+Code of the type approval authority as defined in Annex VII to Directive 2007/46/EC,
+—
+Individual code of each eco-innovation fitted in the vehicle, indicated in chronological order of the Commission approval decisions. E.g. the general code of three eco-innovations approved chronologically as 10, 15 and 16 and fitted to a vehicle certified by the German type approval authority should be: "e1 10 15 16".)';
+(1) Number of the Commission Decision approving the eco-innovation. (2) Assigned in the Commission Decision approving the eco-innovation. (3) Under agreement of the type-approval authority, if modelling is applied instead of the type 1 test-cycle, this value shall be the one provided by the modelling methodology. (4) Sum of the emission s saving of each individual eco-innovation. (5) Number of the Commission Decision approving the eco-innovation. (6) Assigned in the Commission Decision approving the eco-innovation. (7) If modelling is applied instead of the type 1 test-cycle, this value shall be the one provided by the modelling methodology. (8) Sum of the emission s saving of each individual eco-innovation.
+ANNEX I
+ANNEX I
+Annexes I and IX to Directive 2007/46/EC are amended as follows:
+
+(1) Annex I is amended as follows: (a) the following points 3.5.3, 3.5.3.1, 3.5.3.2 and 3.5.3.3 are inserted: {{IMAGE:Image_3, Caption:Mathematical formula representing a calculation sequence: ((1 - 2) - (3 - 4)) * 5.}} xxxx/201x
+Total CO2 emissions saving (g/km)(w5)' (b) in the Explanatory notes, the following explanatory notes are added: '(w) Eco-innovations. (w1)
+Expand the table if necessary, using one extra row per eco-innovation. (w2)
+Number of the Commission Decision approving the eco-innovation. (w3)
+Assigned in the Commission Decision approving the eco-innovation. (w4)
+Under agreement of the type-approval authority, if a modelling methodology is applied instead of the type 1 test cycle, this value shall be the one provided by the modelling methodology. (w5)
+Sum of the CO2 emissions savings of each individual eco-innovation.'; (2) Annex IX is amended as follows: (a) in Part I, Model B — Side 2 — Vehicle category M1 (complete and completed vehicles), the following entries 49.3, 49.3.1 and 49.3.2 are inserted: 49.3. Vehicle fitted with eco-innovation(s): yes/no (1) 49.3.1. General code of the eco-innovation(s) (p1)
+49.3.2. Total CO2 emissions saving due to the eco-innovation(s) (p2) (repeat for each reference fuel tested)'; (b) in the Explanatory notes relating to Annex IX, the following explanatory notes are added: '(p) Eco-innovations. (p1)
+The general code of the eco-innovation(s) shall consist of the following elements each separated by a blank space: —
+Code of the approval authority as defined in Annex VII to this Directive,
+—
+Individual code of each eco-innovation fitted in the vehicle, indicated in chronological order of the Commission approval decisions. (E.g. the general code of three eco-innovations approved chronologically as 10, 15 and 16 and fitted to a vehicle certified by the German type approval authority should be: "e1 10 15 16".). (p2)
+Sum of the CO2 emissions savings of each individual eco-innovation.'.
+Article 1
+Annexes I and IX to Directive 2007/46/EC are amended in accordance with Annex I to this Regulation.
+Article 2
+Annex VIII to Directive 2007/46/EC is replaced as set out in Annex II to this Regulation.
+Article 3
+Annexes I and XII to Regulation (EC) No 692/2008 are amended in accordance with Annex III to this Regulation.
+Article 4
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+(8) 
+(h8)
+(The general code of the eco-innovation(s) shall consist of the following elements each separated by a blank space:
+
+—
+Code of the approval authority as defined in Annex VII to this Directive,
+—
+Individual code of each eco-innovation fitted in the vehicle, indicated in chronological order of the Commission approval decisions. E.g. the general code of three eco-innovations approved chronologically as 10, 15 and 16 and fitted to a vehicle certified by the German type approval authority should be: "e1 10 15 16".)'.

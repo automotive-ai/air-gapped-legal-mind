@@ -1,0 +1,63 @@
+recital 6
+(6) It is therefore necessary to establish the position to be adopted on behalf of the Union in the Administrative Committee of the Revised 1958 Agreement and in the Executive Committee of the Parallel Agreement, as regards the adoption of those UN acts,
+HAS ADOPTED THIS DECISION:
+recital 5
+(5) In order to improve the relevant safety provisions for motor vehicles, a new UN Regulation on frontal impact should be adopted; in order to harmonise vehicle powertrain definitions, a new Mutual Resolution No 2 (M.R.2) on vehicle powertrain definitions should also be adopted.
+recital 4
+(4) In the light of experience and technical developments, the requirements relating to certain elements or features covered by UN Regulations Nos 12, 16, 26, 39, 44, 46, 58, 61, 74, 83, 85, 94, 95, 97, 98, 99, 100, 101, 106, 107, 110, 116 and 127, as well as Consolidated Resolution on the Construction of Vehicles (R.E.3) need to be adapted for technical progress.
+recital 3
+(3) Directive 2007/46/EC of the European Parliament and of the Council (3) replaced the approval systems of the Member States with a Union approval procedure and established a harmonised framework containing administrative provisions and general technical requirements for all new vehicles, systems, components and separate technical units.
+
+That Directive incorporated UN regulations in the EU type-approval system, either as requirements for type-approval or as alternatives to Union legislation. Since the adoption of that Directive, UN regulations have increasingly been incorporated into Union legislation in the framework of the EU type-approval.
+recital 2
+(2) In accordance with Council Decision 2000/125/EC (2), the Union acceded to the Agreement concerning the establishing of global technical regulations for wheeled vehicles, equipment and parts which can be fitted and/or be used on wheeled vehicles ('Parallel Agreement').
+recital 1
+(1) In accordance with Council Decision 97/836/EC (1), the Union acceded to the Agreement of the United Nations Economic Commission for Europe (UNECE) concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions ('Revised 1958 Agreement').
+citation
+THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114, in conjunction with Article 218(9) thereof,
+Having regard to the proposal from the European Commission,
+Whereas:
+Introduction
+THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114, in conjunction with Article 218(9) thereof,
+Having regard to the proposal from the European Commission,
+Whereas:
+
+(1) In accordance with Council Decision 97/836/EC (1), the Union acceded to the Agreement of the United Nations Economic Commission for Europe (UNECE) concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions ('Revised 1958 Agreement'). (2) In accordance with Council Decision 2000/125/EC (2), the Union acceded to the Agreement concerning the establishing of global technical regulations for wheeled vehicles, equipment and parts which can be fitted and/or be used on wheeled vehicles ('Parallel Agreement'). (3) Directive 2007/46/EC of the European Parliament and of the Council (3) replaced the approval systems of the Member States with a Union approval procedure and established a harmonised framework containing administrative provisions and general technical requirements for all new vehicles, systems, components and separate technical units. That Directive incorporated UN regulations in the EU type-approval system, either as requirements for type-approval or as alternatives to Union legislation. Since the adoption of that Directive, UN regulations have increasingly been incorporated into Union legislation in the framework of the EU type-approval. (4) In the light of experience and technical developments, the requirements relating to certain elements or features covered by UN Regulations Nos 12, 16, 26, 39, 44, 46, 58, 61, 74, 83, 85, 94, 95, 97, 98, 99, 100, 101, 106, 107, 110, 116 and 127, as well as Consolidated Resolution on the Construction of Vehicles (R.E.3) need to be adapted for technical progress. (5) In order to improve the relevant safety provisions for motor vehicles, a new UN Regulation on frontal impact should be adopted; in order to harmonise vehicle powertrain definitions, a new Mutual Resolution No 2 (M.R.2) on vehicle powertrain definitions should also be adopted. (6) It is therefore necessary to establish the position to be adopted on behalf of the Union in the Administrative Committee of the Revised 1958 Agreement and in the Executive Committee of the Parallel Agreement, as regards the adoption of those UN acts,
+HAS ADOPTED THIS DECISION:
+Article 2
+This Decision shall enter into force on the date of its adoption.
+Article 1
+The position to be adopted on behalf of the Union in the Administrative Committee of the Revised 1958 Agreement and in the Executive Committee of the Parallel Agreement during the period from 9 to 13 November 2015 shall be to vote in favour of the proposals listed in the Annex to this Decision.
+| Proposal for Supplement 4 to the 04 series of amendments to Regulation No 12 (Steering mechanism) | ECE/TRANS/WP.29/2015/92 |
+|---|---|
+| Proposal for Supplement 6 to the 06 series of amendments to Regulation No 16 (Safety-belts) | ECE/TRANS/WP.29/2015/93 |
+| Proposal for Supplement 3 to the 03 series of amendments to Regulation No 26 (External projections) | ECE/TRANS/WP.29/2015/82 |
+| Proposal for the 01 series of amendments to Regulation No 39 (Speedometer and odometer) | ECE/TRANS/WP.29/2015/83 |
+| Proposal for Supplement 10 to the 04 series of amendments to Regulation No 44 (Child restraint systems) | ECE/TRANS/WP.29/2015/94 |
+| Proposal for Supplement 2 to the 04 series of amendments to Regulation No 46 (Devices for indirect vision) | ECE/TRANS/WP.29/2015/84 |
+| Proposal for the 03 series of amendments to Regulation No 58 (Rear underrun protection) | ECE/TRANS/WP.29/2015/85 |
+| Proposal for Supplement 3 to Regulation No 61 (External projections of commercial vehicles) | ECE/TRANS/WP.29/2015/86 |
+| Proposal for Corrigendum 1 to Supplement 8 to the 01 series of amendments to Regulation No 74 (Installation of lighting and light-signalling devices (mopeds)) | ECE/TRANS/WP.29/2015/79 |
+| Proposal for Supplement 11 to the 05 series of amendments to Regulation No 83 (Emissions of M1 and N1 vehicles) | ECE/TRANS/WP.29/2015/100 |
+| Proposal for Supplement 6 to the 06 series of amendments to Regulation No 83 (Emissions of M1 and N1 vehicles) | ECE/TRANS/WP.29/2015/101 |
+| Proposal for Supplement 7 to the original version of Regulation No 85 (Measurement of the net power) | ECE/TRANS/WP.29/2015/102 |
+| Proposal for Supplement 6 to the 02 series of amendments to Regulation No 94 (Frontal collision) | ECE/TRANS/WP.29/2015/95 |
+| Proposal for 03 series of amendments to Regulation No 94 (Frontal collision) | ECE/TRANS/WP.29/2015/96 |
+| Proposal for Supplement 5 to the 03 series of amendments to Regulation No 95 (Lateral collision) | ECE/TRANS/WP.29/2015/97 |
+| Proposal for Supplement 8 to the 01 series of amendments to Regulation No 97 (Vehicle alarm systems) | ECE/TRANS/WP.29/2015/87 |
+| Proposal for Supplement 7 to the 01 series of amendments to Regulation No 98 (Headlamps with gas-discharge light sources) | ECE/TRANS/WP.29/2015/80 |
+| Proposal for Supplement 11 to Regulation No 99 (Gas discharge light sources) | ECE/TRANS/WP.29/2015/81 |
+| Proposal for Supplement 3 to the 02 series of amendments to Regulation No 100 (Electric power trained vehicles) | ECE/TRANS/WP.29/2015/98 |
+| Proposal for Supplement 6 to the 01 series of amendments to Regulation No 101 (CO2 emissions/fuel consumption) | ECE/TRANS/WP.29/2015/103 |
+| Proposal for Supplement 13 to Regulation No 106 (Tyres for agricultural vehicles) | ECE/TRANS/WP.29/2015/109 |
+| Proposal for Supplement 4 to the 06 series of amendments to Regulation No 107 (General construction of buses and coaches) | ECE/TRANS/WP.29/2015/88 |
+| Proposal for Supplement 4 to the 05 series of amendments to Regulation No 107 (General construction of buses and coaches) | ECE/TRANS/WP.29/2015/104 |
+| Proposal for Supplement 4 to the 01 series of amendments to Regulation No 110 (Specific components for CNG/LNG) | ECE/TRANS/WP.29/2015/89 |
+| Proposal for Supplement 5 to Regulation No 116 (Vehicle alarm systems) | ECE/TRANS/WP.29/2015/91 |
+| Proposal for 02 series of amendments to Regulation No 127 (Pedestrian safety) | ECE/TRANS/WP.29/2015/99 |
+| Proposal for a new Regulation on frontal impact with focus on restraint systems | ECE/TRANS/WP.29/2015/105 |
+| Proposal for 01 series of amendments to the new Regulation on frontal impact with focus on restraint systems | ECE/TRANS/WP.29/2015/106 |
+| Proposal for amendments to the Consolidated Resolution on the Construction of Vehicles (R.E.3) | ECE/TRANS/WP.29/2015/111 |
+| Proposal for a new Mutual Resolution No 2 (M.R.2) on vehicle powertrain definitions | ECE/TRANS/WP.29/2015/110 |

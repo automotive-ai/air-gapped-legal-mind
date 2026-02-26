@@ -1,0 +1,4 @@
+streamlit==1.32.0
+torch
+sentence-transformers==2.5.1
+ollama==0.1.7

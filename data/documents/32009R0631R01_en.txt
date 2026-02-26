@@ -1,0 +1,10 @@
+Introduction
+Corrigendum to Commission Regulation (EC) No 631/2009 of 22 July 2009 laying down detailed rules for the implementation of Annex I to Regulation (EC) No 78/2009 of the European Parliament and of the Council on the type-approval of motor vehicles with regard to the protection of pedestrians and other vulnerable road users, amending Directive 2007/46/EC and repealing Directives 2003/102/EC and 2005/66/EC
+(
+Official Journal of the European Union L 195 of 25 July 2009
+)
+On page 20, Annex, Part II, Chapter 4: Upper legform to bonnet leading edge test, Figure 4 is replaced as follows:
+Figure 4
+{{IMAGE:Image_0, Caption:Figure 4: Velocity of upper legform to bonnet leading edge tests with respect to vehicle shape, plotting impact velocity curves against bumper lead and bonnet leading edge height.}} On page 42, Annex, Part IV, Chapter IV: Upper legform to Frontal Protection System Leading Edge test, Figure 4 is replaced as follows:
+Figure 4
+{{IMAGE:Image_1, Caption:Figure 4: Chart determining the impact velocity for upper legform to bonnet leading edge tests based on vehicle shape parameters. The curves indicate specific impact velocities (ranging from 5,56 m/s to 11,1 m/s) as a function of the vertical height to the impact point and the frontal protection system lead.}}

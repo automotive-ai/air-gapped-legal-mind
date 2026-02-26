@@ -1,0 +1,100 @@
+recital 5
+(5) Implementing Decision (EU) 2018/1986 should therefore be amended accordingly.
+recital 1
+(1) Regulation (EC) No 1224/2009 establishes rules for the control of all activities covered by the common fisheries policy carried out on the territory of Member States or in Union waters or by Union fishing vessels or, without prejudice to the primary responsibility of the flag Member State, by nationals of Member States.
+Article 1
+Article 10 of Implementing Decision (EU) 2018/1986 is amended as follows:
+
+(1) in paragraph 1, the first subparagraph is replaced by the following: '1. For the purpose of implementing the specific control and inspection programmes, each Member State concerned shall ensure the electronic exchange with other Member States concerned and EFCA of data related to fishing activities and fishing related activities covered by the specific control and inspection programmes. The Commission shall have access to the data exchanged pursuant to this subparagraph.'; (2) paragraph 2 is replaced by the following: '2. Data exchanged pursuant to paragraph 1 may include personal data. EFCA, the Commission and Member States may process personal data to which they have access pursuant to paragraph 1 for the purposes of complying with their tasks and obligations under the specific control and inspection programmes. EFCA, the Commission and Member States shall take, in accordance with Article 5 of Regulation (EU) 2016/679 and Article 4 of Regulation (EU) 2018/1725, measures to ensure appropriate protection of personal data.'; (3) paragraph 6 is replaced by the following: '6. EFCA, the Commission and the Member State authorities shall ensure the security of the processing of personal data that takes place pursuant to this Decision. EFCA and the Member State authorities shall cooperate on security-related tasks.'; (4) paragraph 7 is replaced by the following: '7. EFCA, the Commission and Member States shall take measures to ensure appropriate protection of the confidentiality of the information received pursuant to this Decision in accordance with Article 113 of Regulation (EC) No 1224/2009.'.
+recital 6
+(6) The measures provided for in this Decision are in accordance with the opinion of the Committee for fisheries and aquaculture,
+HAS ADOPTED THIS DECISION:
+recital 2
+(2) In accordance with Article 95 of that Regulation, Commission Implementing Decision (EU) 2018/1986 (3) provides for specific control and inspection programmes for specific fisheries and sea basins.
+ANNEX
+ANNEX
+'ANNEX I
+DETAILS ON THE SPECIFIC CONTROL AND INSPECTION PROGRAMME FOR FISHERIES EXPLOITING ICCAT
+(1) SPECIES IN THE EASTERN ATLANTIC AND THE MEDITERRANEAN SEA AND FOR CERTAIN DEMERSAL AND PELAGIC FISHERIES IN THE MEDITERRANEAN SEA
+(1) 
+This specific control and inspection programme shall cover the geographical areas defined as follows:
+
+(a) "Eastern Atlantic" means International Council for the Exploration of the Seas (ICES (2)) subareas 7, 8, 9, 10 as defined in Annex III to Regulation (EC) No 218/2009 of the European Parliament and of the Council (3) and FAO (4) division 34.1.2; (b) "Mediterranean" means FAO subareas 37.1, 37.2 and 37.3 or geographical sub-areas 1 to 27 as defined in Annex I to Regulation (EU) No 1343/2011 of the European Parliament and of the Council (5); (c) "Northern Adriatic" and "Southern Adriatic" means the geographical subareas 17 and 18 as defined in Annex I to Regulation (EU) No 1343/2011; (d) "Strait of Sicily" means the geographical sub-areas 12, 13, 14, 15, and 16, as defined in Annex I to Regulation (EU) No 1343/2011; (e) "Ionian Sea" means the geographical subareas subareas 19, 20 and 21 as defined in Annex I to Regulation (EU) No 1343/2011; (f) "Levant Sea" means the geographical subareas subareas 24, 25, 26 and 27 as defined in Annex I to Regulation (EU) No 1343/2011; (g) "Alboran Sea" means the geographical sub-areas 1 to 3 as defined in Annex 1 to Regulation (EU) No 1343/2011. (2) 
+The Member States concerned are Croatia, Cyprus, France, Greece, Italy, Malta, Portugal, Slovenia and Spain. (3) 
+The following fisheries shall be considered: —
+Fisheries (including recreational) exploiting stocks of bluefin tuna in the Eastern Atlantic and the Mediterranean,
+—
+Fisheries (including recreational) exploiting Swordfish in the Mediterranean,
+—
+Fisheries exploiting Albacore in the Mediterranean,
+—
+Fisheries exploiting sardine and anchovy in the Northern and Southern Adriatic,
+—
+Fisheries exploiting European hake (Merluccius merluccius) in the Strait of Sicily and in GFCM subareas 1, 5, 6, 7 and 9, 10, 11 and in the Northern Adriatic and Southern Adriatic,
+—
+Fisheries exploiting deep-water rose shrimp (Parapenaeus longirostris) in the Strait of Sicily, and in GFCM subareas 1, 5, 6 and 9, 10, 11 and in the Northern Adriatic and Southern Adriatic,
+—
+Fisheries exploiting deep-sea shrimps in the Levant and Ionian Sea,
+—
+Fisheries exploiting blue and red shrimp (Aristeus antennatus) in GFCM subareas 1, 5, 6, 7 and in the Strait of Sicily,
+—
+Fisheries exploiting giant red shrimp (Aristaeomorpha foliacea) in GFCM subareas 9, 10, 11 and in the Strait of Sicily,
+—
+Fisheries exploiting Norway lobster (Nephrops norvegicus) in GFCM subareas 5, 6, 9, 11 and in the Northern Adriatic and Southern Adriatic,
+—
+Fisheries exploiting red mullet (Mullus barbatus) in GFCM subareas 1, 5, 6, 7, 9, 10, 11 and in the Northern Adriatic and Southern Adriatic,
+—
+Fisheries exploiting blackspot seabream in the Alboran Sea,
+—
+Fisheries exploiting common sole in in GFCM subarea 17,
+—
+Fisheries exploiting red coral in the Mediterranean,
+—
+Fisheries exploiting dolphinfish fisheries in the international waters of the Mediterranean,
+—
+Fisheries exploiting European eel of the species Anguilla anguilla in Union waters of the Mediterranean,
+—
+Fisheries exploiting species under the landing obligation pursuant to Article 15 of Regulation (EU) No 1380/2013. (4) 
+Target benchmarks for inspections
+The following benchmarks shall be implemented by the Member States specified in point 2 of this Annex. (a) Inspections activities at sea: On a yearly basis at least 60 % of total inspections at sea (excluding aerial surveillance) shall be conducted on fishing vessels belonging to the fleet segments in the two highest risk level categories identified according to Article 5(1) and 5(2) ensuring that both these fleet segments are adequately and proportionally covered. (b) Inspections at landing (inspections in ports and before first sale):
+On a yearly basis at least 60 % of total inspections at landing shall be conducted on fishing vessels belonging to the fleet segments in the two highest risk level categories identified according to Article 5(1) and 5(2) ensuring that both these fleet segments are adequately and proportionally covered. (c) Inspections in traps and farming installations related to fisheries exploiting stocks of bluefin tuna in the Eastern Atlantic and the Mediterranean: On a yearly basis 100 % of caging and transfer operations at traps and farm installations, including release of fish, shall be inspected. 'ANNEX II
+DETAILS ON THE SPECIFIC CONTROL AND INSPECTION PROGRAMME FOR CERTAIN FISHERIES IN THE BLACK SEA
+(1) 
+This specific control and inspection programme shall cover the geographical areas defined as follows: Union waters of "Black Sea" where "Black Sea" means the GFCM (General Fisheries Commission for the Mediterranean) geographical sub-area 29 as defined in Annex I to Regulation (EU) No 1343/2011. (2) 
+The Member States concerned are Bulgaria and Romania. (3) 
+The following fisheries shall be considered: —
+Fisheries exploiting turbot in the Black Sea,
+—
+Fisheries exploiting sprat in the Black Sea,
+—
+Fisheries exploiting species under the landing obligation pursuant to Article 15 of Regulation (EU) No 1380/2013. (4) 
+Target benchmarks for inspections
+The following benchmarks shall be implemented by the Member States specified in point 2 of this Annex. (a) Inspections activities at sea: On a yearly basis at least 60 % of total inspections at sea (excluding aerial surveillance) shall be conducted on fishing vessels belonging to the fleet segments in the two highest risk level categories identified according to Article 5(1) and 5(2) ensuring that both these fleet segments are adequately and proportionally covered. (b) Inspections at landing (inspections in ports and before first sale):
+On a yearly basis at least 60 % of total inspections at landing shall be conducted on fishing vessels belonging to the fleet segments in the two highest risk level categories identified according to Article 5(1) and 5(2) ensuring that both these fleet segments are adequately and proportionally covered. ' (1) International Commission for the conservation of Atlantic Tunas. (2) ICES (International Council for the Exploration of the Sea) zones are as defined in Regulation (EC) No 218/2009 of the European Parliament and of the Council of 11 March 2009 on the submission of nominal catch statistics by Member States fishing in the north-east Atlantic (OJ L 87, 31.3.2009, p. 70). (3) Regulation (EC) No 218/2009 of the European Parliament and of the Council of 11 March 2009 on the submission of nominal catch statistics by Member States fishing in the north-east Atlantic (OJ L 87, 31.3.2009, p. 70). (4) UN Food and Agriculture Organisation. (5) Regulation (EU) No 1343/2011 of the European Parliament and of the Council of 13 December 2011 on certain provisions for fishing in the GFCM (General Fisheries Commission for the Mediterranean) Agreement area and amending Council Regulation (EC) No 1967/2006 concerning management measures for the sustainable exploitation of fishery resources in the Mediterranean Sea (OJ L 347, 30.12.2011, p. 44).
+Introduction
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EC) No 1224/2009 of 20 November 2009 establishing a Union control system for ensuring compliance with the rules of the common fisheries policy, amending Regulations (EC) No 847/96, (EC) No 2371/2002, (EC) No 811/2004, (EC) No 768/2005, (EC) No 2115/2005, (EC) No 2166/2005, (EC) No 388/2006, (EC) No 509/2007, (EC) No 676/2007, (EC) No 1098/2007, (EC) No 1300/2008, (EC) No 1342/2008 and repealing Regulations (EEC) No 2847/93, (EC) No 1627/94 and (EC) No 1966/2006 (1), and in particular Article 95 thereof,
+Having regard to Regulation (EU) 2019/473 of the European Parliament and of the Council of 19 March 2019 on the European Fisheries Control Agency (2), and in particular Article 17(1) thereof,
+Whereas:
+
+(1) Regulation (EC) No 1224/2009 establishes rules for the control of all activities covered by the common fisheries policy carried out on the territory of Member States or in Union waters or by Union fishing vessels or, without prejudice to the primary responsibility of the flag Member State, by nationals of Member States. (2) In accordance with Article 95 of that Regulation, Commission Implementing Decision (EU) 2018/1986 (3) provides for specific control and inspection programmes for specific fisheries and sea basins. (3) In order to reflect recently adopted Union fisheries conservation and management measures (4), and recommendations (5) of the General Fisheries Commission for the Mediterranean (GFCM), the scope of Implementing Decision (EU) 2018/1986 establishing specific control and inspection programmes for certain fisheries for the Mediterranean Sea and the Black Sea, should be extended to fisheries exploiting European hake, deep-water rose shrimp, blue and red shrimp, giant red shrimp, Norway lobster, red mullet, blackspot seabream, common sole, red coral, dolphinfish and sprat. For reasons of clarity, it is appropriate to provide for a definition of Ionian Sea, Levant Sea and Alboran Sea. (4) Joint inspection and surveillance activities between the Member States concerned are carried out, where applicable, in accordance with joint deployment plans established by the European Fisheries Control Agency according to Articles 9 and 10 of Regulation (EU) 2019/473. In order for the Commission to perform its obligations under Regulation (EC) No 1224/2009, and according to Article 17(1) of Regulation (EU) 2019/473 the Commission should have access to information exchanged in the frame of the joint inspection and surveillance activities. (5) Implementing Decision (EU) 2018/1986 should therefore be amended accordingly. (6) The measures provided for in this Decision are in accordance with the opinion of the Committee for fisheries and aquaculture,
+HAS ADOPTED THIS DECISION:
+Article 3
+This Decision shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+Article 2
+Annexes I and II to Implementing Decision (EU) 2018/1986 are replaced by the text in the Annex to this Decision.
+recital 4
+(4) Joint inspection and surveillance activities between the Member States concerned are carried out, where applicable, in accordance with joint deployment plans established by the European Fisheries Control Agency according to Articles 9 and 10 of Regulation (EU) 2019/473.
+
+In order for the Commission to perform its obligations under Regulation (EC) No 1224/2009, and according to Article 17(1) of Regulation (EU) 2019/473 the Commission should have access to information exchanged in the frame of the joint inspection and surveillance activities.
+recital 3
+(3) In order to reflect recently adopted Union fisheries conservation and management measures (4), and recommendations (5) of the General Fisheries Commission for the Mediterranean (GFCM), the scope of Implementing Decision (EU) 2018/1986 establishing specific control and inspection programmes for certain fisheries for the Mediterranean Sea and the Black Sea, should be extended to fisheries exploiting European hake, deep-water rose shrimp, blue and red shrimp, giant red shrimp, Norway lobster, red mullet, blackspot seabream, common sole, red coral, dolphinfish and sprat.
+
+For reasons of clarity, it is appropriate to provide for a definition of Ionian Sea, Levant Sea and Alboran Sea.
+citation
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EC) No 1224/2009 of 20 November 2009 establishing a Union control system for ensuring compliance with the rules of the common fisheries policy, amending Regulations (EC) No 847/96, (EC) No 2371/2002, (EC) No 811/2004, (EC) No 768/2005, (EC) No 2115/2005, (EC) No 2166/2005, (EC) No 388/2006, (EC) No 509/2007, (EC) No 676/2007, (EC) No 1098/2007, (EC) No 1300/2008, (EC) No 1342/2008 and repealing Regulations (EEC) No 2847/93, (EC) No 1627/94 and (EC) No 1966/2006 (1), and in particular Article 95 thereof,
+Having regard to Regulation (EU) 2019/473 of the European Parliament and of the Council of 19 March 2019 on the European Fisheries Control Agency (2), and in particular Article 17(1) thereof,
+Whereas:
